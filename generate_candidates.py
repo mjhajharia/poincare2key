@@ -23,7 +23,7 @@ def candidates(graph):
     with open(r"stopwords.txt",'r', encoding="utf8") as File:
         for line in File.readlines():
             stopwords.append(str(line)[:-1])
-        for i in candidate_key:
-            if i in set(stopwords):
-                candidate_key.remove(i)
+    for i in candidate_key:
+        if i in set(stopwords):
+            candidate_key.remove(i)
     return candidate_key
