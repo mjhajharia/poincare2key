@@ -1,13 +1,9 @@
-import numpy as np
-import spacy
-import stanza
-
-from nltk.corpus import stopwords
-import networkx as nx
 import string
+
+import networkx as nx
+import stanza
 from pymagnitude import *
 
-import os
 from utils import read_json
 
 data_json_path = {
@@ -44,10 +40,12 @@ class LoadData:
 
     @staticmethod
     def __load_stopwords():
-        stop_words = stopwords.words('english')
-        stop_words.extend(["'s"])
+        stopwords = []
+        with open(r"stopwords_en_yake.txt", 'r', encoding="utf8") as File:
+            for line in File.readlines():
+                stopwords.append(str(line)[:-1])
 
-        return stop_words
+        return stopwords
 
     @staticmethod
     def __get_complete_graph(all_edges):
@@ -61,14 +59,14 @@ class LoadData:
 
         stop_words = self.__load_stopwords()
         punctuation = self.__load_punctuation()
-    
-        for i in range(len(id2word)-1):
-            for j in range(i+1, len(id2word)):
+
+        for i in range(len(id2word) - 1):
+            for j in range(i + 1, len(id2word)):
                 for k1, v1 in id2word[i].items():
-                    if v1 in stop_words+punctuation:
+                    if v1 in stop_words + punctuation or len(v1) < 4:
                         continue
                     for k2, v2 in id2word[j].items():
-                        if v2 in stop_words+punctuation:
+                        if v2 in stop_words + punctuation or len(v2) < 4:
                             continue
                         if v1.lower() == v2.lower():
                             complete_graph.append((str(k1), str(k2)))
@@ -89,8 +87,9 @@ class LoadData:
                             str(i) + '.' + str(word.id)] = word.lemma
 
                     if word.head > 0:
-                        edges.append((f'{sent.words[word.head - 1].text if word.head > 0 else "root"}.{i}.{word.head if word.head > 0 else "root"}',
-                                      f'{word.text}.{i}.{word.id}'))
+                        edges.append((
+                            f'{sent.words[word.head - 1].text if word.head > 0 else "root"}.{i}.{word.head if word.head > 0 else "root"}',
+                            f'{word.text}.{i}.{word.id}'))
 
             all_edges.append(edges)
             sentence_id2word.append(id2word)
@@ -126,7 +125,6 @@ class LoadData:
 
         word_vector_map = {}
 
-        # TODO Instead of try except can we give it a matrix of zeros
         for word in words:
             try:
                 # vector, (all other lemma except id)
@@ -135,4 +133,3 @@ class LoadData:
                 word_vector_map[word[-1]] = [np.zeros(self.vectors.dim), word[:-1]]
 
         return word_vector_map
-
