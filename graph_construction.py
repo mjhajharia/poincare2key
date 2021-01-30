@@ -6,6 +6,10 @@ from pymagnitude import *
 
 from utils import read_json
 
+from nltk.stem import PorterStemmer
+
+ps = PorterStemmer()
+
 data_json_path = {
     'marujo': 'mj.json',
     'hulth': 'ah.json',
@@ -55,55 +59,53 @@ class LoadData:
                 complete_graph.append(edge)
         return complete_graph
 
-    def __join_sentence_graphs(self, complete_graph, id2word):
+    def __join_sentence_graphs(self, complete_graph, all_words):
 
         stop_words = self.__load_stopwords()
         punctuation = self.__load_punctuation()
 
-        for i in range(len(id2word) - 1):
-            for j in range(i + 1, len(id2word)):
-                for k1, v1 in id2word[i].items():
+        all_words = list(all_words)
+
+        for i in range(len(all_words) - 1):
+            for j in range(i + 1, len(all_words)):
+                for v1 in all_words[i]:
                     if v1 in stop_words + punctuation or len(v1) < 4:
                         continue
-                    for k2, v2 in id2word[j].items():
+                    for v2 in all_words[j]:
                         if v2 in stop_words + punctuation or len(v2) < 4:
                             continue
                         if v1.lower() == v2.lower():
-                            complete_graph.append((str(k1), str(k2)))
+                            complete_graph.append((str(v1), str(v2)))
         return complete_graph
 
     def __get_edges_mapping(self, doc):
         all_edges = []
-        sentence_id2word = []
 
         punctuation = self.__load_punctuation()
-
+        all_words = set()
         for i, sent in enumerate(doc.sentences):
-            id2word = {}
             edges = []
             for word in sent.words:
                 if word.text not in punctuation:
-                    id2word[word.text + '.' +
-                            str(i) + '.' + str(word.id)] = word.lemma
+                    all_words.add(ps.stem(word.text))
 
                     if word.head > 0:
                         edges.append((
-                            f'{sent.words[word.head - 1].text if word.head > 0 else "root"}.{i}.{word.head if word.head > 0 else "root"}',
-                            f'{word.text}.{i}.{word.id}'))
+                            f'{ps.stem(sent.words[word.head - 1].text if word.head > 0 else "root").lower()}',
+                            f'{ps.stem(word.text).lower()}'))
 
             all_edges.append(edges)
-            sentence_id2word.append(id2word)
 
-        return all_edges, sentence_id2word
+        return all_edges, all_words
 
     def construct_graph(self, text_data):
         doc = self.nlp(text_data)
 
-        edges, id2word = self.__get_edges_mapping(doc)
+        edges, all_words = self.__get_edges_mapping(doc)
 
         complete_graph = self.__get_complete_graph(edges)
 
-        combined_graph = self.__join_sentence_graphs(complete_graph, id2word)
+        combined_graph = self.__join_sentence_graphs(complete_graph, all_words)
 
         return nx.DiGraph(combined_graph)
 
