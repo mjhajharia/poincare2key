@@ -4,9 +4,9 @@ from scipy import spatial
 
 
 class EdgeWeights:
-    def __init__(self, graph, word_vector_map):
-        self.graph = graph
+    def __init__(self, word_vector_map):
         self.word_vector_map = word_vector_map
+        self.graph = nx.complete_graph(len(word_vector_map))
         self.num_nodes = len(self.graph.nodes())
 
     def calculate_edge_weights(self, vector_one_id, vector_two_id):

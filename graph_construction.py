@@ -10,7 +10,8 @@ import os
 data_json_path = {
     'marujo': 'mj.json',
     'hulth': 'ah.json',
-    'sem-eval': 'se.json'
+    'sem-eval': 'se.json',
+    'semeval2017':'semeval2017.json'
 }
 
 
@@ -107,29 +108,31 @@ class LoadData:
 
         return nx.DiGraph(combined_graph)
 
-    # @staticmethod
-    # def vector_preprocess(doc):
-    #     lemmas = []
-    #     for i, sent in enumerate(doc.sentences):
-    #         for word in sent.words:
-    #             lemmas.append((word.lemma.lower(),
-    #                            word.pos,
-    #                            word.xpos,
-    #                            f'{word.text}.{i}.{word.id}'))
-    #     return lemmas
-    #
-    # def vectorization(self, text_data):
-    #     doc = self.nlp(text_data)
-    #
-    #     words = self.vector_preprocess(doc)
-    #
-    #     word_vector_map = {}
-    #
-    #     for word in words:
-    #         try:
-    #             # vector, (all other lemma except id)
-    #             word_vector_map[word[-1]] = [self.vectors.query(word[:-1]), word[:-1]]
-    #         except:
-    #             word_vector_map[word[-1]] = [np.zeros(self.vectors.dim), word[:-1]]
-    #
-    #     return word_vector_map
+    @staticmethod
+    def vector_preprocess(tokens, doc):
+        lemmas = []
+        for i, sent in enumerate(doc.sentences):
+            for word in sent.words:
+                    for i in tokens:
+                        if i==word.lower():
+                            lemmas.append((word.lemma.lower(),
+                                           word.pos,
+                                           word.xpos,
+                                           f'{word.text}.{i}.{word.id}'))
+        return lemmas
+    
+    def vectorization(self, text_data, tokens):
+        doc = self.nlp(text_data)
+    
+        words = self.vector_preprocess(tokens, doc)
+    
+        word_vector_map = {}
+    
+        for word in words:
+            try:
+                # vector, (all other lemma except id)
+                word_vector_map[word[-1]] = [self.vectors.query(word[:-1]), word[:-1]]
+            except:
+                word_vector_map[word[-1]] = [np.zeros(self.vectors.dim), word[:-1]]
+    
+        return word_vector_map
