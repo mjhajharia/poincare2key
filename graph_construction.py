@@ -1,39 +1,11 @@
 import string
 
 import networkx as nx
-import stanza
-# from pymagnitude import *
-
-from utils import read_json
-import os
-
-data_json_path = {
-    'marujo': 'mj.json',
-    'hulth': 'ah.json',
-    'sem-eval': 'se.json',
-    'semeval2017':'semeval2017.json'
-}
 
 
-class LoadData:
-    def __init__(self, config):
-        self.config = config
-        self.data_path = data_json_path[self.config['dataset']]
-        self.data_dir = self.config['data_dir']
-
-        self.data = read_json(os.path.join(self.data_dir, self.data_path))
-        self.nlp = self.__load_stanza()
-
-        # glove = Magnitude(os.path.join(self.data_dir, 'glove.6B.50d.magnitude'))
-        # pos_vectors = FeaturizerMagnitude(100, namespace="PartsOfSpeech")
-        # dependency_vectors = FeaturizerMagnitude(100, namespace="SyntaxDependencies")
-        # self.vectors = Magnitude(glove, pos_vectors, dependency_vectors)
-
-    @staticmethod
-    def __load_stanza():
-        preprocessors = 'tokenize,mwt,pos,lemma,depparse'
-
-        return stanza.Pipeline(lang='en', processors=preprocessors)
+class ConstructGraph:
+    def __init__(self, nlp):
+        self.nlp = nlp
 
     @staticmethod
     def __load_punctuation():
@@ -42,9 +14,9 @@ class LoadData:
     @staticmethod
     def __load_stopwords():
         stopwords = []
-        with open(r"stopwords_en_yake.txt", 'r', encoding="utf8") as File:
+        with open("data/stopwords_en_yake.txt", 'r', encoding="utf8") as File:
             for line in File.readlines():
-                stopwords.append(str(line)[:-1])
+                stopwords.append(str(line).strip())
 
         return stopwords
 
@@ -97,7 +69,7 @@ class LoadData:
 
         return all_edges, sentence_id2word
 
-    def construct_graph(self, text_data):
+    def construct_graph(self, text_data, graph=True):
         doc = self.nlp(text_data)
 
         edges, id2word = self.__get_edges_mapping(doc)
@@ -105,34 +77,7 @@ class LoadData:
         complete_graph = self.__get_complete_graph(edges)
 
         combined_graph = self.__join_sentence_graphs(complete_graph, id2word)
-
-        return nx.DiGraph(combined_graph)
-
-    @staticmethod
-    def vector_preprocess(tokens, doc):
-        lemmas = []
-        for i, sent in enumerate(doc.sentences):
-            for word in sent.words:
-                    for i in tokens:
-                        if i==word.lower():
-                            lemmas.append((word.lemma.lower(),
-                                           word.pos,
-                                           word.xpos,
-                                           f'{word.text}.{i}.{word.id}'))
-        return lemmas
-    
-    def vectorization(self, text_data, tokens):
-        doc = self.nlp(text_data)
-    
-        words = self.vector_preprocess(tokens, doc)
-    
-        word_vector_map = {}
-    
-        for word in words:
-            try:
-                # vector, (all other lemma except id)
-                word_vector_map[word[-1]] = [self.vectors.query(word[:-1]), word[:-1]]
-            except:
-                word_vector_map[word[-1]] = [np.zeros(self.vectors.dim), word[:-1]]
-    
-        return word_vector_map
+        if graph:
+            return nx.DiGraph(combined_graph)
+        else:
+            return combined_graph

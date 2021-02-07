@@ -1,99 +1,32 @@
-import os
+from tqdm.auto import tqdm
 
-import numpy as np
-from nltk.stem import PorterStemmer
-from tqdm import tqdm
-
-from graph_construction import data_json_path
-from utils import read_json
+from utils import compute_rel, compute_prf, compute_averagep
 
 
-class Evaluate:
-    def __init__(self, data_dir="", data_set=None):
-        if data_set is not None:
-            self.data_path = data_json_path[data_set]
-            self.data_dir = data_dir
-            self.data_set = data_set
+def evaluate_model(candidates, references, n_best=10, present=False, absent=False):
+    precisions = []
+    recalls = []
+    f_scores = []
+    average_p = []
 
-            self.data = read_json(os.path.join(self.data_dir, self.data_path))
+    for doc_id in tqdm(candidates):
+        if doc_id not in references:
+            continue
+        rel = compute_rel(candidates[doc_id], references[doc_id])
 
-    def evaluate(self, method, top=5, item=None):
-        assert method in ('topicrank', 'textrank',
-                          'positionrank', 'multipartiterank')
+        max_len = min(len(candidates[doc_id]), n_best)
 
-        assert top in (5, 10)
+        p, r, f = compute_prf(rel[:max_len], references[doc_id])
+        ap = compute_averagep(rel, references[doc_id])
 
-        if top == 5:
-            top = 0
-        else:
-            top = 1
+        precisions.append(p)
+        recalls.append(r)
+        f_scores.append(f)
+        average_p.append(ap)
 
-        if item is None:
-            metrics = {'precision': [],
-                       'recall': [],
-                       'f1': []}
-            for data in tqdm(self.data, total=len(self.data)):
-                if self.data_set == "marujo":
-                    keywords = data['keywords'].split('\n')
-                elif self.data_set == "hulth":
-                    keywords = [x.strip().replace('\n\t', ' ').replace('\n', ' ').replace('\t', ' ') for x in data['keywords'].split(';')]
-                elif self.data_set == "sem-eval":
-                    keywords = [x for x in data['keywords'].split('\n') if len(x) > 1]
-                else:
-                    raise NotImplementedError
-                candidate = data[method][top]
-                precision, recall, f1 = self.evaluate_from_keyword(candidate, keywords)
+    P = sum(precisions) / len(precisions) * 100.0
+    R = sum(recalls) / len(recalls) * 100.0
+    F = sum(f_scores) / len(f_scores) * 100.0
+    MAP = sum(average_p) / len(average_p) * 100.0
 
-                metrics['precision'].append(precision)
-                metrics['recall'].append(recall)
-                metrics['f1'].append(f1)
-
-            return np.asarray(metrics['precision']).mean(), np.asarray(metrics['recall']).mean(), np.asarray(
-                metrics['f1']).mean()
-        else:
-            assert item < len(self.data)
-
-            if self.data_set == "marujo":
-                keywords = self.data[item]['keywords'].split('\n')
-            elif self.data_set == "hulth":
-                keywords = [x.strip().replace('\n\t', ' ').replace('\n', ' ').replace('\t', ' ') for x in self.data[0]['keywords'].split(';')]
-            elif self.data_set == "sem-eval":
-                keywords = [x for x in self.data[item]['keywords'].split('\n') if len(x) > 1]
-            else:
-                raise NotImplementedError
-
-            candidate = self.data[item][method][top]
-            return self.evaluate_from_keyword(candidate, keywords)
-
-    @staticmethod
-    def evaluate_from_keyword(candidate_key, keywords):
-        ps = PorterStemmer()
-
-        proposed = []
-        groundtruth = []
-
-        for i in candidate_key:
-            proposed.append(ps.stem(i).lower())
-        for i in keywords:
-            groundtruth.append(ps.stem(i).lower())
-
-        proposed_set = set(proposed)
-        true_set = set(groundtruth)
-        true_positives = len(proposed_set.intersection(true_set))
-
-        if len(proposed_set) == 0:
-            precision = 0
-        else:
-            precision = true_positives / float(len(proposed))
-
-        if len(true_set) == 0:
-            recall = 0
-        else:
-            recall = true_positives / float(len(true_set))
-
-        if precision + recall > 0:
-            f1 = 2 * precision * recall / float(precision + recall)
-        else:
-            f1 = 0
-
-        return (precision, recall, f1)
+    print("| {1:5.2f} | {2:5.2f} | {3:5.2f} | {4:5.2f} | {0:2d} |".format(n_best, P, R, F, MAP))
