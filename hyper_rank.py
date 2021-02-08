@@ -49,6 +49,14 @@ class HyperRank:
 
         return stanza.Pipeline(lang='en', processors=preprocessors, use_gpu=self.params['gpu'])
 
+    def texttofreq(self, wordstring):
+        words = wordstring.lower().split()
+        wordlist = [self.ps.stem(word) for word in words]
+        wordfreq = []
+        for w in wordlist:
+            wordfreq.append(wordlist.count(w))
+        return dict(zip(wordlist, wordfreq))
+
     def run(self, train_files=False):
         # container for keyphrases
         keyphrases = {}
@@ -84,7 +92,14 @@ class HyperRank:
 
             # sleep(2)
 
-            index = sorted(new_graph.degree, key=lambda x: x[1], reverse=True)
+            degrees = new_graph.degree
+
+            my_degree = []
+            for degree in degrees:
+                if degree[1] > 0:
+                    my_degree.append(degree)
+
+            index = sorted(my_degree, key=lambda x: x[1], reverse=True)
             candidate_key = []
             for i in index:
                 if isinstance(i[0], str):
@@ -99,31 +114,43 @@ class HyperRank:
                 if self.ps.stem(key).lower() not in unique_key:
                     unique_key[self.ps.stem(key).lower()] = key
 
-            stemmed_keyphrases[file] = [[x] for x in list(unique_key.keys())]
+            inunique = {}
+            freqtext = self.texttofreq(text)
+            for i in freqtext.keys():
+                if i in (unique_key.keys()):
+                    inunique[i] = freqtext[i]
+            finalunique = {k: v for k, v in sorted(inunique.items(), key=lambda item: item[1], reverse=True)}
+
+            stemmed_keyphrases[file] = [[x] for x in list(finalunique.keys())]
+
+            # stemmed_keyphrases[file] = [[x] for x in list(unique_key.keys())]
             keyphrases[file] = [[x] for x in list(unique_key.values())]
 
         return keyphrases, stemmed_keyphrases
 
 
 def main(config):
+    contains_train = {'500N-KPCrowd': True,
+                      'DUC-2001': False}
+
     dataset = config['data']
     data_dir = os.path.join(config['data_dir'], dataset)
     use_stanza = config['use_stanza']
     gpu = config['gpu']
-    run_on_train = config['train']
+    run_on_train = config['train'] and contains_train[dataset]
 
     model = HyperRank({}, data_dir, use_stanza, gpu)
     keyphrases, stemmed_keyphrases = model.run(run_on_train)
 
     if config['eval']:
-
         path_ake_datasets = config['ake_dataset_path']
 
-        dataset_annotator = {'500N-KPCrowd': 'reader'}
+        dataset_annotator = {'500N-KPCrowd': 'reader',
+                             'DUC-2001': 'reader'}
 
         ground_truth = read_json(os.path.join(path_ake_datasets,
                                               f'datasets/{dataset}/references/test.{dataset_annotator[dataset]}.stem.json'))
-        if config['eval_train']:
+        if config['eval_train'] and contains_train[dataset]:
             train_gt = read_json(os.path.join(path_ake_datasets,
                                               f'datasets/{dataset}/references/train.{dataset_annotator[dataset]}.stem.json'))
             ground_truth = merge_dicts(ground_truth, train_gt)
@@ -146,7 +173,8 @@ def main(config):
 
 if __name__ == '__main__':
     top_n = ("5", "10", "both")
-    dataset = ["500N-KPCrowd"]
+    dataset = ["500N-KPCrowd",
+               "DUC-2001"]
 
     parser = argparse.ArgumentParser('hyper_rank.py', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument("--data", type=str, default="500N-KPCrowd", choices=dataset, help="Dataset Name")
