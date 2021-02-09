@@ -3,6 +3,7 @@ import os
 import pickle
 import string
 from collections import OrderedDict
+from glob import glob
 
 import networkx as nx
 import stanza
@@ -137,6 +138,9 @@ def main(config):
     model = HyperRank(dataset_details, data_dir, use_stanza, gpu)
     keyphrases, stemmed_keyphrases = model.run(files)
 
+    with open(os.path.join(data_dir, "keyphrases.pkl"), "rb") as f:
+        pickle.dump(stemmed_keyphrases, f)
+
     if 'eval' in config:
         ground_truth = read_json(os.path.join(config['data_dir'], dataset_details['references']['test']))
         if config['eval'] == "all":
@@ -152,10 +156,7 @@ def main(config):
 
 if __name__ == '__main__':
     top_n = ("5", "10", "both")
-    dataset = ["500N-KPCrowd",
-               "Inspec",
-               "KDD",
-               "WWW"]
+    dataset = [x.split('.')[0] for x in glob('../data/*.json')]
     files = ["test", "all"]
 
     parser = argparse.ArgumentParser('hyper_rank.py', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
