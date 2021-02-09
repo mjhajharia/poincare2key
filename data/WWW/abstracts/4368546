@@ -1,0 +1,13 @@
+A_DT novel_JJ clustering-based_JJ RSS_NN aggregator_NN
+In_IN recent_JJ years_NNS ,_, different_JJ commercial_JJ Weblog_NNP subscribing_VBG systems_NNS have_VBP been_VBN proposed_VBN to_TO return_VB stories_NNS from_IN users_NNS ._.
+subscribed_VBN feeds_VBZ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ clustering-based_JJ RSS_NN aggregator_NN called_VBD as_IN RSS_NN Clusgator_NN System_NN -LRB-_-LRB- RCS_NN -RRB-_-RRB- for_IN Weblog_NNP reading_NN ._.
+Note_VB that_IN an_DT RSS_NN feed_NN may_MD have_VB several_JJ different_JJ topics_NNS ._.
+A_DT user_NN may_MD only_RB be_VB interested_JJ in_IN a_DT subset_NN of_IN these_DT topics_NNS ._.
+In_IN addition_NN there_EX could_MD be_VB many_JJ different_JJ stories_NNS from_IN multiple_JJ RSS_NN feeds_VBZ ,_, which_WDT discuss_VBP similar_JJ topic_NN from_IN different_JJ perspectives_NNS ._.
+A_DT user_NN may_MD be_VB interested_JJ in_IN this_DT topic_NN but_CC do_VBP not_RB know_VB how_WRB to_TO collect_VB all_DT feeds_VBZ related_JJ to_TO this_DT topic_NN ._.
+In_IN contrast_NN to_TO many_JJ previous_JJ works_NNS ,_, we_PRP cluster_VBP all_DT stories_NNS in_IN RSS_NN feeds_VBZ into_IN hierarchical_JJ structure_NN to_TO better_RB serve_VB the_DT readers_NNS ._.
+Through_IN this_DT way_NN ,_, users_NNS can_MD easily_RB find_VB all_DT their_PRP$ interested_JJ stories_NNS ._.
+To_TO make_VB the_DT system_NN current_JJ ,_, we_PRP propose_VBP a_DT flexible_JJ time_NN window_NN for_IN incremental_JJ clustering_NN ._.
+RCS_NNP utilizes_VBZ both_DT link_NN information_NN and_CC content_NN information_NN for_IN efficient_JJ clustering_NN ._.
+Experiments_NNS show_VBP the_DT effectiveness_NN of_IN RCS_NNP ._.

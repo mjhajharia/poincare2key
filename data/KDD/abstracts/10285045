@@ -1,0 +1,10 @@
+Incorporating_VBG site-level_JJ knowledge_NN for_IN incremental_JJ crawling_NN of_IN web_NN forums_NNS :_: a_DT list-wise_JJ strategy_NN
+We_PRP study_VBD in_IN this_DT paper_NN the_DT problem_NN of_IN incremental_JJ crawling_NN of_IN web_NN forums_NNS ,_, which_WDT is_VBZ a_DT very_RB fundamental_JJ yet_RB challenging_JJ step_NN in_IN many_JJ web_NN applications_NNS ._.
+Traditional_JJ approaches_NNS mainly_RB focus_VBP on_IN scheduling_VBG the_DT revisiting_VBG strategy_NN of_IN each_DT individual_JJ page_NN ._.
+However_RB ,_, simply_RB assigning_VBG different_JJ weights_NNS for_IN different_JJ individual_JJ pages_NNS is_VBZ usually_RB inefficient_JJ in_IN crawling_VBG forum_NN sites_NNS because_IN of_IN the_DT different_JJ characteristics_NNS between_IN forum_NN sites_NNS and_CC general_JJ websites_NNS ._.
+Instead_RB of_IN treating_VBG each_DT individual_JJ page_NN independently_RB ,_, we_PRP propose_VBP a_DT list-wise_JJ strategy_NN by_IN taking_VBG into_IN account_NN the_DT site-level_JJ knowledge_NN ._.
+Such_JJ site-level_JJ knowledge_NN is_VBZ mined_VBN through_IN reconstructing_VBG the_DT linking_VBG structure_NN ,_, called_VBN sitemap_NN ,_, for_IN a_DT given_VBN forum_NN site_NN ._.
+With_IN the_DT sitemap_NN ,_, posts_NNS from_IN the_DT same_JJ thread_NN but_CC distributed_VBN on_IN various_JJ pages_NNS can_MD be_VB concatenated_VBN according_VBG to_TO their_PRP$ timestamps_NNS ._.
+After_IN that_DT ,_, for_IN each_DT thread_NN ,_, we_PRP employ_VBP a_DT regression_NN model_NN to_TO predict_VB the_DT time_NN when_WRB the_DT next_JJ post_NN arrives_VBZ ._.
+Based_VBN on_IN this_DT model_NN ,_, we_PRP develop_VBP an_DT efficient_JJ crawler_NN which_WDT is_VBZ 260_CD %_NN faster_RBR than_IN some_DT state-of-the-art_JJ methods_NNS in_IN terms_NNS of_IN fetching_VBG new_JJ generated_VBN content_NN ;_: and_CC meanwhile_RB our_PRP$ crawler_NN also_RB ensure_VB a_DT high_JJ coverage_NN ratio_NN ._.
+Experimental_JJ results_NNS show_VBP promising_JJ performance_NN of_IN Coverage_NNP ,_, Bandwidth_NNP utilization_NN ,_, and_CC Timeliness_NN of_IN our_PRP$ crawler_NN on_IN 18_CD various_JJ forums_NNS ._.

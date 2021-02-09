@@ -1,0 +1,8 @@
+ADMIT_NN :_: anomaly-based_JJ data_NNS mining_NN for_IN intrusions_NNS
+Security_NN of_IN computer_NN systems_NNS is_VBZ essential_JJ to_TO their_PRP$ acceptance_NN and_CC utility_NN ._.
+Computer_NN security_NN analysts_NNS use_VBP intrusion_NN detection_NN systems_NNS to_TO assist_VB them_PRP in_IN maintaining_VBG computer_NN system_NN security_NN ._.
+This_DT paper_NN deals_VBZ with_IN the_DT problem_NN of_IN differentiating_VBG between_IN masqueraders_NNS and_CC the_DT true_JJ user_NN of_IN a_DT computer_NN terminal_NN ._.
+Prior_JJ efficient_JJ solutions_NNS are_VBP less_RBR suited_VBN to_TO real_JJ time_NN application_NN ,_, often_RB requiring_VBG all_DT training_NN data_NNS to_TO be_VB labeled_VBN ,_, and_CC do_VBP not_RB inherently_RB provide_VB an_DT intuitive_JJ idea_NN of_IN what_WP the_DT data_NNS model_NN means_VBZ ._.
+Our_PRP$ system_NN ,_, called_VBN ADMIT_NNP ,_, relaxes_VBZ these_DT constraints_NNS ,_, by_IN creating_VBG user_NN profiles_NNS using_VBG semi-incremental_JJ techniques_NNS ._.
+It_PRP is_VBZ a_DT real-time_JJ intrusion_NN detection_NN system_NN with_IN host-based_JJ data_NNS collection_NN and_CC processing_NN ._.
+Our_PRP$ method_NN also_RB suggests_VBZ ideas_NNS for_IN dealing_VBG with_IN concept_NN drift_NN and_CC affords_VBZ a_DT detection_NN rate_NN as_RB high_JJ as_IN 80.3_CD %_NN and_CC a_DT false_JJ positive_JJ rate_NN as_RB low_JJ as_IN 15.3_CD %_NN ._.

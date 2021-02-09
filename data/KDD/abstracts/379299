@@ -1,0 +1,9 @@
+A_DT framework_NN for_IN ontology-driven_JJ subspace_NN clustering_NN
+Traditional_JJ clustering_NN is_VBZ a_DT descriptive_JJ task_NN that_WDT seeks_VBZ to_TO identify_VB homogeneous_JJ groups_NNS of_IN objects_NNS based_VBN on_IN the_DT values_NNS of_IN their_PRP$ attributes_NNS ._.
+While_IN domain_NN knowledge_NN is_VBZ always_RB the_DT best_JJS way_NN to_TO justify_VB clustering_NN ,_, few_JJ clustering_NN algorithms_NNS have_VBP ever_RB take_VB domain_NN knowledge_NN into_IN consideration_NN ._.
+In_IN this_DT paper_NN ,_, the_DT domain_NN knowledge_NN is_VBZ represented_VBN by_IN hierarchical_JJ ontology_NN ._.
+We_PRP develop_VBP a_DT framework_NN by_IN directly_RB incorporating_VBG domain_NN knowledge_NN into_IN clustering_NN process_NN ,_, yielding_VBG a_DT set_NN of_IN clusters_NNS with_IN strong_JJ ontology_NN implication_NN ._.
+During_IN the_DT clustering_NN process_NN ,_, ontology_NN information_NN is_VBZ utilized_VBN to_TO efficiently_RB prune_VB the_DT exponential_JJ search_NN space_NN of_IN the_DT subspace_NN clustering_NN algorithms_NNS ._.
+Meanwhile_RB ,_, the_DT algorithm_NN generates_VBZ automatical_JJ interpretation_NN of_IN the_DT clustering_NN result_NN by_IN mapping_VBG the_DT natural_JJ hierarchical_JJ organized_VBN subspace_NN clusters_NNS with_IN significant_JJ categorical_JJ enrichment_NN onto_IN the_DT ontology_JJ hierarchy_NN ._.
+Our_PRP$ experiments_NNS on_IN a_DT set_NN of_IN gene_NN expression_NN data_NNS using_VBG gene_NN ontology_NN demonstrate_VBP that_IN our_PRP$ pruning_NN technique_NN driven_VBN by_IN ontology_NN significantly_RB improve_VB the_DT clustering_NN performance_NN with_IN minimal_JJ degradation_NN of_IN the_DT cluster_NN quality_NN ._.
+Meanwhile_RB ,_, many_JJ hierarchical_JJ organizations_NNS of_IN gene_NN clusters_NNS corresponding_VBG to_TO a_DT sub-hierarchies_NNS in_IN gene_NN ontology_NN were_VBD also_RB successfully_RB captured_VBN ._.

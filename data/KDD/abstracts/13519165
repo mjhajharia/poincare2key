@@ -1,0 +1,11 @@
+Enabling_VBG analysts_NNS in_IN managed_VBN services_NNS for_IN CRM_NNP analytics_NNS
+Data_NN analytics_NNS tools_NNS and_CC frameworks_NNS abound_VBP ,_, yet_RB rapid_JJ deployment_NN of_IN analytics_NNS solutions_NNS that_WDT deliver_VBP actionable_JJ insights_NNS from_IN business_NN data_NNS remains_VBZ a_DT challenge_NN ._.
+The_DT primary_JJ reason_NN is_VBZ that_IN on-field_JJ practitioners_NNS are_VBP required_VBN to_TO be_VB both_DT technically_RB proficient_JJ and_CC knowledgeable_JJ about_IN the_DT business_NN ._.
+The_DT recent_JJ abundance_NN of_IN unstructured_JJ business_NN data_NNS has_VBZ thrown_VBN up_RP new_JJ opportunities_NNS for_IN analytics_NNS ,_, but_CC has_VBZ also_RB multiplied_VBN the_DT deployment_NN challenge_NN ,_, since_IN interpretation_NN of_IN concepts_NNS derived_VBN from_IN textual_JJ sources_NNS require_VBP a_DT deep_JJ understanding_NN of_IN the_DT business_NN ._.
+In_IN such_PDT a_DT scenario_NN ,_, a_DT managed_VBN service_NN for_IN analytics_NNS comes_VBZ up_RP as_IN the_DT best_JJS alternative_NN ._.
+A_DT managed_VBN analytics_NNS service_NN is_VBZ centered_VBN around_IN a_DT business_NN analyst_NN who_WP acts_VBZ as_IN a_DT liaison_NN between_IN the_DT business_NN and_CC the_DT technology_NN ._.
+This_DT calls_VBZ for_IN new_JJ tools_NNS that_WDT assist_VBP the_DT analyst_NN to_TO be_VB efficient_JJ in_IN the_DT tasks_NNS that_IN she_PRP needs_VBZ to_TO execute_VB ._.
+Also_RB ,_, the_DT analytics_NNS needs_VBZ to_TO be_VB repeatable_JJ ,_, in_IN that_IN the_DT delivered_VBN insights_NNS should_MD not_RB depend_VB heavily_RB on_IN the_DT expertise_NN of_IN specific_JJ analysts_NNS ._.
+These_DT factors_NNS lead_VBP us_PRP to_TO identify_VB new_JJ areas_NNS that_WDT open_VBP up_RP for_IN KDD_NNP research_NN in_IN terms_NNS of_IN `_`` time-to-insight_JJ '_'' and_CC repeatability_NN for_IN these_DT analysts_NNS ._.
+We_PRP present_VBP our_PRP$ analytics_NNS framework_NN in_IN the_DT form_NN of_IN a_DT managed_VBN service_NN offering_NN for_IN CRM_NNP analytics_NNS ._.
+We_PRP describe_VBP different_JJ analyst-centric_JJ tools_NNS using_VBG a_DT case_NN study_NN from_IN real-life_JJ engagements_NNS and_CC demonstrate_VBP their_PRP$ effectiveness_NN ._.

@@ -1,0 +1,6 @@
+Extensible_JJ schema_NN documentation_NN with_IN XSLT_NN 2.0_CD
+XML_NN Schema_NN documents_NNS are_VBP defined_VBN using_VBG an_DT XML_NN syntax_NN ,_, which_WDT means_VBZ that_IN the_DT idea_NN of_IN generating_VBG schema_NN documentation_NN through_IN standard_JJ XML_NN technologies_NNS is_VBZ intriguing_JJ ._.
+We_PRP present_VBP X2Doc_NN ,_, a_DT framework_NN for_IN generating_VBG schema-documentation_NN solely_RB through_IN XSLT_NNP ._.
+The_DT framework_NN uses_VBZ SCX_NNP ,_, an_DT XML_NN syntax_NN for_IN XML_NN Schema_NN components_NNS ,_, as_IN intermediate_JJ format_NN and_CC produces_VBZ XML-based_JJ output_NN formats_NNS ._.
+Using_VBG a_DT modular_JJ set_NN of_IN XSLT_NN stylesheets_NNS ,_, X2Doc_NN is_VBZ highly_RB configurable_JJ and_CC carefully_RB crafted_VBN towards_IN extensibility_NN ._.
+This_DT proves_VBZ especially_RB useful_JJ for_IN composite_JJ schemas_NNS ,_, where_WRB additional_JJ schema_NN information_NN like_IN Schematron_NNP rules_NNS are_VBP embedded_VBN into_IN XML_NN Schemas_NNS ._.

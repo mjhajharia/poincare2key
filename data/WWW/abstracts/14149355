@@ -1,0 +1,10 @@
+On_IN revenue_NN in_IN the_DT generalized_JJ second_JJ price_NN auction_NN
+The_DT Generalized_NNP Second_NNP Price_NNP -LRB-_-LRB- GSP_NNP -RRB-_-RRB- auction_NN is_VBZ the_DT primary_JJ auction_NN used_VBN for_IN selling_VBG sponsored_VBN search_NN advertisements_NNS ._.
+In_IN this_DT paper_NN we_PRP consider_VBP the_DT revenue_NN of_IN this_DT auction_NN at_IN equilibrium_NN ._.
+We_PRP prove_VBP that_IN if_IN agent_NN values_NNS are_VBP drawn_VBN from_IN identical_JJ regular_JJ distributions_NNS ,_, then_RB the_DT GSP_NNP auction_NN paired_VBN with_IN an_DT appropriate_JJ reserve_NN price_NN generates_VBZ a_DT constant_JJ fraction_NN -LRB-_-LRB- 1\/6th_NN -RRB-_-RRB- of_IN the_DT optimal_JJ revenue_NN ._.
+In_IN the_DT full-information_NN game_NN ,_, we_PRP show_VBP that_IN at_IN any_DT Nash_NNP equilibrium_NN of_IN the_DT GSP_NNP auction_NN obtains_VBZ at_IN least_JJS half_NN of_IN the_DT revenue_NN of_IN the_DT VCG_NNP mechanism_NN excluding_VBG the_DT payment_NN of_IN a_DT single_JJ participant_NN ._.
+This_DT bound_VBD holds_VBZ also_RB with_IN any_DT reserve_NN price_NN ,_, and_CC is_VBZ tight_JJ ._.
+Finally_RB ,_, we_PRP consider_VBP the_DT tradeoff_NN between_IN maximizing_VBG revenue_NN and_CC social_JJ welfare_NN ._.
+We_PRP introduce_VBP a_DT natural_JJ convexity_NN assumption_NN on_IN the_DT click-through_JJ rates_NNS and_CC show_VBP that_IN it_PRP implies_VBZ that_IN the_DT revenue-maximizing_JJ equilibrium_NN of_IN GSP_NNP in_IN the_DT full_JJ information_NN model_NN will_MD necessarily_RB be_VB envy-free_JJ ._.
+In_IN particular_JJ ,_, it_PRP is_VBZ always_RB possible_JJ to_TO maximize_VB revenue_NN and_CC social_JJ welfare_NN simultaneously_RB when_WRB click-through_JJ rates_NNS are_VBP convex_NN ._.
+Without_IN this_DT convexity_NN assumption_NN ,_, however_RB ,_, we_PRP demonstrate_VBP that_IN revenue_NN may_MD be_VB maximized_VBN at_IN a_DT non-envy-free_JJ equilibrium_NN that_WDT generates_VBZ a_DT socially_RB inefficient_JJ allocation_NN ._.

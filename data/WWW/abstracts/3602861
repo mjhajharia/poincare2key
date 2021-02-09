@@ -1,0 +1,8 @@
+OWL_NN DL_NN vs._CC OWL_NN flight_NN :_: conceptual_JJ modeling_NN and_CC reasoning_NN for_IN the_DT semantic_JJ Web_NN
+The_DT Semantic_JJ Web_NN languages_NNS RDFS_NN and_CC OWL_NN have_VBP been_VBN around_RP for_IN some_DT time_NN now_RB ._.
+However_RB ,_, the_DT presence_NN of_IN these_DT languages_NNS has_VBZ not_RB brought_VBN the_DT breakthrough_NN of_IN the_DT Semantic_JJ Web_NN the_DT creators_NNS of_IN the_DT languages_NNS had_VBD hoped_VBN for_IN ._.
+OWL_NN has_VBZ a_DT number_NN of_IN problems_NNS in_IN the_DT area_NN of_IN interoperability_NN and_CC usability_NN in_IN the_DT context_NN of_IN many_JJ practical_JJ application_NN scenarios_NNS which_WDT impede_VBP the_DT connection_NN to_TO the_DT Software_NNP Engineering_NNP and_CC Database_NNP communities_NNS ._.
+In_IN this_DT paper_NN we_PRP present_VBP OWL_NNP Flight_NNP ,_, which_WDT is_VBZ loosely_RB based_VBN on_IN OWL_NN ,_, but_CC the_DT semantics_NNS is_VBZ grounded_VBN in_IN Logic_NNP Programming_NNP rather_RB than_IN Description_NN Logics_NNS ,_, and_CC it_PRP borrows_VBZ the_DT constraint-based_JJ modeling_NN style_NN common_JJ in_IN databases_NNS ._.
+This_DT results_VBZ in_IN different_JJ types_NNS of_IN modeling_NN primitives_NNS and_CC enforces_VBZ a_DT different_JJ style_NN of_IN ontology_NN modeling_NN ._.
+We_PRP analyze_VBP the_DT modeling_NN paradigms_NNS of_IN OWL_NNP DL_NNP and_CC OWL_NNP Flight_NNP ,_, as_RB well_RB as_IN reasoning_NN tasks_NNS supported_VBN by_IN both_DT languages_NNS ._.
+We_PRP argue_VBP that_IN different_JJ applications_NNS on_IN the_DT Semantic_JJ Web_NN require_VBP different_JJ styles_NNS of_IN modeling_NN and_CC thus_RB both_DT types_NNS of_IN languages_NNS are_VBP required_VBN for_IN the_DT Semantic_JJ Web_NN ._.

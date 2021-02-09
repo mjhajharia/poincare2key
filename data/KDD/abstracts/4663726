@@ -1,0 +1,8 @@
+Pattern-based_JJ similarity_NN search_NN for_IN microarray_NN data_NNS
+One_CD fundamental_JJ task_NN in_IN near-neighbor_JJ search_NN as_RB well_RB as_IN other_JJ similarity_NN matching_NN efforts_NNS is_VBZ to_TO find_VB a_DT distance_NN function_NN that_WDT can_MD efficiently_RB quantify_VB the_DT similarity_NN between_IN two_CD objects_NNS in_IN a_DT meaningful_JJ way_NN ._.
+In_IN DNA_NN microarray_NN analysis_NN ,_, the_DT expression_NN levels_NNS of_IN two_CD closely_RB related_JJ genes_NNS may_MD rise_VB and_CC fall_VB synchronously_RB in_IN response_NN to_TO a_DT set_NN of_IN experimental_JJ stimuli_NNS ._.
+Although_IN the_DT magnitude_NN of_IN their_PRP$ expression_NN levels_NNS may_MD not_RB be_VB close_JJ ,_, the_DT patterns_NNS they_PRP exhibit_VBP can_MD be_VB very_RB similar_JJ ._.
+Unfortunately_RB ,_, none_NN of_IN the_DT conventional_JJ distance_NN metrics_NNS such_JJ as_IN the_DT Lp_NN norm_NN can_MD model_VB this_DT similarity_NN effectively_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT near-neighbor_JJ search_NN problem_NN based_VBN on_IN this_DT new_JJ type_NN of_IN similarity_NN ._.
+We_PRP propose_VBP to_TO measure_VB the_DT distance_NN between_IN two_CD genes_NNS by_IN subspace_NN pattern_NN similarity_NN ,_, i.e._FW ,_, whether_IN they_PRP exhibit_VBP a_DT synchronous_JJ pattern_NN of_IN rise_NN and_CC fall_NN on_IN a_DT subset_NN of_IN dimensions_NNS ._.
+We_PRP then_RB present_VBP an_DT efficient_JJ algorithm_NN for_IN subspace_NN near-neighbor_JJ search_NN based_VBN on_IN pattern_NN similarity_NN distance_NN ,_, and_CC we_PRP perform_VBP tests_NNS on_IN various_JJ data_NNS sets_NNS to_TO show_VB its_PRP$ effectiveness_NN ._.

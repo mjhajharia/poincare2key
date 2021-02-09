@@ -1,0 +1,7 @@
+Mining_NN viewpoint_NN patterns_NNS in_IN image_NN databases_NNS
+The_DT increasing_VBG number_NN of_IN image_NN repositories_NNS has_VBZ made_VBN image_NN mining_VBG an_DT important_JJ task_NN because_IN of_IN its_PRP$ potential_NN in_IN discovering_VBG useful_JJ image_NN patterns_NNS from_IN a_DT large_JJ set_NN of_IN images_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP the_DT notion_NN of_IN viewpoint_NN patterns_NNS for_IN image_NN databases_NNS ._.
+Viewpoint_NN patterns_NNS refer_VBP to_TO patterns_NNS that_WDT capture_VBP the_DT invariant_JJ relationships_NNS of_IN one_CD object_NN from_IN the_DT point_NN of_IN view_NN of_IN another_DT object_NN ._.
+These_DT patterns_NNS are_VBP unique_JJ and_CC significant_JJ in_IN images_NNS because_IN the_DT absolute_JJ positional_JJ information_NN of_IN objects_NNS for_IN most_JJS images_NNS is_VBZ not_RB important_JJ ,_, but_CC rather_RB ,_, it_PRP is_VBZ the_DT relative_JJ distance_NN and_CC orientation_NN of_IN the_DT objects_NNS from_IN each_DT other_JJ that_WDT is_VBZ meaningful_JJ ._.
+We_PRP design_VBP a_DT scalable_JJ and_CC efficient_JJ algorithm_NN to_TO discover_VB such_JJ viewpoint_NN patterns_NNS ._.
+Experiments_NNS results_NNS on_IN various_JJ image_NN sets_NNS demonstrate_VBP that_IN viewpoint_NN patterns_NNS are_VBP meaningful_JJ and_CC interesting_JJ to_TO human_JJ users_NNS ._.

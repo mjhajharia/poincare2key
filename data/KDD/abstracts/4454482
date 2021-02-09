@@ -1,0 +1,6 @@
+Statistical_JJ entity-topic_JJ models_NNS
+The_DT primary_JJ purpose_NN of_IN news_NN articles_NNS is_VBZ to_TO convey_VB information_NN about_IN who_WP ,_, what_WP ,_, when_WRB and_CC where_WRB ._.
+But_CC learning_VBG and_CC summarizing_VBG these_DT relationships_NNS for_IN collections_NNS of_IN thousands_NNS to_TO millions_NNS of_IN articles_NNS is_VBZ difficult_JJ ._.
+While_IN statistical_JJ topic_NN models_NNS have_VBP been_VBN highly_RB successful_JJ at_IN topically_RB summarizing_VBG huge_JJ collections_NNS of_IN text_NN documents_NNS ,_, they_PRP do_VBP not_RB explicitly_RB address_VB the_DT textual_JJ interactions_NNS between_IN who\/where_NN ,_, i.e._FW named_VBN entities_NNS -LRB-_-LRB- persons_NNS ,_, organizations_NNS ,_, locations_NNS -RRB-_-RRB- and_CC what_WP ,_, i.e._FW the_DT topics_NNS ._.
+We_PRP present_VBP new_JJ graphical_JJ models_NNS that_WDT directly_RB learn_VBP the_DT relationship_NN between_IN topics_NNS discussed_VBN in_IN news_NN articles_NNS and_CC entities_NNS mentioned_VBN in_IN each_DT article_NN ._.
+We_PRP show_VBP how_WRB these_DT entity-topic_JJ models_NNS ,_, through_IN a_DT better_JJR understanding_NN of_IN the_DT entity-topic_JJ relationships_NNS ,_, are_VBP better_RBR at_IN making_VBG predictions_NNS about_IN entities_NNS ._.

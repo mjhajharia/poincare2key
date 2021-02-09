@@ -1,0 +1,6 @@
+Outlier_NN detection_NN by_IN sampling_NN with_IN accuracy_NN guarantees_NNS
+An_DT effective_JJ approach_NN to_TO detecting_VBG anomalous_JJ points_NNS in_IN a_DT data_NN set_NN is_VBZ distance-based_JJ outlier_NN detection_NN ._.
+This_DT paper_NN describes_VBZ a_DT simple_JJ sampling_NN algorithm_NN to_TO effciently_RB detect_VB distance-based_JJ outliers_NNS in_IN domains_NNS where_WRB each_DT and_CC every_DT distance_NN computation_NN is_VBZ very_RB expensive_JJ ._.
+Unlike_IN any_DT existing_VBG algorithms_NNS ,_, the_DT sampling_NN algorithm_NN requires_VBZ a_DT xed_JJ number_NN of_IN distance_NN computations_NNS and_CC can_MD return_VB good_JJ results_NNS with_IN accuracy_NN guarantees_NNS ._.
+The_DT most_RBS computationally_RB expensive_JJ aspect_NN of_IN estimating_VBG the_DT accuracy_NN of_IN the_DT result_NN is_VBZ sorting_VBG all_DT of_IN the_DT distances_NNS computed_VBN by_IN the_DT sampling_NN algorithm_NN ._.
+The_DT experimental_JJ study_NN on_IN two_CD expensive_JJ domains_NNS as_RB well_RB as_IN ten_CD additional_JJ real-life_JJ datasets_NNS demonstrates_VBZ both_CC the_DT effciency_NN and_CC effectiveness_NN of_IN the_DT sampling_NN algorithm_NN in_IN comparison_NN with_IN the_DT state-of-the-art_JJ algorithm_NN and_CC there_EX liability_NN of_IN the_DT accuracy_NN guarantees_NNS ._.

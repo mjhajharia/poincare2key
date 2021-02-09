@@ -1,0 +1,9 @@
+Rated_VBN aspect_NN summarization_NN of_IN short_JJ comments_NNS
+Web_NN 2.0_CD technologies_NNS have_VBP enabled_VBN more_JJR and_CC more_JJR people_NNS to_TO freely_RB comment_VB on_IN different_JJ kinds_NNS of_IN entities_NNS -LRB-_-LRB- e.g._FW sellers_NNS ,_, products_NNS ,_, services_NNS -RRB-_-RRB- ._.
+The_DT large_JJ scale_NN of_IN information_NN poses_VBZ the_DT need_NN and_CC challenge_NN of_IN automatic_JJ summarization_NN ._.
+In_IN many_JJ cases_NNS ,_, each_DT of_IN the_DT user-generated_JJ short_JJ comments_NNS comes_VBZ with_IN an_DT overall_JJ rating_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT problem_NN of_IN generating_VBG a_DT ``_`` rated_VBN aspect_NN summary_NN ''_'' of_IN short_JJ comments_NNS ,_, which_WDT is_VBZ a_DT decomposed_JJ view_NN of_IN the_DT overall_JJ ratings_NNS for_IN the_DT major_JJ aspects_NNS so_IN that_IN a_DT user_NN could_MD gain_VB different_JJ perspectives_NNS towards_IN the_DT target_NN entity_NN ._.
+We_PRP formally_RB define_VBP the_DT problem_NN and_CC decompose_VB the_DT solution_NN into_IN three_CD steps_NNS ._.
+We_PRP demonstrate_VBP the_DT effectiveness_NN of_IN our_PRP$ methods_NNS by_IN using_VBG eBay_NNP sellers_NNS '_POS feedback_NN comments_NNS ._.
+We_PRP also_RB quantitatively_RB evaluate_VB each_DT step_NN of_IN our_PRP$ methods_NNS and_CC study_NN how_WRB well_RB human_JJ agree_VBP on_IN such_PDT a_DT summarization_NN task_NN ._.
+The_DT proposed_VBN methods_NNS are_VBP quite_RB general_JJ and_CC can_MD be_VB used_VBN to_TO generate_VB rated_VBN aspect_NN summary_NN automatically_RB given_VBN any_DT collection_NN of_IN short_JJ comments_NNS each_DT associated_VBN with_IN an_DT overall_JJ rating_NN ._.

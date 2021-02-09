@@ -1,0 +1,9 @@
+Optimizing_VBG time_NN series_NN discretization_NN for_IN knowledge_NN discovery_NN
+Knowledge_NNP Discovery_NNP in_IN time_NN series_NN usually_RB requires_VBZ symbolic_JJ time_NN series_NN ._.
+Many_JJ discretization_NN methods_NNS that_WDT convert_VBP numeric_JJ time_NN series_NN to_TO symbolic_JJ time_NN series_NN ignore_VBP the_DT temporal_JJ order_NN of_IN values_NNS ._.
+This_DT often_RB leads_VBZ to_TO symbols_NNS that_WDT do_VBP not_RB correspond_VB to_TO states_NNS of_IN the_DT process_NN generating_VBG the_DT time_NN series_NN and_CC can_MD not_RB be_VB interpreted_VBN meaningfully_RB ._.
+We_PRP propose_VBP a_DT new_JJ method_NN for_IN meaningful_JJ unsupervised_JJ discretization_NN of_IN numeric_JJ time_NN series_NN called_VBN Persist_NNP ._.
+The_DT algorithm_NN is_VBZ based_VBN on_IN the_DT Kullback-Leibler_NNP divergence_NN between_IN the_DT marginal_JJ and_CC the_DT self-transition_JJ probability_NN distributions_NNS of_IN the_DT discretization_NN symbols_NNS ._.
+Its_PRP$ performance_NN is_VBZ evaluated_VBN on_IN both_CC artificial_JJ and_CC real_JJ life_NN data_NNS in_IN comparison_NN to_TO the_DT most_RBS common_JJ discretization_NN methods_NNS ._.
+Persist_NNP achieves_VBZ significantly_RB higher_JJR accuracy_NN than_IN existing_VBG static_JJ methods_NNS and_CC is_VBZ robust_JJ against_IN noise_NN ._.
+It_PRP also_RB outperforms_VBZ Hidden_NNP Markov_NNP Models_NNS for_IN all_DT but_CC very_RB simple_JJ cases_NNS ._.

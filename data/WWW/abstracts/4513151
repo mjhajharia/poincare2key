@@ -1,0 +1,12 @@
+Towards_IN effective_JJ browsing_NN of_IN large_JJ scale_NN social_JJ annotations_NNS
+This_DT paper_NN is_VBZ concerned_VBN with_IN the_DT problem_NN of_IN browsing_VBG social_JJ annotations_NNS ._.
+Today_NN ,_, a_DT lot_NN of_IN services_NNS -LRB-_-LRB- e.g._FW ,_, Del._NNP icio_NN ._.
+us_PRP ,_, Filckr_NNP -RRB-_-RRB- have_VBP been_VBN provided_VBN for_IN helping_VBG users_NNS to_TO manage_VB and_CC share_VB their_PRP$ favorite_JJ URLs_NNS and_CC photos_NNS based_VBN on_IN social_JJ annotations_NNS ._.
+Due_JJ to_TO the_DT exponential_JJ increasing_VBG of_IN the_DT social_JJ annotations_NNS ,_, more_JJR and_CC more_JJR users_NNS ,_, however_RB ,_, are_VBP facing_VBG the_DT problem_NN how_WRB to_TO effectively_RB find_VB desired_VBN resources_NNS from_IN large_JJ annotation_NN data_NNS ._.
+Existing_VBG methods_NNS such_JJ as_IN tag_NN cloud_NN and_CC annotation_NN matching_NN work_NN well_RB only_RB on_IN small_JJ annotation_NN sets_NNS ._.
+Thus_RB ,_, an_DT effective_JJ approach_NN for_IN browsing_VBG large_JJ scale_NN annotation_NN sets_NNS and_CC the_DT associated_VBN resources_NNS is_VBZ in_IN great_JJ demand_NN by_IN both_CC ordinary_JJ users_NNS and_CC service_NN providers_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ algorithm_NN ,_, namely_RB Effective_JJ Large_JJ Scale_NNP Annotation_NNP Browser_NNP -LRB-_-LRB- ELSABer_NN -RRB-_-RRB- ,_, to_TO browse_VB large-scale_JJ social_JJ annotation_NN data_NNS ._.
+ELSABer_NN helps_VBZ the_DT users_NNS browse_VBP huge_JJ number_NN of_IN annotations_NNS in_IN a_DT semantic_JJ ,_, hierarchical_JJ and_CC efficient_JJ way_NN ._.
+More_RBR specifically_RB ,_, ELSABer_NN has_VBZ the_DT following_JJ features_NNS :_: 1_LS -RRB-_-RRB- the_DT semantic_JJ relations_NNS between_IN annotations_NNS are_VBP explored_VBN for_IN browsing_VBG of_IN similar_JJ resources_NNS ;_: 2_LS -RRB-_-RRB- the_DT hierarchical_JJ relations_NNS between_IN annotations_NNS are_VBP constructed_VBN for_IN browsing_VBG in_IN a_DT top-down_JJ fashion_NN ;_: 3_LS -RRB-_-RRB- the_DT distribution_NN of_IN social_JJ annotations_NNS is_VBZ studied_VBN for_IN efficient_JJ browsing_NN ._.
+By_IN incorporating_VBG the_DT personal_JJ and_CC time_NN information_NN ,_, ELSABer_NN can_MD be_VB further_RB extended_VBN for_IN personalized_JJ and_CC time-related_JJ browsing_NN ._.
+A_DT prototype_NN system_NN is_VBZ implemented_VBN and_CC shows_VBZ promising_JJ results_NNS ._.

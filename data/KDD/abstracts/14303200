@@ -1,0 +1,12 @@
+Towards_IN parameter-free_JJ data_NNS mining_NN
+Most_JJS data_NNS mining_NN algorithms_NNS require_VBP the_DT setting_NN of_IN many_JJ input_NN parameters_NNS ._.
+Two_CD main_JJ dangers_NNS of_IN working_VBG with_IN parameter-laden_JJ algorithms_NNS are_VBP the_DT following_NN ._.
+First_JJ ,_, incorrect_JJ settings_NNS may_MD cause_VB an_DT algorithm_NN to_TO fail_VB in_IN finding_VBG the_DT true_JJ patterns_NNS ._.
+Second_RB ,_, a_DT perhaps_RB more_RBR insidious_JJ problem_NN is_VBZ that_IN the_DT algorithm_NN may_MD report_VB spurious_JJ patterns_NNS that_WDT do_VBP not_RB really_RB exist_VB ,_, or_CC greatly_RB overestimate_VB the_DT significance_NN of_IN the_DT reported_VBN patterns_NNS ._.
+This_DT is_VBZ especially_RB likely_JJ when_WRB the_DT user_NN fails_VBZ to_TO understand_VB the_DT role_NN of_IN parameters_NNS in_IN the_DT data_NNS mining_NN process_NN ._.
+Data_NN mining_NN algorithms_NNS should_MD have_VB as_IN few_JJ parameters_NNS as_IN possible_JJ ,_, ideally_RB none_NN ._.
+A_DT parameter-free_JJ algorithm_NN would_MD limit_VB our_PRP$ ability_NN to_TO impose_VB our_PRP$ prejudices_NNS ,_, expectations_NNS ,_, and_CC presumptions_NNS on_IN the_DT problem_NN at_IN hand_NN ,_, and_CC would_MD let_VB the_DT data_NNS itself_PRP speak_VBP to_TO us_PRP ._.
+In_IN this_DT work_NN ,_, we_PRP show_VBP that_IN recent_JJ results_NNS in_IN bioinformatics_NNS and_CC computational_JJ theory_NN hold_VBP great_JJ promise_NN for_IN a_DT parameter-free_JJ data-mining_JJ paradigm_NN ._.
+The_DT results_NNS are_VBP motivated_VBN by_IN observations_NNS in_IN Kolmogorov_NNP complexity_NN theory_NN ._.
+However_RB ,_, as_IN a_DT practical_JJ matter_NN ,_, they_PRP can_MD be_VB implemented_VBN using_VBG any_DT off-the-shelf_JJ compression_NN algorithm_NN with_IN the_DT addition_NN of_IN just_RB a_DT dozen_NN or_CC so_RB lines_NNS of_IN code_NN ._.
+We_PRP will_MD show_VB that_IN this_DT approach_NN is_VBZ competitive_JJ or_CC superior_JJ to_TO the_DT state-of-the-art_JJ approaches_NNS in_IN anomaly\/interestingness_NN detection_NN ,_, classification_NN ,_, and_CC clustering_NN with_IN empirical_JJ tests_NNS on_IN time_NN series\/DNA\/text_NN \/_: video_JJ datasets_NNS ._.

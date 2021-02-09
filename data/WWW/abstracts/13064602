@@ -1,0 +1,8 @@
+CONQUER_VB :_: a_DT system_NN for_IN efficient_JJ context-aware_JJ query_NN suggestions_NNS
+Many_JJ of_IN today_NN 's_POS search_NN engines_NNS provide_VBP autocompletion_NN while_IN the_DT user_NN is_VBZ typing_NN a_DT query_NN string_NN ._.
+This_DT type_NN of_IN dynamic_JJ query_NN suggestion_NN can_MD help_VB users_NNS to_TO formulate_VB queries_NNS that_WDT better_RB represent_VBP their_PRP$ search_NN intent_NN during_IN Web_NN search_NN interactions_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP demonstrate_VBP our_PRP$ query_NN suggestion_NN system_NN called_VBN CONQUER_NNP ,_, which_WDT allows_VBZ to_TO efficiently_RB suggest_VB queries_NNS for_IN a_DT given_JJ partial_JJ query_NN and_CC a_DT number_NN of_IN available_JJ query_JJ context_NN observations_NNS ._.
+The_DT context-awareness_NN allows_VBZ for_IN suggesting_VBG queries_NNS tailored_VBN to_TO a_DT given_VBN context_NN ,_, e.g._FW ,_, the_DT user_NN location_NN or_CC the_DT time_NN of_IN day_NN ._.
+CONQUER_NNP uses_VBZ a_DT suggestion_NN model_NN that_WDT is_VBZ based_VBN on_IN the_DT combined_JJ probabilities_NNS of_IN sequential_JJ query_NN patterns_NNS and_CC context_NN observations_NNS ._.
+For_IN this_DT ,_, the_DT weight_NN of_IN a_DT context_NN in_IN a_DT query_NN suggestion_NN can_MD be_VB adjusted_VBN online_NN ,_, for_IN example_NN ,_, based_VBN on_IN the_DT learned_VBN user_NN behavior_NN or_CC user_NN profiles_NNS ._.
+We_PRP demonstrate_VBP the_DT functionality_NN of_IN CONQUER_NN based_VBN on_IN 6_CD million_CD queries_NNS from_IN an_DT AOL_NNP query_NN log_NN using_VBG the_DT time_NN of_IN day_NN and_CC the_DT country_NN domain_NN of_IN the_DT clicked_VBN URLs_NNS in_IN the_DT search_NN result_NN as_IN context_NN observations_NNS ._.

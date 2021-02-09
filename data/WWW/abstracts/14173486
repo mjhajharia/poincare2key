@@ -1,0 +1,6 @@
+From_IN actors_NNS ,_, politicians_NNS ,_, to_TO CEOs_NNS :_: domain_NN adaptation_NN of_IN relational_JJ extractors_NNS using_VBG a_DT latent_JJ relational_JJ mapping_NN
+We_PRP propose_VBP a_DT method_NN to_TO adapt_VB an_DT existing_VBG relation_NN extraction_NN system_NN to_TO extract_VB new_JJ relation_NN types_NNS with_IN minimum_JJ supervision_NN ._.
+Our_PRP$ proposed_VBN method_NN comprises_VBZ two_CD stages_NNS :_: learning_VBG a_DT lower-dimensional_JJ projection_NN between_IN different_JJ relations_NNS ,_, and_CC learning_VBG a_DT relational_JJ classifier_NN for_IN the_DT target_NN relation_NN type_NN with_IN instance_NN sampling_NN ._.
+We_PRP evaluate_VBP the_DT proposed_VBN method_NN using_VBG a_DT dataset_NN that_WDT contains_VBZ 2000_CD instances_NNS for_IN 20_CD different_JJ relation_NN types_NNS ._.
+Our_PRP$ experimental_JJ results_NNS show_VBP that_IN the_DT proposed_VBN method_NN achieves_VBZ a_DT statistically_RB significant_JJ macro-average_JJ F-score_NN of_IN 62.77_CD ._.
+Moreover_RB ,_, the_DT proposed_VBN method_NN outperforms_VBZ numerous_JJ baselines_NNS and_CC a_DT previously_RB proposed_VBN weakly-supervised_JJ relation_NN extraction_NN method_NN ._.

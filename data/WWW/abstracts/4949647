@@ -1,0 +1,18 @@
+Conversation_NN specification_NN :_: a_DT new_JJ approach_NN to_TO design_NN and_CC analysis_NN of_IN e-service_NN composition_NN
+This_DT paper_NN introduces_VBZ a_DT framework_NN for_IN modeling_NN and_CC specifying_VBG the_DT global_JJ behavior_NN of_IN e-service_NN compositions_NNS ._.
+Under_IN this_DT framework_NN ,_, peers_NNS -LRB-_-LRB- individual_JJ e-services_NNS -RRB-_-RRB- communicate_VBP through_IN asynchronous_JJ messages_NNS and_CC each_DT peer_VBP maintains_VBZ a_DT queue_NN for_IN incoming_JJ messages_NNS ._.
+A_DT global_JJ ``_`` watcher_NN ''_'' keeps_VBZ track_NN of_IN messages_NNS as_IN they_PRP occur_VBP ._.
+We_PRP propose_VBP and_CC study_VBP a_DT central_JJ notion_NN of_IN a_DT ``_`` conversation_NN ''_'' ,_, which_WDT is_VBZ a_DT sequence_NN of_IN -LRB-_-LRB- classes_NNS of_IN -RRB-_-RRB- messages_NNS observed_VBN by_IN the_DT watcher_NN ._.
+We_PRP consider_VBP the_DT case_NN where_WRB the_DT peers_NNS are_VBP represented_VBN by_IN Mealy_JJ machines_NNS -LRB-_-LRB- finite_JJ state_NN machines_NNS with_IN input_NN and_CC output_NN -RRB-_-RRB- ._.
+The_DT sets_NNS of_IN conversations_NNS exhibit_VBP unexpected_JJ behaviors_NNS ._.
+For_IN example_NN ,_, there_EX exists_VBZ a_DT composite_JJ e-service_NN based_VBN on_IN Mealy_JJ peers_NNS whose_WP$ set_NN of_IN conversations_NNS is_VBZ not_RB context_NN free_JJ -LRB-_-LRB- and_CC not_RB regular_JJ -RRB-_-RRB- ._.
+-LRB-_-LRB- The_DT set_NN of_IN conversations_NNS is_VBZ always_RB context_NN sensitive_JJ ._. -RRB-_-RRB-
+One_CD cause_NN for_IN this_DT is_VBZ the_DT queuing_VBG of_IN messages_NNS ;_: we_PRP introduce_VBP an_DT operator_NN ``_`` prepone_NN ''_'' that_WDT simulates_VBZ queue_NN delays_NNS from_IN a_DT global_JJ perspective_NN and_CC show_VBP that_IN the_DT set_NN of_IN conversations_NNS of_IN each_DT Mealy_JJ e-service_NN is_VBZ closed_VBN under_IN prepone_NN ._.
+We_PRP illustrate_VBP that_IN the_DT global_JJ prepone_NN fails_VBZ to_TO completely_RB capture_VB the_DT queue_NN delay_NN effects_NNS and_CC refine_VB prepone_NN to_TO a_DT ``_`` local_JJ ''_'' version_NN on_IN conversations_NNS seen_VBN by_IN individual_JJ peers_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, Mealy_JJ implementations_NNS of_IN a_DT composite_JJ e-service_NN will_MD always_RB generate_VB conversations_NNS whose_WP$ ``_`` projections_NNS ''_'' are_VBP consistent_JJ with_IN individual_JJ e-services_NNS ._.
+We_PRP use_VBP projection-join_JJ to_TO reflect_VB such_JJ situations_NNS ._.
+However_RB ,_, there_EX are_VBP still_RB Mealy_JJ peers_NNS whose_WP$ set_NN of_IN conversations_NNS is_VBZ not_RB the_DT local_JJ prepone_NN and_CC projection-join_JJ closure_NN of_IN any_DT regular_JJ language_NN ._.
+Therefore_RB ,_, we_PRP propose_VBP conversation_NN specifications_NNS as_IN a_DT formalism_NN to_TO define_VB the_DT conversations_NNS allowed_VBN by_IN an_DT e-service_NN composition_NN ._.
+We_PRP give_VBP two_CD technical_JJ results_NNS concerning_VBG the_DT interplay_NN between_IN the_DT local_JJ behaviors_NNS of_IN Mealy_JJ peers_NNS and_CC the_DT global_JJ behaviors_NNS of_IN their_PRP$ compositions_NNS ._.
+One_CD result_NN shows_VBZ that_IN for_IN each_DT regular_JJ language_NN ,_, its_PRP$ local_JJ prepone_NN and_CC projection-join_NN closure_NN corresponds_VBZ to_TO the_DT set_NN of_IN conversations_NNS by_IN some_DT Mealy_JJ peers_NNS effectively_RB constructed_VBN from_IN ._.
+The_DT second_JJ result_NN gives_VBZ a_DT condition_NN on_IN the_DT shape_NN of_IN a_DT composition_NN which_WDT guarantees_VBZ that_IN the_DT set_NN of_IN conversations_NNS that_WDT can_MD be_VB realized_VBN is_VBZ the_DT local_JJ prepone_NN and_CC projection-join_JJ closure_NN of_IN a_DT regular_JJ language_NN ._.

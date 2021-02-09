@@ -1,0 +1,7 @@
+Mining_NNP closed_VBD relational_JJ graphs_NNS with_IN connectivity_NN constraints_NNS
+Relational_JJ graphs_NNS are_VBP widely_RB used_VBN in_IN modeling_NN large_JJ scale_NN networks_NNS such_JJ as_IN biological_JJ networks_NNS and_CC social_JJ networks_NNS ._.
+In_IN this_DT kind_NN of_IN graph_NN ,_, connectivity_NN becomes_VBZ critical_JJ in_IN identifying_VBG highly_RB associated_VBN groups_NNS and_CC clusters_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP investigate_VBP the_DT issues_NNS of_IN mining_NN closed_VBD frequent_JJ graphs_NNS with_IN connectivity_NN constraints_NNS in_IN massive_JJ relational_JJ graphs_NNS where_WRB each_DT graph_NN has_VBZ around_IN 10K_CD nodes_NNS and_CC 1M_NN edges_NNS ._.
+We_PRP adopt_VBP the_DT concept_NN of_IN edge_NN connectivity_NN and_CC apply_VB the_DT results_NNS from_IN graph_NN theory_NN ,_, to_TO speed_VB up_RP the_DT mining_NN process_NN ._.
+Two_CD approaches_NNS are_VBP developed_VBN to_TO handle_VB different_JJ mining_NN requests_NNS :_: CloseCut_NNP ,_, a_DT pattern-growth_NN approach_NN ,_, and_CC splat_NN ,_, a_DT pattern-reduction_NN approach_NN ._.
+We_PRP have_VBP applied_VBN these_DT methods_NNS in_IN biological_JJ datasets_NNS and_CC found_VBD the_DT discovered_VBN patterns_NNS interesting_JJ ._.

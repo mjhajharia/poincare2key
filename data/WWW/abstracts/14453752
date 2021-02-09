@@ -1,0 +1,8 @@
+Template-based_JJ question_NN answering_VBG over_IN RDF_NNP data_NNS
+As_IN an_DT increasing_VBG amount_NN of_IN RDF_NNP data_NNS is_VBZ published_VBN as_IN Linked_NNP Data_NNP ,_, intuitive_JJ ways_NNS of_IN accessing_VBG this_DT data_NNS become_VBP more_RBR and_CC more_RBR important_JJ ._.
+Question_NN answering_NN approaches_NNS have_VBP been_VBN proposed_VBN as_IN a_DT good_JJ compromise_NN between_IN intuitiveness_NN and_CC expressivity_NN ._.
+Most_JJS question_NN answering_NN systems_NNS translate_VBP questions_NNS into_IN triples_NNS which_WDT are_VBP matched_VBN against_IN the_DT RDF_NNP data_NNS to_TO retrieve_VB an_DT answer_NN ,_, typically_RB relying_VBG on_IN some_DT similarity_NN metric_NN ._.
+However_RB ,_, in_IN many_JJ cases_NNS ,_, triples_NNS do_VBP not_RB represent_VB a_DT faithful_JJ representation_NN of_IN the_DT semantic_JJ structure_NN of_IN the_DT natural_JJ language_NN question_NN ,_, with_IN the_DT result_NN that_IN more_JJR expressive_JJ queries_NNS can_MD not_RB be_VB answered_VBN ._.
+To_TO circumvent_VB this_DT problem_NN ,_, we_PRP present_VBP a_DT novel_JJ approach_NN that_WDT relies_VBZ on_IN a_DT parse_NN of_IN the_DT question_NN to_TO produce_VB a_DT SPARQL_NN template_NN that_WDT directly_RB mirrors_VBZ the_DT internal_JJ structure_NN of_IN the_DT question_NN ._.
+This_DT template_NN is_VBZ then_RB instantiated_VBN using_VBG statistical_JJ entity_NN identification_NN and_CC predicate_NN detection_NN ._.
+We_PRP show_VBP that_IN this_DT approach_NN is_VBZ competitive_JJ and_CC discuss_VBP cases_NNS of_IN questions_NNS that_WDT can_MD be_VB answered_VBN with_IN our_PRP$ approach_NN but_CC not_RB with_IN competing_VBG approaches_NNS ._.

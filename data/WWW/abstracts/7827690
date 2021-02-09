@@ -1,0 +1,6 @@
+Video_NNP suggestion_NN and_CC discovery_NN for_IN youtube_NN :_: taking_VBG random_JJ walks_VBZ through_IN the_DT view_NN graph_NN
+The_DT rapid_JJ growth_NN of_IN the_DT number_NN of_IN videos_NNS in_IN YouTube_NNP provides_VBZ enormous_JJ potential_NN for_IN users_NNS to_TO find_VB content_NN of_IN interest_NN to_TO them_PRP ._.
+Unfortunately_RB ,_, given_VBN the_DT difficulty_NN of_IN searching_VBG videos_NNS ,_, the_DT size_NN of_IN the_DT video_NN repository_NN also_RB makes_VBZ the_DT discovery_NN of_IN new_JJ content_NN a_DT daunting_JJ task_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT novel_JJ method_NN based_VBN upon_IN the_DT analysis_NN of_IN the_DT entire_JJ user-video_JJ graph_NN to_TO provide_VB personalized_JJ video_NN suggestions_NNS for_IN users_NNS ._.
+The_DT resulting_VBG algorithm_NN ,_, termed_VBN Adsorption_NNP ,_, provides_VBZ a_DT simple_JJ method_NN to_TO efficiently_RB propagate_VB preference_NN information_NN through_IN a_DT variety_NN of_IN graphs_NNS ._.
+We_PRP extensively_RB test_VBP the_DT results_NNS of_IN the_DT recommendations_NNS on_IN a_DT three_CD month_NN snapshot_NN of_IN live_JJ data_NNS from_IN YouTube_NNP ._.

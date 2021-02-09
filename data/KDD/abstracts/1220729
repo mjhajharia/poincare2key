@@ -1,0 +1,9 @@
+Aggregating_VBG time_NN partitions_NNS
+Partitions_NNS of_IN sequential_JJ data_NNS exist_VBP either_CC per_FW se_FW or_CC as_IN a_DT result_NN of_IN sequence_NN segmentation_NN algorithms_NNS ._.
+It_PRP is_VBZ often_RB the_DT case_NN that_IN the_DT same_JJ timeline_NN is_VBZ partitioned_VBN in_IN many_JJ different_JJ ways_NNS ._.
+For_IN example_NN ,_, different_JJ segmentation_NN algorithms_NNS produce_VBP different_JJ partitions_NNS of_IN the_DT same_JJ underlying_JJ data_NN points_NNS ._.
+In_IN such_JJ cases_NNS ,_, we_PRP are_VBP interested_JJ in_IN producing_VBG an_DT aggregate_JJ partition_NN ,_, i.e._FW ,_, a_DT segmentation_NN that_WDT agrees_VBZ as_RB much_JJ as_IN possible_JJ with_IN the_DT input_NN segmentations_NNS ._.
+Each_DT partition_NN is_VBZ defined_VBN as_IN a_DT set_NN of_IN continuous_JJ non-overlapping_JJ segments_NNS of_IN the_DT timeline_NN ._.
+We_PRP show_VBP that_IN this_DT problem_NN can_MD be_VB solved_VBN optimally_RB in_IN polynomial_JJ time_NN using_VBG dynamic_JJ programming_NN ._.
+We_PRP also_RB propose_VBP faster_JJR greedy_JJ heuristics_NNS that_WDT work_VBP well_RB in_IN practice_NN ._.
+We_PRP experiment_NN with_IN our_PRP$ algorithms_NNS and_CC we_PRP demonstrate_VBP their_PRP$ utility_NN in_IN clustering_VBG the_DT behavior_NN of_IN mobile-phone_NN users_NNS and_CC combining_VBG the_DT results_NNS of_IN different_JJ segmentation_NN algorithms_NNS on_IN genomic_JJ sequences_NNS ._.

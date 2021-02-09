@@ -1,0 +1,11 @@
+Evaluating_VBG similarity_NN measures_NNS for_IN emergent_JJ semantics_NNS of_IN social_JJ tagging_NN
+Social_NN bookmarking_NN systems_NNS are_VBP becoming_VBG increasingly_RB important_JJ data_NNS sources_NNS for_IN bootstrapping_VBG and_CC maintaining_VBG Semantic_JJ Web_NN applications_NNS ._.
+Their_PRP$ emergent_JJ information_NN structures_NNS have_VBP become_VBN known_VBN as_IN folksonomies_NNS ._.
+A_DT key_JJ question_NN for_IN harvesting_VBG semantics_NNS from_IN these_DT systems_NNS is_VBZ how_WRB to_TO extend_VB and_CC adapt_VB traditional_JJ notions_NNS of_IN similarity_NN to_TO folksonomies_NNS ,_, and_CC which_WDT measures_NNS are_VBP best_RB suited_VBN for_IN applications_NNS such_JJ as_IN community_NN detection_NN ,_, navigation_NN support_NN ,_, semantic_JJ search_NN ,_, user_NN profiling_NN and_CC ontology_NN learning_NN ._.
+Here_RB we_PRP build_VBP an_DT evaluation_NN framework_NN to_TO compare_VB various_JJ general_JJ folksonomy-based_JJ similarity_NN measures_NNS ,_, which_WDT are_VBP derived_VBN from_IN several_JJ established_JJ information-theoretic_JJ ,_, statistical_JJ ,_, and_CC practical_JJ measures_NNS ._.
+Our_PRP$ framework_NN deals_NNS generally_RB and_CC symmetrically_RB with_IN users_NNS ,_, tags_NNS ,_, and_CC resources_NNS ._.
+For_IN evaluation_NN purposes_NNS we_PRP focus_VBP on_IN similarity_NN between_IN tags_NNS and_CC between_IN resources_NNS and_CC consider_VB different_JJ methods_NNS to_TO aggregate_JJ annotations_NNS across_IN users_NNS ._.
+After_IN comparing_VBG the_DT ability_NN of_IN several_JJ tag_NN similarity_NN measures_NNS to_TO predict_VB user-created_JJ tag_NN relations_NNS ,_, we_PRP provide_VBP an_DT external_JJ grounding_NN by_IN user-validated_JJ semantic_JJ proxies_NNS based_VBN on_IN WordNet_NNP and_CC the_DT Open_NNP Directory_NNP Project_NNP ._.
+We_PRP also_RB investigate_VBP the_DT issue_NN of_IN scalability_NN ._.
+We_PRP find_VBP that_IN mutual_JJ information_NN with_IN distributional_JJ micro-aggregation_NN across_IN users_NNS yields_VBZ the_DT highest_JJS accuracy_NN ,_, but_CC is_VBZ not_RB scalable_JJ ;_: per-user_JJ projection_NN with_IN collaborative_JJ aggregation_NN provides_VBZ the_DT best_JJS scalable_JJ approach_NN via_IN incremental_JJ computations_NNS ._.
+The_DT results_NNS are_VBP consistent_JJ across_IN resource_NN and_CC tag_NN similarity_NN ._.

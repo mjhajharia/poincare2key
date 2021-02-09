@@ -1,0 +1,8 @@
+Staging_NN transformations_NNS for_IN multimodal_JJ web_NN interaction_NN management_NN
+Multimodal_JJ interfaces_NNS are_VBP becoming_VBG increasingly_RB ubiquitous_JJ with_IN the_DT advent_NN of_IN mobile_JJ devices_NNS ,_, accessibility_NN considerations_NNS ,_, and_CC novel_JJ software_NN technologies_NNS that_WDT combine_VBP diverse_JJ interaction_NN media_NNS ._.
+In_IN addition_NN to_TO improving_VBG access_NN and_CC delivery_NN capabilities_NNS ,_, such_JJ interfaces_NNS enable_VBP flexible_JJ and_CC personalized_JJ dialogs_NNS with_IN websites_NNS ,_, much_RB like_IN a_DT conversation_NN between_IN humans_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT software_NN framework_NN for_IN multimodal_JJ web_NN interaction_NN management_NN that_WDT supports_VBZ mixed-initiative_JJ dialogs_NNS between_IN users_NNS and_CC websites_NNS ._.
+A_DT mixed-initiative_JJ dialog_NN is_VBZ one_CD where_WRB the_DT user_NN and_CC the_DT website_NNS take_VBP turns_NNS changing_VBG the_DT flow_NN of_IN interaction_NN ._.
+The_DT framework_NN supports_VBZ the_DT functional_JJ specification_NN and_CC realization_NN of_IN such_JJ dialogs_NNS using_VBG staging_NN transformations_NNS --_: a_DT theory_NN for_IN representing_VBG and_CC reasoning_NN about_IN dialogs_NNS based_VBN on_IN partial_JJ input_NN ._.
+It_PRP supports_VBZ multiple_JJ interaction_NN interfaces_NNS ,_, and_CC offers_VBZ sessioning_NN ,_, caching_NN ,_, and_CC co-ordination_NN functions_NNS through_IN the_DT use_NN of_IN an_DT interaction_NN manager_NN ._.
+Two_CD case_NN studies_NNS are_VBP presented_VBN to_TO illustrate_VB the_DT promise_NN of_IN this_DT approach_NN ._.

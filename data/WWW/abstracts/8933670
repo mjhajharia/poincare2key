@@ -1,0 +1,5 @@
+Scheduling_VBG web_NN requests_NNS in_IN broadcast_NN environments_NNS
+On-demand_JJ broadcast_NN has_VBZ been_VBN supported_VBN in_IN the_DT Internet_NN to_TO enhance_VB system_NN scalability_NN ._.
+Unfortunately_RB ,_, most_JJS of_IN existing_VBG on-demand_JJ scheduling_NN algorithms_NNS did_VBD not_RB consider_VB the_DT time_NN constraints_NNS associated_VBN with_IN web_NN requests_NNS ._.
+This_DT paper_NN proposes_VBZ a_DT novel_JJ scheduling_NN algorithm_NN ,_, called_VBN Slack_NNP Inverse_NNP Number_NNP of_IN requests_NNS -LRB-_-LRB- SIN_NN -RRB-_-RRB- ,_, that_WDT takes_VBZ into_IN account_NN the_DT urgency_NN and_CC productivity_NN of_IN serving_VBG pending_VBG requests_NNS ._.
+Trace-driven_JJ experiments_NNS demonstrate_VBP that_IN SIN_NN significantly_RB out_RB performs_VBZ existing_VBG algorithms_NNS over_IN a_DT wide_JJ range_NN of_IN workloads_NNS ._.

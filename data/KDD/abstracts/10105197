@@ -1,0 +1,8 @@
+Co-evolution_NN of_IN social_JJ and_CC affiliation_NN networks_NNS
+In_IN our_PRP$ work_NN ,_, we_PRP address_VBP the_DT problem_NN of_IN modeling_NN social_JJ network_NN generation_NN which_WDT explains_VBZ both_CC link_NN and_CC group_NN formation_NN ._.
+Recent_JJ studies_NNS on_IN social_JJ network_NN evolution_NN propose_VBP generative_JJ models_NNS which_WDT capture_VBP the_DT statistical_JJ properties_NNS of_IN real-world_JJ networks_NNS related_VBN only_RB to_TO node-to-node_JJ link_NN formation_NN ._.
+We_PRP propose_VBP a_DT novel_JJ model_NN which_WDT captures_VBZ the_DT co-evolution_NN of_IN social_JJ and_CC affiliation_NN networks_NNS ._.
+We_PRP provide_VBP surprising_JJ insights_NNS into_IN group_NN formation_NN based_VBN on_IN observations_NNS in_IN several_JJ real-world_JJ networks_NNS ,_, showing_VBG that_IN users_NNS often_RB join_VBP groups_NNS for_IN reasons_NNS other_JJ than_IN their_PRP$ friends_NNS ._.
+Our_PRP$ experiments_NNS show_VBP that_IN the_DT model_NN is_VBZ able_JJ to_TO capture_VB both_CC the_DT newly_RB observed_VBN and_CC previously_RB studied_VBN network_NN properties_NNS ._.
+This_DT work_NN is_VBZ the_DT first_JJ to_TO propose_VB a_DT generative_JJ model_NN which_WDT captures_VBZ the_DT statistical_JJ properties_NNS of_IN these_DT complex_JJ networks_NNS ._.
+The_DT proposed_VBN model_NN facilitates_VBZ controlled_JJ experiments_NNS which_WDT study_VBP the_DT effect_NN of_IN actors_NNS '_POS behavior_NN on_IN the_DT evolution_NN of_IN affiliation_NN networks_NNS ,_, and_CC it_PRP allows_VBZ the_DT generation_NN of_IN realistic_JJ synthetic_JJ datasets_NNS ._.

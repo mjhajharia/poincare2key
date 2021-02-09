@@ -1,0 +1,11 @@
+Serf_NN and_CC turf_NN :_: crowdturfing_VBG for_IN fun_NN and_CC profit_NN
+Popular_NNP Internet_NNP services_NNS in_IN recent_JJ years_NNS have_VBP shown_VBN that_IN remarkable_JJ things_NNS can_MD be_VB achieved_VBN by_IN harnessing_VBG the_DT power_NN of_IN the_DT masses_NNS using_VBG crowd-sourcing_JJ systems_NNS ._.
+However_RB ,_, crowd-sourcing_JJ systems_NNS can_MD also_RB pose_VB a_DT real_JJ challenge_NN to_TO existing_VBG security_NN mechanisms_NNS deployed_VBN to_TO protect_VB Internet_NNP services_NNS ._.
+Many_JJ of_IN these_DT security_NN techniques_NNS rely_VBP on_IN the_DT assumption_NN that_IN malicious_JJ activity_NN is_VBZ generated_VBN automatically_RB by_IN automated_JJ programs_NNS ._.
+Thus_RB they_PRP would_MD perform_VB poorly_RB or_CC be_VB easily_RB bypassed_VBN when_WRB attacks_NNS are_VBP generated_VBN by_IN real_JJ users_NNS working_VBG in_IN a_DT crowd-sourcing_JJ system_NN ._.
+Through_IN measurements_NNS ,_, we_PRP have_VBP found_VBN surprising_JJ evidence_NN showing_VBG that_IN not_RB only_RB do_VB malicious_JJ crowd-sourcing_JJ systems_NNS exist_VBP ,_, but_CC they_PRP are_VBP rapidly_RB growing_VBG in_IN both_CC user_NN base_NN and_CC total_JJ revenue_NN ._.
+We_PRP describe_VBP in_IN this_DT paper_NN a_DT significant_JJ effort_NN to_TO study_VB and_CC understand_VB these_DT ``_`` crowdturfing_NN ''_'' systems_NNS in_IN today_NN 's_POS Internet_NN ._.
+We_PRP use_VBP detailed_VBN crawls_VBZ to_TO extract_VB data_NNS about_IN the_DT size_NN and_CC operational_JJ structure_NN of_IN these_DT crowdturfing_VBG systems_NNS ._.
+We_PRP analyze_VBP details_NNS of_IN campaigns_NNS offered_VBN and_CC performed_VBN in_IN these_DT sites_NNS ,_, and_CC evaluate_VB their_PRP$ end-to-end_JJ effectiveness_NN by_IN running_VBG active_JJ ,_, benign_JJ campaigns_NNS of_IN our_PRP$ own_JJ ._.
+Finally_RB ,_, we_PRP study_VBP and_CC compare_VBP the_DT source_NN of_IN workers_NNS on_IN crowdturfing_VBG sites_NNS in_IN different_JJ countries_NNS ._.
+Our_PRP$ results_NNS suggest_VBP that_IN campaigns_NNS on_IN these_DT systems_NNS are_VBP highly_RB effective_JJ at_IN reaching_VBG users_NNS ,_, and_CC their_PRP$ continuing_VBG growth_NN poses_VBZ a_DT concrete_JJ threat_NN to_TO online_JJ communities_NNS both_CC in_IN the_DT US_NNP and_CC elsewhere_RB ._.

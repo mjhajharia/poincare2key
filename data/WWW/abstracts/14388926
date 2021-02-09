@@ -1,0 +1,11 @@
+Distributed_VBN graph_NN pattern_NN matching_VBG
+Graph_NN simulation_NN has_VBZ been_VBN adopted_VBN for_IN pattern_NN matching_NN to_TO reduce_VB the_DT complexity_NN and_CC capture_VB the_DT need_NN of_IN novel_JJ applications_NNS ._.
+With_IN the_DT rapid_JJ development_NN of_IN the_DT Web_NN and_CC social_JJ networks_NNS ,_, data_NNS is_VBZ typically_RB distributed_VBN over_IN multiple_JJ machines_NNS ._.
+Hence_RB a_DT natural_JJ question_NN raised_VBN is_VBZ how_WRB to_TO evaluate_VB graph_NN simulation_NN on_IN distributed_VBN data_NNS ._.
+To_TO our_PRP$ knowledge_NN ,_, no_DT such_JJ distributed_VBN algorithms_NNS are_VBP in_IN place_NN yet_RB ._.
+This_DT paper_NN settles_VBZ this_DT question_NN by_IN providing_VBG evaluation_NN algorithms_NNS and_CC optimizations_NNS for_IN graph_NN simulation_NN in_IN a_DT distributed_VBN setting_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- We_PRP study_VBD the_DT impacts_NNS of_IN components_NNS and_CC data_NNS locality_NN on_IN the_DT evaluation_NN of_IN graph_NN simulation_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- We_PRP give_VBP an_DT analysis_NN of_IN a_DT large_JJ class_NN of_IN distributed_VBN algorithms_NNS ,_, captured_VBN by_IN a_DT message-passing_JJ model_NN ,_, for_IN graph_NN simulation_NN ._.
+We_PRP also_RB identify_VBP three_CD complexity_NN measures_NNS :_: visit_NN times_NNS ,_, makespan_NN and_CC data_NN shipment_NN ,_, for_IN analyzing_VBG the_DT distributed_VBN algorithms_NNS ,_, and_CC show_VBP that_IN these_DT measures_NNS are_VBP essentially_RB controversial_JJ with_IN each_DT other_JJ ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- We_PRP propose_VBP distributed_VBN algorithms_NNS and_CC optimization_NN techniques_NNS that_WDT exploit_VBP the_DT properties_NNS of_IN graph_NN simulation_NN and_CC the_DT analyses_NNS of_IN distributed_VBN algorithms_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- We_PRP experimentally_RB verify_VBP the_DT effectiveness_NN and_CC efficiency_NN of_IN these_DT algorithms_NNS ,_, using_VBG both_CC real-life_JJ and_CC synthetic_JJ data_NNS ._.

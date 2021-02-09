@@ -1,0 +1,7 @@
+Reactive_JJ rules_NNS inference_NN from_IN dynamic_JJ dependency_NN models_NNS
+Defining_VBG dependency_NN models_NNS is_VBZ sometimes_RB an_DT easier_JJR ,_, more_RBR intuitive_JJ way_NN for_IN ontology_NN representation_NN than_IN defining_VBG reactive_JJ rules_NNS directly_RB ,_, as_IN it_PRP provides_VBZ a_DT higher_JJR level_NN of_IN abstraction_NN ._.
+We_PRP will_MD shortly_RB introduce_VB the_DT ADI_NNP -LRB-_-LRB- Active_JJ Dependency_NN Integration_NN -RRB-_-RRB- model_NN capabilities_NNS ,_, emphasizing_VBG new_JJ developments_NNS :_: 1_CD ._.
+Support_NN of_IN automatic_JJ dependencies_NNS instantiation_NN from_IN an_DT abstract_JJ definition_NN that_WDT expresses_VBZ a_DT general_JJ dependency_NN in_IN the_DT ontology_NN ,_, namely_RB a_DT ``_`` template_NN ''_'' ._.
+2_CD ._.
+Inference_NN of_IN rules_NNS for_IN dynamic_JJ dependency_NN models_NNS where_WRB dependencies_NNS and_CC entities_NNS may_MD be_VB inserted_VBN deleted_VBN and_CC updated_VBN ._.
+We_PRP use_VBP the_DT eTrade_NNP example_NN in_IN order_NN to_TO exemplify_VB those_DT capabilities_NNS ._.

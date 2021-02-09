@@ -1,0 +1,8 @@
+Deducing_VBG trip_NN related_JJ information_NN from_IN flickr_NN
+Uploading_VBG tourist_NN photos_NNS is_VBZ a_DT popular_JJ activity_NN on_IN photo_JJ sharing_NN platforms_NNS ._.
+These_DT photographs_NNS and_CC their_PRP$ associated_VBN metadata_NN -LRB-_-LRB- tags_NNS ,_, geo-tags_NNS ,_, and_CC temporal_JJ information_NN -RRB-_-RRB- should_MD be_VB useful_JJ for_IN mining_NN information_NN about_IN the_DT sites_NNS visited_VBD ._.
+However_RB ,_, user-supplied_JJ metadata_NN are_VBP often_RB noisy_JJ and_CC efficient_JJ filtering_VBG methods_NNS are_VBP needed_VBN before_IN extracting_VBG useful_JJ knowledge_NN ._.
+We_PRP focus_VBP here_RB on_IN exploiting_VBG temporal_JJ information_NN ,_, associated_VBN with_IN tourist_NN sites_NNS that_WDT appear_VBP in_IN Flickr_NNP ._.
+From_IN automatically_RB filtered_VBN sets_NNS of_IN geo-tagged_JJ photos_NNS ,_, we_PRP deduce_VBP answers_NNS to_TO questions_NNS like_IN ``_`` how_WRB long_RB does_VBZ it_PRP take_VB to_TO visit_VB a_DT tourist_NN attraction_NN ?_. ''_''
+or_CC ``_`` what_WP can_MD I_PRP visit_VB in_IN one_CD day_NN in_IN this_DT city_NN ?_. ''_''
+Our_PRP$ method_NN is_VBZ evaluated_VBN and_CC validated_VBN by_IN comparing_VBG the_DT automatically_RB obtained_VBN visit_NN duration_NN times_NNS to_TO manual_JJ estimations_NNS ._.

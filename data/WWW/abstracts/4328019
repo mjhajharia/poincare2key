@@ -1,0 +1,11 @@
+Efficient_JJ search_NN in_IN large_JJ textual_JJ collections_NNS with_IN redundancy_NN
+Current_JJ web_NN search_NN engines_NNS focus_VBP on_IN searching_VBG only_JJ themost_NN recentsnapshot_NN of_IN the_DT web_NN ._.
+In_IN some_DT cases_NNS ,_, however_RB ,_, it_PRP would_MD be_VB desirableto_JJ search_NN over_IN collections_NNS that_WDT include_VBP many_JJ different_JJ crawls_VBZ andversions_NNS of_IN each_DT page_NN ._.
+One_CD important_JJ example_NN of_IN such_PDT a_DT collectionis_NN the_DT Internet_NNP Archive_NNP ,_, though_IN there_EX are_VBP many_JJ others_NNS ._.
+Sincethe_JJ data_NNS size_NN of_IN such_PDT an_DT archive_NN is_VBZ multiple_JJ times_NNS that_IN of_IN a_DT singlesnapshot_NN ,_, this_DT presents_VBZ us_PRP with_IN significant_JJ performance_NN challenges_NNS ._.
+Current_JJ engines_NNS use_VBP various_JJ techniques_NNS for_IN index_NN compression_NN andoptimized_VBD query_NN execution_NN ,_, but_CC these_DT techniques_NNS do_VBP not_RB exploit_VB thesignificant_JJ similarities_NNS between_IN different_JJ versions_NNS of_IN a_DT page_NN ,_, or_CC betweendifferent_JJ pages_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT general_JJ framework_NN for_IN indexing_NN andquery_NN processing_NN of_IN archival_JJ collections_NNS and_CC ,_, more_RBR generally_RB ,_, anycollections_NNS with_IN a_DT sufficient_JJ amount_NN of_IN redundancy_NN ._.
+Our_PRP$ approachresults_NNS in_IN significant_JJ reductions_NNS in_IN index_NN size_NN and_CC query_NN processingcosts_NNS on_IN such_JJ collections_NNS ,_, and_CC it_PRP is_VBZ orthogonal_JJ to_TO and_CC can_MD be_VB combinedwith_VBN the_DT existing_VBG techniques_NNS ._.
+It_PRP also_RB supports_VBZ highly_RB efficientupdates_NNS ,_, both_DT locally_RB and_CC over_IN a_DT network_NN ._.
+Within_IN this_DT framework_NN ,_, we_PRP describe_VBP and_CC evaluate_VBP different_JJ implementations_NNS that_IN trade_NN offindex_NN size_NN versus_CC CPU_NN cost_NN and_CC other_JJ factors_NNS ,_, and_CC discuss_VBP applicationsranging_NN from_IN archival_JJ web_NN search_NN to_TO local_JJ search_NN of_IN web_NN sites_NNS ,_, email_NN archives_NNS ,_, or_CC file_NN systems_NNS ._.
+We_PRP present_VBP experimental_JJ resultsbased_NN on_IN search_NN engine_NN query_NN log_NN and_CC a_DT large_JJ collection_NN consistingof_NN multiple_NN crawls_VBZ ._.

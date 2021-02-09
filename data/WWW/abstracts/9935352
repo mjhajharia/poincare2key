@@ -1,0 +1,9 @@
+2lip_NN :_: the_DT step_NN towards_IN the_DT web3d_NN
+The_DT World_NNP Wide_NN Web_NN allows_VBZ users_NNS to_TO create_VB and_CC publish_VB a_DT variety_NN of_IN resources_NNS ,_, including_VBG multimedia_NNS ones_NNS ._.
+Most_JJS of_IN the_DT contemporary_JJ best_JJS practices_NNS for_IN designing_VBG web_NN interfaces_NNS ,_, however_RB ,_, do_VBP not_RB take_VB into_IN account_NN the_DT 3D_NN techniques_NNS ._.
+In_IN this_DT paper_NN we_PRP present_VBP a_DT novel_JJ approach_NN for_IN designing_VBG interactive_JJ web_NN applications_NNS --_: 2-Layer_NNP Interface_NNP Paradigm_NN -LRB-_-LRB- 2LIP_NN -RRB-_-RRB- ._.
+The_DT background_NN layer_NN of_IN the_DT 2LIP-type_JJ user_NN interface_NN is_VBZ a_DT 3D_NN scene_NN ,_, which_WDT a_DT user_NN can_MD not_RB directly_RB interact_VB with_IN ._.
+The_DT foreground_NN layer_NN is_VBZ HTML_NNP content_NN ._.
+Only_RB taking_VBG an_DT action_NN on_IN this_DT content_NN -LRB-_-LRB- e.g._FW pressing_VBG a_DT hyperlink_NN ,_, scrolling_VBG a_DT page_NN -RRB-_-RRB- can_MD affect_VB the_DT 3D_NN scene_NN ._.
+We_PRP introduce_VBP a_DT reference_NN implementation_NN of_IN 2LIP_NN :_: Copernicus_NN -_: The_DT Virtual_JJ 3D_NN Encyclopedia_NN ,_, which_WDT shows_VBZ one_CD of_IN the_DT potential_JJ paths_NNS of_IN the_DT evolution_NN of_IN Wikipedia_NNP towards_IN Web_NN 3.0_CD ._.
+Based_VBN on_IN the_DT evaluation_NN of_IN Copernicus_NNP we_PRP prove_VBP that_IN designing_VBG web_NN interfaces_NNS according_VBG to_TO 2LIP_NN provides_VBZ users_NNS a_DT better_JJR browsing_NN experience_NN ,_, without_IN harming_VBG the_DT interaction_NN ._.

@@ -1,0 +1,5 @@
+Graffiti_NNP :_: node_NN labeling_NN in_IN heterogeneous_JJ networks_NNS
+We_PRP introduce_VBP a_DT multi-label_JJ classification_NN model_NN and_CC algorithm_NN for_IN labeling_VBG heterogeneous_JJ networks_NNS ,_, where_WRB nodes_NNS belong_VBP to_TO different_JJ types_NNS and_CC different_JJ types_NNS have_VBP different_JJ sets_NNS of_IN classification_NN labels_NNS ._.
+We_PRP present_VBP a_DT graph-based_JJ approach_NN which_WDT models_NNS the_DT mutual_JJ influence_NN between_IN nodes_NNS in_IN the_DT network_NN as_IN a_DT random_JJ walk_NN ._.
+When_WRB viewing_VBG class_NN labels_NNS as_IN ``_`` colors_NNS ''_'' ,_, the_DT random_JJ surfer_NN is_VBZ ``_`` spraying_VBG ''_'' different_JJ node_NN types_NNS with_IN different_JJ color_NN palettes_NNS ;_: hence_RB the_DT name_NN Graffiti_NNP ._.
+We_PRP demonstrate_VBP the_DT performance_NN gains_NNS of_IN our_PRP$ method_NN by_IN comparing_VBG it_PRP to_TO three_CD state-of-the-art_JJ techniques_NNS for_IN graph-based_JJ classification_NN ._.

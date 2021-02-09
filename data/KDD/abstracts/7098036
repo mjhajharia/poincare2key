@@ -1,0 +1,6 @@
+Out-of-core_JJ frequent_JJ pattern_NN mining_NN on_IN a_DT commodity_NN PC_NN
+In_IN this_DT work_NN we_PRP focus_VBP on_IN the_DT problem_NN of_IN frequent_JJ itemset_JJ mining_NN on_IN large_JJ ,_, out-of-core_JJ data_NNS sets_NNS ._.
+After_IN presenting_VBG a_DT characterization_NN of_IN existing_VBG out-of-core_JJ frequent_JJ itemset_NN mining_NN algorithms_NNS and_CC their_PRP$ drawbacks_NNS ,_, we_PRP introduce_VBP our_PRP$ efficient_JJ ,_, highly_RB scalable_JJ solution_NN ._.
+Presented_VBN in_IN the_DT context_NN of_IN the_DT FPGrowth_NN algorithm_NN ,_, our_PRP$ technique_NN involves_VBZ several_JJ novel_JJ I\/O-conscious_JJ optimizations_NNS ,_, such_JJ as_IN approximate_JJ hash-based_JJ sorting_NN and_CC blocking_NN ,_, and_CC leverages_VBZ recent_JJ architectural_JJ advancements_NNS in_IN commodity_NN computers_NNS ,_, such_JJ as_IN 64-bit_JJ processing_NN ._.
+We_PRP evaluate_VBP the_DT proposed_VBN optimizations_NNS on_IN truly_RB large_JJ data_NNS sets_NNS ,_, up_RB to_TO 75GB_NN ,_, and_CC show_VBP they_PRP yield_VBP greater_JJR than_IN a_DT 400-fold_JJ execution_NN time_NN improvement_NN ._.
+Finally_RB ,_, we_PRP discuss_VBP the_DT impact_NN of_IN this_DT research_NN in_IN the_DT context_NN of_IN other_JJ pattern_NN mining_NN challenges_NNS ,_, such_JJ as_IN sequence_NN mining_NN and_CC graph_NN mining_NN ._.

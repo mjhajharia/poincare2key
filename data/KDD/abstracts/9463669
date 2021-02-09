@@ -1,0 +1,16 @@
+Composition_NN attacks_NNS and_CC auxiliary_JJ information_NN in_IN data_NNS privacy_NN
+Privacy_NN is_VBZ an_DT increasingly_RB important_JJ aspect_NN of_IN data_NN publishing_NN ._.
+Reasoning_NN about_IN privacy_NN ,_, however_RB ,_, is_VBZ fraught_JJ with_IN pitfalls_NNS ._.
+One_CD of_IN the_DT most_RBS significant_JJ is_VBZ the_DT auxiliary_JJ information_NN -LRB-_-LRB- also_RB called_VBN external_JJ knowledge_NN ,_, background_NN knowledge_NN ,_, or_CC side_NN information_NN -RRB-_-RRB- that_IN an_DT adversary_NN gleans_VBZ from_IN other_JJ channels_NNS such_JJ as_IN the_DT web_NN ,_, public_JJ records_NNS ,_, or_CC domain_NN knowledge_NN ._.
+This_DT paper_NN explores_VBZ how_WRB one_CD can_NN reason_NN about_IN privacy_NN in_IN the_DT face_NN of_IN rich_JJ ,_, realistic_JJ sources_NNS of_IN auxiliary_JJ information_NN ._.
+Specifically_RB ,_, we_PRP investigate_VBP the_DT effectiveness_NN of_IN current_JJ anonymization_NN schemes_NNS in_IN preserving_NN privacy_NN when_WRB multiple_JJ organizations_NNS independently_RB release_VBP anonymized_JJ data_NNS about_IN overlapping_VBG populations_NNS ._.
+1_CD ._.
+We_PRP investigate_VBP composition_NN attacks_NNS ,_, in_IN which_WDT an_DT adversary_NN uses_VBZ independent_JJ anonymized_JJ releases_NNS to_TO breach_VB privacy_NN ._.
+We_PRP explain_VBP why_WRB recently_RB proposed_VBN models_NNS of_IN limited_JJ auxiliary_JJ information_NN fail_VBP to_TO capture_VB composition_NN attacks_NNS ._.
+Our_PRP$ experiments_NNS demonstrate_VBP that_IN even_RB a_DT simple_JJ instance_NN of_IN a_DT composition_NN attack_NN can_MD breach_VB privacy_NN in_IN practice_NN ,_, for_IN a_DT large_JJ class_NN of_IN currently_RB proposed_VBN techniques_NNS ._.
+The_DT class_NN includes_VBZ k-anonymity_NN and_CC several_JJ recent_JJ variants_NNS ._.
+2_CD ._.
+On_IN a_DT more_RBR positive_JJ note_NN ,_, certain_JJ randomization-based_JJ notions_NNS of_IN privacy_NN -LRB-_-LRB- such_JJ as_IN differential_JJ privacy_NN -RRB-_-RRB- provably_RB resist_VBP composition_NN attacks_NNS and_CC ,_, in_IN fact_NN ,_, the_DT use_NN of_IN arbitrary_JJ side_NN information_NN ._.
+This_DT resistance_NN enables_VBZ ``_`` stand-alone_JJ ''_'' design_NN of_IN anonymization_NN schemes_NNS ,_, without_IN the_DT need_NN for_IN explicitly_RB keeping_VBG track_NN of_IN other_JJ releases_NNS ._.
+We_PRP provide_VBP a_DT precise_JJ formulation_NN of_IN this_DT property_NN ,_, and_CC prove_VBP that_IN an_DT important_JJ class_NN of_IN relaxations_NNS of_IN differential_JJ privacy_NN also_RB satisfy_VBP the_DT property_NN ._.
+This_DT significantly_RB enlarges_VBZ the_DT class_NN of_IN protocols_NNS known_VBN to_TO enable_VB modular_JJ design_NN ._.

@@ -1,0 +1,11 @@
+A_DT Web_NN page_NN prediction_NN model_NN based_VBN on_IN click-stream_JJ tree_NN representation_NN of_IN user_NN behavior_NN
+Predicting_VBG the_DT next_JJ request_NN of_IN a_DT user_NN as_IN she_PRP visits_VBZ Web_NN pages_NNS has_VBZ gained_VBN importance_NN as_IN Web-based_JJ activity_NN increases_NNS ._.
+Markov_NNP models_NNS and_CC their_PRP$ variations_NNS ,_, or_CC models_NNS based_VBN on_IN sequence_NN mining_NN have_VBP been_VBN found_VBN well_RB suited_VBN for_IN this_DT problem_NN ._.
+However_RB ,_, higher_JJR order_NN Markov_NNP models_NNS are_VBP extremely_RB complicated_VBN due_JJ to_TO their_PRP$ large_JJ number_NN of_IN states_NNS whereas_IN lower_JJR order_NN Markov_NNP models_NNS do_VBP not_RB capture_VB the_DT entire_JJ behavior_NN of_IN a_DT user_NN in_IN a_DT session_NN ._.
+The_DT models_NNS that_WDT are_VBP based_VBN on_IN sequential_JJ pattern_NN mining_NN only_RB consider_VBP the_DT frequent_JJ sequences_NNS in_IN the_DT data_NNS set_NN ,_, making_VBG it_PRP difficult_JJ to_TO predict_VB the_DT next_JJ request_NN following_VBG a_DT page_NN that_WDT is_VBZ not_RB in_IN the_DT sequential_JJ pattern_NN ._.
+Furthermore_RB ,_, it_PRP is_VBZ hard_JJ to_TO find_VB models_NNS for_IN mining_NN two_CD different_JJ kinds_NNS of_IN information_NN of_IN a_DT user_NN session_NN ._.
+We_PRP propose_VBP a_DT new_JJ model_NN that_WDT considers_VBZ both_DT the_DT order_NN information_NN of_IN pages_NNS in_IN a_DT session_NN and_CC the_DT time_NN spent_VBN on_IN them_PRP ._.
+We_PRP cluster_VBP user_NN sessions_NNS based_VBN on_IN their_PRP$ pair-wise_JJ similarity_NN and_CC represent_VBP the_DT resulting_VBG clusters_NNS by_IN a_DT click-stream_JJ tree_NN ._.
+The_DT new_JJ user_NN session_NN is_VBZ then_RB assigned_VBN to_TO a_DT cluster_NN based_VBN on_IN a_DT similarity_NN measure_NN ._.
+The_DT click-stream_JJ tree_NN of_IN that_DT cluster_NN is_VBZ used_VBN to_TO generate_VB the_DT recommendation_NN set_NN ._.
+The_DT model_NN can_MD be_VB used_VBN as_IN part_NN of_IN a_DT cache_NN prefetching_NN system_NN as_RB well_RB as_IN a_DT recommendation_NN model_NN ._.

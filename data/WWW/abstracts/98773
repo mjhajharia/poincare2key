@@ -1,0 +1,4 @@
+A_DT multimodal_JJ interaction_NN manager_NN for_IN device_NN independent_JJ mobile_JJ applications_NNS
+This_DT poster_NN presents_VBZ an_DT overview_NN of_IN the_DT work_NN on_IN an_DT interaction_NN manager_NN of_IN a_DT platform_NN for_IN multimodal_JJ applications_NNS in_IN 2.5_CD G_NN and_CC 3G_NN mobile_JJ phone_NN networks_NNS and_CC WLAN_NNP environments_NNS ._.
+The_DT poster_NN describes_VBZ the_DT requirements_NNS for_IN the_DT interaction_NN manager_NN -LRB-_-LRB- IM_NN -RRB-_-RRB- ,_, its_PRP$ tasks_NNS and_CC the_DT resulting_VBG structure_NN ._.
+We_PRP examine_VBP the_DT W3C_NN 's_POS definition_NN of_IN an_DT interaction_NN manager_NN and_CC compare_VB it_PRP to_TO our_PRP$ implementation_NN ,_, which_WDT accomplishes_VBZ some_DT additional_JJ tasks_NNS ._.

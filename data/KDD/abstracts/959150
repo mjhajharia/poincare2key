@@ -1,0 +1,7 @@
+On_IN detecting_VBG differences_NNS between_IN groups_NNS
+Understanding_VBG the_DT differences_NNS between_IN contrasting_VBG groups_NNS is_VBZ a_DT fundamental_JJ task_NN in_IN data_NN analysis_NN ._.
+This_DT realization_NN has_VBZ led_VBN to_TO the_DT development_NN of_IN a_DT new_JJ special_JJ purpose_NN data_NNS mining_NN technique_NN ,_, contrast-set_JJ mining_NN ._.
+We_PRP undertook_VBD a_DT study_NN with_IN a_DT retail_JJ collaborator_NN to_TO compare_VB contrast-set_JJ mining_NN with_IN existing_VBG rule-discovery_JJ techniques_NNS ._.
+To_TO our_PRP$ surprise_NN we_PRP observed_VBD that_IN straightforward_JJ application_NN of_IN an_DT existing_VBG commercial_JJ rule-discovery_NN system_NN ,_, Magnum_NNP Opus_NNP ,_, could_MD successfully_RB perform_VB the_DT contrast-set-mining_JJ task_NN ._.
+This_DT led_VBD to_TO the_DT realization_NN that_IN contrast-set_JJ mining_NN is_VBZ a_DT special_JJ case_NN of_IN the_DT more_RBR general_JJ rule-discovery_JJ task_NN ._.
+We_PRP present_VBP the_DT results_NNS of_IN our_PRP$ study_NN together_RB with_IN a_DT proof_NN of_IN this_DT conclusion_NN ._.

@@ -1,0 +1,13 @@
+Learning_NNP optimal_JJ ranking_NN with_IN tensor_NN factorization_NN for_IN tag_NN recommendation_NN
+Tag_NN recommendation_NN is_VBZ the_DT task_NN of_IN predicting_VBG a_DT personalized_JJ list_NN of_IN tags_NNS for_IN a_DT user_NN given_VBN an_DT item_NN ._.
+This_DT is_VBZ important_JJ for_IN many_JJ websites_NNS with_IN tagging_VBG capabilities_NNS like_IN last_JJ ._.
+fm_NN or_CC delicious_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT method_NN for_IN tag_NN recommendation_NN based_VBN on_IN tensor_NN factorization_NN -LRB-_-LRB- TF_NN -RRB-_-RRB- ._.
+In_IN contrast_NN to_TO other_JJ TF_NN methods_NNS like_IN higher_JJR order_NN singular_JJ value_NN decomposition_NN -LRB-_-LRB- HOSVD_NN -RRB-_-RRB- ,_, our_PRP$ method_NN RTF_NN -LRB-_-LRB- `_`` ranking_NN with_IN tensor_NN factorization_NN '_'' -RRB-_-RRB- directly_RB optimizes_VBZ the_DT factorization_NN model_NN for_IN the_DT best_JJS personalized_VBN ranking_NN ._.
+RTF_NNP handles_VBZ missing_VBG values_NNS and_CC learns_VBZ from_IN pairwise_JJ ranking_JJ constraints_NNS ._.
+Our_PRP$ optimization_NN criterion_NN for_IN TF_NN is_VBZ motivated_VBN by_IN a_DT detailed_JJ analysis_NN of_IN the_DT problem_NN and_CC of_IN interpretation_NN schemes_NNS for_IN the_DT observed_VBN data_NNS in_IN tagging_VBG systems_NNS ._.
+In_IN all_DT ,_, RTF_NNP directly_RB optimizes_VBZ for_IN the_DT actual_JJ problem_NN using_VBG a_DT correct_JJ interpretation_NN of_IN the_DT data_NNS ._.
+We_PRP provide_VBP a_DT gradient_NN descent_NN algorithm_NN to_TO solve_VB our_PRP$ optimization_NN problem_NN ._.
+We_PRP also_RB provide_VBP an_DT improved_JJ learning_NN and_CC prediction_NN method_NN with_IN runtime_NN complexity_NN analysis_NN for_IN RTF_NNP ._.
+The_DT prediction_NN runtime_NN of_IN RTF_NN is_VBZ independent_JJ of_IN the_DT number_NN of_IN observations_NNS and_CC only_RB depends_VBZ on_IN the_DT factorization_NN dimensions_NNS ._.
+Besides_IN the_DT theoretical_JJ analysis_NN ,_, we_PRP empirically_RB show_VBP that_IN our_PRP$ method_NN outperforms_VBZ other_JJ state-of-the-art_JJ tag_NN recommendation_NN methods_NNS like_IN FolkRank_NNP ,_, PageRank_NNP and_CC HOSVD_NNP both_CC in_IN quality_NN and_CC prediction_NN runtime_NN ._.

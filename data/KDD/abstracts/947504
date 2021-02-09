@@ -1,0 +1,8 @@
+Feature_NN selection_NN methods_NNS for_IN text_NN classification_NN
+We_PRP consider_VBP feature_NN selection_NN for_IN text_NN classification_NN both_CC theoretically_RB and_CC empirically_RB ._.
+Our_PRP$ main_JJ result_NN is_VBZ an_DT unsupervised_JJ feature_NN selection_NN strategy_NN for_IN which_WDT we_PRP give_VBP worst-case_JJ theoretical_JJ guarantees_NNS on_IN the_DT generalization_NN power_NN of_IN the_DT resultant_JJ classification_NN function_NN f_SYM with_IN respect_NN to_TO the_DT classification_NN function_NN f_FW obtained_VBN when_WRB keeping_VBG all_PDT the_DT features_NNS ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, this_DT is_VBZ the_DT first_JJ feature_NN selection_NN method_NN with_IN such_JJ guarantees_NNS ._.
+In_IN addition_NN ,_, the_DT analysis_NN leads_VBZ to_TO insights_NNS as_IN to_TO when_WRB and_CC why_WRB this_DT feature_NN selection_NN strategy_NN will_MD perform_VB well_RB in_IN practice_NN ._.
+We_PRP then_RB use_VBP the_DT TechTC-100_NN ,_, 20-Newsgroups_NN ,_, and_CC Reuters-RCV2_NN data_NNS sets_VBZ to_TO evaluate_VB empirically_RB the_DT performance_NN of_IN this_DT and_CC two_CD simpler_JJR but_CC related_JJ feature_NN selection_NN strategies_NNS against_IN two_CD commonly-used_JJ strategies_NNS ._.
+Our_PRP$ empirical_JJ evaluation_NN shows_VBZ that_IN the_DT strategy_NN with_IN provable_JJ performance_NN guarantees_NNS performs_VBZ well_RB in_IN comparison_NN with_IN other_JJ commonly-used_JJ feature_NN selection_NN strategies_NNS ._.
+In_IN addition_NN ,_, it_PRP performs_VBZ better_RBR on_IN certain_JJ datasets_NNS under_IN very_RB aggressive_JJ feature_NN selection_NN ._.

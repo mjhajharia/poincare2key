@@ -1,0 +1,7 @@
+Image_NN annotation_NN using_VBG clickthrough_JJ data_NNS
+Automatic_NNP image_NN annotation_NN using_VBG supervised_JJ learning_NN is_VBZ performed_VBN by_IN concept_NN classifiers_NNS trained_VBN on_IN labeled_JJ example_NN images_NNS ._.
+This_DT work_NN proposes_VBZ the_DT use_NN of_IN clickthrough_JJ data_NNS collected_VBN from_IN search_NN logs_NNS as_IN a_DT source_NN for_IN the_DT automatic_JJ generation_NN of_IN concept_NN training_NN data_NNS ,_, thus_RB avoiding_VBG the_DT expensive_JJ manual_JJ annotation_NN effort_NN ._.
+We_PRP investigate_VBP and_CC evaluate_VBP this_DT approach_NN using_VBG a_DT collection_NN of_IN 97,628_CD photographic_JJ images_NNS ._.
+The_DT results_NNS indicate_VBP that_IN the_DT contribution_NN of_IN search_NN log_NN based_VBN training_NN data_NNS is_VBZ positive_JJ ;_: in_IN particular_JJ ,_, the_DT combination_NN of_IN manual_NN and_CC automatically_RB generated_VBN training_NN data_NNS outperforms_VBZ the_DT use_NN of_IN manual_JJ data_NNS alone_RB ._.
+It_PRP is_VBZ therefore_RB possible_JJ to_TO use_VB clickthrough_JJ data_NNS to_TO perform_VB large-scale_JJ image_NN annotation_NN with_IN little_JJ manual_JJ annotation_NN effort_NN or_CC ,_, depending_VBG on_IN performance_NN ,_, using_VBG only_RB the_DT automatically_RB generated_VBN training_NN data_NNS ._.
+The_DT datasets_NNS used_VBD as_RB well_RB as_IN an_DT extensive_JJ presentation_NN of_IN the_DT experimental_JJ results_NNS can_MD be_VB accessed_VBN at_IN http:\/\/olympus.ee.auth.gr\/~diou\/civr2009\/_NN ._.

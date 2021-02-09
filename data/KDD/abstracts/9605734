@@ -1,0 +1,8 @@
+Predicting_VBG bounce_NN rates_NNS in_IN sponsored_VBN search_NN advertisements_NNS
+This_DT paper_NN explores_VBZ an_DT important_JJ and_CC relatively_RB unstudied_JJ quality_NN measure_NN of_IN a_DT sponsored_VBN search_NN advertisement_NN :_: bounce_NN rate_NN ._.
+The_DT bounce_NN rate_NN of_IN an_DT ad_NN can_MD be_VB informally_RB defined_VBN as_IN the_DT fraction_NN of_IN users_NNS who_WP click_VBP on_IN the_DT ad_NN but_CC almost_RB immediately_RB move_VB on_RP to_TO other_JJ tasks_NNS ._.
+A_DT high_JJ bounce_NN rate_NN can_MD lead_VB to_TO poor_JJ advertiser_NN return_NN on_IN investment_NN ,_, and_CC suggests_VBZ search_NN engine_NN users_NNS may_MD be_VB having_VBG a_DT poor_JJ experience_NN following_VBG the_DT click_VBP ._.
+In_IN this_DT paper_NN ,_, we_PRP first_RB provide_VBP quantitative_JJ analysis_NN showing_VBG that_IN bounce_NN rate_NN is_VBZ an_DT effective_JJ measure_NN of_IN user_NN satisfaction_NN ._.
+We_PRP then_RB address_VBP the_DT question_NN ,_, can_MD we_PRP predict_VB bounce_NN rate_NN by_IN analyzing_VBG the_DT features_NNS of_IN the_DT advertisement_NN ?_.
+An_DT affirmative_JJ answer_NN would_MD allow_VB advertisers_NNS and_CC search_NN engines_NNS to_TO predict_VB the_DT effectiveness_NN and_CC quality_NN of_IN advertisements_NNS before_IN they_PRP are_VBP shown_VBN ._.
+We_PRP propose_VBP solutions_NNS to_TO this_DT problem_NN involving_VBG large-scale_JJ learning_NN methods_NNS that_IN leverage_NN features_NNS drawn_VBN from_IN ad_NN creatives_NNS in_IN addition_NN to_TO their_PRP$ keywords_NNS and_CC landing_NN pages_NNS ._.

@@ -1,0 +1,15 @@
+Fast_JJ best-effort_JJ pattern_NN matching_NN in_IN large_JJ attributed_VBN graphs_NNS
+We_PRP focus_VBP on_IN large_JJ graphs_NNS where_WRB nodes_NNS have_VBP attributes_NNS ,_, such_JJ as_IN a_DT social_JJ network_NN where_WRB the_DT nodes_NNS are_VBP labeled_VBN with_IN each_DT person_NN 's_POS job_NN title_NN ._.
+In_IN such_PDT a_DT setting_NN ,_, we_PRP want_VBP to_TO find_VB subgraphs_NNS that_WDT match_VBP a_DT user_NN query_NN pattern_NN ._.
+For_IN example_NN ,_, a_DT ``_`` star_NN ''_'' query_NN would_MD be_VB ,_, ``_`` find_VB a_DT CEO_NN who_WP has_VBZ strong_JJ interactions_NNS with_IN a_DT Manager_NN ,_, a_DT Lawyer_NNP ,_, and_CC an_DT Accountant_NN ,_, or_CC another_DT structure_NN as_RB close_RB to_TO that_DT as_IN possible_JJ ''_'' ._.
+Similarly_RB ,_, a_DT ``_`` loop_NN ''_'' query_NN could_MD help_VB spot_VB a_DT money_NN laundering_NN ring_NN ._.
+Traditional_JJ SQL-based_JJ methods_NNS ,_, as_RB well_RB as_IN more_RBR recent_JJ graph_NN indexing_NN methods_NNS ,_, will_MD return_VB no_DT answer_NN when_WRB an_DT exact_JJ match_NN does_VBZ not_RB exist_VB ._.
+This_DT is_VBZ the_DT first_JJ main_JJ feature_NN of_IN our_PRP$ method_NN ._.
+It_PRP can_MD find_VB exact_JJ -_: ,_, as_RB well_RB as_IN near-matches_NNS ,_, and_CC it_PRP will_MD present_VB them_PRP to_TO the_DT user_NN in_IN our_PRP$ proposed_VBN ``_`` goodness_NN ''_'' order_NN ._.
+For_IN example_NN ,_, our_PRP$ method_NN tolerates_VBZ indirect_JJ paths_NNS between_IN ,_, say_VB ,_, the_DT ``_`` CEO_NNP ''_'' and_CC the_DT ``_`` Accountant_NN ''_'' of_IN the_DT above_JJ sample_NN query_NN ,_, when_WRB direct_JJ paths_NNS do_VBP n't_RB exist_VB ._.
+Its_PRP$ second_JJ feature_NN is_VBZ scalability_NN ._.
+In_IN general_JJ ,_, if_IN the_DT query_NN has_VBZ nq_NN nodes_NNS and_CC the_DT data_NNS graph_NN has_VBZ n_NN nodes_NNS ,_, the_DT problem_NN needs_VBZ polynomial_JJ time_NN complexity_NN O_NN -LRB-_-LRB- n_NN n_NN q_NN -RRB-_-RRB- ,_, which_WDT is_VBZ prohibitive_JJ ._.
+Our_PRP$ G-Ray_NN -LRB-_-LRB- ``_`` Graph_NN X-Ray_NN ''_'' -RRB-_-RRB- method_NN finds_VBZ high-quality_JJ subgraphs_NNS in_IN time_NN linear_NN on_IN the_DT size_NN of_IN the_DT data_NNS graph_NN ._.
+Experimental_JJ results_NNS on_IN the_DT DLBP_NN author-publication_NN graph_NN -LRB-_-LRB- with_IN 356K_NN nodes_NNS and_CC 1.9_CD M_NN edges_NNS -RRB-_-RRB- illustrate_VBP both_CC the_DT effectiveness_NN and_CC scalability_NN of_IN our_PRP$ approach_NN ._.
+The_DT results_NNS agree_VBP with_IN our_PRP$ intuition_NN ,_, and_CC the_DT speed_NN is_VBZ excellent_JJ ._.
+It_PRP takes_VBZ 4_CD seconds_NNS on_IN average_JJ fora_NN 4-node_JJ query_NN on_IN the_DT DBLP_NN graph_NN ._.

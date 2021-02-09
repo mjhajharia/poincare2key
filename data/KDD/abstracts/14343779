@@ -1,0 +1,5 @@
+Detecting_VBG adversarial_JJ advertisements_NNS in_IN the_DT wild_JJ
+In_IN a_DT large_JJ online_JJ advertising_NN system_NN ,_, adversaries_NNS may_MD attempt_VB to_TO profit_VB from_IN the_DT creation_NN of_IN low_JJ quality_NN or_CC harmful_JJ advertisements_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT large_JJ scale_NN data_NNS mining_NN effort_NN that_WDT detects_VBZ and_CC blocks_VBZ such_JJ adversarial_JJ advertisements_NNS for_IN the_DT benefit_NN and_CC safety_NN of_IN our_PRP$ users_NNS ._.
+Because_IN both_CC false_JJ positives_NNS and_CC false_JJ negatives_NNS have_VBP high_JJ cost_NN ,_, our_PRP$ deployed_VBN system_NN uses_VBZ a_DT tiered_JJ strategy_NN combining_VBG automated_JJ and_CC semi-automated_JJ methods_NNS to_TO ensure_VB reliable_JJ classification_NN ._.
+We_PRP also_RB employ_VBP strategies_NNS to_TO address_VB the_DT challenges_NNS of_IN learning_VBG from_IN highly_RB skewed_JJ data_NNS at_IN scale_NN ,_, allocating_VBG the_DT effort_NN of_IN human_JJ experts_NNS ,_, leveraging_VBG domain_NN expert_NN knowledge_NN ,_, and_CC independently_RB assessing_VBG the_DT effectiveness_NN of_IN our_PRP$ system_NN ._.

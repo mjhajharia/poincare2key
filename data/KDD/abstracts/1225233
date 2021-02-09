@@ -1,0 +1,7 @@
+Nomograms_NNS for_IN visualizing_VBG support_NN vector_NN machines_NNS
+We_PRP propose_VBP a_DT simple_NN yet_RB potentially_RB very_RB effective_JJ way_NN of_IN visualizing_VBG trained_JJ support_NN vector_NN machines_NNS ._.
+Nomograms_NNS are_VBP an_DT established_JJ model_NN visualization_NN technique_NN that_WDT can_MD graphically_RB encode_VB the_DT complete_JJ model_NN on_IN a_DT single_JJ page_NN ._.
+The_DT dimensionality_NN of_IN the_DT visualization_NN does_VBZ not_RB depend_VB on_IN the_DT number_NN of_IN attributes_NNS ,_, but_CC merely_RB on_IN the_DT properties_NNS of_IN the_DT kernel_NN ._.
+To_TO represent_VB the_DT effect_NN of_IN each_DT predictive_JJ feature_NN on_IN the_DT log_NN odds_NNS ratio_NN scale_NN as_IN required_VBN for_IN the_DT nomograms_NNS ,_, we_PRP employ_VBP logistic_JJ regression_NN to_TO convert_VB the_DT distance_NN from_IN the_DT separating_VBG hyperplane_NN into_IN a_DT probability_NN ._.
+Case_NN studies_NNS on_IN selected_VBN data_NNS sets_NNS show_VBP that_IN for_IN a_DT technique_NN thought_VBN to_TO be_VB a_DT black-box_JJ ,_, nomograms_NNS can_MD clearly_RB expose_VB its_PRP$ internal_JJ structure_NN ._.
+By_IN providing_VBG an_DT easy-to-interpret_JJ visualization_NN the_DT analysts_NNS can_MD gain_VB insight_NN and_CC study_VB the_DT effects_NNS of_IN predictive_JJ factors_NNS ._.

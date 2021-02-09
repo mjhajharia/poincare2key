@@ -1,0 +1,7 @@
+Google_NNP news_NN personalization_NN :_: scalable_JJ online_JJ collaborative_NN filtering_VBG
+Several_JJ approaches_NNS to_TO collaborative_VB filtering_VBG have_VBP been_VBN studied_VBN but_CC seldom_RB have_VBP studies_NNS been_VBN reported_VBN for_IN large_JJ -LRB-_-LRB- several_JJ millionusers_NNS and_CC items_NNS -RRB-_-RRB- and_CC dynamic_NN -LRB-_-LRB- the_DT underlying_VBG item_NN set_NN is_VBZ continually_RB changing_VBG -RRB-_-RRB- settings_NNS ._.
+In_IN this_DT paper_NN we_PRP describe_VBP our_PRP$ approach_NN to_TO collaborative_VB filtering_VBG for_IN generating_VBG personalized_JJ recommendations_NNS for_IN users_NNS of_IN Google_NNP News_NNP ._.
+We_PRP generate_VBP recommendations_NNS using_VBG three_CD approaches_NNS :_: collaborative_JJ filtering_VBG using_VBG MinHash_JJ clustering_NN ,_, Probabilistic_JJ Latent_JJ Semantic_JJ Indexing_NN -LRB-_-LRB- PLSI_NN -RRB-_-RRB- ,_, and_CC covisitation_NN counts_NNS ._.
+We_PRP combine_VBP recommendations_NNS from_IN different_JJ algorithms_NNS using_VBG a_DT linear_JJ model_NN ._.
+Our_PRP$ approach_NN is_VBZ content_JJ agnostic_JJ and_CC consequently_RB domain_NN independent_JJ ,_, making_VBG it_PRP easily_RB adaptable_JJ for_IN other_JJ applications_NNS and_CC languages_NNS with_IN minimal_JJ effort_NN ._.
+This_DT paper_NN will_MD describe_VB our_PRP$ algorithms_NNS and_CC system_NN setup_NN in_IN detail_NN ,_, and_CC report_NN results_NNS of_IN running_VBG the_DT recommendations_NNS engine_NN on_IN Google_NNP News_NNP ._.

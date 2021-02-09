@@ -1,0 +1,8 @@
+Random_JJ projection_NN in_IN dimensionality_NN reduction_NN :_: applications_NNS to_TO image_NN and_CC text_NN data_NNS
+Random_JJ projections_NNS have_VBP recently_RB emerged_VBN as_IN a_DT powerful_JJ method_NN for_IN dimensionality_NN reduction_NN ._.
+Theoretical_JJ results_NNS indicate_VBP that_IN the_DT method_NN preserves_VBZ distances_NNS quite_RB nicely_RB ;_: however_RB ,_, empirical_JJ results_NNS are_VBP sparse_JJ ._.
+We_PRP present_VBP experimental_JJ results_NNS on_IN using_VBG random_JJ projection_NN as_IN a_DT dimensionality_NN reduction_NN tool_NN in_IN a_DT number_NN of_IN cases_NNS ,_, where_WRB the_DT high_JJ dimensionality_NN of_IN the_DT data_NNS would_MD otherwise_RB lead_VB to_TO burden-some_JJ computations_NNS ._.
+Our_PRP$ application_NN areas_NNS are_VBP the_DT processing_NN of_IN both_CC noisy_JJ and_CC noiseless_JJ images_NNS ,_, and_CC information_NN retrieval_NN in_IN text_NN documents_NNS ._.
+We_PRP show_VBP that_IN projecting_VBG the_DT data_NNS onto_IN a_DT random_JJ lower-dimensional_JJ subspace_NN yields_NNS results_VBZ comparable_JJ to_TO conventional_JJ dimensionality_NN reduction_NN methods_NNS such_JJ as_IN principal_JJ component_NN analysis_NN :_: the_DT similarity_NN of_IN data_NN vectors_NNS is_VBZ preserved_VBN well_RB under_IN random_JJ projection_NN ._.
+However_RB ,_, using_VBG random_JJ projections_NNS is_VBZ computationally_RB significantly_RB less_RBR expensive_JJ than_IN using_VBG ,_, e.g._FW ,_, principal_JJ component_NN analysis_NN ._.
+We_PRP also_RB show_VBP experimentally_RB that_IN using_VBG a_DT sparse_JJ random_JJ matrix_NN gives_VBZ additional_JJ computational_JJ savings_NNS in_IN random_JJ projection_NN ._.

@@ -1,0 +1,10 @@
+Nestedness_NN and_CC segmented_JJ nestedness_NN
+Consider_VB each_DT row_NN of_IN a_DT 0-1_CD dataset_NN as_IN the_DT subset_NN of_IN the_DT columns_NNS for_IN which_WDT the_DT row_NN has_VBZ an_DT 1_CD ._.
+Then_RB a_DT dataset_NN is_VBZ nested_JJ ,_, if_IN for_IN all_DT pairs_NNS of_IN rows_NNS one_CD row_NN is_VBZ either_CC a_DT superset_NN or_CC subset_NN of_IN the_DT other_JJ ._.
+The_DT concept_NN of_IN nestedness_NN has_VBZ its_PRP$ origins_NNS in_IN ecology_NN ,_, where_WRB approximate_JJ versions_NNS of_IN it_PRP has_VBZ been_VBN used_VBN to_TO model_VB the_DT species_NNS distribution_NN in_IN different_JJ locations_NNS ._.
+We_PRP argue_VBP that_IN nestedness_NN and_CC its_PRP$ extensions_NNS are_VBP interesting_JJ properties_NNS of_IN datasets_NNS ,_, and_CC that_IN they_PRP can_MD be_VB applied_VBN also_RB to_TO domains_NNS other_JJ than_IN ecology_NN ._.
+We_PRP first_RB define_VBP natural_JJ measures_NNS of_IN nestedness_NN and_CC study_VB their_PRP$ properties_NNS ._.
+We_PRP then_RB define_VBP the_DT concept_NN of_IN k-nestedness_NN :_: a_DT dataset_NN is_VBZ -LRB-_-LRB- almost_RB -RRB-_-RRB- k-nested_JJ if_IN the_DT set_NN of_IN columns_NNS can_MD be_VB partitioned_VBN to_TO k_NN parts_NNS so_IN that_IN each_DT part_NN is_VBZ -LRB-_-LRB- almost_RB -RRB-_-RRB- nested_JJ ._.
+We_PRP consider_VBP the_DT algorithmic_JJ problems_NNS of_IN computing_NN how_WRB far_RB a_DT dataset_NN is_VBZ from_IN being_VBG k-nested_VBN ,_, and_CC for_IN finding_VBG a_DT good_JJ partition_NN of_IN the_DT columns_NNS into_IN k_NN parts_NNS ._.
+The_DT algorithms_NNS are_VBP based_VBN on_IN spectral_JJ partitioning_NN ,_, and_CC scale_NN to_TO moderately_RB large_JJ datasets_NNS ._.
+We_PRP apply_VBP the_DT methods_NNS to_TO real_JJ data_NNS from_IN ecology_NN and_CC from_IN other_JJ applications_NNS ,_, and_CC demonstrate_VBP the_DT usefulness_NN of_IN the_DT concept_NN ._.

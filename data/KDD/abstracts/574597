@@ -1,0 +1,7 @@
+IMMC_NNP :_: incremental_JJ maximum_JJ margin_NN criterion_NN
+Subspace_NN learning_NN approaches_NNS have_VBP attracted_VBN much_JJ attention_NN in_IN academia_NN recently_RB ._.
+However_RB ,_, the_DT classical_JJ batch_NN algorithms_NNS no_RB longer_RB satisfy_VB the_DT applications_NNS on_IN streaming_NN data_NNS or_CC large-scale_JJ data_NNS ._.
+To_TO meet_VB this_DT desirability_NN ,_, Incremental_JJ Principal_NN Component_NN Analysis_NN -LRB-_-LRB- IPCA_NN -RRB-_-RRB- algorithm_NN has_VBZ been_VBN well_RB established_VBN ,_, but_CC it_PRP is_VBZ an_DT unsupervised_JJ subspace_NN learning_NN approach_NN and_CC is_VBZ not_RB optimal_JJ for_IN general_JJ classification_NN tasks_NNS ,_, such_JJ as_IN face_NN recognition_NN and_CC Web_NN document_NN categorization_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT incremental_JJ supervised_JJ subspace_NN learning_NN algorithm_NN ,_, called_VBN Incremental_NNP Maximum_NNP Margin_NN Criterion_NN -LRB-_-LRB- IMMC_NN -RRB-_-RRB- ,_, to_TO infer_VB an_DT adaptive_JJ subspace_NN by_IN optimizing_VBG the_DT Maximum_NNP Margin_NN Criterion_NN ._.
+We_PRP also_RB present_VBP the_DT proof_NN for_IN convergence_NN of_IN the_DT proposed_VBN algorithm_NN ._.
+Experimental_JJ results_NNS on_IN both_CC synthetic_JJ dataset_NN and_CC real_JJ world_NN datasets_NNS show_VBP that_IN IMMC_NN converges_VBZ to_TO the_DT similar_JJ subspace_NN as_IN that_DT of_IN batch_NN approach_NN ._.

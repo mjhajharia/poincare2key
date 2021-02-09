@@ -1,0 +1,4 @@
+iRIN_NN :_: image_NN retrieval_NN in_IN image-rich_JJ information_NN networks_NNS
+In_IN this_DT demo_NN ,_, we_PRP present_VBP a_DT system_NN called_VBN iRIN_NN designed_VBN for_IN performing_VBG image_NN retrieval_NN in_IN image-rich_JJ information_NN networks_NNS ._.
+We_PRP first_RB introduce_VB MoK-SimRank_NNP to_TO significantly_RB improve_VB the_DT speed_NN of_IN SimRank_NNP ,_, one_CD of_IN the_DT most_RBS popular_JJ algorithms_NNS for_IN computing_NN node_NN similarity_NN in_IN information_NN networks_NNS ._.
+Next_RB ,_, we_PRP propose_VBP an_DT algorithm_NN called_VBN SimLearn_NNP to_TO -LRB-_-LRB- 1_LS -RRB-_-RRB- extend_VB MoK-SimRank_NNP to_TO heterogeneous_JJ image-rich_JJ information_NN network_NN ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- account_VBP for_IN both_CC link-based_JJ and_CC content-based_JJ similarities_NNS by_IN seamlessly_RB integrating_VBG reinforcement_NN learning_NN with_IN feature_NN learning_NN ._.

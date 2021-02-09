@@ -1,0 +1,8 @@
+Toward_IN tighter_JJR integration_NN of_IN web_NN search_NN with_IN a_DT geographic_JJ information_NN system_NN
+Integration_NN of_IN Web_NN search_NN with_IN geographic_JJ information_NN has_VBZ recently_RB attracted_VBN much_JJ attention_NN ._.
+There_EX are_VBP a_DT number_NN of_IN local_JJ Web_NN search_NN systems_NNS enabling_VBG users_NNS to_TO find_VB location-specific_JJ Web_NN content_NN ._.
+In_IN this_DT paper_NN ,_, however_RB ,_, we_PRP point_VBP out_RP that_IN this_DT integration_NN is_VBZ still_RB at_IN a_DT superficial_JJ level_NN ._.
+Most_RBS local_JJ Web_NN search_NN systems_NNS today_NN only_RB link_VBP local_JJ Web_NN content_NN to_TO a_DT map_NN interface_NN ._.
+They_PRP are_VBP extensions_NNS of_IN a_DT conventional_JJ stand-alone_JJ geographic_JJ information_NN system_NN -LRB-_-LRB- GIS_NN -RRB-_-RRB- ,_, applied_VBN to_TO a_DT Web-based_JJ client-server_JJ architecture_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP discuss_VBP the_DT directions_NNS available_JJ for_IN tighter_JJR integration_NN of_IN Web_NN search_NN with_IN a_DT GIS_NNP ,_, in_IN terms_NNS of_IN extraction_NN ,_, knowledge_NN discovery_NN ,_, and_CC presentation_NN ._.
+We_PRP also_RB describe_VBP implementations_NNS to_TO support_VB our_PRP$ argument_NN that_IN the_DT integration_NN must_MD go_VB beyond_IN the_DT simple_JJ map-and_JJ hyperlink_NN architecture_NN ._.

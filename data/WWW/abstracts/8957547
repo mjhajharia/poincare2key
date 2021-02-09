@@ -1,0 +1,4 @@
+XHTML_NN meta_NN data_NNS profiles_NNS
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP XHTML_NNP Meta_NNP Data_NNP Profiles_NNP -LRB-_-LRB- XMDP_NNP -RRB-_-RRB- which_WDT use_VBP XHTML_NN to_TO define_VB a_DT simple_JJ profile_NN format_NN which_WDT is_VBZ both_CC human_JJ and_CC machine_NN readable_JJ ._.
+XMDP_NN can_MD be_VB used_VBN to_TO extend_VB XHTML_NN by_IN defining_VBG new_JJ link_NN relationships_NNS ,_, meta_NN data_NNS properties\/values_NNS ,_, and_CC class_NN name_NN semantics_NNS ._.
+XMDP_NN has_VBZ already_RB been_VBN used_VBN to_TO extend_VB semantic_JJ XHTML_NN to_TO represent_VB social_JJ networks_NNS ,_, document_NN licensing_NN ,_, voting_NN ,_, and_CC tagging_NN ._.

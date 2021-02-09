@@ -1,0 +1,7 @@
+A_DT probabilistic_JJ semantic_JJ approach_NN for_IN discovering_VBG web_NN services_NNS
+Service_NN discovery_NN is_VBZ one_CD of_IN challenging_JJ issues_NNS in_IN Service-Oriented_JJ computing_NN ._.
+Currently_RB ,_, most_JJS of_IN the_DT existing_VBG service_NN discovering_VBG and_CC matching_VBG approaches_NNS are_VBP based_VBN on_IN keywords-based_JJ strategy_NN ._.
+However_RB ,_, this_DT method_NN is_VBZ inefficient_JJ and_CC time-consuming_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT novel_JJ approach_NN for_IN discovering_VBG web_NN services_NNS ._.
+Based_VBN on_IN the_DT current_JJ dominating_VBG mechanisms_NNS of_IN discovering_VBG and_CC describing_VBG Web_NN Services_NNPS with_IN UDDI_NNP and_CC WSDL_NNP ,_, the_DT proposed_VBN approach_NN utilizes_VBZ Probabilistic_JJ Latent_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- to_TO capture_VB semantic_JJ concepts_NNS hidden_VBN behind_IN words_NNS in_IN the_DT query_NN and_CC advertisements_NNS in_IN services_NNS so_IN that_IN services_NNS matching_NN is_VBZ expected_VBN to_TO carry_VB out_RP at_IN concept_NN level_NN ._.
+We_PRP also_RB present_VBP related_JJ algorithms_NNS and_CC preliminary_JJ experiments_NNS to_TO evaluate_VB the_DT effectiveness_NN of_IN our_PRP$ approach_NN ._.

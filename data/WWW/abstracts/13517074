@@ -1,0 +1,5 @@
+Instance-based_JJ probabilistic_JJ reasoning_NN in_IN the_DT semantic_JJ web_NN
+Most_JJS of_IN the_DT approaches_NNS for_IN dealing_VBG with_IN uncertainty_NN in_IN the_DT Semantic_JJ Web_NN rely_VBP on_IN the_DT principle_NN that_IN this_DT uncertainty_NN is_VBZ already_RB asserted_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ approach_NN to_TO learn_VB and_CC reason_VB about_IN uncertainty_NN in_IN the_DT Semantic_JJ Web_NN ._.
+Using_VBG instance_NN data_NNS ,_, we_PRP learn_VBP the_DT uncertainty_NN of_IN an_DT OWL_NN ontology_NN ,_, and_CC use_VB that_DT information_NN to_TO perform_VB probabilistic_JJ reasoning_NN on_IN it_PRP ._.
+For_IN this_DT purpose_NN ,_, we_PRP use_VBP Markov_NNP logic_NN ,_, a_DT new_JJ representation_NN formalism_NN that_WDT combines_VBZ logic_NN with_IN probabilistic_JJ graphical_JJ models_NNS ._.

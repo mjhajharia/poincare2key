@@ -1,0 +1,6 @@
+Beyond_NNP blacklists_VBZ :_: learning_VBG to_TO detect_VB malicious_JJ web_NN sites_NNS from_IN suspicious_JJ URLs_NNS
+Malicious_JJ Web_NN sites_NNS are_VBP a_DT cornerstone_NN of_IN Internet_NNP criminal_JJ activities_NNS ._.
+As_IN a_DT result_NN ,_, there_EX has_VBZ been_VBN broad_JJ interest_NN in_IN developing_VBG systems_NNS to_TO prevent_VB the_DT end_NN user_NN from_IN visiting_VBG such_JJ sites_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP an_DT approach_NN to_TO this_DT problem_NN based_VBN on_IN automated_JJ URL_NN classification_NN ,_, using_VBG statistical_JJ methods_NNS to_TO discover_VB the_DT tell-tale_NN lexical_JJ and_CC host-based_JJ properties_NNS of_IN malicious_JJ Web_NN site_NN URLs_NNS ._.
+These_DT methods_NNS are_VBP able_JJ to_TO learn_VB highly_RB predictive_JJ models_NNS by_IN extracting_VBG and_CC automatically_RB analyzing_VBG tens_NNS of_IN thousands_NNS of_IN features_NNS potentially_RB indicative_JJ of_IN suspicious_JJ URLs_NNS ._.
+The_DT resulting_VBG classifiers_NNS obtain_VB 95-99_CD %_NN accuracy_NN ,_, detecting_VBG large_JJ numbers_NNS of_IN malicious_JJ Web_NN sites_NNS from_IN their_PRP$ URLs_NNS ,_, with_IN only_RB modest_JJ false_JJ positives_NNS ._.

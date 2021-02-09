@@ -1,0 +1,6 @@
+On_IN optimal_JJ service_NN selection_NN
+While_IN many_JJ works_NNS have_VBP been_VBN devoted_VBN to_TO service_NN matchmaking_NN and_CC modeling_NN nonfunctional_JJ properties_NNS ,_, the_DT problem_NN of_IN matching_JJ service_NN requests_NNS to_TO offers_NNS in_IN an_DT optimal_JJ way_NN has_VBZ not_RB yet_RB been_VBN extensively_RB studied_VBN ._.
+In_IN this_DT paper_NN we_PRP formalize_VBP three_CD kinds_NNS of_IN optimal_JJ service_NN selection_NN problems_NNS ,_, based_VBN on_IN different_JJ criteria_NNS ._.
+Then_RB we_PRP study_VBP their_PRP$ complexity_NN and_CC implement_VB solutions_NNS ._.
+We_PRP prove_VBP that_IN one-time_JJ costs_NNS make_VBP the_DT optimal_JJ selection_NN problem_NN computationally_RB hard_RB ;_: in_IN the_DT absence_NN of_IN these_DT costs_NNS the_DT problem_NN can_MD be_VB solved_VBN in_IN polynomial_JJ time_NN ._.
+We_PRP designed_VBD and_CC implemented_VBD both_CC exact_NN and_CC heuristic_NN -LRB-_-LRB- suboptimal_JJ -RRB-_-RRB- algorithms_NNS for_IN the_DT hard_JJ case_NN ,_, and_CC carried_VBD out_RP a_DT preliminary_JJ experimental_JJ evaluation_NN with_IN interesting_JJ results_NNS ._.

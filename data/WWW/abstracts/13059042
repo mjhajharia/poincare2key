@@ -1,0 +1,7 @@
+Ranking_JJ related_JJ entities_NNS for_IN web_NN search_NN queries_NNS
+Entity_NN ranking_NN is_VBZ a_DT recent_JJ paradigm_NN that_WDT refers_VBZ to_TO retrieving_VBG and_CC ranking_VBG related_JJ objects_NNS and_CC entities_NNS from_IN different_JJ structured_JJ sources_NNS in_IN various_JJ scenarios_NNS ._.
+Entities_NNS typically_RB have_VBP associated_VBN categories_NNS and_CC relationships_NNS with_IN other_JJ entities_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP present_VBP an_DT extensive_JJ analysis_NN of_IN Web-scale_JJ entity_NN ranking_NN ,_, based_VBN on_IN machine_NN learned_VBD ranking_NN models_NNS using_VBG an_DT ensemble_NN of_IN pairwise_JJ preference_NN models_NNS ._.
+Our_PRP$ proposed_VBN system_NN for_IN entity_NN ranking_NN uses_VBZ structured_JJ knowledge_NN bases_NNS ,_, entity_NN relationship_NN graphs_NNS and_CC user_NN data_NNS to_TO derive_VB useful_JJ features_NNS to_TO facilitate_VB semantic_JJ search_NN with_IN entities_NNS directly_RB within_IN the_DT learning_NN to_TO rank_VB framework_NN ._.
+The_DT experimental_JJ results_NNS are_VBP validated_VBN on_IN a_DT large-scale_JJ graph_NN containing_VBG millions_NNS of_IN entities_NNS and_CC hundreds_NNS of_IN millions_NNS of_IN entity_NN relationships_NNS ._.
+We_PRP show_VBP that_IN our_PRP$ proposed_VBN ranking_NN solution_NN clearly_RB improves_VBZ a_DT simple_JJ user_NN behavior_NN based_VBN ranking_JJ model_NN ._.

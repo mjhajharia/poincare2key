@@ -1,0 +1,10 @@
+Item_NN selection_NN by_IN ``_`` hub-authority_JJ ''_'' profit_NN ranking_NN
+A_DT fundamental_JJ problem_NN in_IN business_NN and_CC other_JJ applications_NNS is_VBZ ranking_JJ items_NNS with_IN respect_NN to_TO some_DT notion_NN of_IN profit_NN based_VBN on_IN historical_JJ transactions_NNS ._.
+The_DT difficulty_NN is_VBZ that_IN the_DT profit_NN of_IN one_CD item_NN not_RB only_RB comes_VBZ from_IN its_PRP$ own_JJ sales_NNS ,_, but_CC also_RB from_IN its_PRP$ influence_NN on_IN the_DT sales_NNS of_IN other_JJ items_NNS ,_, i.e._FW ,_, the_DT ``_`` cross-selling_NN effect_NN ''_'' ._.
+In_IN this_DT paper_NN ,_, we_PRP draw_VBP an_DT analogy_NN between_IN this_DT influence_NN and_CC the_DT mutual_JJ reinforcement_NN of_IN hub\/authority_NN web_NN pages_NNS ._.
+Based_VBN on_IN this_DT analogy_NN ,_, we_PRP present_VBP a_DT novel_JJ approach_NN to_TO the_DT item_NN ranking_NN problem_NN ._.
+We_PRP apply_VBP this_DT ranking_JJ approach_NN to_TO solve_VB two_CD selection_NN problems_NNS ._.
+In_IN size-constrained_JJ selection_NN ,_, the_DT maximum_NN number_NN of_IN items_NNS that_WDT can_MD be_VB selected_VBN is_VBZ fixed_VBN ._.
+In_IN cost-constrained_JJ selection_NN ,_, there_EX is_VBZ no_DT maximum_JJ number_NN of_IN items_NNS to_TO be_VB selected_VBN ,_, but_CC there_EX is_VBZ some_DT cost_NN associated_VBN with_IN the_DT selection_NN of_IN each_DT item_NN ._.
+In_IN both_DT cases_NNS ,_, the_DT question_NN is_VBZ what_WP items_NNS should_MD be_VB selected_VBN to_TO maximize_VB the_DT profit_NN ._.
+Empirically_RB ,_, we_PRP show_VBP that_IN this_DT method_NN finds_VBZ profitable_JJ items_NNS in_IN the_DT presence_NN of_IN cross-selling_NN effect_NN ._.

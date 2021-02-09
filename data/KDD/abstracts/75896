@@ -1,0 +1,14 @@
+Fragments_NNS of_IN order_NN
+High-dimensional_JJ collections_NNS of_IN 0_CD --_: 1_CD data_NNS occur_VBP in_IN many_JJ applications_NNS ._.
+The_DT attributes_NNS in_IN such_JJ data_NNS sets_NNS are_VBP typically_RB considered_VBN to_TO be_VB unordered_JJ ._.
+However_RB ,_, in_IN many_JJ cases_NNS there_EX is_VBZ a_DT natural_JJ total_NN or_CC partial_JJ order_NN ≺_NN underlying_VBG the_DT variables_NNS of_IN the_DT data_NNS set_NN ._.
+Examples_NNS of_IN variables_NNS for_IN which_WDT such_JJ orders_NNS exist_VBP include_VBP terms_NNS in_IN documents_NNS ,_, courses_NNS in_IN enrollment_NN data_NNS ,_, and_CC paleontological_JJ sites_NNS in_IN fossil_JJ data_NNS collections_NNS ._.
+The_DT observations_NNS in_IN such_JJ applications_NNS are_VBP flat_JJ ,_, unordered_JJ sets_NNS ;_: however_RB ,_, the_DT data_NNS sets_NNS respect_VBP the_DT underlying_JJ ordering_VBG of_IN the_DT variables_NNS ._.
+By_IN this_DT we_PRP mean_VBP that_IN if_IN A_DT ≺_NN B_NN ≺_NN C_NN are_VBP three_CD variables_NNS respecting_VBG the_DT underlying_VBG ordering_VBG ≺_NN ,_, and_CC both_DT of_IN variables_NNS A_NN and_CC C_NN appear_VBP in_IN an_DT observation_NN ,_, then_RB ,_, up_RB to_TO noise_NN levels_NNS ,_, variable_JJ B_NN also_RB appears_VBZ in_IN this_DT observation_NN ._.
+Similarly_RB ,_, if_IN A1_NN ≺_NN A2_NN ≺_NN ..._: ≺_NNP Al-1_NNP ≺_NNP Ai_NNP is_VBZ a_DT longer_JJR sequence_NN of_IN variables_NNS ,_, we_PRP do_VBP not_RB expect_VB to_TO see_VB many_JJ observations_NNS for_IN which_WDT there_EX are_VBP indices_NNS i_LS -LRB-_-LRB- j_NN -LRB-_-LRB- k_NN such_JJ that_IN Ai_NN and_CC Ak_NN occur_VBP in_IN the_DT observation_NN but_CC Aj_NN does_VBZ not_RB ._.
+In_IN this_DT paper_NN we_PRP study_VBD the_DT problem_NN of_IN discovering_VBG fragments_NNS of_IN orders_NNS of_IN variables_NNS implicit_JJ in_IN collections_NNS of_IN unordered_JJ observations_NNS ._.
+We_PRP define_VBP measures_NNS that_WDT capture_VBP how_WRB well_RB a_DT given_VBN order_NN agrees_VBZ with_IN the_DT observed_VBN data_NNS ._.
+We_PRP describe_VBP a_DT simple_JJ and_CC efficient_JJ algorithm_NN for_IN finding_VBG all_PDT the_DT fragments_NNS that_WDT satisfy_VBP certain_JJ conditions_NNS ._.
+We_PRP also_RB discuss_VBP the_DT sometimes_RB necessary_JJ postprocessing_NN for_IN selecting_VBG only_RB the_DT best_JJS fragments_NNS of_IN order_NN ._.
+Also_RB ,_, we_PRP relate_VBP our_PRP$ method_NN with_IN a_DT sequencing_NN approach_NN that_WDT uses_VBZ a_DT spectral_JJ algorithm_NN ,_, and_CC with_IN the_DT consecutive_JJ ones_NNS problem_NN ._.
+We_PRP present_VBP experimental_JJ results_NNS on_IN some_DT real_JJ data_NNS sets_NNS -LRB-_-LRB- author_NN lists_NNS of_IN database_NN papers_NNS ,_, exam_NN results_NNS data_NNS ,_, and_CC paleontological_JJ data_NNS -RRB-_-RRB- ._.

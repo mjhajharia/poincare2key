@@ -1,0 +1,14 @@
+Entity_NN relation_NN discovery_NN from_IN web_NN tables_NNS and_CC links_NNS
+The_DT World-Wide_JJ Web_NN consists_VBZ not_RB only_RB of_IN a_DT huge_JJ number_NN of_IN unstructured_JJ texts_NNS ,_, but_CC also_RB a_DT vast_JJ amount_NN of_IN valuable_JJ structured_JJ data_NNS ._.
+Web_NN tables_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- are_VBP a_DT typical_JJ type_NN of_IN structured_JJ information_NN that_WDT are_VBP pervasive_JJ on_IN the_DT web_NN ,_, and_CC Web-scale_JJ methods_NNS that_WDT automatically_RB extract_VBP web_NN tables_NNS have_VBP been_VBN studied_VBN extensively_RB -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+Many_JJ powerful_JJ systems_NNS -LRB-_-LRB- e.g._FW OCTOPUS_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, Mesa_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- -RRB-_-RRB- use_VBP extracted_VBN web_NN tables_NNS as_IN a_DT fundamental_JJ component_NN ._.
+In_IN the_DT database_NN vernacular_NN ,_, a_DT table_NN is_VBZ defined_VBN as_IN a_DT set_NN of_IN tuples_NNS which_WDT have_VBP the_DT same_JJ attributes_NNS ._.
+Similarly_RB ,_, a_DT web_NN table_NN is_VBZ defined_VBN as_IN a_DT set_NN of_IN rows_NNS -LRB-_-LRB- corresponding_VBG to_TO database_NN tuples_NNS -RRB-_-RRB- which_WDT have_VBP the_DT same_JJ column_NN headers_NNS -LRB-_-LRB- corresponding_VBG to_TO database_NN attributes_NNS -RRB-_-RRB- ._.
+Therefore_RB ,_, to_TO extract_VB a_DT web_NN table_NN is_VBZ to_TO extract_VB a_DT relation_NN on_IN the_DT web_NN ._.
+In_IN databases_NNS ,_, tables_NNS often_RB contain_VBP foreign_JJ keys_NNS which_WDT refer_VBP to_TO other_JJ tables_NNS ._.
+Therefore_RB ,_, it_PRP follows_VBZ that_IN hyperlinks_NNS inside_IN a_DT web_NN table_NN sometimes_RB function_VBP as_IN foreign_JJ keys_NNS to_TO other_JJ relations_NNS whose_WP$ tuples_NNS are_VBP contained_VBN in_IN the_DT hyperlink_NN 's_POS target_NN pages_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP explore_VBP this_DT idea_NN by_IN asking_VBG :_: can_MD we_PRP discover_VB new_JJ attributes_NNS for_IN web_NN tables_NNS by_IN exploring_VBG hyperlinks_NNS inside_IN web_NN tables_NNS ?_.
+This_DT poster_NN proposes_VBZ a_DT solution_NN that_WDT takes_VBZ a_DT web_NN table_NN as_IN input_NN ._.
+Frequent_JJ patterns_NNS are_VBP generated_VBN as_IN new_JJ candidate_NN relations_NNS by_IN following_VBG hyperlinks_NNS in_IN the_DT web_NN table_NN ._.
+The_DT confidence_NN of_IN candidates_NNS are_VBP evaluated_VBN ,_, and_CC trustworthy_JJ candidates_NNS are_VBP selected_VBN to_TO become_VB new_JJ attributes_NNS for_IN the_DT table_NN ._.
+Finally_RB ,_, we_PRP show_VBP the_DT usefulness_NN of_IN our_PRP$ method_NN by_IN performing_VBG experiments_NNS on_IN a_DT variety_NN of_IN web_NN domains_NNS ._.

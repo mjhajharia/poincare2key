@@ -1,0 +1,6 @@
+Truthy_NNP :_: mapping_VBG the_DT spread_NN of_IN astroturf_NN in_IN microblog_NN streams_NNS
+Online_JJ social_JJ media_NNS are_VBP complementing_VBG and_CC in_IN some_DT cases_NNS replacing_VBG person-to-person_JJ social_JJ interaction_NN and_CC redefining_VBG the_DT diffusion_NN of_IN information_NN ._.
+In_IN particular_JJ ,_, microblogs_NNS have_VBP become_VBN crucial_JJ grounds_NNS on_IN which_WDT public_JJ relations_NNS ,_, marketing_NN ,_, and_CC political_JJ battles_NNS are_VBP fought_VBN ._.
+We_PRP demonstrate_VBP a_DT web_NN service_NN that_WDT tracks_VBZ political_JJ memes_NNS in_IN Twitter_NNP and_CC helps_VBZ detect_VB astroturfing_JJ ,_, smear_JJ campaigns_NNS ,_, and_CC other_JJ misinformation_NN in_IN the_DT context_NN of_IN U.S._NNP political_JJ elections_NNS ._.
+We_PRP also_RB present_VBP some_DT cases_NNS of_IN abusive_JJ behaviors_NNS uncovered_VBN by_IN our_PRP$ service_NN ._.
+Our_PRP$ web_NN service_NN is_VBZ based_VBN on_IN an_DT extensible_JJ framework_NN that_WDT will_MD enable_VB the_DT real-time_JJ analysis_NN of_IN meme_JJ diffusion_NN in_IN social_JJ media_NNS by_IN mining_NN ,_, visualizing_VBG ,_, mapping_NN ,_, classifying_VBG ,_, and_CC modeling_NN massive_JJ streams_NNS of_IN public_JJ microblogging_NN events_NNS ._.

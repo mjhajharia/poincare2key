@@ -1,0 +1,13 @@
+Computer_NNP aided_VBD detection_NN via_IN asymmetric_JJ cascade_NN of_IN sparse_JJ hyperplane_NN classifiers_NNS
+This_DT paper_NN describes_VBZ a_DT novel_JJ classification_NN method_NN for_IN computer_NN aided_VBD detection_NN -LRB-_-LRB- CAD_NN -RRB-_-RRB- that_WDT identifies_VBZ structures_NNS of_IN interest_NN from_IN medical_JJ images_NNS ._.
+CAD_NN problems_NNS are_VBP challenging_VBG largely_RB due_JJ to_TO the_DT following_JJ three_CD characteristics_NNS ._.
+Typical_JJ CAD_NN training_NN data_NNS sets_NNS are_VBP large_JJ and_CC extremely_RB unbalanced_JJ between_IN positive_JJ and_CC negative_JJ classes_NNS ._.
+When_WRB searching_VBG for_IN descriptive_JJ features_NNS ,_, researchers_NNS often_RB deploy_VBP a_DT large_JJ set_NN of_IN experimental_JJ features_NNS ,_, which_WDT consequently_RB introduces_VBZ irrelevant_JJ and_CC redundant_JJ features_NNS ._.
+Finally_RB ,_, a_DT CAD_NN system_NN has_VBZ to_TO satisfy_VB stringent_JJ real-time_JJ requirements_NNS ._.
+This_DT work_NN is_VBZ distinguished_VBN by_IN three_CD key_JJ contributions_NNS ._.
+The_DT first_JJ is_VBZ a_DT cascade_NN classification_NN approach_NN which_WDT is_VBZ able_JJ to_TO tackle_VB all_PDT the_DT above_JJ difficulties_NNS in_IN a_DT unified_JJ framework_NN by_IN employing_VBG an_DT asymmetric_JJ cascade_NN of_IN sparse_JJ classifiers_NNS each_DT trained_VBN to_TO achieve_VB high_JJ detection_NN sensitivity_NN and_CC satisfactory_JJ false_JJ positive_JJ rates_NNS ._.
+The_DT second_JJ is_VBZ the_DT incorporation_NN of_IN feature_NN computational_JJ costs_NNS in_IN a_DT linear_JJ program_NN formulation_NN that_WDT allows_VBZ the_DT feature_NN selection_NN process_NN to_TO take_VB into_IN account_NN different_JJ evaluation_NN costs_NNS of_IN various_JJ features_NNS ._.
+The_DT third_JJ is_VBZ a_DT boosting_VBG algorithm_NN derived_VBN from_IN column_NN generation_NN optimization_NN to_TO effectively_RB solve_VB the_DT proposed_VBN cascade_NN linear_NN programs_NNS ._.
+We_PRP apply_VBP the_DT proposed_VBN approach_NN to_TO the_DT problem_NN of_IN detecting_VBG lung_NN nodules_NNS from_IN helical_JJ multi-slice_JJ CT_NN images_NNS ._.
+Our_PRP$ approach_NN demonstrates_VBZ superior_JJ performance_NN in_IN comparison_NN against_IN support_NN vector_NN machines_NNS ,_, linear_JJ discriminant_JJ analysis_NN and_CC cascade_NN AdaBoost_NN ._.
+Especially_RB ,_, the_DT resulting_VBG detection_NN system_NN is_VBZ significantly_RB sped_VBN up_RP with_IN our_PRP$ approach_NN ._.

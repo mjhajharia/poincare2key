@@ -1,0 +1,12 @@
+Efficient_JJ interactive_JJ fuzzy_JJ keyword_NN search_NN
+Traditional_JJ information_NN systems_NNS return_VBP answers_NNS after_IN a_DT user_NN submits_VBZ a_DT complete_JJ query_NN ._.
+Users_NNS often_RB feel_VBP ``_`` left_VBN in_IN the_DT dark_NN ''_'' when_WRB they_PRP have_VBP limited_VBN knowledge_NN about_IN the_DT underlying_VBG data_NNS ,_, and_CC have_VBP to_TO use_VB a_DT try-and-see_JJ approach_NN for_IN finding_VBG information_NN ._.
+A_DT recent_JJ trend_NN of_IN supporting_VBG autocomplete_NN in_IN these_DT systems_NNS is_VBZ a_DT first_JJ step_NN towards_IN solving_VBG this_DT problem_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD a_DT new_JJ information-access_JJ paradigm_NN ,_, called_VBN ``_`` interactive_JJ ,_, fuzzy_JJ search_NN ,_, ''_'' in_IN which_WDT the_DT system_NN searches_VBZ the_DT underlying_VBG data_NNS ``_`` on_IN the_DT fly_NN ''_'' as_IN the_DT user_NN types_NNS in_IN query_NN keywords_NNS ._.
+It_PRP extends_VBZ autocomplete_JJ interfaces_NNS by_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- allowing_VBG keywords_NNS to_TO appear_VB in_IN multiple_JJ attributes_NNS -LRB-_-LRB- in_IN an_DT arbitrary_JJ order_NN -RRB-_-RRB- of_IN the_DT underlying_VBG data_NNS ;_: and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- finding_VBG relevant_JJ records_NNS that_WDT have_VBP keywords_NNS matching_VBG query_JJ keywords_NNS approximately_RB ._.
+This_DT framework_NN allows_VBZ users_NNS to_TO explore_VB data_NNS as_IN they_PRP type_NN ,_, even_RB in_IN the_DT presence_NN of_IN minor_JJ errors_NNS ._.
+We_PRP study_VBD research_NN challenges_NNS in_IN this_DT framework_NN for_IN large_JJ amounts_NNS of_IN data_NNS ._.
+Since_IN each_DT keystroke_NN of_IN the_DT user_NN could_MD invoke_VB a_DT query_NN on_IN the_DT backend_NN ,_, we_PRP need_VBP efficient_JJ algorithms_NNS to_TO process_VB each_DT query_NN within_IN milliseconds_NNS ._.
+We_PRP develop_VBP various_JJ incremental-search_JJ algorithms_NNS using_VBG previously_RB computed_VBN and_CC cached_VBN results_NNS in_IN order_NN to_TO achieve_VB an_DT interactive_JJ speed_NN ._.
+We_PRP have_VBP deployed_VBN several_JJ real_JJ prototypes_NNS using_VBG these_DT techniques_NNS ._.
+One_CD of_IN them_PRP has_VBZ been_VBN deployed_VBN to_TO support_VB interactive_JJ search_NN on_IN the_DT UC_NN Irvine_NNP people_NNS directory_NN ,_, which_WDT has_VBZ been_VBN used_VBN regularly_RB and_CC well_RB received_VBN by_IN users_NNS due_JJ to_TO its_PRP$ friendly_JJ interface_NN and_CC high_JJ efficiency_NN ._.

@@ -1,0 +1,7 @@
+Efficient_JJ discovery_NN of_IN error-tolerant_JJ frequent_JJ itemsets_NNS in_IN high_JJ dimensions_NNS
+We_PRP present_VBP a_DT generalization_NN of_IN frequent_JJ itemsets_NNS allowing_VBG for_IN the_DT notion_NN of_IN errors_NNS in_IN the_DT itemset_NN definition_NN ._.
+We_PRP motivate_VBP the_DT problem_NN and_CC present_VB an_DT efficient_JJ algorithm_NN that_WDT identifies_VBZ error-tolerant_JJ frequent_JJ clusters_NNS of_IN items_NNS in_IN transactional_JJ data_NNS -LRB-_-LRB- customer-purchase_JJ data_NNS ,_, web_NN browsing_VBG data_NNS ,_, text_NN ,_, etc._NN -RRB-_-RRB- ._.
+The_DT algorithm_NN exploits_VBZ sparseness_NN of_IN the_DT underlying_VBG data_NNS to_TO find_VB large_JJ groups_NNS of_IN items_NNS that_WDT are_VBP correlated_VBN over_IN database_NN records_NNS -LRB-_-LRB- rows_NNS -RRB-_-RRB- ._.
+The_DT notion_NN of_IN transaction_NN coverage_NN allows_VBZ us_PRP to_TO extend_VB the_DT algorithm_NN and_CC view_VB it_PRP as_IN a_DT fast_JJ clustering_NN algorithm_NN for_IN discovering_VBG segments_NNS of_IN similar_JJ transactions_NNS in_IN binary_JJ sparse_JJ data_NNS ._.
+We_PRP evaluate_VBP the_DT new_JJ algorithm_NN on_IN three_CD real-world_JJ applications_NNS :_: clustering_VBG high-dimensional_JJ data_NNS ,_, query_NN selectivity_NN estimation_NN and_CC collaborative_JJ filtering_VBG ._.
+Results_NNS show_VBP that_IN the_DT algorithm_NN consistently_RB uncovers_VBZ structure_NN in_IN large_JJ sparse_JJ databases_NNS that_IN other_JJ traditional_JJ clustering_NN algorithms_NNS fail_VBP to_TO find_VB ._.

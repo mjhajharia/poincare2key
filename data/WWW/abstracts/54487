@@ -1,0 +1,9 @@
+An_DT infrastructure_NN for_IN searching_VBG ,_, reusing_VBG and_CC evolving_VBG distributed_VBN ontologies_NNS
+The_DT vision_NN of_IN the_DT Semantic_JJ Web_NN can_MD only_RB be_VB realized_VBN through_IN proliferation_NN of_IN well-known_JJ ontologies_NNS describing_VBG different_JJ domains_NNS ._.
+To_TO enable_VB interoperability_NN in_IN the_DT Semantic_JJ Web_NN ,_, it_PRP will_MD be_VB necessary_JJ to_TO break_VB these_DT ontologies_NNS down_RB into_IN smaller_JJR ,_, well-focused_JJ units_NNS that_WDT may_MD be_VB reused_VBN ._.
+Currently_RB ,_, three_CD problems_NNS arise_VBP in_IN that_DT scenario_NN ._.
+Firstly_RB ,_, it_PRP is_VBZ difficult_JJ to_TO locate_VB ontologies_NNS to_TO be_VB reused_VBN ,_, thus_RB leading_VBG to_TO many_JJ ontologies_NNS modeling_NN the_DT same_JJ thing_NN ._.
+Secondly_RB ,_, current_JJ tools_NNS do_VBP not_RB provide_VB means_NNS for_IN reusing_VBG existing_VBG ontologies_NNS while_IN building_VBG new_JJ ontologies_NNS ._.
+Finally_RB ,_, ontologies_NNS are_VBP rarely_RB static_JJ ,_, but_CC are_VBP being_VBG adapted_VBN to_TO changing_VBG requirements_NNS ._.
+Hence_RB ,_, an_DT infrastructure_NN for_IN management_NN of_IN ontology_NN changes_NNS ,_, taking_VBG into_IN account_NN dependencies_NNS between_IN ontologies_NNS is_VBZ needed_VBN ._.
+In_IN this_DT paper_NN we_PRP present_VBP such_JJ an_DT infrastructure_NN addressing_VBG the_DT aforementioned_JJ problems_NNS ._.

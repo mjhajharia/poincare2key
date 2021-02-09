@@ -1,0 +1,9 @@
+Summarizing_VBG email_NN conversations_NNS with_IN clue_NN words_NNS
+Accessing_VBG an_DT ever_RB increasing_VBG number_NN of_IN emails_NNS ,_, possibly_RB on_IN small_JJ mobile_JJ devices_NNS ,_, has_VBZ become_VBN a_DT major_JJ problem_NN for_IN many_JJ users_NNS ._.
+Email_NN summarization_NN is_VBZ a_DT promising_JJ way_NN to_TO solve_VB this_DT problem_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ framework_NN for_IN email_NN summarization_NN ._.
+One_CD novelty_NN is_VBZ to_TO use_VB a_DT fragment_NN quotation_NN graph_NN to_TO try_VB to_TO capture_VB an_DT email_JJ conversation_NN ._.
+The_DT second_JJ novelty_NN is_VBZ to_TO use_VB clue_NN words_NNS to_TO measure_VB the_DT importance_NN of_IN sentences_NNS in_IN conversation_NN summarization_NN ._.
+Based_VBN on_IN clue_NN words_NNS and_CC their_PRP$ scores_NNS ,_, we_PRP propose_VBP a_DT method_NN called_VBN CWS_NNP ,_, which_WDT is_VBZ capable_JJ of_IN producing_VBG a_DT summary_NN of_IN any_DT length_NN as_IN requested_VBN by_IN the_DT user_NN ._.
+We_PRP provide_VBP a_DT comprehensive_JJ comparison_NN of_IN CWS_NN with_IN various_JJ existing_VBG methods_NNS on_IN the_DT Enron_NNP data_NN set_NN ._.
+Preliminary_JJ results_NNS suggest_VBP that_IN CWS_NN provides_VBZ better_JJR summaries_NNS than_IN existing_VBG methods_NNS ._.

@@ -1,0 +1,8 @@
+Learning_NNP to_TO tag_VB
+Social_NN tagging_NN provides_VBZ valuable_JJ and_CC crucial_JJ information_NN for_IN large-scale_JJ web_NN image_NN retrieval_NN ._.
+It_PRP is_VBZ ontology-free_JJ and_CC easy_JJ to_TO obtain_VB ;_: however_RB ,_, irrelevant_JJ tags_NNS frequently_RB appear_VBP ,_, and_CC users_NNS typically_RB will_MD not_RB tag_VB all_DT semantic_JJ objects_NNS in_IN the_DT image_NN ,_, which_WDT is_VBZ also_RB called_VBN semantic_JJ loss_NN ._.
+To_TO avoid_VB noises_NNS and_CC compensate_VB for_IN the_DT semantic_JJ loss_NN ,_, tag_NN recommendation_NN is_VBZ proposed_VBN in_IN literature_NN ._.
+However_RB ,_, current_JJ recommendation_NN simply_RB ranks_VBZ the_DT related_JJ tags_NNS based_VBN on_IN the_DT single_JJ modality_NN of_IN tag_NN co-occurrence_NN on_IN the_DT whole_JJ dataset_NN ,_, which_WDT ignores_VBZ other_JJ modalities_NNS ,_, such_JJ as_IN visual_JJ correlation_NN ._.
+This_DT paper_NN proposes_VBZ a_DT multi-modality_JJ recommendation_NN based_VBN on_IN both_CC tag_NN and_CC visual_JJ correlation_NN ,_, and_CC formulates_VBZ the_DT tag_NN recommendation_NN as_IN a_DT learning_NN problem_NN ._.
+Each_DT modality_NN is_VBZ used_VBN to_TO generate_VB a_DT ranking_JJ feature_NN ,_, and_CC Rankboost_NN algorithm_NN is_VBZ applied_VBN to_TO learn_VB an_DT optimal_JJ combination_NN of_IN these_DT ranking_JJ features_NNS from_IN different_JJ modalities_NNS ._.
+Experiments_NNS on_IN Flickr_NNP data_NNS demonstrate_VBP the_DT effectiveness_NN of_IN this_DT learning-based_JJ multi-modality_JJ recommendation_NN strategy_NN ._.

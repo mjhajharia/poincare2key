@@ -1,0 +1,5 @@
+Behavioral_JJ classification_NN on_IN the_DT click_VBP graph_NN
+A_DT bipartite_JJ query-URL_NN graph_NN ,_, where_WRB an_DT edge_NN indicates_VBZ that_IN a_DT document_NN was_VBD clicked_VBN for_IN a_DT query_NN ,_, is_VBZ a_DT useful_JJ construct_NN for_IN finding_VBG groups_NNS of_IN related_JJ queries_NNS and_CC URLs_NNS ._.
+Here_RB we_PRP use_VBP this_DT behavior_NN graph_NN for_IN classification_NN ._.
+We_PRP choose_VBP a_DT click_VBP graph_NN sampled_VBN from_IN two_CD weeks_NNS of_IN image_NN search_NN activity_NN ,_, and_CC the_DT task_NN of_IN ``_`` adult_JJ ''_'' filtering_VBG :_: identifying_VBG content_NN in_IN the_DT graph_NN that_WDT is_VBZ inappropriate_JJ for_IN minors_NNS ._.
+We_PRP show_VBP how_WRB to_TO perform_VB classification_NN using_VBG random_JJ walks_VBZ on_IN this_DT graph_NN ,_, and_CC two_CD methods_NNS for_IN estimating_NN classifier_NN parameters_NNS ._.

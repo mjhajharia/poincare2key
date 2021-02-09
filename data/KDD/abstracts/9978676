@@ -1,0 +1,9 @@
+Clustering_VBG event_NN logs_NNS using_VBG iterative_JJ partitioning_NN
+The_DT importance_NN of_IN event_NN logs_NNS ,_, as_IN a_DT source_NN of_IN information_NN in_IN systems_NNS and_CC network_NN management_NN can_MD not_RB be_VB overemphasized_VBN ._.
+With_IN the_DT ever_RB increasing_VBG size_NN and_CC complexity_NN of_IN today_NN 's_POS event_NN logs_NNS ,_, the_DT task_NN of_IN analyzing_VBG event_NN logs_NNS has_VBZ become_VBN cumbersome_JJ to_TO carry_VB out_RP manually_RB ._.
+For_IN this_DT reason_NN recent_JJ research_NN has_VBZ focused_VBN on_IN the_DT automatic_JJ analysis_NN of_IN these_DT log_NN files_NNS ._.
+In_IN this_DT paper_NN we_PRP present_VBP IPLoM_NN -LRB-_-LRB- Iterative_JJ Partitioning_NN Log_NN Mining_NN -RRB-_-RRB- ,_, a_DT novel_JJ algorithm_NN for_IN the_DT mining_NN of_IN clusters_NNS from_IN event_NN logs_NNS ._.
+Through_IN a_DT 3-Step_NN hierarchical_JJ partitioning_VBG process_NN IPLoM_NN partitions_NNS log_VBP data_NNS into_IN its_PRP$ respective_JJ clusters_NNS ._.
+In_IN its_PRP$ 4th_JJ and_CC final_JJ stage_NN IPLoM_NN produces_VBZ cluster_NN descriptions_NNS or_CC line_NN formats_NNS for_IN each_DT of_IN the_DT clusters_NNS produced_VBD ._.
+Unlike_IN other_JJ similar_JJ algorithms_NNS IPLoM_NN is_VBZ not_RB based_VBN on_IN the_DT Apriori_NNP algorithm_NN and_CC it_PRP is_VBZ able_JJ to_TO find_VB clusters_NNS in_IN data_NNS whether_IN or_CC not_RB its_PRP$ instances_NNS appear_VBP frequently_RB ._.
+Evaluations_NNS show_VBP that_IN IPLoM_NN outperforms_VBZ the_DT other_JJ algorithms_NNS statistically_RB significantly_RB ,_, and_CC it_PRP is_VBZ also_RB able_JJ to_TO achieve_VB an_DT average_JJ F-Measure_NN performance_NN 78_CD %_NN when_WRB the_DT closest_JJS other_JJ algorithm_NN achieves_VBZ an_DT F-Measure_NN performance_NN of_IN 10_CD %_NN ._.

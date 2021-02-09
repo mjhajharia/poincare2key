@@ -1,0 +1,7 @@
+Mining_NN risk_NN patterns_NNS in_IN medical_JJ data_NNS
+In_IN this_DT paper_NN ,_, we_PRP discuss_VBP a_DT problem_NN of_IN finding_VBG risk_NN patterns_NNS in_IN medical_JJ data_NNS ._.
+We_PRP define_VBP risk_NN patterns_NNS by_IN a_DT statistical_JJ metric_NN ,_, relative_JJ risk_NN ,_, which_WDT has_VBZ been_VBN widely_RB used_VBN in_IN epidemiological_JJ research_NN ._.
+We_PRP characterise_VBP the_DT problem_NN of_IN mining_NN risk_NN patterns_NNS as_IN an_DT optimal_JJ rule_NN discovery_NN problem_NN ._.
+We_PRP study_VBD an_DT anti-monotone_JJ property_NN for_IN mining_NN optimal_JJ risk_NN pattern_NN sets_NNS and_CC present_VB an_DT algorithm_NN to_TO make_VB use_NN of_IN the_DT property_NN in_IN risk_NN pattern_NN discovery_NN ._.
+The_DT method_NN has_VBZ been_VBN applied_VBN to_TO a_DT real_JJ world_NN data_NNS set_VBN to_TO find_VB patterns_NNS associated_VBN with_IN an_DT allergic_JJ event_NN for_IN ACE_NN inhibitors_NNS ._.
+The_DT algorithm_NN has_VBZ generated_VBN some_DT useful_JJ results_NNS for_IN medical_JJ researchers_NNS ._.

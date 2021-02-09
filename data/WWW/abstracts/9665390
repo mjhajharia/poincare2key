@@ -1,0 +1,5 @@
+Dissemination_NN of_IN heterogeneous_JJ xml_NN data_NNS
+A_DT lot_NN of_IN recent_JJ research_NN has_VBZ focused_VBN on_IN the_DT content-based_JJ dissemination_NN of_IN XML_NN data_NNS ._.
+However_RB ,_, due_JJ to_TO the_DT heterogeneous_JJ data_NN schemas_NNS used_VBN by_IN different_JJ data_NNS publishers_NNS even_RB for_IN data_NNS in_IN the_DT same_JJ domain_NN ,_, an_DT important_JJ challenge_NN is_VBZ how_WRB to_TO efficiently_RB and_CC effectively_RB disseminate_VB relevant_JJ data_NNS to_TO subscribers_NNS whose_WP$ subscriptions_NNS might_MD be_VB specified_VBN based_VBN on_IN schemas_NNS that_WDT are_VBP different_JJ from_IN those_DT used_VBN by_IN the_DT data_NNS publishers_NNS ._.
+This_DT paper_NN examines_VBZ the_DT options_NNS to_TO resolve_VB this_DT schema_NN heterogeneity_NN problem_NN in_IN XML_NN data_NNS dissemination_NN ,_, and_CC proposes_VBZ a_DT novel_JJ paradigm_NN that_WDT is_VBZ based_VBN on_IN data_NNS rewriting_VBG ._.
+Our_PRP$ experimental_JJ results_NNS demonstrate_VBP the_DT effectiveness_NN of_IN the_DT data_NNS rewriting_VBG paradigm_NN and_CC identifies_VBZ the_DT tradeoffs_NNS of_IN the_DT various_JJ approaches_NNS

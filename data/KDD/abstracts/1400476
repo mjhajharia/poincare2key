@@ -1,0 +1,15 @@
+ANF_NN :_: a_DT fast_JJ and_CC scalable_JJ tool_NN for_IN data_NNS mining_NN in_IN massive_JJ graphs_NNS
+Graphs_NNS are_VBP an_DT increasingly_RB important_JJ data_NNS source_NN ,_, with_IN such_JJ important_JJ graphs_NNS as_IN the_DT Internet_NN and_CC the_DT Web_NN ._.
+Other_JJ familiar_JJ graphs_NNS include_VBP CAD_NN circuits_NNS ,_, phone_NN records_NNS ,_, gene_NN sequences_NNS ,_, city_NN streets_NNS ,_, social_JJ networks_NNS and_CC academic_JJ citations_NNS ._.
+Any_DT kind_NN of_IN relationship_NN ,_, such_JJ as_IN actors_NNS appearing_VBG in_IN movies_NNS ,_, can_MD be_VB represented_VBN as_IN a_DT graph_NN ._.
+This_DT work_NN presents_VBZ a_DT data_NN mining_NN tool_NN ,_, called_VBN ANF_NNP ,_, that_WDT can_MD quickly_RB answer_VB a_DT number_NN of_IN interesting_JJ questions_NNS on_IN graph-represented_JJ data_NNS ,_, such_JJ as_IN the_DT following_NN ._.
+How_WRB robust_JJ is_VBZ the_DT Internet_NN to_TO failures_NNS ?_.
+What_WP are_VBP the_DT most_RBS influential_JJ database_NN papers_NNS ?_.
+Are_VBP there_EX gender_NN differences_NNS in_IN movie_NN appearance_NN patterns_NNS ?_.
+At_IN its_PRP$ core_NN ,_, ANF_NN is_VBZ based_VBN on_IN a_DT fast_JJ and_CC memory-efficient_JJ approach_NN for_IN approximating_VBG the_DT complete_JJ ``_`` neighborhood_NN function_NN ''_'' for_IN a_DT graph_NN ._.
+For_IN the_DT Internet_NN graph_NN -LRB-_-LRB- 268K_CD nodes_NNS -RRB-_-RRB- ,_, ANF_NNP 's_POS highly-accurate_JJ approximation_NN is_VBZ more_JJR than_IN 700_CD times_NNS faster_RBR than_IN the_DT exact_JJ computation_NN ._.
+This_DT reduces_VBZ the_DT running_VBG time_NN from_IN nearly_RB a_DT day_NN to_TO a_DT matter_NN of_IN a_DT minute_NN or_CC two_CD ,_, allowing_VBG users_NNS to_TO perform_VB ad_FW hoc_FW drill-down_JJ tasks_NNS and_CC to_TO repeatedly_RB answer_VB questions_NNS about_IN changing_VBG data_NNS sources_NNS ._.
+To_TO enable_VB this_DT drill-down_NN ,_, ANF_NN employs_VBZ new_JJ techniques_NNS for_IN approximating_VBG neighbourhood-type_JJ functions_NNS for_IN graphs_NNS with_IN distinguished_JJ nodes_NNS and\/or_CC edges_NNS ._.
+When_WRB compared_VBN to_TO the_DT best_JJS existing_VBG approximation_NN ,_, ANF_NN 's_POS approach_NN is_VBZ both_DT faster_JJR and_CC more_RBR accurate_JJ ,_, given_VBN the_DT same_JJ resources_NNS ._.
+Additionally_RB ,_, unlike_IN previous_JJ approaches_NNS ,_, ANF_NN scales_NNS gracefully_RB to_TO handle_VB disk_NN resident_NN graphs_NNS ._.
+Finally_RB ,_, we_PRP present_VBP some_DT of_IN our_PRP$ results_NNS from_IN mining_NN large_JJ graphs_NNS using_VBG ANF_NN ._.

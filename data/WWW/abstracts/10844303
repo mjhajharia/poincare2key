@@ -1,0 +1,6 @@
+Clustering_NN query_NN refinements_NNS by_IN user_NN intent_NN
+We_PRP address_VBP the_DT problem_NN of_IN clustering_VBG the_DT refinements_NNS of_IN a_DT user_NN search_NN query_NN ._.
+The_DT clusters_NNS computed_VBN by_IN our_PRP$ proposed_VBN algorithm_NN can_MD be_VB used_VBN to_TO improve_VB the_DT selection_NN and_CC placement_NN of_IN the_DT query_NN suggestions_NNS proposed_VBN by_IN a_DT search_NN engine_NN ,_, and_CC can_MD also_RB serve_VB to_TO summarize_VB the_DT different_JJ aspects_NNS of_IN information_NN relevant_JJ to_TO the_DT original_JJ user_NN query_NN ._.
+Our_PRP$ algorithm_NN clusters_NNS refinements_NNS based_VBN on_IN their_PRP$ likely_JJ underlying_JJ user_NN intents_NNS by_IN combining_VBG document_NN click_VBP and_CC session_NN co-occurrence_NN information_NN ._.
+At_IN its_PRP$ core_NN ,_, our_PRP$ algorithm_NN operates_VBZ by_IN performing_VBG multiple_JJ random_JJ walks_VBZ on_IN a_DT Markov_NNP graph_NN that_WDT approximates_VBZ user_NN search_NN behavior_NN ._.
+A_DT user_NN study_NN performed_VBN on_IN top_JJ search_NN engine_NN queries_NNS shows_VBZ that_IN our_PRP$ clusters_NNS are_VBP rated_VBN better_RBR than_IN corresponding_JJ clusters_NNS computed_VBN using_VBG approaches_NNS that_WDT use_VBP only_RB document_NN click_VBP or_CC only_JJ sessions_NNS co-occurrence_NN information_NN ._.

@@ -1,0 +1,9 @@
+Ordering_VBG patterns_NNS by_IN combining_VBG opinions_NNS from_IN multiple_JJ sources_NNS
+Pattern_NN ordering_VBG is_VBZ an_DT important_JJ task_NN in_IN data_NNS mining_NN because_IN the_DT number_NN of_IN patterns_NNS extracted_VBN by_IN standard_JJ data_NNS mining_NN algorithms_NNS often_RB exceeds_VBZ our_PRP$ capacity_NN to_TO manually_RB analyze_VB them_PRP ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP an_DT effective_JJ approach_NN to_TO address_VB the_DT pattern_NN ordering_VBG problem_NN by_IN combining_VBG the_DT rank_NN information_NN gathered_VBN from_IN disparate_JJ sources_NNS ._.
+Although_IN rank_JJ aggregation_NN techniques_NNS have_VBP been_VBN developed_VBN for_IN applications_NNS such_JJ as_IN meta-search_JJ engines_NNS ,_, they_PRP are_VBP not_RB directly_RB applicable_JJ to_TO pattern_NN ordering_VBG for_IN two_CD reasons_NNS ._.
+First_RB ,_, the_DT techniques_NNS are_VBP mostly_RB supervised_VBN ,_, i.e._FW ,_, they_PRP require_VBP a_DT sufficient_JJ amount_NN of_IN labeled_JJ data_NNS ._.
+Second_RB ,_, the_DT objects_NNS to_TO be_VB ranked_VBN are_VBP assumed_VBN to_TO be_VB independent_JJ and_CC identically_RB distributed_VBN -LRB-_-LRB- i.i._FW d_FW -RRB-_-RRB- ,_, an_DT assumption_NN that_WDT seldom_RB holds_VBZ in_IN pattern_NN ordering_VBG ._.
+The_DT method_NN proposed_VBN in_IN this_DT paper_NN is_VBZ an_DT adaptation_NN of_IN the_DT original_JJ Hedge_NNP algorithm_NN ,_, modified_VBN to_TO work_VB in_IN an_DT unsupervised_JJ learning_NN setting_NN ._.
+Techniques_NNS for_IN addressing_VBG the_DT i.i.d._NN violation_NN in_IN pattern_NN ordering_VBG are_VBP also_RB presented_VBN ._.
+Experimental_JJ results_NNS demonstrate_VBP that_IN our_PRP$ unsupervised_JJ Hedge_NN algorithm_NN outperforms_VBZ many_JJ alternative_JJ techniques_NNS such_JJ as_IN those_DT based_VBN on_IN weighted_JJ average_JJ ranking_NN and_CC singular_JJ value_NN decomposition_NN ._.

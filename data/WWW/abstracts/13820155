@@ -1,0 +1,16 @@
+Consideration_NN set_VBD generation_NN in_IN commerce_NN search_NN
+In_IN commerce_NN search_NN ,_, the_DT set_NN of_IN products_NNS returned_VBN by_IN a_DT search_NN engine_NN often_RB forms_VBZ the_DT basis_NN for_IN all_DT user_NN interactions_NNS leading_VBG up_RP to_TO a_DT potential_JJ transaction_NN on_IN the_DT web_NN ._.
+Such_JJ a_DT set_NN of_IN products_NNS is_VBZ known_VBN as_IN the_DT consideration_NN set_NN ._.
+In_IN this_DT study_NN ,_, we_PRP consider_VBP the_DT problem_NN of_IN generating_VBG consideration_NN set_NN of_IN products_NNS in_IN commerce_NN search_NN so_RB as_IN to_TO maximize_VB user_NN satisfaction_NN ._.
+One_CD of_IN the_DT key_JJ features_NNS of_IN commerce_NN search_NN that_IN we_PRP exploit_VBP in_IN our_PRP$ study_NN is_VBZ the_DT association_NN of_IN a_DT set_NN of_IN important_JJ attributes_NNS with_IN the_DT products_NNS and_CC a_DT set_NN of_IN specified_JJ attributes_NNS with_IN the_DT user_NN queries_NNS ._.
+Those_DT important_JJ attributes_NNS not_RB used_VBN in_IN the_DT query_NN are_VBP treated_VBN as_IN unspecified_JJ ._.
+The_DT attribute_NN space_NN admits_VBZ a_DT natural_JJ definition_NN of_IN user_NN satisfaction_NN via_IN user_NN preferences_NNS on_IN the_DT attributes_NNS and_CC their_PRP$ values_NNS ,_, viz_NN ._.
+require_VB that_IN the_DT surfaced_VBN products_NNS be_VB close_JJ to_TO the_DT specified_VBN attribute_NN values_NNS in_IN the_DT query_NN ,_, and_CC diverse_JJ with_IN respect_NN to_TO the_DT unspecified_JJ attributes_NNS ._.
+We_PRP model_VBP this_DT as_IN a_DT general_JJ Max-Sum_NNP Dispersion_NNP problem_NN wherein_WRB we_PRP are_VBP given_VBN a_DT set_NN of_IN n_NN nodes_NNS in_IN a_DT metric_JJ space_NN and_CC the_DT objective_NN is_VBZ to_TO select_VB a_DT subset_NN of_IN nodes_NNS with_IN total_JJ cost_NN at_IN most_JJS a_DT given_VBN budget_NN ,_, and_CC maximize_VB the_DT sum_NN of_IN the_DT pairwise_JJ distances_NNS between_IN the_DT selected_VBN nodes_NNS ._.
+In_IN our_PRP$ setting_NN ,_, each_DT node_NN denotes_VBZ a_DT product_NN ,_, the_DT cost_NN of_IN a_DT node_NN being_VBG inversely_RB proportional_JJ to_TO its_PRP$ relevance_NN with_IN respect_NN to_TO specified_JJ attributes_NNS ._.
+The_DT distance_NN between_IN two_CD nodes_NNS quantifies_VBZ the_DT diversity_NN with_IN respect_NN to_TO the_DT unspecified_JJ attributes_NNS ._.
+The_DT problem_NN is_VBZ NP-hard_JJ and_CC a_DT 2-approximation_NN was_VBD previously_RB known_VBN only_RB when_WRB all_PDT the_DT nodes_NNS have_VBP unit_NN cost_NN ._.
+In_IN our_PRP$ setting_NN ,_, we_PRP do_VBP not_RB make_VB any_DT assumptions_NNS on_IN the_DT cost_NN ._.
+We_PRP label_VBP this_DT problem_NN as_IN the_DT General_NNP Max-Sum_NNP Dispersion_NNP problem_NN ._.
+We_PRP give_VBP the_DT first_JJ constant_JJ factor_NN approximation_NN algorithm_NN for_IN this_DT problem_NN ,_, achieving_VBG an_DT approximation_NN ratio_NN of_IN 2_CD ._.
+Further_RB ,_, we_PRP perform_VBP extensive_JJ empirical_JJ analysis_NN on_IN real-world_JJ data_NNS to_TO show_VB the_DT effectiveness_NN of_IN our_PRP$ algorithm_NN ._.

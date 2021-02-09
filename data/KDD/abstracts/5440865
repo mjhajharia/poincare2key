@@ -1,0 +1,10 @@
+Extracting_VBG decision_NN trees_NNS from_IN trained_JJ neural_JJ networks_NNS
+Neural_NNP Networks_NNP are_VBP successful_JJ in_IN acquiring_VBG hidden_JJ knowledge_NN in_IN datasets_NNS ._.
+Their_PRP$ biggest_JJS weakness_NN is_VBZ that_IN the_DT knowledge_NN they_PRP acquire_VBP is_VBZ represented_VBN in_IN a_DT form_NN not_RB understandable_JJ to_TO humans_NNS ._.
+Researchers_NNP tried_VBD to_TO address_VB this_DT problem_NN by_IN extracting_VBG rules_NNS from_IN trained_JJ Neural_NNP Networks_NNP ._.
+Most_JJS of_IN the_DT proposed_VBN rule_NN extraction_NN methods_NNS required_VBD specialized_JJ type_NN of_IN Neural_NNP Networks_NNP ;_: some_DT required_JJ binary_JJ inputs_NNS and_CC some_DT were_VBD computationally_RB expensive_JJ ._.
+Craven_NNP proposed_VBD extracting_VBG MofN_NN type_NN Decision_NNP Trees_NNP from_IN Neural_NNP Networks_NNP ._.
+We_PRP believe_VBP MofN_NN type_NN Decision_NNP Trees_NNP are_VBP only_RB good_JJ for_IN MofN_NN type_NN problems_NNS and_CC trees_NNS created_VBN for_IN regular_JJ high_JJ dimensional_JJ real_JJ world_NN problems_NNS may_MD be_VB very_RB complex_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP introduced_VBD a_DT new_JJ method_NN for_IN extracting_VBG regular_JJ C4_NN .5_CD like_IN Decision_NNP Trees_NNP from_IN trained_JJ Neural_NNP Networks_NNP ._.
+We_PRP showed_VBD that_IN the_DT new_JJ method_NN -LRB-_-LRB- DecText_NN -RRB-_-RRB- is_VBZ effective_JJ in_IN extracting_VBG high_JJ fidelity_NN trees_NNS from_IN trained_JJ networks_NNS ._.
+We_PRP also_RB introduced_VBD a_DT new_JJ discretization_NN technique_NN to_TO make_VB DecText_NNP be_VB able_JJ to_TO handle_VB continuous_JJ features_NNS and_CC a_DT new_JJ pruning_NN technique_NN for_IN finding_VBG simplest_JJS tree_NN with_IN the_DT highest_JJS fidelity_NN ._.

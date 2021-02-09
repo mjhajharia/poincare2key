@@ -1,0 +1,7 @@
+Dynamic_NNP and_CC graphical_JJ web_NN page_NN breakpoints_NNS
+Breakpoints_NNS are_VBP perhaps_RB the_DT quintessential_JJ feature_NN of_IN a_DT de-bugger_NN :_: they_PRP allow_VBP a_DT developer_NN to_TO stop_VB time_NN and_CC study_VB the_DT program_NN state_NN ._.
+Breakpoints_NNS are_VBP typically_RB specified_VBN by_IN selecting_VBG a_DT line_NN of_IN source_NN code_NN ._.
+For_IN large_JJ ,_, complex_NN ,_, web_NN pages_NNS with_IN multiple_JJ developers_NNS ,_, the_DT relevant_JJ source_NN line_NN for_IN a_DT given_VBN user_NN interface_NN problem_NN may_MD not_RB be_VB known_VBN to_TO the_DT developer_NN ._.
+In_IN this_DT paper_NN we_PRP describe_VBP the_DT implementation_NN of_IN breakpoints_NNS in_IN dynamically_RB created_VBN source_NN ,_, and_CC on_IN error_NN messages_NNS ,_, network_NN events_NNS ,_, DOMmutation_NN ,_, DOMobject_NN property_NN changes_NNS ,_, and_CC CSS_NN style_NN rule_NN updates_NNS ._.
+Adding_VBG these_DT domain-specific_JJ breakpoints_NNS to_TO a_DT general-purpose_JJ debugger_NN for_IN Javascript_NNP allows_VBZ the_DT developer_NN to_TO initiate_VB the_DT debugging_NN process_NN via_IN Web_NN page_NN abstractions_NNS rather_RB than_IN lower_JJR level_NN source_NN code_NN views_NNS ._.
+The_DT breakpoints_NNS are_VBP implemented_VBN in_IN the_DT open_JJ source_NN Fire-bug_NN project_NN ,_, version_NN 1.5_CD ,_, for_IN the_DT Firefox_NNP Web_NN browser_NN ._.

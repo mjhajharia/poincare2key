@@ -1,0 +1,7 @@
+Experimental_JJ comparisons_NNS of_IN online_NN and_CC batch_NN versions_NNS of_IN bagging_VBG and_CC boosting_VBG
+Bagging_VBG and_CC boosting_VBG are_VBP well-known_JJ ensemble_NN learning_NN methods_NNS ._.
+They_PRP combine_VBP multiple_JJ learned_VBN base_NN models_NNS with_IN the_DT aim_NN of_IN improving_VBG generalization_NN performance_NN ._.
+To_TO date_NN ,_, they_PRP have_VBP been_VBN used_VBN primarily_RB in_IN batch_NN mode_NN ,_, i.e._FW ,_, they_PRP require_VBP multiple_JJ passes_NNS through_IN the_DT training_NN data_NNS ._.
+In_IN previous_JJ work_NN ,_, we_PRP presented_VBD online_NN bagging_VBG and_CC boosting_VBG algorithms_NNS that_WDT only_RB require_VBP one_CD pass_NN through_IN the_DT training_NN data_NNS and_CC presented_VBN experimental_JJ results_NNS on_IN some_DT relatively_RB small_JJ datasets_NNS ._.
+Through_IN additional_JJ experiments_NNS on_IN a_DT variety_NN of_IN larger_JJR synthetic_JJ and_CC real_JJ datasets_NNS ,_, this_DT paper_NN demonstrates_VBZ that_IN our_PRP$ online_JJ versions_NNS perform_VBP comparably_RB to_TO their_PRP$ batch_NN counterparts_NNS in_IN terms_NNS of_IN classification_NN accuracy_NN ._.
+We_PRP also_RB demonstrate_VBP the_DT substantial_JJ reduction_NN in_IN running_VBG time_NN we_PRP obtain_VBP with_IN our_PRP$ online_JJ algorithms_NNS because_IN they_PRP require_VBP fewer_JJR passes_NNS through_IN the_DT training_NN data_NNS ._.

@@ -1,0 +1,7 @@
+Visualising_VBG student_NN tracking_NN data_NNS to_TO support_VB instructors_NNS in_IN web-based_JJ distance_NN education_NN
+This_DT paper_NN presents_VBZ a_DT novel_JJ approach_NN of_IN using_VBG web_NN log_NN data_NNS generated_VBN by_IN course_NN management_NN systems_NNS -LRB-_-LRB- CMS_NNP -RRB-_-RRB- to_TO help_VB instructors_NNS become_VB aware_JJ of_IN what_WP is_VBZ happening_VBG in_IN distance_NN learning_NN classes_NNS ._.
+Specifically_RB ,_, techniques_NNS from_IN Information_NNP Visualization_NN are_VBP used_VBN to_TO graphically_RB render_VB complex_JJ ,_, multidimensional_JJ student_NN tracking_NN data_NNS collected_VBN by_IN CMS_NNP ._.
+A_DT system_NN ,_, called_VBN CourseVis_NNP ,_, illustrates_VBZ the_DT proposed_JJ approach_NN ._.
+Graphical_JJ representations_NNS from_IN the_DT use_NN of_IN CourseVis_NNP to_TO visualise_VB data_NNS from_IN a_DT java_NN on-line_JJ distance_NN course_NN ran_VBD with_IN WebCT_NN are_VBP presented_VBN ._.
+Findings_NNS from_IN the_DT evaluation_NN of_IN CourseVis_NNP are_VBP presented_VBN ,_, and_CC it_PRP is_VBZ argued_VBN that_IN CourseVis_NNP can_MD help_VB teachers_NNS become_VB aware_JJ of_IN some_DT social_JJ ,_, behavioural_JJ ,_, and_CC cognitive_JJ aspects_NNS related_VBN to_TO distance_NN learners_NNS ._.
+Using_VBG graphical_JJ representations_NNS of_IN student_NN tracking_NN data_NNS ,_, instructors_NNS can_MD identify_VB tendencies_NNS in_IN their_PRP$ classes_NNS ,_, or_CC quickly_RB discover_VB individuals_NNS that_WDT need_VBP special_JJ attention_NN ._.

@@ -1,0 +1,8 @@
+Topical_JJ query_NN decomposition_NN
+We_PRP introduce_VBP the_DT problem_NN of_IN query_NN decomposition_NN ,_, where_WRB we_PRP are_VBP given_VBN a_DT query_NN and_CC a_DT document_NN retrieval_NN system_NN ,_, and_CC we_PRP want_VBP to_TO produce_VB a_DT small_JJ set_NN of_IN queries_NNS whose_WP$ union_NN of_IN resulting_VBG documents_NNS corresponds_VBZ approximately_RB to_TO that_DT of_IN the_DT original_JJ query_NN ._.
+Ideally_RB ,_, these_DT queries_NNS should_MD represent_VB coherent_JJ ,_, conceptually_RB well-separated_JJ topics_NNS ._.
+We_PRP provide_VBP an_DT abstract_JJ formulation_NN of_IN the_DT query_NN decomposition_NN problem_NN ,_, and_CC we_PRP tackle_VBP it_PRP from_IN two_CD different_JJ perspectives_NNS ._.
+We_PRP first_JJ show_NN how_WRB the_DT problem_NN can_MD be_VB instantiated_VBN as_IN a_DT specific_JJ variant_NN of_IN a_DT set_VBN cover_NN problem_NN ,_, for_IN which_WDT we_PRP provide_VBP an_DT efficient_JJ greedy_JJ algorithm_NN ._.
+Next_RB ,_, we_PRP show_VBP how_WRB the_DT same_JJ problem_NN can_MD be_VB seen_VBN as_IN a_DT constrained_VBN clustering_NN problem_NN ,_, with_IN a_DT very_RB particular_JJ kind_NN of_IN constraint_NN ,_, i.e._FW ,_, clustering_VBG with_IN predefined_JJ clusters_NNS ._.
+We_PRP develop_VBP a_DT two-phase_JJ algorithm_NN based_VBN on_IN hierarchical_JJ agglomerative_JJ clustering_NN followed_VBN by_IN dynamic_JJ programming_NN ._.
+Our_PRP$ experiments_NNS ,_, conducted_VBN on_IN a_DT set_NN of_IN actual_JJ queries_NNS in_IN a_DT Web_NN scale_NN search_NN engine_NN ,_, confirm_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN solutions_NNS ._.

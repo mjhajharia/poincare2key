@@ -1,0 +1,3 @@
+Web_NN page_NN ranking_NN using_VBG link_NN attributes_NNS
+We_PRP present_VBP a_DT variant_NN of_IN PageRank_NN ,_, WLRank_NN ,_, that_WDT considers_VBZ different_JJ Web_NN page_NN attributes_VBZ to_TO give_VB more_JJR weight_NN to_TO some_DT links_NNS ._.
+Our_PRP$ evaluation_NN shows_VBZ that_IN the_DT precision_NN of_IN the_DT answers_NNS can_MD improve_VB significantly_RB ._.

@@ -1,0 +1,10 @@
+On_IN directly_RB mapping_VBG relational_JJ databases_NNS to_TO RDF_NN and_CC OWL_NN
+Mapping_NN relational_JJ databases_NNS to_TO RDF_NNP is_VBZ a_DT fundamental_JJ problem_NN for_IN the_DT development_NN of_IN the_DT Semantic_JJ Web_NN ._.
+We_PRP present_VBP a_DT solution_NN ,_, inspired_VBN by_IN draft_NN methods_NNS defined_VBN by_IN the_DT W3C_NN where_WRB relational_JJ databases_NNS are_VBP directly_RB mapped_VBN to_TO RDF_NNP and_CC OWL_NNP ._.
+Given_VBN a_DT relational_JJ database_NN schema_NN and_CC its_PRP$ integrity_NN constraints_NNS ,_, this_DT direct_JJ mapping_NN produces_VBZ an_DT OWL_NN ontology_NN ,_, which_WDT ,_, provides_VBZ the_DT basis_NN for_IN generating_VBG RDF_NNP instances_NNS ._.
+The_DT semantics_NNS of_IN this_DT mapping_NN is_VBZ defined_VBN using_VBG Datalog_NNP ._.
+Two_CD fundamental_JJ properties_NNS are_VBP information_NN preservation_NN and_CC query_NN preservation_NN ._.
+We_PRP prove_VBP that_IN our_PRP$ mapping_NN satisfies_VBZ both_DT conditions_NNS ,_, even_RB for_IN relational_JJ databases_NNS that_WDT contain_VBP null_JJ values_NNS ._.
+We_PRP also_RB consider_VBP two_CD desirable_JJ properties_NNS :_: monotonicity_NN and_CC semantics_NNS preservation_NN ._.
+We_PRP prove_VBP that_IN our_PRP$ mapping_NN is_VBZ monotone_NN and_CC also_RB prove_VBP that_IN no_DT monotone_NN mapping_NN ,_, including_VBG ours_PRP ,_, is_VBZ semantic_JJ preserving_NN ._.
+We_PRP realize_VBP that_IN monotonicity_NN is_VBZ an_DT obstacle_NN for_IN semantic_JJ preservation_NN and_CC thus_RB present_VBP a_DT non-monotone_JJ direct_JJ mapping_NN that_WDT is_VBZ semantics_NNS preserving_VBG ._.

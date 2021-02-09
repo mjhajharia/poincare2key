@@ -1,0 +1,6 @@
+Forcehttps_NNS :_: protecting_VBG high-security_JJ web_NN sites_NNS from_IN network_NN attacks_NNS
+As_IN wireless_JJ networks_NNS proliferate_VBP ,_, web_NN browsers_NNS operate_VBP in_IN an_DT increasingly_RB hostile_JJ network_NN environment_NN ._.
+The_DT HTTPS_NNP protocol_NN has_VBZ the_DT potential_NN to_TO protect_VB web_NN users_NNS from_IN network_NN attackers_NNS ,_, but_CC real-world_JJ deployments_NNS must_MD cope_VB with_IN misconfigured_JJ servers_NNS ,_, causing_VBG imperfect_JJ web_NN sites_NNS and_CC users_NNS to_TO compromise_VB browsing_VBG sessions_NNS inadvertently_RB ._.
+ForceHTTPS_NN is_VBZ a_DT simple_JJ browser_NN security_NN mechanism_NN that_IN web_NN sites_NNS or_CC users_NNS can_MD use_VB to_TO opt_VB in_RB to_TO stricter_JJR error_NN processing_NN ,_, improving_VBG the_DT security_NN of_IN HTTPS_NN by_IN preventing_VBG network_NN attacks_NNS that_IN leverage_NN the_DT browser_NN 's_POS lax_JJ error_NN processing_NN ._.
+By_IN augmenting_VBG the_DT browser_NN with_IN a_DT database_NN of_IN custom_NN URL_NN rewrite_VBP rules_NNS ,_, ForceHTTPS_NN allows_VBZ sophisticated_JJ users_NNS to_TO transparently_RB retrofit_VB security_NN onto_IN some_DT insecure_JJ sites_NNS that_WDT support_VBP HTTPS_NNP ._.
+We_PRP provide_VBP a_DT prototype_NN implementation_NN of_IN ForceHTTPS_NN as_IN a_DT Firefox_NNP browser_NN extension_NN ._.

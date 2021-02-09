@@ -1,0 +1,7 @@
+Statistical_JJ analysis_NN of_IN the_DT social_JJ network_NN and_CC discussion_NN threads_NNS in_IN slashdot_NN
+We_PRP analyze_VBP the_DT social_JJ network_NN emerging_VBG from_IN the_DT user_NN comment_NN activity_NN on_IN the_DT website_NN Slashdot_NNP ._.
+The_DT network_NN presents_VBZ common_JJ features_NNS of_IN traditional_JJ social_JJ networks_NNS such_JJ as_IN a_DT giant_JJ component_NN ,_, small_JJ average_JJ path_NN length_NN and_CC high_JJ clustering_NN ,_, but_CC differs_VBZ from_IN them_PRP showing_VBG moderate_JJ reciprocity_NN and_CC neutral_JJ assortativity_NN by_IN degree_NN ._.
+Using_VBG Kolmogorov-Smirnov_JJ statistical_JJ tests_NNS ,_, we_PRP show_VBP that_IN the_DT degree_NN distributions_NNS are_VBP better_RB explained_VBN by_IN log-normal_JJ instead_RB of_IN power-law_NN distributions_NNS ._.
+We_PRP also_RB study_VBD the_DT structure_NN of_IN discussion_NN threads_NNS using_VBG an_DT intuitive_JJ radial_JJ tree_NN representation_NN ._.
+Threads_NNS show_VBP strong_JJ heterogeneity_NN and_CC self-similarity_NN throughout_IN the_DT different_JJ nesting_JJ levels_NNS of_IN a_DT conversation_NN ._.
+We_PRP use_VBP these_DT results_NNS to_TO propose_VB a_DT simple_JJ measure_NN to_TO evaluate_VB the_DT degree_NN of_IN controversy_NN provoked_VBN by_IN a_DT post_NN ._.

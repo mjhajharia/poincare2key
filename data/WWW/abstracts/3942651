@@ -1,0 +1,7 @@
+Scalable_JJ techniques_NNS for_IN memory-efficient_JJ CDN_NN simulations_NNS
+Since_IN CDN_NNP simulations_NNS are_VBP known_VBN to_TO be_VB highly_RB memory-intensive_JJ ,_, in_IN this_DT paper_NN ,_, we_PRP argue_VBP the_DT need_NN for_IN reducing_VBG the_DT memory_NN requirements_NNS of_IN such_JJ simulations_NNS ._.
+We_PRP propose_VBP a_DT novel_JJ memory-efficient_JJ data_NNS structure_NN that_WDT stores_VBZ cache_NN state_NN for_IN a_DT small_JJ subset_NN of_IN popular_JJ objects_NNS accurately_RB and_CC uses_VBZ approximations_NNS for_IN storing_VBG the_DT state_NN for_IN the_DT remaining_VBG objects_NNS ._.
+Since_IN popular_JJ objects_NNS receive_VBP a_DT large_JJ fraction_NN of_IN the_DT requests_NNS while_IN less_RBR frequently_RB accessed_VBN objects_NNS consume_VBP much_JJ of_IN the_DT memory_NN space_NN ,_, this_DT approach_NN yields_VBZ large_JJ memory_NN savings_NNS and_CC reduces_VBZ errors_NNS ._.
+We_PRP use_VBP bloom_NN filters_NNS to_TO store_VB approximate_JJ state_NN and_CC show_VBP that_IN careful_JJ choice_NN of_IN parameters_NNS can_MD substantially_RB reduce_VB the_DT probability_NN of_IN errors_NNS due_JJ to_TO approximations_NNS ._.
+We_PRP implement_VBP our_PRP$ techniques_NNS into_IN a_DT user_NN library_NN for_IN constructing_VBG proxy_JJ caches_NNS in_IN CDN_NNP simulators_NNS ._.
+Our_PRP$ experimental_JJ results_NNS show_VBP up_RP to_TO an_DT order_NN of_IN magnitude_NN reduction_NN in_IN memory_NN requirements_NNS of_IN CDN_NNP simulations_NNS ,_, while_IN incurring_VBG a_DT 5-10_CD %_NN error_NN ._.

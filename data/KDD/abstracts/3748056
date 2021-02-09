@@ -1,0 +1,5 @@
+Cryptographically_RB private_JJ support_NN vector_NN machines_NNS
+We_PRP propose_VBP private_JJ protocols_NNS implementing_VBG the_DT Kernel_NNP Adatron_NNP and_CC Kernel_NNP Perceptron_NNP learning_NN algorithms_NNS ,_, give_VBP private_JJ classification_NN protocols_NNS and_CC private_JJ polynomial_JJ kernel_NN computation_NN protocols_NNS ._.
+The_DT new_JJ protocols_NNS return_VBP their_PRP$ outputs_NNS -_: either_CC the_DT kernel_NN value_NN ,_, the_DT classifier_NN or_CC the_DT classifications_NNS -_: in_IN encrypted_JJ form_NN so_IN that_IN they_PRP can_MD be_VB decrypted_VBN only_RB by_IN a_DT common_JJ agreement_NN by_IN the_DT protocol_NN participants_NNS ._.
+We_PRP show_VBP how_WRB to_TO use_VB the_DT encrypted_JJ classifications_NNS to_TO privately_RB estimate_VB many_JJ properties_NNS of_IN the_DT data_NNS and_CC the_DT classifier_NN ._.
+The_DT new_JJ SVM_NNP classifiers_NNS are_VBP the_DT first_JJ to_TO be_VB proven_VBN private_JJ according_VBG to_TO the_DT standard_JJ cryptographic_JJ definitions_NNS ._.

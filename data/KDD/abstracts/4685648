@@ -1,0 +1,12 @@
+Applying_VBG collaborative_JJ filtering_VBG techniques_NNS to_TO movie_NN search_NN for_IN better_JJR ranking_NN and_CC browsing_VBG
+We_PRP propose_VBP a_DT new_JJ ranking_NN method_NN ,_, which_WDT combines_VBZ recommender_NN systems_NNS with_IN information_NN search_NN tools_NNS for_IN better_JJR search_NN and_CC browsing_NN ._.
+Our_PRP$ method_NN uses_VBZ a_DT collaborative_JJ filtering_VBG algorithm_NN to_TO generate_VB personal_JJ item_NN authorities_NNS for_IN each_DT user_NN and_CC combines_VBZ them_PRP with_IN item_NN proximities_NNS for_IN better_JJR ranking_NN ._.
+To_TO demonstrate_VB our_PRP$ approach_NN ,_, we_PRP build_VBP a_DT prototype_NN movie_NN search_NN and_CC browsing_VBG engine_NN called_VBN MAD6_NN -LRB-_-LRB- Movies_NNS ,_, Actors_NNS and_CC Directors_NNS ;_: 6_CD degrees_NNS of_IN separation_NN -RRB-_-RRB- ._.
+We_PRP conduct_VBP offline_JJ and_CC online_JJ tests_NNS of_IN our_PRP$ ranking_JJ algorithm_NN ._.
+For_IN offline_JJ testing_NN ,_, we_PRP use_VBP Yahoo_NNP !_.
+Search_VB queries_NNS that_WDT resulted_VBD in_IN a_DT click_VB on_IN a_DT Yahoo_NNP !_.
+Movies_NNS or_CC Internet_NN Movie_NN Database_NN -LRB-_-LRB- IMDB_NN -RRB-_-RRB- movie_NN URL_NN ._.
+Our_PRP$ online_JJ test_NN involved_VBN 44_CD Yahoo_NNP !_.
+employees_NNS providing_VBG subjective_JJ assessments_NNS of_IN results_NNS quality_NN ._.
+In_IN both_DT tests_NNS ,_, our_PRP$ ranking_JJ methods_NNS show_VBP significantly_RB better_JJR recall_NN and_CC quality_NN than_IN IMDB_NN search_NN and_CC Yahoo_NNP !_.
+Movies_NNS current_JJ search_NN ._.

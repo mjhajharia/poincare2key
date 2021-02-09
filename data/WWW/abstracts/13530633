@@ -1,0 +1,10 @@
+Compressed_VBN web_NN indexes_NNS
+Web_NN search_NN engines_NNS use_VBP indexes_NNS to_TO efficiently_RB retrieve_VB pages_NNS containing_VBG specified_JJ query_NN terms_NNS ,_, as_RB well_RB as_IN pages_NNS linking_VBG to_TO specified_JJ pages_NNS ._.
+The_DT problem_NN of_IN compressed_VBN indexes_NNS that_WDT permit_VBP such_JJ fast_JJ retrieval_NN has_VBZ a_DT long_JJ history_NN ._.
+We_PRP consider_VBP the_DT problem_NN :_: assuming_VBG that_IN the_DT terms_NNS in_IN -LRB-_-LRB- or_CC links_NNS to_TO -RRB-_-RRB- a_DT page_NN are_VBP generated_VBN from_IN a_DT probability_NN distribution_NN ,_, how_WRB well_RB compactly_RB can_MD we_PRP build_VB such_JJ indexes_NNS that_WDT allow_VBP fast_JJ retrieval_NN ?_.
+Of_IN particular_JJ interest_NN is_VBZ the_DT case_NN when_WRB the_DT probability_NN distribution_NN is_VBZ Zipfian_NNP -LRB-_-LRB- or_CC a_DT similar_JJ power_NN law_NN -RRB-_-RRB- ,_, since_IN these_DT are_VBP the_DT distributions_NNS that_WDT arise_VBP on_IN the_DT web_NN ._.
+We_PRP obtain_VBP sharp_JJ bounds_NNS on_IN the_DT space_NN requirement_NN of_IN Boolean_JJ indexes_NNS for_IN text_NN documents_NNS that_WDT follow_VBP Zipf_NNP 's_POS law_NN ._.
+In_IN the_DT process_NN we_PRP develop_VBP a_DT general_JJ technique_NN that_WDT applies_VBZ to_TO any_DT probability_NN distribution_NN ,_, not_RB necessarily_RB a_DT power_NN law_NN ;_: this_DT is_VBZ the_DT first_JJ analysis_NN of_IN compression_NN in_IN indexes_NNS under_IN arbitrary_JJ distributions_NNS ._.
+Our_PRP$ bounds_NNS lead_VBP to_TO quantitative_JJ versions_NNS of_IN rules_NNS of_IN thumb_NN that_WDT are_VBP folklore_NN in_IN indexing_NN ._.
+Our_PRP$ experiments_NNS on_IN several_JJ document_NN collections_NNS show_VBP that_IN the_DT distribution_NN of_IN terms_NNS appears_VBZ to_TO follow_VB a_DT double-Pareto_JJ law_NN rather_RB than_IN Zipf_NNP 's_POS law_NN ._.
+Despite_IN widely_RB varying_VBG sets_NNS of_IN documents_NNS ,_, the_DT index_NN sizes_NNS observed_VBN in_IN the_DT experiments_NNS conform_VBP well_RB to_TO our_PRP$ theoretical_JJ predictions_NNS ._.

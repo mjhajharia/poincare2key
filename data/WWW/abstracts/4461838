@@ -1,0 +1,5 @@
+Bayesian_JJ network_NN based_VBN sentence_NN retrieval_NN model_NN
+This_DT paper_NN makes_VBZ an_DT intensive_JJ investigation_NN of_IN the_DT application_NN of_IN Bayesian_JJ network_NN in_IN sentence_NN retrieval_NN and_CC introduces_VBZ three_CD Bayesian_JJ network_NN based_VBN sentence_NN retrieval_NN models_NNS with_IN or_CC without_IN consideration_NN of_IN term_NN relationships_NNS ._.
+Term_NN relationships_NNS in_IN this_DT paper_NN are_VBP considered_VBN from_IN two_CD perspectives_NNS :_: relationships_NNS between_IN pairs_NNS of_IN terms_NNS and_CC relationships_NNS between_IN terms_NNS and_CC term_NN sets_NNS ._.
+Experiments_NNS have_VBP proven_VBN the_DT efficiency_NN of_IN Bayesian_JJ network_NN in_IN the_DT application_NN of_IN sentence_NN retrieval_NN ._.
+Particularly_RB ,_, retrieval_NN result_VBP with_IN consideration_NN of_IN the_DT second_JJ kind_NN of_IN term_NN relationship_NN performs_VBZ better_RBR in_IN improving_VBG retrieval_NN precision_NN ._.

@@ -1,0 +1,8 @@
+Predictive_JJ caching_NN and_CC prefetching_NN of_IN query_NN results_VBZ in_IN search_NN engines_NNS
+We_PRP study_VBD the_DT caching_NN of_IN query_JJ result_NN pages_NNS in_IN Web_NN search_NN engines_NNS ._.
+Popular_NNP search_NN engines_NNS receive_VBP millions_NNS of_IN queries_NNS per_IN day_NN ,_, and_CC efficient_JJ policies_NNS for_IN caching_VBG query_JJ results_NNS may_MD enable_VB them_PRP to_TO lower_VB their_PRP$ response_NN time_NN and_CC reduce_VB their_PRP$ hardware_NN requirements_NNS ._.
+We_PRP present_VBP PDC_NN -LRB-_-LRB- probability_NN driven_JJ cache_NN -RRB-_-RRB- ,_, a_DT novel_JJ scheme_NN tailored_VBN for_IN caching_VBG search_NN results_NNS ,_, that_WDT is_VBZ based_VBN on_IN a_DT probabilistic_JJ model_NN of_IN search_NN engine_NN users_NNS ._.
+We_PRP then_RB use_VBP a_DT trace_NN of_IN over_IN seven_CD million_CD queries_NNS submitted_VBN to_TO the_DT search_NN engine_NN AltaVista_NNP to_TO evaluate_VB PDC_NNP ,_, as_RB well_RB as_IN traditional_JJ LRU_NNP and_CC SLRU_NNP based_VBN caching_NN schemes_NNS ._.
+The_DT trace_NN driven_VBN simulations_NNS show_VBP that_IN PDC_NN outperforms_VBZ the_DT other_JJ policies_NNS ._.
+We_PRP also_RB examine_VBP the_DT prefetching_NN of_IN search_NN results_NNS ,_, and_CC demonstrate_VBP that_IN prefetching_NN can_MD increase_VB cache_NN hit_NN ratios_NNS by_IN 50_CD %_NN for_IN large_JJ caches_NNS ,_, and_CC can_MD double_VB the_DT hit_NN ratios_NNS of_IN small_JJ caches_NNS ._.
+When_WRB integrating_VBG prefetching_NN into_IN PDC_NNP ,_, we_PRP attain_VBP hit_NN ratios_NNS of_IN over_IN 0.53_CD ._.

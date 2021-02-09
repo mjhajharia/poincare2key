@@ -1,0 +1,7 @@
+Incremental_JJ context_NN mining_NN for_IN adaptive_JJ document_NN classification_NN
+Automatic_NNP document_NN classification_NN -LRB-_-LRB- DC_NN -RRB-_-RRB- is_VBZ essential_JJ for_IN the_DT management_NN of_IN information_NN and_CC knowledge_NN ._.
+This_DT paper_NN explores_VBZ two_CD practical_JJ issues_NNS in_IN DC_NN :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- each_DT document_NN has_VBZ its_PRP$ context_NN of_IN discussion_NN ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- both_CC the_DT content_NN and_CC vocabulary_NN of_IN the_DT document_NN database_NN is_VBZ intrinsically_RB evolving_VBG ._.
+The_DT issues_NNS call_VBP for_IN adaptive_JJ document_NN classification_NN -LRB-_-LRB- ADC_NN -RRB-_-RRB- that_WDT adapts_VBZ a_DT DC_NN system_NN to_TO the_DT evolving_VBG contextual_JJ requirement_NN of_IN each_DT document_NN category_NN ,_, so_IN that_IN input_NN documents_NNS may_MD be_VB classified_VBN based_VBN on_IN their_PRP$ contexts_NNS of_IN discussion_NN ._.
+We_PRP present_VBP an_DT incremental_JJ context_NN mining_NN technique_NN to_TO tackle_VB the_DT challenges_NNS of_IN ADC_NNP ._.
+Theoretical_JJ analyses_NNS and_CC empirical_JJ results_NNS show_VBP that_IN ,_, given_VBN a_DT text_NN hierarchy_NN ,_, the_DT mining_NN technique_NN is_VBZ efficient_JJ in_IN incrementally_RB maintaining_VBG the_DT evolving_VBG contextual_JJ requirement_NN of_IN each_DT category_NN ._.
+Based_VBN on_IN the_DT contextual_JJ requirements_NNS mined_VBN by_IN the_DT system_NN ,_, higher-precision_JJ DC_NN may_MD be_VB achieved_VBN with_IN better_JJR efficiency_NN ._.

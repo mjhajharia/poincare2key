@@ -1,0 +1,5 @@
+The_DT web_NN of_IN nations_NNS
+In_IN this_DT paper_NN ,_, we_PRP report_VBP on_IN a_DT large-scale_JJ study_NN of_IN structural_JJ differences_NNS among_IN the_DT national_JJ webs_NNS ._.
+The_DT study_NN is_VBZ based_VBN on_IN a_DT web-scale_JJ crawl_NN conducted_VBN in_IN the_DT summer_NN 2008_CD ._.
+More_RBR specifically_RB ,_, we_PRP study_VBD two_CD graphs_NNS derived_VBN from_IN this_DT crawl_NN ,_, the_DT nation_NN graph_NN ,_, with_IN nodes_NNS corresponding_VBG to_TO nations_NNS and_CC edges_NNS -_: to_TO links_NNS among_IN nations_NNS ,_, and_CC the_DT host_NN graph_NN ,_, with_IN nodes_NNS corresponding_VBG to_TO hosts_NNS and_CC edges_NNS -_: to_TO hyperlinks_NNS among_IN pages_NNS on_IN the_DT hosts_NNS ._.
+Contrary_JJ to_TO some_DT of_IN the_DT previous_JJ work_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, our_PRP$ results_NNS show_VBP that_IN webs_NNS of_IN different_JJ nations_NNS are_VBP often_RB very_RB different_JJ from_IN each_DT other_JJ ,_, both_CC in_IN terms_NNS of_IN their_PRP$ internal_JJ structure_NN ,_, and_CC in_IN terms_NNS of_IN their_PRP$ connectivity_NN with_IN other_JJ nations_NNS ._.

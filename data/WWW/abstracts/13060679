@@ -1,0 +1,11 @@
+Characterizing_VBG search_NN intent_NN diversity_NN into_IN click_VB models_NNS
+Modeling_VBG a_DT user_NN 's_POS click-through_JJ behavior_NN in_IN click_VB logs_NNS is_VBZ a_DT challenging_JJ task_NN due_JJ to_TO the_DT well-known_JJ position_NN bias_NN problem_NN ._.
+Recent_JJ advances_NNS in_IN click_VBP models_NNS have_VBP adopted_VBN the_DT examination_NN hypothesis_NN which_WDT distinguishes_VBZ document_NN relevance_NN from_IN position_NN bias_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP revisit_VBP the_DT examination_NN hypothesis_NN and_CC observe_VBP that_IN user_NN clicks_NNS can_MD not_RB be_VB completely_RB explained_VBN by_IN relevance_NN and_CC position_NN bias_NN ._.
+Specifically_RB ,_, users_NNS with_IN different_JJ search_NN intents_NNS may_MD submit_VB the_DT same_JJ query_NN to_TO the_DT search_NN engine_NN but_CC expect_VBP different_JJ search_NN results_NNS ._.
+Thus_RB ,_, there_EX might_MD be_VB a_DT bias_NN between_IN user_NN search_NN intent_NN and_CC the_DT query_NN formulated_VBN by_IN the_DT user_NN ,_, which_WDT can_MD lead_VB to_TO the_DT diversity_NN in_IN user_NN clicks_NNS ._.
+This_DT bias_NN has_VBZ not_RB been_VBN considered_VBN in_IN previous_JJ works_NNS such_JJ as_IN UBM_NNP ,_, DBN_NNP and_CC CCM_NNP ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ intent_NN hypothesis_NN as_IN a_DT complement_NN to_TO the_DT examination_NN hypothesis_NN ._.
+This_DT hypothesis_NN is_VBZ used_VBN to_TO characterize_VB the_DT bias_NN between_IN the_DT user_NN search_NN intent_NN and_CC the_DT query_NN in_IN each_DT search_NN session_NN ._.
+This_DT hypothesis_NN is_VBZ very_RB general_JJ and_CC can_MD be_VB applied_VBN to_TO most_JJS of_IN the_DT existing_VBG click_VB models_NNS to_TO improve_VB their_PRP$ capacities_NNS in_IN learning_VBG unbiased_JJ relevance_NN ._.
+Experimental_JJ results_NNS demonstrate_VBP that_IN after_IN adopting_VBG the_DT intent_NN hypothesis_NN ,_, click_VB models_NNS can_MD better_RB interpret_VB user_NN clicks_NNS and_CC achieve_VB a_DT significant_JJ NDCG_NN improvement_NN ._.

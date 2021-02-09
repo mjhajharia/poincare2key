@@ -1,0 +1,7 @@
+IncSpan_NNP :_: incremental_JJ mining_NN of_IN sequential_JJ patterns_NNS in_IN large_JJ database_NN
+Many_JJ real_JJ life_NN sequence_NN databases_NNS grow_VBP incrementally_RB ._.
+It_PRP is_VBZ undesirable_JJ to_TO mine_VB sequential_JJ patterns_NNS from_IN scratch_NN each_DT time_NN when_WRB a_DT small_JJ set_NN of_IN sequences_NNS grow_VBP ,_, or_CC when_WRB some_DT new_JJ sequences_NNS are_VBP added_VBN into_IN the_DT database_NN ._.
+Incremental_JJ algorithm_NN should_MD be_VB developed_VBN for_IN sequential_JJ pattern_NN mining_NN so_IN that_DT mining_NN can_MD be_VB adapted_VBN to_TO incremental_JJ database_NN updates_NNS ._.
+However_RB ,_, it_PRP is_VBZ nontrivial_JJ to_TO mine_VB sequential_JJ patterns_NNS incrementally_RB ,_, especially_RB when_WRB the_DT existing_VBG sequences_NNS grow_VB incrementally_RB because_IN such_JJ growth_NN may_MD lead_VB to_TO the_DT generation_NN of_IN many_JJ new_JJ patterns_NNS due_JJ to_TO the_DT interactions_NNS of_IN the_DT growing_VBG subsequences_NNS with_IN the_DT original_JJ ones_NNS ._.
+In_IN this_DT study_NN ,_, we_PRP develop_VBP an_DT efficient_JJ algorithm_NN ,_, IncSpan_NNP ,_, for_IN incremental_JJ mining_NN of_IN sequential_JJ patterns_NNS ,_, by_IN exploring_VBG some_DT interesting_JJ properties_NNS ._.
+Our_PRP$ performance_NN study_NN shows_VBZ that_IN IncSpan_NNP outperforms_VBZ some_DT previously_RB proposed_VBN incremental_JJ algorithms_NNS as_RB well_RB as_IN a_DT non-incremental_JJ one_CD with_IN a_DT wide_JJ margin_NN ._.

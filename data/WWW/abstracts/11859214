@@ -1,0 +1,6 @@
+HyLiEn_NN :_: a_DT hybrid_JJ approach_NN to_TO general_JJ list_NN extraction_NN on_IN the_DT web_NN
+We_PRP consider_VBP the_DT problem_NN of_IN automatically_RB extracting_VBG general_JJ lists_NNS from_IN the_DT web_NN ._.
+Existing_VBG approaches_NNS are_VBP mostly_RB dependent_JJ upon_IN either_CC the_DT underlying_VBG HTML_NNP markup_NN or_CC the_DT visual_JJ structure_NN of_IN the_DT Web_NN page_NN ._.
+We_PRP present_VBP HyLiEn_NN an_DT unsupervised_JJ ,_, Hybrid_JJ approach_NN for_IN automatic_JJ List_NN discovery_NN and_CC Extraction_NN on_IN the_DT Web_NN ._.
+It_PRP employs_VBZ general_JJ assumptions_NNS about_IN the_DT visual_JJ rendering_NN of_IN lists_NNS ,_, and_CC the_DT structural_JJ representation_NN of_IN items_NNS contained_VBN in_IN them_PRP ._.
+We_PRP show_VBP that_IN our_PRP$ method_NN significantly_RB outperforms_VBZ existing_VBG methods_NNS ._.

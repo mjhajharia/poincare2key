@@ -1,0 +1,8 @@
+Dynamics_NNP of_IN bidding_NN in_IN a_DT P2P_NN lending_NN service_NN :_: effects_NNS of_IN herding_VBG and_CC predicting_VBG loan_NN success_NN
+Online_JJ peer-to-peer_NN -LRB-_-LRB- P2P_NN -RRB-_-RRB- lending_NN services_NNS are_VBP a_DT new_JJ type_NN of_IN social_JJ platform_NN that_WDT enables_VBZ individuals_NNS borrow_VB and_CC lend_VB money_NN directly_RB from_IN one_CD to_TO another_DT ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT dynamics_NNS of_IN bidding_NN behavior_NN in_IN a_DT P2P_NN loan_NN auction_NN website_NN ,_, Prosper.com_NNP ._.
+We_PRP investigate_VBP the_DT change_NN of_IN various_JJ attributes_NNS of_IN loan_NN requesting_VBG listings_NNS over_IN time_NN ,_, such_JJ as_IN the_DT interest_NN rate_NN and_CC the_DT number_NN of_IN bids_NNS ._.
+We_PRP observe_VBP that_IN there_EX is_VBZ herding_VBG behavior_NN during_IN bidding_NN ,_, and_CC for_IN most_JJS of_IN the_DT listings_NNS ,_, the_DT numbers_NNS of_IN bids_NNS they_PRP receive_VBP reach_NN spikes_NNS at_IN very_RB similar_JJ time_NN points_NNS ._.
+We_PRP explain_VBP these_DT phenomena_NNS by_IN showing_VBG that_IN there_EX are_VBP economic_JJ and_CC social_JJ factors_NNS that_IN lenders_NNS take_VBP into_IN account_NN when_WRB deciding_VBG to_TO bid_VB on_IN a_DT listing_NN ._.
+We_PRP also_RB observe_VBP that_IN the_DT profits_NNS the_DT lenders_NNS make_VBP are_VBP tied_VBN with_IN their_PRP$ bidding_NN preferences_NNS ._.
+Finally_RB ,_, we_PRP build_VBP a_DT model_NN based_VBN on_IN the_DT temporal_JJ progression_NN of_IN the_DT bidding_NN ,_, that_WDT reliably_RB predicts_VBZ the_DT success_NN of_IN a_DT loan_NN request_NN listing_NN ,_, as_RB well_RB as_IN whether_IN a_DT loan_NN will_MD be_VB paid_VBN back_RB or_CC not_RB ._.

@@ -1,0 +1,6 @@
+Generation_NN of_IN multimedia_NNS TV_NN news_NN contents_NNS for_IN WWW_NNP
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT system_NN we_PRP have_VBP developed_VBN for_IN automatic_JJ TV_NN News_NN video_NN indexing_NN that_WDT successfully_RB combines_VBZ results_NNS from_IN the_DT fields_NNS of_IN speaker_NN verification_NN ,_, acoustic_JJ analysis_NN ,_, very_RB large_JJ vocabulary_NN video_NN OCR_NN ,_, content_NN based_VBD sampling_NN of_IN video_NN ,_, information_NN retrieval_NN ,_, dialogue_NN systems_NNS ,_, and_CC ASF_NNP media_NNS delivery_NN over_IN IP_NNP ._.
+The_DT prototype_NN of_IN TV_NN news_NN content_NN processing_NN Web_NN was_VBD completed_VBN in_IN July_NNP 2003_CD ._.
+Since_IN then_RB ,_, the_DT system_NN has_VBZ been_VBN up_RP running_VBG continuously_RB ._.
+Up_IN to_TO the_DT date_NN when_WRB this_DT message_NN is_VBZ written_VBN -LRB-_-LRB- March_NNP 27_CD ,_, 2006_CD -RRB-_-RRB- ,_, the_DT system_NN records_NNS and_CC analyzes_VBZ the_DT prime_JJ time_NN evening_NN news_NN program_NN in_IN Taiwan_NNP every_DT day_NN of_IN these_DT years_NNS ,_, except_IN a_DT few_JJ power_NN failure_NN shutdown_NN ._.
+The_DT TV_NN news_NN web_NN is_VBZ at_IN http:\/\/140.113.216.64\/NewsQuery\/main.as_NN

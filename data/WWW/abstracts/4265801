@@ -1,0 +1,8 @@
+Detecting_VBG semantic_JJ cloaking_NN on_IN the_DT web_NN
+By_IN supplying_VBG different_JJ versions_NNS of_IN a_DT web_NN page_NN to_TO search_VB engines_NNS and_CC to_TO browsers_NNS ,_, a_DT content_NN provider_NN attempts_VBZ to_TO cloak_VB the_DT real_JJ content_NN from_IN the_DT view_NN of_IN the_DT search_NN engine_NN ._.
+Semantic_JJ cloaking_NN refers_VBZ to_TO differences_NNS in_IN meaning_NN between_IN pages_NNS which_WDT have_VBP the_DT effect_NN of_IN deceiving_VBG search_NN engine_NN ranking_NN algorithms_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT automated_JJ two-step_JJ method_NN to_TO detect_VB semantic_JJ cloaking_VBG pages_NNS based_VBN on_IN different_JJ copies_NNS of_IN the_DT same_JJ page_NN downloaded_VBN by_IN a_DT web_NN crawler_NN and_CC a_DT web_NN browser_NN ._.
+The_DT first_JJ step_NN is_VBZ a_DT filtering_VBG step_NN ,_, which_WDT generates_VBZ a_DT candidate_NN list_NN of_IN semantic_JJ cloaking_VBG pages_NNS ._.
+In_IN the_DT second_JJ step_NN ,_, a_DT classifier_NN is_VBZ used_VBN to_TO detect_VB semantic_JJ cloaking_VBG pages_NNS from_IN the_DT candidates_NNS generated_VBN by_IN the_DT filtering_VBG step_NN ._.
+Experiments_NNS on_IN manually_RB labeled_VBN data_NNS sets_NNS show_VBP that_IN we_PRP can_MD generate_VB a_DT classifier_NN with_IN a_DT precision_NN of_IN 93_CD %_NN and_CC a_DT recall_NN of_IN 85_CD %_NN ._.
+We_PRP apply_VBP our_PRP$ approach_NN to_TO links_NNS from_IN the_DT dmoz_NN Open_NNP Directory_NNP Project_NNP and_CC estimate_NN that_IN more_JJR than_IN 50,000_CD of_IN these_DT pages_NNS employ_VBP semantic_JJ cloaking_NN ._.

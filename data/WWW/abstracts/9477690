@@ -1,0 +1,10 @@
+Supervised_VBN rank_NN aggregation_NN
+This_DT paper_NN is_VBZ concerned_VBN with_IN rank_NN aggregation_NN ,_, the_DT task_NN of_IN combining_VBG the_DT ranking_JJ results_NNS of_IN individual_JJ rankers_NNS at_IN meta-search_NN ._.
+Previously_RB ,_, rank_NN aggregation_NN was_VBD performed_VBN mainly_RB by_IN means_NNS of_IN unsupervised_JJ learning_NN ._.
+To_TO further_RB enhance_VB ranking_JJ accuracies_NNS ,_, we_PRP propose_VBP employing_VBG supervised_JJ learning_NN to_TO perform_VB the_DT task_NN ,_, using_VBG labeled_JJ data_NNS ._.
+We_PRP refer_VBP to_TO the_DT approach_NN as_IN Supervised_NNP Rank_NNP Aggregation_NN ._.
+We_PRP set_VBD up_RP a_DT general_JJ framework_NN for_IN conducting_VBG Supervised_NNP Rank_NNP Aggregation_NN ,_, in_IN which_WDT learning_NN is_VBZ formalized_VBN an_DT optimization_NN which_WDT minimizes_VBZ disagreements_NNS between_IN ranking_JJ results_NNS and_CC the_DT labeled_JJ data_NNS ._.
+As_IN case_NN study_NN ,_, we_PRP focus_VBP on_IN Markov_NNP Chain_NNP based_JJ rank_NN aggregation_NN in_IN this_DT paper_NN ._.
+The_DT optimization_NN for_IN Markov_NNP Chain_NNP based_VBN methods_NNS is_VBZ not_RB a_DT convex_NN optimization_NN problem_NN ,_, however_RB ,_, and_CC thus_RB is_VBZ hard_JJ to_TO solve_VB ._.
+We_PRP prove_VBP that_IN we_PRP can_MD transform_VB the_DT optimization_NN problem_NN into_IN that_DT of_IN Semidefinite_NNP Programming_NNP and_CC solve_VB it_PRP efficiently_RB ._.
+Experimental_JJ results_NNS on_IN meta-searches_NNS show_VBP that_IN Supervised_NNP Rank_NNP Aggregation_NN can_MD significantly_RB outperform_VB existing_VBG unsupervised_JJ methods_NNS ._.

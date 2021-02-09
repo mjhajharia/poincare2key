@@ -1,0 +1,12 @@
+Automatic_NNP detection_NN of_IN fragments_NNS in_IN dynamically_RB generated_VBN web_NN pages_NNS
+Dividing_VBG web_NN pages_NNS into_IN fragments_NNS has_VBZ been_VBN shown_VBN to_TO provide_VB significant_JJ benefits_NNS for_IN both_DT content_NN generation_NN and_CC caching_NN ._.
+In_IN order_NN for_IN a_DT web_NN site_NN to_TO use_VB fragment-based_JJ content_NN generation_NN ,_, however_RB ,_, good_JJ methods_NNS are_VBP needed_VBN for_IN dividing_VBG web_NN pages_NNS into_IN fragments_NNS ._.
+Manual_JJ fragmentation_NN of_IN web_NN pages_NNS is_VBZ expensive_JJ ,_, error_NN prone_JJ ,_, and_CC unscalable_JJ ._.
+This_DT paper_NN proposes_VBZ a_DT novel_JJ scheme_NN to_TO automatically_RB detect_VB and_CC flag_NN fragments_NNS that_WDT are_VBP cost-effective_JJ cache_NN units_NNS in_IN web_NN sites_NNS serving_VBG dynamic_JJ content_NN ._.
+We_PRP consider_VBP the_DT fragments_NNS to_TO be_VB interesting_JJ if_IN they_PRP are_VBP shared_VBN among_IN multiple_JJ documents_NNS or_CC they_PRP have_VBP different_JJ lifetime_NN or_CC personalization_NN characteristics_NNS ._.
+Our_PRP$ approach_NN has_VBZ three_CD unique_JJ features_NNS ._.
+First_RB ,_, we_PRP propose_VBP a_DT hierarchical_JJ and_CC fragment-aware_JJ model_NN of_IN the_DT dynamic_JJ web_NN pages_NNS and_CC a_DT data_NN structure_NN that_WDT is_VBZ compact_JJ and_CC effective_JJ for_IN fragment_NN detection_NN ._.
+Second_RB ,_, we_PRP present_VBP an_DT efficient_JJ algorithm_NN to_TO detect_VB maximal_JJ fragments_NNS that_WDT are_VBP shared_VBN among_IN multiple_JJ documents_NNS ._.
+Third_RB ,_, we_PRP develop_VBP a_DT practical_JJ algorithm_NN that_WDT effectively_RB detects_VBZ fragments_NNS based_VBN on_IN their_PRP$ lifetime_NN and_CC personalization_NN characteristics_NNS ._.
+We_PRP evaluate_VBP the_DT proposed_VBN scheme_NN through_IN a_DT series_NN of_IN experiments_NNS ,_, showing_VBG the_DT benefits_NNS and_CC costs_NNS of_IN the_DT algorithms_NNS ._.
+We_PRP also_RB study_VBD the_DT impact_NN of_IN adopting_VBG the_DT fragments_NNS detected_VBN by_IN our_PRP$ system_NN on_IN disk_NN space_NN utilization_NN and_CC network_NN bandwidth_NN consumption_NN ._.

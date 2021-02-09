@@ -1,0 +1,6 @@
+Efficient_JJ structural_JJ joins_VBZ with_IN on-the-fly_JJ indexing_NN
+Previous_JJ work_NN on_IN structural_JJ joins_VBZ mostly_RB focuses_VBZ on_IN maintaining_VBG offline_JJ indexes_NNS on_IN disks_NNS ._.
+Most_JJS of_IN them_PRP also_RB require_VBP the_DT elements_NNS in_IN both_DT sets_NNS to_TO be_VB sorted_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD an_DT on-the-fly_JJ ,_, in-memory_JJ indexing_NN approach_NN to_TO structural_JJ joins_VBZ ._.
+There_EX is_VBZ no_DT need_NN to_TO sort_VB the_DT elements_NNS or_CC maintain_VB indexes_NNS on_IN disks_NNS ._.
+We_PRP identify_VBP the_DT similarity_NN between_IN the_DT structural_JJ join_VBP problem_NN and_CC the_DT stabbing_VBG query_NN problem_NN ,_, and_CC extend_VB a_DT main_JJ memory-based_JJ indexing_NN technique_NN for_IN stabbing_VBG queries_NNS to_TO structural_JJ joins_VBZ ._.

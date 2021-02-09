@@ -1,0 +1,4 @@
+A_DT messaging_VBG API_NN for_IN inter-widgets_JJ communication_NN
+Widget_NN containers_NNS are_VBP used_VBN everywhere_RB on_IN the_DT Web_NN ,_, for_IN instance_NN as_IN customizable_JJ start_NN pages_NNS to_TO Web_NN desktops_NNS ._.
+In_IN this_DT poster_NN ,_, we_PRP describe_VBP the_DT extension_NN of_IN a_DT widget_NN container_NN with_IN an_DT inter-widgets_JJ communication_NN layer_NN ,_, as_RB well_RB as_IN the_DT subsequent_JJ application_NN programming_NN interfaces_NNS -LRB-_-LRB- APIs_NNS -RRB-_-RRB- added_VBN to_TO the_DT Widget_NNP object_NN to_TO support_VB this_DT feature_NN ._.
+We_PRP present_VBP the_DT benefits_NNS of_IN a_DT drag_NN and_CC drop_NN facility_NN within_IN widgets_NNS and_CC conclude_VBP by_IN a_DT call_NN for_IN standardization_NN of_IN inter-widgets_JJ communication_NN on_IN the_DT Web_NN ._.

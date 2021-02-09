@@ -1,0 +1,7 @@
+Towards_IN efficient_JJ dominant_JJ relationship_NN exploration_NN of_IN the_DT product_NN items_NNS on_IN the_DT web_NN
+In_IN recent_JJ years_NNS ,_, there_EX has_VBZ been_VBN a_DT prevalence_NN of_IN search_NN engines_NNS being_VBG employed_VBN to_TO find_VB useful_JJ information_NN in_IN the_DT Web_NN as_IN they_PRP efficiently_RB explore_VBP hyperlinks_NNS between_IN web_NN pages_NNS which_WDT define_VBP a_DT natural_JJ graph_NN structure_NN that_WDT yields_VBZ a_DT good_JJ ranking_NN ._.
+Unfortunately_RB ,_, current_JJ search_NN engines_NNS can_MD not_RB effectively_RB rank_VB those_DT relational_JJ data_NNS ,_, which_WDT exists_VBZ on_IN dynamic_JJ websites_NNS supported_VBN by_IN online_NN databases_NNS ._.
+In_IN this_DT study_NN ,_, to_TO rank_VB such_JJ structured_JJ data_NNS -LRB-_-LRB- i.e._FW ,_, find_VB the_DT ``_`` best_JJS ''_'' items_NNS -RRB-_-RRB- ,_, we_PRP propose_VBP an_DT integrated_VBN online_NN system_NN consisting_VBG of_IN compressed_VBN data_NNS structure_NN to_TO encode_VB the_DT dominant_JJ relationship_NN of_IN the_DT relational_JJ data_NNS ._.
+Efficient_JJ querying_VBG strategies_NNS and_CC updating_VBG scheme_NN are_VBP devised_VBN to_TO facilitate_VB the_DT ranking_JJ process_NN ._.
+Extensive_JJ experiments_NNS illustrate_VBP the_DT effectiveness_NN and_CC efficiency_NN of_IN our_PRP$ methods_NNS ._.
+As_IN such_JJ ,_, we_PRP believe_VBP the_DT work_NN in_IN this_DT poster_NN can_MD be_VB complementary_JJ to_TO traditional_JJ search_NN engines_NNS ._.

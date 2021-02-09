@@ -1,0 +1,14 @@
+Tumor_NN cell_NN identification_NN using_VBG features_NNS rules_NNS
+Advances_NNS in_IN imaging_NN techniques_NNS have_VBP led_VBN to_TO large_JJ repositories_NNS of_IN images_NNS ._.
+There_EX is_VBZ an_DT increasing_VBG demand_NN for_IN automated_JJ systems_NNS that_WDT can_MD analyze_VB complex_JJ medical_JJ images_NNS and_CC extract_VB meaningful_JJ information_NN for_IN mining_NN patterns_NNS ._.
+Here_RB ,_, we_PRP describe_VBP a_DT real-life_JJ image_NN mining_NN application_NN to_TO the_DT problem_NN of_IN tumor_NN cell_NN counting_NN ._.
+The_DT quantitative_JJ analysis_NN of_IN tumor_NN cells_NNS is_VBZ fundamental_JJ to_TO characterizing_VBG the_DT activity_NN of_IN tumor_NN cells_NNS ._.
+Existing_VBG approaches_NNS are_VBP mostly_RB manual_JJ ,_, time-consuming_JJ and_CC subjective_JJ ._.
+Efforts_NNS to_TO automate_VB the_DT process_NN of_IN cell_NN counting_NN have_VBP largely_RB focused_VBN on_IN using_VBG image_NN processing_NN techniques_NNS only_RB ._.
+Our_PRP$ studies_NNS indicate_VBP that_IN image_NN processing_NN alone_RB is_VBZ unable_JJ to_TO give_VB accurate_JJ results_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP examine_VBP the_DT use_NN of_IN extracted_VBN features_NNS rules_NNS to_TO aid_VB in_IN the_DT process_NN of_IN tumor_NN cell_NN counting_NN ._.
+We_PRP propose_VBP a_DT robust_JJ local_JJ adaptive_JJ thresholding_NN and_CC dynamic_JJ water_NN immersion_NN algorithms_NNS to_TO segment_NN regions_NNS of_IN interesting_JJ from_IN background_NN ._.
+Meaningful_JJ features_NNS are_VBP then_RB extracted_VBN from_IN the_DT segmented_JJ regions_NNS ._.
+A_DT number_NN of_IN base_NN classifiers_NNS are_VBP built_VBN to_TO generate_VB features_NNS rules_NNS to_TO help_VB identify_VB the_DT tumor_NN cell_NN ._.
+Two_CD voting_NN strategies_NNS are_VBP implemented_VBN to_TO combine_VB the_DT base_NN classifiers_NNS into_IN a_DT meta-classifier_NN ._.
+Experiment_NN results_NNS indicate_VBP that_IN this_DT process_NN of_IN using_VBG extracted_VBN features_NNS rules_NNS to_TO help_VB identify_VB tumor_NN cell_NN leads_VBZ to_TO better_JJR accuracy_NN than_IN pure_JJ image_NN processing_NN techniques_NNS alone_RB ._.

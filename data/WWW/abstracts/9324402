@@ -1,0 +1,7 @@
+A_DT dynamic_JJ bayesian_JJ network_NN click_VBP model_NN for_IN web_NN search_NN ranking_NN
+As_IN with_IN any_DT application_NN of_IN machine_NN learning_NN ,_, web_NN search_NN ranking_NN requires_VBZ labeled_JJ data_NNS ._.
+The_DT labels_NNS usually_RB come_VBP in_IN the_DT form_NN of_IN relevance_NN assessments_NNS made_VBN by_IN editors_NNS ._.
+Click_VB logs_NNS can_MD also_RB provide_VB an_DT important_JJ source_NN of_IN implicit_JJ feedback_NN and_CC can_MD be_VB used_VBN as_IN a_DT cheap_JJ proxy_NN for_IN editorial_NN labels_NNS ._.
+The_DT main_JJ difficulty_NN however_RB comes_VBZ from_IN the_DT so_RB called_VBN position_NN bias_NN -_: urls_NNS appearing_VBG in_IN lower_JJR positions_NNS are_VBP less_RBR likely_JJ to_TO be_VB clicked_VBN even_RB if_IN they_PRP are_VBP relevant_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT Dynamic_NNP Bayesian_NNP Network_NNP which_WDT aims_VBZ at_IN providing_VBG us_PRP with_IN unbiased_JJ estimation_NN of_IN the_DT relevance_NN from_IN the_DT click_VBP logs_NNS ._.
+Experiments_NNS show_VBP that_IN the_DT proposed_VBN click_VBP model_NN outperforms_VBZ other_JJ existing_VBG click_VB models_NNS in_IN predicting_VBG both_CC click-through_JJ rate_NN and_CC relevance_NN ._.

@@ -1,0 +1,8 @@
+Improved_VBN techniques_NNS for_IN result_NN caching_NN in_IN web_NN search_NN engines_NNS
+Query_NN processing_NN is_VBZ a_DT major_JJ cost_NN factor_NN in_IN operating_VBG large_JJ web_NN search_NN engines_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD query_JJ result_NN caching_NN ,_, one_CD of_IN the_DT main_JJ techniques_NNS used_VBN to_TO optimize_VB query_NN processing_NN performance_NN ._.
+Our_PRP$ first_JJ contribution_NN is_VBZ a_DT study_NN of_IN result_NN caching_NN as_IN a_DT weighted_JJ caching_NN problem_NN ._.
+Most_RBS previous_JJ work_NN has_VBZ focused_VBN on_IN optimizing_VBG cache_NN hit_NN ratios_NNS ,_, but_CC given_VBN that_IN processing_VBG costs_NNS of_IN queries_NNS can_MD vary_VB very_RB significantly_RB we_PRP argue_VBP that_IN total_JJ cost_NN savings_NNS also_RB need_VBP to_TO be_VB considered_VBN ._.
+We_PRP describe_VBP and_CC evaluate_VBP several_JJ algorithms_NNS for_IN weighted_JJ result_NN caching_NN ,_, and_CC study_VB the_DT impact_NN of_IN Zipf-based_JJ query_NN distributions_NNS on_IN result_NN caching_NN ._.
+Our_PRP$ second_JJ and_CC main_JJ contribution_NN is_VBZ a_DT new_JJ set_NN of_IN feature-based_JJ cache_NN eviction_NN policies_NNS that_WDT achieve_VBP significant_JJ improvements_NNS over_IN all_DT previous_JJ methods_NNS ,_, substantially_RB narrowing_VBG the_DT existing_VBG performance_NN gap_NN to_TO the_DT theoretically_RB optimal_JJ -LRB-_-LRB- clairvoyant_JJ -RRB-_-RRB- method_NN ._.
+Finally_RB ,_, using_VBG the_DT same_JJ approach_NN ,_, we_PRP also_RB obtain_VBP performance_NN gains_NNS for_IN the_DT related_JJ problem_NN of_IN inverted_JJ list_NN caching_NN ._.

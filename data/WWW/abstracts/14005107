@@ -1,0 +1,7 @@
+Classifying_VBG web_NN sites_NNS
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT novel_JJ method_NN for_IN the_DT classification_NN of_IN Web_NN sites_NNS ._.
+This_DT method_NN exploits_VBZ both_CC structure_NN and_CC content_NN of_IN Web_NN sites_NNS in_IN order_NN to_TO discern_VB their_PRP$ functionality_NN ._.
+It_PRP allows_VBZ for_IN distinguishing_VBG between_IN eight_CD of_IN the_DT most_RBS relevant_JJ functional_JJ classes_NNS of_IN Web_NN sites_NNS ._.
+We_PRP show_VBP that_IN a_DT pre-classification_NN of_IN Web_NN sites_NNS utilizing_VBG structural_JJ properties_NNS considerably_RB improves_VBZ a_DT subsequent_JJ textual_JJ classification_NN with_IN standard_JJ techniques_NNS ._.
+We_PRP evaluate_VBP this_DT approach_NN on_IN a_DT dataset_NN comprising_VBG more_JJR than_IN 16,000_CD Web_NN sites_NNS with_IN about_RB 20_CD million_CD crawled_VBD and_CC 100_CD million_CD known_JJ Web_NN pages_NNS ._.
+Our_PRP$ approach_NN achieves_VBZ an_DT accuracy_NN of_IN 92_CD %_NN for_IN the_DT coarse-grained_JJ classification_NN of_IN these_DT Web_NN sites_NNS ._.

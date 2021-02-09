@@ -1,0 +1,6 @@
+Mashroom_NNP :_: end-user_FW mashup_FW programming_NN using_VBG nested_JJ tables_NNS
+This_DT paper_NN presents_VBZ an_DT end-user-oriented_JJ programming_NN environment_NN called_VBN Mashroom_NNP ._.
+Major_JJ contributions_NNS herein_RB include_VBP an_DT end-user_JJ programming_NN model_NN with_IN an_DT expressive_JJ data_NN structure_NN as_RB well_RB as_IN a_DT set_NN of_IN formally-defined_JJ mashup_NN operators_NNS ._.
+The_DT data_NNS structure_NN takes_VBZ advantage_NN of_IN nested_JJ table_NN ,_, and_CC maintains_VBZ the_DT intuitiveness_NN while_IN allowing_VBG users_NNS to_TO express_VB complex_JJ data_NNS objects_NNS ._.
+The_DT mashup_NN operators_NNS are_VBP visualized_VBN with_IN contextual_JJ menu_NN and_CC formula_NN bar_NN and_CC can_MD be_VB directly_RB applied_VBN on_IN the_DT data_NNS ._.
+Experiments_NNS and_CC case_NN studies_NNS reveal_VBP that_IN end_NN users_NNS have_VBP little_JJ difficulty_NN in_IN effectively_RB and_CC efficiently_RB using_VBG Mashroom_NNP to_TO build_VB mashup_NN applications_NNS ._.

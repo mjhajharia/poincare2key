@@ -1,0 +1,7 @@
+The_DT slashdot_JJ zoo_NN :_: mining_VBG a_DT social_JJ network_NN with_IN negative_JJ edges_NNS
+We_PRP analyze_VBP the_DT corpus_NN of_IN user_NN relationships_NNS of_IN the_DT Slashdot_NNP technology_NN news_NN site_NN ._.
+The_DT data_NNS was_VBD collected_VBN from_IN the_DT Slashdot_NNP Zoo_NNP feature_NN where_WRB users_NNS of_IN the_DT website_NN can_MD tag_VB other_JJ users_NNS as_IN friends_NNS and_CC foes_NNS ,_, providing_VBG positive_JJ and_CC negative_JJ endorsements_NNS ._.
+We_PRP adapt_VBP social_JJ network_NN analysis_NN techniques_NNS to_TO the_DT problem_NN of_IN negative_JJ edge_NN weights_NNS ._.
+In_IN particular_JJ ,_, we_PRP consider_VBP signed_JJ variants_NNS of_IN global_JJ network_NN characteristics_NNS such_JJ as_IN the_DT clustering_NN coefficient_NN ,_, node-level_JJ characteristics_NNS such_JJ as_IN centrality_NN and_CC popularity_NN measures_NNS ,_, and_CC link-level_JJ characteristics_NNS such_JJ as_IN distances_NNS and_CC similarity_NN measures_NNS ._.
+We_PRP evaluate_VBP these_DT measures_NNS on_IN the_DT task_NN of_IN identifying_VBG unpopular_JJ users_NNS ,_, as_RB well_RB as_IN on_IN the_DT task_NN of_IN predicting_VBG the_DT sign_NN of_IN links_NNS and_CC show_VBP that_IN the_DT network_NN exhibits_VBZ multiplicative_JJ transitivity_NN which_WDT allows_VBZ algebraic_JJ methods_NNS based_VBN on_IN matrix_NN multiplication_NN to_TO be_VB used_VBN ._.
+We_PRP compare_VBP our_PRP$ methods_NNS to_TO traditional_JJ methods_NNS which_WDT are_VBP only_RB suitable_JJ for_IN positively_RB weighted_JJ edges_NNS ._.

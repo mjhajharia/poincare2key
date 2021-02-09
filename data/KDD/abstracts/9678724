@@ -1,0 +1,9 @@
+Cut-and-stitch_JJ :_: efficient_JJ parallel_JJ learning_NN of_IN linear_JJ dynamical_JJ systems_NNS on_IN smps_NNS
+Multi-core_JJ processors_NNS with_IN ever_RB increasing_VBG number_NN of_IN cores_NNS per_IN chip_NN are_VBP becoming_VBG prevalent_JJ in_IN modern_JJ parallel_JJ computing_NN ._.
+Our_PRP$ goal_NN is_VBZ to_TO make_VB use_NN of_IN the_DT multi-core_NN as_RB well_RB as_IN multi-processor_JJ architectures_NNS to_TO speed_VB up_RP data_NNS mining_NN algorithms_NNS ._.
+Specifically_RB ,_, we_PRP present_VBP a_DT parallel_JJ algorithm_NN for_IN approximate_JJ learning_NN of_IN Linear_NNP Dynamical_NNP Systems_NNPS -LRB-_-LRB- LDS_NN -RRB-_-RRB- ,_, also_RB known_VBN as_IN Kalman_NNP Filters_NNP -LRB-_-LRB- KF_NNP -RRB-_-RRB- ._.
+LDSs_NNS are_VBP widely_RB used_VBN in_IN time_NN series_NN analysis_NN such_JJ as_IN motion_NN capture_NN modeling_NN ,_, visual_JJ tracking_NN etc._NN ._.
+We_PRP propose_VBP Cut-And-Stitch_NNP -LRB-_-LRB- CAS_NNP -RRB-_-RRB- ,_, a_DT novel_JJ method_NN to_TO handle_VB the_DT data_NNS dependencies_NNS from_IN the_DT chain_NN structure_NN of_IN hidden_JJ variables_NNS in_IN LDS_NNP ,_, so_RB as_IN to_TO parallelize_VB the_DT EM-based_JJ parameter_NN learning_NN algorithm_NN ._.
+We_PRP implement_VBP the_DT algorithm_NN using_VBG OpenMP_NN on_IN both_CC a_DT supercomputer_NN and_CC a_DT quad-core_JJ commercial_JJ desktop_NN ._.
+The_DT experimental_JJ results_NNS show_VBP that_IN parallel_NN algorithms_NNS using_VBG Cut-And-Stitch_NNP achieve_VB comparable_JJ accuracy_NN and_CC almost_RB linear_JJ speedups_NNS over_IN the_DT serial_JJ version_NN ._.
+In_IN addition_NN ,_, Cut-And-Stitch_NNP can_MD be_VB generalized_VBN to_TO other_JJ models_NNS with_IN similar_JJ linear_JJ structures_NNS such_JJ as_IN Hidden_NNP Markov_NNP Models_NNS -LRB-_-LRB- HMM_NNS -RRB-_-RRB- and_CC Switching_NN Kalman_NNP Filters_NNP -LRB-_-LRB- SKF_NNP -RRB-_-RRB- ._.

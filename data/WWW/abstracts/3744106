@@ -1,0 +1,9 @@
+Mining_NN search_NN engine_NN query_NN logs_NNS for_IN query_NN recommendation_NN
+This_DT paper_NN presents_VBZ a_DT simple_JJ and_CC intuitive_JJ method_NN for_IN mining_NN search_NN engine_NN query_NN logs_NNS to_TO get_VB fast_JJ query_NN recommendations_NNS on_IN a_DT large_JJ scale_NN industrial_JJ strength_NN search_NN engine_NN ._.
+In_IN order_NN to_TO get_VB a_DT more_RBR comprehensive_JJ solution_NN ,_, we_PRP combine_VBP two_CD methods_NNS together_RB ._.
+On_IN the_DT one_CD hand_NN ,_, we_PRP study_NN and_CC model_NN search_NN engine_NN users_NNS '_POS sequential_JJ search_NN behavior_NN ,_, and_CC interpret_VB this_DT consecutive_JJ search_NN behavior_NN as_IN client-side_JJ query_NN refinement_NN ,_, that_WDT should_MD form_VB the_DT basis_NN for_IN the_DT search_NN engine_NN 's_POS own_JJ query_NN refinement_NN process_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, we_PRP combine_VBP this_DT method_NN with_IN a_DT traditional_JJ content_NN based_VBN similarity_NN method_NN to_TO compensate_VB for_IN the_DT high_JJ sparsity_NN of_IN real_JJ query_NN log_NN data_NNS ,_, and_CC more_RBR specifically_RB ,_, the_DT shortness_NN of_IN most_JJS query_JJ sessions_NNS ._.
+To_TO evaluate_VB our_PRP$ method_NN ,_, we_PRP use_VBP one_CD hundred_CD day_NN worth_JJ query_NN logs_NNS from_IN SINA_NNP '_POS search_NN engine_NN to_TO do_VB off-line_JJ mining_NN ._.
+Then_RB we_PRP analyze_VBP three_CD independent_JJ editors_NNS evaluations_NNS on_IN a_DT query_JJ test_NN set_NN ._.
+Based_VBN on_IN their_PRP$ judgement_NN ,_, our_PRP$ method_NN was_VBD found_VBN to_TO be_VB effective_JJ for_IN finding_VBG related_JJ queries_NNS ,_, despite_IN its_PRP$ simplicity_NN ._.
+In_IN addition_NN to_TO the_DT subjective_JJ editors_NNS '_POS rating_NN ,_, we_PRP also_RB perform_VBP tests_NNS based_VBN on_IN actual_JJ anonymous_JJ user_NN search_NN sessions_NNS ._.

@@ -1,0 +1,8 @@
+Autonomous_JJ resource_NN provisioning_VBG for_IN multi-service_JJ web_NN applications_NNS
+Dynamic_NNP resource_NN provisioning_VBG aims_NNS at_IN maintaining_VBG the_DT end-to-end_JJ response_NN time_NN of_IN a_DT web_NN application_NN within_IN a_DT pre-defined_JJ SLA_NNP ._.
+Although_IN the_DT topic_NN has_VBZ been_VBN well_RB studied_VBN for_IN monolithic_JJ applications_NNS ,_, provisioning_VBG resources_NNS for_IN applications_NNS composed_VBN of_IN multiple_JJ services_NNS remains_VBZ a_DT challenge_NN ._.
+When_WRB the_DT SLA_NNP is_VBZ violated_VBN ,_, one_PRP must_MD decide_VB which_WDT service_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- should_MD be_VB reprovisioned_VBN for_IN optimal_JJ effect_NN ._.
+We_PRP propose_VBP to_TO assign_VB an_DT SLA_NNP only_RB to_TO the_DT front-end_JJ service_NN ._.
+Other_JJ services_NNS are_VBP not_RB given_VBN any_DT particular_JJ response_NN time_NN objectives_NNS ._.
+Services_NNPS are_VBP autonomously_RB responsible_JJ for_IN their_PRP$ own_JJ provisioning_VBG operations_NNS and_CC collaboratively_RB negotiate_VB performance_NN objectives_NNS with_IN each_DT other_JJ to_TO decide_VB the_DT provisioning_VBG service_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- ._.
+We_PRP demonstrate_VBP through_IN extensive_JJ experiments_NNS that_IN our_PRP$ system_NN can_MD add\/remove\/shift_VB both_DT servers_NNS and_CC caches_NNS within_IN an_DT entire_JJ multi-service_JJ application_NN under_IN varying_VBG workloads_NNS to_TO meet_VB the_DT SLA_NNP target_NN and_CC improve_VB resource_NN utilization_NN ._.

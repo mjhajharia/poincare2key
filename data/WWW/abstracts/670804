@@ -1,0 +1,16 @@
+Dynamic_NNP personalized_VBD pagerank_NN in_IN entity-relation_JJ graphs_NNS
+Extractors_NNS and_CC taggers_NNS turn_VBP unstructured_JJ text_NN into_IN entity-relation_NN -LRB-_-LRB- ER_NN -RRB-_-RRB- graphs_NNS where_WRB nodes_NNS are_VBP entities_NNS -LRB-_-LRB- email_NN ,_, paper_NN ,_, person_NN ,_, conference_NN ,_, company_NN -RRB-_-RRB- and_CC edges_NNS are_VBP relations_NNS -LRB-_-LRB- wrote_VBD ,_, cited,works-for_NN -RRB-_-RRB- ._.
+Typed_VBN proximity_NN search_NN of_IN the_DT form_NN -LRB-_-LRB- B_NN -RRB-_-RRB- type_NN =_JJ personNEAR_NN company_NN ~_NN ``_`` IBM_NNP ''_'' ,_, paper_NN ~_NN ``_`` XML_NN ''_'' -LRB-_-LRB- \/_: B_NN -RRB-_-RRB- is_VBZ an_DT increasingly_RB usefulsearch_JJ paradigm_NN in_IN ER_NN graphs_NNS ._.
+Proximity_NN search_NN implementations_NNS either_CC perform_VB a_DT Pagerank-like_JJ computation_NN at_IN query_NN time_NN ,_, which_WDT is_VBZ slow_JJ ,_, or_CC precompute_NN ,_, store_NN and_CC combine_VB per-word_JJ Pageranks_NNPS ,_, which_WDT can_MD be_VB very_RB expensive_JJ in_IN terms_NNS of_IN preprocessing_VBG time_NN and_CC space_NN ._.
+We_PRP present_VBP HubRank_NNP ,_, a_DT new_JJ system_NN for_IN fast_JJ ,_, dynamic_JJ ,_, space-efficient_JJ proximity_NN searches_NNS in_IN ER_NN graphs_NNS ._.
+During_IN preprocessing_NN ,_, HubRank_NN computesand_NN indexes_NNS certain_JJ ``_`` sketchy_JJ ''_'' random_JJ walk_NN fingerprints_NNS for_IN a_DT small_JJ fraction_NN of_IN nodes_NNS ,_, carefully_RB chosen_VBN using_VBG query_NN log_NN statistics_NNS ._.
+At_IN query_NN time_NN ,_, a_DT small_JJ ``_`` active_JJ ''_'' subgraph_NN is_VBZ identified_VBN ,_, bordered_VBN bynodes_NNS with_IN indexed_VBN fingerprints_NNS ._.
+These_DT fingerprints_NNS are_VBP adaptively_RB loaded_VBN to_TO various_JJ resolutions_NNS to_TO form_VB approximate_JJ personalized_JJ Pagerank_NN vectors_NNS -LRB-_-LRB- PPVs_NNS -RRB-_-RRB- ._.
+PPVs_NNS at_IN remaining_VBG active_JJ nodes_NNS are_VBP now_RB computed_VBN iteratively_RB ._.
+We_PRP report_VBP on_IN experiments_NNS with_IN CiteSeer_NNP 's_POS ER_NN graph_NN and_CC millions_NNS of_IN real_JJ Cite_NNP Seer_NNP queries_NNS ._.
+Some_DT representative_JJ numbers_NNS follow_VBP ._.
+On_IN our_PRP$ testbed_NN ,_, HubRank_NN preprocesses_NNS and_CC indexes_NNS 52_CD times_NNS faster_RBR than_IN whole-vocabulary_JJ PPV_NN computation_NN ._.
+A_DT text_NN index_NN occupies_VBZ 56_CD MB_NN ._.
+Whole-vocabulary_JJ PPVs_NNS would_MD consume_VB 102GB_NN ._.
+If_IN PPVs_NNS are_VBP truncated_VBN to_TO 56_CD MB_NN ,_, precision_NN compared_VBN to_TO true_JJ Pagerank_NN drops_VBZ to_TO 0.55_CD ;_: incontrast_NN ,_, HubRank_NNP has_VBZ precision_NN 0.91_CD at_IN 63MB_NN ._.
+HubRank_NNP 's_POS average_JJ querytime_NN is_VBZ 200-300_CD milliseconds_NNS ;_: query-time_JJ Pagerank_NN computation_NN takes_VBZ 11_CD seconds_NNS on_IN average_NN ._.

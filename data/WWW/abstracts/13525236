@@ -1,0 +1,4 @@
+Detecting_VBG image_NN spam_NN using_VBG local_JJ invariant_JJ features_NNS and_CC pyramid_NN match_NN kernel_NN
+Image_NN spam_NN is_VBZ a_DT new_JJ obfuscating_VBG method_NN which_WDT spammers_NNS invented_VBD to_TO more_RBR effectively_RB bypass_VBP conventional_JJ text_NN based_VBN spam_NN filters_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP extract_VBP local_JJ invariant_JJ features_NNS of_IN images_NNS and_CC run_VB a_DT one-class_JJ SVM_NN classifier_NN which_WDT uses_VBZ the_DT pyramid_NN match_NN kernel_NN as_IN the_DT kernel_NN function_NN to_TO detect_VB image_NN spam_NN ._.
+Experimental_JJ results_NNS demonstrate_VBP that_IN our_PRP$ algorithm_NN is_VBZ effective_JJ for_IN fighting_VBG image_NN spam_NN ._.

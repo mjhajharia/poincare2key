@@ -1,0 +1,11 @@
+A_DT scalable_JJ two-stage_JJ approach_NN for_IN a_DT class_NN of_IN dimensionality_NN reduction_NN techniques_NNS
+Dimensionality_NN reduction_NN plays_VBZ an_DT important_JJ role_NN in_IN many_JJ data_NNS mining_NN applications_NNS involving_VBG high-dimensional_JJ data_NNS ._.
+Many_JJ existing_VBG dimensionality_NN reduction_NN techniques_NNS can_MD be_VB formulated_VBN as_IN a_DT generalized_JJ eigenvalue_NN problem_NN ,_, which_WDT does_VBZ not_RB scale_VB to_TO large-size_JJ problems_NNS ._.
+Prior_JJ work_NN transforms_VBZ the_DT generalized_JJ eigenvalue_NN problem_NN into_IN an_DT equivalent_JJ least_JJS squares_NNS formulation_NN ,_, which_WDT can_MD then_RB be_VB solved_VBN efficiently_RB ._.
+However_RB ,_, the_DT equivalence_JJ relationship_NN only_RB holds_VBZ under_IN certain_JJ assumptions_NNS without_IN regularization_NN ,_, which_WDT severely_RB limits_VBZ their_PRP$ applicability_NN in_IN practice_NN ._.
+In_IN this_DT paper_NN ,_, an_DT efficient_JJ two-stage_JJ approach_NN is_VBZ proposed_VBN to_TO solve_VB a_DT class_NN of_IN dimensionality_NN reduction_NN techniques_NNS ,_, including_VBG Canonical_JJ Correlation_NN Analysis_NN ,_, Orthonormal_JJ Partial_JJ Least_NN Squares_NNS ,_, linear_JJ Discriminant_NNP Analysis_NNP ,_, and_CC Hypergraph_NNP Spectral_NNP Learning_NNP ._.
+The_DT proposed_VBN two-stage_JJ approach_NN scales_NNS linearly_RB in_IN terms_NNS of_IN both_CC the_DT sample_NN size_NN and_CC data_NN dimensionality_NN ._.
+The_DT main_JJ contributions_NNS of_IN this_DT paper_NN include_VBP -LRB-_-LRB- 1_LS -RRB-_-RRB- we_PRP rigorously_RB establish_VB the_DT equivalence_JJ relationship_NN between_IN the_DT proposed_VBN two-stage_JJ approach_NN and_CC the_DT original_JJ formulation_NN without_IN any_DT assumption_NN ;_: and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- we_PRP show_VBP that_IN the_DT equivalence_JJ relationship_NN still_RB holds_VBZ in_IN the_DT regularization_NN setting_NN ._.
+We_PRP have_VBP conducted_VBN extensive_JJ experiments_NNS using_VBG both_CC synthetic_JJ and_CC real-world_JJ data_NNS sets_NNS ._.
+Our_PRP$ experimental_JJ results_NNS confirm_VBP the_DT equivalence_JJ relationship_NN established_VBN in_IN this_DT paper_NN ._.
+Results_NNS also_RB demonstrate_VBP the_DT scalability_NN of_IN the_DT proposed_VBN two-stage_JJ approach_NN ._.

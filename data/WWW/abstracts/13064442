@@ -1,0 +1,6 @@
+Identifying_VBG enrichment_NN candidates_NNS in_IN textbooks_NNS
+Many_JJ textbooks_NNS written_VBN in_IN emerging_VBG countries_NNS lack_VBP clear_JJ and_CC adequate_JJ coverage_NN of_IN important_JJ concepts_NNS ._.
+We_PRP propose_VBP a_DT technological_JJ solution_NN for_IN algorithmically_RB identifying_VBG those_DT sections_NNS of_IN a_DT book_NN that_WDT are_VBP not_RB well_RB written_VBN and_CC could_MD benefit_VB from_IN better_JJR exposition_NN ._.
+We_PRP provide_VBP a_DT decision_NN model_NN based_VBN on_IN the_DT syntactic_JJ complexity_NN of_IN writing_NN and_CC the_DT dispersion_NN of_IN key_JJ concepts_NNS ._.
+The_DT model_NN parameters_NNS are_VBP learned_VBN using_VBG a_DT tune_NN set_NN which_WDT is_VBZ algorithmically_RB generated_VBN using_VBG a_DT versioned_JJ authoritative_JJ web_NN resource_NN as_IN a_DT proxy_NN ._.
+We_PRP evaluate_VBP the_DT proposed_VBN methodology_NN over_IN a_DT corpus_NN of_IN Indian_JJ textbooks_NNS which_WDT demonstrates_VBZ its_PRP$ effectiveness_NN in_IN identifying_VBG enrichment_NN candidates_NNS ._.

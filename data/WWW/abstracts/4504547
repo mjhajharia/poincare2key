@@ -1,0 +1,6 @@
+Simple_JJ authentication_NN for_IN the_DT web_NN
+Automated_NNP email-based_JJ password_NN reestablishment_NN -LRB-_-LRB- EBPR_NN -RRB-_-RRB- is_VBZ an_DT efficient_JJ ,_, cost-effective_JJ means_NNS to_TO deal_VB with_IN forgotten_VBN passwords_NNS ._.
+In_IN this_DT technique_NN ,_, email_NN providers_NNS authenticate_VBP users_NNS on_IN behalf_NN of_IN web_NN sites_NNS ._.
+This_DT method_NN works_VBZ because_IN web_NN sites_NNS trust_NN email_NN providers_NNS to_TO deliver_VB messages_NNS to_TO their_PRP$ intended_JJ recipients_NNS ._.
+Simple_JJ Authentication_NN for_IN the_DT Web_NN -LRB-_-LRB- SAW_NN -RRB-_-RRB- improves_VBZ upon_IN this_DT basic_JJ approach_NN to_TO user_NN authentication_NN to_TO create_VB an_DT alternative_NN to_TO password-based_JJ logins_NNS ._.
+SAW_NNP :_: 1_LS -RRB-_-RRB- Removes_VBZ the_DT setup_NN and_CC management_NN costs_NNS of_IN passwords_NNS at_IN sites_NNS that_WDT accept_VBP the_DT risks_NNS of_IN EBPR_NN ;_: 2_LS -RRB-_-RRB- Provides_VBZ single_JJ sign-on_NN without_IN a_DT specialized_JJ identity_NN provider_NN ;_: 3_LS -RRB-_-RRB- Thwarts_VBZ all_DT passive_JJ attacks_NNS ._.

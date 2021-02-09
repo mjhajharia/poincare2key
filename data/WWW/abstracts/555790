@@ -1,0 +1,7 @@
+Crawling_VBG a_DT country_NN :_: better_JJR strategies_NNS than_IN breadth-first_NN for_IN web_NN page_NN ordering_VBG
+This_DT article_NN compares_VBZ several_JJ page_NN ordering_VBG strategies_NNS for_IN Web_NN crawling_VBG under_IN several_JJ metrics_NNS ._.
+The_DT objective_NN of_IN these_DT strategies_NNS is_VBZ to_TO download_VB the_DT most_JJS ``_`` important_JJ ''_'' pages_NNS ``_`` early_JJ ''_'' during_IN the_DT crawl_NN ._.
+As_IN the_DT coverage_NN of_IN modern_JJ search_NN engines_NNS is_VBZ small_JJ compared_VBN to_TO the_DT size_NN of_IN the_DT Web_NN ,_, and_CC it_PRP is_VBZ impossible_JJ to_TO index_NN all_DT of_IN the_DT Web_NN for_IN both_CC theoretical_JJ and_CC practical_JJ reasons_NNS ,_, it_PRP is_VBZ relevant_JJ to_TO index_NN at_IN least_JJS the_DT most_RBS important_JJ pages_NNS ._.
+We_PRP use_VBP data_NNS from_IN actual_JJ Web_NN pages_NNS to_TO build_VB Web_NN graphs_NNS and_CC execute_VB a_DT crawler_NN simulator_NN on_IN those_DT graphs_NNS ._.
+As_IN the_DT Web_NN is_VBZ very_RB dynamic_JJ ,_, crawling_VBG simulation_NN is_VBZ the_DT only_JJ way_NN to_TO ensure_VB that_IN all_PDT the_DT strategies_NNS considered_VBN are_VBP compared_VBN under_IN the_DT same_JJ conditions_NNS ._.
+We_PRP propose_VBP several_JJ page_NN ordering_VBG strategies_NNS that_WDT are_VBP more_RBR efficient_JJ than_IN breadth_NN -_: first_JJ search_NN and_CC strategies_NNS based_VBN on_IN partial_JJ Pagerank_NN calculations_NNS ._.

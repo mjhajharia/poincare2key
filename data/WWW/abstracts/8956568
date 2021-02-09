@@ -1,0 +1,4 @@
+Mining_NNP directed_VBD social_JJ network_NN from_IN message_NN board_NN
+In_IN the_DT paper_NN ,_, we_PRP present_VBP an_DT approach_NN to_TO mining_NN a_DT directed_JJ social_JJ network_NN from_IN a_DT message_NN board_NN on_IN the_DT Internet_NNP where_WRB vertices_NNS denote_VBP individuals_NNS and_CC directed_JJ links_NNS denote_VBP the_DT flow_NN of_IN influence_NN ._.
+The_DT influence_NN is_VBZ measured_VBN based_VBN on_IN propagating_VBG terms_NNS among_IN individuals_NNS via_IN messages_NNS ._.
+The_DT distance_NN with_IN respect_NN to_TO contextual_JJ similarity_NN between_IN individuals_NNS is_VBZ acquired_VBN since_IN the_DT influence_NN indicates_VBZ the_DT degree_NN of_IN their_PRP$ shared_JJ interest_NN represented_VBN as_IN terms_NNS ._.

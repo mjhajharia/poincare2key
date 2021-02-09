@@ -1,0 +1,11 @@
+Clustering_VBG with_IN relative_JJ constraints_NNS
+Recent_JJ studies_NNS have_VBP suggested_VBN using_VBG relative_JJ distance_NN comparisons_NNS as_IN constraints_NNS to_TO represent_VB domain_NN knowledge_NN ._.
+A_DT natural_JJ extension_NN to_TO relative_JJ comparisons_NNS is_VBZ the_DT combination_NN of_IN two_CD comparisons_NNS defined_VBN on_IN the_DT same_JJ set_NN of_IN three_CD instances_NNS ._.
+Constraints_NNS in_IN this_DT form_NN ,_, termed_VBN Relative_JJ Constraints_NNS ,_, provide_VBP a_DT unified_JJ knowledge_NN representation_NN for_IN both_CC partitional_JJ and_CC hierarchical_JJ clusterings_NNS ._.
+But_CC many_JJ key_JJ properties_NNS of_IN relative_JJ constraints_NNS remain_VBP unknown_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP answer_VBP the_DT following_VBG important_JJ questions_NNS that_WDT enable_VBP the_DT broader_JJR application_NN of_IN relative_JJ constraints_NNS in_IN general_JJ clustering_NN problems_NNS :_: ''_'' Feasibility_NN :_: Does_NNP there_EX exist_VBP a_DT clustering_NN that_WDT satisfies_VBZ a_DT given_VBN set_NN of_IN relative_JJ constraints_NNS ?_.
+-LRB-_-LRB- consistency_NN of_IN constraints_NNS -RRB-_-RRB- ``_`` Completeness_NN :_: Given_IN a_DT set_NN of_IN consistent_JJ relative_JJ constraints_NNS ,_, how_WRB can_MD one_PRP derive_VB a_DT complete_JJ clustering_NN without_IN running_VBG into_IN dead-ends_NNS ?_. ''_''
+Informativeness_NNP :_: How_WRB can_MD one_CD extract_NN the_DT most_RBS informative_JJ relative_JJ constraints_NNS from_IN given_VBN knowledge_NN sources_NNS ?_.
+We_PRP show_VBP that_IN any_DT hierarchical_JJ domain_NN knowledge_NN can_MD be_VB easily_RB represented_VBN by_IN relative_JJ constraints_NNS ._.
+We_PRP further_RB present_VBP a_DT hierarchical_JJ algorithm_NN that_WDT finds_VBZ a_DT clustering_NN satisfying_VBG all_DT given_VBN constraints_NNS in_IN polynomial_JJ time_NN ._.
+Experiments_NNS showed_VBD that_IN our_PRP$ algorithm_NN achieves_VBZ significantly_RB higher_JJR accuracy_NN than_IN the_DT existing_VBG metric_JJ learning_NN approach_NN based_VBN on_IN relative_JJ comparisons_NNS ._.

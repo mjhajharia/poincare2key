@@ -1,0 +1,9 @@
+Protocol-aware_JJ matching_NN of_IN web_NN service_NN interfaces_NNS for_IN adapter_NN development_NN
+With_IN the_DT rapid_JJ growth_NN in_IN the_DT number_NN of_IN online_JJ Web_NN services_NNS ,_, the_DT problem_NN of_IN service_NN adaptation_NN has_VBZ received_VBN significant_JJ attention_NN ._.
+In_IN matching_NN and_CC adaptation_NN ,_, the_DT functional_JJ description_NN of_IN services_NNS including_VBG interface_NN and_CC data_NNS as_RB well_RB as_IN behavioral_JJ descriptions_NNS are_VBP important_JJ ._.
+Existing_VBG work_NN on_IN matching_NN and_CC adaptation_NN focuses_VBZ only_RB on_IN one_CD aspect_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT semi-automated_JJ matching_NN approach_NN that_WDT considers_VBZ both_DT service_NN descriptions_NNS ._.
+We_PRP introduce_VBP two_CD protocol-aware_JJ service_NN interface_NN matching_NN algorithms_NNS ,_, i.e._FW depth-based_JJ interface_NN matching_NN and_CC iterative_JJ reference-based_JJ interface_NN matching_NN ._.
+These_DT algorithms_NNS refine_VBP the_DT results_NNS of_IN interface_NN matching_NN by_IN incorporating_VBG the_DT ordering_VBG constraints_NNS imposed_VBN by_IN business_NN protocol_NN definitions_NNS on_IN service_NN operations_NNS ._.
+We_PRP have_VBP implemented_VBN a_DT prototype_NN and_CC performed_VBN experiments_NNS using_VBG the_DT specification_NN of_IN synthetic_JJ and_CC real-world_JJ Web_NN services_NNS ._.
+Experiments_NNS show_VBP that_IN the_DT proposed_VBN approaches_NNS lead_VBP to_TO a_DT significant_JJ improvement_NN in_IN the_DT quality_NN of_IN matching_NN between_IN services_NNS ._.

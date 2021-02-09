@@ -1,0 +1,6 @@
+Ad-hoc_JJ object_NN retrieval_NN in_IN the_DT web_NN of_IN data_NNS
+Semantic_JJ Search_VBP refers_VBZ to_TO a_DT loose_JJ set_NN of_IN concepts_NNS ,_, challenges_NNS and_CC techniques_NNS having_VBG to_TO do_VB with_IN harnessing_VBG the_DT information_NN of_IN the_DT growing_VBG Web_NN of_IN Data_NN -LRB-_-LRB- WoD_NN -RRB-_-RRB- for_IN Web_NN search_NN ._.
+Here_RB we_PRP propose_VBP a_DT formal_JJ model_NN of_IN one_CD specific_JJ semantic_JJ search_NN task_NN :_: ad-hoc_JJ object_NN retrieval_NN ._.
+We_PRP show_VBP that_IN this_DT task_NN provides_VBZ a_DT solid_JJ framework_NN to_TO study_VB some_DT of_IN the_DT semantic_JJ search_NN problems_NNS currently_RB tackled_VBN by_IN commercial_JJ Web_NN search_NN engines_NNS ._.
+We_PRP connect_VBP this_DT task_NN to_TO the_DT traditional_JJ ad-hoc_JJ document_NN retrieval_NN and_CC discuss_VB appropriate_JJ evaluation_NN metrics_NNS ._.
+Finally_RB ,_, we_PRP carry_VBP out_RP a_DT realistic_JJ evaluation_NN of_IN this_DT task_NN in_IN the_DT context_NN of_IN a_DT Web_NN search_NN application_NN ._.

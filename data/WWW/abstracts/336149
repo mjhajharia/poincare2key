@@ -1,0 +1,6 @@
+Position_NN paper_NN :_: ontology_NN construction_NN from_IN online_JJ ontologies_NNS
+One_CD of_IN the_DT main_JJ hurdles_NNS towards_IN a_DT wide_JJ endorsement_NN of_IN ontologies_NNS is_VBZ the_DT high_JJ cost_NN of_IN constructing_VBG them_PRP ._.
+Reuse_NN of_IN existing_VBG ontologies_NNS offers_VBZ a_DT much_RB cheaper_JJR alternative_NN than_IN building_VBG new_JJ ones_NNS from_IN scratch_NN ,_, yet_CC tools_NNS to_TO support_VB such_JJ reuse_NN are_VBP still_RB in_IN their_PRP$ infancy_NN ._.
+However_RB ,_, more_JJR ontologies_NNS are_VBP becoming_VBG available_JJ on_IN the_DT web_NN ,_, and_CC online_JJ libraries_NNS for_IN storing_VBG and_CC indexing_NN ontologies_NNS are_VBP increasing_VBG in_IN number_NN and_CC demand_NN ._.
+Search_VB engines_NNS have_VBP also_RB started_VBN to_TO appear_VB ,_, to_TO facilitate_VB search_NN and_CC retrieval_NN of_IN online_JJ ontologies_NNS ._.
+This_DT paper_NN presents_VBZ a_DT fresh_JJ view_NN on_IN constructing_VBG ontologies_NNS automatically_RB ,_, by_IN identifying_VBG ,_, ranking_NN ,_, and_CC merging_JJ fragments_NNS of_IN online_JJ ontologies_NNS ._.

@@ -1,0 +1,8 @@
+Efficient_JJ elastic_JJ burst_NN detection_NN in_IN data_NNS streams_NNS
+Burst_NN detection_NN is_VBZ the_DT activity_NN of_IN finding_VBG abnormal_JJ aggregates_NNS in_IN data_NNS streams_NNS ._.
+Such_JJ aggregates_NNS are_VBP based_VBN on_IN sliding_VBG windows_NNS over_IN data_NNS streams_NNS ._.
+In_IN some_DT applications_NNS ,_, we_PRP want_VBP to_TO monitor_VB many_JJ sliding_VBG window_NN sizes_NNS simultaneously_RB and_CC to_TO report_VB those_DT windows_NNS with_IN aggregates_NNS significantly_RB different_JJ from_IN other_JJ periods_NNS ._.
+We_PRP will_MD present_VB a_DT general_JJ data_NN structure_NN for_IN detecting_VBG interesting_JJ aggregates_NNS over_IN such_JJ elastic_JJ windows_NNS in_IN near_JJ linear_JJ time_NN ._.
+We_PRP present_VBP applications_NNS of_IN the_DT algorithm_NN for_IN detecting_VBG Gamma_NNP Ray_NNP Bursts_NNP in_IN large-scale_JJ astrophysical_JJ data_NNS ._.
+Detection_NN of_IN periods_NNS with_IN high_JJ volumes_NNS of_IN trading_NN activities_NNS and_CC high_JJ stock_NN price_NN volatility_NN is_VBZ also_RB demonstrated_VBN using_VBG real_JJ time_NN Trade_NNP and_CC Quote_NNP -LRB-_-LRB- TAQ_NNP -RRB-_-RRB- data_NNS from_IN the_DT New_NNP York_NNP Stock_NNP Exchange_NNP -LRB-_-LRB- NYSE_NNP -RRB-_-RRB- ._.
+Our_PRP$ algorithm_NN beats_VBZ the_DT direct_JJ computation_NN approach_NN by_IN several_JJ orders_NNS of_IN magnitude_NN ._.

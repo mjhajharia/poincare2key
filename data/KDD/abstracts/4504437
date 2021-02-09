@@ -1,0 +1,11 @@
+Finding_VBG similar_JJ files_NNS in_IN large_JJ document_NN repositories_NNS
+Hewlett-Packard_NNP has_VBZ many_JJ millions_NNS of_IN technical_JJ support_NN documents_NNS in_IN a_DT variety_NN of_IN collections_NNS ._.
+As_IN part_NN of_IN content_NN management_NN ,_, such_JJ collections_NNS are_VBP periodically_RB merged_VBN and_CC groomed_VBN ._.
+In_IN the_DT process_NN ,_, it_PRP becomes_VBZ important_JJ to_TO identify_VB and_CC weed_NN out_RP support_NN documents_NNS that_WDT are_VBP largely_RB duplicates_NNS of_IN newer_JJR versions_NNS ._.
+Doing_VBG so_RB improves_VBZ the_DT quality_NN of_IN the_DT collection_NN ,_, eliminates_VBZ chaff_NN from_IN search_NN results_NNS ,_, and_CC improves_VBZ customer_NN satisfaction_NN ._.
+The_DT technical_JJ challenge_NN is_VBZ that_IN through_IN workflow_NN and_CC human_JJ processes_NNS ,_, the_DT knowledge_NN of_IN which_WDT documents_NNS are_VBP related_VBN is_VBZ often_RB lost_VBN ._.
+We_PRP required_VBD a_DT method_NN that_WDT could_MD identify_VB similar_JJ documents_NNS based_VBN on_IN their_PRP$ content_NN alone_RB ,_, without_IN relying_VBG on_IN metadata_NN ,_, which_WDT may_MD be_VB corrupt_JJ or_CC missing_JJ ._.
+We_PRP present_VBP an_DT approach_NN for_IN finding_VBG similar_JJ files_NNS that_IN scales_NNS up_IN to_TO large_JJ document_NN repositories_NNS ._.
+It_PRP is_VBZ based_VBN on_IN chunking_VBG the_DT byte_NN stream_NN to_TO find_VB unique_JJ signatures_NNS that_WDT may_MD be_VB shared_VBN in_IN multiple_JJ files_NNS ._.
+An_DT analysis_NN of_IN the_DT file-chunk_JJ graph_NN yields_VBZ clusters_NNS of_IN related_JJ files_NNS ._.
+An_DT optional_JJ bipartite_JJ graph_NN partitioning_VBG algorithm_NN can_MD be_VB applied_VBN to_TO greatly_RB increase_VB scalability_NN ._.

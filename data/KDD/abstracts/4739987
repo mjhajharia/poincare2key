@@ -1,0 +1,8 @@
+Learning_NNP to_TO detect_VB malicious_JJ executables_NNS in_IN the_DT wild_JJ
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP the_DT development_NN of_IN a_DT fielded_VBN application_NN for_IN detecting_VBG malicious_JJ executables_NNS in_IN the_DT wild_JJ ._.
+We_PRP gathered_VBD 1971_CD benign_JJ and_CC 1651_CD malicious_JJ executables_NNS and_CC encoded_VBN each_DT as_IN a_DT training_NN example_NN using_VBG n-grams_NN of_IN byte_NN codes_NNS as_IN features_NNS ._.
+Such_JJ processing_NN resulted_VBD in_IN more_JJR than_IN 255_CD million_CD distinct_JJ n-grams_NN ._.
+After_IN selecting_VBG the_DT most_RBS relevant_JJ n-grams_NN for_IN prediction_NN ,_, we_PRP evaluated_VBD a_DT variety_NN of_IN inductive_JJ methods_NNS ,_, including_VBG naive_JJ Bayes_NNS ,_, decision_NN trees_NNS ,_, support_NN vector_NN machines_NNS ,_, and_CC boosting_VBG ._.
+Ultimately_RB ,_, boosted_VBD decision_NN trees_NNS outperformed_VBD other_JJ methods_NNS with_IN an_DT area_NN under_IN the_DT roc_NN curve_NN of_IN 0.996_CD ._.
+Results_NNS also_RB suggest_VBP that_IN our_PRP$ methodology_NN will_MD scale_VB to_TO larger_JJR collections_NNS of_IN executables_NNS ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, ours_PRP is_VBZ the_DT only_RB fielded_VBN application_NN for_IN this_DT task_NN developed_VBD using_VBG techniques_NNS from_IN machine_NN learning_NN and_CC data_NN mining_NN ._.

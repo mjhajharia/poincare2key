@@ -1,0 +1,7 @@
+An_DT automatic_JJ semantic_JJ relationships_NNS discovery_NN approach_NN
+An_DT important_JJ obstacle_NN to_TO the_DT success_NN of_IN the_DT Semantic_JJ Web_NN is_VBZ that_IN the_DT establishment_NN of_IN the_DT semantic_JJ relationship_NN is_VBZ labor-intensive_JJ ._.
+This_DT paper_NN proposes_VBZ an_DT automatic_JJ semantic_JJ relationship_NN discovering_VBG approach_NN for_IN constructing_VBG the_DT semantic_JJ link_NN network_NN ._.
+The_DT basic_JJ premise_NN of_IN this_DT work_NN is_VBZ that_IN the_DT semantics_NNS of_IN a_DT web_NN page_NN can_MD be_VB reflected_VBN by_IN a_DT set_NN of_IN keywords_NNS ,_, and_CC the_DT semantic_JJ relationship_NN between_IN two_CD web_NN pages_NNS can_MD be_VB determined_VBN by_IN the_DT semantic_JJ relationship_NN between_IN their_PRP$ keyword_JJ sets_NNS ._.
+The_DT approach_NN adopts_VBZ the_DT data_NN mining_NN algorithms_NNS to_TO discover_VB the_DT semantic_JJ relationships_NNS between_IN keyword_JJ sets_NNS ,_, and_CC then_RB uses_VBZ deductive_JJ and_CC analogical_JJ reasoning_NN to_TO enrich_VB the_DT semantic_JJ relationships_NNS ._.
+The_DT proposed_VBN algorithms_NNS have_VBP been_VBN implemented_VBN ._.
+Experiment_NN shows_VBZ that_IN the_DT approach_NN is_VBZ feasible_JJ ._.

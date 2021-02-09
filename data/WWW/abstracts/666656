@@ -1,0 +1,7 @@
+The_DT web_NN around_IN the_DT corner_NN :_: augmenting_VBG the_DT browser_NN with_IN gps_NNS
+As_IN programmable_JJ mobile_JJ devices_NNS -LRB-_-LRB- such_JJ as_IN high-end_JJ cellular_JJ phones_NNS and_CC Personal_NNP Digital_NNP Assistants_NNPS -RRB-_-RRB- became_VBD widely_RB adopted_VBN ,_, users_NNS ask_VBP for_IN Internet_NN access_NN on-the-road_JJ ._.
+While_IN upcoming_VBG technologies_NNS like_IN UMTS_NNS and_CC Wi-Fi_NNS provide_VBP broadband_NN wireless_NN communication_NN ,_, Web_NN services_NNS and_CC Web_NN browsers_NNS do_VBP not_RB provide_VB any_DT sort_NN of_IN location-awareness_NN yet_RB ._.
+As_IN GPS_NN receivers_NNS get_VBP cheaper_JJR ,_, positioning_VBG devices_NNS will_MD be_VB embedded_VBN into_IN commercial_JJ mobile_JJ devices_NNS ._.
+Thus_RB ,_, the_DT position_NN of_IN the_DT user_NN can_MD be_VB used_VBN to_TO filter_NN and_CC tailor_VB the_DT information_NN presented_VBN to_TO the_DT user_NN as_RB already_RB done_VBN for_IN language_NN preferences_NNS and_CC user-agent_JJ ._.
+This_DT paper_NN describes_VBZ early_JJ results_NNS of_IN an_DT ongoing_JJ project_NN called_VBN GPSWeb_NNP ,_, which_WDT aims_VBZ to_TO provide_VB GPS_NN support_NN for_IN Web_NN browsers_NNS and_CC an_DT application_NN model_NN for_IN Location-Based_NNP Services_NNP ._.
+It_PRP introduces_VBZ the_DT Location-Based_NNP Browsing_NNP concept_NN that_WDT enhances_VBZ the_DT classic_JJ Webuser-Website_NNP interaction_NN ._.

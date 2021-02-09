@@ -1,0 +1,8 @@
+Topic_JJ modeling_NN with_IN network_NN regularization_NN
+In_IN this_DT paper_NN ,_, we_PRP formally_RB define_VBP the_DT problem_NN of_IN topic_NN modeling_NN with_IN network_NN structure_NN -LRB-_-LRB- TMN_NN -RRB-_-RRB- ._.
+We_PRP propose_VBP a_DT novel_JJ solution_NN to_TO this_DT problem_NN ,_, which_WDT regularizes_VBZ a_DT statistical_JJ topic_NN model_NN with_IN a_DT harmonic_JJ regularizer_NN based_VBN on_IN a_DT graph_NN structure_NN in_IN the_DT data_NNS ._.
+The_DT proposed_VBN method_NN bridges_NNS topic_NN modeling_NN and_CC social_JJ network_NN analysis_NN ,_, which_WDT leverages_VBZ the_DT power_NN of_IN both_CC statistical_JJ topic_NN models_NNS and_CC discrete_JJ regularization_NN ._.
+The_DT output_NN of_IN this_DT model_NN well_RB summarizes_VBZ topics_NNS in_IN text_NN ,_, maps_VBZ a_DT topic_NN on_IN the_DT network_NN ,_, and_CC discovers_VBZ topical_JJ communities_NNS ._.
+With_IN concrete_JJ selection_NN of_IN a_DT topic_NN model_NN and_CC a_DT graph-based_JJ regularizer_NN ,_, our_PRP$ model_NN can_MD be_VB applied_VBN to_TO text_NN mining_NN problems_NNS such_JJ as_IN author-topic_JJ analysis_NN ,_, community_NN discovery_NN ,_, and_CC spatial_JJ text_NN mining_NN ._.
+Empirical_JJ experiments_NNS on_IN two_CD different_JJ genres_NNS of_IN data_NNS show_VBP that_IN our_PRP$ approach_NN is_VBZ effective_JJ ,_, which_WDT improves_VBZ text-oriented_JJ methods_NNS as_RB well_RB as_IN network-oriented_JJ methods_NNS ._.
+The_DT proposed_VBN model_NN is_VBZ general_JJ ;_: it_PRP can_MD be_VB applied_VBN to_TO any_DT text_NN collections_NNS with_IN a_DT mixture_NN of_IN topics_NNS and_CC an_DT associated_VBN network_NN structure_NN ._.

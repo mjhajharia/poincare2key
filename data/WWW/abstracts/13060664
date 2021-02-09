@@ -1,0 +1,11 @@
+A_DT word_NN at_IN a_DT time_NN :_: computing_VBG word_NN relatedness_NN using_VBG temporal_JJ semantic_JJ analysis_NN
+Computing_NNP the_DT degree_NN of_IN semantic_JJ relatedness_NN of_IN words_NNS is_VBZ a_DT key_JJ functionality_NN of_IN many_JJ language_NN applications_NNS such_JJ as_IN search_NN ,_, clustering_NN ,_, and_CC disambiguation_NN ._.
+Previous_JJ approaches_NNS to_TO computing_VBG semantic_JJ relatedness_NN mostly_RB used_VBD static_JJ language_NN resources_NNS ,_, while_IN essentially_RB ignoring_VBG their_PRP$ temporal_JJ aspects_NNS ._.
+We_PRP believe_VBP that_IN a_DT considerable_JJ amount_NN of_IN relatedness_NN information_NN can_MD also_RB be_VB found_VBN in_IN studying_VBG patterns_NNS of_IN word_NN usage_NN over_IN time_NN ._.
+Consider_VB ,_, for_IN instance_NN ,_, a_DT newspaper_NN archive_NN spanning_VBG many_JJ years_NNS ._.
+Two_CD words_NNS such_JJ as_IN ``_`` war_NN ''_'' and_CC ``_`` peace_NN ''_'' might_MD rarely_RB co-occur_JJ in_IN the_DT same_JJ articles_NNS ,_, yet_RB their_PRP$ patterns_NNS of_IN use_NN over_IN time_NN might_MD be_VB similar_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ semantic_JJ relatedness_NN model_NN ,_, Temporal_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- TSA_NN -RRB-_-RRB- ,_, which_WDT captures_VBZ this_DT temporal_JJ information_NN ._.
+The_DT previous_JJ state_NN of_IN the_DT art_NN method_NN ,_, Explicit_NNP Semantic_NNP Analysis_NNP -LRB-_-LRB- ESA_NNP -RRB-_-RRB- ,_, represented_VBD word_NN semantics_NNS as_IN a_DT vector_NN of_IN concepts_NNS ._.
+TSA_NNP uses_VBZ a_DT more_RBR refined_JJ representation_NN ,_, where_WRB each_DT concept_NN is_VBZ no_RB longer_JJR scalar_NN ,_, but_CC is_VBZ instead_RB represented_VBN as_IN time_NN series_NN over_IN a_DT corpus_NN of_IN temporally-ordered_JJ documents_NNS ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, this_DT is_VBZ the_DT first_JJ attempt_NN to_TO incorporate_VB temporal_JJ evidence_NN into_IN models_NNS of_IN semantic_JJ relatedness_NN ._.
+Empirical_JJ evaluation_NN shows_VBZ that_IN TSA_NNP provides_VBZ consistent_JJ improvements_NNS over_IN the_DT state_NN of_IN the_DT art_NN ESA_NNP results_VBZ on_IN multiple_JJ benchmarks_NNS ._.

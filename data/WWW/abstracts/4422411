@@ -1,0 +1,8 @@
+Causal_JJ relation_NN of_IN queries_NNS from_IN temporal_JJ logs_NNS
+In_IN this_DT paper_NN ,_, we_PRP study_VBD a_DT new_JJ problem_NN of_IN mining_NN causal_JJ relation_NN of_IN queries_NNS in_IN search_NN engine_NN query_NN logs_NNS ._.
+Causal_JJ relation_NN between_IN two_CD queries_NNS means_VBZ event_NN on_IN one_CD query_NN is_VBZ the_DT causation_NN of_IN some_DT event_NN on_IN the_DT other_JJ ._.
+We_PRP first_RB detect_VBP events_NNS in_IN query_NN logs_NNS by_IN efficient_JJ statistical_JJ frequency_NN threshold_NN ._.
+Then_RB the_DT causal_JJ relation_NN of_IN queries_NNS is_VBZ mined_VBN by_IN the_DT geometric_JJ features_NNS of_IN the_DT events_NNS ._.
+Finally_RB the_DT Granger_NNP Causality_NNP Test_NNP -LRB-_-LRB- GCT_NN -RRB-_-RRB- is_VBZ utilized_VBN to_TO further_RB re-rank_VB the_DT causal_JJ relation_NN of_IN queries_NNS according_VBG to_TO their_PRP$ GCT_NN coefficients_NNS ._.
+In_IN addition_NN ,_, we_PRP develop_VBP a_DT 2-dimensional_JJ visualization_NN tool_NN to_TO display_VB the_DT detected_VBN relationship_NN of_IN events_NNS in_IN a_DT more_RBR intuitive_JJ way_NN ._.
+The_DT experimental_JJ results_NNS on_IN the_DT MSN_NNP search_NN engine_NN query_NN logs_NNS demonstrate_VBP that_IN our_PRP$ approach_NN can_MD accurately_RB detect_VB the_DT events_NNS in_IN temporal_JJ query_NN logs_NNS and_CC the_DT causal_JJ relation_NN of_IN queries_NNS is_VBZ detected_VBN effectively_RB ._.

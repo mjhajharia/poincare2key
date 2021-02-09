@@ -1,0 +1,7 @@
+BLOSOM_NNP :_: a_DT framework_NN for_IN mining_NN arbitrary_JJ boolean_JJ expressions_NNS
+We_PRP introduce_VBP a_DT novel_JJ framework_NN ,_, called_VBN BLOSOM_NNP ,_, for_IN mining_NN -LRB-_-LRB- frequent_JJ -RRB-_-RRB- boolean_JJ expressions_NNS over_IN binary-valued_JJ datasets_NNS ._.
+We_PRP organize_VBP the_DT space_NN of_IN boolean_JJ expressions_NNS into_IN four_CD categories_NNS :_: pure_JJ conjunctions_NNS ,_, pure_JJ disjunctions_NNS ,_, conjunction_NN of_IN disjunctions_NNS ,_, and_CC disjunction_NN of_IN conjunctions_NNS ._.
+We_PRP focus_VBP on_IN mining_NN the_DT simplest_JJS expressions_NNS the_DT minimal_JJ generators_NNS for_IN each_DT class_NN ._.
+We_PRP also_RB propose_VBP a_DT closure_NN operator_NN for_IN each_DT class_NN that_IN yields_NNS closed_VBD boolean_JJ expressions_NNS ._.
+BLOSOM_NNP efficiently_RB mines_NNS frequent_JJ boolean_JJ expressions_NNS by_IN utilizing_VBG a_DT number_NN of_IN methodical_JJ pruning_NN techniques_NNS ._.
+Experiments_NNS showcase_NN the_DT behavior_NN of_IN BLOSOM_NN ,_, and_CC an_DT application_NN study_NN on_IN a_DT real_JJ dataset_NN is_VBZ also_RB given_VBN ._.

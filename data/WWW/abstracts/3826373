@@ -1,0 +1,6 @@
+Visual_JJ web_NN mining_NN
+Analysis_NN of_IN web_NN site_NN usage_NN data_NNS involves_VBZ two_CD significant_JJ challenges_NNS :_: firstly_RB the_DT volume_NN of_IN data_NNS ,_, arising_VBG from_IN the_DT growth_NN of_IN the_DT web_NN ,_, and_CC secondly_RB ,_, the_DT structural_JJ complexity_NN of_IN web_NN sites_NNS ._.
+In_IN this_DT paper_NN we_PRP apply_VBP Data_NNP Mining_NNP and_CC Information_NNP Visualization_NN techniques_NNS to_TO the_DT web_NN domain_NN in_IN order_NN to_TO benefit_VB from_IN the_DT power_NN of_IN both_CC human_JJ visual_JJ perception_NN and_CC computing_NN we_PRP term_VBP this_DT Visual_JJ Web_NN Mining_NN ._.
+In_IN response_NN to_TO the_DT two_CD challenges_NNS ,_, we_PRP propose_VBP a_DT generic_JJ framework_NN ,_, where_WRB we_PRP apply_VBP Data_NNP Mining_NNP techniques_NNS to_TO large_JJ web_NN data_NN sets_NNS and_CC use_VB Information_NNP Visualization_NN methods_NNS on_IN the_DT results_NNS ._.
+The_DT goal_NN is_VBZ to_TO correlate_VB the_DT outcomes_NNS of_IN mining_NN Web_NN Usage_NN Logs_NNS and_CC the_DT extracted_VBN Web_NN Structure_NN by_IN visually_RB superimposing_VBG the_DT results_NNS ._.
+We_PRP design_VBP several_JJ new_JJ information_NN visualization_NN diagrams_NNS ._.

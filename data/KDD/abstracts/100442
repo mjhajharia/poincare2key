@@ -1,0 +1,11 @@
+Learning_NNP nonstationary_JJ models_NNS of_IN normal_JJ network_NN traffic_NN for_IN detecting_VBG novel_JJ attacks_NNS
+Traditional_JJ intrusion_NN detection_NN systems_NNS -LRB-_-LRB- IDS_NNP -RRB-_-RRB- detect_VBP attacks_NNS by_IN comparing_VBG current_JJ behavior_NN to_TO signatures_NNS of_IN known_JJ attacks_NNS ._.
+One_CD main_JJ drawback_NN is_VBZ the_DT inability_NN of_IN detecting_VBG new_JJ attacks_NNS which_WDT do_VBP not_RB have_VB known_VBN signatures_NNS ._.
+In_IN this_DT paper_NN we_PRP propose_VBP a_DT learning_NN algorithm_NN that_IN constructs_NNS models_NNS of_IN normal_JJ behavior_NN from_IN attack-free_JJ network_NN traffic_NN ._.
+Behavior_NN that_WDT deviates_VBZ from_IN the_DT learned_VBN normal_JJ model_NN signals_NNS possible_JJ novel_JJ attacks_NNS ._.
+Our_PRP$ IDS_NNP is_VBZ unique_JJ in_IN two_CD respects_NNS ._.
+First_RB ,_, it_PRP is_VBZ nonstationary_JJ ,_, modeling_NN probabilities_NNS based_VBN on_IN the_DT time_NN since_IN the_DT last_JJ event_NN rather_RB than_IN on_IN average_JJ rate_NN ._.
+This_DT prevents_VBZ alarm_NN floods_NNS ._.
+Second_RB ,_, the_DT IDS_NNP learns_VBZ protocol_NN vocabularies_NNS -LRB-_-LRB- at_IN the_DT data_NNS link_VBP through_IN application_NN layers_NNS -RRB-_-RRB- in_IN order_NN to_TO detect_VB unknown_JJ attacks_NNS that_WDT attempt_VBP to_TO exploit_VB implementation_NN errors_NNS in_IN poorly_RB tested_VBN features_NNS of_IN the_DT target_NN software_NN ._.
+On_IN the_DT 1999_CD DARPA_NNP IDS_NNP evaluation_NN data_NN set_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, we_PRP detect_VBP 70_CD of_IN 180_CD attacks_NNS -LRB-_-LRB- with_IN 100_CD false_JJ alarms_NNS -RRB-_-RRB- ,_, about_RB evenly_RB divided_VBN between_IN user_NN behavioral_JJ anomalies_NNS -LRB-_-LRB- IP_NNP addresses_NNS and_CC ports_NNS ,_, as_IN modeled_VBN by_IN most_JJS other_JJ systems_NNS -RRB-_-RRB- and_CC protocol_NN anomalies_NNS ._.
+Because_IN our_PRP$ methods_NNS are_VBP unconventional_JJ there_EX is_VBZ a_DT significant_JJ non-overlap_NN of_IN our_PRP$ IDS_NNP with_IN the_DT original_JJ DARPA_NNP participants_NNS ,_, which_WDT implies_VBZ that_IN they_PRP could_MD be_VB combined_VBN to_TO increase_VB coverage_NN ._.

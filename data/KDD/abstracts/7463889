@@ -1,0 +1,6 @@
+Customer_NN targeting_NN models_NNS using_VBG actively-selected_JJ web_NN content_NN
+We_PRP consider_VBP the_DT problem_NN of_IN predicting_VBG the_DT likelihood_NN that_IN a_DT company_NN will_MD purchase_VB a_DT new_JJ product_NN from_IN a_DT seller_NN ._.
+The_DT statistical_JJ models_NNS we_PRP have_VBP developed_VBN at_IN IBM_NNP for_IN this_DT purpose_NN rely_VBP on_IN historical_JJ transaction_NN data_NNS coupled_VBN with_IN structured_JJ firmographic_JJ information_NN like_IN the_DT company_NN revenue_NN ,_, number_NN of_IN employees_NNS and_CC so_RB on_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP extend_VBP this_DT methodology_NN to_TO include_VB additional_JJ text-based_JJ features_NNS based_VBN on_IN analysis_NN of_IN the_DT content_NN on_IN each_DT company_NN 's_POS website_NN ._.
+Empirical_JJ results_NNS demonstrate_VBP that_IN incorporating_VBG such_JJ web_NN content_NN can_MD significantly_RB improve_VB customer_NN targeting_NN ._.
+Furthermore_RB ,_, we_PRP present_VBP methods_NNS to_TO actively_RB select_VB only_RB the_DT web_NN content_NN that_WDT is_VBZ likely_JJ to_TO improve_VB our_PRP$ models_NNS ,_, while_IN reducing_VBG the_DT costs_NNS of_IN acquisition_NN and_CC processing_NN ._.

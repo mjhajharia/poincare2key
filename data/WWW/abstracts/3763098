@@ -1,0 +1,13 @@
+WS-replication_NN :_: a_DT framework_NN for_IN highly_RB available_JJ web_NN services_NNS
+Due_JJ to_TO the_DT rapid_JJ acceptance_NN of_IN web_NN services_NNS and_CC its_PRP$ fast_JJ spreading_NN ,_, a_DT number_NN of_IN mission-critical_JJ systems_NNS will_MD be_VB deployed_VBN as_IN web_NN services_NNS in_IN next_JJ years_NNS ._.
+The_DT availability_NN of_IN those_DT systems_NNS must_MD be_VB guaranteed_VBN in_IN case_NN of_IN failures_NNS and_CC network_NN disconnections_NNS ._.
+An_DT example_NN of_IN web_NN services_NNS for_IN which_WDT availability_NN will_MD be_VB a_DT crucial_JJ issue_NN are_VBP those_DT belonging_VBG to_TO coordination_NN web_NN service_NN infrastructure_NN ,_, such_JJ as_IN web_NN services_NNS for_IN transactional_JJ coordination_NN -LRB-_-LRB- e.g._FW ,_, WS-CAF_NN and_CC WS-Transaction_NN -RRB-_-RRB- ._.
+These_DT services_NNS should_MD remain_VB available_JJ despite_IN site_NN and_CC connectivity_NN failures_NNS to_TO enable_VB business_NN interactions_NNS on_IN a_DT 24x7_JJ basis_NN ._.
+Some_DT of_IN the_DT common_JJ techniques_NNS for_IN attaining_VBG availability_NN consist_VBP in_IN the_DT use_NN of_IN a_DT clustering_NN approach_NN ._.
+However_RB ,_, in_IN an_DT Internet_NN setting_VBG a_DT domain_NN can_MD get_VB partitioned_VBN from_IN the_DT network_NN due_JJ to_TO a_DT link_NN overload_NN or_CC some_DT other_JJ connectivity_NN problems_NNS ._.
+The_DT unavailability_NN of_IN a_DT coordination_NN service_NN impacts_VBZ the_DT availability_NN of_IN all_PDT the_DT partners_NNS in_IN the_DT business_NN process_NN ._.
+That_DT is_VBZ ,_, coordination_NN services_NNS are_VBP an_DT example_NN of_IN critical_JJ components_NNS that_WDT need_VBP higher_JJR provisions_NNS for_IN availability_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP address_VBP this_DT problem_NN by_IN providing_VBG an_DT infrastructure_NN ,_, WS-Replication_NN ,_, for_IN WAN_NNP replication_NN of_IN web_NN services_NNS ._.
+The_DT infrastructure_NN is_VBZ based_VBN on_IN a_DT group_NN communication_NN web_NN service_NN ,_, WS-Multicast_NN ,_, that_WDT respects_VBZ the_DT web_NN service_NN autonomy_NN ._.
+The_DT transport_NN of_IN WS-Multicast_NN is_VBZ based_VBN on_IN SOAP_NN and_CC relies_VBZ exclusively_RB on_IN web_NN service_NN technology_NN for_IN interaction_NN across_IN organizations_NNS ._.
+We_PRP have_VBP replicated_VBN WS-CAF_NN using_VBG our_PRP$ WS-Replication_JJ framework_NN and_CC evaluated_VBD its_PRP$ performance_NN ._.

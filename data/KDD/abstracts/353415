@@ -1,0 +1,10 @@
+Mining_NN e-commerce_NN data_NNS :_: the_DT good_JJ ,_, the_DT bad_JJ ,_, and_CC the_DT ugly_JJ
+Organizations_NNPS conducting_VBG Electronic_NNP Commerce_NNP -LRB-_-LRB- e-commerce_NN -RRB-_-RRB- can_MD greatly_RB benefit_VB from_IN the_DT insight_NN that_IN data_NNS mining_NN of_IN transactional_JJ and_CC clickstream_JJ data_NNS provides_VBZ ._.
+Such_JJ insight_NN helps_VBZ not_RB only_RB to_TO improve_VB the_DT electronic_JJ channel_NN -LRB-_-LRB- e.g._FW ,_, a_DT web_NN site_NN -RRB-_-RRB- ,_, but_CC it_PRP is_VBZ also_RB a_DT learning_VBG vehicle_NN for_IN the_DT bigger_JJR organization_NN conducting_NN business_NN at_IN brick-and-mortar_JJ stores_NNS ._.
+The_DT e-commerce_NN site_NN serves_VBZ as_IN an_DT early_JJ alert_NN system_NN for_IN emerging_VBG patterns_NNS and_CC a_DT laboratory_NN for_IN experimentation_NN ._.
+For_IN successful_JJ data_NNS mining_NN ,_, several_JJ ingredients_NNS are_VBP needed_VBN and_CC e-commerce_NN provides_VBZ all_PDT the_DT right_JJ ones_NNS -LRB-_-LRB- the_DT Good_NNP -RRB-_-RRB- ._.
+Web_NN server_NN logs_NNS ,_, which_WDT are_VBP commonly_RB used_VBN as_IN the_DT source_NN of_IN data_NNS for_IN mining_NN e-commerce_NN data_NNS ,_, were_VBD designed_VBN to_TO debug_VB web_NN servers_NNS ,_, and_CC the_DT data_NNS they_PRP provide_VBP is_VBZ insufficient_JJ ,_, requiring_VBG the_DT use_NN of_IN heuristics_NNS to_TO reconstruct_VB events_NNS ._.
+Moreover_RB ,_, many_JJ events_NNS are_VBP never_RB logged_VBN in_IN web_NN server_NN logs_NNS ,_, limiting_VBG the_DT source_NN of_IN data_NNS for_IN mining_NN -LRB-_-LRB- the_DT Bad_NN -RRB-_-RRB- ._.
+Many_JJ of_IN the_DT problems_NNS of_IN dealing_VBG with_IN web_NN server_NN log_NN data_NNS can_MD be_VB resolved_VBN by_IN properly_RB architecting_VBG the_DT e-commerce_NN sites_NNS to_TO generate_VB data_NNS needed_VBN for_IN mining_NN ._.
+Even_RB with_IN a_DT good_JJ architecture_NN ,_, however_RB ,_, there_EX are_VBP challenging_JJ problems_NNS that_WDT remain_VBP hard_JJ to_TO solve_VB -LRB-_-LRB- the_DT Ugly_NNP -RRB-_-RRB- ._.
+Lessons_NNS and_CC metrics_NNS based_VBN on_IN mining_NN real_JJ e-commerce_NN data_NNS are_VBP presented_VBN ._.

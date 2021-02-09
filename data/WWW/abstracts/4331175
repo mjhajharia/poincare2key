@@ -1,0 +1,7 @@
+Hierarchical_JJ ,_, perceptron-like_JJ learning_NN for_IN ontology-based_JJ information_NN extraction_NN
+Recent_JJ work_NN on_IN ontology-based_JJ Information_NN Extraction_NN -LRB-_-LRB- IE_NN -RRB-_-RRB- has_VBZ tried_VBN to_TO make_VB use_NN of_IN knowledge_NN from_IN the_DT target_NN ontology_NN in_IN order_NN to_TO improve_VB semantic_JJ annotation_NN results_NNS ._.
+However_RB ,_, very_RB few_JJ approaches_NNS exploit_VBP the_DT ontology_NN structure_NN itself_PRP ,_, and_CC those_DT that_WDT do_VBP so_RB ,_, have_VBP some_DT limitations_NNS ._.
+This_DT paper_NN introduces_VBZ a_DT hierarchical_JJ learning_NN approach_NN for_IN IE_NN ,_, which_WDT uses_VBZ the_DT target_NN ontology_NN as_IN an_DT essential_JJ part_NN of_IN the_DT extraction_NN process_NN ,_, by_IN taking_VBG into_IN account_NN the_DT relations_NNS between_IN concepts_NNS ._.
+The_DT approach_NN is_VBZ evaluated_VBN on_IN the_DT largest_JJS available_JJ semantically_RB annotated_JJ corpus_NN ._.
+The_DT results_NNS demonstrate_VBP clearly_RB the_DT benefits_NNS of_IN using_VBG knowledge_NN from_IN the_DT ontology_NN as_IN input_NN to_TO the_DT information_NN extraction_NN process_NN ._.
+We_PRP also_RB demonstrate_VBP the_DT advantages_NNS of_IN our_PRP$ approach_NN over_IN other_JJ state-of-the-art_JJ learning_NN systems_NNS on_IN a_DT commonly_RB used_VBN benchmark_JJ dataset_NN ._.

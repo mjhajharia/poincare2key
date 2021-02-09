@@ -1,0 +1,5 @@
+Statistical_JJ change_NN detection_NN for_IN multi-dimensional_JJ data_NNS
+This_DT paper_NN deals_VBZ with_IN detecting_VBG change_NN of_IN distribution_NN in_IN multi-dimensional_JJ data_NNS sets_NNS ._.
+For_IN a_DT given_VBN baseline_NN data_NNS set_NN and_CC a_DT set_NN of_IN newly_RB observed_VBN data_NNS points_NNS ,_, we_PRP define_VBP a_DT statistical_JJ test_NN called_VBN the_DT density_NN test_NN for_IN deciding_VBG if_IN the_DT observed_VBN data_NN points_NNS are_VBP sampled_VBN from_IN the_DT underlying_JJ distribution_NN that_WDT produced_VBD the_DT baseline_NN data_NN set_NN ._.
+We_PRP define_VBP a_DT test_NN statistic_NN that_WDT is_VBZ strictly_RB distribution-free_JJ under_IN the_DT null_JJ hypothesis_NN ._.
+Our_PRP$ experimental_JJ results_NNS show_VBP that_IN the_DT density_NN test_NN has_VBZ substantially_RB more_JJR power_NN than_IN the_DT two_CD existing_VBG methods_NNS for_IN multi-dimensional_JJ change_NN detection_NN ._.

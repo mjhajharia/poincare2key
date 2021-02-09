@@ -1,0 +1,5 @@
+Model-based_JJ overlapping_JJ clustering_NN
+While_IN the_DT vast_JJ majority_NN of_IN clustering_NN algorithms_NNS are_VBP partitional_JJ ,_, many_JJ real_JJ world_NN datasets_NNS have_VBP inherently_RB overlapping_VBG clusters_NNS ._.
+Several_JJ approaches_NNS to_TO finding_VBG overlapping_JJ clusters_NNS have_VBP come_VBN from_IN work_NN on_IN analysis_NN of_IN biological_JJ datasets_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP interpret_VBP an_DT overlapping_VBG clustering_NN model_NN proposed_VBN by_IN Segal_NNP et_FW al._FW -LRB-_-LRB- 23_CD -RRB-_-RRB- as_IN a_DT generalization_NN of_IN Gaussian_JJ mixture_NN models_NNS ,_, and_CC we_PRP extend_VBP it_PRP to_TO an_DT overlapping_VBG clustering_NN model_NN based_VBN on_IN mixtures_NNS of_IN any_DT regular_JJ exponential_JJ family_NN distribution_NN and_CC the_DT corresponding_JJ Bregman_NNP divergence_NN ._.
+We_PRP provide_VBP the_DT necessary_JJ algorithm_NN modifications_NNS for_IN this_DT extension_NN ,_, and_CC present_JJ results_NNS on_IN synthetic_JJ data_NNS as_RB well_RB as_IN subsets_NNS of_IN 20-Newsgroups_NN and_CC EachMovie_NN datasets_NNS ._.

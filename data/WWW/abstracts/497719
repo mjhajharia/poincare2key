@@ -1,0 +1,11 @@
+Updating_VBG pagerank_NN with_IN iterative_JJ aggregation_NN
+We_PRP present_VBP an_DT algorithm_NN for_IN updating_VBG the_DT PageRank_NN vector_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Due_JJ to_TO the_DT scale_NN of_IN the_DT web_NN ,_, Google_NNP only_RB updates_NNS its_PRP$ famous_JJ PageRank_NN vector_NN on_IN a_DT monthly_JJ basis_NN ._.
+However_RB ,_, the_DT Web_NN changes_VBZ much_RB more_RBR frequently_RB ._.
+Drastically_RB speeding_VBG the_DT PageRank_NN computation_NN can_MD lead_VB to_TO fresher_JJR ,_, more_RBR accurate_JJ rankings_NNS of_IN the_DT webpages_NNS retrieved_VBN by_IN search_NN engines_NNS ._.
+It_PRP can_MD also_RB make_VB the_DT goal_NN of_IN real-time_JJ personalized_JJ rankings_NNS within_IN reach_NN ._.
+On_IN two_CD small_JJ subsets_NNS of_IN the_DT web_NN ,_, our_PRP$ algorithm_NN updates_NNS PageRank_NN using_VBG just_RB 25_CD %_NN and_CC 14_CD %_NN ,_, respectively_RB ,_, of_IN the_DT time_NN required_VBN by_IN the_DT original_JJ PageRank_NNP algorithm_NN ._.
+Our_PRP$ algorithm_NN uses_VBZ iterative_JJ aggregation_NN techniques_NNS -LRB-_-LRB- 7_CD ,_, 8_CD -RRB-_-RRB- to_TO focus_VB on_IN the_DT slow-converging_JJ states_NNS of_IN the_DT Markov_NNP chain_NN ._.
+The_DT most_RBS exciting_JJ feature_NN of_IN this_DT algorithm_NN is_VBZ that_IN it_PRP can_MD be_VB joined_VBN with_IN other_JJ PageRank_NNP acceleration_NN methods_NNS ,_, such_JJ as_IN the_DT dangling_VBG node_NN lumpability_NN algorithm_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, quadratic_JJ extrapolation_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, and_CC adaptive_JJ PageRank_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, to_TO realize_VB even_RB greater_JJR speedups_NNS -LRB-_-LRB- potentially_RB a_DT factor_NN of_IN 60_CD or_CC more_JJR speedup_NN when_WRB all_DT algorithms_NNS are_VBP combined_VBN -RRB-_-RRB- ._.
+every_DT few_JJ weeks_NNS ._.
+Our_PRP$ solution_NN harnesses_VBZ the_DT power_NN of_IN iterative_JJ aggregation_NN principles_NNS for_IN Markov_NNP chains_NNS to_TO allow_VB for_IN much_RB more_JJR frequent_JJ updates_NNS to_TO the_DT valuable_JJ ranking_NN vectors_NNS ._.

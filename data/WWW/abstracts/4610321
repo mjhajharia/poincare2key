@@ -1,0 +1,8 @@
+One_CD document_NN to_TO bind_VB them_PRP :_: combining_VBG XML_NN ,_, web_NN services_NNS ,_, and_CC the_DT semantic_JJ web_NN
+We_PRP present_VBP a_DT paradigm_NN for_IN uniting_VBG the_DT diverse_JJ strands_NNS of_IN XML-based_JJ Web_NN technologies_NNS by_IN allowing_VBG them_PRP to_TO be_VB incorporated_VBN within_IN a_DT single_JJ document_NN ._.
+This_DT overcomes_VBZ the_DT distinction_NN between_IN programs_NNS and_CC data_NNS to_TO make_VB XML_NN truly_RB ``_`` self-describing_JJ ._. ''_''
+A_DT proposal_NN for_IN a_DT lightweight_JJ yet_RB powerful_JJ functional_JJ XML_NN vocabulary_NN called_VBN ``_`` Semantic_JJ fXML_NN ''_'' is_VBZ detailed_VBN ,_, based_VBN on_IN the_DT well-understood_JJ functional_JJ programming_NN paradigm_NN and_CC resembling_VBG the_DT embedding_NN of_IN Lisp_NNP directly_RB in_IN XML_NN ._.
+Infosets_NNS are_VBP made_VBN ``_`` dynamic_JJ ,_, ''_'' since_IN documents_NNS can_MD now_RB directly_RB embed_VBN local_JJ processes_NNS or_CC Web_NN Services_NNPS into_IN their_PRP$ Infoset_NNP ._.
+An_DT optional_JJ typing_NN regime_NN for_IN info-sets_NNS is_VBZ provided_VBN by_IN Semantic_JJ Web_NN ontologies_NNS ._.
+By_IN regarding_VBG Web_NN Services_NNPS as_IN functions_NNS and_CC the_DT Semantic_JJ Web_NN as_IN providing_VBG types_NNS ,_, and_CC tying_VBG it_PRP all_RB together_RB within_IN a_DT single_JJ XML_NN vocabulary_NN ,_, the_DT Web_NN can_MD compute_VB ._.
+In_IN this_DT light_NN ,_, the_DT real_JJ Web_NN 2.0_CD can_MD be_VB considered_VBN the_DT transformation_NN of_IN the_DT Web_NN from_IN a_DT universal_JJ information_NN space_NN to_TO a_DT universal_JJ computation_NN space_NN ._.

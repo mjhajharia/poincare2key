@@ -1,0 +1,11 @@
+Discovering_VBG word_NN senses_NNS from_IN text_NN
+Inventories_NNS of_IN manually_RB compiled_VBN dictionaries_NNS usually_RB serve_VBP as_IN a_DT source_NN for_IN word_NN senses_NNS ._.
+However_RB ,_, they_PRP often_RB include_VBP many_JJ rare_JJ senses_NNS while_IN missing_VBG corpus\/domain-specific_JJ senses_NNS ._.
+We_PRP present_VBP a_DT clustering_NN algorithm_NN called_VBN CBC_NNP -LRB-_-LRB- Clustering_NNP By_IN Committee_NNP -RRB-_-RRB- that_WDT automatically_RB discovers_VBZ word_NN senses_NNS from_IN text_NN ._.
+It_PRP initially_RB discovers_VBZ a_DT set_NN of_IN tight_JJ clusters_NNS called_VBD committees_NNS that_WDT are_VBP well_RB scattered_VBN in_IN the_DT similarity_NN space_NN ._.
+The_DT centroid_NN of_IN the_DT members_NNS of_IN a_DT committee_NN is_VBZ used_VBN as_IN the_DT feature_NN vector_NN of_IN the_DT cluster_NN ._.
+We_PRP proceed_VBP by_IN assigning_VBG words_NNS to_TO their_PRP$ most_RBS similar_JJ clusters_NNS ._.
+After_IN assigning_VBG an_DT element_NN to_TO a_DT cluster_NN ,_, we_PRP remove_VBP their_PRP$ overlapping_VBG features_NNS from_IN the_DT element_NN ._.
+This_DT allows_VBZ CBC_NNP to_TO discover_VB the_DT less_RBR frequent_JJ senses_NNS of_IN a_DT word_NN and_CC to_TO avoid_VB discovering_VBG duplicate_VB senses_NNS ._.
+Each_DT cluster_NN that_IN a_DT word_NN belongs_VBZ to_TO represents_VBZ one_CD of_IN its_PRP$ senses_NNS ._.
+We_PRP also_RB present_VBP an_DT evaluation_NN methodology_NN for_IN automatically_RB measuring_VBG the_DT precision_NN and_CC recall_NN of_IN discovered_VBN senses_NNS ._.

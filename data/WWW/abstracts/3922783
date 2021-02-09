@@ -1,0 +1,9 @@
+Information_NN retrieval_NN in_IN P2P_NN networks_NNS using_VBG genetic_JJ algorithm_NN
+Hybrid_NN Peer-to-Peer_NN -LRB-_-LRB- P2P_NN -RRB-_-RRB- networks_NNS based_VBN on_IN the_DT direct_JJ connection_NN model_NN have_VBP two_CD shortcomings_NNS which_WDT are_VBP high_JJ bandwidth_NN consumption_NN and_CC poor_JJ semi-parallel_JJ search_NN ._.
+However_RB ,_, they_PRP can_MD further_RB be_VB improved_VBN by_IN the_DT query_JJ propagation_NN model_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ query_NN routing_VBG strategy_NN called_VBN GAroute_NN based_VBN on_IN the_DT query_JJ propagation_NN model_NN ._.
+By_IN giving_VBG the_DT current_JJ P2P_NN network_NN topology_NN and_CC relevance_NN level_NN of_IN each_DT peer_VBP ,_, GAroute_NN returns_VBZ a_DT list_NN of_IN query_NN routing_VBG paths_NNS that_WDT cover_VBP as_IN many_JJ relevant_JJ peers_NNS as_IN possible_JJ ._.
+We_PRP model_VBP this_DT as_IN the_DT Longest_NNP Path_NNP Problem_NNP in_IN a_DT directed_JJ graph_NN which_WDT is_VBZ NP-complete_JJ and_CC we_PRP obtain_VBP high_JJ quality_NN -LRB-_-LRB- 0.95_CD in_IN 100_CD peers_NNS -RRB-_-RRB- approximate_JJ solutions_NNS in_IN polynomial_JJ time_NN by_IN using_VBG Genetic_JJ Algorithm_NN -LRB-_-LRB- GA_NN -RRB-_-RRB- ._.
+We_PRP describe_VBP the_DT problem_NN modeling_NN and_CC proposed_VBD GA_NNP for_IN finding_VBG long_JJ paths_NNS ._.
+Finally_RB ,_, we_PRP summarize_VBP the_DT experimental_JJ results_NNS which_WDT measure_VBP the_DT scalability_NN and_CC quality_NN of_IN different_JJ searching_VBG algorithms_NNS ._.
+According_VBG to_TO these_DT results_NNS ,_, GAroute_NN works_VBZ well_RB in_IN some_DT large_JJ scaled_VBN P2P_NN networks_NNS ._.

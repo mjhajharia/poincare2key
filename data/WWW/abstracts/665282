@@ -1,0 +1,7 @@
+Automatic_NNP identification_NN of_IN user_NN goals_NNS in_IN Web_NN search_NN
+There_EX has_VBZ been_VBN recent_JJ interests_NNS in_IN studying_VBG the_DT ``_`` goal_NN ''_'' behind_IN a_DT user_NN 's_POS Web_NN query_NN ,_, so_IN that_IN this_DT goal_NN can_MD be_VB used_VBN to_TO improve_VB the_DT quality_NN of_IN a_DT search_NN engine_NN 's_POS results_NNS ._.
+Previous_JJ studies_NNS have_VBP mainly_RB focused_VBN on_IN using_VBG manual_JJ query-log_JJ investigation_NN to_TO identify_VB Web_NN query_NN goals_NNS ._.
+In_IN this_DT paper_NN we_PRP study_VBD whether_IN and_CC how_WRB we_PRP can_MD automate_VB this_DT goal-identification_NN process_NN ._.
+We_PRP first_RB present_VBP our_PRP$ results_NNS from_IN a_DT human_JJ subject_JJ study_NN that_WDT strongly_RB indicate_VBP the_DT feasibility_NN of_IN automatic_JJ query-goal_JJ identification_NN ._.
+We_PRP then_RB propose_VBP two_CD types_NNS of_IN features_NNS for_IN the_DT goal-identification_NN task_NN :_: user-click_JJ behavior_NN and_CC anchor-link_JJ distribution_NN ._.
+Our_PRP$ experimental_JJ evaluation_NN shows_VBZ that_IN by_IN combining_VBG these_DT features_NNS we_PRP can_MD correctly_RB identify_VB the_DT goals_NNS for_IN 90_CD %_NN of_IN the_DT queries_NNS studied_VBN ._.

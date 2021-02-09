@@ -1,0 +1,11 @@
+Jena_NNP :_: implementing_VBG the_DT semantic_JJ web_NN recommendations_NNS
+The_DT new_JJ Semantic_JJ Web_NN recommendations_NNS for_IN RDF_NNP ,_, RDFS_NNP and_CC OWL_NNP have_VBP ,_, at_IN their_PRP$ heart_NN ,_, the_DT RDF_NNP graph_NN ._.
+Jena2_NN ,_, a_DT second-generation_JJ RDF_NNP toolkit_NN ,_, is_VBZ similarly_RB centered_VBN on_IN the_DT RDF_NNP graph_NN ._.
+RDFS_NN and_CC OWL_NN reasoning_NN are_VBP seen_VBN as_IN graph-to-graph_NN transforms_VBZ ,_, producing_VBG graphs_NNS of_IN virtual_JJ triples_NNS ._.
+Rich_JJ APIs_NNS are_VBP provided_VBN ._.
+The_DT Model_NNP API_NNP includes_VBZ support_NN for_IN other_JJ aspects_NNS of_IN the_DT RDF_NNP recommendations_NNS ,_, such_JJ as_IN containers_NNS and_CC reification_NN ._.
+The_DT Ontology_NNP API_NNP includes_VBZ support_NN for_IN RDFS_NNP and_CC OWL_NNP ,_, including_VBG advanced_JJ OWL_NN Full_JJ support_NN ._.
+Jena_NNP includes_VBZ the_DT de_FW facto_FW reference_NN RDF\/XML_NN parser_NN ,_, and_CC provides_VBZ RDF\/XML_NN output_NN using_VBG the_DT full_JJ range_NN of_IN the_DT rich_JJ RDF\/XML_NN grammar_NN ._.
+N3_NN I\/O_NN is_VBZ supported_VBN ._.
+RDF_NN graphs_NNS can_MD be_VB stored_VBN in-memory_JJ or_CC in_IN databases_NNS ._.
+Jena_NNP 's_POS query_NN language_NN ,_, RDQL_NN ,_, and_CC the_DT Web_NN API_NN are_VBP both_DT offered_VBN for_IN the_DT next_JJ round_NN of_IN standardization_NN ._.

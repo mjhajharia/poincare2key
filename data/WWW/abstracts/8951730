@@ -1,0 +1,7 @@
+Middleware_NNP services_NNS for_IN web_NN service_NN compositions_NNS
+WS_SYM -_: \*_NN specifications_NNS cover_VBP a_DT variety_NN of_IN issues_NNS ranging_VBG from_IN security_NN and_CC reliability_NN to_TO transaction_NN support_NN in_IN web_NN services_NNS ._.
+However_RB ,_, these_DT specifications_NNS do_VBP not_RB address_VB web_NN service_NN compositions_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, BPEL_NN as_IN the_DT future_JJ standard_JJ web_NN service_NN composition_NN language_NN allows_VBZ the_DT specification_NN of_IN the_DT functional_JJ part_NN of_IN the_DT composition_NN as_IN a_DT business_NN process_NN but_CC it_PRP fails_VBZ short_JJ in_IN expressing_VBG non-functional_JJ properties_NNS such_JJ as_IN security_NN ,_, reliability_NN and_CC persistence_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT approach_NN for_IN the_DT transparent_JJ integration_NN of_IN technical_JJ concerns_NNS in_IN web_NN service_NN compositions_NNS ._.
+Our_PRP$ approach_NN is_VBZ driven_VBN by_IN the_DT analogy_NN between_IN web_NN services_NNS and_CC software_NN components_NNS and_CC is_VBZ inspired_VBN from_IN server-side_JJ component_NN models_NNS such_JJ as_IN Enterprise_NNP Java_NNP Beans_NNPS ._.
+The_DT main_JJ components_NNS of_IN our_PRP$ framework_NN are_VBP the_DT process_NN container_NN ,_, the_DT middleware_JJ services_NNS and_CC the_DT deployment_NN descriptor_NN ._.

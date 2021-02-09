@@ -1,0 +1,10 @@
+Generating_NNP query_NN substitutions_NNS
+We_PRP introduce_VBP the_DT notion_NN of_IN query_NN substitution_NN ,_, that_DT is_VBZ ,_, generating_VBG a_DT new_JJ query_NN to_TO replace_VB a_DT user_NN 's_POS original_JJ search_NN query_NN ._.
+Our_PRP$ technique_NN uses_VBZ modifications_NNS based_VBN on_IN typical_JJ substitutions_NNS web_NN searchers_NNS make_VBP to_TO their_PRP$ queries_NNS ._.
+In_IN this_DT way_NN the_DT new_JJ query_NN is_VBZ strongly_RB related_JJ to_TO the_DT original_JJ query_NN ,_, containing_VBG terms_NNS closely_RB related_JJ to_TO all_DT of_IN the_DT original_JJ terms_NNS ._.
+This_DT contrasts_VBZ with_IN query_NN expansion_NN through_IN pseudo-relevance_NN feedback_NN ,_, which_WDT is_VBZ costly_JJ and_CC can_MD lead_VB to_TO query_NN drift_NN ._.
+This_DT also_RB contrasts_VBZ with_IN query_NN relaxation_NN through_IN boolean_NN or_CC TFIDF_NN retrieval_NN ,_, which_WDT reduces_VBZ the_DT specificity_NN of_IN the_DT query_NN ._.
+We_PRP define_VBP a_DT scale_NN for_IN evaluating_VBG query_NN substitution_NN ,_, and_CC show_VBP that_IN our_PRP$ method_NN performs_VBZ well_RB at_IN generating_VBG new_JJ queries_NNS related_VBN to_TO the_DT original_JJ queries_NNS ._.
+We_PRP build_VBP a_DT model_NN for_IN selecting_NN between_IN candidates_NNS ,_, by_IN using_VBG a_DT number_NN of_IN features_NNS relating_VBG the_DT query-candidate_JJ pair_NN ,_, and_CC by_IN fitting_JJ the_DT model_NN to_TO human_JJ judgments_NNS of_IN relevance_NN of_IN query_NN suggestions_NNS ._.
+This_DT further_RB improves_VBZ the_DT quality_NN of_IN the_DT candidates_NNS generated_VBN ._.
+Experiments_NNS show_VBP that_IN our_PRP$ techniques_NNS significantly_RB increase_VBP coverage_NN and_CC effectiveness_NN in_IN the_DT setting_NN of_IN sponsored_VBN search_NN ._.

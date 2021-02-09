@@ -1,0 +1,6 @@
+Hera_NN presentation_NN generator_NN
+Semantic_JJ Web_NN Information_NNP Systems_NNP -LRB-_-LRB- SWIS_NNP -RRB-_-RRB- are_VBP Web_NN Information_NNP Systems_NNP that_WDT use_VBP Semantic_JJ Web_NN technologies_NNS ._.
+Hera_NNP is_VBZ a_DT model-driven_JJ design_NN methodology_NN for_IN SWIS_NNP ._.
+In_IN Hera_NNP ,_, models_NNS are_VBP represented_VBN in_IN RDFS_NN and_CC model_NN instances_NNS in_IN RDF_NNP ._.
+The_DT Hera_NNP Presentation_NN Generator_NN -LRB-_-LRB- HPG_NN -RRB-_-RRB- is_VBZ an_DT integrated_JJ development_NN environment_NN that_WDT supports_VBZ the_DT presentation_NN generation_NN layer_NN of_IN the_DT Hera_NNP methodology_NN ._.
+The_DT HPG_NNP is_VBZ based_VBN on_IN a_DT pipeline_NN of_IN data_NNS transformations_NNS driven_VBN by_IN different_JJ Hera_NNP models_NNS ._.

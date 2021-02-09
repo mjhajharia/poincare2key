@@ -1,0 +1,7 @@
+Generating_NNP succinct_JJ titles_NNS for_IN web_NN URLs_NNS
+How_WRB can_MD a_DT search_NN engine_NN automatically_RB provide_VBP the_DT best_JJS and_CC most_RBS appropriate_JJ title_NN for_IN a_DT result_NN URL_NN -LRB-_-LRB- link-title_NN -RRB-_-RRB- so_IN that_IN users_NNS will_MD be_VB persuaded_VBN to_TO click_VB on_IN the_DT URL_NN ?_.
+We_PRP consider_VBP the_DT problem_NN of_IN automatically_RB generating_VBG link-titles_NNS for_IN URLs_NNS and_CC propose_VBP a_DT general_JJ statistical_JJ framework_NN for_IN solving_VBG this_DT problem_NN ._.
+The_DT framework_NN is_VBZ based_VBN on_IN using_VBG information_NN from_IN a_DT diverse_JJ collection_NN of_IN sources_NNS ,_, each_DT of_IN which_WDT can_MD be_VB thought_VBN of_IN as_IN contributing_VBG one_CD or_CC more_JJR candidate_NN link-titles_NNS for_IN the_DT URL_NN ._.
+It_PRP can_MD also_RB incorporate_VB the_DT context_NN in_IN which_WDT the_DT link-title_NN will_MD be_VB used_VBN ,_, along_IN with_IN constraints_NNS on_IN its_PRP$ length_NN ._.
+Our_PRP$ framework_NN is_VBZ applicable_JJ to_TO several_JJ scenarios_NNS :_: obtaining_VBG succinct_JJ titles_NNS for_IN displaying_VBG quicklinks_NNS ,_, obtaining_VBG titles_NNS for_IN URLs_NNS that_WDT lack_VBP a_DT good_JJ title_NN ,_, constructing_VBG succinct_JJ sitemaps_NNS ,_, etc._FW ._.
+Extensive_JJ experiments_NNS show_VBP that_IN our_PRP$ method_NN is_VBZ very_RB effective_JJ ,_, producing_VBG results_NNS that_WDT are_VBP at_IN least_JJS 20_CD %_NN better_JJR than_IN non-trivial_JJ baselines_NNS ._.

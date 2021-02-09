@@ -1,0 +1,10 @@
+Support_NN feature_NN machine_NN for_IN classification_NN of_IN abnormal_JJ brain_NN activity_NN
+In_IN this_DT study_NN ,_, a_DT novel_JJ multidimensional_JJ time_NN series_NN classification_NN technique_NN ,_, namely_RB support_NN feature_NN machine_NN -LRB-_-LRB- SFM_NN -RRB-_-RRB- ,_, is_VBZ proposed_VBN ._.
+SFM_NNP is_VBZ inspired_VBN by_IN the_DT optimization_NN model_NN of_IN support_NN vector_NN machine_NN and_CC the_DT nearest_JJS neighbor_NN rule_NN to_TO incorporate_VB both_CC spatial_JJ and_CC temporal_JJ of_IN the_DT multi-dimensional_JJ time_NN series_NN data_NNS ._.
+This_DT paper_NN also_RB describes_VBZ an_DT application_NN of_IN SFM_NNP for_IN detecting_VBG abnormal_JJ brain_NN activity_NN ._.
+Epilepsy_NNP is_VBZ a_DT case_NN in_IN point_NN in_IN this_DT study_NN ._.
+In_IN epilepsy_NN studies_NNS ,_, electroencephalograms_NNS -LRB-_-LRB- EEGs_NNS -RRB-_-RRB- ,_, acquired_VBN in_IN multidimensional_JJ time_NN series_NN format_NN ,_, have_VBP been_VBN traditionally_RB used_VBN as_IN a_DT gold-standard_JJ tool_NN for_IN capturing_VBG the_DT electrical_JJ changes_NNS in_IN the_DT brain_NN ._.
+From_IN multi-dimensional_JJ EEG_NN time_NN series_NN data_NNS ,_, SFM_NNP was_VBD used_VBN to_TO identify_VB seizure_NN pre-cursors_NNS and_CC detect_VB seizure_NN susceptibility_NN -LRB-_-LRB- pre-seizure_JJ -RRB-_-RRB- periods_NNS ._.
+The_DT empirical_JJ results_NNS showed_VBD that_IN SFM_NNP achieved_VBD over_IN 80_CD %_NN correct_JJ classification_NN of_IN per-seizure_JJ EEG_NN on_IN average_NN in_IN 10_CD patients_NNS using_VBG 5-fold_JJ cross_JJ validation_NN ._.
+The_DT proposed_VBN optimization_NN model_NN of_IN SFM_NNP is_VBZ very_RB compact_JJ and_CC scalable_JJ ,_, and_CC can_MD be_VB implemented_VBN as_IN an_DT online_JJ algorithm_NN ._.
+The_DT outcome_NN of_IN this_DT study_NN suggests_VBZ that_IN it_PRP is_VBZ possible_JJ to_TO construct_VB a_DT computerized_JJ algorithm_NN used_VBN to_TO detect_VB seizure_NN pre-cursors_NNS and_CC warn_VB of_IN impending_JJ seizures_NNS through_IN EEG_NN classification_NN ._.

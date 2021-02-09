@@ -1,0 +1,4 @@
+Semantic_JJ api_NN matching_NN for_IN automatic_JJ service_NN composition_NN
+In_IN this_DT paper_NN ,_, we_PRP address_VBP the_DT problem_NN of_IN matching_VBG I\/O_NN descriptions_NNS of_IN services_NNS to_TO enable_VB their_PRP$ automatic_JJ service_NN composition_NN ._.
+Specifically_RB ,_, we_PRP develop_VBP a_DT method_NN of_IN semantic_JJ schema_NN matching_NN and_CC apply_VB it_PRP to_TO the_DT API_NN schemas_NNS constituting_VBG the_DT I\/O_NN descriptions_NNS of_IN services_NNS ._.
+The_DT algorithm_NN assures_VBZ an_DT optimal_JJ match_NN of_IN corresponding_JJ entities_NNS by_IN obtaining_VBG a_DT maximum_NN matching_NN in_IN a_DT bi-partite_JJ graph_NN formed_VBN from_IN the_DT attributes_NNS ._.

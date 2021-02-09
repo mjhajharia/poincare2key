@@ -1,0 +1,5 @@
+Detecting_VBG soft_JJ errors_NNS by_IN redirection_NN classification_NN
+A_DT soft_JJ error_NN redirection_NN is_VBZ a_DT URL_NN redirection_NN to_TO a_DT page_NN that_WDT returns_VBZ the_DT HTTP_NNP status_NN code_NN 200_CD -LRB-_-LRB- OK_JJ -RRB-_-RRB- but_CC has_VBZ actually_RB no_DT relevant_JJ content_NN to_TO the_DT client_NN request_NN ._.
+Since_IN such_JJ redirections_NNS degrade_VBP the_DT performance_NN of_IN web_NN search_NN engines_NNS in_IN many_JJ ways_NNS ,_, it_PRP is_VBZ highly_RB desirable_JJ to_TO remove_VB as_RB many_JJ of_IN them_PRP as_IN possible_JJ ._.
+We_PRP propose_VBP a_DT novel_JJ approach_NN to_TO detect_VB soft_JJ error_NN redirections_NNS by_IN analyzing_VBG redirection_NN logs_NNS collected_VBN during_IN crawling_VBG operation_NN ._.
+Experimental_JJ results_NNS on_IN huge_JJ crawl_NN data_NNS show_VBP that_IN our_PRP$ measure_NN can_MD classify_VB soft_JJ error_NN redirections_NNS effectively_RB ._.

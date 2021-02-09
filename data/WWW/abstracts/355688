@@ -1,0 +1,12 @@
+Web_NN object_NN retrieval_NN
+The_DT primary_JJ function_NN of_IN current_JJ Web_NN search_NN engines_NNS is_VBZ essentially_RB relevance_NN ranking_NN at_IN the_DT document_NN level_NN ._.
+However_RB ,_, myriad_JJ structured_JJ information_NN about_IN real-world_JJ objects_NNS is_VBZ embedded_VBN in_IN static_JJ Web_NN pages_NNS and_CC online_JJ Web_NN databases_NNS ._.
+Document-level_JJ information_NN retrieval_NN can_MD unfortunately_RB lead_VB to_TO highly_RB inaccurate_JJ relevance_NN ranking_NN in_IN answering_VBG object-oriented_JJ queries_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT paradigm_NN shift_NN to_TO enable_VB searching_VBG at_IN the_DT object_NN level_NN ._.
+In_IN traditional_JJ information_NN retrieval_NN models_NNS ,_, documents_NNS are_VBP taken_VBN as_IN the_DT retrieval_NN units_NNS and_CC the_DT content_NN of_IN a_DT document_NN is_VBZ considered_VBN reliable_JJ ._.
+However_RB ,_, this_DT reliability_NN assumption_NN is_VBZ no_RB longer_RB valid_JJ in_IN the_DT object_NN retrieval_NN context_NN when_WRB multiple_JJ copies_NNS of_IN information_NN about_IN the_DT same_JJ object_NN typically_RB exist_VBP ._.
+These_DT copies_NNS may_MD be_VB inconsistent_JJ because_IN of_IN diversity_NN of_IN Web_NN site_NN qualities_NNS and_CC the_DT limited_JJ performance_NN of_IN current_JJ information_NN extraction_NN techniques_NNS ._.
+If_IN we_PRP simply_RB combine_VBP the_DT noisy_JJ and_CC inaccurate_JJ attribute_NN information_NN extracted_VBN from_IN different_JJ sources_NNS ,_, we_PRP may_MD not_RB be_VB able_JJ to_TO achieve_VB satisfactory_JJ retrieval_NN performance_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP several_JJ language_NN models_NNS for_IN Web_NN object_NN retrieval_NN ,_, namely_RB an_DT unstructured_JJ object_NN retrieval_NN model_NN ,_, a_DT structured_JJ object_NN retrieval_NN model_NN ,_, and_CC a_DT hybrid_NN model_NN with_IN both_CC structured_JJ and_CC unstructured_JJ retrieval_NN features_NNS ._.
+We_PRP test_VBP these_DT models_NNS on_IN a_DT paper_NN search_NN engine_NN and_CC compare_VB their_PRP$ performances_NNS ._.
+We_PRP conclude_VBP that_IN the_DT hybrid_NN model_NN is_VBZ the_DT superior_JJ by_IN taking_VBG into_IN account_NN the_DT extraction_NN errors_NNS at_IN varying_VBG levels_NNS ._.

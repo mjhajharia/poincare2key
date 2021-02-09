@@ -1,0 +1,5 @@
+Affinity_NN rank_NN :_: a_DT new_JJ scheme_NN for_IN efficient_JJ web_NN search_NN
+Maximizing_VBG only_RB the_DT relevance_NN between_IN queries_NNS and_CC documents_NNS will_MD not_RB satisfy_VB users_NNS if_IN they_PRP want_VBP the_DT top_JJ search_NN results_NNS to_TO present_VB a_DT wide_JJ coverage_NN of_IN topics_NNS by_IN a_DT few_JJ representative_JJ documents_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP two_CD new_JJ metrics_NNS to_TO evaluate_VB the_DT performance_NN of_IN information_NN retrieval_NN :_: diversity_NN ,_, which_WDT measures_VBZ the_DT topic_NN coverage_NN of_IN a_DT group_NN of_IN documents_NNS ,_, and_CC information_NN richness_NN ,_, which_WDT measures_VBZ the_DT amount_NN of_IN information_NN contained_VBN in_IN a_DT document_NN ._.
+Then_RB we_PRP present_VBP a_DT novel_JJ ranking_NN scheme_NN ,_, Affinity_NNP Rank_NNP ,_, which_WDT utilizes_VBZ these_DT two_CD metrics_NNS to_TO improve_VB search_NN results_NNS ._.
+We_PRP demonstrate_VBP how_WRB Affinity_NNP Rank_NNP works_VBZ by_IN a_DT toy_NN data_NN set_NN ,_, and_CC verify_VB our_PRP$ method_NN by_IN experiments_NNS on_IN real-world_JJ data_NNS sets_NNS ._.

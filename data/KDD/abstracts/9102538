@@ -1,0 +1,6 @@
+A_DT sequential_JJ dual_JJ method_NN for_IN large_JJ scale_NN multi-class_JJ linear_NN svms_NNS
+Efficient_JJ training_NN of_IN direct_JJ multi-class_JJ formulations_NNS of_IN linear_JJ Support_NN Vector_NNP Machines_NNP is_VBZ very_RB useful_JJ in_IN applications_NNS such_JJ as_IN text_NN classification_NN with_IN a_DT huge_JJ number_NN examples_NNS as_RB well_RB as_IN features_NNS ._.
+This_DT paper_NN presents_VBZ a_DT fast_JJ dual_JJ method_NN for_IN this_DT training_NN ._.
+The_DT main_JJ idea_NN is_VBZ to_TO sequentially_RB traverse_VB through_IN the_DT training_NN set_NN and_CC optimize_VB the_DT dual_JJ variables_NNS associated_VBN with_IN one_CD example_NN at_IN a_DT time_NN ._.
+The_DT speed_NN of_IN training_NN is_VBZ enhanced_VBN further_RB by_IN shrinking_VBG and_CC cooling_VBG heuristics_NNS ._.
+Experiments_NNS indicate_VBP that_IN our_PRP$ method_NN is_VBZ much_RB faster_RBR than_IN state_NN of_IN the_DT art_NN solvers_VBZ such_JJ as_IN bundle_NN ,_, cutting_VBG plane_NN and_CC exponentiated_JJ gradient_NN methods_NNS ._.

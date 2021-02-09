@@ -1,0 +1,9 @@
+Mining_NNP the_DT network_NN value_NN of_IN customers_NNS
+One_CD of_IN the_DT major_JJ applications_NNS of_IN data_NN mining_NN is_VBZ in_IN helping_VBG companies_NNS determine_VB which_WDT potential_JJ customers_NNS to_TO market_NN to_TO ._.
+If_IN the_DT expected_VBN profit_NN from_IN a_DT customer_NN is_VBZ greater_JJR than_IN the_DT cost_NN of_IN marketing_NN to_TO her_PRP ,_, the_DT marketing_NN action_NN for_IN that_DT customer_NN is_VBZ executed_VBN ._.
+So_RB far_RB ,_, work_NN in_IN this_DT area_NN has_VBZ considered_VBN only_RB the_DT intrinsic_JJ value_NN of_IN the_DT customer_NN -LRB-_-LRB- i._NN e_SYM ,_, the_DT expected_JJ profit_NN from_IN sales_NNS to_TO her_PRP$ -RRB-_-RRB- ._.
+We_PRP propose_VBP to_TO model_VB also_RB the_DT customer_NN 's_POS network_NN value_NN :_: the_DT expected_JJ profit_NN from_IN sales_NNS to_TO other_JJ customers_NNS she_PRP may_MD influence_VB to_TO buy_VB ,_, the_DT customers_NNS those_DT may_MD influence_VB ,_, and_CC so_RB on_IN recursively_NN ._.
+Instead_RB of_IN viewing_VBG a_DT market_NN as_IN a_DT set_NN of_IN independent_JJ entities_NNS ,_, we_PRP view_VBP it_PRP as_IN a_DT social_JJ network_NN and_CC model_VB it_PRP as_IN a_DT Markov_NNP random_JJ field_NN ._.
+We_PRP show_VBP the_DT advantages_NNS of_IN this_DT approach_NN using_VBG a_DT social_JJ network_NN mined_VBN from_IN a_DT collaborative_JJ filtering_VBG database_NN ._.
+Marketing_NNP that_WDT exploits_VBZ the_DT network_NN value_NN of_IN customers_NNS --_: also_RB known_VBN as_IN viral_JJ marketing_NN --_: can_MD be_VB extremely_RB effective_JJ ,_, but_CC is_VBZ still_RB a_DT black_JJ art_NN ._.
+Our_PRP$ work_NN can_MD be_VB viewed_VBN as_IN a_DT step_NN towards_IN providing_VBG a_DT more_RBR solid_JJ foundation_NN for_IN it_PRP ,_, taking_VBG advantage_NN of_IN the_DT availability_NN of_IN large_JJ relevant_JJ databases_NNS ._.

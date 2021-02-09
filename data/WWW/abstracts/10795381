@@ -1,0 +1,9 @@
+Facetedpedia_NNP :_: dynamic_JJ generation_NN of_IN query-dependent_JJ faceted_JJ interfaces_NNS for_IN wikipedia_NN
+This_DT paper_NN proposes_VBZ Facetedpedia_NNP ,_, a_DT faceted_JJ retrieval_NN system_NN for_IN information_NN discovery_NN and_CC exploration_NN in_IN Wikipedia_NNP ._.
+Given_VBN the_DT set_NN of_IN Wikipedia_NNP articles_NNS resulting_VBG from_IN a_DT keyword_JJ query_NN ,_, Facetedpedia_NNP generates_VBZ a_DT faceted_JJ interface_NN for_IN navigating_VBG the_DT result_NN articles_NNS ._.
+Compared_VBN with_IN other_JJ faceted_JJ retrieval_NN systems_NNS ,_, Facetedpedia_NNP is_VBZ fully_RB automatic_JJ and_CC dynamic_JJ in_IN both_CC facet_NN generation_NN and_CC hierarchy_NN construction_NN ,_, and_CC the_DT facets_NNS are_VBP based_VBN on_IN the_DT rich_JJ semantic_JJ information_NN from_IN Wikipedia_NNP ._.
+The_DT essence_NN of_IN our_PRP$ approach_NN is_VBZ to_TO build_VB upon_IN the_DT collaborative_JJ vocabulary_NN in_IN Wikipedia_NNP ,_, more_RBR specifically_RB the_DT intensive_JJ internal_JJ structures_NNS -LRB-_-LRB- hyperlinks_NNS -RRB-_-RRB- and_CC folksonomy_NN -LRB-_-LRB- category_NN system_NN -RRB-_-RRB- ._.
+Given_VBN the_DT sheer_JJ size_NN and_CC complexity_NN of_IN this_DT corpus_NN ,_, the_DT space_NN of_IN possible_JJ choices_NNS of_IN faceted_JJ interfaces_NNS is_VBZ prohibitively_RB large_JJ ._.
+We_PRP propose_VBP metrics_NNS for_IN ranking_JJ individual_JJ facet_NN hierarchies_NNS by_IN user_NN 's_POS navigational_JJ cost_NN ,_, and_CC metrics_NNS for_IN ranking_JJ interfaces_NNS -LRB-_-LRB- each_DT with_IN k_NN facets_NNS -RRB-_-RRB- by_IN both_CC their_PRP$ average_JJ pairwise_JJ similarities_NNS and_CC average_JJ navigational_JJ costs_NNS ._.
+We_PRP thus_RB develop_VBP faceted_JJ interface_NN discovery_NN algorithms_NNS that_WDT optimize_VBP the_DT ranking_JJ metrics_NNS ._.
+Our_PRP$ experimental_JJ evaluation_NN and_CC user_NN study_NN verify_VBP the_DT effectiveness_NN of_IN the_DT system_NN ._.

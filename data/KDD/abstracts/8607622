@@ -1,0 +1,11 @@
+Instability_NN of_IN decision_NN tree_NN classification_NN algorithms_NNS
+The_DT instability_NN problem_NN of_IN decision_NN tree_NN classification_NN algorithms_NNS is_VBZ that_IN small_JJ changes_NNS in_IN input_NN training_NN samples_NNS may_MD cause_VB dramatically_RB large_JJ changes_NNS in_IN output_NN classification_NN rules_NNS ._.
+Different_JJ rules_NNS generated_VBN from_IN almost_RB the_DT same_JJ training_NN samples_NNS are_VBP against_IN human_JJ intuition_NN and_CC complicate_VB the_DT process_NN of_IN decision_NN making_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP fundamental_JJ theorems_NNS for_IN the_DT instability_NN problem_NN of_IN decision_NN tree_NN classifiers_NNS ._.
+The_DT first_JJ theorem_NN gives_VBZ the_DT relationship_NN between_IN a_DT data_NN change_NN and_CC the_DT resulting_VBG tree_NN structure_NN change_NN -LRB-_-LRB- i.e._FW split_JJ change_NN -RRB-_-RRB- ._.
+The_DT second_JJ theorem_NN ,_, Instability_NNP Theorem_NNP ,_, provides_VBZ the_DT cause_NN of_IN the_DT instability_NN problem_NN ._.
+Based_VBN on_IN the_DT two_CD theorems_NNS ,_, algorithmic_JJ improvements_NNS can_MD be_VB made_VBN to_TO lessen_VB the_DT instability_NN problem_NN ._.
+Empirical_JJ results_NNS illustrate_VBP the_DT theorem_NN statements_NNS ._.
+The_DT trees_NNS constructed_VBN by_IN the_DT proposed_VBN algorithm_NN are_VBP more_RBR stable_JJ ,_, noise-tolerant_JJ ,_, informative_JJ ,_, expressive_JJ ,_, and_CC concise_NN ._.
+Our_PRP$ proposed_VBN sensitivity_NN measure_NN can_MD be_VB used_VBN as_IN a_DT metric_NN to_TO evaluate_VB the_DT stability_NN of_IN splitting_JJ predicates_NNS ._.
+The_DT tree_NN sensitivity_NN is_VBZ an_DT indicator_NN of_IN the_DT confidence_NN level_NN in_IN rules_NNS and_CC the_DT effective_JJ lifetime_NN of_IN rules_NNS ._.

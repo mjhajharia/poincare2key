@@ -1,0 +1,8 @@
+Personalized_VBN interactive_JJ faceted_JJ search_NN
+Faceted_JJ search_NN is_VBZ becoming_VBG a_DT popular_JJ method_NN to_TO allow_VB users_NNS to_TO interactively_RB search_VB and_CC navigate_VB complex_JJ information_NN spaces_NNS ._.
+A_DT faceted_JJ search_NN system_NN presents_VBZ users_NNS with_IN key-value_JJ metadata_NN that_WDT is_VBZ used_VBN for_IN query_NN refinement_NN ._.
+While_IN popular_JJ in_IN e-commerce_NN and_CC digital_JJ libraries_NNS ,_, not_RB much_JJ research_NN has_VBZ been_VBN conducted_VBN on_IN which_WDT metadata_NN to_TO present_VB to_TO a_DT user_NN in_IN order_NN to_TO improve_VB the_DT search_NN experience_NN ._.
+Nor_CC are_VBP there_EX repeatable_JJ benchmarks_NNS for_IN evaluating_VBG a_DT faceted_JJ search_NN engine_NN ._.
+This_DT paper_NN proposes_VBZ the_DT use_NN of_IN collaborative_JJ filtering_VBG and_CC personalization_NN to_TO customize_VB the_DT search_NN interface_NN to_TO each_DT user_NN 's_POS behavior_NN ._.
+This_DT paper_NN also_RB proposes_VBZ a_DT utility_NN based_VBN framework_NN to_TO evaluate_VB the_DT faceted_JJ interface_NN ._.
+In_IN order_NN to_TO demonstrate_VB these_DT ideas_NNS and_CC better_RBR understand_VB personalized_JJ faceted_JJ search_NN ,_, several_JJ faceted_JJ search_NN algorithms_NNS are_VBP proposed_VBN and_CC evaluated_VBN using_VBG the_DT novel_JJ evaluation_NN methodology_NN ._.

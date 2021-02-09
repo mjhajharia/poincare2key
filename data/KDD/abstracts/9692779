@@ -1,0 +1,11 @@
+Collective_JJ annotation_NN of_IN Wikipedia_NNP entities_NNS in_IN web_NN text_NN
+To_TO take_VB the_DT first_JJ step_NN beyond_IN keyword-based_JJ search_NN toward_IN entity-based_JJ search_NN ,_, suitable_JJ token_JJ spans_NNS -LRB-_-LRB- ``_`` spots_NNS ''_'' -RRB-_-RRB- on_IN documents_NNS must_MD be_VB identified_VBN as_IN references_NNS to_TO real-world_JJ entities_NNS from_IN an_DT entity_NN catalog_NN ._.
+Several_JJ systems_NNS have_VBP been_VBN proposed_VBN to_TO link_VB spots_NNS on_IN Web_NN pages_NNS to_TO entities_NNS in_IN Wikipedia_NNP ._.
+They_PRP are_VBP largely_RB based_VBN on_IN local_JJ compatibility_NN between_IN the_DT text_NN around_IN the_DT spot_NN and_CC textual_JJ metadata_NN associated_VBN with_IN the_DT entity_NN ._.
+Two_CD recent_JJ systems_NNS exploit_VBP inter-label_JJ dependencies_NNS ,_, but_CC in_IN limited_JJ ways_NNS ._.
+We_PRP propose_VBP a_DT general_JJ collective_JJ disambiguation_NN approach_NN ._.
+Our_PRP$ premise_NN is_VBZ that_IN coherent_JJ documents_NNS refer_VBP to_TO entities_NNS from_IN one_CD or_CC a_DT few_JJ related_JJ topics_NNS or_CC domains_NNS ._.
+We_PRP give_VBP formulations_NNS for_IN the_DT trade-off_NN between_IN local_JJ spot-to-entity_JJ compatibility_NN and_CC measures_NNS of_IN global_JJ coherence_NN between_IN entities_NNS ._.
+Optimizing_VBG the_DT overall_JJ entity_NN assignment_NN is_VBZ NP-hard_JJ ._.
+We_PRP investigate_VBP practical_JJ solutions_NNS based_VBN on_IN local_JJ hill-climbing_NN ,_, rounding_VBG integer_NN linear_NN programs_NNS ,_, and_CC pre-clustering_JJ entities_NNS followed_VBN by_IN local_JJ optimization_NN within_IN clusters_NNS ._.
+In_IN experiments_NNS involving_VBG over_IN a_DT hundred_CD manually-annotated_JJ Web_NN pages_NNS and_CC tens_NNS of_IN thousands_NNS of_IN spots_NNS ,_, our_PRP$ approaches_NNS significantly_RB outperform_VBP recently-proposed_JJ algorithms_NNS ._.

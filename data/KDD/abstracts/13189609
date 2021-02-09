@@ -1,0 +1,11 @@
+GBASE_NNP :_: a_DT scalable_JJ and_CC general_JJ graph_NN management_NN system_NN
+Graphs_NNS appear_VBP in_IN numerous_JJ applications_NNS including_VBG cyber-security_NN ,_, the_DT Internet_NNP ,_, social_JJ networks_NNS ,_, protein_NN networks_NNS ,_, recommendation_NN systems_NNS ,_, and_CC many_JJ more_JJR ._.
+Graphs_NNS with_IN millions_NNS or_CC even_RB billions_NNS of_IN nodes_NNS and_CC edges_NNS are_VBP common-place_JJ ._.
+How_WRB to_TO store_VB such_JJ large_JJ graphs_NNS efficiently_RB ?_.
+What_WP are_VBP the_DT core_NN operations\/queries_NNS on_IN those_DT graph_NN ?_.
+How_WRB to_TO answer_VB the_DT graph_NN queries_NNS quickly_RB ?_.
+We_PRP propose_VBP GBASE_NNP ,_, a_DT scalable_JJ and_CC general_JJ graph_NN management_NN and_CC mining_NN system_NN ._.
+The_DT key_JJ novelties_NNS lie_VBP in_IN 1_CD -RRB-_-RRB- our_PRP$ storage_NN and_CC compression_NN scheme_NN for_IN a_DT parallel_JJ setting_NN and_CC 2_LS -RRB-_-RRB- the_DT carefully_RB chosen_VBN graph_NN operations_NNS and_CC their_PRP$ efficient_JJ implementation_NN ._.
+We_PRP designed_VBD and_CC implemented_VBD an_DT instance_NN of_IN GBASE_NN using_VBG MapReduce\/Hadoop_NN ._.
+GBASE_NNP provides_VBZ a_DT parallel_JJ indexing_NN mechanism_NN for_IN graph_NN mining_NN operations_NNS that_IN both_DT saves_VBZ storage_NN space_NN ,_, as_RB well_RB as_IN accelerates_VBZ queries_NNS ._.
+We_PRP ran_VBD numerous_JJ experiments_NNS on_IN real_JJ graphs_NNS ,_, spanning_VBG billions_NNS of_IN nodes_NNS and_CC edges_NNS ,_, and_CC we_PRP show_VBP that_IN our_PRP$ proposed_VBN GBASE_NN is_VBZ indeed_RB fast_JJ ,_, scalable_JJ and_CC nimble_JJ ,_, with_IN significant_JJ savings_NNS in_IN space_NN and_CC time_NN ._.

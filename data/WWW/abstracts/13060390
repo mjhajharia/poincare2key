@@ -1,0 +1,13 @@
+Geographical_JJ topic_NN discovery_NN and_CC comparison_NN
+This_DT paper_NN studies_VBZ the_DT problem_NN of_IN discovering_VBG and_CC comparing_VBG geographical_JJ topics_NNS from_IN GPS-associated_JJ documents_NNS ._.
+GPS-associated_JJ documents_NNS become_VBP popular_JJ with_IN the_DT pervasiveness_NN of_IN location-acquisition_JJ technologies_NNS ._.
+For_IN example_NN ,_, in_IN Flickr_NNP ,_, the_DT geo-tagged_JJ photos_NNS are_VBP associated_VBN with_IN tags_NNS and_CC GPS_NN locations_NNS ._.
+In_IN Twitter_NNP ,_, the_DT locations_NNS of_IN the_DT tweets_NNS can_MD be_VB identified_VBN by_IN the_DT GPS_NNP locations_NNS from_IN smart_JJ phones_NNS ._.
+Many_JJ interesting_JJ concepts_NNS ,_, including_VBG cultures_NNS ,_, scenes_NNS ,_, and_CC product_NN sales_NNS ,_, correspond_VBP to_TO specialized_JJ geographical_JJ distributions_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP are_VBP interested_JJ in_IN two_CD questions_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- how_WRB to_TO discover_VB different_JJ topics_NNS of_IN interests_NNS that_WDT are_VBP coherent_JJ in_IN geographical_JJ regions_NNS ?_.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- how_WRB to_TO compare_VB several_JJ topics_NNS across_IN different_JJ geographical_JJ locations_NNS ?_.
+To_TO answer_VB these_DT questions_NNS ,_, this_DT paper_NN proposes_VBZ and_CC compares_VBZ three_CD ways_NNS of_IN modeling_NN geographical_JJ topics_NNS :_: location-driven_JJ model_NN ,_, text-driven_JJ model_NN ,_, and_CC a_DT novel_JJ joint_JJ model_NN called_VBN LGTA_NNP -LRB-_-LRB- Latent_JJ Geographical_NNP Topic_NNP Analysis_NNP -RRB-_-RRB- that_WDT combines_VBZ location_NN and_CC text_NN ._.
+To_TO make_VB a_DT fair_JJ comparison_NN ,_, we_PRP collect_VBP several_JJ representative_JJ datasets_NNS from_IN Flickr_NNP website_NNS including_VBG Landscape_NNP ,_, Activity_NNP ,_, Manhattan_NNP ,_, National_NNP park_NN ,_, Festival_NNP ,_, Car_NNP ,_, and_CC Food_NNP ._.
+The_DT results_NNS show_VBP that_IN the_DT first_JJ two_CD methods_NNS work_VBP in_IN some_DT datasets_NNS but_CC fail_VBP in_IN others_NNS ._.
+LGTA_NN works_VBZ well_RB in_IN all_PDT these_DT datasets_NNS at_IN not_RB only_RB finding_VBG regions_NNS of_IN interests_NNS but_CC also_RB providing_VBG effective_JJ comparisons_NNS of_IN the_DT topics_NNS across_IN different_JJ locations_NNS ._.
+The_DT results_NNS confirm_VBP our_PRP$ hypothesis_NN that_IN the_DT geographical_JJ distributions_NNS can_MD help_VB modeling_NN topics_NNS ,_, while_IN topics_NNS provide_VBP important_JJ cues_NNS to_TO group_VB different_JJ geographical_JJ regions_NNS ._.

@@ -1,0 +1,11 @@
+Dense_JJ itemsets_NNS
+Frequent_JJ itemset_NN mining_NN has_VBZ been_VBN the_DT subject_NN of_IN a_DT lot_NN of_IN work_NN in_IN data_NNS mining_NN research_NN ever_RB since_IN association_NN rules_NNS were_VBD introduced_VBN ._.
+In_IN this_DT paper_NN we_PRP address_VBP a_DT problem_NN with_IN frequent_JJ itemsets_NNS :_: that_IN they_PRP only_RB count_VBP rows_NNS where_WRB all_DT their_PRP$ attributes_NNS are_VBP present_JJ ,_, and_CC do_VBP not_RB allow_VB for_IN any_DT noise_NN ._.
+We_PRP show_VBP that_IN generalizing_VBG the_DT concept_NN of_IN frequency_NN while_IN preserving_VBG the_DT performance_NN of_IN mining_NN algorithms_NNS is_VBZ nontrivial_JJ ,_, and_CC introduce_VB a_DT generalization_NN of_IN frequent_JJ itemsets_NNS ,_, dense_JJ itemsets_NNS ._.
+Dense_JJ itemsets_NNS do_VBP not_RB require_VB all_DT attributes_NNS to_TO be_VB present_JJ at_IN the_DT same_JJ time_NN ;_: instead_RB ,_, the_DT itemset_NN needs_VBZ to_TO define_VB a_DT sufficiently_RB large_JJ submatrix_NN that_WDT exceeds_VBZ a_DT given_VBN density_NN threshold_NN of_IN attributes_NNS present_JJ ._.
+We_PRP consider_VBP the_DT problem_NN of_IN computing_VBG all_DT dense_JJ itemsets_NNS in_IN a_DT database_NN ._.
+We_PRP give_VBP a_DT levelwise_JJ algorithm_NN for_IN this_DT problem_NN ,_, and_CC also_RB study_VB the_DT top_NN -_: $_$ k_NN $_$ variations_NNS ,_, i.e._FW ,_, finding_VBG the_DT k_NN densest_JJS sets_NNS with_IN a_DT given_VBN support_NN ,_, or_CC the_DT k_NN best-supported_JJ sets_NNS with_IN a_DT given_VBN density_NN ._.
+These_DT algorithms_NNS select_VBP the_DT other_JJ parameter_NN automatically_RB ,_, which_WDT simplifies_VBZ mining_NN dense_JJ itemsets_NNS in_IN an_DT explorative_JJ way_NN ._.
+We_PRP show_VBP that_IN the_DT concept_NN captures_VBZ natural_JJ facets_NNS of_IN data_NNS sets_NNS ,_, and_CC give_VB extensive_JJ empirical_JJ results_NNS on_IN the_DT performance_NN of_IN the_DT algorithms_NNS ._.
+Combining_VBG the_DT concept_NN of_IN dense_JJ itemsets_NNS with_IN set_VBN cover_NN ideas_NNS ,_, we_PRP also_RB show_VBP that_IN dense_JJ itemsets_NNS can_MD be_VB used_VBN to_TO obtain_VB succinct_JJ descriptions_NNS of_IN large_JJ datasets_NNS ._.
+We_PRP also_RB discuss_VBP some_DT variations_NNS of_IN dense_JJ itemsets_NNS ._.

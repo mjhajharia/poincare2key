@@ -1,0 +1,7 @@
+Towards_IN practical_JJ genre_NN classification_NN of_IN web_NN documents_NNS
+Classification_NN of_IN documents_NNS by_IN genre_NN is_VBZ typically_RB done_VBN either_CC using_VBG linguistic_JJ analysis_NN or_CC term_NN frequency_NN based_VBN techniques_NNS ._.
+The_DT former_JJ provides_VBZ better_JJR classification_NN accuracy_NN than_IN the_DT latter_JJ but_CC at_IN the_DT cost_NN of_IN two_CD orders_NNS of_IN magnitude_NN more_RBR computation_JJ time_NN ._.
+While_IN term_NN frequency_NN analysis_NN requires_VBZ much_RB less_JJR computational_JJ resources_NNS than_IN linguistic_JJ analysis_NN ,_, it_PRP returns_VBZ poor_JJ classification_NN accuracy_NN when_WRB the_DT genres_NNS are_VBP not_RB sufficiently_RB distinct_JJ ._.
+A_DT method_NN that_WDT removes_VBZ or_CC approximates_VBZ the_DT expensive_JJ portions_NNS of_IN linguistic_JJ analysis_NN is_VBZ presented_VBN ._.
+The_DT accuracy_NN and_CC computation_NN time_NN of_IN this_DT method_NN then_RB compared_VBN with_IN both_CC linguistic_JJ analysis_NN and_CC term_NN frequency_NN analysis_NN ._.
+The_DT results_NNS in_IN this_DT paper_NN show_VBP that_IN this_DT method_NN can_MD significantly_RB reduce_VB the_DT computation_NN of_IN both_DT time_NN of_IN linguistic_JJ analysis_NN and_CC term_NN frequency_NN analysis_NN ,_, while_IN retaining_VBG an_DT accuracy_NN that_WDT is_VBZ higher_JJR than_IN that_DT of_IN term_NN frequency_NN analysis_NN ._.

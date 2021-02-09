@@ -1,0 +1,8 @@
+Tri-plots_NNS :_: scalable_JJ tools_NNS for_IN multidimensional_JJ data_NNS mining_NN
+We_PRP focus_VBP on_IN the_DT problem_NN of_IN finding_VBG patterns_NNS across_IN two_CD large_JJ ,_, multidimensional_JJ datasets_NNS ._.
+For_IN example_NN ,_, given_VBN feature_NN vectors_NNS of_IN healthy_JJ and_CC of_IN non-healthy_JJ patients_NNS ,_, we_PRP want_VBP to_TO answer_VB the_DT following_JJ questions_NNS :_: Are_VBP the_DT two_CD clouds_NNS of_IN points_NNS separable_JJ ?_.
+What_WP is_VBZ the_DT smallest\/largest_JJ pair-wise_JJ distance_NN across_IN the_DT two_CD datasets_NNS ?_.
+Which_WDT of_IN the_DT two_CD clouds_NNS does_VBZ a_DT new_JJ point_NN -LRB-_-LRB- feature_NN vector_NN -RRB-_-RRB- come_VB from_IN ?_.
+We_PRP propose_VBP a_DT new_JJ tool_NN ,_, the_DT tri-plot_NN ,_, and_CC its_PRP$ generalization_NN ,_, the_DT pq-plot_NN ,_, which_WDT help_VBP us_PRP answer_VB the_DT above_JJ questions_NNS ._.
+We_PRP provide_VBP a_DT set_NN of_IN rules_NNS on_IN how_WRB to_TO interpret_VB a_DT tri-plot_NN ,_, and_CC we_PRP apply_VBP these_DT rules_NNS on_IN synthetic_JJ and_CC real_JJ datasets_NNS ._.
+We_PRP also_RB show_VBP how_WRB to_TO use_VB our_PRP$ tool_NN for_IN classification_NN ,_, when_WRB traditional_JJ methods_NNS -LRB-_-LRB- nearest_JJS neighbor_NN ,_, classification_NN trees_NNS -RRB-_-RRB- may_MD fail_VB ._.

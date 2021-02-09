@@ -1,0 +1,12 @@
+On_IN incremental_JJ maintenance_NN of_IN 2-hop_JJ labeling_NN of_IN graphs_NNS
+Recent_JJ interests_NNS on_IN XML_NN ,_, Semantic_JJ Web_NN ,_, and_CC Web_NN ontology_NN ,_, among_IN other_JJ topics_NNS ,_, have_VBP sparked_VBN a_DT renewed_VBN interest_NN on_IN graph-structured_JJ databases_NNS ._.
+A_DT fundamental_JJ query_NN on_IN graphs_NNS is_VBZ the_DT reachability_NN test_NN of_IN nodes_NNS ._.
+Recently_RB ,_, 2-hop_JJ labeling_NN has_VBZ been_VBN proposed_VBN to_TO index_NN large_JJ collections_NNS of_IN XML_NN and\/or_CC graphs_NNS for_IN efficient_JJ reachability_NN tests_NNS ._.
+However_RB ,_, there_EX has_VBZ been_VBN few_JJ work_NN on_IN updates_NNS of_IN 2-hop_JJ labeling_NN ._.
+This_DT is_VBZ compounded_VBN by_IN the_DT fact_NN that_IN Web_NN data_NNS changes_NNS over_IN time_NN ._.
+In_IN response_NN to_TO these_DT ,_, this_DT paper_NN studies_VBZ the_DT incremental_JJ maintenance_NN of_IN 2-hop_JJ labeling_NN ._.
+We_PRP identify_VBP the_DT main_JJ reason_NN for_IN the_DT inefficiency_NN of_IN updates_NNS of_IN existing_VBG 2-hop_JJ labels_NNS ._.
+We_PRP propose_VBP two_CD updatable_JJ 2-hop_JJ labelings_NNS ,_, hybrids_NNS of_IN 2-hop_JJ labeling_NN ,_, and_CC their_PRP$ incremental_JJ maintenance_NN algorithms_NNS ._.
+The_DT proposed_VBN 2-hop_JJ labeling_NN is_VBZ derived_VBN from_IN graph_NN connectivities_NNS ,_, as_IN opposed_VBN to_TO set_VB cover_NN which_WDT is_VBZ used_VBN by_IN all_DT previous_JJ work_NN ._.
+Our_PRP$ experimental_JJ evaluation_NN illustrates_VBZ the_DT space_NN efficiency_NN and_CC update_VB performance_NN of_IN various_JJ kinds_NNS of_IN 2-hop_JJ labeling_NN ._.
+The_DT main_JJ conclusion_NN is_VBZ that_IN there_EX is_VBZ a_DT natural_JJ way_NN to_TO spare_VB some_DT index_NN size_NN for_IN update_VBP performance_NN in_IN 2-hop_JJ labeling_NN ._.

@@ -1,0 +1,14 @@
+Utility-based_JJ anonymization_NN using_VBG local_JJ recoding_NN
+Privacy_NN becomes_VBZ a_DT more_RBR and_CC more_RBR serious_JJ concern_NN in_IN applications_NNS involving_VBG microdata_NN ._.
+Recently_RB ,_, efficient_JJ anonymization_NN has_VBZ attracted_VBN much_JJ research_NN work_NN ._.
+Most_JJS of_IN the_DT previous_JJ methods_NNS use_VBP global_JJ recoding_NN ,_, which_WDT maps_VBZ the_DT domains_NNS of_IN the_DT quasi-identifier_JJ attributes_NNS to_TO generalized_JJ or_CC changed_JJ values_NNS ._.
+However_RB ,_, global_JJ recoding_NN may_MD not_RB always_RB achieve_VB effective_JJ anonymization_NN in_IN terms_NNS of_IN discernability_NN and_CC query_NN answering_VBG accuracy_NN using_VBG the_DT anonymized_JJ data_NNS ._.
+Moreover_RB ,_, anonymized_JJ data_NNS is_VBZ often_RB for_IN analysis_NN ._.
+As_IN well_RB accepted_VBN in_IN many_JJ analytical_JJ applications_NNS ,_, different_JJ attributes_NNS in_IN a_DT data_NN set_NN may_MD have_VB different_JJ utility_NN in_IN the_DT analysis_NN ._.
+The_DT utility_NN of_IN attributes_NNS has_VBZ not_RB been_VBN considered_VBN in_IN the_DT previous_JJ methods_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT problem_NN of_IN utility-based_JJ anonymization_NN ._.
+First_RB ,_, we_PRP propose_VBP a_DT simple_JJ framework_NN to_TO specify_VB utility_NN of_IN attributes_NNS ._.
+The_DT framework_NN covers_VBZ both_CC numeric_JJ and_CC categorical_JJ data_NNS ._.
+Second_RB ,_, we_PRP develop_VBP two_CD simple_JJ yet_CC efficient_JJ heuristic_NN local_JJ recoding_VBG methods_NNS for_IN utility-based_JJ anonymization_NN ._.
+Our_PRP$ extensive_JJ performance_NN study_NN using_VBG both_CC real_JJ data_NN sets_NNS and_CC synthetic_JJ data_NNS sets_NNS shows_VBZ that_IN our_PRP$ methods_NNS outperform_VBP the_DT state-of-the-art_JJ multidimensional_JJ global_JJ recoding_NN methods_NNS in_IN both_CC discernability_NN and_CC query_NN answering_VBG accuracy_NN ._.
+Furthermore_RB ,_, our_PRP$ utility-based_JJ method_NN can_MD boost_VB the_DT quality_NN of_IN analysis_NN using_VBG the_DT anonymized_JJ data_NNS ._.

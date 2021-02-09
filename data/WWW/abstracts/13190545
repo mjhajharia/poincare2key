@@ -1,0 +1,9 @@
+Unified_JJ analysis_NN of_IN streaming_NN news_NN
+News_NN clustering_NN ,_, categorization_NN and_CC analysis_NN are_VBP key_JJ components_NNS of_IN any_DT news_NN portal_NN ._.
+They_PRP require_VBP algorithms_NNS capable_JJ of_IN dealing_VBG with_IN dynamic_JJ data_NNS to_TO cluster_VB ,_, interpret_VB and_CC to_TO temporally_RB aggregate_JJ news_NN articles_NNS ._.
+These_DT three_CD tasks_NNS are_VBP often_RB solved_VBN separately_RB ._.
+In_IN this_DT paper_NN we_PRP present_VBP a_DT unified_JJ framework_NN to_TO group_NN incoming_JJ news_NN articles_NNS into_IN temporary_JJ but_CC tightly-focused_JJ storylines_NNS ,_, to_TO identify_VB prevalent_JJ topics_NNS and_CC key_JJ entities_NNS within_IN these_DT stories_NNS ,_, and_CC to_TO reveal_VB the_DT temporal_JJ structure_NN of_IN stories_NNS as_IN they_PRP evolve_VBP ._.
+We_PRP achieve_VBP this_DT by_IN building_VBG a_DT hybrid_NN clustering_NN and_CC topic_NN model_NN ._.
+To_TO deal_VB with_IN the_DT available_JJ wealth_NN of_IN data_NNS we_PRP build_VBP an_DT efficient_JJ parallel_JJ inference_NN algorithm_NN by_IN sequential_JJ Monte_NNP Carlo_NNP estimation_NN ._.
+Time_NN and_CC memory_NN costs_NNS are_VBP nearly_RB constant_JJ in_IN the_DT length_NN of_IN the_DT history_NN ,_, and_CC the_DT approach_NN scales_NNS to_TO hundreds_NNS of_IN thousands_NNS of_IN documents_NNS ._.
+We_PRP demonstrate_VBP the_DT efficiency_NN and_CC accuracy_NN on_IN the_DT publicly_RB available_JJ TDT_NN dataset_NN and_CC data_NNS of_IN a_DT major_JJ internet_NN news_NN site_NN ._.

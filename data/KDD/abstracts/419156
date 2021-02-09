@@ -1,0 +1,13 @@
+Towards_IN systematic_JJ design_NN of_IN distance_NN functions_NNS for_IN data_NN mining_NN applications_NNS
+Distance_NNP function_NN computation_NN is_VBZ a_DT key_JJ subtask_NN in_IN many_JJ data_NNS mining_NN algorithms_NNS and_CC applications_NNS ._.
+The_DT most_RBS effective_JJ form_NN of_IN the_DT distance_NN function_NN can_MD only_RB be_VB expressed_VBN in_IN the_DT context_NN of_IN a_DT particular_JJ data_NN domain_NN ._.
+It_PRP is_VBZ also_RB often_RB a_DT challenging_JJ and_CC non-trivial_JJ task_NN to_TO find_VB the_DT most_RBS effective_JJ form_NN of_IN the_DT distance_NN function_NN ._.
+For_IN example_NN ,_, in_IN the_DT text_NN domain_NN ,_, distance_NN function_NN design_NN has_VBZ been_VBN considered_VBN such_JJ an_DT important_JJ and_CC complex_JJ issue_NN that_IN it_PRP has_VBZ been_VBN the_DT focus_NN of_IN intensive_JJ research_NN over_IN three_CD decades_NNS ._.
+The_DT final_JJ design_NN of_IN distance_NN functions_NNS in_IN this_DT domain_NN has_VBZ been_VBN reached_VBN only_RB by_IN detailed_JJ empirical_JJ testing_NN and_CC consensus_NN over_IN the_DT quality_NN of_IN results_NNS provided_VBN by_IN the_DT different_JJ variations_NNS ._.
+With_IN the_DT increasing_VBG ability_NN to_TO collect_VB data_NNS in_IN an_DT automated_JJ way_NN ,_, the_DT number_NN of_IN new_JJ kinds_NNS of_IN data_NNS continues_VBZ to_TO increase_VB rapidly_RB ._.
+This_DT makes_VBZ it_PRP increasingly_RB difficult_JJ to_TO undertake_VB such_JJ efforts_NNS for_IN each_DT and_CC every_DT new_JJ data_NNS type_NN ._.
+The_DT most_RBS important_JJ aspect_NN of_IN distance_NN function_NN design_NN is_VBZ that_IN since_IN a_DT human_JJ is_VBZ the_DT end-user_NN for_IN any_DT application_NN ,_, the_DT design_NN must_MD satisfy_VB the_DT user_NN requirements_NNS with_IN regard_NN to_TO effectiveness_NN ._.
+This_DT creates_VBZ the_DT need_NN for_IN a_DT systematic_JJ framework_NN to_TO design_VB distance_NN functions_NNS which_WDT are_VBP sensitive_JJ to_TO the_DT particular_JJ characteristics_NNS of_IN the_DT data_NNS domain_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP discuss_VBP such_JJ a_DT framework_NN ._.
+The_DT goal_NN is_VBZ to_TO create_VB distance_NN functions_NNS in_IN an_DT automated_JJ waywhile_NN minimizing_VBG the_DT work_NN required_VBN from_IN the_DT user_NN ._.
+We_PRP will_MD show_VB that_IN this_DT framework_NN creates_VBZ distance_NN functions_NNS which_WDT are_VBP significantly_RB more_RBR effective_JJ than_IN popularly_RB used_VBN functions_NNS such_JJ as_IN the_DT Euclidean_JJ metric_NN ._.

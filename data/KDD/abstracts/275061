@@ -1,0 +1,8 @@
+Mining_NN knowledge-sharing_JJ sites_NNS for_IN viral_JJ marketing_NN
+Viral_JJ marketing_NN takes_VBZ advantage_NN of_IN networks_NNS of_IN influence_NN among_IN customers_NNS to_TO inexpensively_RB achieve_VB large_JJ changes_NNS in_IN behavior_NN ._.
+Our_PRP$ research_NN seeks_VBZ to_TO put_VB it_PRP on_IN a_DT firmer_JJR footing_NN by_IN mining_VBG these_DT networks_NNS from_IN data_NNS ,_, building_VBG probabilistic_JJ models_NNS of_IN them_PRP ,_, and_CC using_VBG these_DT models_NNS to_TO choose_VB the_DT best_JJS viral_JJ marketing_NN plan_NN ._.
+Knowledge-sharing_JJ sites_NNS ,_, where_WRB customers_NNS review_VBP products_NNS and_CC advise_VB each_DT other_JJ ,_, are_VBP a_DT fertile_JJ source_NN for_IN this_DT type_NN of_IN data_NNS mining_NN ._.
+In_IN this_DT paper_NN we_PRP extend_VBP our_PRP$ previous_JJ techniques_NNS ,_, achieving_VBG a_DT large_JJ reduction_NN in_IN computational_JJ cost_NN ,_, and_CC apply_VB them_PRP to_TO data_NNS from_IN a_DT knowledge-sharing_JJ site_NN ._.
+We_PRP optimize_VBP the_DT amount_NN of_IN marketing_NN funds_NNS spent_VBN on_IN each_DT customer_NN ,_, rather_RB than_IN just_RB making_VBG a_DT binary_JJ decision_NN on_IN whether_IN to_TO market_VB to_TO him_PRP ._.
+We_PRP take_VBP into_IN account_NN the_DT fact_NN that_IN knowledge_NN of_IN the_DT network_NN is_VBZ partial_JJ ,_, and_CC that_IN gathering_VBG that_DT knowledge_NN can_MD itself_PRP have_VB a_DT cost_NN ._.
+Our_PRP$ results_NNS show_VBP the_DT robustness_NN and_CC utility_NN of_IN our_PRP$ approach_NN ._.

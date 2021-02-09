@@ -1,0 +1,7 @@
+Bypass_JJ rates_NNS :_: reducing_VBG query_NN abandonment_NN using_VBG negative_JJ inferences_NNS
+We_PRP introduce_VBP a_DT new_JJ approach_NN to_TO analyzing_NN click_VB logs_NNS by_IN examining_VBG both_CC the_DT documents_NNS that_WDT are_VBP clicked_VBN and_CC those_DT that_WDT are_VBP bypassed-documents_NNS returned_VBD higher_RBR in_IN the_DT ordering_VBG of_IN the_DT search_NN results_NNS but_CC skipped_VBN by_IN the_DT user_NN ._.
+This_DT approach_NN complements_VBZ the_DT popular_JJ click-through_JJ rate_NN analysis_NN ,_, and_CC helps_VBZ to_TO draw_VB negative_JJ inferences_NNS in_IN the_DT click_VBP logs_NNS ._.
+We_PRP formulate_VBP a_DT natural_JJ objective_NN that_WDT finds_VBZ sets_NNS of_IN results_NNS that_WDT are_VBP unlikely_JJ to_TO be_VB collectively_RB bypassed_VBN by_IN a_DT typical_JJ user_NN ._.
+This_DT is_VBZ closely_RB related_JJ to_TO the_DT problem_NN of_IN reducing_VBG query_NN abandonment_NN ._.
+We_PRP analyze_VBP a_DT greedy_JJ approach_NN to_TO optimizing_VBG this_DT objective_NN ,_, and_CC establish_VB theoretical_JJ guarantees_NNS of_IN its_PRP$ performance_NN ._.
+We_PRP evaluate_VBP our_PRP$ approach_NN on_IN a_DT large_JJ set_NN of_IN queries_NNS ,_, and_CC demonstrate_VBP that_IN it_PRP compares_VBZ favorably_RB to_TO the_DT maximal_JJ marginal_JJ relevance_NN approach_NN on_IN a_DT number_NN of_IN metrics_NNS including_VBG mean_JJ average_JJ precision_NN and_CC mean_VB reciprocal_JJ rank_NN ._.

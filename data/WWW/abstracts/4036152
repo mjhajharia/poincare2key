@@ -1,0 +1,11 @@
+The_DT discoverability_NN of_IN the_DT web_NN
+Previous_JJ studies_NNS have_VBP highlighted_VBN the_DT high_JJ arrival_NN rate_NN of_IN new_JJ contenton_NN the_DT web_NN ._.
+We_PRP study_VBD the_DT extent_NN to_TO which_WDT this_DT new_JJ content_NN can_MD beefficiently_RB discovered_VBN by_IN a_DT crawler_NN ._.
+Our_PRP$ study_NN has_VBZ two_CD parts_NNS ._.
+First_RB ,_, we_PRP study_VBD the_DT inherent_JJ difficulty_NN of_IN the_DT discovery_NN problem_NN using_VBG amaximum_NN cover_NN formulation_NN ,_, under_IN an_DT assumption_NN of_IN perfect_JJ estimates_NNS oflikely_RB sources_NNS of_IN links_NNS to_TO new_JJ content_NN ._.
+Second_RB ,_, we_PRP relax_VBP thisassumption_NN and_CC study_VB a_DT more_RBR realistic_JJ setting_NN in_IN which_WDT algorithms_NNS mustuse_VBP historical_JJ statistics_NNS to_TO estimate_VB which_WDT pages_NNS are_VBP most_RBS likely_JJ toyield_NN links_NNS to_TO new_JJ content_NN ._.
+We_PRP recommend_VBP a_DT simple_JJ algorithm_NN thatperforms_NNS comparably_RB to_TO all_DT approaches_NNS we_PRP consider_VBP ._.
+We_PRP measure_VBP the_DT emphoverhead_NN of_IN discovering_VBG new_JJ content_NN ,_, defined_VBN asthe_JJ average_JJ number_NN of_IN fetches_VBZ required_VBN to_TO discover_VB one_CD new_JJ page_NN ._.
+Weshow_NNP first_RB that_IN with_IN perfect_JJ foreknowledge_NN of_IN where_WRB to_TO explore_VB forlinks_NNS to_TO new_JJ content_NN ,_, it_PRP is_VBZ possible_JJ to_TO discover_VB 90_CD %_NN of_IN all_DT newcontent_NN with_IN under_IN 3_CD %_NN overhead_NN ,_, and_CC 100_CD %_NN of_IN new_JJ content_NN with_IN 9_CD %_NN overhead_NN ._.
+But_CC actual_JJ algorithms_NNS ,_, which_WDT do_VBP not_RB have_VB access_NN to_TO perfectforeknowledge_NN ,_, face_VBP a_DT more_RBR difficult_JJ task_NN :_: one_CD quarter_NN of_IN new_JJ contentis_NN simply_RB not_RB amenable_JJ to_TO efficient_JJ discovery_NN ._.
+Of_IN the_DT remaining_VBG threequarters_NNS ,_, 80_CD %_NN of_IN new_JJ content_NN during_IN a_DT given_VBN week_NN may_MD be_VB discoveredwith_JJ 160_CD %_NN overhead_NN if_IN content_NN is_VBZ recrawled_VBN fully_RB on_IN a_DT monthly_JJ basis_NN ._.

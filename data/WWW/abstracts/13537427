@@ -1,0 +1,11 @@
+Search_VB result_NN re-ranking_NN based_VBN on_IN gap_NN between_IN search_NN queries_NNS and_CC social_JJ tags_NNS
+Both_CC search_NN engine_NN click-through_JJ log_NN and_CC social_JJ annotation_NN have_VBP been_VBN utilized_VBN as_IN user_NN feedback_NN for_IN search_NN result_NN re-ranking_NN ._.
+However_RB ,_, to_TO our_PRP$ best_JJS knowledge_NN ,_, no_DT previous_JJ study_NN has_VBZ explored_VBN the_DT correlation_NN between_IN these_DT two_CD factors_NNS for_IN the_DT task_NN of_IN search_NN result_NN ranking_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP show_VBP that_IN the_DT gap_NN between_IN search_NN queries_NNS and_CC social_JJ tags_NNS of_IN the_DT same_JJ Web_NN page_NN can_MD well_RB reflect_VB its_PRP$ user_NN preference_NN score_NN ._.
+Motivated_VBN by_IN this_DT observation_NN ,_, we_PRP propose_VBP a_DT novel_JJ algorithm_NN ,_, called_VBN Query-Tag-Gap_NNP -LRB-_-LRB- QTG_NNP -RRB-_-RRB- ,_, to_TO re-rank_JJ search_NN results_NNS for_IN better_JJR user_NN satisfaction_NN ._.
+Intuitively_RB ,_, on_IN one_CD hand_NN ,_, the_DT search_NN users_NNS '_POS intentions_NNS are_VBP generally_RB described_VBN by_IN their_PRP$ queries_NNS before_IN they_PRP read_VBP the_DT search_NN results_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, the_DT Web_NN annotators_NNS semantically_RB tag_VBP Web_NN pages_NNS after_IN they_PRP read_VBP the_DT content_NN of_IN the_DT pages_NNS ._.
+The_DT difference_NN between_IN users_NNS '_POS recognition_NN of_IN the_DT same_JJ page_NN before_IN and_CC after_IN they_PRP read_VBP it_PRP is_VBZ a_DT good_JJ reflection_NN of_IN user_NN satisfaction_NN ._.
+In_IN this_DT extended_JJ abstract_JJ ,_, we_PRP formally_RB define_VBP the_DT query_NN set_NN and_CC tag_NN set_NN of_IN the_DT same_JJ page_NN as_IN users_NNS '_POS pre_JJ -_: and_CC post_NN -_: knowledge_NN respectively_RB ._.
+We_PRP empirically_RB show_VBP the_DT strong_JJ correlation_NN between_IN user_NN satisfaction_NN and_CC user_NN 's_POS knowledge_NN gap_NN before_IN and_CC after_IN reading_VBG the_DT page_NN ._.
+Based_VBN on_IN this_DT gap_NN ,_, experiments_NNS have_VBP shown_VBN outstanding_JJ performance_NN of_IN our_PRP$ proposed_VBN QTG_NN algorithm_NN in_IN search_NN result_NN re-ranking_NN ._.

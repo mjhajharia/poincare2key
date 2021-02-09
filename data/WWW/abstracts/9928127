@@ -1,0 +1,6 @@
+Search_VB engines_NNS and_CC their_PRP$ public_JJ interfaces_NNS :_: which_WDT apis_NNS are_VBP the_DT most_RBS synchronized_VBN ?_.
+Researchers_NNS of_IN commercial_JJ search_NN engines_NNS often_RB collect_VBP datausing_VBG the_DT application_NN programming_NN interface_NN -LRB-_-LRB- API_NN -RRB-_-RRB- or_CC by_IN ``_`` scraping_VBG ''_'' results_NNS from_IN the_DT web_NN user_NN interface_NN -LRB-_-LRB- WUI_NN -RRB-_-RRB- ,_, butanecdotal_JJ evidence_NN suggests_VBZ the_DT interfaces_NNS produce_VBP differentresults_NNS ._.
+We_PRP provide_VBP the_DT first_JJ in-depth_JJ quantitative_JJ analysisof_NN the_DT results_NNS produced_VBN by_IN the_DT Google_NNP ,_, MSN_NNP and_CC Yahoo_NNP APIand_NNP WUI_NNP interfaces_NNS ._.
+After_IN submitting_VBG a_DT variety_NN of_IN queriesto_NN the_DT interfaces_NNS for_IN 5_CD months_NNS ,_, we_PRP found_VBD significant_JJ discrepanciesin_NN several_JJ categories_NNS ._.
+Our_PRP$ findings_NNS suggest_VBP that_IN theAPI_NN indexes_NNS are_VBP not_RB older_JJR ,_, but_CC they_PRP are_VBP probably_RB smaller_JJR for_IN Google_NNP and_CC Yahoo_NNP ._.
+Researchers_NNS may_MD use_VB our_PRP$ findings_NNS tobetter_RB understand_VBP the_DT differences_NNS between_IN the_DT interfaces_NNS andchoose_VBP the_DT best_JJS API_NN for_IN their_PRP$ particular_JJ types_NNS of_IN queries_NNS ._.

@@ -1,0 +1,12 @@
+Collaborative_JJ filtering_VBG for_IN orkut_NN communities_NNS :_: discovery_NN of_IN user_NN latent_JJ behavior_NN
+Users_NNS of_IN social_JJ networking_NN services_NNS can_MD connect_VB with_IN each_DT other_JJ by_IN forming_VBG communities_NNS for_IN online_JJ interaction_NN ._.
+Yet_RB as_IN the_DT number_NN of_IN communities_NNS hosted_VBN by_IN such_JJ websites_NNS grows_VBZ over_IN time_NN ,_, users_NNS have_VBP even_RB greater_JJR need_NN for_IN effective_JJ community_NN recommendations_NNS in_IN order_NN to_TO meet_VB more_JJR users_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP investigate_VBP two_CD algorithms_NNS from_IN very_RB different_JJ domains_NNS and_CC evaluate_VB their_PRP$ effectiveness_NN for_IN personalized_JJ community_NN recommendation_NN ._.
+First_NNP is_VBZ association_NN rule_NN mining_NN -LRB-_-LRB- ARM_NN -RRB-_-RRB- ,_, which_WDT discovers_VBZ associations_NNS between_IN sets_NNS of_IN communities_NNS that_WDT are_VBP shared_VBN across_IN many_JJ users_NNS ._.
+Second_NNP is_VBZ latent_JJ Dirichlet_NNP allocation_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- ,_, which_WDT models_NNS user-community_NN co-occurrences_NNS using_VBG latent_JJ aspects_NNS ._.
+In_IN comparing_VBG LDA_NN with_IN ARM_NN ,_, we_PRP are_VBP interested_JJ in_IN discovering_VBG whether_IN modeling_NN low-rank_JJ latent_JJ structure_NN is_VBZ more_RBR effective_JJ for_IN recommendations_NNS than_IN directly_RB mining_VBG rules_NNS from_IN the_DT observed_VBN data_NNS ._.
+We_PRP experiment_NN on_IN an_DT Orkut_NNP data_NN set_NN consisting_VBG of_IN 492,104_CD users_NNS and_CC 118,002_CD communities_NNS ._.
+Our_PRP$ empirical_JJ comparisons_NNS using_VBG the_DT top-k_JJ recommendations_NNS metric_NN show_VBP that_IN LDA_NN performs_VBZ consistently_RB better_JJR than_IN ARM_NN for_IN the_DT community_NN recommendation_NN task_NN when_WRB recommending_VBG a_DT list_NN of_IN 4_CD or_CC more_JJR communities_NNS ._.
+However_RB ,_, for_IN recommendation_NN lists_NNS of_IN up_IN to_TO 3_CD communities_NNS ,_, ARM_NN is_VBZ still_RB a_DT bit_NN better_RBR ._.
+We_PRP analyze_VBP examples_NNS of_IN the_DT latent_JJ information_NN learned_VBN by_IN LDA_NN to_TO explain_VB this_DT finding_NN ._.
+To_TO efficiently_RB handle_VB the_DT large-scale_JJ data_NN set_NN ,_, we_PRP parallelize_VBP LDA_NN on_IN distributed_VBN computers_NNS and_CC demonstrate_VBP our_PRP$ parallel_JJ implementation_NN 's_POS scalability_NN with_IN varying_VBG numbers_NNS of_IN machines_NNS ._.

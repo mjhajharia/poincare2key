@@ -1,0 +1,11 @@
+Correlation_NN search_NN in_IN graph_NN databases_NNS
+Correlation_NN mining_NN has_VBZ gained_VBN great_JJ success_NN in_IN many_JJ application_NN domains_NNS for_IN its_PRP$ ability_NN to_TO capture_VB the_DT underlying_JJ dependency_NN between_IN objects_NNS ._.
+However_RB ,_, the_DT research_NN of_IN correlation_NN mining_NN from_IN graph_NN databases_NNS is_VBZ still_RB lacking_VBG despite_IN the_DT fact_NN that_IN graph_NN data_NNS ,_, especially_RB in_IN various_JJ scientific_JJ domains_NNS ,_, proliferate_VBP in_IN recent_JJ years_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ problem_NN of_IN correlation_NN mining_NN from_IN graph_NN databases_NNS ,_, called_VBN Correlated_JJ Graph_NN Search_VB -LRB-_-LRB- CGS_NN -RRB-_-RRB- ._.
+CGS_NNP adopts_VBZ Pearson_NNP 's_POS correlation_NN coefficient_NN as_IN a_DT correlation_NN measure_NN to_TO take_VB into_IN consideration_NN the_DT occurrence_NN distributions_NNS of_IN graphs_NNS ._.
+However_RB ,_, the_DT problem_NN poses_VBZ significant_JJ challenges_NNS ,_, since_IN every_DT subgraph_NN of_IN a_DT graph_NN in_IN the_DT database_NN is_VBZ a_DT candidate_NN but_CC the_DT number_NN of_IN subgraphs_NNS is_VBZ exponential_JJ ._.
+We_PRP derive_VBP two_CD necessary_JJ conditions_NNS which_WDT set_VBP bounds_NNS on_IN the_DT occurrence_NN probability_NN of_IN a_DT candidate_NN in_IN the_DT database_NN ._.
+With_IN this_DT result_NN ,_, we_PRP design_VBP an_DT efficient_JJ algorithm_NN that_WDT operates_VBZ on_IN a_DT much_RB smaller_JJR projected_JJ database_NN and_CC thus_RB we_PRP are_VBP able_JJ to_TO obtain_VB a_DT significantly_RB smaller_JJR set_NN of_IN candidates_NNS ._.
+To_TO further_RB improve_VB the_DT efficiency_NN ,_, we_PRP develop_VBP three_CD heuristic_NN rules_NNS and_CC apply_VB them_PRP on_IN the_DT candidate_NN set_VBN to_TO further_RB reduce_VB the_DT search_NN space_NN ._.
+Our_PRP$ extensive_JJ experiments_NNS demonstrate_VBP the_DT effectiveness_NN of_IN our_PRP$ method_NN on_IN candidate_NN reduction_NN ._.
+The_DT results_NNS also_RB justify_VBP the_DT efficiency_NN of_IN our_PRP$ algorithm_NN in_IN mining_NN correlations_NNS from_IN large_JJ real_JJ and_CC synthetic_JJ datasets_NNS ._.

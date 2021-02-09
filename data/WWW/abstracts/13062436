@@ -1,0 +1,8 @@
+Buy-it-now_NN or_CC take-a-chance_NN :_: a_DT simple_JJ sequential_JJ screening_NN mechanism_NN
+We_PRP present_VBP a_DT simple_JJ auction_NN mechanism_NN which_WDT extends_VBZ the_DT second-price_JJ auction_NN with_IN reserve_NN and_CC is_VBZ truthful_JJ in_IN expectation_NN ._.
+This_DT mechanism_NN is_VBZ particularly_RB effective_JJ in_IN private_JJ value_NN environments_NNS where_WRB the_DT distribution_NN of_IN valuations_NNS are_VBP irregular_JJ ._.
+Bidders_NNS can_MD ``_`` buy-it-now_NN ''_'' ,_, or_CC alternatively_RB ``_`` take-a-chance_NN ''_'' where_WRB the_DT top_JJ d_NN bidders_NNS are_VBP equally_RB likely_JJ to_TO win_VB ._.
+The_DT randomized_VBN take-a-chance_NN allocation_NN incentivizes_VBZ high_JJ valuation_NN bidders_NNS to_TO buy-it-now_NN ._.
+We_PRP show_VBP that_IN for_IN a_DT large_JJ class_NN of_IN valuations_NNS ,_, this_DT mechanism_NN achieves_VBZ similar_JJ allocations_NNS and_CC revenues_NNS as_IN Myerson_NNP 's_POS optimal_JJ mechanism_NN ,_, and_CC outperforms_VBZ the_DT second-price_JJ auction_NN with_IN reserve_NN ._.
+In_IN addition_NN ,_, we_PRP present_VBP an_DT evaluation_NN of_IN bid_NN data_NNS from_IN Microsoft_NNP 's_POS AdECN_NNP platform_NN ._.
+We_PRP find_VBP the_DT valuations_NNS are_VBP irregular_JJ ,_, and_CC counterfactual_JJ experiments_NNS suggest_VBP our_PRP$ BIN-TAC_NN mechanism_NN would_MD improve_VB revenue_NN by_IN 11_CD %_NN relative_JJ to_TO an_DT optimal_JJ second-price_JJ mechanism_NN with_IN reserve_NN ._.

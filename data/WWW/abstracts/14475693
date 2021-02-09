@@ -1,0 +1,10 @@
+Understanding_VBG task-driven_JJ information_NN flow_NN in_IN collaborative_JJ networks_NNS
+Collaborative_JJ networks_NNS are_VBP a_DT special_JJ type_NN of_IN social_JJ network_NN formed_VBN by_IN members_NNS who_WP collectively_RB achieve_VBP specific_JJ goals_NNS ,_, such_JJ as_IN fixing_VBG software_NN bugs_NNS and_CC resolving_VBG customers_NNS '_POS problems_NNS ._.
+In_IN such_JJ networks_NNS ,_, information_NN flow_NN among_IN members_NNS is_VBZ driven_VBN by_IN the_DT tasks_NNS assigned_VBN to_TO the_DT network_NN ,_, and_CC by_IN the_DT expertise_NN of_IN its_PRP$ members_NNS to_TO complete_VB those_DT tasks_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP analyze_VBP real-life_JJ collaborative_JJ networks_NNS to_TO understand_VB their_PRP$ common_JJ characteristics_NNS and_CC how_WRB information_NN is_VBZ routed_VBN in_IN these_DT networks_NNS ._.
+Our_PRP$ study_NN shows_VBZ that_IN collaborative_JJ networks_NNS exhibit_VBP significantly_RB different_JJ properties_NNS compared_VBN with_IN other_JJ complex_JJ networks_NNS ._.
+Collaborative_JJ networks_NNS have_VBP truncated_VBN power-law_NN node_NN degree_NN distributions_NNS and_CC other_JJ organizational_JJ constraints_NNS ._.
+Furthermore_RB ,_, the_DT number_NN of_IN steps_NNS along_IN which_WDT information_NN is_VBZ routed_VBN follows_VBZ a_DT truncated_VBN power-law_NN distribution_NN ._.
+Based_VBN on_IN these_DT observations_NNS ,_, we_PRP developed_VBD a_DT network_NN model_NN that_WDT can_MD generate_VB synthetic_JJ collaborative_JJ networks_NNS subject_JJ to_TO certain_JJ structure_NN constraints_NNS ._.
+Moreover_RB ,_, we_PRP developed_VBD a_DT routing_VBG model_NN that_WDT emulates_VBZ task-driven_JJ information_NN routing_VBG conducted_VBN by_IN human_JJ beings_NNS in_IN a_DT collaborative_JJ network_NN ._.
+Together_RB ,_, these_DT two_CD models_NNS can_MD be_VB used_VBN to_TO study_VB the_DT efficiency_NN of_IN information_NN routing_VBG for_IN different_JJ types_NNS of_IN collaborative_JJ networks_NNS --_: a_DT problem_NN that_WDT is_VBZ important_JJ in_IN practice_NN yet_RB difficult_JJ to_TO solve_VB without_IN the_DT method_NN proposed_VBN in_IN this_DT paper_NN ._.

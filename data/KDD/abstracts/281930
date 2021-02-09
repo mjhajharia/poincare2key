@@ -1,0 +1,6 @@
+Mining_NNP distance-based_JJ outliers_NNS in_IN near_JJ linear_JJ time_NN with_IN randomization_NN and_CC a_DT simple_JJ pruning_NN rule_NN
+Defining_VBG outliers_NNS by_IN their_PRP$ distance_NN to_TO neighboring_JJ examples_NNS is_VBZ a_DT popular_JJ approach_NN to_TO finding_VBG unusual_JJ examples_NNS in_IN a_DT data_NN set_NN ._.
+Recently_RB ,_, much_JJ work_NN has_VBZ been_VBN conducted_VBN with_IN the_DT goal_NN of_IN finding_VBG fast_JJ algorithms_NNS for_IN this_DT task_NN ._.
+We_PRP show_VBP that_IN a_DT simple_JJ nested_JJ loop_NN algorithm_NN that_IN in_IN the_DT worst_JJS case_NN is_VBZ quadratic_JJ can_MD give_VB near_IN linear_JJ time_NN performance_NN when_WRB the_DT data_NN is_VBZ in_IN random_JJ order_NN and_CC a_DT simple_JJ pruning_NN rule_NN is_VBZ used_VBN ._.
+We_PRP test_VBP our_PRP$ algorithm_NN on_IN real_JJ high-dimensional_JJ data_NNS sets_NNS with_IN millions_NNS of_IN examples_NNS and_CC show_VBP that_IN the_DT near_JJ linear_JJ scaling_NN holds_VBZ over_IN several_JJ orders_NNS of_IN magnitude_NN ._.
+Our_PRP$ average_JJ case_NN analysis_NN suggests_VBZ that_IN much_JJ of_IN the_DT efficiency_NN is_VBZ because_IN the_DT time_NN to_TO process_NN non-outliers_NNS ,_, which_WDT are_VBP the_DT majority_NN of_IN examples_NNS ,_, does_VBZ not_RB depend_VB on_IN the_DT size_NN of_IN the_DT data_NNS set_NN ._.

@@ -1,0 +1,11 @@
+Recommending_VBG questions_NNS using_VBG the_DT mdl-based_JJ tree_NN cut_NN model_NN
+The_DT paper_NN is_VBZ concerned_VBN with_IN the_DT problem_NN of_IN question_NN recommendation_NN ._.
+Specifically_RB ,_, given_VBN a_DT question_NN as_IN query_NN ,_, we_PRP are_VBP to_TO retrieve_VB and_CC rank_VB other_JJ questions_NNS according_VBG to_TO their_PRP$ likelihood_NN of_IN being_VBG good_JJ recommendations_NNS of_IN the_DT queried_VBN question_NN ._.
+A_DT good_JJ recommendation_NN provides_VBZ alternative_JJ aspects_NNS around_IN users_NNS '_POS interest_NN ._.
+We_PRP tackle_VBP the_DT problem_NN of_IN question_NN recommendation_NN in_IN two_CD steps_NNS :_: first_RB represent_VB questions_NNS as_IN graphs_NNS of_IN topic_NN terms_NNS ,_, and_CC then_RB rank_VB recommendations_NNS on_IN the_DT basis_NN of_IN the_DT graphs_NNS ._.
+We_PRP formalize_VBP both_DT steps_NNS as_IN the_DT tree-cutting_JJ problems_NNS and_CC then_RB employ_VB the_DT MDL_NNP -LRB-_-LRB- Minimum_NNP Description_NN Length_NN -RRB-_-RRB- for_IN selecting_VBG the_DT best_JJS cuts_NNS ._.
+Experiments_NNS have_VBP been_VBN conducted_VBN with_IN the_DT real_JJ questions_NNS posted_VBD at_IN Yahoo_NNP !_.
+Answers_NNS ._.
+The_DT questions_NNS are_VBP about_IN two_CD domains_NNS ,_, `_`` travel_VB '_'' and_CC `_`` computers_NNS &_CC internet_NN '_'' ._.
+Experimental_JJ results_NNS indicate_VBP that_IN the_DT use_NN of_IN the_DT MDL-based_JJ tree_NN cut_NN model_NN can_MD significantly_RB outperform_VB the_DT baseline_NN methods_NNS of_IN word-based_JJ VSM_NN or_CC phrase-based_JJ VSM_NN ._.
+The_DT results_NNS also_RB show_VBP that_IN the_DT use_NN of_IN the_DT MDL-based_JJ tree_NN cut_NN model_NN is_VBZ essential_JJ to_TO our_PRP$ approach_NN ._.

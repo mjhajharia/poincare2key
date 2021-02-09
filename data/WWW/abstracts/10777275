@@ -1,0 +1,6 @@
+Implementing_VBG the_DT media_NNS fragments_NNS URI_NNP specification_NN
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP two_CD examples_NNS of_IN implementations_NNS of_IN the_DT Media_NNP Fragments_NNP URI_NNP specification_NN which_WDT is_VBZ currently_RB being_VBG developed_VBN by_IN the_DT W3C_NN Media_NNP Fragments_NNP Working_NNP Group_NNP ._.
+The_DT group_NN 's_POS mission_NN is_VBZ to_TO create_VB standard_JJ addressing_VBG schemes_NNS for_IN media_NNS fragments_NNS on_IN the_DT Web_NN using_VBG Uniform_NNP Resource_NNP Identifiers_NNP -LRB-_-LRB- URIs_NNS -RRB-_-RRB- ._.
+We_PRP describe_VBP two_CD scenarios_NNS to_TO illustrate_VB the_DT implementations_NNS ._.
+More_RBR specifically_RB ,_, we_PRP show_VBP how_WRB User_NN Agents_NNS -LRB-_-LRB- UA_NN -RRB-_-RRB- will_MD either_RB be_VB able_JJ to_TO resolve_VB media_NNS fragment_NN URIs_NNS without_IN help_NN from_IN the_DT server_NN ,_, or_CC will_MD make_VB use_NN of_IN a_DT media_NNS fragments-aware_NN server_NN ._.
+Finally_RB ,_, we_PRP present_VBP some_DT ongoing_JJ discussions_NNS and_CC issues_NNS regarding_VBG the_DT implementation_NN of_IN the_DT Media_NNP Fragments_NNP specification_NN ._.

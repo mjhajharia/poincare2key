@@ -1,0 +1,8 @@
+Expertise_NN modeling_NN for_IN matching_VBG papers_NNS with_IN reviewers_NNS
+An_DT essential_JJ part_NN of_IN an_DT expert-finding_JJ task_NN ,_, such_JJ as_IN matching_VBG reviewers_NNS to_TO submitted_VBN papers_NNS ,_, is_VBZ the_DT ability_NN to_TO model_VB the_DT expertise_NN of_IN a_DT person_NN based_VBN on_IN documents_NNS ._.
+We_PRP evaluate_VBP several_JJ measures_NNS of_IN the_DT association_NN between_IN an_DT author_NN in_IN an_DT existing_VBG collection_NN of_IN research_NN papers_NNS and_CC a_DT previously_RB unseen_JJ document_NN ._.
+We_PRP compare_VBP two_CD language_NN model_NN based_VBN approaches_NNS with_IN a_DT novel_JJ topic_NN model_NN ,_, Author-Persona-Topic_NNP -LRB-_-LRB- APT_NNP -RRB-_-RRB- ._.
+In_IN this_DT model_NN ,_, each_DT author_NN can_MD write_VB under_IN one_CD or_CC more_JJR ``_`` personas_NNS ,_, ''_'' which_WDT are_VBP represented_VBN as_IN independent_JJ distributions_NNS over_IN hidden_JJ topics_NNS ._.
+Examples_NNS of_IN previous_JJ papers_NNS written_VBN by_IN prospective_JJ reviewers_NNS are_VBP gathered_VBN from_IN the_DT Rexa_NNP database_NN ,_, which_WDT extracts_VBZ and_CC disambiguates_VBZ author_NN mentions_VBZ from_IN documents_NNS gathered_VBN from_IN the_DT web_NN ._.
+We_PRP evaluate_VBP the_DT models_NNS using_VBG a_DT reviewer_NN matching_NN task_NN based_VBN on_IN human_JJ relevance_NN judgments_NNS determining_VBG how_WRB well_RB the_DT expertise_NN of_IN proposed_VBN reviewers_NNS matches_VBZ a_DT submission_NN ._.
+We_PRP find_VBP that_IN the_DT APT_NNP topic_NN model_NN outperforms_VBZ the_DT other_JJ models_NNS ._.

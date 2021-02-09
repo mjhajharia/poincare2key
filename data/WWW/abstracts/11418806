@@ -1,0 +1,5 @@
+Inferring_VBG query_NN intent_NN from_IN reformulations_NNS and_CC clicks_NNS
+Many_JJ researchers_NNS have_VBP noted_VBN that_IN web_NN search_NN queries_NNS are_VBP often_RB ambiguous_JJ or_CC unclear_JJ ._.
+We_PRP present_VBP an_DT approach_NN for_IN identifying_VBG the_DT popular_JJ meanings_NNS of_IN queries_NNS using_VBG web_NN search_NN logs_NNS and_CC user_NN click_VBP behavior_NN ._.
+We_PRP show_VBP our_PRP$ approach_NN to_TO produce_VB more_RBR complete_JJ and_CC user-centric_JJ intents_NNS than_IN expert_JJ judges_NNS by_IN evaluating_VBG on_IN TREC_NN queries_NNS ._.
+This_DT approach_NN was_VBD also_RB used_VBN by_IN the_DT TREC_NN 2009_CD Web_NN Track_NNP judges_NNS to_TO obtain_VB more_RBR representative_JJ topic_NN descriptions_NNS from_IN real_JJ queries_NNS ._.

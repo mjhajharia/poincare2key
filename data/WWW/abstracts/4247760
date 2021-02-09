@@ -1,0 +1,7 @@
+Consistency-preserving_JJ caching_NN of_IN dynamic_JJ database_NN content_NN
+With_IN the_DT growing_VBG use_NN of_IN dynamic_JJ web_NN content_NN generated_VBN from_IN relational_JJ databases_NNS ,_, traditional_JJ caching_NN solutions_NNS for_IN through_IN put_NN and_CC latency_NN improvements_NNS are_VBP ineffective_JJ ._.
+We_PRP describe_VBP a_DT middleware_JJ layer_NN called_VBN Ganesh_NNP that_WDT reduces_VBZ the_DT volume_NN of_IN data_NNS transmitted_VBN without_IN semantic_JJ interpretation_NN of_IN queries_NNS or_CC results_NNS ._.
+It_PRP achieves_VBZ this_DT reduction_NN through_IN the_DT use_NN of_IN cryptographic_JJ hashing_VBG to_TO detect_VB similarities_NNS with_IN previous_JJ results_NNS ._.
+These_DT benefits_NNS do_VBP not_RB require_VB any_DT compromise_NN of_IN the_DT strict_JJ consistency_NN semantics_NNS provided_VBN by_IN the_DT back-end_JJ database_NN ._.
+Further_RB ,_, Ganesh_NNP does_VBZ not_RB require_VB modifications_NNS to_TO applications_NNS ,_, web_NN servers_NNS ,_, or_CC database_NN servers_NNS ,_, and_CC works_VBZ with_IN closed-source_JJ applications_NNS and_CC databases_NNS ._.
+Using_VBG two_CD bench_NN marks_NNS representative_NN of_IN dynamic_JJ web_NN sites_NNS ,_, measurements_NNS of_IN our_PRP$ prototype_NN show_VBP that_IN it_PRP can_MD increase_VB end-to-end_JJ throughput_NN by_IN as_RB much_JJ as_IN two_CD fold_NN for_IN non-data_JJ intensive_JJ applications_NNS and_CC by_IN as_RB much_JJ as_IN ten_CD fold_NN for_IN dataintensive_JJ ones_NNS ._.

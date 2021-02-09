@@ -1,0 +1,11 @@
+Sampling-based_JJ sequential_JJ subgroup_NN mining_NN
+Subgroup_NN discovery_NN is_VBZ a_DT learning_VBG task_NN that_IN aims_NNS at_IN finding_VBG interesting_JJ rules_NNS from_IN classified_JJ examples_NNS ._.
+The_DT search_NN is_VBZ guided_VBN by_IN a_DT utility_NN function_NN ,_, trading_VBG off_RP the_DT coverage_NN of_IN rules_NNS against_IN their_PRP$ statistical_JJ unusualness_NN ._.
+One_CD shortcoming_NN of_IN existing_VBG approaches_NNS is_VBZ that_IN they_PRP do_VBP not_RB incorporate_VB prior_JJ knowledge_NN ._.
+To_TO this_DT end_NN a_DT novel_JJ generic_JJ sampling_NN strategy_NN is_VBZ proposed_VBN ._.
+It_PRP allows_VBZ to_TO turn_VB pattern_NN mining_NN into_IN an_DT iterative_JJ process_NN ._.
+In_IN each_DT iteration_NN the_DT focus_NN of_IN subgroup_NN discovery_NN lies_VBZ on_IN those_DT patterns_NNS that_WDT are_VBP unexpected_JJ with_IN respect_NN to_TO prior_JJ knowledge_NN and_CC previously_RB discovered_VBN patterns_NNS ._.
+The_DT result_NN of_IN this_DT technique_NN is_VBZ a_DT small_JJ diverse_JJ set_NN of_IN understandable_JJ rules_NNS that_WDT characterise_VBP a_DT specified_JJ property_NN of_IN interest_NN ._.
+As_IN another_DT contribution_NN this_DT article_NN derives_VBZ a_DT simple_JJ connection_NN between_IN subgroup_NN discovery_NN and_CC classifier_NN induction_NN ._.
+For_IN a_DT popular_JJ utility_NN function_NN this_DT connection_NN allows_VBZ to_TO apply_VB any_DT standard_JJ rule_NN induction_NN algorithm_NN to_TO the_DT task_NN of_IN subgroup_NN discovery_NN after_IN a_DT step_NN of_IN stratified_JJ resampling_NN ._.
+The_DT proposed_VBN techniques_NNS are_VBP empirically_RB compared_VBN to_TO state_NN of_IN the_DT art_NN subgroup_NN discovery_NN algorithms_NNS ._.

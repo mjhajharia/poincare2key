@@ -1,0 +1,11 @@
+Multi-objective_JJ ranking_NN of_IN comments_NNS on_IN web_NN
+With_IN the_DT explosion_NN of_IN information_NN on_IN any_DT topic_NN ,_, the_DT need_NN for_IN ranking_NN is_VBZ becoming_VBG very_RB critical_JJ ._.
+Ranking_NN typically_RB depends_VBZ on_IN several_JJ aspects_NNS ._.
+Products_NNP ,_, for_IN example_NN ,_, have_VBP several_JJ aspects_NNS like_IN price_NN ,_, recency_NN ,_, rating_NN ,_, etc._NN ._.
+Product_NN ranking_NN has_VBZ to_TO bring_VB the_DT ``_`` best_JJS ''_'' product_NN which_WDT is_VBZ recent_JJ and_CC highly_RB rated_VBN ._.
+Hence_RB ranking_NN has_VBZ to_TO satisfy_VB multiple_JJ objectives_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP explore_VBP multi-objective_JJ ranking_NN of_IN comments_NNS using_VBG Hodge_NNP decomposition_NN ._.
+While_IN Hodge_NN decomposition_NN produces_VBZ a_DT globally_RB consistent_JJ ranking_NN ,_, a_DT globally_RB inconsistent_JJ component_NN is_VBZ also_RB present_JJ ._.
+We_PRP propose_VBP an_DT active_JJ learning_NN strategy_NN for_IN the_DT reduction_NN of_IN this_DT component_NN ._.
+Finally_RB ,_, we_PRP develop_VBP techniques_NNS for_IN online_JJ Hodge_NNP decomposition_NN ._.
+We_PRP experimentally_RB validate_VBP the_DT ideas_NNS presented_VBN in_IN this_DT paper_NN ._.

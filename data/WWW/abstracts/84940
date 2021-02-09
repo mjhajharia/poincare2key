@@ -1,0 +1,6 @@
+The_DT webgraph_JJ framework_NN I_NN :_: compression_NN techniques_NNS
+Studying_VBG web_NN graphs_NNS is_VBZ often_RB difficult_JJ due_JJ to_TO their_PRP$ large_JJ size_NN ._.
+Recently_RB ,_, several_JJ proposals_NNS have_VBP been_VBN published_VBN about_IN various_JJ techniques_NNS that_WDT allow_VBP tostore_VB a_DT web_NN graph_NN in_IN memory_NN in_IN a_DT limited_JJ space_NN ,_, exploiting_VBG the_DT inner_JJ redundancies_NNS of_IN the_DT web_NN ._.
+The_DT WebGraph_NNP framework_NN is_VBZ a_DT suite_NN of_IN codes_NNS ,_, algorithms_NNS and_CC tools_NNS that_WDT aims_VBZ at_IN making_VBG it_PRP easy_JJ to_TO manipulate_VB large_JJ web_NN graphs_NNS ._.
+This_DT papers_NNS presents_VBZ the_DT compression_NN techniques_NNS used_VBN in_IN WebGraph_NNP ,_, which_WDT are_VBP centred_VBN around_IN referentiation_NN and_CC intervalisation_NN -LRB-_-LRB- which_WDT in_IN turn_NN are_VBP dual_JJ to_TO each_DT other_JJ -RRB-_-RRB- ._.
+WebGraph_NNP can_MD compress_VB the_DT WebBase_NNP graph_NN -LRB-_-LRB- 118_CD Mnodes_NNS ,_, 1_CD Glinks_NNS -RRB-_-RRB- in_IN as_RB little_JJ as_IN 3.08_CD bits_NNS per_IN link_NN ,_, and_CC its_PRP$ transposed_VBN version_NN in_IN as_IN littleas_NNS 2.89_CD bits_NNS per_IN link_NN ._.

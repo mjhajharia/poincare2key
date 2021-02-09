@@ -1,0 +1,7 @@
+Exploiting_VBG content_NN redundancy_NN for_IN web_NN information_NN extraction_NN
+We_PRP propose_VBP a_DT novel_JJ extraction_NN approach_NN that_WDT exploits_VBZ content_NN redundancy_NN on_IN the_DT web_NN to_TO extract_VB structured_JJ data_NNS from_IN template-based_JJ web_NN sites_NNS ._.
+We_PRP start_VBP by_IN populating_VBG a_DT seed_NN database_NN with_IN records_NNS extracted_VBN from_IN a_DT few_JJ initial_JJ sites_NNS ._.
+We_PRP then_RB identify_VBP values_NNS within_IN the_DT pages_NNS of_IN each_DT new_JJ site_NN that_WDT match_VBP attribute_NN values_NNS contained_VBN in_IN the_DT seed_NN set_NN of_IN records_NNS ._.
+To_TO filter_NN out_RP noisy_JJ attribute_NN value_NN matches_NNS ,_, we_PRP exploit_VBP the_DT fact_NN that_IN attribute_NN values_NNS occur_VBP at_IN fixed_JJ positions_NNS within_IN template-based_JJ sites_NNS ._.
+We_PRP develop_VBP an_DT efficient_JJ Apriori-style_JJ algorithm_NN to_TO systematically_RB enumerate_VB attribute_NN position_NN configurations_NNS with_IN sufficient_JJ matching_NN values_NNS across_IN pages_NNS ._.
+Finally_RB ,_, we_PRP conduct_VBP an_DT extensive_JJ experimental_JJ study_NN with_IN real-life_JJ web_NN data_NNS to_TO demonstrate_VB the_DT effectiveness_NN of_IN our_PRP$ extraction_NN approach_NN ._.

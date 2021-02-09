@@ -1,0 +1,5 @@
+Unparsing_JJ RDF\/XML_NN
+It_PRP is_VBZ difficult_JJ to_TO serialize_VB an_DT RDF_NN graph_NN as_IN a_DT humanly_RB readable_JJ RDF\/XML_NN document_NN ._.
+This_DT paper_NN describes_VBZ the_DT approach_NN taken_VBN in_IN Jena_NNP 1.2_CD ,_, in_IN which_WDT a_DT design_NN pattern_NN of_IN guarded_VBN procedures_NNS invoked_VBD using_VBG top_NN down_IN recursive_JJ descent_NN is_VBZ used_VBN ._.
+Each_DT procedure_NN corresponds_VBZ to_TO a_DT grammar_NN rule_NN ;_: the_DT guard_NN makes_VBZ the_DT choice_NN about_IN the_DT applicability_NN of_IN the_DT production_NN ._.
+This_DT approach_NN is_VBZ seen_VBN to_TO correspond_VB closely_RB to_TO the_DT design_NN of_IN an_DT LL_NN -LRB-_-LRB- k_NN -RRB-_-RRB- parser_NN ,_, and_CC a_DT theoretical_JJ justification_NN of_IN this_DT correspondence_NN is_VBZ found_VBN in_IN universal_JJ algebra_NN ._.

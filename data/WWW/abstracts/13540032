@@ -1,0 +1,13 @@
+Community_NN gravity_NN :_: measuring_VBG bidirectional_JJ effects_NNS by_IN trust_NN and_CC rating_NN on_IN online_JJ social_JJ networks_NNS
+Several_JJ attempts_NNS have_VBP been_VBN made_VBN to_TO analyze_VB customer_NN behavior_NN on_IN online_NN E-commerce_NN sites_NNS ._.
+Some_DT studies_NNS particularly_RB emphasize_VBP the_DT social_JJ networks_NNS of_IN customers_NNS ._.
+Users_NNS '_POS reviews_NNS and_CC ratings_NNS of_IN a_DT product_NN exert_VBD effects_NNS on_IN other_JJ consumers_NNS '_POS purchasing_NN behavior_NN ._.
+Whether_IN a_DT user_NN refers_VBZ to_TO other_JJ users_NNS '_POS ratings_NNS depends_VBZ on_IN the_DT trust_NN accorded_VBN by_IN a_DT user_NN to_TO the_DT reviewer_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, the_DT trust_NN that_WDT is_VBZ felt_VBN by_IN a_DT user_NN for_IN another_DT user_NN correlates_VBZ with_IN the_DT similarity_NN of_IN two_CD users_NNS '_POS ratings_NNS ._.
+This_DT bidirectional_JJ interaction_NN that_WDT involves_VBZ trust_NN and_CC rating_NN is_VBZ an_DT important_JJ aspect_NN of_IN understanding_VBG consumer_NN behavior_NN in_IN online_JJ communities_NNS because_IN it_PRP suggests_VBZ clustering_NN of_IN similar_JJ users_NNS and_CC the_DT evolution_NN of_IN strong_JJ communities_NNS ._.
+This_DT paper_NN presents_VBZ a_DT theoretical_JJ model_NN along_IN with_IN analyses_NNS of_IN an_DT actual_JJ online_NN E-commerce_NN site_NN ._.
+We_PRP analyzed_VBD a_DT large_JJ community_NN site_NN in_IN Japan_NNP :_: @cosme_NN ._.
+The_DT noteworthy_JJ characteristics_NNS of_IN @cosme_NN are_VBP that_IN users_NNS can_MD bookmark_VB their_PRP$ trusted_VBN users_NNS ;_: in_IN addition_NN ,_, they_PRP can_MD post_VB their_PRP$ own_JJ ratings_NNS of_IN products_NNS ,_, which_WDT facilitates_VBZ our_PRP$ analyses_NNS of_IN the_DT ratings_NNS '_POS bidirectional_JJ effects_NNS on_IN trust_NN and_CC ratings_NNS ._.
+We_PRP describe_VBP an_DT overview_NN of_IN the_DT data_NNS in_IN @cosme_NN ,_, analyses_NNS of_IN effects_NNS from_IN trust_NN to_TO rating_NN and_CC vice_NN versa_RB ,_, and_CC our_PRP$ proposition_NN of_IN a_DT measure_NN of_IN community_NN gravity_NN ,_, which_WDT measures_VBZ how_WRB strongly_RB a_DT user_NN might_MD be_VB attracted_VBN to_TO a_DT community_NN ._.
+Our_PRP$ study_NN is_VBZ based_VBN on_IN the_DT @cosme_NN dataset_NN in_IN addition_NN to_TO the_DT Epinions_NNP dataset_NN ._.
+It_PRP elucidates_VBZ important_JJ insights_NNS and_CC proposes_VBZ a_DT potentially_RB important_JJ measure_NN for_IN mining_NN online_NN social_JJ networks_NNS ._.

@@ -1,0 +1,12 @@
+Parallel_JJ computation_NN of_IN high_JJ dimensional_JJ robust_JJ correlation_NN and_CC covariance_NN matrices_NNS
+The_DT computation_NN of_IN covariance_NN and_CC correlation_NN matrices_NNS are_VBP critical_JJ to_TO many_JJ data_NNS mining_NN applications_NNS and_CC processes_NNS ._.
+Unfortunately_RB the_DT classical_JJ covariance_NN and_CC correlation_NN matrices_NNS are_VBP very_RB sensitive_JJ to_TO outliers_NNS ._.
+Robust_JJ methods_NNS ,_, such_JJ as_IN QC_NN and_CC the_DT Maronna_NNP method_NN ,_, have_VBP been_VBN proposed_VBN ._.
+However_RB ,_, existing_VBG algorithms_NNS for_IN QC_NN only_RB give_VBP acceptable_JJ performance_NN when_WRB the_DT dimensionality_NN of_IN the_DT matrix_NN is_VBZ in_IN the_DT hundreds_NNS ;_: and_CC the_DT Maronna_NNP method_NN is_VBZ rarely_RB used_VBN in_IN practice_NN because_IN of_IN its_PRP$ high_JJ computational_JJ cost_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP develop_VBP parallel_JJ algorithms_NNS for_IN both_CC QC_NN and_CC the_DT Maronna_NNP method_NN ._.
+We_PRP evaluate_VBP these_DT parallel_JJ algorithms_NNS using_VBG a_DT real_JJ data_NN set_NN of_IN the_DT gene_NN expression_NN of_IN over_IN 6,000_CD genes_NNS ,_, giving_VBG rise_NN to_TO a_DT matrix_NN of_IN over_IN 18_CD million_CD entries_NNS ._.
+In_IN our_PRP$ experimental_JJ evaluation_NN ,_, we_PRP explore_VBP scalability_NN in_IN dimensionality_NN and_CC in_IN the_DT number_NN of_IN processors_NNS ._.
+We_PRP also_RB compare_VBP the_DT parallel_JJ behaviors_NNS of_IN the_DT two_CD methods_NNS ._.
+After_IN thorough_JJ experimentation_NN ,_, we_PRP conclude_VBP that_IN for_IN many_JJ data_NNS mining_NN applications_NNS ,_, both_DT QC_NNP and_CC Maronna_NNP are_VBP viable_JJ options_NNS ._.
+Less_RBR robust_JJ ,_, but_CC faster_RBR ,_, QC_NN is_VBZ the_DT recommended_VBN choice_NN for_IN small_JJ parallel_JJ platforms_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, the_DT Maronna_NNP method_NN is_VBZ the_DT recommended_VBN choice_NN when_WRB a_DT high_JJ degree_NN of_IN robustness_NN is_VBZ required_VBN ,_, or_CC when_WRB the_DT parallel_JJ platform_NN features_VBZ a_DT high_JJ number_NN of_IN processors_NNS ._.

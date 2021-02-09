@@ -1,0 +1,14 @@
+Efficient_JJ and_CC robust_JJ streaming_NN provisioning_VBG in_IN VPNs_NNS
+Today_NN ,_, most_RBS large_JJ companies_NNS maintain_VBP virtual_JJ private_JJ networks_NNS -LRB-_-LRB- VPNs_NNS -RRB-_-RRB- to_TO connect_VB their_PRP$ remote_JJ locations_NNS into_IN a_DT single_JJ secure_JJ network_NN ._.
+VPNs_NNS can_MD be_VB quite_RB large_JJ covering_VBG more_JJR than_IN 1000_CD locations_NNS and_CC in_IN most_JJS cases_NNS use_VBP standard_JJ Internet_NNP protocols_NNS and_CC services_NNS ._.
+Such_JJ VPNs_NNS are_VBP implemented_VBN using_VBG a_DT diverse_JJ set_NN of_IN technologies_NNS such_JJ as_IN Frame_NNP Relay_NNP ,_, MPLS_NNP ,_, or_CC IPSEC_NNP to_TO achieve_VB the_DT goal_NN of_IN privacy_NN and_CC performance_NN isolation_NN from_IN the_DT public_JJ Internet_NNP ._.
+Using_VBG VPNs_NNS to_TO distribute_VB live_JJ content_NN has_VBZ recently_RB received_VBN tremendous_JJ interest_NN ._.
+For_IN example_NN ,_, a_DT VPN_NNP could_MD be_VB used_VBN to_TO broadcast_VB a_DT CEO-employee_JJ town_NN hall_NN meeting_NN ._.
+To_TO distribute_VB this_DT type_NN of_IN content_NN economically_RB without_IN overloading_VBG the_DT network_NN ,_, the_DT deployment_NN of_IN streaming_NN caches_NNS or_CC splitters_NNS is_VBZ most_RBS likely_RB required_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP address_VBP the_DT problem_NN of_IN optimally_RB placing_VBG such_JJ streaming_NN splitters_NNS or_CC caches_NNS to_TO broadcast_VB to_TO a_DT given_VBN set_NN of_IN VPN_NN endpoints_NNS under_IN the_DT constraints_NNS typically_RB found_VBN within_IN a_DT VPN_NNP ._.
+In_IN particular_JJ ,_, we_PRP introduce_VBP an_DT efficient_JJ algorithm_NN with_IN complexity_NN O_NN -LRB-_-LRB- V_NN -RRB-_-RRB- ,_, V_NN being_VBG the_DT number_NN of_IN routers_NNS in_IN the_DT VPN_NNP ._.
+This_DT guarantees_VBZ the_DT optimal_JJ cache_NN placement_NN if_IN interception_NN is_VBZ used_VBN for_IN redirection_NN ._.
+We_PRP prove_VBP that_IN the_DT general_JJ problem_NN is_VBZ NP-hard_JJ and_CC introduce_VB multiple_JJ heuristics_NNS for_IN efficient_JJ and_CC robust_JJ cache_NN placement_NN suitable_JJ under_IN different_JJ constraints_NNS ._.
+At_IN the_DT expense_NN of_IN increased_VBN implementation_NN complexity_NN ,_, each_DT heuristic_NN solution_NN provides_VBZ additional_JJ saving_NN in_IN the_DT number_NN of_IN caches_NNS required_VBN ._.
+We_PRP evaluate_VBP proposed_VBN solutions_NNS using_VBG extensive_JJ simulations_NNS ._.
+In_IN particular_JJ ,_, we_PRP show_VBP our_PRP$ flow-based_JJ solution_NN is_VBZ very_RB close_JJ to_TO the_DT optimal_JJ ._.

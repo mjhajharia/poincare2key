@@ -1,0 +1,9 @@
+Ensuring_VBG required_VBN failure_NN atomicity_NN of_IN composite_JJ Web_NN services_NNS
+The_DT recent_JJ evolution_NN of_IN Internet_NNP ,_, driven_VBN by_IN the_DT Web_NN services_NNS technology_NN ,_, is_VBZ extending_VBG the_DT role_NN of_IN the_DT Web_NN from_IN a_DT support_NN of_IN information_NN interaction_NN to_TO a_DT middleware_NN for_IN B2B_NN interactions_NNS ._.
+Indeed_RB ,_, the_DT Web_NN services_NNS technology_NN allows_VBZ enterprises_NNS to_TO outsource_VB parts_NNS of_IN their_PRP$ business_NN processes_NNS using_VBG Web_NN services_NNS ._.
+And_CC it_PRP also_RB provides_VBZ the_DT opportunity_NN to_TO dynamically_RB offer_VB new_JJ value-added_JJ services_NNS through_IN the_DT composition_NN of_IN pre-existing_JJ Web_NN services_NNS ._.
+In_IN spite_NN of_IN the_DT growing_VBG interest_NN in_IN Web_NN services_NNS ,_, current_JJ technologies_NNS are_VBP found_VBN lacking_VBG efficient_JJ transactional_JJ support_NN for_IN composite_JJ Web_NN services_NNS -LRB-_-LRB- CSs_NNS -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT transactional_JJ approach_NN to_TO ensure_VB the_DT failure_NN atomicity_NN ,_, of_IN a_DT CS_NN ,_, required_VBN by_IN partners_NNS ._.
+We_PRP use_VBP the_DT Accepted_NNP Termination_NN States_NNP -LRB-_-LRB- ATS_NNP -RRB-_-RRB- property_NN as_IN a_DT mean_NN to_TO express_VB the_DT required_JJ failure_NN atomicity_NN ._.
+Partners_NNS specify_VBP their_PRP$ CS_NN ,_, mainly_RB its_PRP$ control_NN flow_NN ,_, and_CC the_DT required_JJ ATS_NN ._.
+Then_RB ,_, we_PRP use_VBP a_DT set_NN of_IN transactional_JJ rules_NNS to_TO assist_VB designers_NNS to_TO compose_VB a_DT valid_JJ CS_NN with_IN regards_VBZ to_TO the_DT specified_VBN ATS_NN ._.

@@ -1,0 +1,4 @@
+Adaptive_JJ filtering_VBG of_IN advertisements_NNS on_IN web_NN pages_NNS
+We_PRP present_VBP a_DT browser_NN extension_NN to_TO dynamically_RB learn_VB to_TO filter_NN unwanted_JJ images_NNS -LRB-_-LRB- such_JJ as_IN advertisements_NNS or_CC flashy_JJ graphics_NNS -RRB-_-RRB- based_VBN on_IN minimal_JJ user_NN feedback_NN ._.
+To_TO do_VB so_RB ,_, we_PRP apply_VBP the_DT weighted_JJ majority_NN algorithm_NN using_VBG pieces_NNS of_IN the_DT Uniform_NNP Resource_NNP Locators_NNP of_IN such_JJ images_NNS as_IN predictors_NNS ._.
+Experimental_JJ results_NNS tend_VBP to_TO confirm_VB that_IN the_DT accuracy_NN of_IN the_DT predictions_NNS converges_VBZ quickly_RB to_TO very_RB high_JJ levels_NNS ._.

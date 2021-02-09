@@ -1,0 +1,7 @@
+Authoring_NN and_CC annotation_NN of_IN web_NN pages_NNS in_IN CREAM_NN
+Richly_RB interlinked_JJ ,_, machine-understandable_JJ data_NNS constitute_VBP the_DT basis_NN for_IN the_DT Semantic_JJ Web_NN ._.
+We_PRP provide_VBP a_DT framework_NN ,_, CREAM_NN ,_, that_WDT allows_VBZ for_IN creation_NN of_IN metadata_NN ._.
+While_IN the_DT annotation_NN mode_NN of_IN CREAM_NN allows_VBZ to_TO create_VB metadata_NN for_IN existing_VBG web_NN pages_NNS ,_, the_DT authoring_NN mode_NN lets_VBZ authors_NNS create_VB metadata_NN --_: almost_RB for_IN free_JJ --_: while_IN putting_VBG together_RB the_DT content_NN of_IN a_DT page_NN ._.
+As_IN a_DT particularity_NN of_IN our_PRP$ framework_NN ,_, CREAM_NN allows_VBZ to_TO create_VB relational_JJ metadata_NN ,_, i.e._FW metadata_FW that_WDT instantiate_VBP interrelated_JJ definitions_NNS of_IN classes_NNS in_IN a_DT domain_NN ontology_NN rather_RB than_IN a_DT comparatively_RB rigid_JJ template-like_JJ schema_NN asm_NN Dublin_NNP Core_NNP ._.
+We_PRP discuss_VBP some_DT of_IN the_DT requirements_NNS one_NN has_VBZ to_TO meet_VB when_WRB developing_VBG such_PDT an_DT ontology-based_JJ framework_NN ,_, e.g._FW the_DT integration_NN of_IN a_DT metadata_JJ crawler_NN ,_, inference_NN services_NNS ,_, document_NN management_NN and_CC a_DT meta-ontology_NN ,_, and_CC describe_VB its_PRP$ implementation_NN ,_, viz_NN ._.
+Ont-O-Mat_NNP ,_, a_DT component-based_JJ ,_, ontology-driven_JJ Web_NN page_NN authoring_NN and_CC annotation_NN tool_NN ._.

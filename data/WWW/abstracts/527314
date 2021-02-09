@@ -1,0 +1,9 @@
+The_DT XML_NN web_NN :_: a_DT first_JJ study_NN
+Although_IN originally_RB designed_VBN for_IN large-scale_JJ electronic_JJ publishing_NN ,_, XML_NN plays_VBZ an_DT increasingly_RB important_JJ role_NN in_IN the_DT exchange_NN of_IN data_NNS on_IN the_DT Web_NN ._.
+In_IN fact_NN ,_, it_PRP is_VBZ expected_VBN that_IN XML_NN will_MD become_VB the_DT lingua_NN franca_NN of_IN the_DT Web_NN ,_, eventually_RB replacing_VBG HTML_NNP ._.
+Not_RB surprisingly_RB ,_, there_EX has_VBZ been_VBN a_DT great_JJ deal_NN of_IN interest_NN on_IN XML_NN both_CC in_IN industry_NN and_CC in_IN academia_NN ._.
+Nevertheless_RB ,_, to_TO date_VB no_DT comprehensive_JJ study_NN on_IN the_DT XML_NN Web_NN -LRB-_-LRB- i.e._FW ,_, the_DT subset_NN of_IN the_DT Web_NN made_VBN of_IN XML_NN documents_NNS only_RB -RRB-_-RRB- nor_CC on_IN its_PRP$ contents_NNS has_VBZ been_VBN made_VBN ._.
+This_DT paper_NN is_VBZ the_DT first_JJ attempt_NN at_IN describing_VBG the_DT XML_NN Web_NN and_CC the_DT documents_NNS contained_VBN in_IN it_PRP ._.
+Our_PRP$ results_NNS are_VBP drawn_VBN from_IN a_DT sample_NN of_IN a_DT repository_NN of_IN the_DT publicly_RB available_JJ XML_NN documents_NNS on_IN the_DT Web_NN ,_, consisting_VBG of_IN about_IN 200,000_CD documents_NNS ._.
+Our_PRP$ results_NNS show_VBP that_IN ,_, despite_IN its_PRP$ short_JJ history_NN ,_, XML_NN already_RB permeates_VBZ the_DT Web_NN ,_, both_CC in_IN terms_NNS of_IN generic_JJ domains_NNS and_CC geographically_RB ._.
+Also_RB ,_, our_PRP$ results_NNS about_IN the_DT contents_NNS of_IN the_DT XML_NN Web_NN provide_VBP valuable_JJ input_NN for_IN the_DT design_NN of_IN algorithms_NNS ,_, tools_NNS and_CC systems_NNS that_WDT use_VBP XML_NN in_IN one_CD form_NN or_CC another_DT ._.

@@ -1,0 +1,11 @@
+Anycast-aware_JJ transport_NN for_IN content_JJ delivery_NN networks_NNS
+Anycast-based_JJ content_NN delivery_NN networks_NNS -LRB-_-LRB- CDNs_NNS -RRB-_-RRB- have_VBP many_JJ properties_NNS that_WDT make_VBP them_PRP ideal_JJ for_IN the_DT large_JJ scale_NN distribution_NN of_IN content_NN on_IN the_DT Internet_NN ._.
+However_RB ,_, because_IN routing_VBG changes_NNS can_MD result_VB in_IN a_DT change_NN of_IN the_DT endpoint_NN that_WDT terminates_VBZ the_DT TCP_NNP session_NN ,_, TCP_NN session_NN disruption_NN remains_VBZ a_DT concern_NN for_IN anycast_JJ CDNs_NNS ,_, especially_RB for_IN large_JJ file_NN downloads_NNS ._.
+In_IN this_DT paper_NN we_PRP demonstrate_VBP that_IN this_DT problem_NN does_VBZ not_RB require_VB any_DT complex_JJ solutions_NNS ._.
+In_IN particular_JJ ,_, we_PRP present_VBP the_DT design_NN of_IN a_DT simple_NN ,_, yet_RB efficient_JJ ,_, mechanism_NN to_TO handle_VB session_NN disruptions_NNS due_JJ to_TO endpoint_JJ changes_NNS ._.
+With_IN our_PRP$ mechanism_NN ,_, a_DT client_NN can_MD continue_VB the_DT download_NN of_IN the_DT content_NN from_IN the_DT point_NN at_IN which_WDT it_PRP was_VBD before_IN the_DT endpoint_JJ change_NN ._.
+Furthermore_RB ,_, CDN_NN servers_NNS purge_VBP the_DT TCP_NN connection_NN state_NN quickly_RB to_TO handle_VB frequent_JJ switching_NN with_IN low_JJ system_NN overhead_NN ._.
+We_PRP demonstrate_VBP experimentally_RB the_DT effectiveness_NN of_IN our_PRP$ proposed_VBN mechanism_NN and_CC show_VBP that_IN more_RBR complex_JJ mechanisms_NNS are_VBP not_RB required_VBN ._.
+Specifically_RB ,_, we_PRP find_VBP that_IN our_PRP$ mechanism_NN maintains_VBZ high_JJ download_NN throughput_NN even_RB with_IN a_DT reasonably_RB high_JJ rate_NN of_IN endpoint_NN switching_NN ,_, which_WDT is_VBZ attractive_JJ for_IN load_NN balancing_NN scenarios_NNS ._.
+Moreover_RB ,_, our_PRP$ results_NNS show_VBP that_IN edge_NN servers_NNS can_MD purge_VB TCP_NN connection_NN state_NN after_IN a_DT single_JJ timeout-triggered_JJ retransmission_NN without_IN any_DT tangible_JJ impact_NN on_IN ongoing_JJ connections_NNS ._.
+Besides_IN improving_VBG server_NN performance_NN ,_, this_DT behavior_NN improves_VBZ the_DT resiliency_NN of_IN the_DT CDN_NN to_TO certain_JJ denial_NN of_IN service_NN attacks_NNS ._.

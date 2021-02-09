@@ -1,0 +1,6 @@
+iSAX_NN :_: indexing_NN and_CC mining_NN terabyte_NN sized_VBD time_NN series_NN
+Current_JJ research_NN in_IN indexing_NN and_CC mining_NN time_NN series_NN data_NNS has_VBZ produced_VBN many_JJ interesting_JJ algorithms_NNS and_CC representations_NNS ._.
+However_RB ,_, the_DT algorithms_NNS and_CC the_DT size_NN of_IN data_NNS considered_VBN have_VBP generally_RB not_RB been_VBN representative_JJ of_IN the_DT increasingly_RB massive_JJ datasets_NNS encountered_VBN in_IN science_NN ,_, engineering_NN ,_, and_CC business_NN domains_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP show_VBP how_WRB a_DT novel_JJ multi-resolution_JJ symbolic_JJ representation_NN can_MD be_VB used_VBN to_TO index_NN datasets_NNS which_WDT are_VBP several_JJ orders_NNS of_IN magnitude_NN larger_JJR than_IN anything_NN else_RB considered_VBN in_IN the_DT literature_NN ._.
+Our_PRP$ approach_NN allows_VBZ both_CC fast_RB exact_JJ search_NN and_CC ultra_NN fast_JJ approximate_JJ search_NN ._.
+We_PRP show_VBP how_WRB to_TO exploit_VB the_DT combination_NN of_IN both_DT types_NNS of_IN search_NN as_IN sub-routines_NNS in_IN data_NN mining_NN algorithms_NNS ,_, allowing_VBG for_IN the_DT exact_JJ mining_NN of_IN truly_RB massive_JJ real_JJ world_NN datasets_NNS ,_, containing_VBG millions_NNS of_IN time_NN series_NN ._.

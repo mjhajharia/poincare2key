@@ -1,0 +1,5 @@
+How_WRB semantics_NNS make_VBP better_JJR wikis_NNS
+Wikis_NNP are_VBP popular_JJ collaborative_JJ hypertext_NN authoring_NN environments_NNS ,_, but_CC they_PRP neither_RB support_VBP structured_JJ access_NN nor_CC information_NN reuse_NN ._.
+Adding_VBG semantic_JJ annotations_NNS helps_VBZ to_TO address_VB these_DT limitations_NNS ._.
+We_PRP present_VBP an_DT architecture_NN for_IN Semantic_NNP Wikis_NNP and_CC discuss_VB design_NN decisions_NNS including_VBG structured_JJ access_NN ,_, views_NNS ,_, and_CC annotation_NN language_NN ._.
+We_PRP present_VBP our_PRP$ prototype_NN SemperWiki_NNP that_WDT implements_VBZ this_DT architecture_NN ._.

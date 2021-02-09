@@ -1,0 +1,10 @@
+Community_NN detection_NN in_IN incomplete_JJ information_NN networks_NNS
+With_IN the_DT recent_JJ advances_NNS in_IN information_NN networks_NNS ,_, the_DT problem_NN of_IN community_NN detection_NN has_VBZ attracted_VBN much_JJ attention_NN in_IN the_DT last_JJ decade_NN ._.
+While_IN network_NN community_NN detection_NN has_VBZ been_VBN ubiquitous_JJ ,_, the_DT task_NN of_IN collecting_VBG complete_JJ network_NN data_NNS remains_VBZ challenging_JJ in_IN many_JJ real-world_JJ applications_NNS ._.
+Usually_RB the_DT collected_VBN network_NN is_VBZ incomplete_JJ with_IN most_JJS of_IN the_DT edges_NNS missing_VBG ._.
+Commonly_RB ,_, in_IN such_JJ networks_NNS ,_, all_DT nodes_NNS with_IN attributes_NNS are_VBP available_JJ while_IN only_RB the_DT edges_NNS within_IN a_DT few_JJ local_JJ regions_NNS of_IN the_DT network_NN can_MD be_VB observed_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT problem_NN of_IN detecting_VBG communities_NNS in_IN incomplete_JJ information_NN networks_NNS with_IN missing_VBG edges_NNS ._.
+We_PRP first_RB learn_VBP a_DT distance_NN metric_NN to_TO reproduce_VB the_DT link-based_JJ distance_NN between_IN nodes_NNS from_IN the_DT observed_VBN edges_NNS in_IN the_DT local_JJ information_NN regions_NNS ._.
+We_PRP then_RB use_VBP the_DT learned_VBN distance_NN metric_NN to_TO estimate_VB the_DT distance_NN between_IN any_DT pair_NN of_IN nodes_NNS in_IN the_DT network_NN ._.
+A_DT hierarchical_JJ clustering_NN approach_NN is_VBZ proposed_VBN to_TO detect_VB communities_NNS within_IN the_DT incomplete_JJ information_NN networks_NNS ._.
+Empirical_JJ studies_NNS on_IN real-world_JJ information_NN networks_NNS demonstrate_VBP that_IN our_PRP$ proposed_VBN method_NN can_MD effectively_RB detect_VB community_NN structures_NNS within_IN incomplete_JJ information_NN networks_NNS ._.

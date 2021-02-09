@@ -1,0 +1,11 @@
+Traffic_NN characterization_NN and_CC internet_NN usage_NN in_IN rural_JJ Africa_NNP
+While_IN Internet_NNP connectivity_NN has_VBZ reached_VBN a_DT significant_JJ part_NN of_IN the_DT world_NN 's_POS population_NN ,_, those_DT living_VBG in_IN rural_JJ areas_NNS of_IN the_DT developing_VBG world_NN are_VBP still_RB largely_RB disconnected_VBN ._.
+Recent_JJ efforts_NNS have_VBP provided_VBN Internet_NNP connectivity_NN to_TO a_DT growing_VBG number_NN of_IN remote_JJ locations_NNS ,_, yet_CC Internet_NNP traffic_NN demands_NNS cause_VBP many_JJ of_IN these_DT networks_NNS to_TO fail_VB to_TO deliver_VB basic_JJ quality_NN of_IN service_NN needed_VBN for_IN simple_JJ applications_NNS ._.
+For_IN an_DT in-depth_JJ investigation_NN of_IN the_DT problem_NN ,_, we_PRP gather_VBP and_CC analyze_VBP network_NN traces_NNS from_IN a_DT rural_JJ wireless_JJ network_NN in_IN Macha_NNP ,_, Zambia_NNP ._.
+We_PRP supplement_VBP our_PRP$ analysis_NN with_IN on-site_JJ interviews_NNS from_IN Macha_NNP ,_, Zambia_NNP and_CC Dwesa_NNP ,_, South_NNP Africa_NNP ,_, another_DT rural_JJ community_NN that_WDT hosts_VBZ a_DT local_JJ wireless_JJ network_NN ._.
+The_DT results_NNS reveal_VBP that_IN Internet_NN traffic_NN in_IN rural_JJ Africa_NNP differs_VBZ significantly_RB from_IN the_DT developed_JJ world_NN ._.
+We_PRP observe_VBP dominance_NN of_IN web-based_JJ traffic_NN ,_, as_IN opposed_VBN to_TO peer-to-peer_JJ traffic_NN common_JJ in_IN urban_JJ areas_NNS ._.
+Application-wise_JJ ,_, online_JJ social_JJ networks_NNS are_VBP the_DT most_RBS popular_JJ ,_, while_IN the_DT majority_NN of_IN bandwidth_NN is_VBZ consumed_VBN by_IN large_JJ operating_VBG system_NN updates_NNS ._.
+Our_PRP$ analysis_NN also_RB uncovers_VBZ numerous_JJ network_NN anomalies_NNS ,_, such_JJ as_IN significant_JJ malware_NN traffic_NN ._.
+Finally_RB ,_, we_PRP find_VBP a_DT strong_JJ feedback_NN loop_NN between_IN network_NN performance_NN and_CC user_NN behavior_NN ._.
+Based_VBN on_IN our_PRP$ findings_NNS ,_, we_PRP conclude_VBP with_IN a_DT discussion_NN of_IN new_JJ directions_NNS in_IN network_NN design_NN that_WDT take_VBP into_IN account_NN both_CC technical_JJ and_CC social_JJ factors_NNS ._.

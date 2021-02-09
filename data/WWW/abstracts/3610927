@@ -1,0 +1,8 @@
+Predictive_JJ ranking_NN :_: a_DT novel_JJ page_NN ranking_JJ approach_NN by_IN estimating_VBG the_DT web_NN structure_NN
+PageRank_NN -LRB-_-LRB- PR_NN -RRB-_-RRB- is_VBZ one_CD of_IN the_DT most_RBS popular_JJ ways_NNS to_TO rank_VB web_NN pages_NNS ._.
+However_RB ,_, as_IN the_DT Web_NN continues_VBZ to_TO grow_VB in_IN volume_NN ,_, it_PRP is_VBZ becoming_VBG more_RBR and_CC more_RBR difficult_JJ to_TO crawl_VB all_PDT the_DT available_JJ pages_NNS ._.
+As_IN a_DT result_NN ,_, the_DT page_NN ranks_NNS computed_VBN by_IN PR_NN are_VBP only_RB based_VBN on_IN a_DT subset_NN of_IN the_DT whole_JJ Web_NN ._.
+This_DT produces_VBZ inaccurate_JJ outcome_NN because_IN of_IN the_DT inherent_JJ incomplete_JJ information_NN -LRB-_-LRB- dangling_VBG pages_NNS -RRB-_-RRB- that_WDT exist_VBP in_IN the_DT calculation_NN ._.
+To_TO overcome_VB this_DT incompleteness_NN ,_, we_PRP propose_VBP a_DT new_JJ variant_NN of_IN the_DT PageRank_NN algorithm_NN called_VBN ,_, Predictive_JJ Ranking_NN -LRB-_-LRB- PreR_NN -RRB-_-RRB- ,_, in_IN which_WDT different_JJ classes_NNS of_IN dangling_JJ pages_NNS are_VBP analyzed_VBN individually_RB so_IN that_IN the_DT link_NN structure_NN can_MD be_VB predicted_VBN more_RBR accurately_RB ._.
+We_PRP detail_NN our_PRP$ proposed_VBN steps_NNS ._.
+Furthermore_RB ,_, experimental_JJ results_NNS show_VBP that_IN this_DT algorithm_NN achieves_VBZ encouraging_JJ results_NNS when_WRB compared_VBN with_IN previous_JJ methods_NNS ._.

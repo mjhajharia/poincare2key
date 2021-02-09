@@ -1,0 +1,5 @@
+sMash_NN :_: semantic-based_JJ mashup_NN navigation_NN for_IN data_NNS API_NNP network_NN
+With_IN the_DT proliferation_NN of_IN data_NNS APIs_NNS ,_, it_PRP is_VBZ not_RB uncommon_JJ that_IN users_NNS who_WP have_VBP no_DT clear_JJ ideas_NNS about_IN data_NNS APIs_NNS will_MD encounter_VB difficulties_NNS to_TO build_VB Mashups_NNPS to_TO satisfy_VB their_PRP$ requirements_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT semantic-based_JJ mashup_NN navigation_NN system_NN ,_, sMash_NN that_WDT makes_VBZ mashup_NN building_NN easy_JJ by_IN constructing_VBG and_CC visualizing_VBG a_DT real-life_JJ data_NN API_NN network_NN ._.
+We_PRP build_VBP a_DT sample_NN network_NN by_IN gathering_VBG more_JJR than_IN 300_CD popular_JJ APIs_NNS and_CC find_VBP that_IN the_DT relationships_NNS between_IN them_PRP are_VBP so_RB complex_JJ that_IN our_PRP$ system_NN will_MD play_VB an_DT important_JJ role_NN in_IN navigating_VBG users_NNS and_CC give_VB them_PRP inspiration_NN to_TO build_VB interesting_JJ mashups_NNS easily_RB ._.
+The_DT system_NN is_VBZ accessible_JJ at_IN :_: http:\/\/www.dart.zju.edu.cn\/mashup_NN ._.

@@ -1,0 +1,10 @@
+Semantic_JJ email_NN
+This_DT paper_NN investigates_VBZ how_WRB the_DT vision_NN of_IN the_DT Semantic_JJ Web_NN can_MD be_VB carried_VBN overto_IN the_DT realm_NN of_IN email_NN ._.
+We_PRP introduce_VBP a_DT general_JJ notion_NN of_IN semantice_NN mail_NN ,_, in_IN which_WDT an_DT email_NN message_NN consists_VBZ of_IN an_DT RDF_NN query_NN or_CC update_VB coupled_VBN with_IN corresponding_JJ explanatory_JJ text_NN ._.
+Semantic_JJ email_NN opens_VBZ the_DT door_NN to_TO a_DT wide_JJ range_NN of_IN automated_JJ ,_, email-mediated_JJ applications_NNS with_IN formally_RB guaranteed_VBN properties_NNS ._.
+In_IN particular_JJ ,_, this_DT paper_NN introduces_VBZ a_DT broad_JJ class_NN of_IN semantic_JJ email_NN processes_NNS ._.
+For_IN example_NN consider_VBP the_DT process_NN of_IN sending_VBG an_DT email_NN to_TO a_DT program_NN committee_NN asking_VBG who_WP will_MD attend_VB the_DT PC_NN dinner_NN automatically_RB collecting_VBG the_DT responses_NNS and_CC tallying_VBG them_PRP up_RP ._.
+We_PRP define_VBP bothlogical_JJ and_CC decision-theoretic_JJ models_NNS where_WRB an_DT email_NN process_NN ismodeled_VBD as_IN a_DT set_NN of_IN updates_NNS to_TO a_DT data_NNS set_VBN on_IN which_WDT we_PRP specify_VBP goals_NNS via_IN certain_JJ constraints_NNS or_CC utilities_NNS ._.
+We_PRP then_RB describe_VBP a_DT set_VBN ofinference_NN problems_NNS that_WDT arise_VBP while_IN trying_VBG to_TO satisfy_VB these_DT goals_NNS and_CC analyze_VB their_PRP$ computational_JJ tractability_NN ._.
+In_IN particular_JJ weshow_NN that_IN for_IN the_DT logical_JJ model_NN it_PRP is_VBZ possible_JJ to_TO automatically_RB infer_VB which_WDT email_NN responses_NNS are_VBP acceptable_JJ w.r.t._NN a_DT set_NN ofconstraints_NNS in_IN polynomial_JJ time_NN and_CC for_IN the_DT decision-theoreticmodel_NN it_PRP is_VBZ possible_JJ to_TO compute_VB the_DT optimal_JJ message-handling_JJ policy_NN in_IN polynomial_JJ time_NN ._.
+Finally_RB we_PRP discuss_VBP our_PRP$ publicly_RB available_JJ implementation_NN of_IN semantic_JJ email_NN and_CC outline_NN research_NN challenges_VBZ inthis_JJ realm_NN ._.

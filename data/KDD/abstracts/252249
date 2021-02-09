@@ -1,0 +1,11 @@
+A_DT generalized_JJ framework_NN for_IN mining_NN spatio-temporal_JJ patterns_NNS in_IN scientific_JJ data_NNS
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT general_JJ framework_NN to_TO discover_VB spatial_JJ associations_NNS and_CC spatio-temporal_JJ episodes_NNS for_IN scientific_JJ datasets_NNS ._.
+In_IN contrast_NN to_TO previous_JJ work_NN in_IN this_DT area_NN ,_, features_NNS are_VBP modeled_VBN as_IN geometric_JJ objects_NNS rather_RB than_IN points_NNS ._.
+We_PRP define_VBP multiple_JJ distance_NN metrics_NNS that_WDT take_VBP into_IN account_NN objects_NNS '_POS extent_NN and_CC thus_RB are_VBP more_RBR robust_JJ in_IN capturing_VBG the_DT influence_NN of_IN an_DT object_NN on_IN other_JJ objects_NNS in_IN spatial_JJ neighborhood_NN ._.
+We_PRP have_VBP developed_VBN algorithms_NNS to_TO discover_VB four_CD different_JJ types_NNS of_IN spatial_JJ object_NN interaction_NN -LRB-_-LRB- association_NN -RRB-_-RRB- patterns_NNS ._.
+We_PRP also_RB extend_VBP our_PRP$ approach_NN to_TO accommodate_VB temporal_JJ information_NN and_CC propose_VBP a_DT simple_JJ algorithm_NN to_TO derive_VB spatio-temporal_JJ episodes_NNS ._.
+We_PRP show_VBP that_IN such_JJ episodes_NNS can_MD be_VB used_VBN to_TO reason_VB about_IN critical_JJ events_NNS ._.
+We_PRP evaluate_VBP our_PRP$ framework_NN on_IN real_JJ datasets_NNS to_TO demonstrate_VB its_PRP$ efficacy_NN ._.
+The_DT datasets_NNS originate_VBP from_IN two_CD different_JJ areas_NNS :_: Computational_JJ Molecular_JJ Dynamics_NNP and_CC Computational_NNP Fluid_NNP Flow_NN ._.
+We_PRP present_VBP results_NNS highlighting_VBG the_DT importance_NN of_IN the_DT identified_VBN patterns_NNS and_CC episodes_NNS by_IN using_VBG knowledge_NN from_IN the_DT underlying_VBG domains_NNS ._.
+We_PRP also_RB show_VBP that_IN the_DT proposed_VBN algorithms_NNS scale_VBP linearly_RB with_IN respect_NN to_TO the_DT dataset_NN size_NN ._.

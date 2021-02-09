@@ -1,0 +1,10 @@
+Navigationaided_JJ retrieval_NN
+Users_NNS searching_VBG for_IN information_NN in_IN hypermedia_NN environments_NNS often_RB perform_VBP querying_VBG followed_VBN by_IN manual_JJ navigation_NN ._.
+Yet_RB ,_, the_DT conventional_JJ text\/hypertext_NN retrieval_NN paradigm_NN does_VBZ not_RB explicity_RB take_VB post-query_JJ navigation_NN into_IN account_NN ._.
+This_DT paper_NN proposes_VBZ a_DT new_JJ retrieval_NN paradigm_NN ,_, called_VBN navigation-aided_JJ retrieval_NN -LRB-_-LRB- NAR_NN -RRB-_-RRB- ,_, which_WDT treats_VBZ both_DT querying_VBG and_CC navigation_NN as_IN first-class_JJ activities_NNS ._.
+In_IN the_DT NAR_NN paradigm_NN ,_, querying_VBG is_VBZ seen_VBN as_IN a_DT means_NN to_TO identify_VB starting_VBG points_NNS for_IN navigation_NN ,_, and_CC navigation_NN is_VBZ guided_VBN based_VBN on_IN information_NN supplied_VBN in_IN the_DT query_NN ._.
+NAR_NNP is_VBZ a_DT generalization_NN of_IN the_DT conventional_JJ probabilistic_JJ information_NN retrieval_NN paradigm_NN ,_, which_WDT implicitly_RB assumes_VBZ no_DT navigation_NN takes_VBZ place_NN ._.
+This_DT paper_NN presents_VBZ a_DT formal_JJ model_NN for_IN navigation-aided_JJ retrieval_NN ,_, and_CC reports_VBZ empirical_JJ results_NNS that_WDT point_VBP to_TO the_DT real-world_JJ applicability_NN of_IN the_DT model_NN ._.
+The_DT experiments_NNS were_VBD performed_VBN over_IN a_DT large_JJ Web_NN corpus_NN provided_VBN by_IN TREC_NN ,_, using_VBG human_JJ judgments_NNS on_IN a_DT new_JJ rating_NN scale_NN developed_VBD for_IN navigation-aided_JJ retrieval_NN ._.
+In_IN the_DT case_NN of_IN ambiguous_JJ queries_NNS ,_, the_DT new_JJ retrieval_NN model_NN identifies_VBZ good_JJ starting_VBG points_NNS for_IN post-query_JJ navigation_NN ._.
+For_IN less_JJR ambiguous_JJ queries_NNS that_WDT need_VBP not_RB be_VB paired_VBN with_IN navigation_NN ,_, the_DT output_NN closely_RB matches_VBZ that_IN of_IN a_DT conventional_JJ retrieval_NN system_NN ._.

@@ -1,0 +1,9 @@
+EP-SPARQL_NN :_: a_DT unified_JJ language_NN for_IN event_NN processing_NN and_CC stream_NN reasoning_NN
+Streams_NNS of_IN events_NNS appear_VBP increasingly_RB today_NN in_IN various_JJ Web_NN applications_NNS such_JJ as_IN blogs_NNS ,_, feeds_VBZ ,_, sensor_NN data_NNS streams_NNS ,_, geospatial_JJ information_NN ,_, on-line_JJ financial_JJ data_NNS ,_, etc._FW ._.
+Event_NN Processing_NN -LRB-_-LRB- EP_NN -RRB-_-RRB- is_VBZ concerned_VBN with_IN timely_JJ detection_NN of_IN compound_NN events_NNS within_IN streams_NNS of_IN simple_JJ events_NNS ._.
+State-of-the-art_JJ EP_NN provides_VBZ on-the-fly_JJ analysis_NN of_IN event_NN streams_NNS ,_, but_CC can_MD not_RB combine_VB streams_NNS with_IN background_NN knowledge_NN and_CC can_MD not_RB perform_VB reasoning_NN tasks_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, semantic_JJ tools_NNS can_MD effectively_RB handle_VB background_NN knowledge_NN and_CC perform_VB reasoning_NN thereon_NN ,_, but_CC can_MD not_RB deal_VB with_IN rapidly_RB changing_VBG data_NNS provided_VBN by_IN event_NN streams_NNS ._.
+To_TO bridge_VB the_DT gap_NN ,_, we_PRP propose_VBP Event_NN Processing_NN SPARQL_NN -LRB-_-LRB- EP-SPARQL_NN -RRB-_-RRB- as_IN a_DT new_JJ language_NN for_IN complex_JJ events_NNS and_CC Stream_NNP Reasoning_NN ._.
+We_PRP provide_VBP syntax_NN and_CC formal_JJ semantics_NNS of_IN the_DT language_NN and_CC devise_VB an_DT effective_JJ execution_NN model_NN for_IN the_DT proposed_VBN formalism_NN ._.
+The_DT execution_NN model_NN is_VBZ grounded_VBN on_IN logic_NN programming_NN ,_, and_CC features_VBZ effective_JJ event_NN processing_NN and_CC inferencing_NN capabilities_NNS over_IN temporal_JJ and_CC static_JJ knowledge_NN ._.
+We_PRP provide_VBP an_DT open-source_JJ prototype_NN implementation_NN and_CC present_VB a_DT set_NN of_IN tests_NNS to_TO show_VB the_DT usefulness_NN and_CC effectiveness_NN of_IN our_PRP$ approach_NN ._.

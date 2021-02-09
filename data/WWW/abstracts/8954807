@@ -1,0 +1,5 @@
+Multispace_JJ information_NN visualization_NN framework_NN for_IN the_DT intercomparison_NN of_IN data_NNS sets_NNS retrieved_VBN from_IN web_NN services_NNS
+We_PRP introduce_VBP a_DT new_JJ visualization_NN framework_NN for_IN the_DT intercomparison_NN of_IN more_JJR than_IN one_CD data_NN set_NN retrieved_VBN from_IN Web_NN services_NNS ._.
+In_IN our_PRP$ framework_NN ,_, we_PRP use_VBP more_JJR than_IN one_CD visualization_NN space_NN simultaneously_RB ,_, each_DT of_IN which_WDT visualizes_VBZ a_DT single_JJ data_NN set_NN retrieved_VBN from_IN the_DT Web_NN service_NN ._.
+For_IN this_DT purpose_NN ,_, we_PRP provide_VBP a_DT new_JJ 3D_NN component_NN for_IN accessing_VBG Web_NN services_NNS ,_, and_CC provide_VBP a_DT 3D_NN space_NN component_NN ,_, in_IN which_WDT data_NNS set_VBP retrieved_VBN from_IN the_DT Web_NN service_NN is_VBZ visualized_VBN ._.
+Moreover_RB ,_, our_PRP$ framework_NN provides_VBZ users_NNS with_IN various_JJ operations_NNS applicable_JJ to_TO these_DT space_NN components_NNS ,_, i.e._FW ,_, union_NN ,_, intersection_NN ,_, set-difference_NN ,_, cross-product_NN ,_, selection_NN ,_, projection_NN ,_, and_CC joins_VBZ ._.

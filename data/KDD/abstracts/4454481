@@ -1,0 +1,9 @@
+Automatic_NNP labeling_NN of_IN multinomial_JJ topic_NN models_NNS
+Multinomial_JJ distributions_NNS over_IN words_NNS are_VBP frequently_RB used_VBN to_TO model_VB topics_NNS in_IN text_NN collections_NNS ._.
+A_DT common_JJ ,_, major_JJ challenge_NN in_IN applying_VBG all_DT such_JJ topic_NN models_NNS to_TO any_DT text_NN mining_NN problem_NN is_VBZ to_TO label_VB a_DT multinomial_JJ topic_NN model_NN accurately_RB so_IN that_IN a_DT user_NN can_MD interpret_VB the_DT discovered_VBN topic_NN ._.
+So_RB far_RB ,_, such_JJ labels_NNS have_VBP been_VBN generated_VBN manually_RB in_IN a_DT subjective_JJ way_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP probabilistic_JJ approaches_NNS to_TO automatically_RB labeling_VBG multinomial_JJ topic_NN models_NNS in_IN an_DT objective_JJ way_NN ._.
+We_PRP cast_VBP this_DT labeling_NN problem_NN as_IN an_DT optimization_NN problem_NN involving_VBG minimizing_VBG Kullback-Leibler_NNP divergence_NN between_IN word_NN distributions_NNS and_CC maximizing_VBG mutual_JJ information_NN between_IN a_DT label_NN and_CC a_DT topic_NN model_NN ._.
+Experiments_NNS with_IN user_NN study_NN have_VBP been_VBN done_VBN on_IN two_CD text_NN data_NNS sets_NNS with_IN different_JJ genres_NNS ._.
+The_DT results_NNS show_VBP that_IN the_DT proposed_VBN labeling_NN methods_NNS are_VBP quite_RB effective_JJ to_TO generate_VB labels_NNS that_WDT are_VBP meaningful_JJ and_CC useful_JJ for_IN interpreting_VBG the_DT discovered_VBN topic_NN models_NNS ._.
+Our_PRP$ methods_NNS are_VBP general_JJ and_CC can_MD be_VB applied_VBN to_TO labeling_NN topics_NNS learned_VBD through_IN all_DT kinds_NNS of_IN topic_NN models_NNS such_JJ as_IN PLSA_NNP ,_, LDA_NNP ,_, and_CC their_PRP$ variations_NNS ._.

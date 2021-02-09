@@ -1,0 +1,6 @@
+CFI-Stream_JJ :_: mining_NN closed_VBD frequent_JJ itemsets_NNS in_IN data_NNS streams_NNS
+Mining_NNP frequent_JJ closed_JJ itemsets_NNS provides_VBZ complete_JJ and_CC condensed_JJ information_NN for_IN non-redundant_JJ association_NN rules_NNS generation_NN ._.
+Extensive_JJ studies_NNS have_VBP been_VBN done_VBN on_IN mining_NN frequent_JJ closed_JJ itemsets_NNS ,_, but_CC they_PRP are_VBP mainly_RB intended_VBN for_IN traditional_JJ transaction_NN databases_NNS and_CC thus_RB do_VBP not_RB take_VB data_NN stream_NN characteristics_NNS into_IN consideration_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ approach_NN for_IN mining_NN closed_VBD frequent_JJ itemsets_NNS over_IN data_NNS streams_NNS ._.
+It_PRP computes_VBZ and_CC maintains_VBZ closed_JJ itemsets_NNS online_NN and_CC incrementally_RB ,_, and_CC can_MD output_NN the_DT current_JJ closed_JJ frequent_JJ itemsets_NNS in_IN real_JJ time_NN based_VBN on_IN users_NNS '_POS specified_JJ thresholds_NNS ._.
+Experimental_JJ results_NNS show_VBP that_IN our_PRP$ proposed_VBN method_NN is_VBZ both_CC time_NN and_CC space_NN efficient_JJ ,_, has_VBZ good_JJ scalability_NN as_IN the_DT number_NN of_IN transactions_NNS processed_VBN increases_NNS and_CC adapts_NNS very_RB rapidly_RB to_TO the_DT change_NN in_IN data_NNS streams_NNS ._.

@@ -1,0 +1,6 @@
+A_DT comprehensive_JJ comparative_JJ study_NN on_IN term_NN weighting_NN schemes_NNS for_IN text_NN categorization_NN with_IN support_NN vector_NN machines_NNS
+Term_NN weighting_NN scheme_NN ,_, which_WDT has_VBZ been_VBN used_VBN to_TO convert_VB the_DT documents_NNS as_IN vectors_NNS in_IN the_DT term_NN space_NN ,_, is_VBZ a_DT vital_JJ step_NN in_IN automatic_JJ text_NN categorization_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP conducted_VBD comprehensive_JJ experiments_NNS to_TO compare_VB various_JJ term_NN weighting_NN schemes_NNS with_IN SVM_NN on_IN two_CD widely-used_JJ benchmark_NN data_NNS sets_NNS ._.
+We_PRP also_RB presented_VBD a_DT new_JJ term_NN weighting_NN scheme_NN tf-rf_NN to_TO improve_VB the_DT term_NN 's_POS discriminating_VBG power_NN ._.
+The_DT controlled_JJ experimental_JJ results_NNS showed_VBD that_IN this_DT newly_RB proposed_VBN tf-rf_NN scheme_NN is_VBZ significantly_RB better_JJR than_IN other_JJ widely-used_JJ term_NN weighting_NN schemes_NNS ._.
+Compared_VBN with_IN schemes_NNS related_VBN with_IN tf_NN factor_NN alone_RB ,_, the_DT idf_NN factor_NN does_VBZ not_RB improve_VB or_CC even_RB decrease_VB the_DT term_NN 's_POS discriminating_VBG power_NN for_IN text_NN categorization_NN ._.

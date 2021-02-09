@@ -1,0 +1,6 @@
+Ranking_JJ community_NN answers_NNS via_IN analogical_JJ reasoning_NN
+Due_JJ to_TO the_DT lexical_JJ gap_NN between_IN questions_NNS and_CC answers_NNS ,_, automatically_RB detecting_VBG right_JJ answers_NNS becomes_VBZ very_RB challenging_JJ for_IN community_NN question-answering_NN sites_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT analogical_JJ reasoning-based_JJ method_NN ._.
+It_PRP treats_VBZ questions_NNS and_CC answers_NNS as_IN relational_JJ data_NNS and_CC ranks_VBZ an_DT answer_NN by_IN measuring_VBG the_DT analogy_NN of_IN its_PRP$ link_NN to_TO a_DT query_NN with_IN the_DT links_NNS embedded_VBN in_IN previous_JJ relevant_JJ knowledge_NN ;_: the_DT answer_NN that_WDT links_VBZ in_IN the_DT most_RBS analogous_JJ way_NN to_TO the_DT new_JJ question_NN is_VBZ assumed_VBN to_TO be_VB the_DT best_JJS answer_NN ._.
+We_PRP based_VBD our_PRP$ experiments_NNS on_IN 29.8_CD million_CD Yahoo_NNP !_.
+Answer_NN question-answer_NN threads_NNS and_CC showed_VBD the_DT effectiveness_NN of_IN the_DT approach_NN ._.

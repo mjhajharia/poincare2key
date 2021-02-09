@@ -1,0 +1,8 @@
+Summarizing_VBG itemset_NN patterns_NNS :_: a_DT profile-based_JJ approach_NN
+Frequent-pattern_JJ mining_NN has_VBZ been_VBN studied_VBN extensively_RB on_IN scalable_JJ methods_NNS for_IN mining_NN various_JJ kinds_NNS of_IN patterns_NNS including_VBG itemsets_NNS ,_, sequences_NNS ,_, and_CC graphs_NNS ._.
+However_RB ,_, the_DT bottleneck_NN of_IN frequent-pattern_JJ mining_NN is_VBZ not_RB at_IN the_DT efficiency_NN but_CC at_IN the_DT interpretability_NN ,_, due_JJ to_TO the_DT huge_JJ number_NN of_IN patterns_NNS generated_VBN by_IN the_DT mining_NN process_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP examine_VBP how_WRB to_TO summarize_VB a_DT collection_NN of_IN itemset_NN patterns_NNS using_VBG only_JJ K_NN representatives_NNS ,_, a_DT small_JJ number_NN of_IN patterns_NNS that_IN a_DT user_NN can_MD handle_VB easily_RB ._.
+The_DT K_NN representatives_NNS should_MD not_RB only_RB cover_VB most_JJS of_IN the_DT frequent_JJ patterns_NNS but_CC also_RB approximate_JJ their_PRP$ supports_NNS ._.
+A_DT generative_JJ model_NN is_VBZ built_VBN to_TO extract_VB and_CC profile_VB these_DT representatives_NNS ,_, under_IN which_WDT the_DT supports_NNS of_IN the_DT patterns_NNS can_MD be_VB easily_RB recovered_VBN without_IN consulting_VBG the_DT original_JJ dataset_NN ._.
+Based_VBN on_IN the_DT restoration_NN error_NN ,_, we_PRP propose_VBP a_DT quality_NN measure_NN function_NN to_TO determine_VB the_DT optimal_JJ value_NN of_IN parameter_NN K._NNP Polynomial_NNP time_NN algorithms_NNS are_VBP developed_VBN together_RB with_IN several_JJ optimization_NN heuristics_NNS for_IN efficiency_NN improvement_NN ._.
+Empirical_JJ studies_NNS indicate_VBP that_IN we_PRP can_MD obtain_VB compact_JJ summarization_NN in_IN real_JJ datasets_NNS ._.

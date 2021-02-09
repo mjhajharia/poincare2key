@@ -1,0 +1,10 @@
+Image_NN classification_NN for_IN mobile_JJ web_NN browsing_VBG
+It_PRP is_VBZ difficult_JJ for_IN users_NNS of_IN mobile_JJ devices_NNS such_JJ as_IN cellular_JJ phones_NNS equipped_VBN with_IN a_DT small_JJ screen_NN and_CC a_DT poor_JJ input_NN interface_NN to_TO browse_VB Web_NN pages_NNS designed_VBN for_IN desktop_NN PCs_NNS with_IN large_JJ displays_NNS ._.
+Many_JJ studies_NNS and_CC commercial_JJ products_NNS have_VBP tried_VBN to_TO solve_VB this_DT problem_NN ._.
+Web_NN pages_NNS include_VBP images_NNS that_WDT have_VBP various_JJ roles_NNS such_JJ as_IN site_NN menus_NNS ,_, line_NN headers_NNS for_IN itemization_NN ,_, and_CC page_NN titles_NNS ._.
+However_RB ,_, most_JJS studies_NNS of_IN mobile_JJ Web_NN browsing_VBG have_VBP n't_RB paid_VBN much_JJ attention_NN to_TO the_DT roles_NNS of_IN Web_NN images_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP define_VBP eleven_NNS Web_NN image_NN categories_NNS according_VBG to_TO their_PRP$ roles_NNS and_CC use_VB these_DT categories_NNS for_IN proper_JJ Web_NN image_NN handling_NN ._.
+We_PRP manually_RB categorized_VBD 3,901_CD Web_NN images_NNS collected_VBN from_IN forty_CD Web_NN sites_NNS and_CC extracted_VBN image_NN features_NNS of_IN each_DT category_NN according_VBG to_TO the_DT classification_NN ._.
+By_IN making_VBG use_NN of_IN the_DT extracted_VBN features_NNS ,_, we_PRP devised_VBD an_DT automatic_JJ Web_NN image_NN classification_NN method_NN ._.
+Furthermore_RB ,_, we_PRP evaluated_VBD the_DT automatic_JJ classification_NN of_IN real_JJ Web_NN pages_NNS and_CC achieved_VBD up_RB to_TO 83.1_CD %_NN classification_NN accuracy_NN ._.
+We_PRP also_RB implemented_VBD an_DT automatic_JJ Web_NN page_NN scrolling_VBG system_NN as_IN an_DT application_NN of_IN our_PRP$ automatic_JJ image_NN classification_NN method_NN ._.

@@ -1,0 +1,14 @@
+Strategic_JJ formation_NN of_IN credit_NN networks_NNS
+Credit_NN networks_NNS are_VBP an_DT abstraction_NN for_IN modeling_NN trust_NN between_IN agents_NNS in_IN a_DT network_NN ._.
+Agents_NNS who_WP do_VBP not_RB directly_RB trust_VB each_DT other_JJ can_MD transact_VB through_IN exchange_NN of_IN IOUs_NNS -LRB-_-LRB- obligations_NNS -RRB-_-RRB- along_IN a_DT chain_NN of_IN trust_NN in_IN the_DT network_NN ._.
+Credit_NN networks_NNS are_VBP robust_JJ to_TO intrusion_NN ,_, can_MD enable_VB transactions_NNS between_IN strangers_NNS in_IN exchange_NN economies_NNS ,_, and_CC have_VBP the_DT liquidity_NN to_TO support_VB a_DT high_JJ rate_NN of_IN transactions_NNS ._.
+We_PRP study_VBD the_DT formation_NN of_IN such_JJ networks_NNS when_WRB agents_NNS strategically_RB decide_VBP how_WRB much_JJ credit_NN to_TO extend_VB each_DT other_JJ ._.
+When_WRB each_DT agent_NN trusts_NNS a_DT fixed_JJ set_NN of_IN other_JJ agents_NNS ,_, and_CC transacts_VBZ directly_RB only_RB with_IN those_DT it_PRP trusts_NNS ,_, the_DT formation_NN game_NN is_VBZ a_DT potential_JJ game_NN and_CC all_DT Nash_NNP equilibria_NNS are_VBP social_JJ optima_NN ._.
+Moreover_RB ,_, the_DT Nash_NNP equilibria_NN of_IN this_DT game_NN are_VBP equivalent_JJ in_IN a_DT very_RB strong_JJ sense_NN :_: the_DT sequences_NNS of_IN transactions_NNS that_WDT can_MD be_VB supported_VBN from_IN each_DT equilibrium_NN credit_NN network_NN are_VBP identical_JJ ._.
+When_WRB we_PRP allow_VBP transactions_NNS over_IN longer_JJR paths_NNS ,_, the_DT game_NN may_MD not_RB admit_VB a_DT Nash_NNP equilibrium_NN ,_, and_CC even_RB when_WRB it_PRP does_VBZ ,_, the_DT price_NN of_IN anarchy_NN may_MD be_VB unbounded_JJ ._.
+Hence_RB ,_, we_PRP study_VBD two_CD special_JJ cases_NNS ._.
+First_RB ,_, when_WRB agents_NNS have_VBP a_DT shared_VBN belief_NN about_IN the_DT trustworthiness_NN of_IN each_DT agent_NN ,_, the_DT networks_NNS formed_VBN in_IN equilibrium_NN have_VBP a_DT star-like_JJ structure_NN ._.
+Though_IN the_DT price_NN of_IN anarchy_NN is_VBZ unbounded_JJ ,_, myopic_JJ best_JJS response_NN quickly_RB converges_VBZ to_TO a_DT social_JJ optimum_NN ._.
+Similar_JJ star-like_JJ structures_NNS are_VBP found_VBN in_IN equilibria_NN of_IN heuristic_NN strategies_NNS found_VBN via_IN simulation_NN ._.
+In_IN addition_NN ,_, we_PRP simulate_VBP a_DT second_JJ case_NN where_WRB agents_NNS may_MD have_VB varying_VBG information_NN about_IN each_DT others_NNS '_POS trustworthiness_NN based_VBN on_IN their_PRP$ distance_NN in_IN a_DT social_JJ network_NN ._.
+Empirical_JJ game_NN analysis_NN of_IN these_DT scenarios_NNS suggests_VBZ that_IN star_NN structures_NNS arise_VBP only_RB when_WRB defaults_NNS are_VBP relatively_RB rare_JJ ,_, and_CC otherwise_RB ,_, credit_NN tends_VBZ to_TO be_VB issued_VBN over_IN short_JJ social_JJ distances_NNS conforming_VBG to_TO the_DT locality_NN of_IN information_NN ._.

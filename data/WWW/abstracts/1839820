@@ -1,0 +1,5 @@
+TCOZ_NN approach_NN to_TO semantic_JJ web_NN services_NNS design_NN
+Complex_NN Semantic_JJ Web_NN -LRB-_-LRB- SW_NN -RRB-_-RRB- services_NNS may_MD have_VB intricate_JJ data_NNS state_NN ,_, autonomous_JJ process_NN behavior_NN and_CC concurrent_JJ interactions_NNS ._.
+The_DT design_NN of_IN such_JJ SW_NN service_NN systems_NNS requires_VBZ precise_JJ and_CC powerful_JJ modelling_NN techniques_NNS to_TO capture_VB not_RB only_RB the_DT ontology_JJ domain_NN properties_NNS but_CC also_RB the_DT services_NNS '_POS process_NN behavior_NN and_CC functionalities_NNS ._.
+In_IN this_DT paper_NN we_PRP apply_VBP an_DT integrated_JJ formal_JJ modeling_NN language_NN ,_, Timed_NNP Communicating_NNP Object_NNP Z_NN -LRB-_-LRB- TCOZ_NN -RRB-_-RRB- ,_, to_TO design_VB SW_NN services_NNS ._.
+Furthermore_RB ,_, the_DT paper_NN presents_VBZ the_DT development_NN of_IN the_DT systematic_JJ translation_NN rules_NNS and_CC tools_NNS which_WDT can_MD automatically_RB extract_VB the_DT SW_NN ontology_NN and_CC services_NNS semantic_JJ markup_NN from_IN the_DT formal_JJ TCOZ_NN design_NN model_NN ._.

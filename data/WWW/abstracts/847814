@@ -1,0 +1,8 @@
+Using_VBG XForms_NNS to_TO simplify_VB Web_NN programming_NN
+The_DT difficulty_NN of_IN developing_VBG and_CC deploying_VBG commercial_JJ web_NN applications_NNS increases_VBZ as_IN the_DT number_NN of_IN technologies_NNS they_PRP use_VBP increases_NNS and_CC as_IN the_DT interactions_NNS between_IN these_DT technologies_NNS become_VBP more_RBR complex_JJ ._.
+This_DT paper_NN describes_VBZ a_DT way_NN to_TO avoid_VB this_DT increasing_VBG complexity_NN by_IN re-examining_VBG the_DT basic_JJ requirements_NNS of_IN web_NN applications_NNS ._.
+Our_PRP$ approach_NN is_VBZ to_TO first_JJ separate_JJ client_NN concerns_NNS from_IN server_NN concerns_NNS ,_, and_CC then_RB to_TO reduce_VB the_DT interaction_NN between_IN client_NN and_CC server_NN to_TO its_PRP$ most_RBS elemental_JJ :_: parameter_NN passing_NN ._.
+We_PRP define_VBP a_DT simplified_VBN programming_NN model_NN for_IN form-based_JJ web_NN applications_NNS and_CC we_PRP use_VBP XForms_NN and_CC a_DT subset_NN of_IN J2EE_NN as_IN enabling_VBG technologies_NNS ._.
+We_PRP describe_VBP our_PRP$ implementation_NN of_IN an_DT MVC-based_JJ application_NN builder_NN for_IN this_DT model_NN ,_, which_WDT automatically_RB generates_VBZ the_DT code_NN needed_VBN to_TO marshal_JJ input_NN and_CC output_NN data_NNS between_IN clients_NNS and_CC servers_NNS ._.
+This_DT marshalling_NN uses_VBZ type_NN checking_NN and_CC other_JJ forms_NNS of_IN validation_NN on_IN both_DT clients_NNS and_CC servers_NNS ._.
+We_PRP also_RB show_VBP how_WRB our_PRP$ programming_NN model_NN and_CC application_NN builder_NN support_VBP the_DT customization_NN of_IN web_NN applications_NNS for_IN different_JJ execution_NN targets_NNS ,_, including_VBG ,_, for_IN example_NN ,_, different_JJ client_NN devices_NNS ._.

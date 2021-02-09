@@ -1,0 +1,7 @@
+CloseGraph_NNP :_: mining_NN closed_VBD frequent_JJ graph_NN patterns_NNS
+Recent_JJ research_NN on_IN pattern_NN discovery_NN has_VBZ progressed_VBN form_NN mining_NN frequent_JJ itemsets_NNS and_CC sequences_NNS to_TO mining_NN structured_JJ patterns_NNS including_VBG trees_NNS ,_, lattices_NNS ,_, and_CC graphs_NNS ._.
+As_IN a_DT general_JJ data_NN structure_NN ,_, graph_NN can_MD model_VB complicated_JJ relations_NNS among_IN data_NNS with_IN wide_JJ applications_NNS in_IN bioinformatics_NNS ,_, Web_NN exploration_NN ,_, and_CC etc._NN ._.
+However_RB ,_, mining_NN large_JJ graph_NN patterns_NNS in_IN challenging_VBG due_JJ to_TO the_DT presence_NN of_IN an_DT exponential_JJ number_NN of_IN frequent_JJ subgraphs_NNS ._.
+Instead_RB of_IN mining_NN all_PDT the_DT subgraphs_NNS ,_, we_PRP propose_VBP to_TO mine_VB closed_JJ frequent_JJ graph_NN patterns_NNS ._.
+A_DT graph_NN g_NN is_VBZ closed_VBN in_IN a_DT database_NN if_IN there_EX exists_VBZ no_DT proper_JJ supergraph_NN of_IN g_NN that_WDT has_VBZ the_DT same_JJ support_NN as_IN g._NN A_NN closed_VBD graph_NN pattern_NN mining_NN algorithm_NN ,_, CloseGraph_NNP ,_, is_VBZ developed_VBN by_IN exploring_VBG several_JJ interesting_JJ pruning_NN methods_NNS ._.
+Our_PRP$ performance_NN study_NN shows_VBZ that_IN CloseGraph_NNP not_RB only_RB dramatically_RB reduces_VBZ unnecessary_JJ subgraphs_NNS to_TO be_VB generated_VBN but_CC also_RB substantially_RB increases_VBZ the_DT efficiency_NN of_IN mining_NN ,_, especially_RB in_IN the_DT presence_NN of_IN large_JJ graph_NN patterns_NNS ._.

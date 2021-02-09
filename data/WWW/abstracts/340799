@@ -1,0 +1,10 @@
+Anti-aliasing_VBG on_IN the_DT web_NN
+It_PRP is_VBZ increasingly_RB common_JJ for_IN users_NNS to_TO interact_VB with_IN the_DT web_NN using_VBG a_DT number_NN of_IN different_JJ aliases_NNS ._.
+This_DT trend_NN is_VBZ a_DT double-edged_JJ sword_NN ._.
+On_IN one_CD hand_NN ,_, it_PRP is_VBZ a_DT fundamental_JJ building_NN block_NN in_IN approaches_NNS to_TO online_JJ privacy_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, there_EX are_VBP economic_JJ and_CC social_JJ consequences_NNS to_TO allowing_VBG each_DT user_NN an_DT arbitrary_JJ number_NN of_IN free_JJ aliases_NNS ._.
+Thus_RB ,_, there_EX is_VBZ great_JJ interest_NN in_IN understanding_VBG the_DT fundamental_JJ issues_NNS in_IN obscuring_VBG the_DT identities_NNS behind_IN aliases_NNS ._.
+However_RB ,_, most_JJS work_NN in_IN the_DT area_NN has_VBZ focused_VBN on_IN linking_VBG aliases_NNS through_IN analysis_NN of_IN lower-level_JJ properties_NNS of_IN interactions_NNS such_JJ as_IN network_NN routes_NNS ._.
+We_PRP show_VBP that_IN aliases_NNS that_WDT actively_RB post_VBP text_NN on_IN the_DT web_NN can_MD be_VB linked_VBN together_RB through_IN analysis_NN of_IN that_DT text_NN ._.
+We_PRP study_VBD a_DT large_JJ number_NN of_IN users_NNS posting_VBG on_IN bulletin_NN boards_NNS ,_, and_CC develop_VB algorithms_NNS to_TO anti-alias_NNS those_DT users_NNS :_: we_PRP can_MD with_IN a_DT high_JJ degree_NN of_IN success_NN identify_VBP when_WRB two_CD aliases_NNS belong_VBP to_TO the_DT same_JJ individual_NN ._.
+Our_PRP$ results_NNS show_VBP that_IN such_JJ techniques_NNS are_VBP surprisingly_RB effective_JJ ,_, leading_VBG us_PRP to_TO conclude_VB that_IN guaranteeing_NN privacy_NN among_IN aliases_NNS that_WDT post_VBP actively_RB requires_VBZ mechanisms_NNS that_WDT do_VBP not_RB yet_RB exist_VBP ._.

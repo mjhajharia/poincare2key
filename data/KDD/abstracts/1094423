@@ -1,0 +1,7 @@
+Combining_VBG linguistic_JJ and_CC statistical_JJ analysis_NN to_TO extract_VB relations_NNS from_IN web_NN documents_NNS
+The_DT World_NNP Wide_NN Web_NN provides_VBZ a_DT nearly_RB endless_JJ source_NN of_IN knowledge_NN ,_, which_WDT is_VBZ mostly_RB given_VBN in_IN natural_JJ language_NN ._.
+A_DT first_JJ step_NN towards_IN exploiting_VBG this_DT data_NNS automatically_RB could_MD be_VB to_TO extract_VB pairs_NNS of_IN a_DT given_VBN semantic_JJ relation_NN from_IN text_NN documents_NNS -_: for_IN example_NN all_DT pairs_NNS of_IN a_DT person_NN and_CC her_PRP$ birthdate_NN ._.
+One_CD strategy_NN for_IN this_DT task_NN is_VBZ to_TO find_VB text_NN patterns_NNS that_WDT express_VBP the_DT semantic_JJ relation_NN ,_, to_TO generalize_VB these_DT patterns_NNS ,_, and_CC to_TO apply_VB them_PRP to_TO a_DT corpus_NN to_TO find_VB new_JJ pairs_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP show_VBP that_IN this_DT approach_NN profits_NNS significantly_RB when_WRB deep_JJ linguistic_JJ structures_NNS are_VBP used_VBN instead_RB of_IN surface_NN text_NN patterns_NNS ._.
+We_PRP demonstrate_VBP how_WRB linguistic_JJ structures_NNS can_MD be_VB represented_VBN for_IN machine_NN learning_NN ,_, and_CC we_PRP provide_VBP a_DT theoretical_JJ analysis_NN of_IN the_DT pattern_NN matching_NN approach_NN ._.
+We_PRP show_VBP the_DT benefits_NNS of_IN our_PRP$ approach_NN by_IN extensive_JJ experiments_NNS with_IN our_PRP$ prototype_NN system_NN LEILA_NNP ._.

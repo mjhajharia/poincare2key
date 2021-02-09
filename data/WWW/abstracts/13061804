@@ -1,0 +1,10 @@
+Online_JJ spelling_NN correction_NN for_IN query_NN completion_NN
+In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT problem_NN of_IN online_JJ spelling_NN correction_NN for_IN query_NN completions_NNS ._.
+Misspelling_NNP is_VBZ a_DT common_JJ phenomenon_NN among_IN search_NN engines_NNS queries_NNS ._.
+In_IN order_NN to_TO help_VB users_NNS effectively_RB express_VBP their_PRP$ information_NN needs_NNS ,_, mechanisms_NNS for_IN automatically_RB correcting_VBG misspelled_VBN queries_NNS are_VBP required_VBN ._.
+Online_JJ spelling_NN correction_NN aims_VBZ to_TO provide_VB spell_NN corrected_JJ completion_NN suggestions_NNS as_IN a_DT query_NN is_VBZ incrementally_RB entered_VBN ._.
+As_IN latency_NN is_VBZ crucial_JJ to_TO the_DT utility_NN of_IN the_DT suggestions_NNS ,_, such_PDT an_DT algorithm_NN needs_VBZ to_TO be_VB not_RB only_RB accurate_JJ ,_, but_CC also_RB efficient_JJ ._.
+To_TO tackle_VB this_DT problem_NN ,_, we_PRP propose_VBP and_CC study_VBP a_DT generative_JJ model_NN for_IN input_NN queries_NNS ,_, based_VBN on_IN a_DT noisy_JJ channel_NN transformation_NN of_IN the_DT intended_JJ queries_NNS ._.
+Utilizing_VBG spelling_NN correction_NN pairs_NNS ,_, we_PRP train_VBP a_DT Markov_NNP n-gram_NN transformation_NN model_NN that_WDT captures_VBZ user_NN spelling_NN behavior_NN in_IN an_DT unsupervised_JJ fashion_NN ._.
+To_TO find_VB the_DT top_JJ spell-corrected_JJ completion_NN suggestions_NNS in_IN real-time_JJ ,_, we_PRP adapt_VBP the_DT A_NN \*_NN search_NN algorithm_NN with_IN various_JJ pruning_NN heuristics_NNS to_TO dynamically_RB expand_VB the_DT search_NN space_NN efficiently_RB ._.
+Evaluation_NN of_IN the_DT proposed_VBN methods_NNS demonstrates_VBZ a_DT substantial_JJ increase_NN in_IN the_DT effectiveness_NN of_IN online_JJ spelling_NN correction_NN over_IN existing_VBG techniques_NNS ._.

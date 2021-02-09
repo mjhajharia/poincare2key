@@ -1,0 +1,8 @@
+Dynamic_NNP placement_NN for_IN clustered_VBN web_NN applications_NNS
+We_PRP introduce_VBP and_CC evaluate_VBP a_DT middleware_JJ clustering_NN technology_NN capable_JJ of_IN allocating_VBG resources_NNS to_TO web_NN applications_NNS through_IN dynamic_JJ application_NN instance_NN placement_NN ._.
+We_PRP define_VBP application_NN instance_NN placement_NN as_IN the_DT problem_NN of_IN placing_VBG application_NN instances_NNS on_IN a_DT given_VBN set_NN of_IN server_NN machines_NNS to_TO adjust_VB the_DT amount_NN of_IN resources_NNS available_JJ to_TO applications_NNS in_IN response_NN to_TO varying_VBG resource_NN demands_NNS of_IN application_NN clusters_NNS ._.
+The_DT objective_NN is_VBZ to_TO maximize_VB the_DT amount_NN of_IN demand_NN that_WDT may_MD be_VB satisfied_VBN using_VBG a_DT configured_JJ placement_NN ._.
+To_TO limit_VB the_DT disturbance_NN to_TO the_DT system_NN caused_VBN by_IN starting_VBG and_CC stopping_VBG application_NN instances_NNS ,_, the_DT placement_NN algorithm_NN attempts_VBZ to_TO minimize_VB the_DT number_NN of_IN placement_NN changes_NNS ._.
+It_PRP also_RB strives_VBZ to_TO keep_VB resource_NN utilization_NN balanced_VBN across_IN all_DT server_NN machines_NNS ._.
+Two_CD types_NNS of_IN resources_NNS are_VBP managed_VBN ,_, one_CD load-dependent_JJ and_CC one_CD load-independent_JJ ._.
+When_WRB putting_VBG the_DT chosen_JJ placement_NN in_IN effect_NN our_PRP$ controller_NN schedules_NNS placement_NN changes_NNS in_IN a_DT manner_NN that_WDT limits_VBZ the_DT disruption_NN to_TO the_DT system_NN ._.

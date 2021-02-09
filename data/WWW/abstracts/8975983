@@ -1,0 +1,5 @@
+Merging_VBG trees_NNS :_: file_NN system_NN and_CC content_NN integration_NN
+XML_NN is_VBZ the_DT predominant_JJ format_NN for_IN representing_VBG structured_JJ information_NN inside_IN documents_NNS ,_, but_CC it_PRP stops_VBZ at_IN the_DT level_NN of_IN files_NNS ._.
+This_DT makes_VBZ it_PRP hard_JJ to_TO use_VB XML-oriented_JJ tools_NNS to_TO process_NN information_NN which_WDT is_VBZ scattered_VBN over_IN multiple_JJ documents_NNS within_IN a_DT file_NN system_NN ._.
+File_NNP System_NNP XML_NN -LRB-_-LRB- FSX_NNP -RRB-_-RRB- and_CC its_PRP$ content_NN integration_NN provides_VBZ a_DT unified_JJ view_NN of_IN file_NN system_NN structure_NN and_CC content_NN ._.
+FSX_NNP 's_POS adaptors_NNS map_VBP file_NN contents_NNS to_TO XML_NN ,_, which_WDT means_VBZ that_IN any_DT file_NN format_NN can_MD be_VB integrated_VBN with_IN an_DT XML_NN view_NN in_IN the_DT integrated_JJ view_NN of_IN the_DT file_NN system_NN ._.

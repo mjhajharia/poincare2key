@@ -1,0 +1,10 @@
+Distributing_VBG private_JJ data_NNS in_IN challenged_VBN network_NN environments_NNS
+Developing_VBG countries_NNS face_VBP significant_JJ challenges_NNS in_IN network_NN access_NN ,_, making_VBG even_RB simple_JJ network_NN tasks_NNS unpleasant_JJ ._.
+Many_JJ standard_JJ techniques_NNS -_: caching_NN and_CC predictive_JJ prefetching_NN -_: help_NN somewhat_RB ,_, but_CC provide_VBP little_JJ or_CC no_DT assistance_NN for_IN personal_JJ data_NNS that_WDT is_VBZ needed_VBN only_RB by_IN a_DT single_JJ user_NN ._.
+Sulula_NNP addresses_VBZ this_DT problem_NN by_IN leveraging_VBG the_DT near-ubiquity_NN of_IN cellular_JJ phones_NNS able_JJ to_TO send_VB and_CC receive_VB simple_JJ SMS_NN messages_NNS ._.
+Rather_RB than_IN visit_VB a_DT kiosk_NN and_CC fetch_VB data_NNS on_IN demand_NN -_: a_DT tiresome_JJ process_NN at_IN best_JJS -_: users_NNS request_VBP a_DT future_JJ visit_NN ._.
+If_IN capacity_NN exists_VBZ ,_, the_DT kiosk_NN can_MD schedule_VB secure_JJ retrieval_NN of_IN that_DT user_NN 's_POS data_NNS ,_, saving_VBG time_NN and_CC more_RBR efficiently_RB utilizing_VBG the_DT kiosk_NN 's_POS limited_JJ connectivity_NN ._.
+When_WRB the_DT user_NN arrives_VBZ at_IN a_DT provisioned_VBN kiosk_NN ,_, she_PRP need_MD only_RB obtain_VB the_DT session_NN key_JJ on-demand_NN ,_, and_CC thereafter_RB has_VBZ instant_JJ access_NN ._.
+In_IN addition_NN ,_, Sulula_NNP allows_VBZ users_NNS to_TO schedule_VB data_NNS uploads_NNS ._.
+Experimental_JJ results_NNS show_VBP significant_JJ gains_NNS for_IN the_DT end_NN user_NN ,_, saving_VBG tens_NNS of_IN minutes_NNS of_IN time_NN for_IN a_DT typical_JJ email\/news_NNS reading_VBG session_NN ._.
+We_PRP also_RB describe_VBP a_DT small_JJ ,_, ongoing_JJ deployment_NN in-country_JJ for_IN proof-of-concept_JJ ,_, lessons_NNS learned_VBD from_IN that_DT experience_NN ,_, and_CC provide_VBP a_DT discussion_NN on_IN pricing_NN and_CC marketplace_NN issues_NNS that_WDT remain_VBP to_TO be_VB addressed_VBN to_TO make_VB the_DT system_NN viable_JJ for_IN developing-world_JJ access_NN ._.

@@ -1,0 +1,8 @@
+Defeating_VBG script_NN injection_NN attacks_NNS with_IN browser-enforced_JJ embedded_JJ policies_NNS
+Web_NN sites_NNS that_WDT accept_VBP and_CC display_VBP content_NN such_JJ as_IN wiki_NN articles_NNS or_CC comments_NNS typically_RB filter_NN the_DT content_NN to_TO prevent_VB injected_VBN script_NN code_NN from_IN running_VBG in_IN browsers_NNS that_WDT view_VBP the_DT site_NN ._.
+The_DT diversity_NN of_IN browser_NN rendering_VBG algorithms_NNS and_CC the_DT desire_NN to_TO allow_VB rich_JJ content_NN make_VBP filtering_VBG quite_RB difficult_JJ ,_, however_RB ,_, and_CC attacks_NNS such_JJ as_IN the_DT Samy_NNP and_CC Yamanner_NNP worms_NNS have_VBP exploited_VBN filtering_VBG weaknesses_NNS ._.
+This_DT paper_NN proposes_VBZ a_DT simple_JJ alternative_JJ mechanism_NN for_IN preventing_VBG script_NN injection_NN called_VBN Browser-Enforced_NNP Embedded_VBN Policies_NNS -LRB-_-LRB- BEEP_NN -RRB-_-RRB- ._.
+The_DT idea_NN is_VBZ that_IN a_DT web_NN site_NN can_MD embed_VB a_DT policy_NN in_IN its_PRP$ pages_NNS that_WDT specifies_VBZ which_WDT scripts_NNS are_VBP allowed_VBN to_TO run_VB ._.
+The_DT browser_NN ,_, which_WDT knows_VBZ exactly_RB when_WRB it_PRP will_MD run_VB a_DT script_NN ,_, can_MD enforce_VB this_DT policy_NN perfectly_RB ._.
+We_PRP have_VBP added_VBN BEEP_NN support_NN to_TO several_JJ browsers_NNS ,_, and_CC built_VBN tools_NNS to_TO simplify_VB adding_VBG policies_NNS to_TO web_NN applications_NNS ._.
+We_PRP found_VBD that_IN supporting_VBG BEEP_NN in_IN browsers_NNS requires_VBZ only_RB small_JJ and_CC localized_JJ modifications_NNS ,_, modifying_VBG web_NN applications_NNS requires_VBZ minimal_JJ effort_NN ,_, and_CC enforcing_VBG policies_NNS is_VBZ generally_RB lightweight_JJ ._.

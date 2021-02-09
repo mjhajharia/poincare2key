@@ -1,0 +1,10 @@
+Data_NN mining_NN criteria_NNS for_IN tree-based_JJ regression_NN and_CC classification_NN
+This_DT paper_NN is_VBZ concerned_VBN with_IN the_DT construction_NN of_IN regression_NN and_CC classification_NN trees_NNS that_WDT are_VBP more_RBR adapted_VBN to_TO data_NN mining_NN applications_NNS than_IN conventional_JJ trees_NNS ._.
+To_TO this_DT end_NN ,_, we_PRP propose_VBP new_JJ splitting_NN criteria_NNS for_IN growing_VBG trees_NNS ._.
+Conventional_JJ splitting_NN criteria_NNS attempt_VBP to_TO perform_VB well_RB on_IN both_DT sides_NNS of_IN a_DT split_NN by_IN attempting_VBG a_DT compromise_NN in_IN the_DT quality_NN of_IN fit_NN between_IN the_DT left_NN and_CC the_DT right_JJ side_NN ._.
+By_IN contrast_NN ,_, we_PRP adopt_VBP a_DT data_NN mining_NN point_NN of_IN view_NN by_IN proposing_VBG criteria_NNS that_WDT search_VBP for_IN interesting_JJ subsets_NNS of_IN the_DT data_NNS ,_, as_IN opposed_VBN to_TO modeling_NN all_DT of_IN the_DT data_NNS equally_RB well_RB ._.
+The_DT new_JJ criteria_NNS do_VBP not_RB split_VB based_VBN on_IN a_DT compromise_NN between_IN the_DT left_NN and_CC the_DT right_JJ bucket_NN ;_: they_PRP effectively_RB pick_VBP the_DT more_RBR interesting_JJ bucket_NN and_CC ignore_VB the_DT other_JJ ._.
+As_IN expected_VBN ,_, the_DT result_NN is_VBZ often_RB a_DT simpler_JJR characterization_NN of_IN interesting_JJ subsets_NNS of_IN the_DT data_NNS ._.
+Less_RBR expected_VBN is_VBZ that_IN the_DT new_JJ criteria_NNS often_RB yield_VBP whole_JJ trees_NNS that_WDT provide_VBP more_RBR interpretable_JJ data_NN descriptions_NNS ._.
+Surprisingly_RB ,_, it_PRP is_VBZ a_DT ``_`` flaw_NN ''_'' that_WDT works_VBZ to_TO their_PRP$ advantage_NN :_: The_DT new_JJ criteria_NNS have_VBP an_DT increased_VBN tendency_NN to_TO accept_VB splits_VBZ near_IN the_DT boundaries_NNS of_IN the_DT predictor_NN ranges_NNS ._.
+This_DT so-called_JJ ``_`` end-cut_JJ problem_NN ''_'' leads_VBZ to_TO the_DT repeated_JJ peeling_NN of_IN small_JJ layers_NNS of_IN data_NNS and_CC results_VBZ in_IN very_RB unbalanced_JJ but_CC highly_RB expressive_JJ and_CC interpretable_JJ trees_NNS ._.

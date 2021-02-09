@@ -1,0 +1,8 @@
+Web_NN montage_NN :_: a_DT dynamic_JJ personalized_JJ start_NN page_NN
+Despite_IN the_DT connotation_NN of_IN the_DT words_NNS ``_`` browsing_VBG ''_'' and_CC ``_`` surfing_NN ,_, ''_'' web_NN usage_NN often_RB follows_VBZ routine_JJ patterns_NNS of_IN access_NN ._.
+However_RB ,_, few_JJ mechanisms_NNS exist_VBP to_TO assist_VB users_NNS with_IN these_DT routine_JJ tasks_NNS ;_: bookmarks_NNS or_CC portal_JJ sites_NNS must_MD be_VB maintained_VBN manually_RB and_CC are_VBP insensitive_JJ to_TO the_DT user_NN 's_POS browsing_VBG context_NN ._.
+To_TO fill_VB this_DT void_NN ,_, we_PRP designed_VBD and_CC implemented_VBD the_DT montage_NN system_NN ._.
+A_DT web_NN montage_NN is_VBZ an_DT ensemble_NN of_IN links_NNS and_CC content_NN fused_VBN into_IN a_DT single_JJ view_NN ._.
+Such_JJ a_DT coalesced_JJ view_NN can_MD be_VB presented_VBN to_TO the_DT user_NN whenever_WRB he_PRP or_CC she_PRP opens_VBZ the_DT browser_NN or_CC returns_NNS to_TO the_DT start_NN page_NN ._.
+We_PRP pose_VBP a_DT number_NN of_IN hypotheses_NNS about_IN how_WRB users_NNS would_MD interact_VB with_IN such_PDT a_DT system_NN ,_, and_CC test_VB these_DT hypotheses_NNS with_IN a_DT fielded_VBN user_NN study_NN ._.
+Our_PRP$ findings_NNS support_VBP some_DT design_NN decisions_NNS ,_, such_JJ as_IN using_VBG browsing_VBG context_NN to_TO tailor_VB the_DT montage_NN ,_, raise_VB questions_NNS about_IN others_NNS ,_, and_CC point_NN the_DT way_NN toward_IN future_JJ work_NN ._.

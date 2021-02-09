@@ -1,0 +1,7 @@
+A_DT probabilistic_JJ approach_NN to_TO automated_JJ bidding_NN in_IN alternative_JJ auctions_NNS
+This_DT paper_NN presents_VBZ an_DT approach_NN to_TO develop_VB bidding_NN agents_NNS that_WDT participate_VBP in_IN multiple_JJ alternative_JJ auctions_NNS ,_, with_IN the_DT goal_NN of_IN obtaining_VBG an_DT item_NN at_IN the_DT lowest_JJS price_NN ._.
+The_DT approach_NN consists_VBZ of_IN a_DT prediction_NN method_NN and_CC a_DT planning_NN algorithm_NN ._.
+The_DT prediction_NN method_NN exploits_VBZ the_DT history_NN of_IN past_JJ auctions_NNS in_IN order_NN to_TO build_VB probability_NN functions_NNS capturing_VBG the_DT belief_NN that_IN a_DT bid_NN of_IN a_DT given_VBN price_NN may_MD win_VB a_DT given_VBN auction_NN ._.
+The_DT planning_NN algorithm_NN computes_VBZ the_DT lowest_JJS price_NN ,_, such_JJ that_IN by_IN sequentially_RB bidding_VBG in_IN a_DT subset_NN of_IN the_DT relevant_JJ auctions_NNS ,_, the_DT agent_NN can_MD obtain_VB the_DT item_NN at_IN that_DT price_NN with_IN an_DT acceptable_JJ probability_NN ._.
+The_DT approach_NN addresses_VBZ the_DT case_NN where_WRB the_DT auctions_NNS are_VBP for_IN substitutable_JJ items_NNS with_IN different_JJ values_NNS ._.
+Experimental_JJ results_NNS are_VBP reported_VBN ,_, showing_VBG that_IN the_DT approach_NN increases_VBZ the_DT payoff_NN of_IN their_PRP$ users_NNS and_CC the_DT welfare_NN of_IN the_DT market_NN ._.

@@ -1,0 +1,8 @@
+An_DT event-condition-action_JJ language_NN for_IN XML_NN
+XML_NN repositories_NNS are_VBP now_RB a_DT widespread_JJ means_NN for_IN storing_VBG and_CC exchanging_VBG information_NN on_IN the_DT Web_NN ._.
+As_IN these_DT repositories_NNS become_VBP increasingly_RB used_VBN in_IN dynamic_JJ applications_NNS such_JJ as_IN e-commerce_NN ,_, there_EX is_VBZ a_DT rapidly_RB growing_VBG need_NN for_IN a_DT mechanism_NN to_TO incorporate_VB reactive_JJ functionality_NN in_IN an_DT XML_NN setting_NN ._.
+Event-condition-action_NN -LRB-_-LRB- ECA_NN -RRB-_-RRB- rules_NNS are_VBP a_DT technology_NN from_IN active_JJ databases_NNS and_CC are_VBP a_DT natural_JJ method_NN for_IN supporting_VBG suchfunctionality_NN ._.
+ECA_NN rules_NNS can_MD be_VB used_VBN for_IN activities_NNS such_JJ as_IN automatically_RB enforcing_VBG document_NN constraints_NNS ,_, maintaining_VBG repository_JJ statistics_NNS ,_, and_CC facilitating_VBG publish\/subscribe_NN applications_NNS ._.
+An_DT important_JJ question_NN associated_VBN with_IN the_DT use_NN of_IN a_DT ECA_NNP rules_NNS is_VBZ how_WRB to_TO statically_RB predict_VB their_PRP$ run-time_JJ behavior_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP define_VBP a_DT language_NN for_IN ECA_NNP rules_NNS on_IN XML_NN repositories_NNS ._.
+We_PRP then_RB investigate_VBP methods_NNS for_IN analyzing_VBG the_DT behavior_NN of_IN a_DT set_NN of_IN ECA_NNP rules_NNS ,_, a_DT task_NN which_WDT has_VBZ added_VBN complexity_NN in_IN this_DT XML_NN setting_NN compared_VBN with_IN conventional_JJ active_JJ databases_NNS ._.

@@ -1,0 +1,6 @@
+Automatically_RB generating_VBG labels_NNS based_VBN on_IN unified_VBN click_VBP model_NN
+Ground_NN truth_NN labels_NNS are_VBP one_CD of_IN the_DT most_RBS important_JJ parts_NNS in_IN many_JJ test_NN collections_NNS for_IN information_NN retrieval_NN ._.
+Each_DT label_NN ,_, depicting_VBG the_DT relevance_NN between_IN a_DT query-document_JJ pair_NN ,_, is_VBZ usually_RB judged_VBN by_IN a_DT human_JJ ,_, and_CC this_DT process_NN is_VBZ time-consuming_JJ and_CC labor-intensive_JJ ._.
+Automatically_RB Generating_NNP labels_NNS from_IN click-through_JJ data_NNS has_VBZ attracted_VBN increasing_VBG attention_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT Unified_NNP Click_NNP Model_NNP to_TO predict_VB the_DT multi-level_JJ labels_NNS ,_, which_WDT aims_VBZ at_IN comprehensively_RB considering_VBG the_DT advantages_NNS of_IN the_DT Position_NN Models_NNS and_CC Cascade_NNP Models_NNS ._.
+Experiments_NNS show_VBP that_IN the_DT proposed_VBN click_VBP model_NN outperforms_VBZ the_DT existing_VBG click_VB models_NNS in_IN predicting_VBG the_DT multi-level_JJ labels_NNS ,_, and_CC could_MD replace_VB the_DT labels_NNS judged_VBN by_IN humans_NNS for_IN test_NN collections_NNS ._.

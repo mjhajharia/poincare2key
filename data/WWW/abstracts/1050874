@@ -1,0 +1,10 @@
+A_DT machine_NN learning_VBG based_VBN approach_NN for_IN table_NN detection_NN on_IN the_DT web_NN
+Table_NNP is_VBZ a_DT commonly_RB used_VBN presentation_NN scheme_NN ,_, especially_RB for_IN describing_VBG relational_JJ information_NN ._.
+However_RB ,_, table_NN understanding_NN remains_VBZ an_DT open_JJ problem_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP consider_VBP the_DT problem_NN of_IN table_NN detection_NN in_IN web_NN documents_NNS ._.
+Its_PRP$ potential_JJ applications_NNS include_VBP web_NN mining_NN ,_, knowledge_NN management_NN ,_, and_CC web_NN content_NN summarization_NN and_CC delivery_NN to_TO narrow-bandwidth_JJ devices_NNS ._.
+We_PRP describe_VBP a_DT machine_NN learning_VBG based_VBN approach_NN to_TO classify_VB each_DT given_VBN table_NN entity_NN as_IN either_CC genuine_JJ or_CC non-genuine_JJ ._.
+Various_JJ features_NNS reflecting_VBG the_DT layout_NN as_RB well_RB as_IN content_JJ characteristics_NNS of_IN tables_NNS are_VBP studied_VBN ._.
+In_IN order_NN to_TO facilitate_VB the_DT training_NN and_CC evaluation_NN of_IN our_PRP$ table_NN classifier_NN ,_, we_PRP designed_VBD a_DT novel_JJ web_NN document_NN table_NN ground_NN truthing_NN protocol_NN and_CC used_VBD it_PRP to_TO build_VB a_DT large_JJ table_NN ground_NN truth_NN database_NN ._.
+The_DT database_NN consists_VBZ of_IN 1,393_CD HTML_NNP files_NNS collected_VBN from_IN hundreds_NNS of_IN different_JJ web_NN sites_NNS and_CC contains_VBZ 11,477_CD leaf_NN TABLE_NN elements_NNS ,_, out_IN of_IN which_WDT 1,740_CD are_VBP genuine_JJ tables_NNS ._.
+Experiments_NNS were_VBD conducted_VBN using_VBG the_DT cross_JJ validation_NN method_NN and_CC an_DT F-measure_NN of_IN 95.89_CD %_NN was_VBD achieved_VBN ._.

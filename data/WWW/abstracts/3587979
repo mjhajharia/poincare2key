@@ -1,0 +1,11 @@
+Design_NN for_IN verification_NN for_IN asynchronously_RB communicating_VBG Web_NN services_NNS
+We_PRP present_VBP a_DT design_NN for_IN verification_NN approach_NN to_TO developing_VBG reliable_JJ web_NN services_NNS ._.
+We_PRP focus_VBP on_IN composite_JJ web_NN services_NNS which_WDT consist_VBP of_IN asynchronously_RB communicating_VBG peers_NNS ._.
+Our_PRP$ goal_NN is_VBZ to_TO automatically_RB verify_VB properties_NNS of_IN interactions_NNS among_IN such_JJ peers_NNS ._.
+We_PRP propose_VBP a_DT design_NN pattern_NN that_WDT eases_VBZ the_DT development_NN of_IN such_JJ web_NN services_NNS and_CC enables_VBZ a_DT modular_JJ ,_, assume-guarantee_JJ style_NN verification_NN strategy_NN ._.
+In_IN the_DT proposed_VBN design_NN pattern_NN ,_, each_DT peer_VBP is_VBZ associated_VBN with_IN a_DT behavioral_JJ interface_NN description_NN which_WDT specifies_VBZ how_WRB that_WDT peer_VBP will_MD interact_VB with_IN other_JJ peers_NNS ._.
+Using_VBG these_DT peer_VBP interfaces_NNS we_PRP automatically_RB generate_VBP BPEL_NN specifications_NNS to_TO publish_VB for_IN interoperability_NN ._.
+Assuming_VBG that_IN the_DT participating_VBG peers_NNS behave_VBP according_VBG to_TO their_PRP$ interfaces_NNS ,_, we_PRP verify_VBP safety_NN and_CC liveness_NN properties_NNS about_IN the_DT global_JJ behavior_NN of_IN the_DT composite_JJ web_NN service_NN during_IN behavior_NN verification_NN ._.
+During_IN interface_NN verification_NN ,_, we_PRP check_VBP that_IN each_DT peer_VBP implementation_NN conforms_VBZ to_TO its_PRP$ interface_NN ._.
+Using_VBG the_DT modularity_NN in_IN the_DT proposed_VBN design_NN pattern_NN ,_, we_PRP are_VBP able_JJ to_TO perform_VB the_DT interface_NN verification_NN of_IN each_DT peer_VBP and_CC the_DT behavior_NN verification_NN as_IN separate_JJ steps_NNS ._.
+Our_PRP$ experiments_NNS show_VBP that_IN ,_, using_VBG this_DT modular_JJ approach_NN ,_, one_PRP can_MD automatically_RB and_CC efficiently_RB verify_VB web_NN service_NN implementations_NNS ._.

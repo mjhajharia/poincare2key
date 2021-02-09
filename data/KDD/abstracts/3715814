@@ -1,0 +1,4 @@
+Automatic_NNP mining_NN of_IN fruit_NN fly_NN embryo_NN images_NNS
+We_PRP present_VBP FEMine_NN ,_, an_DT automatic_JJ system_NN for_IN image-based_JJ gene_NN expression_NN analysis_NN ._.
+We_PRP perform_VBP experiments_NNS on_IN the_DT largest_JJS publicly_RB available_JJ collection_NN of_IN Drosophila_NN ISH_NN -LRB-_-LRB- in_FW situ_FW hybridization_NN -RRB-_-RRB- images_NNS ,_, showing_VBG that_IN our_PRP$ FEMine_NN system_NN achieves_VBZ excellent_JJ performance_NN in_IN classification_NN ,_, clustering_NN ,_, and_CC content-based_JJ image_NN retrieval_NN ._.
+The_DT major_JJ innovation_NN of_IN FEMine_NN is_VBZ the_DT use_NN of_IN automatically_RB discovered_VBN latent_JJ spatial_JJ ``_`` themes_NNS ''_'' of_IN gene_NN expressions_NNS ,_, LGEs_NNS ,_, in_IN the_DT whole-embryo_JJ context_NN ,_, as_IN opposed_VBN to_TO patterns_NNS in_IN nearly_RB disjoint_JJ portions_NNS of_IN an_DT embryo_NN proposed_VBN in_IN previous_JJ methods_NNS ._.

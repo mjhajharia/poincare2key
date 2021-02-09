@@ -1,0 +1,7 @@
+Carpenter_NNP :_: finding_NN closed_VBD patterns_NNS in_IN long_JJ biological_JJ datasets_NNS
+The_DT growth_NN of_IN bioinformatics_NNS has_VBZ resulted_VBN in_IN datasets_NNS with_IN new_JJ characteristics_NNS ._.
+These_DT datasets_NNS typically_RB contain_VBP a_DT large_JJ number_NN of_IN columns_NNS and_CC a_DT small_JJ number_NN of_IN rows_NNS ._.
+For_IN example_NN ,_, many_JJ gene_NN expression_NN datasets_NNS may_MD contain_VB 10,000-100_CD ,000_CD columns_NNS but_CC only_RB 100-1000_CD rows_NNS ._.
+Such_JJ datasets_NNS pose_VBP a_DT great_JJ challenge_NN for_IN existing_VBG -LRB-_-LRB- closed_VBN -RRB-_-RRB- frequent_JJ pattern_NN discovery_NN algorithms_NNS ,_, since_IN they_PRP have_VBP an_DT exponential_JJ dependence_NN on_IN the_DT average_JJ row_NN length_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP a_DT new_JJ algorithm_NN called_VBN CARPENTER_NNP that_WDT is_VBZ specially_RB designed_VBN to_TO handle_VB datasets_NNS having_VBG a_DT large_JJ number_NN of_IN attributes_NNS and_CC relatively_RB small_JJ number_NN of_IN rows_NNS ._.
+Several_JJ experiments_NNS on_IN real_JJ bioinformatics_NNS datasets_NNS show_VBP that_IN CARPENTER_NN is_VBZ orders_NNS of_IN magnitude_NN better_RBR than_IN previous_JJ closed_JJ pattern_NN mining_NN algorithms_NNS like_IN CLOSET_NN and_CC CHARM_NN ._.

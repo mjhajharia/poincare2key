@@ -1,0 +1,8 @@
+P-TAG_NN :_: large_JJ scale_NN automatic_JJ generation_NN of_IN personalized_JJ annotation_NN tags_NNS for_IN the_DT web_NN
+The_DT success_NN of_IN the_DT Semantic_JJ Web_NN depends_VBZ on_IN the_DT availability_NN of_IN Web_NN pages_NNS annotated_JJ with_IN metadata_NN ._.
+Free_JJ form_NN metadata_NN or_CC tags_NNS ,_, as_IN used_VBN in_IN social_JJ bookmarking_NN and_CC folksonomies_NNS ,_, have_VBP become_VBN more_RBR and_CC more_RBR popular_JJ and_CC successful_JJ ._.
+Such_JJ tags_NNS are_VBP relevant_JJ keywords_NNS associated_VBN with_IN or_CC assigned_VBN to_TO a_DT piece_NN of_IN information_NN -LRB-_-LRB- e.g._FW ,_, a_DT Web_NN page_NN -RRB-_-RRB- ,_, describing_VBG the_DT item_NN and_CC enabling_VBG keyword-based_JJ classification_NN ._.
+In_IN this_DT paper_NN we_PRP propose_VBP P-TAG_NN ,_, a_DT method_NN which_WDT automatically_RB generates_VBZ personalized_JJ tags_NNS for_IN Web_NN pages_NNS ._.
+Upon_IN browsing_VBG a_DT Web_NN page_NN ,_, P-TAG_NN produces_VBZ keywords_NNS relevant_JJ both_DT to_TO its_PRP$ textual_JJ content_NN ,_, but_CC also_RB to_TO the_DT data_NNS residing_VBG on_IN the_DT surfer_NN 's_POS Desktop_NNP ,_, thus_RB expressing_VBG a_DT personalized_JJ viewpoint_NN ._.
+Empirical_JJ evaluations_NNS with_IN several_JJ algorithms_NNS pursuing_VBG this_DT approach_NN showed_VBD very_RB promising_JJ results_NNS ._.
+We_PRP are_VBP therefore_RB very_RB confident_JJ that_IN such_PDT a_DT user_NN oriented_JJ automatic_JJ tagging_NN approach_NN can_MD provide_VB large_JJ scale_NN personalized_VBD metadata_JJ annotations_NNS as_IN an_DT important_JJ step_NN towards_IN realizing_VBG the_DT Semantic_JJ Web_NN ._.

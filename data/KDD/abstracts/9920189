@@ -1,0 +1,11 @@
+Tracking_VBG multiple_JJ topics_NNS for_IN finding_VBG interesting_JJ articles_NNS
+We_PRP introduce_VBP multiple_JJ topic_NN tracking_NN -LRB-_-LRB- MTT_NN -RRB-_-RRB- for_IN iScore_NN to_TO better_RBR recommend_VB news_NN articles_NNS for_IN users_NNS with_IN multiple_JJ interests_NNS and_CC to_TO address_VB changes_NNS in_IN user_NN interests_NNS over_IN time_NN ._.
+As_IN an_DT extension_NN of_IN the_DT basic_JJ Rocchio_NNP algorithm_NN ,_, traditional_JJ topic_NN detection_NN and_CC tracking_NN ,_, and_CC single-pass_JJ clustering_NN ,_, MTT_NNP maintains_VBZ multiple_JJ interest_NN profiles_NNS to_TO identify_VB interesting_JJ articles_NNS for_IN a_DT specific_JJ user_NN given_VBN user-feedback_NN ._.
+Focusing_VBG on_IN only_JJ interesting_JJ topics_NNS enables_VBZ iScore_NN to_TO discard_VB useless_JJ profiles_NNS to_TO address_VB changes_NNS in_IN user_NN interests_NNS and_CC to_TO achieve_VB a_DT balance_NN between_IN resource_NN consumption_NN and_CC classification_NN accuracy_NN ._.
+Also_RB by_IN relating_VBG a_DT topic_NN 's_POS interestingness_NN to_TO an_DT article_NN ._.
+s_NN interestingness_NN ,_, iScore_NN is_VBZ able_JJ to_TO achieve_VB higher_JJR quality_NN results_NNS than_IN traditional_JJ methods_NNS such_JJ as_IN the_DT Rocchio_NNP algorithm_NN ._.
+We_PRP identify_VBP several_JJ operating_VBG parameters_NNS that_WDT work_VBP well_RB for_IN MTT_NNP ._.
+Using_VBG the_DT same_JJ parameters_NNS ,_, we_PRP show_VBP that_IN MTT_NNP alone_RB yields_VBZ high_JJ quality_NN results_NNS for_IN recommending_VBG interesting_JJ articles_NNS from_IN several_JJ corpora_NNS ._.
+The_DT inclusion_NN of_IN MTT_NNP improves_VBZ iScore_NN 's_POS performance_NN by_IN 9_CD %_NN in_IN recommending_VBG news_NN articles_NNS from_IN the_DT Yahoo_NNP !_.
+News_NNP RSS_NNP feeds_VBZ and_CC the_DT TREC11_NN adaptive_JJ filter_NN article_NN collection_NN ._.
+And_CC through_IN a_DT small_JJ user_NN study_NN ,_, we_PRP show_VBP that_IN iScore_NN can_MD still_RB perform_VB well_RB when_WRB only_RB provided_VBN with_IN little_JJ user_NN feedback_NN ._.

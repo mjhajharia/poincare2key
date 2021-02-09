@@ -1,0 +1,8 @@
+Adapting_VBG databases_NNS and_CC WebDAV_NN protocol_NN
+The_DT ability_NN of_IN the_DT Web_NN to_TO share_VB data_NNS regardless_RB of_IN geographical_JJ location_NN raises_VBZ a_DT new_JJ issue_NN called_VBN remote_JJ authoring_NN ._.
+With_IN the_DT Internet_NN and_CC Web_NN browsers_NNS being_VBG independent_JJ of_IN hardware_NN ,_, it_PRP becomes_VBZ possible_JJ to_TO build_VB Web-enabled_JJ database_NN applications_NNS ._.
+Many_JJ approaches_NNS are_VBP provided_VBN to_TO integrate_VB databases_NNS into_IN the_DT Web_NN environment_NN ,_, which_WDT use_VBP the_DT Web_NN 's_POS protocol_NN i.e._FW HTTP_FW to_TO transfer_VB the_DT data_NNS between_IN clients_NNS and_CC servers_NNS ._.
+However_RB ,_, those_DT methods_NNS are_VBP affected_VBN by_IN the_DT HTTP_NNP shortfalls_NNS with_IN regard_NN to_TO remote_JJ authoring_NN ._.
+This_DT paper_NN introduces_VBZ and_CC discusses_VBZ a_DT new_JJ methodology_NN for_IN remote_JJ authoring_NN of_IN databases_NNS ,_, which_WDT is_VBZ based_VBN on_IN the_DT WebDAV_NN protocol_NN ._.
+It_PRP is_VBZ a_DT seamless_JJ and_CC effective_JJ methodology_NN for_IN accessing_VBG and_CC authoring_VBG databases_NNS ,_, particularly_RB in_IN that_IN it_PRP naturally_RB benefits_VBZ from_IN the_DT WebDAV_NN advantages_NNS such_JJ as_IN metadata_NN and_CC access_NN control_NN ._.
+These_DT features_NNS establish_VBP a_DT standard_JJ way_NN of_IN accessing_VBG database_NN metadata_NN ,_, and_CC increase_VB the_DT database_NN security_NN ,_, while_IN speeding_VBG up_RP the_DT database_NN connection_NN ._.

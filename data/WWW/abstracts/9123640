@@ -1,0 +1,6 @@
+Extraction_NN and_CC mining_NN of_IN an_DT academic_JJ social_JJ network_NN
+This_DT paper_NN addresses_VBZ several_JJ key_JJ issues_NNS in_IN extraction_NN and_CC mining_NN of_IN an_DT academic_JJ social_JJ network_NN :_: 1_LS -RRB-_-RRB- extraction_NN of_IN a_DT researcher_NN social_JJ network_NN from_IN the_DT existing_VBG Web_NN ;_: 2_LS -RRB-_-RRB- integration_NN of_IN the_DT publications_NNS from_IN existing_VBG digital_JJ libraries_NNS ;_: 3_LS -RRB-_-RRB- expertise_NN search_NN on_IN a_DT given_VBN topic_NN ;_: and_CC 4_LS -RRB-_-RRB- association_NN search_NN between_IN researchers_NNS ._.
+We_PRP developed_VBD a_DT social_JJ network_NN system_NN ,_, called_VBN ArnetMiner_NNP ,_, based_VBN on_IN proposed_VBN methods_NNS to_TO the_DT above_JJ problems_NNS ._.
+In_IN total_NN ,_, 448,470_CD researcher_NN profiles_NNS and_CC 981,599_CD publications_NNS were_VBD extracted\/integrated_VBN after_IN the_DT system_NN having_VBG been_VBN in_IN operation_NN for_IN two_CD years_NNS ._.
+The_DT paper_NN describes_VBZ the_DT architecture_NN and_CC main_JJ features_NNS of_IN the_DT system_NN ._.
+It_PRP also_RB briefly_RB presents_VBZ the_DT experimental_JJ results_NNS of_IN the_DT proposed_VBN methods_NNS ._.

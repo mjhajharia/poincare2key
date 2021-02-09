@@ -1,0 +1,10 @@
+Prominent_JJ streak_NN discovery_NN in_IN sequence_NN data_NNS
+This_DT paper_NN studies_VBZ the_DT problem_NN of_IN prominent_JJ streak_NN discovery_NN in_IN sequence_NN data_NNS ._.
+Given_VBN a_DT sequence_NN of_IN values_NNS ,_, a_DT prominent_JJ streak_NN is_VBZ a_DT long_JJ consecutive_JJ subsequence_NN consisting_VBG of_IN only_JJ large_JJ -LRB-_-LRB- small_JJ -RRB-_-RRB- values_NNS ._.
+For_IN finding_VBG prominent_JJ streaks_NNS ,_, we_PRP make_VBP the_DT observation_NN that_IN prominent_JJ streaks_NNS are_VBP skyline_NN points_NNS in_IN two_CD dimensions_NNS -_: streak_NN interval_NN length_NN and_CC minimum_NN value_NN in_IN the_DT interval_NN ._.
+Our_PRP$ solution_NN thus_RB hinges_VBZ upon_IN the_DT idea_NN to_TO separate_VB the_DT two_CD steps_NNS in_IN prominent_JJ streak_NN discovery_NN '_POS candidate_NN streak_NN generation_NN and_CC skyline_NN operation_NN over_IN candidate_NN streaks_NNS ._.
+For_IN candidate_NN generation_NN ,_, we_PRP propose_VBP the_DT concept_NN of_IN local_JJ prominent_JJ streak_NN -LRB-_-LRB- LPS_NN -RRB-_-RRB- ._.
+We_PRP prove_VBP that_IN prominent_JJ streaks_NNS are_VBP a_DT subset_NN of_IN LPSs_NNS and_CC the_DT number_NN of_IN LPSs_NNS is_VBZ less_JJR than_IN the_DT length_NN of_IN a_DT data_NN sequence_NN ,_, in_IN comparison_NN with_IN the_DT quadratic_JJ number_NN of_IN candidates_NNS produced_VBN by_IN a_DT brute-force_JJ baseline_NN method_NN ._.
+We_PRP develop_VBP efficient_JJ algorithms_NNS based_VBN on_IN the_DT concept_NN of_IN LPS_NN ._.
+The_DT non-linear_JJ LPS-based_JJ method_NN -LRB-_-LRB- NLPS_NN -RRB-_-RRB- considers_VBZ a_DT superset_NN of_IN LPSs_NNS as_IN candidates_NNS ,_, and_CC the_DT linear_JJ LPS-based_JJ method_NN -LRB-_-LRB- LLPS_NN -RRB-_-RRB- further_JJ guarantees_NNS to_TO consider_VB only_JJ LPSs_NNS ._.
+The_DT results_NNS of_IN experiments_NNS using_VBG multiple_JJ real_JJ datasets_NNS verified_VBD the_DT effectiveness_NN of_IN the_DT proposed_VBN methods_NNS and_CC showed_VBD orders_NNS of_IN magnitude_NN performance_NN improvement_NN against_IN the_DT baseline_NN method_NN ._.

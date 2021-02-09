@@ -1,0 +1,6 @@
+TJFast_NN :_: effective_JJ processing_NN of_IN XML_NN twig_NN pattern_NN matching_VBG
+Finding_VBG all_PDT the_DT occurrences_NNS of_IN a_DT twig_NN pattern_NN in_IN an_DT XML_NN database_NN is_VBZ a_DT core_NN operation_NN for_IN efficient_JJ evaluation_NN of_IN XML_NN queries_NNS ._.
+A_DT number_NN of_IN algorithms_NNS have_VBP been_VBN proposed_VBN to_TO process_VB a_DT twig_NN query_NN based_VBN on_IN region_NN encoding_NN ._.
+In_IN this_DT paper_NN ,_, based_VBN on_IN a_DT novel_JJ labeling_NN scheme_NN :_: extended_VBN Dewey_NNP ,_, we_PRP propose_VBP a_DT novel_JJ and_CC efficient_JJ holistic_JJ twig_NN join_VBP algorithm_NN ,_, namely_RB TJFast_NN ._.
+Compared_VBN to_TO previous_JJ work_NN ,_, our_PRP$ algorithm_NN only_RB needs_VBZ to_TO access_VB the_DT labels_NNS of_IN leaf_NN query_NN nodes_NNS ._.
+We_PRP report_VBP our_PRP$ experimental_JJ results_NNS to_TO show_VB that_IN our_PRP$ algorithms_NNS are_VBP superior_JJ to_TO previous_JJ approaches_NNS in_IN terms_NNS of_IN the_DT number_NN of_IN elements_NNS scanned_VBN and_CC query_JJ performance_NN ._.

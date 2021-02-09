@@ -1,0 +1,9 @@
+Density-based_JJ clustering_NN of_IN uncertain_JJ data_NNS
+In_IN many_JJ different_JJ application_NN areas_NNS ,_, e.g._FW sensor_NN databases_NNS ,_, location_NN based_VBN services_NNS or_CC face_NN recognition_NN systems_NNS ,_, distances_NNS between_IN odjects_NNS have_VBP to_TO be_VB computed_VBN based_VBN on_IN vague_JJ and_CC uncertain_JJ data_NNS ._.
+Commonly_RB ,_, the_DT distances_NNS between_IN these_DT uncertain_JJ object_NN descriptions_NNS are_VBP expressed_VBN by_IN one_CD numerical_JJ distance_NN value_NN ._.
+Based_VBN on_IN such_JJ single-valued_JJ distance_NN functions_VBZ standard_JJ data_NNS mining_NN algorithms_NNS can_MD work_VB without_IN any_DT changes_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP to_TO express_VB the_DT similarity_NN between_IN two_CD fuzzy_JJ objects_NNS by_IN distance_NN probability_NN functions_NNS ._.
+These_DT fuzzy_JJ distance_NN functions_NNS assign_VBP a_DT probability_NN value_NN to_TO each_DT possible_JJ distance_NN value_NN ._.
+By_IN integrating_VBG these_DT fuzzy_JJ distance_NN functions_NNS directly_RB into_IN data_NN mining_NN algorithms_NNS ,_, the_DT full_JJ information_NN provided_VBN by_IN these_DT functions_NNS is_VBZ exploited_VBN ._.
+In_IN order_NN to_TO demonstrate_VB the_DT benefits_NNS of_IN this_DT general_JJ approach_NN ,_, we_PRP enhance_VBP the_DT density-based_JJ clustering_NN algorithm_NN DBSCAN_NNP so_IN that_IN it_PRP can_MD work_VB directly_RB on_IN these_DT fuzzy_JJ distance_NN functions_NNS ._.
+In_IN a_DT detailed_JJ experimental_JJ evaluation_NN based_VBN on_IN artificial_JJ and_CC real-world_JJ data_NNS sets_NNS ,_, we_PRP show_VBP the_DT characteristics_NNS and_CC benefits_NNS of_IN our_PRP$ new_JJ approach_NN ._.

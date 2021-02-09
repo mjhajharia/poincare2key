@@ -1,0 +1,8 @@
+Crawling_VBG multiple_JJ UDDI_NNP business_NN registries_NNS
+As_IN Web_NN services_NNS proliferate_VBP ,_, size_NN and_CC magnitude_NN of_IN UDDI_NNP Business_NNP Registries_NNPS -LRB-_-LRB- UBRs_NNS -RRB-_-RRB- are_VBP likely_JJ to_TO increase_VB ._.
+The_DT ability_NN to_TO discover_VB Web_NN services_NNS of_IN interest_NN then_RB across_IN multiple_JJ UBRs_NNS becomes_VBZ a_DT major_JJ challenge_NN specially_RB when_WRB using_VBG primitive_JJ search_NN methods_NNS provided_VBN by_IN existing_VBG UDDI_NNP APIs_NNS ._.
+Clients_NNS do_VBP not_RB have_VB the_DT time_NN to_TO endlessly_RB search_VB accessible_JJ UBRs_NNS for_IN finding_VBG appropriate_JJ services_NNS particularly_RB when_WRB operating_VBG via_IN mobile_JJ devices_NNS ._.
+Finding_VBG services_NNS of_IN interest_NN should_MD be_VB time_NN effective_JJ and_CC highly_RB productive_JJ ._.
+This_DT paper_NN addresses_VBZ issues_NNS relating_VBG to_TO the_DT efficient_JJ access_NN and_CC discovery_NN of_IN Web_NN services_NNS across_IN multiple_JJ UBRs_NNS and_CC introduces_VBZ a_DT novel_JJ exploration_NN engine_NN ,_, the_DT Web_NN Service_NNP Crawler_NNP Engine_NNP -LRB-_-LRB- WSCE_NNP -RRB-_-RRB- ._.
+WSCE_NNP is_VBZ capable_JJ of_IN crawling_VBG multiple_JJ UBRs_NNS ,_, and_CC enables_VBZ for_IN the_DT establishment_NN of_IN a_DT centralized_VBN Web_NN services_NNS repository_NN that_WDT can_MD be_VB used_VBN for_IN discovering_VBG Web_NN services_NNS much_RB more_RBR efficiently_RB ._.
+The_DT paper_NN presents_VBZ experimental_JJ validation_NN ,_, results_NNS ,_, and_CC analysis_NN of_IN the_DT proposed_VBN ideas_NNS ._.

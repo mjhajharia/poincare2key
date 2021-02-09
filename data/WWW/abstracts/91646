@@ -1,0 +1,5 @@
+A_DT system_NN for_IN principled_JJ matchmaking_NN in_IN an_DT electronic_JJ marketplace_NN
+More_JJR and_CC more_JJR resources_NNS are_VBP becoming_VBG available_JJ on_IN the_DT Web_NN ,_, and_CC there_EX is_VBZ a_DT growing_VBG need_NN for_IN infrastructures_NNS that_WDT ,_, based_VBN on_IN advertised_JJ descriptions_NNS ,_, are_VBP able_JJ to_TO semantically_RB match_VB demands_NNS with_IN supplies_NNS ._.
+We_PRP formalize_VBP general_JJ properties_NNS a_DT matchmaker_NN should_MD have_VB ,_, then_RB we_PRP present_VBP a_DT matchmaking_NN facilitator_NN ,_, compliant_JJ with_IN desired_VBN properties_NNS ._.
+The_DT system_NN embeds_VBZ a_DT NeoClassic_JJ reasoner_NN ,_, whose_WP$ structural_JJ subsumption_NN algorithm_NN has_VBZ been_VBN modified_VBN to_TO allow_VB match_NN categorization_NN into_IN potential_JJ and_CC partial_JJ ,_, and_CC ranking_NN of_IN matches_NNS within_IN categories_NNS ._.
+Experiments_NNS carried_VBD out_RP show_VBP the_DT good_JJ correspondence_NN between_IN users_NNS and_CC system_NN rankings_NNS ._.

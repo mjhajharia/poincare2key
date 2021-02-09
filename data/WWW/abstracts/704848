@@ -1,0 +1,7 @@
+eBag_NN :_: a_DT ubiquitous_JJ Web_NN infrastructure_NN for_IN nomadic_JJ learning_NN
+This_DT paper_NN describes_VBZ the_DT eBag_NN infrastructure_NN ,_, which_WDT is_VBZ a_DT generic_JJ infrastructure_NN inspired_VBN from_IN work_NN with_IN school_NN children_NNS who_WP could_MD benefit_VB from_IN a_DT electronic_JJ schoolbag_NN for_IN collaborative_JJ handling_NN of_IN their_PRP$ digital_JJ material_NN ._.
+The_DT eBag_NN infrastructure_NN is_VBZ utilizing_VBG the_DT Context-aware_JJ HyCon_NN framework_NN and_CC collaborative_JJ web_NN services_NNS based_VBN on_IN WebDAV_NN ._.
+A_DT ubiquitous_JJ login_NN and_CC logout_NN mechanism_NN has_VBZ been_VBN built_VBN based_VBN on_IN BlueTooth_NNP sensor_NN networks_NNS ._.
+The_DT eBag_NN infrastructure_NN has_VBZ been_VBN tried_VBN out_RP in_IN field_NN tests_NNS with_IN school_NN kids_NNS ._.
+In_IN this_DT paper_NN we_PRP discuss_VBP experiences_NNS and_CC design_NN issues_NNS for_IN ubiquitous_JJ Web_NN integration_NN in_IN interactive_JJ school_NN environments_NNS with_IN multiple_JJ interactive_JJ whiteboards_NNS and_CC workstations_NNS ._.
+This_DT includes_VBZ proposals_NNS for_IN specialized_JJ and_CC adaptive_JJ XLink_NN structures_NNS for_IN organizing_VBG school_NN materials_NNS as_RB well_RB as_IN issues_NNS in_IN login\/logout_NN based_VBN on_IN proximity_NN of_IN different_JJ display_NN surfaces_NNS ._.

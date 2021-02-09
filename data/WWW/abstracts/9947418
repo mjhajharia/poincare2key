@@ -1,0 +1,8 @@
+Fine-grained_JJ privilege_NN separation_NN for_IN web_NN applications_NNS
+We_PRP present_VBP a_DT programming_NN model_NN for_IN building_NN web_NN applications_NNS with_IN security_NN properties_NNS that_WDT can_MD be_VB confidently_RB verified_VBN during_IN a_DT security_NN review_NN ._.
+In_IN our_PRP$ model_NN ,_, applications_NNS are_VBP divided_VBN into_IN isolated_VBN ,_, privilege-separated_JJ components_NNS ,_, enabling_VBG rich_JJ security_NN policies_NNS to_TO be_VB enforced_VBN in_IN a_DT way_NN that_WDT can_MD be_VB checked_VBN by_IN reviewers_NNS ._.
+In_IN our_PRP$ model_NN ,_, the_DT web_NN framework_NN enforces_VBZ privilege_NN separation_NN and_CC isolation_NN of_IN web_NN applications_NNS by_IN requiring_VBG the_DT use_NN of_IN an_DT object-capability_JJ language_NN and_CC providing_VBG interfaces_NNS that_WDT expose_VBP limited_JJ ,_, explicitly-specified_JJ privileges_NNS to_TO application_NN components_NNS ._.
+This_DT approach_NN restricts_VBZ what_WP each_DT component_NN of_IN the_DT application_NN can_MD do_VB and_CC quarantines_VB buggy_NN or_CC compromised_VBN code_NN ._.
+It_PRP also_RB provides_VBZ a_DT way_NN to_TO more_RBR safely_RB integrate_VB third-party_JJ ,_, less-trusted_JJ code_NN into_IN a_DT web_NN application_NN ._.
+We_PRP have_VBP implemented_VBN a_DT prototype_NN of_IN this_DT model_NN based_VBN upon_IN the_DT Java_NNP Servlet_NNP framework_NN and_CC used_VBD it_PRP to_TO build_VB a_DT webmail_NN application_NN ._.
+Our_PRP$ experience_NN with_IN this_DT example_NN suggests_VBZ that_IN the_DT approach_NN is_VBZ viable_JJ and_CC helpful_JJ at_IN establishing_VBG reviewable_JJ application-specific_JJ security_NN properties_NNS ._.

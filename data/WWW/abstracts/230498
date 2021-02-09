@@ -1,0 +1,8 @@
+Mining_NNP the_DT peanut_NN gallery_NN :_: opinion_NN extraction_NN and_CC semantic_JJ classification_NN of_IN product_NN reviews_NNS
+The_DT web_NN contains_VBZ a_DT wealth_NN of_IN product_NN reviews_NNS ,_, but_CC sifting_VBG through_IN them_PRP is_VBZ a_DT daunting_JJ task_NN ._.
+Ideally_RB ,_, an_DT opinion_NN mining_NN tool_NN would_MD process_VB a_DT set_NN of_IN search_NN results_NNS for_IN a_DT given_VBN item_NN ,_, generating_VBG a_DT list_NN of_IN product_NN attributes_NNS -LRB-_-LRB- quality_NN ,_, features_NNS ,_, etc._NN -RRB-_-RRB- and_CC aggregating_VBG opinions_NNS about_IN each_DT of_IN them_PRP -LRB-_-LRB- poor_JJ ,_, mixed_JJ ,_, good_JJ -RRB-_-RRB- ._.
+We_PRP begin_VBP by_IN identifying_VBG the_DT unique_JJ properties_NNS of_IN this_DT problem_NN and_CC develop_VB a_DT method_NN for_IN automatically_RB distinguishing_VBG between_IN positive_JJ and_CC negative_JJ reviews_NNS ._.
+Our_PRP$ classifier_NN draws_VBZ on_IN information_NN retrieval_NN techniques_NNS for_IN feature_NN extraction_NN and_CC scoring_VBG ,_, and_CC the_DT results_NNS for_IN various_JJ metrics_NNS and_CC heuristics_NNS vary_VBP depending_VBG on_IN the_DT testing_NN situation_NN ._.
+The_DT best_JJS methods_NNS work_VBP as_RB well_RB as_IN or_CC better_JJR than_IN traditional_JJ machine_NN learning_NN ._.
+When_WRB operating_VBG on_IN individual_JJ sentences_NNS collected_VBN from_IN web_NN searches_NNS ,_, performance_NN is_VBZ limited_VBN due_JJ to_TO noise_NN and_CC ambiguity_NN ._.
+But_CC in_IN the_DT context_NN of_IN a_DT complete_JJ web-based_JJ tool_NN and_CC aided_VBN by_IN a_DT simple_JJ method_NN for_IN grouping_VBG sentences_NNS into_IN attributes_NNS ,_, the_DT results_NNS are_VBP qualitatively_RB quite_RB useful_JJ ._.

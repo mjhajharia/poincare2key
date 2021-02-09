@@ -1,0 +1,8 @@
+Partitioned_VBN logistic_JJ regression_NN for_IN spam_NN filtering_VBG
+Naive_JJ Bayes_NNS and_CC logistic_JJ regression_NN perform_VB well_RB in_IN different_JJ regimes_NNS ._.
+While_IN the_DT former_JJ is_VBZ a_DT very_RB simple_JJ generative_JJ model_NN which_WDT is_VBZ efficient_JJ to_TO train_NN and_CC performs_VBZ well_RB empirically_RB in_IN many_JJ applications_NNS ,_, the_DT latter_JJ is_VBZ a_DT discriminative_JJ model_NN which_WDT often_RB achieves_VBZ better_JJR accuracy_NN and_CC can_MD be_VB shown_VBN to_TO outperform_VB naive_JJ Bayes_NNS asymptotically_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ hybrid_NN model_NN ,_, partitioned_VBN logistic_JJ regression_NN ,_, which_WDT has_VBZ several_JJ advantages_NNS over_IN both_CC naive_JJ Bayes_NNS and_CC logistic_JJ regression_NN ._.
+This_DT model_NN separates_VBZ the_DT original_JJ feature_NN space_NN into_IN several_JJ disjoint_JJ feature_NN groups_NNS ._.
+Individual_JJ models_NNS on_IN these_DT groups_NNS of_IN features_NNS are_VBP learned_VBN using_VBG logistic_JJ regression_NN and_CC their_PRP$ predictions_NNS are_VBP combined_VBN using_VBG the_DT naive_JJ Bayes_NNP principle_NN to_TO produce_VB a_DT robust_JJ final_JJ estimation_NN ._.
+We_PRP show_VBP that_IN our_PRP$ model_NN is_VBZ better_JJR both_DT theoretically_RB and_CC empirically_RB ._.
+In_IN addition_NN ,_, when_WRB applying_VBG it_PRP in_IN a_DT practical_JJ application_NN ,_, email_NN spam_NN filtering_VBG ,_, it_PRP improves_VBZ the_DT normalized_VBN AUC_NN score_NN at_IN 10_CD %_NN false-positive_JJ rate_NN by_IN 28.8_CD %_NN and_CC 23.6_CD %_NN compared_VBN to_TO naive_JJ Bayes_NNS and_CC logistic_JJ regression_NN ,_, when_WRB using_VBG the_DT exact_JJ same_JJ training_NN examples_NNS ._.

@@ -1,0 +1,9 @@
+Generation_NN of_IN synthetic_JJ data_NNS sets_NNS for_IN evaluating_VBG the_DT accuracy_NN of_IN knowledge_NN discovery_NN systems_NNS
+Information_NNP Discovery_NNP and_CC Analysis_NNP Systems_NNP -LRB-_-LRB- IDAS_NNP -RRB-_-RRB- are_VBP designed_VBN to_TO correlate_VB multiple_JJ sources_NNS of_IN data_NNS and_CC use_VB data_NN mining_NN techniques_NNS to_TO identify_VB potential_JJ significant_JJ events_NNS ._.
+Application_NN domains_NNS for_IN IDAS_NNP are_VBP numerous_JJ and_CC include_VBP the_DT emerging_VBG area_NN of_IN homeland_NN security_NN ._.
+Developing_VBG test_NN cases_NNS for_IN an_DT IDAS_NN requires_VBZ background_NN data_NNS sets_NNS into_IN which_WDT hypothetical_JJ future_JJ scenarios_NNS can_MD be_VB overlaid_VBN ._.
+The_DT IDAS_NNP can_MD then_RB be_VB measured_VBN in_IN terms_NNS of_IN false_JJ positive_JJ and_CC false_JJ negative_JJ error_NN rates_NNS ._.
+Obtaining_VBG the_DT test_NN data_NNS sets_NNS can_MD be_VB an_DT obstacle_NN due_JJ to_TO both_DT privacy_NN issues_NNS and_CC also_RB the_DT time_NN and_CC cost_NN associated_VBN with_IN collecting_VBG a_DT diverse_JJ set_NN of_IN data_NNS sources_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP give_VBP an_DT overview_NN of_IN the_DT design_NN and_CC architecture_NN of_IN an_DT IDAS_NNP Data_NNP Set_NNP Generator_NNP -LRB-_-LRB- IDSG_NNP -RRB-_-RRB- that_WDT enables_VBZ a_DT fast_JJ and_CC comprehensive_JJ test_NN of_IN an_DT IDAS_NN ._.
+The_DT IDSG_NNP generates_VBZ data_NNS using_VBG statistical_JJ and_CC rule-based_JJ algorithms_NNS and_CC also_RB semantic_JJ graphs_NNS that_WDT represent_VBP interdependencies_NNS between_IN attributes_NNS ._.
+A_DT credit_NN card_NN transaction_NN application_NN is_VBZ used_VBN to_TO illustrate_VB the_DT approach_NN ._.

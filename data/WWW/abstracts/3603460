@@ -1,0 +1,8 @@
+Need_VBN for_IN non-visual_JJ feedback_NN with_IN long_JJ response_NN times_NNS in_IN mobile_JJ HCI_NN
+When_WRB browsing_VBG Web_NN pages_NNS with_IN a_DT mobile_JJ device_NN ,_, the_DT system_NN response_NN times_NNS are_VBP variable_JJ and_CC much_RB longer_JJR than_IN on_IN a_DT PC_NN ._.
+Users_NNS must_MD repeatedly_RB glance_NN at_IN the_DT display_NN to_TO see_VB when_WRB the_DT page_NN finally_RB arrives_VBZ ,_, although_IN mobility_NN demands_VBZ a_DT Minimal_JJ Attention_NN User_NN Interface_NNP ._.
+We_PRP conducted_VBD a_DT user_NN study_NN with_IN 27_CD participants_NNS to_TO discover_VB the_DT point_NN at_IN which_WDT visual_JJ feedback_NN stops_NNS reaching_VBG the_DT user_NN in_IN mobile_JJ context_NN ._.
+In_IN the_DT study_NN ,_, we_PRP examined_VBD the_DT deployment_NN of_IN attention_NN during_IN page_NN loading_VBG to_TO the_DT phone_NN vs._CC the_DT environment_NN in_IN several_JJ different_JJ everyday_JJ mobility_NN contexts_NNS ,_, and_CC compared_VBN these_DT to_TO the_DT laboratory_NN context_NN ._.
+The_DT first_JJ part_NN of_IN the_DT page_NN appeared_VBD on_IN the_DT screen_NN typically_RB in_IN 11_CD seconds_NNS ,_, but_CC we_PRP found_VBD that_IN the_DT user_NN 's_POS visual_JJ attention_NN shifted_VBD away_RB from_IN the_DT mobile_JJ browser_NN usually_RB between_IN 4_CD and_CC 8_CD seconds_NNS in_IN the_DT mobile_JJ context_NN ._.
+In_IN contrast_NN ,_, the_DT continuous_JJ span_NN of_IN attention_NN to_TO the_DT browser_NN was_VBD more_JJR than_IN 14_CD seconds_NNS in_IN the_DT laboratory_NN condition_NN ._.
+Based_VBN on_IN our_PRP$ study_NN results_NNS ,_, we_PRP recommend_VBP mobile_JJ applications_NNS provide_VBP multimodal_JJ feedback_NN for_IN delays_NNS of_IN more_JJR than_IN four_CD seconds_NNS ._.

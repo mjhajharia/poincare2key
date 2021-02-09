@@ -1,0 +1,9 @@
+A_DT personalized_JJ search_NN engine_NN based_VBN on_IN web-snippet_JJ hierarchical_JJ clustering_NN
+In_IN this_DT paper_NN we_PRP propose_VBP a_DT hierarchical_JJ clustering_NN engine_NN ,_, called_VBN snaket_NN ,_, that_WDT is_VBZ able_JJ to_TO organize_VB on-the-fly_JJ the_DT search_NN results_NNS drawn_VBN from_IN 16_CD commodity_NN search_NN engines_NNS into_IN a_DT hierarchy_NN of_IN labeled_JJ folders_NNS ._.
+The_DT hierarchy_NN offers_VBZ a_DT complementary_JJ view_NN to_TO the_DT flat-ranked_JJ list_NN of_IN results_NNS returned_VBN by_IN current_JJ search_NN engines_NNS ._.
+Users_NNS can_MD navigate_VB through_IN the_DT hierarchy_NN driven_VBN by_IN their_PRP$ search_NN needs_NNS ._.
+This_DT is_VBZ especially_RB useful_JJ for_IN informative_JJ ,_, polysemous_JJ and_CC poor_JJ queries_NNS ._.
+SnakeT_NN is_VBZ the_DT first_JJ complete_JJ and_CC open-source_JJ system_NN in_IN the_DT literature_NN that_WDT offers_VBZ both_DT hierarchical_JJ clustering_NN and_CC folder_NN labeling_NN with_IN variable-length_JJ sentences_NNS ._.
+We_PRP extensively_RB test_VBP SnakeT_NN against_IN all_DT available_JJ web-snippet_JJ clustering_NN engines_NNS ,_, and_CC show_VBP that_IN it_PRP achieves_VBZ efficiency_NN and_CC efficacy_NN performance_NN close_RB to_TO the_DT best_JJS known_VBN engine_NN Vivisimo.com_NN ._.
+Recently_RB ,_, personalized_JJ search_NN engines_NNS have_VBP been_VBN introduced_VBN with_IN the_DT aim_NN of_IN improving_VBG search_NN results_NNS by_IN focusing_VBG on_IN the_DT users_NNS ,_, rather_RB than_IN on_IN their_PRP$ submitted_VBN queries_NNS ._.
+We_PRP show_VBP how_WRB to_TO plug_VB SnakeT_NN on_IN top_NN of_IN any_DT -LRB-_-LRB- un-personalized_JJ -RRB-_-RRB- search_NN engine_NN in_IN order_NN to_TO obtain_VB a_DT form_NN of_IN personalization_NN that_WDT is_VBZ fully_RB adaptive_JJ ,_, privacy_NN preserving_NN ,_, scalable_JJ ,_, and_CC non_JJ intrusive_JJ for_IN underlying_VBG search_NN engines_NNS ._.

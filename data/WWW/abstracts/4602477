@@ -1,0 +1,9 @@
+Protecting_VBG electronic_JJ commerce_NN from_IN distributed_VBN denial-of-service_JJ attacks_NNS
+It_PRP is_VBZ widely_RB recognized_VBN that_IN distributed_VBN denial-of-service_NN -LRB-_-LRB- DDoS_NN -RRB-_-RRB- attacks_NNS can_MD disrupt_VB electronic_JJ commerce_NN and_CC cause_VB large_JJ revenue_NN losses_NNS ._.
+However_RB ,_, effective_JJ defenses_NNS continue_VBP to_TO be_VB mostly_RB unavailable_JJ ._.
+We_PRP describe_VBP and_CC evaluate_VBP VIPnet_NN ,_, a_DT novel_JJ value-added_JJ network_NN service_NN for_IN protecting_VBG e-commerce_NN and_CC other_JJ transaction-based_JJ sites_NNS from_IN DDoS_NN attacks_NNS ._.
+In_FW VIPnet_FW ,_, e-merchants_NNS pay_VBP Internet_NNP Service_NNP Providers_NNP -LRB-_-LRB- ISPs_NNS -RRB-_-RRB- to_TO carry_VB the_DT packets_NNS of_IN the_DT e-merchants_NNS '_POS best_JJS clients_NNS -LRB-_-LRB- called_VBN VIPs_NNS -RRB-_-RRB- in_IN a_DT privileged_JJ class_NN of_IN service_NN -LRB-_-LRB- CoS_NN -RRB-_-RRB- ,_, protected_VBN from_IN congestion_NN ,_, whether_IN malicious_JJ or_CC not_RB ,_, in_IN the_DT regular_JJ CoS._NN ._.
+VIPnet_NN rewards_VBZ VIPs_NNS with_IN not_RB only_RB better_JJR quality_NN of_IN service_NN ,_, but_CC also_RB greater_JJR availability_NN ._.
+Because_IN VIP_NN rights_NNS are_VBP client_NN -_: and_CC server-specific_JJ ,_, can_MD not_RB be_VB forged_VBN ,_, are_VBP usage-limited_JJ ,_, and_CC are_VBP only_RB replenished_VBN after_IN successful_JJ client_NN transactions_NNS -LRB-_-LRB- e.g._FW ,_, purchases_NNS -RRB-_-RRB- ,_, it_PRP is_VBZ impractical_JJ for_IN attackers_NNS to_TO mount_VB and_CC sustain_VB DDoS_NN attacks_NNS against_IN an_DT e-merchant_NN 's_POS VIPs_NNS ._.
+VIPnet_NN can_MD be_VB deployed_VBN incrementally_RB and_CC does_VBZ not_RB require_VB universal_JJ adoption_NN ._.
+Experiments_NNS demonstrate_VBP VIPnet_NNP 's_POS benefits_NNS ._.

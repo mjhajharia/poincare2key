@@ -1,0 +1,10 @@
+On_IN the_DT tradeoff_NN between_IN privacy_NN and_CC utility_NN in_IN data_NNS publishing_VBG
+In_IN data_NNS publishing_NN ,_, anonymization_NN techniques_NNS such_JJ as_IN generalization_NN and_CC bucketization_NN have_VBP been_VBN designed_VBN to_TO provide_VB privacy_NN protection_NN ._.
+In_IN the_DT meanwhile_NN ,_, they_PRP reduce_VBP the_DT utility_NN of_IN the_DT data_NNS ._.
+It_PRP is_VBZ important_JJ to_TO consider_VB the_DT tradeoff_NN between_IN privacy_NN and_CC utility_NN ._.
+In_IN a_DT paper_NN that_WDT appeared_VBD in_IN KDD_NNP 2008_CD ,_, Brickell_NNP and_CC Shmatikov_NNP proposed_VBD an_DT evaluation_NN methodology_NN by_IN comparing_VBG privacy_NN gain_NN with_IN utility_NN gain_NN resulted_VBD from_IN anonymizing_VBG the_DT data_NNS ,_, and_CC concluded_VBD that_IN ``_`` even_RB modest_JJ privacy_NN gains_NNS require_VBP almost_RB complete_JJ destruction_NN of_IN the_DT data-mining_JJ utility_NN ''_'' ._.
+This_DT conclusion_NN seems_VBZ to_TO undermine_VB existing_VBG work_NN on_IN data_NNS anonymization_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP analyze_VBP the_DT fundamental_JJ characteristics_NNS of_IN privacy_NN and_CC utility_NN ,_, and_CC show_VBP that_IN it_PRP is_VBZ inappropriate_JJ to_TO directly_RB compare_VB privacy_NN with_IN utility_NN ._.
+We_PRP then_RB observe_VBP that_IN the_DT privacy-utility_NN tradeoff_NN in_IN data_NN publishing_NN is_VBZ similar_JJ to_TO the_DT risk-return_JJ tradeoff_NN in_IN financial_JJ investment_NN ,_, and_CC propose_VBP an_DT integrated_JJ framework_NN for_IN considering_VBG privacy-utility_NN tradeoff_NN ,_, borrowing_VBG concepts_NNS from_IN the_DT Modern_NNP Portfolio_NNP Theory_NNP for_IN financial_JJ investment_NN ._.
+Finally_RB ,_, we_PRP evaluate_VBP our_PRP$ methodology_NN on_IN the_DT Adult_JJ dataset_NN from_IN the_DT UCI_NNP machine_NN learning_NN repository_NN ._.
+Our_PRP$ results_NNS clarify_VBP several_JJ common_JJ misconceptions_NNS about_IN data_NNS utility_NN and_CC provide_VB data_NN publishers_NNS useful_JJ guidelines_NNS on_IN choosing_VBG the_DT right_JJ tradeoff_NN between_IN privacy_NN and_CC utility_NN ._.

@@ -1,0 +1,8 @@
+Reconstructing_VBG chemical_JJ reaction_NN networks_NNS :_: data_NNS mining_NN meets_VBZ system_NN identification_NN
+We_PRP present_VBP an_DT approach_NN to_TO reconstructing_VBG chemical_JJ reaction_NN networks_NNS from_IN time_NN series_NN measurements_NNS of_IN the_DT concentrations_NNS of_IN the_DT molecules_NNS involved_VBN ._.
+Our_PRP$ solution_NN strategy_NN combines_VBZ techniques_NNS from_IN numerical_JJ sensitivity_NN analysis_NN and_CC probabilistic_JJ graphical_JJ models_NNS ._.
+By_IN modeling_NN a_DT chemical_NN reaction_NN system_NN as_IN a_DT Markov_NNP network_NN -LRB-_-LRB- undirected_JJ graphical_JJ model_NN -RRB-_-RRB- ,_, we_PRP show_VBP how_WRB systematically_RB probing_VBG for_IN sensitivities_NNS between_IN molecular_JJ species_NNS can_MD identify_VB the_DT topology_NN of_IN the_DT network_NN ._.
+Given_VBN the_DT topology_NN ,_, our_PRP$ approach_NN next_RB uses_VBZ detailed_JJ sensitivity_NN profiles_NNS to_TO characterize_VB properties_NNS of_IN reactions_NNS such_JJ as_IN reversibility_NN ,_, enzyme-catalysis_NN ,_, and_CC the_DT precise_JJ stoichiometries_NNS of_IN the_DT reactants_NNS and_CC products_NNS ._.
+We_PRP demonstrate_VBP applications_NNS to_TO reconstructing_VBG key_JJ biological_JJ systems_NNS including_VBG the_DT yeast_NN cell_NN cycle_NN ._.
+In_IN addition_NN to_TO network_NN reconstruction_NN ,_, our_PRP$ algorithm_NN finds_VBZ applications_NNS in_IN model_NN reduction_NN and_CC model_NN comprehension_NN ._.
+We_PRP argue_VBP that_IN our_PRP$ reconstruction_NN algorithm_NN can_MD serve_VB as_IN an_DT important_JJ primitive_JJ for_IN data_NN mining_NN in_IN systems_NNS biology_NN applications_NNS ._.

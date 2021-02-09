@@ -1,0 +1,6 @@
+Raise_VB semantics_NNS at_IN the_DT user_NN level_NN for_IN dynamic_JJ and_CC interactive_JJ SOA-based_JJ portals_NNS
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP the_DT fully_RB dynamic_JJ semantic_JJ portal_NN we_PRP implemented_VBD ,_, integrating_VBG Semantic_JJ Web_NN technologies_NNS and_CC Service_NNP Oriented_NNP Architecture_NNP -LRB-_-LRB- SOA_NNP -RRB-_-RRB- ._.
+The_DT goals_NNS of_IN the_DT portal_NN are_VBP twofold_JJ :_: first_RB it_PRP helps_VBZ administrators_NNS to_TO easily_RB propose_VB new_JJ features_NNS in_IN the_DT portal_JJ using_VBG semantics_NNS to_TO ease_VB the_DT orchestration_NN process_NN ;_: secondly_RB it_PRP automatically_RB generates_VBZ a_DT customized_VBN user_NN interface_NN for_IN these_DT scenarios_NNS ._.
+This_DT user_NN interface_NN takes_VBZ into_IN account_NN different_JJ devices_NNS and_CC assists_VBZ end-users_NNS in_IN the_DT use_NN of_IN the_DT portal_JJ taking_VBG benefit_NN of_IN context_NN awareness_NN ._.
+All_PDT the_DT added-value_NN of_IN this_DT portal_NN is_VBZ based_VBN on_IN a_DT core_NN semantics_NNS defined_VBN by_IN an_DT ontology_NN ._.
+We_PRP present_VBP here_RB the_DT main_JJ features_NNS of_IN this_DT portal_NN and_CC how_WRB it_PRP was_VBD implemented_VBN using_VBG state-of-the-art_JJ technologies_NNS and_CC frameworks_NNS ._.

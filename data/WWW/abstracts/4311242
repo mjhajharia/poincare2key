@@ -1,0 +1,4 @@
+Anchor-based_JJ proximity_NN measures_NNS
+We_PRP present_VBP a_DT family_NN of_IN measures_NNS of_IN proximity_NN of_IN an_DT arbitrary_JJ node_NN in_IN a_DT directed_JJ graph_NN to_TO a_DT pre-specified_JJ subset_NN of_IN nodes_NNS ,_, called_VBD the_DT anchor_NN ._.
+Our_PRP$ measures_NNS are_VBP based_VBN on_IN three_CD different_JJ propagation_NN schemesand_NN two_CD different_JJ uses_NNS of_IN the_DT connectivity_NN structure_NN of_IN the_DT graph_NN ._.
+We_PRP consider_VBP a_DT web-specific_JJ application_NN of_IN the_DT above_JJ measures_NNS with_IN two_CD disjoint_NN anchors_NNS -_: good_JJ and_CC bad_JJ web_NN pages_NNS -_: and_CC study_VB the_DT accuracy_NN of_IN these_DT measures_NNS in_IN this_DT context_NN ._.

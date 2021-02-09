@@ -1,0 +1,6 @@
+Buzz-based_JJ recommender_NN system_NN
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP a_DT buzz-based_JJ recommender_NN system_NN based_VBN on_IN a_DT large_JJ source_NN of_IN queries_NNS in_IN an_DT eCommerce_NN application_NN ._.
+The_DT system_NN detects_VBZ bursts_NNS in_IN query_NN trends_NNS ._.
+These_DT bursts_NNS are_VBP linked_VBN to_TO external_JJ entities_NNS like_IN news_NN and_CC inventory_NN information_NN to_TO find_VB the_DT queries_NNS currently_RB in-demand_JJ which_WDT we_PRP refer_VBP to_TO as_IN buzz_NN queries_NNS ._.
+The_DT system_NN follows_VBZ the_DT paradigm_NN of_IN limited_JJ quantity_NN merchandising_NN ,_, in_IN the_DT sense_NN that_IN on_IN a_DT per-day_JJ basis_NN the_DT system_NN shows_VBZ recommendations_NNS around_IN a_DT single_JJ buzz_NN query_NN with_IN the_DT intent_NN of_IN increasing_VBG user_NN curiosity_NN ,_, and_CC improving_NN activity_NN and_CC stickiness_NN on_IN the_DT site_NN ._.
+A_DT semantic_JJ neighborhood_NN of_IN the_DT chosen_JJ buzz_NN query_NN is_VBZ selected_VBN and_CC appropriate_JJ recommendations_NNS are_VBP made_VBN on_IN products_NNS that_WDT relate_VBP to_TO this_DT neighborhood_NN ._.

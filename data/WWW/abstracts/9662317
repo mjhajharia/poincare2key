@@ -1,0 +1,9 @@
+Large_JJ scale_NN multi-label_JJ classification_NN via_IN metalabeler_NN
+The_DT explosion_NN of_IN online_NN content_NN has_VBZ made_VBN the_DT management_NN of_IN such_JJ content_NN non-trivial_JJ ._.
+Web-related_JJ tasks_NNS such_JJ as_IN web_NN page_NN categorization_NN ,_, news_NN filtering_VBG ,_, query_NN categorization_NN ,_, tag_NN recommendation_NN ,_, etc._NN often_RB involve_VBP the_DT construction_NN of_IN multi-label_JJ categorization_NN systems_NNS on_IN a_DT large_JJ scale_NN ._.
+Existing_VBG multi-label_JJ classification_NN methods_NNS either_CC do_VBP not_RB scale_VB or_CC have_VB unsatisfactory_JJ performance_NN ._.
+In_IN this_DT work_NN ,_, we_PRP propose_VBP MetaLabeler_NNP to_TO automatically_RB determine_VB the_DT relevant_JJ set_NN of_IN labels_NNS for_IN each_DT instance_NN without_IN intensive_JJ human_JJ involvement_NN or_CC expensive_JJ cross-validation_NN ._.
+Extensive_JJ experiments_NNS conducted_VBN on_IN benchmark_NN data_NNS show_VBP that_IN the_DT MetaLabeler_NNP tends_VBZ to_TO outperform_VB existing_VBG methods_NNS ._.
+Moreover_RB ,_, MetaLabeler_NNP scales_NNS to_TO millions_NNS of_IN multi-labeled_JJ instances_NNS and_CC can_MD be_VB deployed_VBN easily_RB ._.
+This_DT enables_VBZ us_PRP to_TO apply_VB the_DT MetaLabeler_NNP to_TO a_DT large_JJ scale_NN query_NN categorization_NN problem_NN in_IN Yahoo_NNP !_.
+,_, yielding_VBG a_DT significant_JJ improvement_NN in_IN performance_NN ._.

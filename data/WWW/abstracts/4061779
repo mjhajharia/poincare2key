@@ -1,0 +1,6 @@
+Automatically_RB learning_VBG document_NN taxonomies_NNS for_IN hierarchical_JJ classification_NN
+While_IN several_JJ hierarchical_JJ classification_NN methods_NNS have_VBP been_VBN applied_VBN to_TO web_NN content_NN ,_, such_JJ techniques_NNS invariably_RB rely_VBP on_IN a_DT pre-defined_JJ taxonomy_NN of_IN documents_NNS ._.
+We_PRP propose_VBP a_DT new_JJ technique_NN that_WDT extracts_VBZ a_DT suitable_JJ hierarchical_JJ structure_NN automatically_RB from_IN a_DT corpus_NN of_IN labeled_JJ documents_NNS ._.
+We_PRP show_VBP that_IN our_PRP$ technique_NN groups_NNS similar_JJ classes_NNS closer_RB together_RB in_IN the_DT tree_NN and_CC discovers_VBZ relationships_NNS among_IN documents_NNS that_WDT are_VBP not_RB encoded_VBN in_IN the_DT class_NN labels_NNS ._.
+The_DT learned_VBN taxonomy_NN is_VBZ then_RB used_VBN along_IN with_IN binary_JJ SVMs_NNS for_IN multi-class_JJ classification_NN ._.
+We_PRP demonstrate_VBP the_DT efficacy_NN of_IN our_PRP$ approach_NN by_IN testing_VBG it_PRP on_IN the_DT 20-Newsgroup_NN dataset_NN ._.

@@ -1,0 +1,9 @@
+Access_NN control_NN enforcement_NN for_IN conversation-based_JJ web_NN services_NNS
+Service_NNP Oriented_NNP Computing_NNP is_VBZ emerging_VBG as_IN the_DT main_JJ approach_NN to_TO build_VB distributed_VBN enterprise_NN applications_NNS on_IN the_DT Web_NN ._.
+The_DT widespread_JJ use_NN of_IN Web_NN services_NNS is_VBZ hindered_VBN by_IN the_DT lack_NN of_IN adequate_JJ security_NN and_CC privacy_NN support_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT novel_JJ framework_NN for_IN enforcing_VBG access_NN control_NN in_IN conversation-based_JJ Web_NN services_NNS ._.
+Our_PRP$ approach_NN takes_VBZ into_IN account_NN the_DT conversational_JJ nature_NN of_IN Web_NN services_NNS ._.
+This_DT is_VBZ in_IN contrast_NN with_IN existing_VBG approaches_NNS to_TO access_VB control_NN enforcement_NN that_WDT assume_VBP a_DT Web_NN service_NN as_IN a_DT set_NN of_IN independent_JJ operations_NNS ._.
+Furthermore_RB ,_, our_PRP$ approach_NN achieves_VBZ a_DT tradeoff_NN between_IN the_DT need_NN to_TO protect_VB Web_NN service_NN 's_POS access_NN control_NN policies_NNS and_CC the_DT need_NN to_TO disclose_VB to_TO clients_NNS the_DT portion_NN of_IN access_NN control_NN policies_NNS related_VBN to_TO the_DT conversations_NNS they_PRP are_VBP interested_JJ in_IN ._.
+This_DT is_VBZ important_JJ to_TO avoid_VB situations_NNS where_WRB the_DT client_NN can_MD not_RB progress_VB in_IN the_DT conversation_NN due_JJ to_TO the_DT lack_NN of_IN required_VBN security_NN requirements_NNS ._.
+We_PRP introduce_VBP the_DT concept_NN of_IN k-trustworthiness_NN that_WDT defines_VBZ the_DT conversations_NNS for_IN which_WDT a_DT client_NN can_MD provide_VB credentials_NNS maximizing_VBG the_DT likelihood_NN that_IN it_PRP will_MD eventually_RB hit_VB a_DT final_JJ state_NN ._.

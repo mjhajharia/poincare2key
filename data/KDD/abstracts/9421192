@@ -1,0 +1,10 @@
+Joint_JJ optimization_NN of_IN wrapper_NN generation_NN and_CC template_NN detection_NN
+Many_JJ websites_NNS have_VBP large_JJ collections_NNS of_IN pages_NNS generated_VBN dynamically_RB from_IN an_DT underlying_JJ structured_JJ source_NN like_IN a_DT database_NN ._.
+The_DT data_NNS of_IN a_DT category_NN are_VBP typically_RB encoded_VBN into_IN similar_JJ pages_NNS by_IN a_DT common_JJ script_NN or_CC template_NN ._.
+In_IN recent_JJ years_NNS ,_, some_DT value-added_JJ services_NNS ,_, such_JJ as_IN comparison_NN shopping_NN and_CC vertical_JJ search_NN in_IN a_DT specific_JJ domain_NN ,_, have_VBP motivated_VBN the_DT research_NN of_IN extraction_NN technologies_NNS with_IN high_JJ accuracy_NN ._.
+Almost_RB all_DT previous_JJ works_NNS assume_VBP that_IN input_NN pages_NNS of_IN a_DT wrapper_NN induction_NN system_NN conform_VB to_TO a_DT common_JJ template_NN and_CC they_PRP can_MD be_VB easily_RB identified_VBN in_IN terms_NNS of_IN a_DT common_JJ schema_NN of_IN URL_NN ._.
+However_RB ,_, we_PRP observed_VBD that_IN it_PRP is_VBZ hard_JJ to_TO distinguish_VB different_JJ templates_NNS using_VBG dynamic_JJ URLs_NNS today_NN ._.
+Moreover_RB ,_, since_IN extraction_NN accuracy_NN heavily_RB depends_VBZ on_IN how_WRB consistent_JJ input_NN pages_NNS are_VBP ,_, we_PRP argue_VBP that_IN it_PRP is_VBZ risky_JJ to_TO determine_VB whether_IN pages_NNS share_VBP a_DT common_JJ template_NN solely_RB based_VBN on_IN URLs_NNS ._.
+Instead_RB ,_, we_PRP propose_VBP a_DT new_JJ approach_NN that_WDT utilizes_VBZ similarity_NN between_IN pages_NNS to_TO detect_VB templates_NNS ._.
+Our_PRP$ approach_NN separates_VBZ pages_NNS with_IN notable_JJ inner_JJ differences_NNS and_CC then_RB generates_VBZ wrappers_NNS ,_, respectively_RB ._.
+Experimental_JJ results_NNS show_VBP that_IN our_PRP$ proposed_VBN approach_NN is_VBZ feasible_JJ and_CC effective_JJ for_IN improving_VBG extraction_NN accuracy_NN ._.

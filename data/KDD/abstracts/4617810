@@ -1,0 +1,9 @@
+Xproj_NNP :_: a_DT framework_NN for_IN projected_VBN structural_JJ clustering_NN of_IN xml_NN documents_NNS
+XML_NN has_VBZ become_VBN a_DT popular_JJ method_NN of_IN data_NNS representation_NN both_DT on_IN the_DT web_NN and_CC in_IN databases_NNS in_IN recent_JJ years_NNS ._.
+One_CD of_IN the_DT reasons_NNS for_IN the_DT popularity_NN of_IN XML_NN has_VBZ been_VBN its_PRP$ ability_NN to_TO encode_VB structural_JJ information_NN about_IN data_NNS records_NNS ._.
+However_RB ,_, this_DT structural_JJ characteristic_NN of_IN data_NN sets_NNS also_RB makes_VBZ it_PRP a_DT challenging_JJ problem_NN for_IN a_DT variety_NN of_IN data_NN mining_NN problems_NNS ._.
+One_CD such_JJ problem_NN is_VBZ that_DT of_IN clustering_NN ,_, in_IN which_WDT the_DT structural_JJ aspects_NNS of_IN the_DT data_NNS result_VBP in_IN a_DT high_JJ implicit_JJ dimensionality_NN of_IN the_DT data_NNS representation_NN ._.
+As_IN a_DT result_NN ,_, it_PRP becomes_VBZ more_RBR difficult_JJ to_TO cluster_VB the_DT data_NNS in_IN a_DT meaningful_JJ way_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT effective_JJ clustering_NN algorithm_NN for_IN XML_NN data_NNS which_WDT uses_VBZ substructures_NNS of_IN the_DT documents_NNS in_IN order_NN to_TO gain_VB insights_NNS about_IN the_DT important_JJ underlying_JJ structures_NNS ._.
+We_PRP propose_VBP new_JJ ways_NNS of_IN using_VBG multiple_JJ sub-structuralinformation_NN in_IN XML_NN documents_NNS to_TO evaluate_VB the_DT quality_NN of_IN intermediate_JJ cluster_NN solutions_NNS ,_, and_CC guide_VB the_DT algorithms_NNS to_TO a_DT final_JJ solution_NN which_WDT reflects_VBZ the_DT true_JJ structural_JJ behavior_NN in_IN individual_JJ partitions_NNS ._.
+We_PRP test_VBP the_DT algorithm_NN on_IN a_DT variety_NN of_IN real_JJ and_CC synthetic_JJ data_NNS sets_NNS ._.

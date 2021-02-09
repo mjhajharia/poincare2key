@@ -1,0 +1,4 @@
+Exploiting_VBG the_DT deep_JJ web_NN with_IN DynaBot_NN :_: matching_NN ,_, probing_VBG ,_, and_CC ranking_NN
+We_PRP present_VBP the_DT design_NN of_IN Dynabot_NNP ,_, a_DT guided_VBN Deep_JJ Web_NN discovery_NN system_NN ._.
+Dynabot_NNP 's_POS modular_JJ architecture_NN supports_VBZ focused_JJ crawling_NN of_IN the_DT Deep_JJ Web_NN with_IN an_DT emphasis_NN on_IN matching_NN ,_, probing_VBG ,_, and_CC ranking_NN discovered_VBD sources_NNS using_VBG two_CD key_JJ components_NNS :_: service_NN class_NN descriptions_NNS and_CC source-biased_JJ analysis_NN ._.
+We_PRP describe_VBP the_DT overall_JJ architecture_NN of_IN Dynabot_NNP and_CC discuss_VB how_WRB these_DT components_NNS support_VBP effective_JJ exploitation_NN of_IN the_DT massive_JJ Deep_JJ Web_NN data_NNS available_JJ ._.

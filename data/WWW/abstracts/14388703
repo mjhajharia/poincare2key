@@ -1,0 +1,10 @@
+Actions_NNS speak_VBP as_RB loud_JJ as_IN words_NNS :_: predicting_VBG relationships_NNS from_IN social_JJ behavior_NN data_NNS
+In_IN recent_JJ years_NNS ,_, new_JJ studies_NNS concentrating_VBG on_IN analyzing_NN user_NN personality_NN and_CC finding_VBG credible_JJ content_NN in_IN social_JJ media_NNS have_VBP become_VBN quite_RB popular_JJ ._.
+Most_JJS such_JJ work_NN augments_VBZ features_NNS from_IN textual_JJ content_NN with_IN features_NNS representing_VBG the_DT user_NN 's_POS social_JJ ties_NNS and_CC the_DT tie_NN strength_NN ._.
+Social_NN ties_NNS are_VBP crucial_JJ in_IN understanding_VBG the_DT network_NN the_DT people_NNS are_VBP a_DT part_NN of_IN ._.
+However_RB ,_, textual_JJ content_NN is_VBZ extremely_RB useful_JJ in_IN understanding_VBG topics_NNS discussed_VBN and_CC the_DT personality_NN of_IN the_DT individual_NN ._.
+We_PRP bring_VBP a_DT new_JJ dimension_NN to_TO this_DT type_NN of_IN analysis_NN with_IN methods_NNS to_TO compute_VB the_DT type_NN of_IN ties_NNS individuals_NNS have_VBP and_CC the_DT strength_NN of_IN the_DT ties_NNS in_IN each_DT dimension_NN ._.
+We_PRP present_VBP a_DT new_JJ genre_NN of_IN behavioral_JJ features_NNS that_WDT are_VBP able_JJ to_TO capture_VB the_DT ``_`` function_NN ''_'' of_IN a_DT specific_JJ relationship_NN without_IN the_DT help_NN of_IN textual_JJ features_NNS ._.
+Our_PRP$ novel_JJ features_NNS are_VBP based_VBN on_IN the_DT statistical_JJ properties_NNS of_IN communication_NN patterns_NNS between_IN individuals_NNS such_JJ as_IN reciprocity_NN ,_, assortativity_NN ,_, attention_NN and_CC latency_NN ._.
+We_PRP introduce_VBP a_DT new_JJ methodology_NN for_IN determining_VBG how_WRB such_JJ features_NNS can_MD be_VB compared_VBN to_TO textual_JJ features_NNS ,_, and_CC show_NN ,_, using_VBG Twitter_NNP data_NNS ,_, that_IN our_PRP$ features_NNS can_MD be_VB used_VBN to_TO capture_VB contextual_JJ information_NN present_JJ in_IN textual_JJ features_NNS very_RB accurately_RB ._.
+Conversely_RB ,_, we_PRP also_RB demonstrate_VBP how_WRB textual_JJ features_NNS can_MD be_VB used_VBN to_TO determine_VB social_JJ attributes_NNS related_VBN to_TO an_DT individual_NN ._.

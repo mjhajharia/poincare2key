@@ -1,0 +1,7 @@
+Tv2web_NN :_: generating_VBG and_CC browsing_VBG web_NN with_IN multiple_JJ lod_NN from_IN video_JJ streams_NNS and_CC their_PRP$ metadata_NN
+We_PRP propose_VBP a_DT method_NN of_IN automatically_RB constructing_VBG Web_NN content_NN from_IN video_JJ streams_NNS with_IN metadata_NN that_IN we_PRP call_VBP TV2Web_NN ._.
+The_DT Web_NN content_NN includes_VBZ thumbnails_NNS of_IN video_NN units_NNS and_CC caption_NN data_NNS generated_VBN from_IN metadata_NN ._.
+Users_NNS can_MD watch_VB TV_NN ona_NN normal_JJ Web_NN browser_NN ._.
+They_PRP can_MD also_RB manipulate_VB Web_NN content_NN with_IN zooming_VBG metaphors_NNS to_TO seamlessly_RB alter_VB the_DT level_NN of_IN detail_NN -LRB-_-LRB- LOD_NN -RRB-_-RRB- of_IN the_DT content_NN being_VBG viewed_VBN ._.
+They_PRP can_MD search_VB for_IN favorite_JJ scenes_NNS faster_RBR than_IN with_IN analog_NN video_NN equipment_NN ,_, and_CC experience_VB a_DT new_JJ cross-media_JJ environment_NN ._.
+We_PRP also_RB developed_VBD a_DT prototype_NN of_IN the_DT TV2Web_NN system_NN and_CC discuss_VB its_PRP$ implementation_NN ._.

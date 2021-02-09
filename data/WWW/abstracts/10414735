@@ -1,0 +1,5 @@
+Social_NN search_NN and_CC discovery_NN using_VBG a_DT unified_JJ approach_NN
+We_PRP explore_VBP new_JJ ways_NNS of_IN improving_VBG a_DT search_NN engine_NN using_VBG data_NNS from_IN Web_NN 2.0_CD applications_NNS such_JJ as_IN blogs_NNS and_CC social_JJ bookmarks_NNS ._.
+This_DT data_NN contains_VBZ entities_NNS such_JJ as_IN documents_NNS ,_, people_NNS and_CC tags_NNS ,_, and_CC relationships_NNS between_IN them_PRP ._.
+We_PRP propose_VBP a_DT simple_NN yet_RB effective_JJ method_NN ,_, based_VBN on_IN faceted_JJ search_NN ,_, that_WDT treats_VBZ all_DT entities_NNS in_IN a_DT unified_JJ manner_NN :_: returning_VBG all_DT of_IN them_PRP -LRB-_-LRB- documents_NNS ,_, people_NNS and_CC tags_NNS -RRB-_-RRB- on_IN every_DT search_NN ,_, and_CC allowing_VBG all_DT of_IN them_PRP to_TO be_VB used_VBN as_IN search_NN terms_NNS ._.
+We_PRP describe_VBP an_DT implementation_NN of_IN such_PDT a_DT social_JJ search_NN engine_NN on_IN the_DT intranet_NN of_IN a_DT large_JJ enterprise_NN ,_, and_CC present_JJ large-scale_JJ experiments_NNS which_WDT verify_VBP the_DT validity_NN of_IN our_PRP$ approach_NN ._.

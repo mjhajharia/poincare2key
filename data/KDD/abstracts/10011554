@@ -1,0 +1,10 @@
+Constructing_VBG comprehensive_JJ summaries_NNS of_IN large_JJ event_NN sequences_NNS
+Event_NN sequences_NNS capture_VBP system_NN and_CC user_NN activity_NN over_IN time_NN ._.
+Prior_JJ research_NN on_IN sequence_NN mining_NN has_VBZ mostly_RB focused_VBN on_IN discovering_VBG local_JJ patterns_NNS ._.
+Though_IN interesting_JJ ,_, these_DT patterns_NNS reveal_VBP local_JJ associations_NNS and_CC fail_VBP to_TO give_VB a_DT comprehensive_JJ summary_NN of_IN the_DT entire_JJ event_NN sequence_NN ._.
+Moreover_RB ,_, the_DT number_NN of_IN patterns_NNS discovered_VBN can_MD be_VB large_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP take_VBP an_DT alternative_JJ approach_NN and_CC build_VB short_JJ summaries_NNS that_WDT describe_VBP the_DT entire_JJ sequence_NN ,_, while_IN revealing_VBG local_JJ associations_NNS among_IN events_NNS ._.
+We_PRP formally_RB define_VBP the_DT summarization_NN problem_NN as_IN an_DT optimization_NN problem_NN that_WDT balances_VBZ between_IN shortness_NN of_IN the_DT summary_NN and_CC accuracy_NN of_IN the_DT data_NNS description_NN ._.
+We_PRP show_VBP that_IN this_DT problem_NN can_MD be_VB solved_VBN optimally_RB in_IN polynomial_JJ time_NN by_IN using_VBG a_DT combination_NN of_IN two_CD dynamic-programming_JJ algorithms_NNS ._.
+We_PRP also_RB explore_VBP more_RBR efficient_JJ greedy_JJ alternatives_NNS and_CC demonstrate_VBP that_IN they_PRP work_VBP well_RB on_IN large_JJ datasets_NNS ._.
+Experiments_NNS on_IN both_CC synthetic_JJ and_CC real_JJ datasets_NNS illustrate_VBP that_IN our_PRP$ algorithms_NNS are_VBP efficient_JJ and_CC produce_VBP high-quality_JJ results_NNS ,_, and_CC reveal_VBP interesting_JJ local_JJ structures_NNS in_IN the_DT data_NNS ._.

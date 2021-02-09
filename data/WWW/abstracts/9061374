@@ -1,0 +1,11 @@
+Extending_VBG the_DT compatibility_NN notion_NN for_IN abstract_JJ WS-BPEL_NN processes_NNS
+WS-BPEL_NN defines_VBZ a_DT standard_NN for_IN executable_JJ processes_NNS ._.
+Executable_JJ processes_NNS are_VBP business_NN processes_NNS which_WDT can_MD be_VB automated_VBN through_IN an_DT IT_NNP infrastructure_NN ._.
+The_DT WS-BPEL_NN specification_NN also_RB introduces_VBZ the_DT concept_NN of_IN abstract_JJ processes_NNS :_: In_IN contrast_NN to_TO their_PRP$ executable_JJ siblings_NNS ,_, abstract_JJ processes_NNS are_VBP not_RB executable_JJ and_CC can_MD have_VB parts_NNS where_WRB business_NN logic_NN is_VBZ disguised_VBN ._.
+Nevertheless_RB ,_, the_DT WS-BPEL_NN specification_NN introduces_VBZ a_DT notion_NN of_IN compatibility_NN between_IN such_JJ an_DT under-specified_JJ abstract_JJ process_NN and_CC a_DT fully_RB specified_VBN executable_JJ one_CD ._.
+Basically_RB ,_, this_DT compatibility_NN notion_NN defines_VBZ a_DT set_NN of_IN syntactical_JJ rules_NNS that_WDT can_MD be_VB augmented_VBN or_CC restricted_VBN by_IN profiles_NNS ._.
+So_RB far_RB ,_, there_EX exist_VBP two_CD of_IN such_JJ profiles_NNS :_: the_DT Abstract_NNP Process_VB Profile_NNP for_IN Observable_NNP Behavior_NNP and_CC the_DT Abstract_NNP Process_VB Profile_NNP for_IN Templates_NNPS ._.
+None_NN of_IN these_DT profiles_NNS defines_VBZ a_DT concept_NN of_IN behavioral_JJ equivalence_JJ ._.
+Therefore_RB ,_, both_DT profiles_NNS are_VBP too_RB strict_JJ with_IN respect_NN to_TO the_DT rules_NNS they_PRP impose_VBP when_WRB deciding_VBG whether_IN an_DT executable_JJ process_NN is_VBZ compatible_JJ to_TO an_DT abstract_JJ one_CD ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ profile_NN that_WDT extends_VBZ the_DT existing_VBG Abstract_NNP Process_VB Profile_NNP for_IN Observable_NNP Behavior_NNP by_IN defining_VBG a_DT behavioral_JJ relationship_NN ._.
+We_PRP also_RB show_VBP that_IN our_PRP$ novel_JJ profile_NN allows_VBZ for_IN more_JJR flexibility_NN when_WRB deciding_VBG whether_IN an_DT executable_JJ and_CC an_DT abstract_JJ process_NN are_VBP compatible_JJ ._.

@@ -1,0 +1,7 @@
+Frequent_JJ regular_JJ itemset_NN mining_NN
+Concise_JJ representations_NNS of_IN frequent_JJ itemsets_NNS sacrifice_VBP readability_NN and_CC direct_JJ interpretability_NN by_IN a_DT data_NN analyst_NN of_IN the_DT concise_JJ patterns_NNS extracted_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP an_DT extension_NN of_IN itemsets_NNS ,_, called_VBN regular_NN ,_, with_IN an_DT immediate_JJ semantics_NNS and_CC interpretability_NN ,_, and_CC a_DT conciseness_NN comparable_JJ to_TO closed_JJ itemsets_NNS ._.
+Regular_JJ itemsets_NNS allow_VBP for_IN specifying_VBG that_IN an_DT item_NN may_MD or_CC may_MD not_RB be_VB present_JJ ;_: that_IN any_DT subset_NN of_IN an_DT itemset_NN may_MD be_VB present_JJ ;_: and_CC that_IN any_DT non-empty_JJ subset_NN of_IN an_DT itemset_NN may_MD be_VB present_JJ ._.
+We_PRP devise_VBP a_DT procedure_NN ,_, called_VBN RegularMine_NNP ,_, for_IN mining_VBG a_DT set_NN of_IN regular_JJ itemsets_NNS that_WDT is_VBZ a_DT concise_JJ representation_NN of_IN frequent_JJ itemsets_NNS ._.
+The_DT procedure_NN computes_VBZ a_DT covering_NN ,_, in_IN terms_NNS of_IN regular_JJ itemsets_NNS ,_, of_IN the_DT frequent_JJ itemsets_NNS in_IN the_DT class_NN of_IN equivalence_JJ of_IN a_DT closed_JJ one_CD ._.
+We_PRP report_VBP experimental_JJ results_NNS on_IN several_JJ standard_JJ dense_JJ and_CC sparse_JJ datasets_NNS that_WDT validate_VBP the_DT proposed_VBN approach_NN ._.

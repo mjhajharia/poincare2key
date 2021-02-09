@@ -1,0 +1,4 @@
+Lessons_NNS from_IN a_DT Gnutella-web_JJ gateway_NN
+We_PRP present_VBP a_DT gateway_NN between_IN the_DT WWW_NNP and_CC the_DT Gnutella_NNP peer-to-peer_NN network_NN that_WDT permits_VBZ searchers_NNS on_IN one_CD side_NN to_TO be_VB able_JJ to_TO search_VB and_CC retrieve_VB files_NNS on_IN the_DT other_JJ side_NN of_IN the_DT gateway_NN ._.
+This_DT work_NN improvesthe_JJ accessibility_NN of_IN files_NNS across_IN different_JJ delivery_NN platforms_NNS ,_, making_VBG it_PRP possible_JJ to_TO use_VB a_DT single_JJ search_NN modality_NN ._.
+We_PRP outline_VBP our_PRP$ design_NN and_CC implementation_NN ,_, present_JJ access_NN statistics_NNS from_IN a_DT test_NN deployment_NN and_CC discuss_VB lessons_NNS learned_VBN ._.

@@ -1,0 +1,6 @@
+Domain-independent_JJ entity_NN extraction_NN from_IN web_NN search_NN query_NN logs_NNS
+Query_JJ logs_NNS of_IN a_DT Web_NN search_NN engine_NN have_VBP been_VBN increasingly_RB used_VBN as_IN a_DT vital_JJ source_NN for_IN data_NNS mining_NN ._.
+This_DT paper_NN presents_VBZ a_DT study_NN on_IN large-scale_JJ domain-independent_JJ entity_NN extraction_NN from_IN search_NN query_NN logs_NNS ._.
+We_PRP present_VBP a_DT completely_RB unsupervised_JJ method_NN to_TO extract_VB entities_NNS by_IN applying_VBG pattern-based_JJ heuristics_NNS and_CC statistical_JJ measures_NNS ._.
+We_PRP compare_VBP against_IN existing_VBG techniques_NNS that_WDT use_VBP Web_NN documents_NNS as_RB well_RB as_IN search_NN logs_NNS ,_, and_CC show_VBP that_IN we_PRP improve_VBP over_IN the_DT state_NN of_IN the_DT art_NN ._.
+We_PRP also_RB provide_VBP an_DT in-depth_JJ qualitative_JJ analysis_NN outlining_VBG differences_NNS and_CC commonalities_NNS between_IN these_DT methods_NNS ._.

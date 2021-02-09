@@ -1,0 +1,4 @@
+Position_NN paper_NN :_: a_DT comparison_NN of_IN two_CD modelling_NN paradigms_NNS in_IN the_DT Semantic_JJ Web_NN
+Classical_JJ logics_NNS and_CC Datalog-related_JJ logics_NNS have_VBP both_DT been_VBN proposed_VBN as_IN underlying_JJ formalisms_NNS for_IN the_DT Semantic_JJ Web_NN ._.
+Although_IN these_DT two_CD different_JJ formalism_NN groups_NNS have_VBP some_DT commonalities_NNS ,_, and_CC look_VB similar_JJ in_IN the_DT context_NN of_IN expressively-impoverished_JJ languages_NNS like_IN RDF_NNP ,_, their_PRP$ differences_NNS become_VBP apparent_JJ at_IN more_RBR expressive_JJ language_NN levels_NNS ._.
+After_IN considering_VBG some_DT of_IN these_DT differences_NNS ,_, we_PRP argue_VBP that_IN ,_, although_IN some_DT of_IN the_DT characteristics_NNS of_IN Datalog_NNP have_VBP their_PRP$ utility_NN ,_, the_DT open_JJ environment_NN of_IN the_DT Semantic_JJ Web_NN is_VBZ better_RB served_VBN by_IN standard_JJ logics_NNS ._.

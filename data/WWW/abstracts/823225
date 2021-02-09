@@ -1,0 +1,10 @@
+A_DT combined_JJ approach_NN to_TO checking_NN web_NN ontologies_NNS
+The_DT understanding_NN of_IN Semantic_JJ Web_NN documents_NNS is_VBZ built_VBN upon_IN ontologies_NNS that_WDT define_VBP concepts_NNS and_CC relationships_NNS of_IN data_NNS ._.
+Hence_RB ,_, the_DT correctness_NN of_IN ontologies_NNS is_VBZ vital_JJ ._.
+Ontology_NNP reasoners_NNS such_JJ as_IN RACER_NN and_CC FaCT_NN have_VBP been_VBN developed_VBN to_TO reason_NN ontologies_NNS with_IN a_DT high_JJ degree_NN of_IN automation_NN ._.
+However_RB ,_, complex_JJ ontology-related_JJ properties_NNS may_MD not_RB be_VB expressible_JJ within_IN the_DT current_JJ web_NN ontology_NN languages_NNS ,_, consequently_RB they_PRP may_MD not_RB be_VB checkable_JJ by_IN RACER_NN and_CC FaCT_NN ._.
+We_PRP propose_VBP to_TO use_VB the_DT software_NN engineering_NN techniques_NNS and_CC tools_NNS ,_, i.e._FW ,_, Z\/EVES_NN and_CC Alloy_NN Analyzer_NN ,_, to_TO complement_VB the_DT ontology_NN tools_NNS for_IN checking_VBG Semantic_JJ Web_NN documents_NNS ._.
+In_IN this_DT approach_NN ,_, Z\/EVES_NN is_VBZ first_RB applied_VBN to_TO remove_VB trivial_JJ syntax_NN and_CC type_NN errors_NNS of_IN the_DT ontologies_NNS ._.
+Next_RB ,_, RACER_NN is_VBZ used_VBN to_TO identify_VB any_DT ontological_JJ inconsistencies_NNS ,_, whose_WP$ origins_NNS can_MD be_VB traced_VBN by_IN Alloy_NNP Analyzer_NNP ._.
+Finally_RB Z\/EVES_NN is_VBZ used_VBN again_RB to_TO express_VB complex_JJ ontology-related_JJ properties_NNS and_CC reveal_VB errors_NNS beyond_IN the_DT modeling_NN capabilities_NNS of_IN the_DT current_JJ web_NN ontology_NN languages_NNS ._.
+We_PRP have_VBP successfully_RB applied_VBN this_DT approach_NN to_TO checking_VBG a_DT set_NN of_IN military_JJ plan_NN ontologies_NNS ._.

@@ -1,0 +1,13 @@
+Facetnet_NNP :_: a_DT framework_NN for_IN analyzing_VBG communities_NNS and_CC their_PRP$ evolutions_NNS in_IN dynamic_JJ networks_NNS
+We_PRP discover_VBP communities_NNS from_IN social_JJ network_NN data_NNS ,_, and_CC analyze_VB the_DT community_NN evolution_NN ._.
+These_DT communities_NNS are_VBP inherent_JJ characteristics_NNS of_IN human_JJ interaction_NN in_IN online_JJ social_JJ networks_NNS ,_, as_RB well_RB as_IN paper_NN citation_NN networks_NNS ._.
+Also_RB ,_, communities_NNS may_MD evolve_VB over_IN time_NN ,_, due_JJ to_TO changes_NNS to_TO individuals_NNS '_POS roles_NNS and_CC social_JJ status_NN in_IN the_DT network_NN as_RB well_RB as_IN changes_NNS to_TO individuals_NNS '_POS research_NN interests_NNS ._.
+We_PRP present_VBP an_DT innovative_JJ algorithm_NN that_WDT deviates_VBZ from_IN the_DT traditional_JJ two-step_JJ approach_NN to_TO analyze_VB community_NN evolutions_NNS ._.
+In_IN the_DT traditional_JJ approach_NN ,_, communities_NNS are_VBP first_RB detected_VBN for_IN each_DT time_NN slice_NN ,_, and_CC then_RB compared_VBN to_TO determine_VB correspondences_NNS ._.
+We_PRP argue_VBP that_IN this_DT approach_NN is_VBZ inappropriate_JJ in_IN applications_NNS with_IN noisy_JJ data_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP FacetNet_NNP for_IN analyzing_VBG communities_NNS and_CC their_PRP$ evolutions_NNS through_IN a_DT robust_JJ unified_JJ process_NN ._.
+In_IN this_DT novel_JJ framework_NN ,_, communities_NNS not_RB only_RB generate_VB evolutions_NNS ,_, they_PRP also_RB are_VBP regularized_VBN by_IN the_DT temporal_JJ smoothness_NN of_IN evolutions_NNS ._.
+As_IN a_DT result_NN ,_, this_DT framework_NN will_MD discover_VB communities_NNS that_WDT jointly_RB maximize_VBP the_DT fit_NN to_TO the_DT observed_VBN data_NNS and_CC the_DT temporal_JJ evolution_NN ._.
+Our_PRP$ approach_NN relies_VBZ on_IN formulating_VBG the_DT problem_NN in_IN terms_NNS of_IN non-negative_JJ matrix_NN factorization_NN ,_, where_WRB communities_NNS and_CC their_PRP$ evolutions_NNS are_VBP factorized_VBN in_IN a_DT unified_JJ way_NN ._.
+Then_RB we_PRP develop_VBP an_DT iterative_JJ algorithm_NN ,_, with_IN proven_JJ low_JJ time_NN complexity_NN ,_, which_WDT is_VBZ guaranteed_VBN to_TO converge_VB to_TO an_DT optimal_JJ solution_NN ._.
+We_PRP perform_VBP extensive_JJ experimental_JJ studies_NNS ,_, on_IN both_DT synthetic_JJ datasets_NNS and_CC real_JJ datasets_NNS ,_, to_TO demonstrate_VB that_IN our_PRP$ method_NN discovers_VBZ meaningful_JJ communities_NNS and_CC provides_VBZ additional_JJ insights_NNS not_RB directly_RB obtainable_JJ from_IN traditional_JJ methods_NNS ._.

@@ -1,0 +1,11 @@
+Learning_NNP block_NN importance_NN models_NNS for_IN web_NN pages_NNS
+Previous_JJ work_NN shows_VBZ that_IN a_DT web_NN page_NN can_MD be_VB partitioned_VBN into_IN multiple_JJ segments_NNS or_CC blocks_NNS ,_, and_CC often_RB the_DT importance_NN of_IN those_DT blocks_NNS in_IN a_DT page_NN is_VBZ not_RB equivalent_JJ ._.
+Also_RB ,_, it_PRP has_VBZ been_VBN proven_VBN that_IN differentiating_VBG noisy_JJ or_CC unimportant_JJ blocks_NNS from_IN pages_NNS can_MD facilitate_VB web_NN mining_NN ,_, search_NN and_CC accessibility_NN ._.
+However_RB ,_, no_DT uniform_JJ approach_NN and_CC model_NN has_VBZ been_VBN presented_VBN to_TO measure_VB the_DT importance_NN of_IN different_JJ segments_NNS in_IN web_NN pages_NNS ._.
+Through_IN a_DT user_NN study_NN ,_, we_PRP found_VBD that_IN people_NNS do_VBP have_VB a_DT consistent_JJ view_NN about_IN the_DT importance_NN of_IN blocks_NNS in_IN web_NN pages_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP investigate_VBP how_WRB to_TO find_VB a_DT model_NN to_TO automatically_RB assign_VB importance_NN values_NNS to_TO blocks_NNS in_IN a_DT web_NN page_NN ._.
+We_PRP define_VBP the_DT block_NN importance_NN estimation_NN as_IN a_DT learning_NN problem_NN ._.
+First_RB ,_, we_PRP use_VBP a_DT vision-based_JJ page_NN segmentation_NN algorithm_NN to_TO partition_NN a_DT web_NN page_NN into_IN semantic_JJ blocks_NNS with_IN a_DT hierarchical_JJ structure_NN ._.
+Then_RB spatial_JJ features_NNS -LRB-_-LRB- such_JJ as_IN position_NN and_CC size_NN -RRB-_-RRB- and_CC content_NN features_NNS -LRB-_-LRB- such_JJ as_IN the_DT number_NN of_IN images_NNS and_CC links_NNS -RRB-_-RRB- are_VBP extracted_VBN to_TO construct_VB a_DT feature_NN vector_NN for_IN each_DT block_NN ._.
+Based_VBN on_IN these_DT features_NNS ,_, learning_VBG algorithms_NNS are_VBP used_VBN to_TO train_VB a_DT model_NN to_TO assign_VB importance_NN to_TO different_JJ segments_NNS in_IN the_DT web_NN page_NN ._.
+In_IN our_PRP$ experiments_NNS ,_, the_DT best_JJS model_NN can_MD achieve_VB the_DT performance_NN with_IN Micro-F1_NN 79_CD %_NN and_CC Micro-Accuracy_NNP 85.9_CD %_NN ,_, which_WDT is_VBZ quite_RB close_JJ to_TO a_DT person_NN 's_POS view_NN ._.

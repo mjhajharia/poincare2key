@@ -1,0 +1,7 @@
+Wake-on-WLAN_NN
+In_IN bridging_VBG the_DT digital_JJ divide_NN ,_, two_CD important_JJ criteria_NNS are_VBP cost-effectiveness_NN ,_, and_CC power_NN optimization_NN ._.
+While_IN 802.11_CD is_VBZ cost-effective_JJ and_CC is_VBZ being_VBG used_VBN in_IN several_JJ installations_NNS in_IN the_DT developing_VBG world_NN ,_, typical_JJ system_NN configurations_NNS are_VBP not_RB really_RB power_NN efficient_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ ``_`` Wake-on-WLAN_JJ ''_'' mechanism_NN for_IN coarse-grained_JJ ,_, on-demand_JJ power_NN on\/off_JJ of_IN the_DT networking_NN equipment_NN at_IN a_DT remote_JJ site_NN ._.
+The_DT novelty_NN also_RB lies_VBZ in_IN our_PRP$ implementation_NN of_IN a_DT prototype_NN system_NN using_VBG low-power_JJ 802.15.4-based_JJ sensor_NN motes_NNS ._.
+We_PRP describe_VBP the_DT prototype_NN ,_, as_RB well_RB as_IN its_PRP$ evaluation_NN on_IN field_NN in_IN a_DT WiFi_NN testbed_VBN ._.
+Preliminary_JJ estimates_NNS indicate_VBP that_IN the_DT proposed_VBN mechanism_NN can_MD save_VB significant_JJ power_NN in_IN typical_JJ rural_JJ networking_NN settings_NNS ._.

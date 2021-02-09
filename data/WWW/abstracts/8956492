@@ -1,0 +1,5 @@
+Building_NN reactive_JJ web_NN applications_NNS
+The_DT Adaptive_JJ Web_NN is_VBZ a_DT new_JJ research_NN area_NN addressing_VBG the_DT personalization_NN of_IN the_DT Web_NN experience_NN for_IN each_DT user_NN ._.
+In_IN this_DT paper_NN we_PRP propose_VBP a_DT new_JJ high-level_JJ model_NN for_IN the_DT specification_NN of_IN Web_NN applications_NNS that_WDT take_VBP into_IN account_NN the_DT manner_NN users_NNS interact_VBP with_IN the_DT application_NN for_IN supplying_VBG appropriate_JJ contents_NNS or_CC gathering_VBG profile_NN data_NNS ._.
+We_PRP therefore_RB consider_VBP entire_JJ processes_NNS -LRB-_-LRB- rather_RB than_IN single_JJ properties_NNS -RRB-_-RRB- as_IN smallest_JJS information_NN units_NNS ,_, allowing_VBG for_IN automatic_JJ restructuring_NN of_IN application_NN components_NNS ._.
+For_IN this_DT purpose_NN ,_, a_DT high-level_JJ Event-Condition-Action_NN -LRB-_-LRB- ECA_NN -RRB-_-RRB- paradigm_NN is_VBZ proposed_VBN ,_, which_WDT enables_VBZ capturing_VBG arbitrary_JJ -LRB-_-LRB- and_CC timed_VBN -RRB-_-RRB- clicking_VBG behaviors_NNS ._.

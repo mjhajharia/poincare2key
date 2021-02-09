@@ -1,0 +1,12 @@
+Cat_NN and_CC mouse_NN :_: content_NN delivery_NN tradeoffs_NNS in_IN web_NN access_NN
+Web_NN pages_NNS include_VBP extraneous_JJ material_NN that_WDT may_MD be_VB viewed_VBN as_IN undesirable_JJ by_IN a_DT user_NN ._.
+Increasingly_RB many_JJ Web_NN sites_NNS also_RB require_VBP users_NNS to_TO register_VB to_TO access_NN either_CC all_DT or_CC portions_NNS of_IN the_DT site_NN ._.
+Such_JJ tension_NN between_IN content_NN owners_NNS and_CC users_NNS has_VBZ resulted_VBN in_IN a_DT ``_`` cat_NN and_CC mouse_NN ''_'' game_NN between_IN content_NN provided_VBD and_CC how_WRB users_NNS access_VBP it_PRP ._.
+We_PRP carried_VBD out_RP a_DT measurement-based_JJ study_NN to_TO understand_VB the_DT nature_NN of_IN extraneous_JJ content_NN and_CC its_PRP$ impact_NN on_IN performance_NN as_IN perceived_VBN by_IN users_NNS ._.
+We_PRP characterize_VBP how_WRB this_DT content_NN is_VBZ distributed_VBN and_CC the_DT effectiveness_NN of_IN blocking_VBG mechanisms_NNS to_TO stop_VB it_PRP as_RB well_RB as_IN countermeasures_NNS taken_VBN by_IN content_NN owners_NNS to_TO negate_VB such_JJ mechanisms_NNS ._.
+We_PRP also_RB examine_VBP sites_NNS that_WDT require_VBP some_DT form_NN of_IN registration_NN to_TO control_VB access_NN and_CC the_DT attempts_NNS made_VBN to_TO circumvent_VB it_PRP ._.
+Results_NNS from_IN our_PRP$ study_NN show_VBP that_IN extraneous_JJ content_NN exists_VBZ on_IN a_DT majority_NN of_IN popular_JJ pages_NNS and_CC that_IN a_DT 25-30_CD %_NN reduction_NN in_IN downloaded_VBN objects_NNS and_CC bytes_NNS with_IN corresponding_JJ latency_NN reduction_NN can_MD be_VB attained_VBN by_IN blocking_VBG such_JJ content_NN ._.
+The_DT top_JJ ten_CD advertisement_NN delivering_VBG companies_NNS delivered_VBD 40_CD %_NN of_IN all_DT URLs_NNS matched_VBN as_IN ads_NNS in_IN our_PRP$ study_NN ._.
+Both_CC the_DT server_NN name_NN and_CC the_DT remainder_NN of_IN the_DT URL_NN are_VBP important_JJ in_IN matching_VBG a_DT URL_NN as_IN an_DT ad_NN ._.
+A_DT majority_NN of_IN popular_JJ sites_NNS require_VBP some_DT form_NN of_IN registration_NN and_CC for_IN such_JJ sites_NNS users_NNS can_MD obtain_VB an_DT account_NN from_IN a_DT shared_JJ public_JJ database_NN ._.
+We_PRP discuss_VBP future_JJ measures_NNS and_CC countermeasures_NNS on_IN the_DT part_NN of_IN each_DT side_NN ._.

@@ -1,0 +1,11 @@
+{
+  "dataset_identifier": "500N-KPCrowd",
+  "references": {
+    "test": "500N-KPCrowd/references/test.reader.stem.json",
+    "train": "500N-KPCrowd/references/train.reader.stem.json"
+  },
+  "files": [
+    "test.json",
+    "train.json"
+  ]
+}

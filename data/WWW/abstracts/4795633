@@ -1,0 +1,6 @@
+Analyzing_VBG web_NN access_NN control_NN policies_NNS
+XACML_NNP has_VBZ emerged_VBN as_IN a_DT popular_JJ access_NN control_NN language_NN on_IN the_DT Web_NN ,_, but_CC because_IN of_IN its_PRP$ rich_JJ expressiveness_NN ,_, it_PRP has_VBZ proved_VBN difficult_JJ to_TO analyze_VB in_IN an_DT automated_JJ fashion_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT formalization_NN of_IN XACML_NN using_VBG description_NN logics_NNS -LRB-_-LRB- DL_NN -RRB-_-RRB- ,_, which_WDT are_VBP a_DT decidable_JJ fragment_NN of_IN First-Order_JJ logic_NN ._.
+This_DT formalization_NN allows_VBZ us_PRP to_TO cover_VB a_DT more_RBR expressive_JJ subset_NN of_IN XACML_NN than_IN propositional_JJ logic-based_JJ analysis_NN tools_NNS ,_, and_CC in_IN addition_NN we_PRP provide_VBP a_DT new_JJ analysis_NN service_NN -LRB-_-LRB- policy_NN redundancy_NN -RRB-_-RRB- ._.
+Also_RB ,_, mapping_VBG XACML_NN to_TO description_NN logics_NNS allows_VBZ us_PRP to_TO use_VB off-the-shelf_JJ DL_NN reasoners_NNS for_IN analysis_NN tasks_NNS such_JJ as_IN policy_NN comparison_NN ,_, verification_NN and_CC querying_VBG ._.
+We_PRP provide_VBP empirical_JJ evaluation_NN of_IN a_DT policy_NN analysis_NN tool_NN that_WDT was_VBD implemented_VBN on_IN top_NN of_IN open_JJ source_NN DL_NN reasoner_NN Pellet_NN ._.

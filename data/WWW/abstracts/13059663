@@ -1,0 +1,7 @@
+EntityTagger_NNP :_: automatically_RB tagging_VBG entities_NNS with_IN descriptive_JJ phrases_NNS
+We_PRP consider_VBP the_DT problem_NN of_IN entity_NN tagging_NN :_: given_VBN one_CD or_CC more_JJR named_VBN entities_NNS from_IN a_DT specific_JJ domain_NN ,_, the_DT goal_NN is_VBZ to_TO automatically_RB associate_VB descriptive_JJ phrases_NNS ,_, referred_VBN to_TO as_IN etags_NNS -LRB-_-LRB- entity_NN tags_NNS -RRB-_-RRB- ,_, to_TO each_DT entity_NN ._.
+Consider_VB a_DT product_NN catalog_NN containing_VBG product_NN names_NNS and_CC possibly_RB short_JJ descriptions_NNS ._.
+For_IN a_DT product_NN in_IN the_DT catalog_NN ,_, say_VBP Ricoh_NNP G600_NNP Digital_NNP Camera_NNP ,_, we_PRP want_VBP to_TO associate_VB etags_NNS such_JJ as_IN ``_`` water_NN resistant_JJ ''_'' ,_, ``_`` rugged_JJ ''_'' and_CC ``_`` outdoor_JJ ''_'' to_TO it_PRP ,_, even_RB though_IN its_PRP$ name_NN or_CC description_NN does_VBZ not_RB mention_VB those_DT phrases_NNS ._.
+Entity_NN tagging_NN can_MD enable_VB more_RBR effective_JJ search_NN over_IN entities_NNS ._.
+We_PRP propose_VBP to_TO leverage_NN signals_NNS in_IN web_NN documents_NNS to_TO perform_VB such_JJ tagging_NN ._.
+We_PRP develop_VBP techniques_NNS to_TO perform_VB such_JJ tagging_NN in_IN a_DT domain_NN independent_JJ manner_NN while_IN ensuring_VBG high_JJ precision_NN and_CC high_JJ recall_NN ._.

@@ -1,0 +1,8 @@
+Privacy_NN preserving_NN frequency_NN capping_VBG in_FW internet_FW banner_NN advertising_NN
+We_PRP describe_VBP an_DT optimize-and-dispatch_JJ approach_NN for_IN delivering_VBG pay-per-impression_NN advertisements_NNS in_IN online_NN advertising_NN ._.
+The_DT platform_NN provider_NN for_IN an_DT advertising_NN network_NN commits_VBZ to_TO showing_VBG advertisers_NNS '_POS banner_NN ads_NNS while_IN capping_VBG the_DT number_NN of_IN advertising_NN message_NN shown_VBN to_TO a_DT unique_JJ user_NN as_IN the_DT user_NN transitions_NNS through_IN the_DT network_NN ._.
+The_DT traditional_JJ approach_NN for_IN enforcing_VBG frequency_NN caps_NNS has_VBZ been_VBN to_TO use_VB cross-site_JJ cookies_NNS to_TO track_VB users_NNS ._.
+However,cross-site_NN cookies_NNS and_CC other_JJ tracking_NN mechanisms_NNS can_MD infringe_VB on_IN the_DT user_NN privacy_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ linear_JJ programming_NN approach_NN that_WDT decides_VBZ when_WRB to_TO show_VB an_DT ad_NN to_TO the_DT user_NN based_VBN solely_RB on_IN the_DT page_NN currently_RB viewed_VBN by_IN the_DT users_NNS ._.
+We_PRP show_VBP that_IN the_DT frequency_NN caps_NNS are_VBP fulfilled_VBN in_IN expectation_NN ._.
+We_PRP show_VBP the_DT efficacy_NN of_IN that_DT approach_NN using_VBG simulation_NN results_NNS ._.

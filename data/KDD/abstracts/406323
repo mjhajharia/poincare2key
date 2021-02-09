@@ -1,0 +1,7 @@
+SEWeP_NN :_: using_VBG site_NN semantics_NNS and_CC a_DT taxonomy_NN to_TO enhance_VB the_DT Web_NN personalization_NN process_NN
+Web_NN personalization_NN is_VBZ the_DT process_NN of_IN customizing_VBG a_DT Web_NN site_NN to_TO the_DT needs_NNS of_IN each_DT specific_JJ user_NN or_CC set_NN of_IN users_NNS ,_, taking_VBG advantage_NN of_IN the_DT knowledge_NN acquired_VBN through_IN the_DT analysis_NN of_IN the_DT user_NN 's_POS navigational_JJ behavior_NN ._.
+Integrating_VBG usage_NN data_NNS with_IN content_NN ,_, structure_NN or_CC user_NN profile_NN data_NNS enhances_VBZ the_DT results_NNS of_IN the_DT personalization_NN process_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP SEWeP_NN ,_, a_DT system_NN that_WDT makes_VBZ use_NN of_IN both_CC the_DT usage_NN logs_NNS and_CC the_DT semantics_NNS of_IN a_DT Web_NN site_NN 's_POS content_NN in_IN order_NN to_TO personalize_VB it_PRP ._.
+Web_NN content_NN is_VBZ semantically_RB annotated_JJ using_VBG a_DT conceptual_JJ hierarchy_NN -LRB-_-LRB- taxonomy_NN -RRB-_-RRB- ._.
+We_PRP introduce_VBP C-logs_NNS ,_, an_DT extended_JJ form_NN of_IN Web_NN usage_NN logs_NNS that_WDT encapsulates_VBZ knowledge_NN derived_VBN from_IN the_DT link_NN semantics_NNS ._.
+C-logs_NNS are_VBP used_VBN as_IN input_NN to_TO the_DT Web_NN usage_NN mining_NN process_NN ,_, resulting_VBG in_IN a_DT broader_JJR yet_RB semantically_RB focused_VBN set_NN of_IN recommendations_NNS ._.

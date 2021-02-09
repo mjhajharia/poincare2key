@@ -1,0 +1,13 @@
+Trust-based_JJ recommendation_NN systems_NNS :_: an_DT axiomatic_JJ approach_NN
+High-quality_JJ ,_, personalized_JJ recommendations_NNS are_VBP a_DT key_JJ feature_NN in_IN many_JJ online_JJ systems_NNS ._.
+Since_IN these_DT systems_NNS often_RB have_VBP explicit_JJ knowledge_NN of_IN social_JJ network_NN structures_NNS ,_, the_DT recommendations_NNS may_MD incorporate_VB this_DT information_NN ._.
+This_DT paper_NN focuses_VBZ on_IN networks_NNS that_WDT represent_VBP trust_NN and_CC recommendation_NN systems_NNS that_WDT incorporate_VBP these_DT trust_NN relationships_NNS ._.
+The_DT goal_NN of_IN a_DT trust-based_JJ recommendation_NN system_NN is_VBZ to_TO generate_VB personalized_JJ recommendations_NNS by_IN aggregating_VBG the_DT opinions_NNS of_IN other_JJ users_NNS in_IN the_DT trust_NN network_NN ._.
+In_IN analogy_NN to_TO prior_JJ work_NN on_IN voting_NN and_CC ranking_NN systems_NNS ,_, we_PRP use_VBP the_DT axiomatic_JJ approach_NN from_IN the_DT theory_NN of_IN social_JJ choice_NN ._.
+We_PRP develop_VBP a_DT set_NN of_IN five_CD natural_JJ axioms_NNS that_IN a_DT trust-based_JJ recommendation_NN system_NN might_MD be_VB expected_VBN to_TO satisfy_VB ._.
+Then_RB ,_, we_PRP show_VBP that_IN no_DT system_NN can_MD simultaneously_RB satisfy_VB all_PDT the_DT axioms_NNS ._.
+However_RB ,_, for_IN any_DT subset_NN of_IN four_CD of_IN the_DT five_CD axioms_NNS we_PRP exhibit_VBP a_DT recommendation_NN system_NN that_WDT satisfies_VBZ those_DT axioms_NNS ._.
+Next_RB we_PRP consider_VBP various_JJ ways_NNS of_IN weakening_VBG the_DT axioms_NNS ,_, one_CD of_IN which_WDT leads_VBZ to_TO a_DT unique_JJ recommendation_NN system_NN based_VBN on_IN random_JJ walks_VBZ ._.
+We_PRP consider_VBP other_JJ recommendation_NN systems_NNS ,_, including_VBG systems_NNS based_VBN on_IN personalized_JJ PageRank_NN ,_, majority_NN of_IN majorities_NNS ,_, and_CC minimum_NN cuts_NNS ,_, and_CC search_NN for_IN alternative_JJ axiomatizations_NNS that_WDT uniquely_RB characterize_VBP these_DT systems_NNS ._.
+Finally_RB ,_, we_PRP determine_VBP which_WDT of_IN these_DT systems_NNS are_VBP incentive_NN compatible_JJ ,_, meaning_VBG that_IN groups_NNS of_IN agents_NNS interested_JJ in_IN manipulating_VBG recommendations_NNS can_MD not_RB induce_VB others_NNS to_TO share_VB their_PRP$ opinion_NN by_IN lying_VBG about_IN their_PRP$ votes_NNS or_CC modifying_VBG their_PRP$ trust_NN links_NNS ._.
+This_DT is_VBZ an_DT important_JJ property_NN for_IN systems_NNS deployed_VBN in_IN a_DT monetized_JJ environment_NN ._.

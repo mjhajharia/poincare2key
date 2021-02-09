@@ -1,0 +1,8 @@
+Dataplorer_NNP :_: a_DT scalable_JJ search_NN engine_NN for_IN the_DT data_NNS web_NN
+More_RBR and_CC more_RBR structured_JJ information_NN in_IN the_DT form_NN of_IN semantic_JJ data_NNS is_VBZ nowadays_RB available_JJ ._.
+It_PRP offers_VBZ a_DT wide_JJ range_NN of_IN new_JJ possibilities_NNS especially_RB for_IN semantic_JJ search_NN and_CC Web_NN data_NNS integration_NN ._.
+However_RB ,_, their_PRP$ effective_JJ exploitation_NN still_RB brings_VBZ about_IN a_DT number_NN of_IN challenges_NNS ,_, e.g._FW usability_NN ,_, scalability_NN and_CC uncertainty_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP Dataplorer_NNP ,_, a_DT solution_NN designed_VBN to_TO address_VB these_DT challenges_NNS ._.
+We_PRP consider_VBP the_DT usability_NN through_IN the_DT use_NN of_IN hybrid_NN queries_NNS and_CC faceted_JJ search_NN ,_, while_IN still_RB preserving_VBG the_DT scalability_NN thanks_NNS to_TO an_DT extension_NN of_IN inverted_JJ index_NN to_TO support_VB this_DT type_NN of_IN query_NN ._.
+Moreover_RB ,_, Dataplorer_NN deals_NNS with_IN uncertainty_NN by_IN means_NNS of_IN a_DT powerful_JJ ranking_JJ scheme_NN to_TO find_VB relevant_JJ results_NNS ._.
+Our_PRP$ experimental_JJ results_NNS show_VBP that_IN our_PRP$ proposed_VBN approach_NN is_VBZ promising_JJ and_CC it_PRP makes_VBZ us_PRP believe_VB that_IN it_PRP is_VBZ possible_JJ to_TO extend_VB the_DT current_JJ IR_NN infrastructure_NN to_TO query_VB and_CC search_VB the_DT Web_NN of_IN data_NNS ._.

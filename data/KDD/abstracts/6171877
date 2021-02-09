@@ -1,0 +1,13 @@
+Detecting_VBG anomalous_JJ records_NNS in_IN categorical_JJ datasets_NNS
+We_PRP consider_VBP the_DT problem_NN of_IN detecting_VBG anomalies_NNS in_IN high_JJ aritycategorical_JJ datasets_NNS ._.
+In_IN most_JJS applications_NNS ,_, anomalies_NNS are_VBP defined_VBN as_IN datapoints_NNS that_WDT are_VBP ``_`` abnormal_JJ ''_'' ._.
+Quite_RB often_RB we_PRP have_VBP access_NN to_TO data_NNS which_WDT consists_VBZ mostly_RB of_IN normal_JJ records_NNS ,_, a_DT long_JJ with_IN a_DT small_JJ percentage_NN of_IN unlabelled_JJ anomalous_JJ records_NNS ._.
+We_PRP are_VBP interested_JJ in_IN the_DT problem_NN of_IN unsupervised_JJ anomaly_NN detection_NN ,_, where_WRB we_PRP use_VBP the_DT unlabelled_JJ data_NNS for_IN training_NN ,_, and_CC detect_VB records_NNS that_WDT do_VBP not_RB follow_VB the_DT definition_NN of_IN normality_NN ._.
+A_DT standard_JJ approach_NN is_VBZ to_TO create_VB a_DT model_NN of_IN normal_JJ data_NNS ,_, and_CC compare_VB test_NN records_NNS against_IN it_PRP ._.
+A_DT probabilistic_JJ approach_NN builds_VBZ a_DT likelihood_NN model_NN from_IN the_DT training_NN data_NNS ._.
+Records_NNPS are_VBP tested_VBN for_IN anomalies_NNS based_VBN on_IN the_DT complete_JJ record_NN likelihood_NN given_VBN the_DT probability_NN model_NN ._.
+For_IN categorical_JJ attributes_NNS ,_, bayes_NNS nets_NNS give_VBP a_DT standard_JJ representation_NN of_IN the_DT likelihood_NN ._.
+While_IN this_DT approach_NN is_VBZ good_JJ at_IN finding_VBG outliers_NNS in_IN the_DT dataset_NN ,_, it_PRP often_RB tends_VBZ to_TO detect_VB records_NNS with_IN attribute_NN values_NNS that_WDT are_VBP rare_JJ ._.
+Sometimes_RB ,_, just_RB detecting_VBG rare_JJ values_NNS of_IN an_DT attribute_NN is_VBZ not_RB desired_VBN and_CC such_JJ outliers_NNS are_VBP not_RB considered_VBN as_IN anomalies_NNS in_IN that_DT context_NN ._.
+We_PRP present_VBP an_DT alternative_JJ definition_NN of_IN anomalies_NNS ,_, and_CC propose_VBP an_DT approach_NN of_IN comparing_VBG against_IN marginal_JJ distribution_NN of_IN attribute_NN subsets_NNS ._.
+We_PRP show_VBP that_IN this_DT is_VBZ a_DT more_RBR meaningful_JJ way_NN of_IN detecting_VBG anomalies_NNS ,_, and_CC has_VBZ a_DT better_JJR performance_NN over_IN semi-synthetic_JJ as_RB well_RB as_IN real_JJ world_NN datasets_NNS ._.

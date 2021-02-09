@@ -1,0 +1,6 @@
+An_DT information_NN state-based_JJ dialogue_NN manager_NN for_IN making_VBG voice_NN web_NN smarter_RBR
+In_IN this_DT paper_NN we_PRP propose_VBP the_DT integration_NN of_IN intelligent_JJ components_NNS technologies_NNS -LRB-_-LRB- natural_JJ language_NN and_CC discourse_NN management_NN -RRB-_-RRB- in_IN voice_NN web_NN interfaces_NNS to_TO make_VB them_PRP smarter_RBR ._.
+We_PRP describe_VBP how_WRB we_PRP have_VBP integrated_VBN reusable_JJ components_NNS of_IN dialogue_NN management_NN and_CC language_NN processing_NN in_IN a_DT multilingual_JJ voice_NN system_NN to_TO improve_VB its_PRP$ friendliness_NN and_CC portability_NN ._.
+The_DT dialogue_NN management_NN component_NN deals_NNS with_IN complex_JJ dialogue_NN phenomena_NNS ,_, such_JJ as_IN user-initiative_JJ dialogues_NNS ,_, and_CC follows_VBZ the_DT information_NN state-based_JJ theory_NN ._.
+The_DT resulting_VBG dialogue_NN system_NN supports_VBZ friendly_JJ communication_NN -LRB-_-LRB- through_IN the_DT telephone_NN and_CC the_DT web_NN -RRB-_-RRB- in_IN several_JJ languages_NNS :_: English_NNP ,_, Spanish_NNP ,_, Catalan_NNP and_CC Italian_NNP ._.
+The_DT dialogue_NN system_NN has_VBZ been_VBN adapted_VBN to_TO guide_VB the_DT users_NNS to_TO access_VB online_JJ public_JJ administration_NN services_NNS ._.

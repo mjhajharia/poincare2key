@@ -1,0 +1,8 @@
+Max_NN algorithms_NNS in_IN crowdsourcing_VBG environments_NNS
+Our_PRP$ work_NN investigates_VBZ the_DT problem_NN of_IN retrieving_VBG the_DT maximum_NN item_NN from_IN a_DT set_NN in_IN crowdsourcing_VBG environments_NNS ._.
+We_PRP first_RB develop_VBP parameterized_JJ families_NNS of_IN max_NN algorithms_NNS ,_, that_WDT take_VBP as_IN input_NN a_DT set_NN of_IN items_NNS and_CC output_NN an_DT item_NN from_IN the_DT set_NN that_WDT is_VBZ believed_VBN to_TO be_VB the_DT maximum_NN ._.
+Such_JJ max_NN algorithms_NNS could_MD ,_, for_IN instance_NN ,_, select_VBP the_DT best_JJS Facebook_NNP profile_NN that_WDT matches_VBZ a_DT given_VBN person_NN or_CC the_DT best_JJS photo_NN that_WDT describes_VBZ a_DT given_VBN restaurant_NN ._.
+Then_RB ,_, we_PRP propose_VBP strategies_NNS that_IN select_JJ appropriate_JJ max_NN algorithm_NN parameters_NNS ._.
+Our_PRP$ framework_NN supports_VBZ various_JJ human_JJ error_NN and_CC cost_NN models_NNS and_CC we_PRP consider_VBP many_JJ of_IN them_PRP for_IN our_PRP$ experiments_NNS ._.
+We_PRP evaluate_VBP under_IN many_JJ metrics_NNS ,_, both_DT analytically_RB and_CC via_IN simulations_NNS ,_, the_DT tradeoff_NN between_IN three_CD quantities_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- quality_NN ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- monetary_JJ cost_NN ,_, and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- execution_NN time_NN ._.
+Also_RB ,_, we_PRP provide_VBP insights_NNS on_IN the_DT effectiveness_NN of_IN the_DT strategies_NNS in_IN selecting_VBG appropriate_JJ max_NN algorithm_NN parameters_NNS and_CC guidelines_NNS for_IN choosing_VBG max_NN algorithms_NNS and_CC strategies_NNS for_IN each_DT application_NN ._.

@@ -1,0 +1,6 @@
+Web-scale_JJ classification_NN with_IN naive_JJ bayes_NNS
+Traditional_JJ Naive_JJ Bayes_NNP Classifier_NNP performs_VBZ miserably_RB on_IN web-scale_JJ taxonomies_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP investigate_VBP the_DT reasons_NNS behind_IN such_JJ bad_JJ performance_NN ._.
+We_PRP discover_VBP that_IN the_DT low_JJ performance_NN are_VBP not_RB completely_RB caused_VBN by_IN the_DT intrinsic_JJ limitations_NNS of_IN Naive_JJ Bayes_NNS ,_, but_CC mainly_RB comes_VBZ from_IN two_CD largely_RB ignored_VBN problems_NNS :_: contradiction_NN pair_NN problem_NN and_CC discriminative_JJ evidence_NN cancelation_NN problem_NN ._.
+We_PRP propose_VBP modifications_NNS that_WDT can_MD alleviate_VB the_DT two_CD problems_NNS while_IN preserving_VBG the_DT advantages_NNS of_IN Naive_JJ Bayes_NNS ._.
+The_DT experimental_JJ results_NNS show_VBP our_PRP$ modified_JJ Naive_JJ Bayes_NNS can_MD significantly_RB improve_VB the_DT performance_NN on_IN real_JJ web-scale_JJ taxonomies_NNS ._.

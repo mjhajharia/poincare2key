@@ -1,0 +1,7 @@
+Measurement_NN and_CC analysis_NN of_IN cyberlocker_NN services_NNS
+Cyberlocker_NNP Services_NNPS -LRB-_-LRB- CLS_NN -RRB-_-RRB- such_JJ as_IN RapidShare_NNP and_CC Megaupload_NNP have_VBP recently_RB become_VBN popular_JJ ._.
+The_DT decline_NN of_IN Peer-to-Peer_NN -LRB-_-LRB- P2P_NN -RRB-_-RRB- file_NN sharing_NN has_VBZ prompted_VBN various_JJ services_NNS including_VBG CLS_NN to_TO replace_VB it_PRP ._.
+We_PRP propose_VBP a_DT comprehensive_JJ multi-level_JJ characterization_NN of_IN the_DT CLS_NN ecosystem_NN ._.
+We_PRP answer_VBP three_CD research_NN questions_NNS :_: -LRB-_-LRB- a_LS -RRB-_-RRB- what_WP is_VBZ a_DT suitable_JJ measurement_NN infrastructure_NN for_IN gathering_VBG CLS_NN workloads_NNS ;_: -LRB-_-LRB- b_LS -RRB-_-RRB- what_WP are_VBP the_DT characteristics_NNS of_IN the_DT CLS_NN ecosystem_NN ;_: and_CC -LRB-_-LRB- c_LS -RRB-_-RRB- what_WP are_VBP the_DT implications_NNS of_IN CLS_NN on_IN Web_NN 2.0_CD -LRB-_-LRB- and_CC the_DT Internet_NN -RRB-_-RRB- ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, this_DT work_NN is_VBZ the_DT first_JJ to_TO characterize_VB the_DT CLS_NN ecosystem_NN ._.
+The_DT work_NN will_MD highlight_VB the_DT content_NN ,_, usage_NN ,_, performance_NN ,_, infrastructure_NN ,_, quality_NN of_IN service_NN ,_, and_CC evolution_NN characteristics_NNS of_IN CLS_NN ._.

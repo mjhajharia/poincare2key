@@ -1,0 +1,10 @@
+Finding_VBG hierarchy_NN in_IN directed_JJ online_NN social_JJ networks_NNS
+Social_NN hierarchy_NN and_CC stratification_NN among_IN humans_NNS is_VBZ a_DT well_RB studied_VBN concept_NN in_IN sociology_NN ._.
+The_DT popularity_NN of_IN online_JJ social_JJ networks_NNS presents_VBZ an_DT opportunity_NN to_TO study_VB social_JJ hierarchy_NN for_IN different_JJ types_NNS of_IN networks_NNS and_CC at_IN different_JJ scales_NNS ._.
+We_PRP adopt_VBP the_DT premise_NN that_IN people_NNS form_VBP connections_NNS in_IN a_DT social_JJ network_NN based_VBN on_IN their_PRP$ perceived_VBN social_JJ hierarchy_NN ;_: as_IN a_DT result_NN ,_, the_DT edge_NN directions_NNS in_IN directed_JJ social_JJ networks_NNS can_MD be_VB leveraged_VBN to_TO infer_VB hierarchy_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP define_VBP a_DT measure_NN of_IN hierarchy_NN in_IN a_DT directed_JJ online_NN social_JJ network_NN ,_, and_CC present_VB an_DT efficient_JJ algorithm_NN to_TO compute_VB this_DT measure_NN ._.
+We_PRP validate_VBP our_PRP$ measure_NN using_VBG ground_NN truth_NN including_VBG Wikipedia_NNP notability_NN score_NN ._.
+We_PRP use_VBP this_DT measure_NN to_TO study_VB hierarchy_NN in_IN several_JJ directed_JJ online_NN social_JJ networks_NNS including_VBG Twitter_NNP ,_, Delicious_NNP ,_, YouTube_NNP ,_, Flickr_NNP ,_, LiveJournal_NNP ,_, and_CC curated_VBD lists_NNS of_IN several_JJ categories_NNS of_IN people_NNS based_VBN on_IN different_JJ occupations_NNS ,_, and_CC different_JJ organizations_NNS ._.
+Our_PRP$ experiments_NNS on_IN different_JJ online_JJ social_JJ networks_NNS show_VBP how_WRB hierarchy_NN emerges_VBZ as_IN we_PRP increase_VBP the_DT size_NN of_IN the_DT network_NN ._.
+This_DT is_VBZ in_IN contrast_NN to_TO random_JJ graphs_NNS ,_, where_WRB the_DT hierarchy_NN decreases_VBZ as_IN the_DT network_NN size_NN increases_NNS ._.
+Further_RB ,_, we_PRP show_VBP that_IN the_DT degree_NN of_IN stratification_NN in_IN a_DT network_NN increases_VBZ very_RB slowly_RB as_IN we_PRP increase_VBP the_DT size_NN of_IN the_DT graph_NN ._.

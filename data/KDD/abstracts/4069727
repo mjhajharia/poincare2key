@@ -1,0 +1,7 @@
+Fast_JJ discovery_NN of_IN unexpected_JJ patterns_NNS in_IN data_NNS ,_, relative_JJ to_TO a_DT Bayesian_JJ network_NN
+We_PRP consider_VBP a_DT model_NN in_IN which_WDT background_NN knowledge_NN on_IN a_DT given_VBN domain_NN of_IN interest_NN is_VBZ available_JJ in_IN terms_NNS of_IN a_DT Bayesian_JJ network_NN ,_, in_IN addition_NN to_TO a_DT large_JJ database_NN ._.
+The_DT mining_NN problem_NN is_VBZ to_TO discover_VB unexpected_JJ patterns_NNS :_: our_PRP$ goal_NN is_VBZ to_TO find_VB the_DT strongest_JJS discrepancies_NNS between_IN network_NN and_CC database_NN ._.
+This_DT problem_NN is_VBZ intrinsically_RB difficult_JJ because_IN it_PRP requires_VBZ inference_NN in_IN a_DT Bayesian_JJ network_NN and_CC processing_VBG the_DT entire_NN ,_, potentially_RB very_RB large_JJ ,_, database_NN ._.
+A_DT sampling-based_JJ method_NN that_IN we_PRP introduce_VBP is_VBZ efficient_JJ and_CC yet_RB provably_RB finds_VBZ the_DT approximately_RB most_RBS interesting_JJ unexpected_JJ patterns_NNS ._.
+We_PRP give_VBP a_DT rigorous_JJ proof_NN of_IN the_DT method_NN 's_POS correctness_NN ._.
+Experiments_NNS shed_VBP light_NN on_IN its_PRP$ efficiency_NN and_CC practicality_NN for_IN large-scale_JJ Bayesian_JJ networks_NNS and_CC databases_NNS ._.

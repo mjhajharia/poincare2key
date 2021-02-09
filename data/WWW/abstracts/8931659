@@ -1,0 +1,7 @@
+A_DT diagrammatic_JJ inference_NN system_NN for_IN the_DT web_NN
+We_PRP developed_VBD a_DT diagrammatic_JJ inference_NN system_NN for_IN the_DT World_NNP Wide_NN Web_NN ._.
+Our_PRP$ system_NN enables_VBZ the_DT creation_NN of_IN diagrams_NNS such_JJ that_IN the_DT information_NN contained_VBN in_IN them_PRP can_MD be_VB searched_VBN and_CC inference_NN can_MD be_VB performed_VBN on_IN it_PRP ._.
+We_PRP developed_VBD an_DT XMLSchema_NN for_IN bar_NN ,_, line_NN ,_, and_CC pie_NN charts_NNS ._.
+Based_VBN on_IN it_PRP ,_, we_PRP developed_VBD software_NN that_WDT transforms_VBZ a_DT corresponding_JJ XML_NN file_NN into_IN an_DT SVG_NNP image_NN ,_, which_WDT in_IN turn_NN is_VBZ rendered_VBN by_IN the_DT client_NN as_IN an_DT image_NN ._.
+Additionally_RB ,_, we_PRP developed_VBD a_DT search_NN engine_NN which_WDT enables_VBZ a_DT user_NN to_TO find_VB information_NN explicitly_RB contained_VBN in_IN the_DT XML_NN file_NN ,_, and_CC as_IN such_JJ in_IN the_DT image_NN ._.
+Furthermore_RB ,_, we_PRP developed_VBD an_DT inference_NN engine_NN which_WDT enables_VBZ a_DT user_NN to_TO locate_VB information_NN that_WDT is_VBZ implicitly_RB contained_VBN in_IN the_DT image_NN ._.

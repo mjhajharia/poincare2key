@@ -1,0 +1,11 @@
+On_IN the_DT analysis_NN of_IN cascading_VBG style_NN sheets_NNS
+Developing_VBG and_CC maintaining_VBG cascading_VBG style_NN sheets_NNS -LRB-_-LRB- CSS_NNS -RRB-_-RRB- is_VBZ an_DT important_JJ issue_NN to_TO web_NN developers_NNS as_IN they_PRP suffer_VBP from_IN the_DT lack_NN of_IN rigorous_JJ methods_NNS ._.
+Most_JJS existing_VBG means_NNS rely_VBP on_IN validators_NNS that_WDT check_VBP syntactic_JJ rules_NNS ,_, and_CC on_IN runtime_NN debuggers_NNS that_WDT check_VBP the_DT behavior_NN of_IN a_DT CSS_NN style_NN sheet_NN on_IN a_DT particular_JJ document_NN instance_NN ._.
+However_RB ,_, the_DT aim_NN of_IN most_JJS style_NN sheets_NNS is_VBZ to_TO be_VB applied_VBN to_TO an_DT entire_JJ set_NN of_IN documents_NNS ,_, usually_RB defined_VBN by_IN some_DT schema_NN ._.
+To_TO this_DT end_NN ,_, a_DT CSS_NN style_NN sheet_NN is_VBZ usually_RB written_VBN w.r.t._NN a_DT given_VBN schema_NN ._.
+While_IN usual_JJ debugging_NN tools_NNS help_VBP reducing_VBG the_DT number_NN of_IN bugs_NNS ,_, they_PRP do_VBP not_RB ultimately_RB allow_VB to_TO prove_VB properties_NNS over_IN the_DT whole_JJ set_NN of_IN documents_NNS to_TO which_WDT the_DT style_NN sheet_NN is_VBZ intended_VBN to_TO be_VB applied_VBN ._.
+We_PRP propose_VBP a_DT novel_JJ approach_NN to_TO fill_VB this_DT lack_NN ._.
+We_PRP introduce_VBP ideas_NNS borrowed_VBN from_IN the_DT fields_NNS of_IN logic_NN and_CC compile-time_JJ verification_NN for_IN the_DT analysis_NN of_IN CSS_NN style_NN sheets_NNS ._.
+We_PRP present_VBP an_DT original_JJ tool_NN based_VBN on_IN recent_JJ advances_NNS in_IN tree_NN logics_NNS ._.
+The_DT tool_NN is_VBZ capable_JJ of_IN statically_RB detecting_VBG a_DT wide_JJ range_NN of_IN errors_NNS -LRB-_-LRB- such_JJ as_IN empty_JJ CSS_NN selectors_NNS and_CC semantically_RB equivalent_JJ selectors_NNS -RRB-_-RRB- ,_, as_RB well_RB as_IN proving_VBG properties_NNS related_VBN to_TO sets_NNS of_IN documents_NNS -LRB-_-LRB- such_JJ as_IN coverage_NN of_IN styling_VBG information_NN -RRB-_-RRB- ,_, in_IN the_DT presence_NN or_CC absence_NN of_IN schema_NN information_NN ._.
+This_DT new_JJ tool_NN can_MD be_VB used_VBN in_IN addition_NN to_TO existing_VBG runtime_NN debuggers_NNS to_TO ensure_VB a_DT higher_JJR level_NN of_IN quality_NN of_IN CSS_NN style_NN sheets_NNS ._.

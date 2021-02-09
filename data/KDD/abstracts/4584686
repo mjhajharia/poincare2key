@@ -1,0 +1,10 @@
+Characterising_VBG the_DT difference_NN
+Characterising_VBG the_DT differences_NNS between_IN two_CD databases_NNS is_VBZ an_DT often_RB occurring_VBG problem_NN in_IN Data_NNP Mining_NNP ._.
+Detection_NN of_IN change_NN over_IN time_NN is_VBZ a_DT prime_JJ example_NN ,_, comparing_VBG databases_NNS from_IN two_CD branches_NNS is_VBZ another_DT one_CD ._.
+The_DT key_JJ problem_NN is_VBZ to_TO discover_VB the_DT patterns_NNS that_WDT describe_VBP the_DT difference_NN ._.
+Emerging_VBG patterns_NNS provide_VBP only_RB a_DT partial_JJ answer_NN to_TO this_DT question_NN ._.
+In_IN previous_JJ work_NN ,_, we_PRP showed_VBD that_IN the_DT data_NNS distribution_NN can_MD be_VB captured_VBN in_IN a_DT pattern-based_JJ model_NN using_VBG compression_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Here_RB ,_, we_PRP extend_VBP this_DT approach_NN to_TO define_VB a_DT generic_JJ dissimilarity_NN measure_NN on_IN databases_NNS ._.
+Moreover_RB ,_, we_PRP show_VBP that_IN this_DT approach_NN can_MD identify_VB those_DT patterns_NNS that_WDT characterise_VBP the_DT differences_NNS between_IN two_CD distributions_NNS ._.
+Experimental_JJ results_NNS show_VBP that_IN our_PRP$ method_NN provides_VBZ a_DT well-founded_JJ way_NN to_TO independently_RB measure_VB database_NN dissimilarity_NN that_WDT allows_VBZ for_IN thorough_JJ inspection_NN of_IN the_DT actual_JJ differences_NNS ._.
+This_DT illustrates_VBZ the_DT use_NN of_IN our_PRP$ approach_NN in_IN real_JJ world_NN data_NNS mining_NN ._.

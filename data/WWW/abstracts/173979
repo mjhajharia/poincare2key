@@ -1,0 +1,8 @@
+Probabilistic_JJ question_NN answering_VBG on_IN the_DT web_NN
+Web-based_JJ search_NN engines_NNS such_JJ as_IN Google_NNP and_CC NorthernLight_NNP return_NN documents_NNS that_WDT are_VBP relevant_JJ to_TO a_DT user_NN query_NN ,_, not_RB answers_NNS to_TO user_NN questions_NNS ._.
+We_PRP have_VBP developed_VBN an_DT architecture_NN that_WDT augments_VBZ existing_VBG search_NN engines_NNS so_IN that_IN they_PRP support_VBP natural_JJ language_NN question_NN answering_NN ._.
+The_DT process_NN entails_VBZ five_CD steps_NNS :_: query_NN modulation_NN ,_, document_NN retrieval_NN ,_, passage_NN extraction_NN ,_, phrase_NN extraction_NN ,_, and_CC answer_NN ranking_NN ._.
+In_IN this_DT paper_NN we_PRP describe_VBP some_DT probabilistic_JJ approaches_NNS to_TO the_DT last_JJ three_CD of_IN these_DT stages_NNS ._.
+We_PRP show_VBP how_WRB our_PRP$ techniques_NNS apply_VBP to_TO a_DT number_NN of_IN existing_VBG search_NN engines_NNS and_CC we_PRP also_RB present_VBP results_NNS contrasting_VBG three_CD different_JJ methods_NNS for_IN question_NN answering_NN ._.
+Our_PRP$ algorithm_NN ,_, probabilistic_JJ phrase_NN reranking_NN -LRB-_-LRB- PPR_NN -RRB-_-RRB- using_VBG proximity_NN and_CC question_NN type_NN features_NNS achieves_VBZ a_DT total_JJ reciprocal_JJ document_NN rank_NN of_IN .20_CD on_IN the_DT TREC_NN 8_CD corpus_NN ._.
+Our_PRP$ techniques_NNS have_VBP been_VBN implemented_VBN as_IN a_DT Web-accessible_JJ system_NN ,_, called_VBD NSIR_NNP ._.

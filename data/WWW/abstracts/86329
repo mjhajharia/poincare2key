@@ -1,0 +1,17 @@
+Managing_VBG versions_NNS of_IN web_NN documents_NNS in_IN a_DT transaction-time_JJ web_NN server_NN
+This_DT paper_NN presents_VBZ a_DT transaction-time_JJ HTTP_NN server_NN ,_, called_VBN TTApache_NN that_WDT supports_VBZ document_NN versioning_NN ._.
+A_DT document_NN often_RB consists_VBZ of_IN a_DT main_JJ file_NN formatted_VBN in_IN HTML_NNP or_CC XML_NN and_CC several_JJ included_JJ files_NNS such_JJ as_IN images_NNS and_CC stylesheets_NNS ._.
+A_DT change_NN to_TO any_DT of_IN the_DT files_NNS associated_VBN with_IN a_DT document_NN creates_VBZ a_DT new_JJ version_NN of_IN that_DT document_NN ._.
+To_TO construct_VB a_DT document_NN version_NN history_NN ,_, snapshots_NNS of_IN the_DT document_NN 's_POS files_NNS are_VBP obtained_VBN over_IN time_NN ._.
+Transaction_NN times_NNS are_VBP associated_VBN with_IN each_DT file_NN version_NN to_TO record_VB the_DT version_NN 's_POS lifetime_NN ._.
+The_DT transaction_NN time_NN is_VBZ the_DT system_NN time_NN of_IN the_DT edit_NN that_WDT created_VBD the_DT version_NN ._.
+Accounting_NN for_IN transaction_NN time_NN is_VBZ essential_JJ to_TO supporting_VBG audit_NN queries_NNS that_WDT delve_VBP into_IN past_JJ document_NN versions_NNS and_CC differential_JJ queries_NNS that_WDT pinpoint_VBP differences_NNS between_IN two_CD versions_NNS ._.
+TTApache_NN performs_VBZ automatic_JJ versioning_VBG when_WRB a_DT document_NN is_VBZ read_VBN thereby_RB removing_VBG the_DT burden_NN of_IN versioning_VBG from_IN document_NN authors_NNS ._.
+Since_IN some_DT versions_NNS may_MD be_VB created_VBN but_CC never_RB read_NN ,_, TTApache_NN distinguishes_VBZ between_IN known_JJ and_CC assumed_JJ versions_NNS of_IN a_DT document_NN ._.
+TTApache_NN has_VBZ a_DT simple_JJ query_JJ language_NN to_TO retrieve_VB desired_VBN versions_NNS ._.
+A_DT browser_NN can_MD request_VB a_DT specific_JJ version_NN ,_, or_CC the_DT entire_JJ history_NN of_IN a_DT document_NN ._.
+Queries_NNS can_MD also_RB rewrite_VB links_NNS and_CC references_NNS to_TO point_VB to_TO current_JJ or_CC past_JJ versions_NNS ._.
+Over_IN time_NN ,_, the_DT version_NN history_NN of_IN a_DT document_NN continually_RB grows_VBZ ._.
+To_TO free_JJ space_NN ,_, some_DT versions_NNS can_MD be_VB vacuumed_VBN ._.
+Vacuuming_VBG a_DT version_NN however_RB changes_VBZ the_DT semantics_NNS of_IN requests_NNS for_IN that_DT version_NN ._.
+This_DT paper_NN presents_VBZ several_JJ policies_NNS for_IN vacuuming_VBG versions_NNS and_CC strategies_NNS for_IN accounting_VBG for_IN vacuumed_VBN versions_NNS in_IN queries_NNS ._.

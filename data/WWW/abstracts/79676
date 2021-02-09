@@ -1,0 +1,8 @@
+A_DT web_NN services_NNS architecture_NN for_IN learning_VBG object_NN discovery_NN and_CC assembly_NN
+Courseware_NN systems_NNS are_VBP often_RB based_VBN on_IN an_DT assembly_NN of_IN different_JJ components_NNS ,_, addressing_VBG the_DT different_JJ needs_NNS of_IN storage_NN and_CC delivery_NN functionality_NN ._.
+The_DT Learning_NNP Technology_NNP Standard_NNP Architecture_NNP LTSA_NNP provides_VBZ a_DT generic_JJ architectural_JJ framework_NN for_IN these_DT systems_NNS ._.
+Recent_JJ developments_NNS in_IN Web_NN technology_NN --_: e.g._FW the_DT Web_NN services_NNS framework_NN --_: have_VBP greatly_RB enhanced_VBN the_DT flexible_JJ and_CC interoperable_JJ implementation_NN of_IN courseware_NN architectures_NNS ._.
+We_PRP argue_VBP that_IN in_IN order_NN to_TO make_VB the_DT Web_NN services_NNS philosophy_NN work_NN ,_, two_CD enhancements_NNS to_TO the_DT LTSA_NN approach_NN are_VBP required_VBN ._.
+Firstly_RB ,_, a_DT combination_NN with_IN metadata_JJ annotation_NN is_VBZ needed_VBN to_TO support_VB the_DT discovery_NN of_IN educational_JJ Web_NN services_NNS ._.
+Secondly_RB ,_, if_IN these_DT components_NNS are_VBP to_TO be_VB provided_VBN in_IN form_NN of_IN services_NNS ,_, more_JJR support_NN is_VBZ needed_VBN for_IN their_PRP$ assembly_NN ._.
+Architectural_JJ patterns_NNS of_IN a_DT finer_JJ degree_NN of_IN granularity_NN shall_MD satisfy_VB this_DT need_NN ._.

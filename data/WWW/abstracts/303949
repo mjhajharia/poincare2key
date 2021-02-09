@@ -1,0 +1,6 @@
+An_DT incremental_JJ XSLT_NN transformation_NN processor_NN for_IN XML_NN document_NN manipulation_NN
+In_IN this_DT paper_NN ,_, we_PRP present_VBP an_DT incremental_JJ transformation_NN framework_NN called_VBN incXSLT_NNP ._.
+This_DT framework_NN has_VBZ been_VBN experimented_VBN for_IN the_DT XSLT_NN language_NN defined_VBN at_IN the_DT World_NNP Wide_NN Web_NN Consortium_NNP ._.
+For_IN the_DT currently_RB available_JJ tools_NNS ,_, designing_VBG the_DT XML_NN content_NN and_CC the_DT transformation_NN sheets_NNS is_VBZ an_DT inefficient_JJ ,_, a_DT tedious_JJ and_CC an_DT error_NN prone_JJ experience_NN ._.
+Incremental_JJ transformation_NN processors_NNS such_JJ as_IN incXSLT_NN represent_VBP a_DT better_JJR alternative_NN to_TO help_VB in_IN the_DT design_NN of_IN both_CC the_DT content_NN and_CC the_DT transformation_NN sheets_NNS ._.
+We_PRP believe_VBP that_IN such_JJ frameworks_NNS are_VBP a_DT first_JJ step_NN toward_IN fully_RB interactive_JJ transformation-based_JJ authoring_NN environments_NNS ._.

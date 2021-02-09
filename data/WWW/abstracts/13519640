@@ -1,0 +1,6 @@
+Predicting_VBG click_VBP through_IN rate_NN for_IN job_NN listings_NNS
+Click_VB Through_IN Rate_NN -LRB-_-LRB- CTR_NN -RRB-_-RRB- is_VBZ an_DT important_JJ metric_NN for_IN ad_NN systems_NNS ,_, job_NN portals_NNS ,_, recommendation_NN systems_NNS ._.
+CTR_NN impacts_NNS publisher_NN 's_POS revenue_NN ,_, advertiser_NN 's_POS bid_NN amounts_NNS in_IN ``_`` pay_NN for_IN performance_NN ''_'' business_NN models_NNS ._.
+We_PRP learn_VBP regression_NN models_NNS using_VBG features_NNS of_IN the_DT job_NN ,_, optional_JJ click_VBP history_NN of_IN job_NN ,_, features_NNS of_IN ``_`` related_JJ ''_'' jobs_NNS ._.
+We_PRP show_VBP that_IN our_PRP$ models_NNS predict_VBP CTR_NNP much_RB better_JJR than_IN predicting_VBG avg_NN ._.
+CTR_NN for_IN all_DT job_NN listings_NNS ,_, even_RB in_IN absence_NN of_IN the_DT click_VBP history_NN for_IN the_DT job_NN listing_NN ._.

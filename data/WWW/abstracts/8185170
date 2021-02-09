@@ -1,0 +1,5 @@
+A_DT clustering_NN method_NN for_IN web_NN data_NNS with_IN multi-type_JJ interrelated_JJ components_NNS
+Traditional_JJ clustering_NN algorithms_NNS work_VBP on_IN ``_`` flat_JJ ''_'' data_NNS ,_, making_VBG the_DT assumption_NN that_IN the_DT data_NNS instances_NNS can_MD only_RB be_VB represented_VBN by_IN a_DT set_NN of_IN homogeneous_JJ and_CC uniform_JJ features_NNS ._.
+Many_JJ real_JJ world_NN data_NNS ,_, however_RB ,_, is_VBZ heterogeneous_JJ in_IN nature_NN ,_, comprising_VBG of_IN multiple_JJ types_NNS of_IN interrelated_JJ components_NNS ._.
+We_PRP present_VBP a_DT clustering_NN algorithm_NN ,_, K-SVMeans_NN ,_, that_WDT integrates_VBZ the_DT well_RB known_VBN K-Means_NNS clustering_VBG with_IN the_DT highly_RB popular_JJ Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- in_IN order_NN to_TO utilize_VB the_DT richness_NN of_IN data_NNS ._.
+Our_PRP$ experimental_JJ results_NNS on_IN authorship_NN analysis_NN of_IN scientific_JJ publications_NNS show_VBP that_IN K-SVMeans_NN achieves_VBZ better_JJR clustering_NN performance_NN than_IN homogeneous_JJ data_NNS clustering_NN ._.

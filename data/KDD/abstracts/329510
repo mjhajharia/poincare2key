@@ -1,0 +1,5 @@
+Discovering_VBG associations_NNS with_IN numeric_JJ variables_NNS
+This_DT paper_NN further_RB develops_VBZ Aumann_NNP and_CC Lindell_NNP 's_POS -LRB-_-LRB- 3_LS -RRB-_-RRB- proposal_NN for_IN a_DT variant_NN of_IN association_NN rules_NNS for_IN which_WDT the_DT consequent_JJ is_VBZ a_DT numeric_JJ variable_NN ._.
+It_PRP is_VBZ argued_VBN that_IN these_DT rules_NNS can_MD discover_VB useful_JJ interactions_NNS with_IN numeric_JJ data_NNS that_WDT can_MD not_RB be_VB discovered_VBN directly_RB using_VBG traditional_JJ association_NN rules_NNS with_IN discretization_NN ._.
+Alternative_JJ measures_NNS for_IN identifying_VBG interesting_JJ rules_NNS are_VBP proposed_VBN ._.
+Efficient_JJ algorithms_NNS are_VBP presented_VBN that_WDT enable_VBP these_DT rules_NNS to_TO be_VB discovered_VBN for_IN dense_JJ data_NNS sets_NNS for_IN which_WDT application_NN of_IN Auman_NNP and_CC Lindell_NNP 's_POS algorithm_NN is_VBZ infeasible_JJ ._.

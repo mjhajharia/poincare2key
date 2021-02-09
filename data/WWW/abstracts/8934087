@@ -1,0 +1,16 @@
+On_IN the_DT temporal_JJ dimension_NN of_IN search_NN
+Web_NN search_NN is_VBZ probably_RB the_DT single_JJ most_RBS important_JJ application_NN on_IN the_DT Internet_NN ._.
+The_DT most_RBS famous_JJ search_NN techniques_NNS are_VBP perhaps_RB the_DT PageRank_NNP and_CC HITS_NNP algorithms_NNS ._.
+These_DT algorithms_NNS are_VBP motivated_VBN by_IN the_DT observation_NN that_IN a_DT hyperlink_NN from_IN a_DT page_NN to_TO another_DT is_VBZ an_DT implicit_JJ conveyance_NN of_IN authority_NN to_TO the_DT target_NN page_NN ._.
+They_PRP exploit_VBP this_DT social_JJ phenomenon_NN to_TO identify_VB quality_NN pages_NNS ,_, e.g._FW ,_, ``_`` authority_NN ''_'' pages_NNS and_CC ``_`` hub_NN ''_'' pages_NNS ._.
+In_IN this_DT paper_NN we_PRP argue_VBP that_IN these_DT algorithms_NNS miss_VBP an_DT important_JJ dimension_NN of_IN the_DT Web_NN ,_, the_DT temporal_JJ dimension_NN ._.
+The_DT Web_NN is_VBZ not_RB a_DT static_JJ environment_NN ._.
+It_PRP changes_VBZ constantly_RB ._.
+Quality_JJ pages_NNS in_IN the_DT past_NN may_MD not_RB be_VB quality_JJ pages_NNS now_RB or_CC in_IN the_DT future_NN ._.
+These_DT techniques_NNS favor_VBP older_JJR pages_NNS because_IN these_DT pages_NNS have_VBP many_JJ in-links_NNS accumulated_VBN over_IN time_NN ._.
+New_JJ pages_NNS ,_, which_WDT may_MD be_VB of_IN high_JJ quality_NN ,_, have_VBP few_JJ or_CC no_DT in-links_NNS and_CC are_VBP left_VBN behind_IN ._.
+Bringing_VBG new_JJ and_CC quality_NN pages_NNS to_TO users_NNS is_VBZ important_JJ because_IN most_JJS users_NNS want_VBP the_DT latest_JJS information_NN ._.
+Research_NN publication_NN search_NN has_VBZ exactly_RB the_DT same_JJ problem_NN ._.
+This_DT paper_NN studies_VBZ the_DT temporal_JJ dimension_NN of_IN search_NN in_IN the_DT context_NN of_IN research_NN publication_NN search_NN ._.
+We_PRP propose_VBP a_DT number_NN of_IN methods_NNS deal_VBP with_IN the_DT problem_NN ._.
+Our_PRP$ experimental_JJ results_NNS show_VBP that_IN these_DT methods_NNS are_VBP highly_RB effective_JJ ._.

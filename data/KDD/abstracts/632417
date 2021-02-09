@@ -1,0 +1,6 @@
+Robust_JJ boosting_VBG and_CC its_PRP$ relation_NN to_TO bagging_VBG
+Several_JJ authors_NNS have_VBP suggested_VBN viewing_VBG boosting_VBG as_IN a_DT gradient_NN descent_NN search_NN for_IN a_DT good_JJ fit_NN in_IN function_NN space_NN ._.
+At_IN each_DT iteration_NN observations_NNS are_VBP re-weighted_VBN using_VBG the_DT gradient_NN of_IN the_DT underlying_JJ loss_NN function_NN ._.
+We_PRP present_VBP an_DT approach_NN of_IN weight_NN decay_NN for_IN observation_NN weights_NNS which_WDT is_VBZ equivalent_JJ to_TO ``_`` robustifying_VBG ''_'' the_DT underlying_JJ loss_NN function_NN ._.
+At_IN the_DT extreme_JJ end_NN of_IN decay_NN this_DT approach_NN converges_VBZ to_TO Bagging_NNP ,_, which_WDT can_MD be_VB viewed_VBN as_IN boosting_VBG with_IN a_DT linear_JJ underlying_JJ loss_NN function_NN ._.
+We_PRP illustrate_VBP the_DT practical_JJ usefulness_NN of_IN weight_NN decay_NN for_IN improving_VBG prediction_NN performance_NN and_CC present_VB an_DT equivalence_JJ between_IN one_CD form_NN of_IN weight_NN decay_NN and_CC ``_`` Huberizing_NNP ''_'' --_: a_DT statistical_JJ method_NN for_IN making_VBG loss_NN functions_NNS more_RBR robust_JJ ._.

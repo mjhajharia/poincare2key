@@ -1,0 +1,12 @@
+Detecting_VBG privacy_NN leaks_NNS using_VBG corpus-based_JJ association_NN rules_NNS
+Detecting_VBG inferences_NNS in_IN documents_NNS is_VBZ critical_JJ for_IN ensuring_VBG privacy_NN when_WRB sharing_VBG information_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT refined_JJ and_CC practical_JJ model_NN of_IN inference_NN detection_NN using_VBG a_DT reference_NN corpus_NN ._.
+Our_PRP$ model_NN is_VBZ inspired_VBN by_IN association_NN rule_NN mining_NN :_: inferences_NNS are_VBP based_VBN on_IN word_NN co-occurrences_NNS ._.
+Using_VBG the_DT model_NN and_CC taking_VBG the_DT Web_NN as_IN the_DT reference_NN corpus_NN ,_, we_PRP can_MD find_VB inferences_NNS and_CC measure_VB their_PRP$ strength_NN through_IN web-mining_JJ algorithms_NNS that_IN leverage_NN search_NN engines_NNS such_JJ as_IN Google_NNP or_CC Yahoo_NNP !_. ._.
+Our_PRP$ model_NN also_RB includes_VBZ the_DT important_JJ case_NN of_IN private_JJ corpora_NN ,_, to_TO model_VB inference_NN detection_NN in_IN enterprise_NN settings_NNS in_IN which_WDT there_EX is_VBZ a_DT large_JJ private_JJ document_NN repository_NN ._.
+We_PRP find_VBP inferences_NNS in_IN private_JJ corpora_NN by_IN using_VBG analogs_NNS of_IN our_PRP$ Web-mining_JJ algorithms_NNS ,_, relying_VBG on_IN an_DT index_NN for_IN the_DT corpus_NN rather_RB than_IN a_DT Web_NN search_NN engine_NN ._.
+We_PRP present_VBP results_NNS from_IN two_CD experiments_NNS ._.
+The_DT first_JJ experiment_NN demonstrates_VBZ the_DT performance_NN of_IN our_PRP$ techniques_NNS in_IN identifying_VBG all_PDT the_DT keywords_NNS that_WDT allow_VBP for_IN inference_NN of_IN a_DT particular_JJ topic_NN -LRB-_-LRB- e.g._FW ``_`` HIV_NN ''_'' -RRB-_-RRB- with_IN confidence_NN above_IN a_DT certain_JJ threshold_NN ._.
+The_DT second_JJ experiment_NN uses_VBZ the_DT public_JJ Enron_NNP e-mail_JJ dataset_NN ._.
+We_PRP postulate_VBP a_DT sensitive_JJ topic_NN and_CC use_VB the_DT Enron_NNP corpus_NN and_CC the_DT Web_NN together_RB to_TO find_VB inferences_NNS for_IN the_DT topic_NN ._.
+These_DT experiments_NNS demonstrate_VBP that_IN our_PRP$ techniques_NNS are_VBP practical_JJ ,_, and_CC that_IN our_PRP$ model_NN of_IN inference_NN based_VBN on_IN word_NN co-occurrence_NN is_VBZ well-suited_JJ to_TO efficient_JJ inference_NN detection_NN ._.

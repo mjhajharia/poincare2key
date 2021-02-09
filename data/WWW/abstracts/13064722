@@ -1,0 +1,7 @@
+A_DT classification_NN based_VBN framework_NN for_IN concept_NN summarization_NN
+In_IN this_DT paper_NN we_PRP propose_VBP a_DT novel_JJ classification_NN based_JJ framework_NN for_IN finding_VBG a_DT small_JJ number_NN of_IN images_NNS summarizing_VBG a_DT concept_NN ._.
+Our_PRP$ method_NN exploits_VBZ metadata_JJ information_NN available_JJ with_IN the_DT images_NNS to_TO get_VB the_DT category_NN information_NN using_VBG Latent_JJ Dirichlet_NNP Allocation_NNP ._.
+We_PRP modify_VBP the_DT import_NN vector_NN machine_NN formulation_NN based_VBN on_IN kernel_NN logistic_JJ regression_NN to_TO solve_VB the_DT underlying_JJ classification_NN problem_NN ._.
+We_PRP show_VBP that_IN the_DT import_NN vectors_NNS provide_VBP a_DT good_JJ summary_NN satisfying_VBG important_JJ properties_NNS such_JJ as_IN coverage_NN ,_, diversity_NN and_CC balance_NN ._.
+Furthermore_RB ,_, the_DT framework_NN allows_VBZ users_NNS to_TO specify_VB desired_VBN distributions_NNS over_IN category_NN ,_, time_NN etc_NN ,_, that_IN a_DT summary_NN should_MD satisfy_VB ._.
+Experimental_JJ results_NNS show_VBP that_IN the_DT proposed_VBN method_NN performs_VBZ better_JJR than_IN state-of-the-art_JJ summarization_NN methods_NNS in_IN terms_NNS of_IN satisfying_VBG important_JJ visual_JJ and_CC semantic_JJ properties_NNS ._.

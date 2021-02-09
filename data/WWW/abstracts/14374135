@@ -1,0 +1,11 @@
+Targeted_VBN disambiguation_NN of_IN ad-hoc_JJ ,_, homogeneous_JJ sets_NNS of_IN named_VBN entities_NNS
+In_IN many_JJ entity_NN extraction_NN applications_NNS ,_, the_DT entities_NNS to_TO be_VB recognized_VBN are_VBP constrained_VBN to_TO be_VB from_IN a_DT list_NN of_IN ``_`` target_NN entities_NNS ''_'' ._.
+In_IN many_JJ cases_NNS ,_, these_DT target_NN entities_NNS are_VBP -LRB-_-LRB- i_LS -RRB-_-RRB- ad-hoc_JJ ,_, i.e._FW ,_, do_VBP not_RB exist_VB in_IN a_DT knowledge_NN base_NN and_CC -LRB-_-LRB- ii_LS -RRB-_-RRB- homogeneous_JJ -LRB-_-LRB- e.g._FW ,_, all_PDT the_DT entities_NNS are_VBP IT_NNP companies_NNS -RRB-_-RRB- ._.
+We_PRP study_VBD the_DT following_JJ novel_JJ disambiguation_NN problem_NN in_IN this_DT unique_JJ setting_NN :_: given_VBN the_DT candidate_NN mentions_VBZ of_IN all_PDT the_DT target_NN entities_NNS ,_, determine_VB which_WDT ones_NNS are_VBP true_JJ mentions_VBZ of_IN a_DT target_NN entity_NN ._.
+Prior_JJ techniques_NNS only_RB consider_VBP target_NN entities_NNS present_JJ in_IN a_DT knowledge_NN base_NN and\/or_CC having_VBG a_DT rich_JJ set_NN of_IN attributes_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP develop_VBP novel_JJ techniques_NNS that_WDT require_VBP no_DT knowledge_NN about_IN the_DT entities_NNS except_IN their_PRP$ names_NNS ._.
+Our_PRP$ main_JJ insight_NN is_VBZ to_TO leverage_NN the_DT homogeneity_NN constraint_NN and_CC disambiguate_VB the_DT candidate_NN mentions_VBZ collectively_RB across_IN all_DT documents_NNS ._.
+We_PRP propose_VBP a_DT graph-based_JJ model_NN ,_, called_VBN MentionRank_NNP ,_, for_IN that_DT purpose_NN ._.
+Furthermore_RB ,_, if_IN additional_JJ knowledge_NN is_VBZ available_JJ for_IN some_DT or_CC all_DT of_IN the_DT entities_NNS ,_, our_PRP$ model_NN can_MD leverage_NN it_PRP to_TO further_RB improve_VB quality_NN ._.
+Our_PRP$ experiments_NNS demonstrate_VBP the_DT effectiveness_NN of_IN our_PRP$ model_NN ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, this_DT is_VBZ the_DT first_JJ work_NN on_IN targeted_VBN entity_NN disambiguation_NN for_IN ad-hoc_JJ entities_NNS ._.

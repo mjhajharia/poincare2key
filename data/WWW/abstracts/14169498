@@ -1,0 +1,12 @@
+Document_NNP recommendation_NN in_IN social_JJ tagging_NN services_NNS
+Social_NN tagging_NN services_NNS allow_VBP users_NNS to_TO annotate_VB various_JJ online_JJ resources_NNS with_IN freely_RB chosen_VBN keywords_NNS -LRB-_-LRB- tags_NNS -RRB-_-RRB- ._.
+They_PRP not_RB only_RB facilitate_VB the_DT users_NNS in_IN finding_VBG and_CC organizing_VBG online_JJ resources_NNS ,_, but_CC also_RB provide_VBP meaningful_JJ collaborative_JJ semantic_JJ data_NNS which_WDT can_MD potentially_RB be_VB exploited_VBN by_IN recommender_NN systems_NNS ._.
+Traditional_JJ studies_NNS on_IN recommender_NN systems_NNS focused_VBN on_IN user_NN rating_NN data_NNS ,_, while_IN recently_RB social_JJ tagging_VBG data_NNS is_VBZ becoming_VBG more_RBR and_CC more_RBR prevalent_JJ ._.
+How_WRB to_TO perform_VB resource_NN recommendation_NN based_VBN on_IN tagging_VBG data_NNS is_VBZ an_DT emerging_VBG research_NN topic_NN ._.
+In_IN this_DT paper_NN we_PRP consider_VBP the_DT problem_NN of_IN document_NN -LRB-_-LRB- e.g._FW Web_NN pages_NNS ,_, research_NN papers_NNS -RRB-_-RRB- recommendation_NN using_VBG purely_RB tagging_VBG data_NNS ._.
+That_DT is_VBZ ,_, we_PRP only_RB have_VBP data_NNS containing_VBG users_NNS ,_, tags_NNS ,_, documents_NNS and_CC the_DT relationships_NNS among_IN them_PRP ._.
+We_PRP propose_VBP a_DT novel_JJ graph-based_JJ representation_NN learning_NN algorithm_NN for_IN this_DT purpose_NN ._.
+The_DT users_NNS ,_, tags_NNS and_CC documents_NNS are_VBP represented_VBN in_IN the_DT same_JJ semantic_JJ space_NN in_IN which_WDT two_CD related_JJ objects_NNS are_VBP close_JJ to_TO each_DT other_JJ ._.
+For_IN a_DT given_VBN user_NN ,_, we_PRP recommend_VBP those_DT documents_NNS that_WDT are_VBP sufficiently_RB close_RB to_TO him\/her_NN ._.
+Experimental_JJ results_NNS on_IN two_CD data_NNS sets_NNS crawled_VBD from_IN Del._NNP icio_NN ._.
+us_PRP and_CC CiteULike_NNP show_VBP that_IN our_PRP$ algorithm_NN can_MD generate_VB promising_JJ recommendations_NNS and_CC outperforms_VBZ traditional_JJ recommendation_NN algorithms_NNS ._.

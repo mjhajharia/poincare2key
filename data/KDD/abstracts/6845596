@@ -1,0 +1,7 @@
+Event_NN summarization_NN for_IN system_NN management_NN
+In_IN system_NN management_NN applications_NNS ,_, an_DT overwhelming_JJ amount_NN of_IN data_NNS are_VBP generated_VBN and_CC collected_VBN in_IN the_DT form_NN of_IN temporal_JJ events_NNS ._.
+While_IN mining_NN temporal_JJ event_NN data_NNS to_TO discover_VB interesting_JJ and_CC frequent_JJ patterns_NNS has_VBZ obtained_VBN rapidly_RB increasing_VBG research_NN efforts_NNS ,_, users_NNS of_IN the_DT applications_NNS are_VBP overwhelmed_VBN by_IN the_DT mining_NN results_NNS ._.
+The_DT extracted_VBN patterns_NNS are_VBP generally_RB of_IN large_JJ volume_NN and_CC hard_JJ to_TO interpret_VB ,_, they_PRP may_MD be_VB of_IN no_DT emphasis_NN ,_, intricate_JJ and_CC meaningless_JJ to_TO non-experts_NNS ,_, even_RB to_TO domain_NN experts_NNS ._.
+While_IN traditional_JJ research_NN efforts_NNS focus_VBP on_IN finding_VBG interesting_JJ patterns_NNS ,_, in_IN this_DT paper_NN ,_, we_PRP take_VBP a_DT novel_JJ approach_NN called_VBN event_NN summarization_NN towards_IN the_DT understanding_NN of_IN the_DT seemingly_RB chaotic_JJ temporal_JJ data_NNS ._.
+Event_NN summarization_NN aims_VBZ at_IN providing_VBG a_DT concise_JJ interpretation_NN of_IN the_DT seemingly_RB chaotic_JJ data_NNS ,_, so_IN that_IN domain_NN experts_NNS may_MD take_VB actions_NNS upon_IN the_DT summarized_VBN models_NNS ._.
+Event_NN summarization_NN decomposes_VBZ the_DT temporal_JJ information_NN into_IN many_JJ independent_JJ subsets_NNS and_CC finds_VBZ well_RB fitted_VBN models_NNS to_TO describe_VB each_DT subset_NN ._.

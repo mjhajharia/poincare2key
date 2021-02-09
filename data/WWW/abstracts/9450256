@@ -1,0 +1,6 @@
+Using_VBG static_JJ analysis_NN for_IN Ajax_NNP intrusion_NN detection_NN
+We_PRP present_VBP a_DT static_JJ control-flow_NN analysis_NN for_IN JavaScript_NNP programs_NNS running_VBG in_IN a_DT web_NN browser_NN ._.
+Our_PRP$ analysis_NN tackles_VBZ numerous_JJ challenges_NNS posed_VBN by_IN modern_JJ web_NN applications_NNS including_VBG asynchronous_JJ communication_NN ,_, frameworks_NNS ,_, and_CC dynamic_JJ code_NN generation_NN ._.
+We_PRP use_VBP our_PRP$ analysis_NN to_TO extract_VB a_DT model_NN of_IN expected_VBN client_NN behavior_NN as_IN seen_VBN from_IN the_DT server_NN ,_, and_CC build_VB an_DT intrusion-prevention_JJ proxy_NN for_IN the_DT server_NN :_: the_DT proxy_NN intercepts_VBZ client_NN requests_NNS and_CC disables_VBZ those_DT that_WDT do_VBP not_RB meet_VB the_DT expected_VBN behavior_NN ._.
+We_PRP insert_VBP random_JJ asynchronous_JJ requests_NNS to_TO foil_NN mimicry_NN attacks_NNS ._.
+Finally_RB ,_, we_PRP evaluate_VBP our_PRP$ technique_NN against_IN several_JJ real_JJ applications_NNS and_CC show_VBP that_IN it_PRP protects_VBZ against_IN an_DT attack_NN in_IN a_DT widely-used_JJ web_NN application_NN ._.

@@ -1,0 +1,8 @@
+An_DT enhanced_VBN model_NN for_IN searching_VBG in_IN semantic_JJ portals_NNS
+Semantic_NNP Portal_NNP is_VBZ the_DT next_JJ generation_NN of_IN web_NN portals_NNS that_WDT are_VBP powered_VBN by_IN Semantic_JJ Web_NN technologies_NNS for_IN improved_VBN information_NN sharing_NN and_CC exchange_NN for_IN a_DT community_NN of_IN users_NNS ._.
+Current_JJ methods_NNS of_IN searching_VBG in_IN Semantic_JJ Portals_NNS are_VBP limited_VBN to_TO keyword-based_JJ search_NN using_VBG information_NN retrieval_NN -LRB-_-LRB- IR_NN -RRB-_-RRB- techniques_NNS ,_, ontology-based_JJ formal_JJ query_NN and_CC reasoning_NN ,_, or_CC a_DT simple_JJ combination_NN of_IN the_DT two_CD ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT enhanced_VBN model_NN that_WDT tightly_RB integrates_VBZ IR_NN with_IN formal_JJ query_NN and_CC reasoning_NN to_TO fully_RB utilize_VB both_CC textual_JJ and_CC semantic_JJ information_NN for_IN searching_VBG in_IN Semantic_JJ Portals_NNS ._.
+The_DT model_NN extends_VBZ the_DT search_NN capabilities_NNS of_IN existing_VBG methods_NNS and_CC can_MD answer_VB more_RBR complex_JJ search_NN requests_NNS ._.
+The_DT ideas_NNS in_IN a_DT fuzzy_JJ description_NN logic_NN -LRB-_-LRB- DL_NN -RRB-_-RRB- IR_NN model_NN and_CC a_DT formal_JJ DL_NN query_NN method_NN are_VBP employed_VBN and_CC combined_VBN in_IN our_PRP$ model_NN ._.
+Based_VBN on_IN the_DT model_NN ,_, a_DT semantic_JJ search_NN service_NN is_VBZ implemented_VBN and_CC evaluated_VBN ._.
+The_DT evaluation_NN shows_VBZ very_RB large_JJ improvements_NNS over_IN existing_VBG methods_NNS ._.

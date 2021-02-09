@@ -1,0 +1,10 @@
+Knowledge-based_JJ data_NNS mining_NN
+We_PRP describe_VBP techniques_NNS for_IN combining_VBG two_CD types_NNS of_IN knowledge_NN systems_NNS :_: expert_NN and_CC machine_NN learning_NN ._.
+Both_CC the_DT expert_NN system_NN and_CC the_DT learning_NN system_NN represent_VBP information_NN by_IN logical_JJ decision_NN rules_NNS or_CC trees_NNS ._.
+Unlike_IN the_DT classical_JJ views_NNS of_IN knowledge-base_JJ evaluation_NN or_CC refinement_NN ,_, our_PRP$ view_NN accepts_VBZ the_DT contents_NNS of_IN the_DT knowledge_NN base_NN as_IN completely_RB correct_JJ ._.
+The_DT knowledge_NN base_NN and_CC the_DT results_NNS of_IN its_PRP$ stored_VBN cases_NNS will_MD provide_VB direction_NN for_IN the_DT discovery_NN of_IN new_JJ relationships_NNS in_IN the_DT form_NN of_IN newly_RB induced_VBN decision_NN rules_NNS ._.
+An_DT expert_NN system_NN called_VBN SEAS_NNS was_VBD built_VBN to_TO discover_VB sales_NNS leads_VBZ for_IN computer_NN products_NNS and_CC solutions_NNS ._.
+The_DT system_NN interviews_NNS executives_NNS by_IN asking_VBG questions_NNS ,_, and_CC based_VBN on_IN the_DT responses_NNS ,_, recommends_VBZ products_NNS that_WDT may_MD improve_VB a_DT business_NN '_POS operations_NNS ._.
+Leveraging_VBG this_DT expert_NN system_NN ,_, we_PRP record_VBP the_DT results_NNS of_IN the_DT interviews_NNS and_CC the_DT program_NN 's_POS recommendations_NNS ._.
+The_DT very_RB same_JJ data_NNS stored_VBN by_IN the_DT expert_NN system_NN is_VBZ used_VBN to_TO find_VB new_JJ predictive_JJ rules_NNS ._.
+Among_IN the_DT potential_JJ advantages_NNS of_IN this_DT approach_NN are_VBP -LRB-_-LRB- a_LS -RRB-_-RRB- the_DT capability_NN to_TO spot_VB new_JJ sales_NNS trends_NNS and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- the_DT substitution_NN of_IN less_RBR expensive_JJ probabilistic_JJ rules_NNS that_WDT use_VBP database_NN data_NNS instead_RB of_IN interviews_NNS ._.

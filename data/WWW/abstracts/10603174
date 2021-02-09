@@ -1,0 +1,8 @@
+Parallel_JJ crawling_NN for_IN online_JJ social_JJ networks_NNS
+Given_VBN a_DT huge_JJ online_NN social_JJ network_NN ,_, how_WRB do_VBP we_PRP retrieve_VB information_NN from_IN it_PRP through_IN crawling_VBG ?_.
+Even_RB better_JJR ,_, how_WRB do_VBP we_PRP improve_VB the_DT crawling_VBG performance_NN by_IN using_VBG parallel_JJ crawlers_NNS that_WDT work_VBP independently_RB ?_.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP the_DT framework_NN of_IN parallel_JJ crawlers_NNS for_IN online_JJ social_JJ networks_NNS ,_, utilizing_VBG a_DT centralized_JJ queue_NN ._.
+To_TO show_VB how_WRB this_DT works_VBZ in_IN practice_NN ,_, we_PRP describe_VBP our_PRP$ implementation_NN of_IN the_DT crawlers_NNS for_IN an_DT online_JJ auction_NN website_NN ._.
+The_DT crawlers_NNS work_VBP independently_RB ,_, therefore_RB the_DT failing_VBG of_IN one_CD crawler_NN does_VBZ not_RB affect_VB the_DT others_NNS at_IN all_DT ._.
+The_DT framework_NN ensures_VBZ that_IN no_DT redundant_JJ crawling_NN would_MD occur_VB ._.
+Using_VBG the_DT crawlers_NNS that_IN we_PRP built_VBD ,_, we_PRP visited_VBD a_DT total_NN of_IN approximately_RB 11_CD million_CD auction_NN users_NNS ,_, about_IN 66,000_CD of_IN which_WDT were_VBD completely_RB crawled_VBN ._.

@@ -1,0 +1,7 @@
+The_DT predictive_JJ power_NN of_IN online_NN chatter_NN
+An_DT increasing_VBG fraction_NN of_IN the_DT global_JJ discourse_NN is_VBZ migrating_VBG online_NN in_IN the_DT form_NN of_IN blogs_NNS ,_, bulletin_NN boards_NNS ,_, web_NN pages_NNS ,_, wikis_NNS ,_, editorials_NNS ,_, and_CC a_DT dizzying_JJ array_NN of_IN new_JJ collaborative_JJ technologies_NNS ._.
+The_DT migration_NN has_VBZ now_RB proceeded_VBN to_TO the_DT point_NN that_IN topics_NNS reflecting_VBG certain_JJ individual_JJ products_NNS are_VBP sufficiently_RB popular_JJ to_TO allow_VB targeted_JJ online_JJ tracking_NN of_IN the_DT ebb_NN and_CC flow_NN of_IN chatter_NN around_IN these_DT topics_NNS ._.
+Based_VBN on_IN an_DT analysis_NN of_IN around_IN half_PDT a_DT million_CD sales_NNS rank_NN values_NNS for_IN 2,340_CD books_NNS over_IN a_DT period_NN of_IN four_CD months_NNS ,_, and_CC correlating_VBG postings_NNS in_IN blogs_NNS ,_, media_NNS ,_, and_CC web_NN pages_NNS ,_, we_PRP are_VBP able_JJ to_TO draw_VB several_JJ interesting_JJ conclusions_NNS ._.
+First_RB ,_, carefully_RB hand-crafted_JJ queries_NNS produce_VBP matching_JJ postings_NNS whose_WP$ volume_NN predicts_VBZ sales_NNS ranks_NNS ._.
+Second_JJ ,_, these_DT queries_NNS can_MD be_VB automatically_RB generated_VBN in_IN many_JJ cases_NNS ._.
+And_CC third_JJ ,_, even_RB though_IN sales_NNS rank_NN motion_NN might_MD be_VB difficult_JJ to_TO predict_VB in_IN general_JJ ,_, algorithmic_JJ predictors_NNS can_MD use_VB online_JJ postings_NNS to_TO successfully_RB predict_VB spikes_NNS in_IN sales_NNS rank_NN ._.

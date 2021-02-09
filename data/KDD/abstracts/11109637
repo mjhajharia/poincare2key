@@ -1,0 +1,10 @@
+An_DT efficient_JJ algorithm_NN for_IN a_DT class_NN of_IN fused_VBN lasso_NN problems_NNS
+The_DT fused_VBN Lasso_NNP penalty_NN enforces_VBZ sparsity_NN in_IN both_CC the_DT coefficients_NNS and_CC their_PRP$ successive_JJ differences_NNS ,_, which_WDT is_VBZ desirable_JJ for_IN applications_NNS with_IN features_NNS ordered_VBN in_IN some_DT meaningful_JJ way_NN ._.
+The_DT resulting_VBG problem_NN is_VBZ ,_, however_RB ,_, challenging_VBG to_TO solve_VB ,_, as_IN the_DT fused_VBN Lasso_NNP penalty_NN is_VBZ both_CC non-smooth_JJ and_CC non-separable_JJ ._.
+Existing_VBG algorithms_NNS have_VBP high_JJ computational_JJ complexity_NN and_CC do_VBP not_RB scale_VB to_TO large-size_JJ problems_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT Efficient_JJ Fused_FW Lasso_FW Algorithm_NN -LRB-_-LRB- EFLA_NN -RRB-_-RRB- for_IN optimizing_VBG this_DT class_NN of_IN problems_NNS ._.
+One_CD key_JJ building_NN block_NN in_IN the_DT proposed_VBN EFLA_NN is_VBZ the_DT Fused_NNP Lasso_NNP Signal_NNP Approximator_NNP -LRB-_-LRB- FLSA_NNP -RRB-_-RRB- ._.
+To_TO efficiently_RB solve_VB FLSA_NNP ,_, we_PRP propose_VBP to_TO reformulate_VB it_PRP as_IN the_DT problem_NN of_IN finding_VBG an_DT ``_`` appropriate_JJ ''_'' subgradient_NN of_IN the_DT fused_VBN penalty_NN at_IN the_DT minimizer_NN ,_, and_CC develop_VB a_DT Subgradient_NNP Finding_NNP Algorithm_NNP -LRB-_-LRB- SFA_NNP -RRB-_-RRB- ._.
+We_PRP further_RB design_VBP a_DT restart_VB technique_NN to_TO accelerate_VB the_DT convergence_NN of_IN SFA_NNP ,_, by_IN exploiting_VBG the_DT special_JJ ``_`` structures_NNS ''_'' of_IN both_CC the_DT original_JJ and_CC the_DT reformulated_VBN FLSA_NN problems_NNS ._.
+Our_PRP$ empirical_JJ evaluations_NNS show_VBP that_IN ,_, both_DT SFA_NNP and_CC EFLA_NNP significantly_RB outperform_VBP existing_VBG solvers_NNS ._.
+We_PRP also_RB demonstrate_VBP several_JJ applications_NNS of_IN the_DT fused_VBN Lasso_NNP ._.

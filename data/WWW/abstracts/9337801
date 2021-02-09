@@ -1,0 +1,7 @@
+A_DT comparative_JJ analysis_NN of_IN web_NN and_CC peer-to-peer_NN traffic_NN
+Peer-to-Peer_NN -LRB-_-LRB- P2P_NN -RRB-_-RRB- applications_NNS continue_VBP to_TO grow_VB in_IN popularity_NN ,_, and_CC have_VBP reportedly_RB overtaken_VBN Web_NN applications_NNS as_IN the_DT single_JJ largest_JJS contributor_NN to_TO Internet_NNP traffic_NN ._.
+Using_VBG traces_NNS collected_VBN from_IN a_DT large_JJ edge_NN network_NN ,_, we_PRP conduct_VBP an_DT extensive_JJ analysis_NN of_IN P2P_NN traffic_NN ,_, compare_VB P2P_NN traffic_NN with_IN Web_NN traffic_NN ,_, and_CC discuss_VBP the_DT implications_NNS of_IN increased_VBN P2P_NN traffic_NN ._.
+In_IN addition_NN to_TO studying_VBG the_DT aggregate_JJ P2P_NN traffic_NN ,_, we_PRP also_RB analyze_VBP and_CC compare_VBP the_DT two_CD main_JJ constituents_NNS of_IN P2P_NN traffic_NN in_IN our_PRP$ data_NNS ,_, namely_RB BitTorrent_NNP and_CC Gnutella_NNP ._.
+The_DT results_NNS presented_VBN in_IN the_DT paper_NN may_MD be_VB used_VBN for_IN generating_VBG synthetic_JJ workloads_NNS ,_, gaining_VBG insights_NNS into_IN the_DT functioning_NN of_IN P2P_NN applications_NNS ,_, and_CC developing_VBG network_NN management_NN strategies_NNS ._.
+For_IN example_NN ,_, our_PRP$ results_NNS suggest_VBP that_IN new_JJ models_NNS are_VBP necessary_JJ for_IN Internet_NN traffic_NN ._.
+As_IN a_DT first_JJ step_NN ,_, we_PRP present_VBP flow-level_JJ distributional_JJ models_NNS for_IN Web_NN and_CC P2P_NN traffic_NN that_WDT may_MD be_VB used_VBN in_IN network_NN simulation_NN and_CC emulation_NN experiments_NNS ._.

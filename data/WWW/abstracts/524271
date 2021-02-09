@@ -1,0 +1,5 @@
+Using_VBG visual_JJ cues_NNS for_IN extraction_NN of_IN tabular_JJ data_NNS from_IN arbitrary_JJ HTML_NNP documents_NNS
+We_PRP describe_VBP a_DT method_NN to_TO extract_VB tabular_JJ data_NNS from_IN web_NN pages_NNS ._.
+Rather_RB than_IN just_RB analyzing_VBG the_DT DOM_NNP tree_NN ,_, we_PRP also_RB exploit_VBP visual_JJ cues_NNS in_IN the_DT rendered_VBN version_NN of_IN the_DT document_NN to_TO extract_VB data_NNS from_IN tables_NNS which_WDT are_VBP not_RB explicitly_RB marked_VBN with_IN an_DT HTML_NNP table_NN element_NN ._.
+To_TO detect_VB tables_NNS ,_, we_PRP rely_VBP on_IN a_DT variant_NN of_IN the_DT well-known_JJ X-Y_NN cut_NN algorithm_NN as_IN used_VBN in_IN the_DT OCR_NNP community_NN ._.
+We_PRP implemented_VBD the_DT system_NN by_IN directly_RB accessing_VBG Mozilla_NNP 's_POS box_NN model_NN that_WDT contains_VBZ the_DT positional_JJ data_NNS for_IN all_DT HTML_NNP elements_NNS of_IN a_DT given_VBN web_NN page_NN ._.

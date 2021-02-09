@@ -1,0 +1,8 @@
+Beyond_IN XML_NN and_CC RDF_NN :_: the_DT versatile_JJ web_NN query_NN language_NN xcerpt_NN
+Applications_NNS and_CC services_NNS that_WDT access_VBP Web_NN data_NNS are_VBP becoming_VBG increasingly_RB more_RBR useful_JJ and_CC wide-spread_JJ ._.
+Current_JJ main-stream_JJ Web_NN query_NN languages_NNS such_JJ as_IN XQuery_NN ,_, XSLT_NN ,_, or_CC SPARQL_NNP ,_, however_RB ,_, focus_VBP only_RB on_IN one_CD of_IN the_DT different_JJ data_NNS formats_NNS available_JJ on_IN the_DT Web_NN ._.
+In_IN contrast_NN ,_, Xcerpt_NNP is_VBZ a_DT emphversatile_JJ semi-structured_JJ query_NN language_NN ,_, i.e._FW ,_, a_DT query_JJ language_NN able_JJ to_TO access_VB all_DT kinds_NNS of_IN Web_NN data_NNS such_JJ as_IN XML_NN and_CC RDF_NN in_IN the_DT same_JJ language_NN reusing_VBG common_JJ concepts_NNS and_CC language_NN constructs_NNS ._.
+To_TO integrate_VB heterogeneous_JJ data_NNS and_CC as_IN a_DT foundation_NN for_IN Semantic_JJ Web_NN reasoning_NN ,_, Xcerpt_NNP also_RB provides_VBZ rules_NNS ._.
+Xcerpt_NNP has_VBZ a_DT visual_JJ companion_NN language_NN ,_, visXcerpt_NN ,_, that_WDT is_VBZ conceived_VBN as_IN a_DT mere_JJ rendering_NN of_IN the_DT -LRB-_-LRB- textual_JJ -RRB-_-RRB- query_NN language_NN Xcerpt_NN using_VBG a_DT slightly_RB extended_VBN CSS_NNP ._.
+Both_DT languages_NNS are_VBP demonstrated_VBN along_IN a_DT realistic_JJ use_NN case_NN integrating_VBG XML_NN and_CC RDF_NN data_NNS highlighting_VBG interesting_JJ and_CC unique_JJ features_NNS ._.
+Novel_JJ language_NN constructs_NNS and_CC optimization_NN techniques_NNS are_VBP currently_RB under_IN investigation_NN in_IN the_DT Xcerpt_NNP project_NN -LRB-_-LRB- cf._VBP @_IN urlhttp_NN :_: \/_: \/_: xcerpt.org_NN \/_: -RRB-_-RRB- ._.

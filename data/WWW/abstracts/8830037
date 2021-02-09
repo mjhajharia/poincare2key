@@ -1,0 +1,9 @@
+A_DT framework_NN for_IN coordinated_VBN multi-modal_JJ browsing_VBG with_IN multiple_JJ clients_NNS
+As_IN users_NNS acquire_NN or_CC gain_NN access_NN to_TO an_DT increasingly_RB diverse_JJ range_NN of_IN web_NN access_NN clients_NNS ,_, web_NN applications_NNS are_VBP adapting_VBG their_PRP$ user_NN interfaces_NNS to_TO support_VB multiple_JJ modalities_NNS on_IN multiple_JJ client_NN types_NNS ._.
+User_NN experiences_NNS can_MD be_VB enhanced_VBN by_IN clients_NNS with_IN differing_VBG capabilities_NNS combining_VBG to_TO provide_VB a_DT distributed_VBN user_NN interface_NN to_TO applications_NNS ._.
+Indeed_RB ,_, users_NNS will_MD be_VB frustrated_VBN if_IN their_PRP$ interaction_NN with_IN applications_NNS is_VBZ limited_VBN to_TO one_CD client_NN at_IN a_DT time_NN ._.
+This_DT paper_NN discusses_VBZ the_DT requirements_NNS for_IN coordinating_VBG web_NN interaction_NN across_IN an_DT aggregation_NN of_IN clients_NNS ._.
+We_PRP present_VBP a_DT framework_NN for_IN multi-device_JJ browsing_NN that_WDT provides_VBZ both_DT coordinated_VBN navigation_NN between_IN web_NN resources_NNS and_CC coordinated_VBN interaction_NN between_IN variants_NNS ,_, or_CC representations_NNS ,_, of_IN those_DT resources_NNS once_RB instantiated_VBN in_IN the_DT clients_NNS ._.
+The_DT framework_NN protects_VBZ the_DT application_NN from_IN some_DT of_IN the_DT complexities_NNS of_IN client_NN aggregation_NN ._.
+We_PRP show_VBP how_WRB a_DT small_JJ number_NN of_IN enhancements_NNS to_TO the_DT XForms_NN and_CC XML_NN Events_NNS vocabularies_NNS can_MD facilitate_VB coordination_NN between_IN clients_NNS and_CC provide_VBP an_DT appropriate_JJ level_NN of_IN control_NN to_TO applications_NNS ._.
+We_PRP also_RB describe_VBP a_DT novel_JJ proxy_NN which_WDT consolidates_VBZ HTTP_NN requests_NNS from_IN aggregations_NNS of_IN clients_NNS and_CC reduces_VBZ the_DT burden_NN that_IN multi-client_JJ browsing_VBG places_NNS on_IN the_DT application_NN ._.

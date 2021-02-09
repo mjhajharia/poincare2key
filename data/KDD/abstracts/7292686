@@ -1,0 +1,10 @@
+Finding_VBG recent_JJ frequent_JJ itemsets_NNS adaptively_RB over_IN online_JJ data_NNS streams_NNS
+A_DT data_NN stream_NN is_VBZ a_DT massive_JJ unbounded_JJ sequence_NN of_IN data_NNS elements_NNS continuously_RB generated_VBN at_IN a_DT rapid_JJ rate_NN ._.
+Consequently_RB ,_, the_DT knowledge_NN embedded_VBN in_IN a_DT data_NN stream_NN is_VBZ more_RBR likely_JJ to_TO be_VB changed_VBN as_IN time_NN goes_VBZ by_IN ._.
+Identifying_VBG the_DT recent_JJ change_NN of_IN a_DT data_NN stream_NN ,_, specially_RB for_IN an_DT online_JJ data_NN stream_NN ,_, can_MD provide_VB valuable_JJ information_NN for_IN the_DT analysis_NN of_IN the_DT data_NNS stream_NN ._.
+In_IN addition_NN ,_, monitoring_VBG the_DT continuous_JJ variation_NN of_IN a_DT data_NN stream_NN enables_VBZ to_TO find_VB the_DT gradual_JJ change_NN of_IN embedded_JJ knowledge_NN ._.
+However_RB ,_, most_JJS of_IN mining_NN algorithms_NNS over_IN a_DT data_NN stream_NN do_VBP not_RB differentiate_VB the_DT information_NN of_IN recently_RB generated_VBN transactions_NNS from_IN the_DT obsolete_JJ information_NN of_IN old_JJ transactions_NNS which_WDT may_MD be_VB no_RB longer_RB useful_JJ or_CC possibly_RB invalid_JJ at_IN present_JJ ._.
+This_DT paper_NN proposes_VBZ a_DT data_NN mining_NN method_NN for_IN finding_VBG recent_JJ frequent_JJ itemsets_NNS adaptively_RB over_IN an_DT online_JJ data_NN stream_NN ._.
+The_DT effect_NN of_IN old_JJ transactions_NNS on_IN the_DT mining_NN result_NN of_IN the_DT data_NNS steam_NN is_VBZ diminished_VBN by_IN decaying_VBG the_DT old_JJ occurrences_NNS of_IN each_DT itemset_NN as_IN time_NN goes_VBZ by_IN ._.
+Furthermore_RB ,_, several_JJ optimization_NN techniques_NNS are_VBP devised_VBN to_TO minimize_VB processing_NN time_NN as_RB well_RB as_IN main_JJ memory_NN usage_NN ._.
+Finally_RB ,_, the_DT proposed_VBN method_NN is_VBZ analyzed_VBN by_IN a_DT series_NN of_IN experiments_NNS ._.

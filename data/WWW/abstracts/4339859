@@ -1,0 +1,3 @@
+A_DT decentralized_JJ CF_NN approach_NN based_VBN on_IN cooperative_JJ agents_NNS
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT decentralized_VBN collaborative_JJ filtering_VBG -LRB-_-LRB- CF_NN -RRB-_-RRB- approach_NN based_VBN on_IN P2P_NN overlay_NN network_NN for_IN the_DT autonomous_JJ agents_NNS '_POS environment_NN ._.
+Experiments_NNS show_VBP that_IN our_PRP$ approach_NN is_VBZ more_RBR scalable_JJ than_IN traditional_JJ centralized_JJ CF_NN filtering_VBG systems_NNS and_CC alleviates_VBZ the_DT sparsity_NN problem_NN in_IN distributed_VBN CF._NN

@@ -1,0 +1,8 @@
+Probabilistic_JJ query_NN expansion_NN using_VBG query_NN logs_NNS
+Query_JJ expansion_NN has_VBZ long_RB been_VBN suggested_VBN as_IN an_DT effective_JJ way_NN to_TO resolve_VB the_DT short_JJ query_NN and_CC word_NN mismatching_NN problems_NNS ._.
+A_DT number_NN of_IN query_JJ expansion_NN methods_NNS have_VBP been_VBN proposed_VBN in_IN traditional_JJ information_NN retrieval_NN ._.
+However_RB ,_, these_DT previous_JJ methods_NNS do_VBP not_RB take_VB into_IN account_NN the_DT specific_JJ characteristics_NNS of_IN web_NN searching_VBG ;_: in_IN particular_JJ ,_, of_IN the_DT availability_NN of_IN large_JJ amount_NN of_IN user_NN interaction_NN information_NN recorded_VBN in_IN the_DT web_NN query_NN logs_NNS ._.
+In_IN this_DT study_NN ,_, we_PRP propose_VBP a_DT new_JJ method_NN for_IN query_JJ expansion_NN based_VBN on_IN query_NN logs_NNS ._.
+The_DT central_JJ idea_NN is_VBZ to_TO extract_VB probabilistic_JJ correlations_NNS between_IN query_NN terms_NNS and_CC document_NN terms_NNS by_IN analyzing_VBG query_NN logs_NNS ._.
+These_DT correlations_NNS are_VBP then_RB used_VBN to_TO select_VB high-quality_JJ expansion_NN terms_NNS for_IN new_JJ queries_NNS ._.
+The_DT experimental_JJ results_NNS show_VBP that_IN our_PRP$ log-based_JJ probabilistic_JJ query_NN expansion_NN method_NN can_MD greatly_RB improve_VB the_DT search_NN performance_NN and_CC has_VBZ several_JJ advantages_NNS over_IN other_JJ existing_VBG methods_NNS ._.

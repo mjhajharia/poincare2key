@@ -1,0 +1,7 @@
+Cluster-based_JJ concept_NN invention_NN for_IN statistical_JJ relational_JJ learning_NN
+We_PRP use_VBP clustering_NN to_TO derive_VB new_JJ relations_NNS which_WDT augment_VBP database_NN schema_NN used_VBN in_IN automatic_JJ generation_NN of_IN predictive_JJ features_NNS in_IN statistical_JJ relational_JJ learning_NN ._.
+Entities_NNS derived_VBN from_IN clusters_NNS increase_VBP the_DT expressivity_NN of_IN feature_NN spaces_NNS by_IN creating_VBG new_JJ first-class_JJ concepts_NNS which_WDT contribute_VBP to_TO the_DT creation_NN of_IN new_JJ features_NNS ._.
+For_IN example_NN ,_, in_IN CiteSeer_NNP ,_, papers_NNS can_MD be_VB clustered_VBN based_VBN on_IN words_NNS or_CC citations_NNS giving_VBG ``_`` topics_NNS ''_'' ,_, and_CC authors_NNS can_MD be_VB clustered_VBN based_VBN on_IN documents_NNS they_PRP co-author_NN giving_VBG ``_`` communities_NNS ''_'' ._.
+Such_JJ cluster-derived_JJ concepts_NNS become_VBP part_NN of_IN more_RBR complex_JJ feature_NN expressions_NNS ._.
+Out_IN of_IN the_DT large_JJ number_NN of_IN generated_VBN features_NNS ,_, those_DT which_WDT improve_VBP predictive_JJ accuracy_NN are_VBP kept_VBN in_IN the_DT model_NN ,_, as_IN decided_VBN by_IN statistical_JJ feature_NN selection_NN criteria_NNS ._.
+We_PRP present_VBP results_NNS demonstrating_VBG improved_VBN accuracy_NN on_IN two_CD tasks_NNS ,_, venue_NN prediction_NN and_CC link_NN prediction_NN ,_, using_VBG CiteSeer_NNP data_NNS ._.

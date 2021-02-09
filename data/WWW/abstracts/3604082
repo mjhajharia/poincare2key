@@ -1,0 +1,10 @@
+The_DT infocious_JJ web_NN search_NN engine_NN :_: improving_VBG web_NN searching_VBG through_IN linguistic_JJ analysis_NN
+In_IN this_DT paper_NN we_PRP present_VBP the_DT Infocious_JJ Web_NN search_NN engine_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+Our_PRP$ goal_NN in_IN creating_VBG Infocious_NNP is_VBZ to_TO improve_VB the_DT way_NN people_NNS find_VBP information_NN on_IN the_DT Web_NN by_IN resolving_VBG ambiguities_NNS present_JJ in_IN natural_JJ language_NN text_NN ._.
+This_DT is_VBZ achieved_VBN by_IN performing_VBG linguistic_JJ analysis_NN on_IN the_DT content_NN of_IN the_DT Web_NN pages_NNS we_PRP index_NN ,_, which_WDT is_VBZ a_DT departure_NN from_IN existing_VBG Web_NN search_NN engines_NNS that_WDT return_VBP results_NNS mainly_RB based_VBN on_IN keyword_JJ matching_NN ._.
+This_DT additional_JJ step_NN of_IN linguistic_JJ processing_NN gives_VBZ Infocious_NNP two_CD main_JJ advantages_NNS ._.
+First_JJ ,_, Infocious_JJ gains_NNS a_DT deeper_JJR understanding_NN of_IN the_DT content_NN of_IN Web_NN pages_NNS so_IN it_PRP can_MD better_JJR match_NN users_NNS '_POS queries_NNS with_IN indexed_VBN documents_NNS and_CC therefore_RB can_MD improve_VB relevancy_NN of_IN the_DT returned_VBN results_NNS ._.
+Second_JJ ,_, based_VBN on_IN its_PRP$ linguistic_JJ processing_NN ,_, Infocious_NNP can_MD organize_VB and_CC present_VB the_DT results_NNS to_TO the_DT user_NN in_IN more_RBR intuitive_JJ ways_NNS ._.
+In_IN this_DT paper_NN we_PRP present_VBP the_DT linguistic_JJ processing_NN technologies_NNS that_IN we_PRP incorporated_VBD in_IN Infocious_NNP and_CC how_WRB they_PRP are_VBP applied_VBN in_IN helping_VBG users_NNS find_VB information_NN on_IN the_DT Web_NN more_RBR efficiently_RB ._.
+We_PRP discuss_VBP the_DT various_JJ components_NNS in_IN the_DT architecture_NN of_IN Infocious_NNP and_CC how_WRB each_DT of_IN them_PRP benefits_NNS from_IN the_DT added_VBN linguistic_JJ processing_NN ._.
+Finally_RB ,_, we_PRP experimentally_RB evaluate_VBP the_DT performance_NN of_IN a_DT component_NN which_WDT leverages_VBZ linguistic_JJ information_NN in_IN order_NN to_TO categorize_VB Web_NN pages_NNS ._.

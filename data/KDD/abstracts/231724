@@ -1,0 +1,8 @@
+Adversarial_JJ classification_NN
+Essentially_RB all_DT data_NNS mining_NN algorithms_NNS assume_VBP that_IN the_DT data-generating_JJ process_NN is_VBZ independent_JJ of_IN the_DT data_NNS miner_NN 's_POS activities_NNS ._.
+However_RB ,_, in_IN many_JJ domains_NNS ,_, including_VBG spam_NN detection_NN ,_, intrusion_NN detection_NN ,_, fraud_NN detection_NN ,_, surveillance_NN and_CC counter-terrorism_NN ,_, this_DT is_VBZ far_RB from_IN the_DT case_NN :_: the_DT data_NN is_VBZ actively_RB manipulated_VBN by_IN an_DT adversary_NN seeking_VBG to_TO make_VB the_DT classifier_NN produce_VBP false_JJ negatives_NNS ._.
+In_IN these_DT domains_NNS ,_, the_DT performance_NN of_IN a_DT classifier_NN can_MD degrade_VB rapidly_RB after_IN it_PRP is_VBZ deployed_VBN ,_, as_IN the_DT adversary_NN learns_VBZ to_TO defeat_VB it_PRP ._.
+Currently_RB the_DT only_JJ solution_NN to_TO this_DT is_VBZ repeated_VBN ,_, manual_NN ,_, ad_FW hoc_FW reconstruction_NN of_IN the_DT classifier_NN ._.
+In_IN this_DT paper_NN we_PRP develop_VBP a_DT formal_JJ framework_NN and_CC algorithms_NNS for_IN this_DT problem_NN ._.
+We_PRP view_VBP classification_NN as_IN a_DT game_NN between_IN the_DT classifier_NN and_CC the_DT adversary_NN ,_, and_CC produce_VBP a_DT classifier_NN that_WDT is_VBZ optimal_JJ given_VBN the_DT adversary_NN 's_POS optimal_JJ strategy_NN ._.
+Experiments_NNS in_IN a_DT spam_NN detection_NN domain_NN show_VBP that_IN this_DT approach_NN can_MD greatly_RB outperform_VB a_DT classifier_NN learned_VBN in_IN the_DT standard_JJ way_NN ,_, and_CC -LRB-_-LRB- within_IN the_DT parameters_NNS of_IN the_DT problem_NN -RRB-_-RRB- automatically_RB adapt_VBP the_DT classifier_NN to_TO the_DT adversary_NN 's_POS evolving_VBG manipulations_NNS ._.

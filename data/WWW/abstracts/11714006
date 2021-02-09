@@ -1,0 +1,9 @@
+visKQWL_NN ,_, a_DT visual_JJ renderer_NN for_IN a_DT semantic_JJ web_NN query_NN language_NN
+KiWi_NN is_VBZ a_DT semantic_JJ Wiki_NNP that_WDT combines_VBZ the_DT Wiki_NNP philosophy_NN of_IN collaborative_JJ content_NN creation_NN with_IN the_DT methods_NNS of_IN the_DT Semantic_JJ Web_NN in_IN order_NN to_TO enable_VB effective_JJ knowledge_NN management_NN ._.
+Querying_VBG a_DT Wiki_NNP must_MD be_VB simple_JJ enough_RB for_IN beginning_VBG users_NNS ,_, yet_RB powerful_JJ enough_RB to_TO accommodate_VB experienced_JJ users_NNS ._.
+To_TO this_DT end_NN ,_, the_DT keyword-based_JJ KiWi_NN query_NN language_NN -LRB-_-LRB- KWQL_NN -RRB-_-RRB- supports_VBZ queries_NNS ranging_VBG from_IN simple_JJ lists_NNS of_IN keywords_NNS to_TO expressive_JJ rules_NNS for_IN selecting_VBG and_CC reshaping_VBG Wiki_NN -LRB-_-LRB- meta_NN -_: -RRB-_-RRB- data_NNS ._.
+In_IN this_DT demo_NN ,_, we_PRP showcase_NN visKWQL_NN ,_, a_DT visual_JJ interface_NN for_IN the_DT KWQL_NN language_NN aimed_VBN at_IN supporting_VBG users_NNS in_IN the_DT query_JJ construction_NN process_NN ._.
+visKWQL_NN and_CC its_PRP$ editor_NN are_VBP described_VBN ,_, and_CC their_PRP$ functionality_NN is_VBZ illustrated_VBN using_VBG example_NN queries_NNS ._.
+visKWQL_NN 's_POS editor_NN provides_VBZ guidance_NN throughout_IN the_DT query_JJ construction_NN process_NN through_IN hints_NNS ,_, warnings_NNS and_CC highlighting_VBG of_IN syntactic_JJ errors_NNS ._.
+The_DT editor_NN enables_VBZ round-tripping_JJ between_IN the_DT twin_JJ languages_NNS KWQL_NN and_CC visKWQL_NN ,_, meaning_VBG that_IN users_NNS can_MD switch_VB freely_RB between_IN the_DT textual_JJ and_CC visual_JJ form_NN when_WRB constructing_VBG or_CC editing_NN a_DT query_NN ._.
+It_PRP is_VBZ implemented_VBN using_VBG HTML_NNP ,_, JavaScript_NNP ,_, and_CC CSS_NNP ,_, and_CC can_MD thus_RB be_VB used_VBN in_IN -LRB-_-LRB- almost_RB -RRB-_-RRB- any_DT web_NN browser_NN without_IN any_DT additional_JJ software_NN ._.

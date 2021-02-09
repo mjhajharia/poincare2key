@@ -1,0 +1,12 @@
+Securing_VBG web_NN application_NN code_NN by_IN static_JJ analysis_NN and_CC runtime_NN protection_NN
+Security_NN remains_VBZ a_DT major_JJ roadblock_NN to_TO universal_JJ acceptance_NN of_IN the_DT Web_NN for_IN many_JJ kinds_NNS of_IN transactions_NNS ,_, especially_RB since_IN the_DT recent_JJ sharp_JJ increase_NN in_IN remotely_RB exploitable_JJ vulnerabilities_NNS have_VBP been_VBN attributed_VBN to_TO Web_NN application_NN bugs_NNS ._.
+Many_JJ verification_NN tools_NNS are_VBP discovering_VBG previously_RB unknown_JJ vulnerabilities_NNS in_IN legacy_NN C_NN programs_NNS ,_, raising_VBG hopes_NNS that_IN the_DT same_JJ success_NN can_MD be_VB achieved_VBN with_IN Web_NN applications_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP a_DT sound_JJ and_CC holistic_JJ approach_NN to_TO ensuring_VBG Web_NN application_NN security_NN ._.
+Viewing_VBG Web_NN application_NN vulnerabilities_NNS as_IN a_DT secure_JJ information_NN flow_NN problem_NN ,_, we_PRP created_VBD a_DT lattice-based_JJ static_JJ analysis_NN algorithm_NN derived_VBN from_IN type_NN systems_NNS and_CC typestate_NN ,_, and_CC addressed_VBD its_PRP$ soundness_NN ._.
+During_IN the_DT analysis_NN ,_, sections_NNS of_IN code_NN considered_VBN vulnerable_JJ are_VBP instrumented_VBN with_IN runtime_NN guards_NNS ,_, thus_RB securing_VBG Web_NN applications_NNS in_IN the_DT absence_NN of_IN user_NN intervention_NN ._.
+With_IN sufficient_JJ annotations_NNS ,_, runtime_NN overhead_NN can_MD be_VB reduced_VBN to_TO zero_VB ._.
+We_PRP also_RB created_VBD a_DT tool_NN named_VBN ._.
+WebSSARI_NN -LRB-_-LRB- Web_NN application_NN Security_NNP by_IN Static_NNP Analysis_NNP and_CC Runtime_NNP Inspection_NNP -RRB-_-RRB- to_TO test_VB our_PRP$ algorithm_NN ,_, and_CC used_VBD it_PRP to_TO verify_VB 230_CD open-source_JJ Web_NN application_NN projects_NNS on_IN SourceForge.net_NN ,_, which_WDT were_VBD selected_VBN to_TO represent_VB projects_NNS of_IN different_JJ maturity_NN ,_, popularity_NN ,_, and_CC scale_NN ._.
+69_CD contained_VBD vulnerabilities_NNS ._.
+After_IN notifying_VBG the_DT developers_NNS ,_, 38_CD acknowledged_VBD our_PRP$ findings_NNS and_CC stated_VBD their_PRP$ plans_NNS to_TO provide_VB patches_NNS ._.
+Our_PRP$ statistics_NNS also_RB show_VBP that_IN static_JJ analysis_NN reduced_VBD potential_JJ runtime_NN overhead_NN by_IN 98.4_CD %_NN ._.

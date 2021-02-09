@@ -1,0 +1,11 @@
+Lock-free_JJ consistency_NN control_NN for_IN web_NN 2.0_CD applications_NNS
+Online_JJ collaboration_NN and_CC sharing_NN is_VBZ the_DT central_JJ theme_NN of_IN many_JJ web-based_JJ services_NNS that_WDT create_VBP the_DT so-called_JJ Web_NN 2.0_CD phenomena_NNS ._.
+Using_VBG the_DT Internet_NN as_IN a_DT computing_NN platform_NN ,_, many_JJ Web_NN 2.0_CD applications_NNS set_VBD up_RP mirror_NN sites_NNS to_TO provide_VB large-scale_JJ availability_NN and_CC to_TO achieve_VB load_NN balance_NN ._.
+However_RB ,_, in_IN the_DT age_NN of_IN Web_NN 2.0_CD ,_, where_WRB every_DT user_NN is_VBZ also_RB a_DT writer_NN and_CC publisher_NN ,_, the_DT deployment_NN of_IN mirror_NN sites_NNS makes_VBZ consistency_NN maintenance_NN a_DT Web_NN scale_NN problem_NN ._.
+Traditional_JJ concurrency_NN control_NN methods_NNS -LRB-_-LRB- e.g._FW two_CD phase_NN lock_NN ,_, serialization_NN ,_, etc._NN -RRB-_-RRB- are_VBP not_RB up_RB to_TO the_DT task_NN for_IN several_JJ reasons_NNS ._.
+First_JJ ,_, large_JJ network_NN latency_NN between_IN mirror_NN sites_NNS will_MD make_VB two_CD phase_NN locking_VBG a_DT throughput_NN bottleneck_NN ._.
+Second_RB ,_, locking_VBG will_MD block_VB a_DT large_JJ portion_NN of_IN concurrent_JJ operations_NNS ,_, which_WDT makes_VBZ it_PRP impossible_JJ to_TO provide_VB large-scale_JJ availability_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, most_JJS Web_NN 2.0_CD operations_NNS do_VBP not_RB need_VB strict_JJ serializability_NN -_: it_PRP is_VBZ not_RB the_DT intention_NN of_IN a_DT user_NN who_WP is_VBZ correcting_VBG a_DT typo_NN in_IN a_DT shared_JJ document_NN to_TO block_VB another_DT who_WP is_VBZ adding_VBG a_DT comment_NN ,_, as_RB long_RB as_IN consistency_NN can_MD still_RB be_VB achieved_VBN ._.
+Thus_RB ,_, in_IN order_NN to_TO enable_VB maximal_JJ online_NN collaboration_NN and_CC sharing_NN ,_, we_PRP need_VBP a_DT lock-free_JJ mechanism_NN that_WDT can_MD maintain_VB consistency_NN among_IN mirror_NN sites_NNS on_IN the_DT Web_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT flexible_JJ and_CC efficient_JJ method_NN to_TO achieve_VB consistency_NN maintenance_NN in_IN the_DT Web_NN 2.0_CD world_NN ._.
+Our_PRP$ experiments_NNS show_VBP its_PRP$ good_JJ performance_NN improvement_NN compared_VBN with_IN existing_VBG methods_NNS based_VBN on_IN distributed_VBN lock_NN ._.

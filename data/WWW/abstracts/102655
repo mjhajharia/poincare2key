@@ -1,0 +1,8 @@
+Dynamic_NNP assembly_NN of_IN learning_VBG objects_NNS
+This_DT paper_NN describes_VBZ one_CD solution_NN to_TO the_DT problem_NN of_IN how_WRB to_TO select_VB sequence_NN ,_, and_CC link_NN Web_NN resources_NNS into_IN a_DT coherent_JJ ,_, focused_JJ organization_NN for_IN instruction_NN that_WDT addresses_VBZ a_DT user_NN 's_POS immediate_JJ and_CC focused_JJ learning_NN need_NN ._.
+A_DT system_NN is_VBZ described_VBN that_IN automatically_RB generates_VBZ individualized_JJ learning_VBG paths_NNS from_IN a_DT repository_NN of_IN XML_NN Web_NN resources_NNS ._.
+Each_DT Web_NN resource_NN has_VBZ an_DT XML_NN Learning_NNP Object_NNP Metadata_NNP -LRB-_-LRB- LOM_NNP -RRB-_-RRB- description_NN consisting_VBG of_IN General_NNP ,_, Educational_NNP ,_, and_CC Classification_NN metadata_NN ._.
+Dynamic_NNP assembly_NN of_IN these_DT learning_VBG objects_NNS is_VBZ based_VBN on_IN the_DT relative_JJ match_NN of_IN the_DT learning_NN object_NN content_NN and_CC metadata_NN to_TO the_DT learner_NN 's_POS needs_NNS ,_, preferences_NNS ,_, context_NN ,_, and_CC constraints_NNS ._.
+Learning_NNP objects_NNS are_VBP connected_VBN into_IN coherent_JJ paths_NNS based_VBN on_IN their_PRP$ LOM_NNP topic_NN classifications_NNS and_CC the_DT proximity_NN of_IN these_DT topics_NNS in_IN a_DT Resource_NNP Description_NN Framework_NN -LRB-_-LRB- RDF_NN -RRB-_-RRB- graph_NN ._.
+An_DT instructional_JJ sequencing_NN policy_NN specifies_VBZ how_WRB to_TO arrange_VB the_DT objects_NNS on_IN the_DT path_NN into_IN a_DT particular_JJ learning_NN sequence_NN ._.
+The_DT system_NN has_VBZ been_VBN deployed_VBN and_CC evaluated_VBN within_IN a_DT corporate_JJ setting_NN ._.

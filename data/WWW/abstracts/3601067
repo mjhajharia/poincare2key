@@ -1,0 +1,6 @@
+Using_VBG OWL_NN for_IN querying_VBG an_DT XML\/RDF_NN syntax_NN
+Some_DT recent_JJ initiatives_NNS try_VBP to_TO take_VB profit_NN from_IN RDF_NNP to_TO make_VB XML_NN documents_NNS interoperate_VBP at_IN the_DT semantic_JJ level_NN ._.
+Ontologies_NNS are_VBP used_VBN to_TO establish_VB semantic_JJ connections_NNS among_IN XML_NN languages_NNS ,_, and_CC some_DT mechanisms_NNS have_VBP been_VBN defined_VBN to_TO query_VB them_PRP with_IN natural_JJ XML_NN query_NN languages_NNS like_IN XPath_NN and_CC XML_NN Query_NN ._.
+Generally_RB structure-mapping_JJ approaches_NNS define_VBP a_DT simple_JJ translation_NN between_IN trivial_JJ XPath_NN expressions_NNS and_CC some_DT RDF_NNP query_NN language_NN like_IN RDQL_NN ;_: however_RB some_DT XPath_NN constructs_NNS can_MD not_RB be_VB covered_VBN in_IN a_DT structure-mapping_JJ strategy_NN ._.
+In_IN contrast_NN ,_, our_PRP$ work_NN takes_VBZ the_DT model-mapping_JJ approach_NN ,_, respectful_JJ with_IN node_NN order_NN ,_, that_WDT allows_VBZ mapping_NN all_DT XPath_NN axis_NN ._.
+The_DT obtained_VBN XPath_NN implementation_NN has_VBZ the_DT properties_NNS of_IN schema-awareness_NN and_CC IDREF-awareness_NN ,_, so_IN it_PRP can_MD be_VB used_VBN to_TO exploit_VB inheritance_NN hierarchies_NNS defined_VBN in_IN one_CD or_CC more_JJR XML_NN schemas_NNS ._.

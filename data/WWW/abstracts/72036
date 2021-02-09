@@ -1,0 +1,8 @@
+A_DT flexible_JJ learning_NN system_NN for_IN wrapping_VBG tables_NNS and_CC lists_NNS in_IN HTML_NNP documents_NNS
+A_DT program_NN that_WDT makes_VBZ an_DT existing_VBG website_NN look_NN like_IN a_DT database_NN is_VBZ called_VBN a_DT wrapper_NN ._.
+Wrapper_NN learning_NN is_VBZ the_DT problem_NN of_IN learning_VBG website_NN wrappers_NNS from_IN examples_NNS ._.
+We_PRP present_VBP a_DT wrapper-learning_JJ system_NN called_VBN WL2_NN that_WDT can_MD exploit_VB several_JJ different_JJ representations_NNS of_IN a_DT document_NN ._.
+Examples_NNS of_IN such_JJ different_JJ representations_NNS include_VBP DOM-level_JJ and_CC token-level_JJ representations_NNS ,_, as_RB well_RB as_IN two-dimensional_JJ geometric_JJ views_NNS of_IN the_DT rendered_VBN page_NN -LRB-_-LRB- for_IN tabular_JJ data_NNS -RRB-_-RRB- and_CC representations_NNS of_IN the_DT visual_JJ appearance_NN of_IN text_NN asm_NN it_PRP will_MD be_VB rendered_VBN ._.
+Additionally_RB ,_, the_DT learning_NN system_NN is_VBZ modular_JJ ,_, and_CC can_MD be_VB easily_RB adapted_VBN to_TO new_JJ domains_NNS and_CC tasks_NNS ._.
+The_DT learning_NN system_NN described_VBN is_VBZ part_NN of_IN an_DT ``_`` industrial-strength_JJ ''_'' wrapper_NN management_NN system_NN that_WDT is_VBZ in_IN active_JJ use_NN at_IN WhizBang_NNP Labs_NNPS ._.
+Controlled_VBN experiments_NNS show_VBP that_IN the_DT learner_NN has_VBZ broader_JJR coverage_NN and_CC a_DT faster_JJR learning_NN rate_NN than_IN earlier_JJR wrapper-learning_JJ systems_NNS ._.

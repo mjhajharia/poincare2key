@@ -1,0 +1,7 @@
+Non-intrusive_JJ monitoring_NN and_CC service_NN adaptation_NN for_IN WS-BPEL_NN
+Web_NN service_NN processes_NNS currently_RB lack_VBP monitoring_NN and_CC dynamic_NN -LRB-_-LRB- runtime_NN -RRB-_-RRB- adaptation_NN mechanisms_NNS ._.
+In_IN highly_RB dynamic_JJ processes_NNS ,_, services_NNS frequently_RB need_VBP to_TO be_VB exchanged_VBN due_JJ to_TO a_DT variety_NN of_IN reasons_NNS ._.
+In_IN this_DT paper_NN we_PRP present_VBP VieDAME_NN ,_, a_DT system_NN which_WDT allows_VBZ monitoring_NN of_IN BPEL_NN processes_NNS according_VBG to_TO Quality_NNP of_IN Service_NNP -LRB-_-LRB- QoS_NN -RRB-_-RRB- attributes_NNS and_CC replacement_NN of_IN existing_VBG partner_NN services_NNS based_VBN on_IN various_JJ -LRB-_-LRB- pluggable_JJ -RRB-_-RRB- replacement_NN strategies_NNS ._.
+The_DT chosen_JJ replacement_NN services_NNS can_MD be_VB syntactically_RB or_CC semantically_RB equivalent_JJ to_TO the_DT BPEL_NNP interface_NN ._.
+Services_NNP can_MD be_VB automatically_RB replaced_VBN during_IN runtime_NN without_IN any_DT downtime_NN of_IN the_DT overall_JJ system_NN ._.
+We_PRP implemented_VBD our_PRP$ solution_NN with_IN an_DT aspect-oriented_JJ approach_NN by_IN intercepting_VBG SOAP_NN messages_NNS and_CC allow_VB services_NNS to_TO be_VB exchanged_VBN during_IN runtime_NN with_IN little_JJ performance_NN penalty_NN costs_NNS ,_, as_IN shown_VBN in_IN our_PRP$ experiments_NNS ,_, thereby_RB making_VBG our_PRP$ approach_NN suitable_JJ for_IN high-availability_JJ BPEL_NN environments_NNS ._.

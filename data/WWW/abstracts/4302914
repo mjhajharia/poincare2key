@@ -1,0 +1,6 @@
+Page-level_JJ template_NN detection_NN via_IN isotonic_JJ smoothing_NN
+We_PRP develop_VBP a_DT novel_JJ framework_NN for_IN the_DT page-level_JJ template_NN detection_NN problem_NN ._.
+Our_PRP$ framework_NN is_VBZ built_VBN on_IN two_CD main_JJ ideas_NNS ._.
+The_DT first_JJ is_VBZ theautomatic_JJ generation_NN of_IN training_NN data_NNS for_IN a_DT classifier_NN that_IN ,_, given_VBN apage_NN ,_, assigns_VBZ a_DT templateness_NN score_NN to_TO every_DT DOM_NNP node_NN of_IN the_DT page_NN ._.
+The_DT second_JJ is_VBZ the_DT global_JJ smoothing_NN of_IN these_DT per-node_JJ classifier_NN scores_NNS bysolving_VBG a_DT regularized_VBN isotonic_JJ regression_NN problem_NN ;_: the_DT latter_NN follows_VBZ from_IN a_DT simple_NN yet_RB powerful_JJ abstraction_NN of_IN templateness_NN on_IN a_DT page_NN ._.
+Our_PRP$ extensive_JJ experiments_NNS on_IN human-labeled_JJ test_NN data_NNS show_VBP that_IN our_PRP$ approachdetects_NNS templates_NNS effectively_RB ._.

@@ -1,0 +1,5 @@
+A_DT DEA_NNP approach_NN for_IN model_NN combination_NN
+This_DT paper_NN proposes_VBZ a_DT novel_JJ Data_NNP Envelopment_NNP Analysis_NNP -LRB-_-LRB- DEA_NNP -RRB-_-RRB- based_VBN approach_NN for_IN model_NN combination_NN ._.
+We_PRP first_RB prove_VBP that_IN for_IN the_DT 2-class_JJ classification_NN problems_NNS DEA_NNP models_NNS identify_VBP the_DT same_JJ convex_NN hull_NN as_IN the_DT popular_JJ ROC_NN analysis_NN used_VBN for_IN model_NN combination_NN ._.
+For_IN general_JJ k-class_NN classifiers_NNS ,_, we_PRP then_RB develop_VBP a_DT DEA-based_JJ method_NN to_TO combine_VB multiple_JJ classifiers_NNS ._.
+Experiments_NNS show_VBP that_IN the_DT method_NN outperforms_VBZ other_JJ benchmark_JJ methods_NNS and_CC suggest_VBP that_IN DEA_NNP can_MD be_VB a_DT promising_JJ tool_NN for_IN model_NN combination_NN ._.

@@ -1,0 +1,5 @@
+Fluid_NN annotations_NNS through_IN open_JJ hypermedia_NN :_: using_VBG and_CC extending_VBG emerging_VBG web_NN standards_NNS
+The_DT Fluid_NNP Documents_NNS project_NN has_VBZ developed_VBN various_JJ research_NN prototypes_NNS that_WDT show_VBP that_IN powerful_JJ annotation_NN techniques_NNS based_VBN on_IN animated_JJ typographical_JJ changes_NNS can_MD help_VB readers_NNS utilize_VB annotations_NNS more_RBR effectively_RB ._.
+Our_PRP$ recently-developed_JJ Fluid_NNP Open_NNP Hypermedia_NNP prototype_NN supports_VBZ the_DT authoring_NN and_CC browsing_NN of_IN fluid_NN annotations_NNS on_IN third-party_JJ Web_NN pages_NNS ._.
+This_DT prototype_NN is_VBZ an_DT extension_NN of_IN the_DT Arakne_NNP Environment_NNP ,_, an_DT open_JJ hypermedia_NN application_NN that_WDT can_MD augment_VB Web_NN pages_NNS with_IN externally_RB stored_VBN hypermedia_NN structures_NNS ._.
+This_DT paper_NN describes_VBZ how_WRB various_JJ Web_NN standards_NNS ,_, including_VBG DOM_NNP ,_, CSS_NNP ,_, XLink_NN ,_, XPointer_NN ,_, and_CC RDF_NNP ,_, can_MD be_VB used_VBN and_CC extended_VBN to_TO support_VB fluid_NN annotations_NNS ._.

@@ -1,0 +1,13 @@
+Measuring_VBG the_DT web_NN crawler_NN ethics_NNS
+Web_NN crawlers_NNS are_VBP highly_RB automated_JJ and_CC seldom_RB regulated_VBN manually_RB ._.
+The_DT diversity_NN of_IN crawler_NN activities_NNS often_RB leads_VBZ to_TO ethical_JJ problems_NNS such_JJ as_IN spam_NN and_CC service_NN attacks_NNS ._.
+In_IN this_DT research_NN ,_, quantitative_JJ models_NNS are_VBP proposed_VBN to_TO measure_VB the_DT web_NN crawler_NN ethics_NNS based_VBN on_IN their_PRP$ behaviors_NNS on_IN web_NN servers_NNS ._.
+We_PRP investigate_VBP and_CC define_VBP rules_NNS to_TO measure_VB crawler_NN ethics_NNS ,_, referring_VBG to_TO the_DT extent_NN to_TO which_WDT web_NN crawlers_NNS respect_VBP the_DT regulations_NNS set_VBN forth_RB in_IN robots_NNS ._.
+txt_NN configuration_NN files_NNS ._.
+We_PRP propose_VBP a_DT vector_NN space_NN model_NN to_TO represent_VB crawler_NN behavior_NN and_CC measure_VB the_DT ethics_NNS of_IN web_NN crawlers_NNS based_VBN on_IN the_DT behavior_NN vectors_NNS ._.
+The_DT results_NNS show_VBP that_IN ethicality_NN scores_NNS vary_VBP significantly_RB among_IN crawlers_NNS ._.
+Most_RBS commercial_JJ web_NN crawlers_NNS '_POS behaviors_NNS are_VBP ethical_JJ ._.
+However_RB ,_, many_JJ commercial_JJ crawlers_NNS still_RB consistently_RB violate_VB or_CC misinterpret_VB certain_JJ robots_NNS ._.
+txt_NN rules_NNS ._.
+We_PRP also_RB measure_VBP the_DT ethics_NNS of_IN big_JJ search_NN engine_NN crawlers_NNS in_IN terms_NNS of_IN return_NN on_IN investment_NN ._.
+The_DT results_NNS show_VBP that_IN Google_NNP has_VBZ a_DT higher_JJR score_NN than_IN other_JJ search_NN engines_NNS for_IN a_DT US_NNP website_NN but_CC has_VBZ a_DT lower_JJR score_NN than_IN Baidu_NNP for_IN Chinese_JJ websites_NNS ._.

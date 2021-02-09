@@ -1,0 +1,8 @@
+XVM_NNP :_: a_DT bridge_NN between_IN xml_NN data_NNS and_CC its_PRP$ behavior_NN
+XML_NN has_VBZ become_VBN one_CD of_IN the_DT core_NN technologies_NNS for_IN contemporary_JJ business_NN applications_NNS ,_, especially_RB web-based_JJ applications_NNS ._.
+To_TO facilitate_VB processing_NN of_IN diverse_JJ XML_NN data_NNS ,_, we_PRP propose_VBP an_DT extensible_JJ ,_, integrated_JJ XML_NN processing_NN architecture_NN ,_, the_DT XML_NN Virtual_JJ Machine_NN -LRB-_-LRB- XVM_NN -RRB-_-RRB- ,_, which_WDT connects_VBZ XML_NN data_NNS with_IN their_PRP$ behaviors_NNS ._.
+At_IN the_DT same_JJ time_NN ,_, the_DT XVM_NNP is_VBZ also_RB a_DT framework_NN for_IN developing_VBG and_CC deploying_VBG XML-based_JJ applications_NNS ._.
+Using_VBG component-based_JJ techniques_NNS ,_, the_DT XVM_NNP supports_VBZ arbitrary_JJ granularity_NN and_CC provides_VBZ a_DT high_JJ degree_NN of_IN modularity_NN and_CC reusability_NN ._.
+XVM_NN components_NNS are_VBP dynamically_RB loaded_VBN and_CC composed_VBN during_IN XML_NN data_NNS processing_NN ._.
+Using_VBG the_DT XVM_NN ,_, both_CC client-side_JJ and_CC server-side_JJ XML_NN applications_NNS can_MD be_VB developed_VBN and_CC deployed_VBN in_IN an_DT integrated_VBN way_NN ._.
+We_PRP also_RB present_VBP an_DT XML_NN application_NN container_NN built_VBN on_IN top_NN of_IN the_DT XVM_NN along_IN with_IN several_JJ sample_NN applications_NNS to_TO demonstrate_VB the_DT applicability_NN of_IN the_DT XVM_NNP framework_NN ._.

@@ -1,0 +1,7 @@
+Influence_NN and_CC passivity_NN in_IN social_JJ media_NNS
+The_DT ever-increasing_JJ amount_NN of_IN information_NN flowing_VBG through_IN Social_NNP Media_NNP forces_VBZ the_DT members_NNS of_IN these_DT networks_NNS to_TO compete_VB for_IN attention_NN and_CC influence_NN by_IN relying_VBG on_IN other_JJ people_NNS to_TO spread_VB their_PRP$ message_NN ._.
+A_DT large_JJ study_NN of_IN information_NN propagation_NN within_IN Twitter_NNP reveals_VBZ that_IN the_DT majority_NN of_IN users_NNS act_VBP as_IN passive_JJ information_NN consumers_NNS and_CC do_VBP not_RB forward_RB the_DT content_NN to_TO the_DT network_NN ._.
+Therefore_RB ,_, in_IN order_NN for_IN individuals_NNS to_TO become_VB influential_JJ they_PRP must_MD not_RB only_RB obtain_VB attention_NN and_CC thus_RB be_VB popular_JJ ,_, but_CC also_RB overcome_VBD user_NN passivity_NN ._.
+We_PRP propose_VBP an_DT algorithm_NN that_WDT determines_VBZ the_DT influence_NN and_CC passivity_NN of_IN users_NNS based_VBN on_IN their_PRP$ information_NN forwarding_NN activity_NN ._.
+An_DT evaluation_NN performed_VBN with_IN a_DT 2.5_CD million_CD user_NN dataset_NN shows_VBZ that_IN our_PRP$ influence_NN measure_NN is_VBZ a_DT good_JJ predictor_NN of_IN URL_NN clicks_NNS ,_, outperforming_VBG several_JJ other_JJ measures_NNS that_WDT do_VBP not_RB explicitly_RB take_VB user_NN passivity_NN into_IN account_NN ._.
+We_PRP demonstrate_VBP that_IN high_JJ popularity_NN does_VBZ not_RB necessarily_RB imply_VB high_JJ influence_NN and_CC vice-versa_NN ._.

@@ -1,0 +1,9 @@
+Searching_NN with_IN numbers_NNS
+A_DT large_JJ fraction_NN of_IN the_DT useful_JJ web_NN comprises_VBZ of_IN specification_NN documents_NNS that_WDT largely_RB consist_VBP of_IN hattribute_NN name_NN ,_, numeric_JJ valuei_NN pairs_NNS embedded_VBN in_IN text_NN ._.
+Examples_NNS include_VBP product_NN information_NN ,_, classified_JJ advertisements_NNS ,_, resumes_NNS ,_, etc._FW ._.
+The_DT approach_NN taken_VBN in_IN the_DT past_NN to_TO search_VB these_DT documents_NNS by_IN first_JJ establishing_VBG correspondences_NNS between_IN values_NNS and_CC their_PRP$ names_NNS has_VBZ achieved_VBN limited_JJ success_NN because_IN of_IN the_DT difficulty_NN of_IN extracting_VBG this_DT information_NN from_IN free_JJ text_NN ._.
+We_PRP propose_VBP a_DT new_JJ approach_NN that_WDT does_VBZ not_RB require_VB this_DT correspondence_NN to_TO be_VB accurately_RB established_VBN ._.
+Provided_VBN the_DT data_NN has_VBZ ``_`` low_JJ reflectivity_NN ''_'' ,_, we_PRP can_MD do_VB effective_JJ search_NN even_RB if_IN the_DT values_NNS in_IN the_DT data_NNS have_VBP not_RB been_VBN assigned_VBN attribute_NN names_NNS and_CC the_DT user_NN has_VBZ omitted_VBN attribute_NN names_NNS in_IN the_DT query_NN ._.
+We_PRP give_VBP algorithms_NNS and_CC indexing_NN structures_NNS for_IN implementing_VBG the_DT search_NN ._.
+We_PRP also_RB show_VBP how_WRB hints_NNS -LRB-_-LRB- i._NN e_SYM ,_, imprecise_JJ ,_, partial_JJ correspondences_NNS -RRB-_-RRB- from_IN automatic_JJ data_NNS extraction_NN techniques_NNS can_MD be_VB incorporated_VBN into_IN our_PRP$ approach_NN for_IN better_JJR accuracy_NN on_IN high_JJ reflectivity_NN datasets_NNS ._.
+Finally_RB ,_, we_PRP validate_VBP our_PRP$ approach_NN by_IN showing_VBG that_IN we_PRP get_VBP high_JJ precision_NN in_IN our_PRP$ answers_NNS on_IN real_JJ datasets_NNS from_IN a_DT variety_NN of_IN domains_NNS ._.

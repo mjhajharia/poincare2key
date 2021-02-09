@@ -1,0 +1,6 @@
+Discovering_VBG the_DT staring_VBG people_NNS from_IN social_JJ networks_NNS
+In_IN this_DT paper_NN ,_, we_PRP study_VBD a_DT novel_JJ problem_NN of_IN staring_VBG people_NNS discovery_NN from_IN social_JJ networks_NNS ,_, which_WDT is_VBZ concerned_VBN with_IN finding_VBG people_NNS who_WP are_VBP not_RB only_RB authoritative_JJ but_CC also_RB sociable_JJ in_IN the_DT social_JJ network_NN ._.
+We_PRP formalize_VBP this_DT problem_NN as_IN an_DT optimization_NN programming_NN problem_NN ._.
+Taking_VBG the_DT co-author_NN network_NN as_IN a_DT case_NN study_NN ,_, we_PRP define_VBP three_CD objective_JJ functions_NNS and_CC propose_VBP two_CD methods_NNS to_TO combine_VB these_DT objective_JJ functions_NNS ._.
+A_DT genetic_JJ algorithm_NN based_VBN method_NN is_VBZ further_RB presented_VBN to_TO solve_VB this_DT problem_NN ._.
+Experimental_JJ results_NNS show_VBP that_IN the_DT proposed_VBN solution_NN can_MD effectively_RB find_VB the_DT staring_VBG people_NNS from_IN social_JJ networks_NNS ._.

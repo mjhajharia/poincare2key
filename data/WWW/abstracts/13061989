@@ -1,0 +1,10 @@
+Learning_NNP to_TO model_VB relatedness_NN for_IN news_NN recommendation_NN
+With_IN the_DT explosive_JJ growth_NN of_IN online_JJ news_NN readership_NN ,_, recommending_VBG interesting_JJ news_NN articles_NNS to_TO users_NNS has_VBZ become_VBN extremely_RB important_JJ ._.
+While_IN existing_VBG Web_NN services_NNS such_JJ as_IN Yahoo_NNP !_.
+and_CC Digg_NNP attract_VBP users_NNS '_POS initial_JJ clicks_NNS by_IN leveraging_VBG various_JJ kinds_NNS of_IN signals_NNS ,_, how_WRB to_TO engage_VB such_JJ users_NNS algorithmically_RB after_IN their_PRP$ initial_JJ visit_NN is_VBZ largely_RB under-explored_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT problem_NN of_IN post-click_JJ news_NN recommendation_NN ._.
+Given_VBN that_IN a_DT user_NN has_VBZ perused_VBN a_DT current_JJ news_NN article_NN ,_, our_PRP$ idea_NN is_VBZ to_TO automatically_RB identify_VB ``_`` related_JJ ''_'' news_NN articles_NNS which_WDT the_DT user_NN would_MD like_VB to_TO read_VB afterwards_RB ._.
+Specifically_RB ,_, we_PRP propose_VBP to_TO characterize_VB relatedness_NN between_IN news_NN articles_NNS across_IN four_CD aspects_NNS :_: relevance_NN ,_, novelty_NN ,_, connection_NN clarity_NN ,_, and_CC transition_NN smoothness_NN ._.
+Motivated_VBN by_IN this_DT understanding_NN ,_, we_PRP define_VBP a_DT set_NN of_IN features_NNS to_TO capture_VB each_DT of_IN these_DT aspects_NNS and_CC put_VBD forward_RB a_DT learning_VBG approach_NN to_TO model_NN relatedness_NN ._.
+In_IN order_NN to_TO quantitatively_RB evaluate_VB our_PRP$ proposed_VBN measures_NNS and_CC learn_VB a_DT unified_JJ relatedness_NN function_NN ,_, we_PRP construct_VBP a_DT large_JJ test_NN collection_NN based_VBN on_IN a_DT four-month_JJ commercial_JJ news_NN corpus_NN with_IN editorial_NN judgments_NNS ._.
+The_DT experimental_JJ results_NNS show_VBP that_IN the_DT proposed_VBN heuristics_NNS can_MD indeed_RB capture_VB relatedness_NN ,_, and_CC that_IN the_DT learned_VBN unified_JJ relatedness_NN function_NN works_VBZ quite_RB effectively_RB ._.

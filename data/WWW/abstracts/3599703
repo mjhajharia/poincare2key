@@ -1,0 +1,8 @@
+TruRank_NNP :_: taking_VBG PageRank_NNP to_TO the_DT limit_NN
+PageRank_NN is_VBZ defined_VBN as_IN the_DT stationary_JJ state_NN of_IN a_DT Markov_NNP chain_NN depending_VBG on_IN a_DT damping_VBG factor_NN α_NN that_WDT spreads_VBZ uniformly_RB part_NN of_IN the_DT rank_NN ._.
+The_DT choice_NN of_IN α_NN is_VBZ eminently_RB empirical_JJ ,_, and_CC in_IN most_JJS cases_NNS the_DT original_JJ suggestion_NN α_NN =_JJ 0.85_CD by_IN Brin_NNP and_CC Page_NNP is_VBZ still_RB used_VBN ._.
+It_PRP is_VBZ common_JJ belief_NN that_IN values_NNS of_IN α_NN closer_RBR to_TO 1_CD give_VB a_DT ``_`` truer_NN to_TO the_DT web_NN ''_'' PageRank_NN ,_, but_CC a_DT small_JJ α_NN accelerates_VBZ convergence_NN ._.
+Recently_RB ,_, however_RB ,_, it_PRP has_VBZ been_VBN shown_VBN that_IN when_WRB α_NN =_JJ 1_CD all_DT pages_NNS in_IN the_DT core_NN component_NN are_VBP very_RB likely_JJ to_TO have_VB rank_NN 0_CD -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+This_DT behavior_NN makes_VBZ it_PRP difficult_JJ to_TO understand_VB PageRank_NNP when_WRB α_FW ≈_FW 1_CD ,_, as_IN it_PRP converges_VBZ to_TO a_DT meaningless_JJ value_NN for_IN most_JJS pages_NNS ._.
+We_PRP propose_VBP a_DT simple_JJ and_CC natural_JJ modification_NN to_TO the_DT standard_JJ preprocessing_NN performed_VBN on_IN the_DT adjacency_NN matrix_NN of_IN the_DT graph_NN ,_, resulting_VBG in_IN a_DT ranking_JJ scheme_NN we_PRP call_VBP TruRank_NNP ._.
+TruRank_NNP ranks_VBZ the_DT web_NN with_IN principles_NNS almost_RB identical_JJ to_TO PageRank_NNP ,_, but_CC it_PRP gives_VBZ meaningful_JJ values_NNS also_RB when_WRB α_FW ☰_FW 1_CD ._.

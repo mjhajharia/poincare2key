@@ -1,0 +1,9 @@
+A_DT foundation_NN for_IN tool_NN based_JJ mobility_NN support_NN for_IN visually_RB impaired_JJ web_NN users_NNS
+Users_NNS make_VBP journeys_NNS through_IN the_DT Web_NN ._.
+Web_NN travel_NN encompasses_VBZ the_DT tasks_NNS of_IN orientation_NN and_CC navigation_NN ,_, the_DT environment_NN and_CC the_DT purpose_NN of_IN the_DT journey_NN ._.
+The_DT ease_NN of_IN travel_NN ,_, its_PRP$ mobility_NN ,_, varies_VBZ from_IN page_NN to_TO page_NN and_CC site_NN to_TO site_NN ._.
+For_IN visually_RB impaired_JJ users_NNS ,_, in_IN particular_JJ ,_, mobility_NN is_VBZ reduced_VBN ;_: the_DT objects_NNS that_WDT support_VBP travel_NN are_VBP inaccessible_JJ or_CC missing_VBG altogether_RB ._.
+Web_NN development_NN tools_NNS need_VBP to_TO include_VB support_NN to_TO increase_VB mobility_NN ._.
+We_PRP present_VBP a_DT framework_NN for_IN finding_VBG and_CC classifying_VBG travel_NN objects_NNS within_IN Web_NN pages_NNS ._.
+The_DT evaluation_NN carried_VBD out_RP has_VBZ shown_VBN that_IN this_DT framework_NN supports_VBZ a_DT systematic_JJ and_CC consistent_JJ method_NN for_IN assessing_VBG travel_NN upon_IN the_DT Web_NN ._.
+We_PRP propose_VBP that_IN such_PDT a_DT framework_NN can_MD provide_VB the_DT foundation_NN for_IN a_DT semi-automated_JJ tool_NN for_IN the_DT support_NN of_IN travel_NN upon_IN the_DT Web_NN ._.

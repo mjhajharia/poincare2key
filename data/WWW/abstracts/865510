@@ -1,0 +1,8 @@
+The_DT volume_NN and_CC evolution_NN of_IN web_NN page_NN templates_NNS
+Web_NN pages_NNS contain_VBP a_DT combination_NN of_IN unique_JJ content_NN and_CC template_NN material_NN ,_, which_WDT is_VBZ present_JJ across_IN multiple_JJ pages_NNS and_CC used_VBN primarily_RB for_IN formatting_NN ,_, navigation_NN ,_, and_CC branding_NN ._.
+We_PRP study_VBD the_DT nature_NN ,_, evolution_NN ,_, and_CC prevalence_NN of_IN these_DT templates_NNS on_IN the_DT web_NN ._.
+As_IN part_NN of_IN this_DT work_NN ,_, we_PRP develop_VBP new_JJ randomized_VBN algorithms_NNS for_IN template_NN extraction_NN that_WDT perform_VBP approximately_RB twenty_CD times_NNS faster_RBR than_IN existing_VBG approaches_NNS with_IN similar_JJ quality_NN ._.
+Our_PRP$ results_NNS show_VBP that_IN 40_CD --_: 50_CD %_NN of_IN the_DT content_NN on_IN the_DT web_NN is_VBZ template_NN content_NN ._.
+Over_IN the_DT last_JJ eight_CD years_NNS ,_, the_DT fraction_NN of_IN template_NN content_NN has_VBZ doubled_VBN ,_, and_CC the_DT growth_NN shows_VBZ no_DT sign_NN of_IN abating_VBG ._.
+Text_NN ,_, links_NNS ,_, and_CC total_JJ HTML_NNP bytes_NNS within_IN templates_NNS are_VBP all_DT growing_VBG as_IN a_DT fraction_NN of_IN total_JJ content_NN at_IN a_DT rate_NN of_IN between_IN 6_CD and_CC 8_CD %_NN per_IN year_NN ._.
+We_PRP discuss_VBP the_DT deleterious_JJ implications_NNS of_IN this_DT growth_NN for_IN information_NN retrieval_NN and_CC ranking_NN ,_, classification_NN ,_, and_CC link_NN analysis_NN ._.

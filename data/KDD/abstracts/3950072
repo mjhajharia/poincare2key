@@ -1,0 +1,14 @@
+Efficient_JJ mining_NN of_IN iterative_JJ patterns_NNS for_IN software_NN specification_NN discovery_NN
+Studies_NNS have_VBP shown_VBN that_IN program_NN comprehension_NN takes_VBZ up_RP to_TO 45_CD %_NN of_IN software_NN development_NN costs_NNS ._.
+Such_JJ high_JJ costs_NNS are_VBP caused_VBN by_IN the_DT lack-of_JJ documented_JJ specification_NN and_CC further_RB aggravated_VBN by_IN the_DT phenomenon_NN of_IN software_NN evolution_NN ._.
+There_EX is_VBZ a_DT need_NN for_IN automated_JJ tools_NNS to_TO extract_VB specifications_NNS to_TO aid_VB program_NN comprehension_NN ._.
+In_IN this_DT paper_NN ,_, a_DT novel_JJ technique_NN to_TO efficiently_RB mine_VB common_JJ software_NN temporal_JJ patterns_NNS from_IN traces_NNS is_VBZ proposed_VBN ._.
+These_DT patterns_NNS shed_VBP light_NN on_IN program_NN behaviors_NNS ,_, and_CC are_VBP termed_VBN iterative_JJ patterns_NNS ._.
+They_PRP capture_VBP unique_JJ characteristic_NN of_IN software_NN traces_NNS ,_, typically_RB not_RB found_VBN in_IN arbitrary_JJ sequences_NNS ._.
+Specifically_RB ,_, due_JJ to_TO loops_NNS ,_, interesting_JJ iterative_JJ patterns_NNS can_MD occur_VB multiple_JJ times_NNS within_IN a_DT trace_NN ._.
+Furthermore_RB ,_, an_DT occurrence_NN of_IN an_DT iterative_JJ pattern_NN in_IN a_DT trace_NN can_MD extend_VB across_IN a_DT sequence_NN of_IN indefinite_JJ length_NN ._.
+Since_IN a_DT program_NN behavior_NN can_MD be_VB manifested_VBN in_IN numerous_JJ ways_NNS ,_, analyzing_VBG a_DT single_JJ trace_NN will_MD not_RB be_VB sufficient_JJ ._.
+Iterative_JJ pattern_NN mining_NN extends_VBZ sequential_JJ pattern_NN and_CC episode_NN minings_NNS to_TO discover_VB frequent_JJ iterative_JJ patterns_NNS which_WDT occur_VBP repetitively_RB both_DT within_IN a_DT program_NN trace_NN and_CC across_IN multiple_JJ traces_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP CLIPER_NN -LRB-_-LRB- CLosed_VBN Iterative_JJ Pattern_NN minER_NN -RRB-_-RRB- to_TO efficiently_RB mine_VB a_DT closed_JJ set_NN of_IN iterative_JJ patterns_NNS ._.
+A_DT performance_NN study_NN on_IN several_JJ simulated_JJ and_CC real_JJ datasets_NNS shows_VBZ the_DT efficiency_NN of_IN our_PRP$ mining_NN algorithm_NN and_CC effectiveness_NN of_IN our_PRP$ pruning_NN strategy_NN ._.
+Our_PRP$ case_NN study_NN on_IN JBoss_NN Application_NN Server_NN confirms_VBZ the_DT usefulness_NN of_IN mined_VBN patterns_NNS in_IN discovering_VBG interesting_JJ software_NN behavioral_JJ specification_NN ._.

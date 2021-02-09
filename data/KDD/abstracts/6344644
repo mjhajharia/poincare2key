@@ -1,0 +1,7 @@
+Classification_NN features_NNS for_IN attack_NN detection_NN in_IN collaborative_JJ recommender_NN systems_NNS
+Collaborative_JJ recommender_NN systems_NNS are_VBP highly_RB vulnerable_JJ to_TO attack_NN ._.
+Attackers_NNS can_MD use_VB automated_JJ means_NNS to_TO inject_VB a_DT large_JJ number_NN of_IN biased_VBN profiles_NNS into_IN such_PDT a_DT system_NN ,_, resulting_VBG in_IN recommendations_NNS that_WDT favor_VBP or_CC disfavor_NN given_VBN items_NNS ._.
+Since_IN collaborative_JJ recommender_NN systems_NNS must_MD be_VB open_JJ to_TO user_NN input_NN ,_, it_PRP is_VBZ difficult_JJ to_TO design_VB a_DT system_NN that_WDT can_MD not_RB be_VB so_RB attacked_VBN ._.
+Researchers_NNS studying_VBG robust_JJ recommendation_NN have_VBP therefore_RB begun_VBN to_TO identify_VB types_NNS of_IN attacks_NNS and_CC study_NN mechanisms_NNS for_IN recognizing_VBG and_CC defeating_VBG them_PRP ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP and_CC study_VBP different_JJ attributes_NNS derived_VBN from_IN user_NN profiles_NNS for_IN their_PRP$ utility_NN in_IN attack_NN detection_NN ._.
+We_PRP show_VBP that_IN a_DT machine_NN learning_NN classification_NN approach_NN that_WDT includes_VBZ attributes_NNS derived_VBN from_IN attack_NN models_NNS is_VBZ more_RBR successful_JJ than_IN more_RBR generalized_JJ detection_NN algorithms_NNS previously_RB studied_VBN ._.

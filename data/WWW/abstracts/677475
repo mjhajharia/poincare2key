@@ -1,0 +1,7 @@
+Constructing_VBG virtual_JJ documents_NNS for_IN ontology_NN matching_NN
+On_IN the_DT investigation_NN of_IN linguistic_JJ techniques_NNS used_VBN in_IN ontology_NN matching_NN ,_, we_PRP propose_VBP a_DT new_JJ idea_NN of_IN virtual_JJ documents_NNS to_TO pursue_VB a_DT cost-effective_JJ approach_NN to_TO linguistic_JJ matching_NN in_IN this_DT paper_NN ._.
+Basically_RB ,_, as_IN a_DT collection_NN of_IN weighted_JJ words_NNS ,_, the_DT virtual_JJ document_NN of_IN a_DT URIref_NN declared_VBD in_IN an_DT ontology_NN contains_VBZ not_RB only_RB the_DT local_JJ descriptions_NNS but_CC also_RB the_DT neighboring_VBG information_NN to_TO reflect_VB the_DT intended_JJ meaning_NN of_IN the_DT URIref_NN ._.
+Document_NNP similarity_NN can_MD be_VB computed_VBN by_IN traditional_JJ vector_NN space_NN techniques_NNS ,_, and_CC then_RB be_VB used_VBN in_IN the_DT similarity-based_JJ approaches_NNS to_TO ontology_JJ matching_NN ._.
+In_IN particular_JJ ,_, the_DT RDF_NNP graph_NN structure_NN is_VBZ exploited_VBN to_TO define_VB the_DT description_NN formulations_NNS and_CC the_DT neighboring_JJ operations_NNS ._.
+Experimental_JJ results_NNS show_VBP that_IN linguistic_JJ matching_NN based_VBN on_IN the_DT virtual_JJ documents_NNS is_VBZ dominant_JJ in_IN average_JJ F-Measure_NN as_IN compared_VBN to_TO other_JJ three_CD approaches_NNS ._.
+It_PRP is_VBZ also_RB demonstrated_VBN by_IN our_PRP$ experiments_NNS that_IN the_DT virtual_JJ documents_NNS approach_NN is_VBZ cost-effective_JJ as_IN compared_VBN to_TO other_JJ linguistic_JJ matching_JJ approaches_NNS ._.

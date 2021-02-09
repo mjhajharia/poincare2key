@@ -1,0 +1,4 @@
+Analyzing_VBG client_NN interactivity_NN in_IN streaming_NN media_NNS
+This_DT paper_NN provides_VBZ an_DT extensive_JJ analysis_NN of_IN pre-stored_JJ streaming_NN media_NNS workloads_NNS ,_, focusing_VBG on_IN the_DT client_NN interactive_JJ behavior_NN ._.
+We_PRP analyze_VBP four_CD workloads_NNS that_WDT fall_VBP into_IN three_CD different_JJ domains_NNS ,_, namely_RB ,_, education_NN ,_, entertainment_NN video_NN and_CC entertainment_NN audio_NN ._.
+Our_PRP$ main_JJ goals_NNS are_VBP :_: -LRB-_-LRB- a_LS -RRB-_-RRB- to_TO identify_VB qualitative_JJ similarities_NNS and_CC differences_NNS in_IN the_DT typical_JJ client_NN behavior_NN for_IN the_DT three_CD workload_NN classes_NNS and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- to_TO provide_VB data_NNS for_IN generating_VBG realistic_JJ synthetic_JJ workloads_NNS ._.

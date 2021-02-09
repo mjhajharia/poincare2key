@@ -1,0 +1,8 @@
+Very_RB sparse_JJ random_JJ projections_NNS
+There_EX has_VBZ been_VBN considerable_JJ interest_NN in_IN random_JJ projections_NNS ,_, an_DT approximate_JJ algorithm_NN for_IN estimating_VBG distances_NNS between_IN pairs_NNS of_IN points_NNS in_IN a_DT high-dimensional_JJ vector_NN space_NN ._.
+Let_VB A_NN in_IN Rn_NN x_NN D_NN be_VB our_PRP$ n_NN points_NNS in_IN D_NN dimensions_NNS ._.
+The_DT method_NN multiplies_VBZ A_NN by_IN a_DT random_JJ matrix_NN R_NN in_IN RD_NN x_NN k_NN ,_, reducing_VBG the_DT D_NN dimensions_NNS down_RB to_TO just_RB k_NN for_IN speeding_VBG up_RP the_DT computation_NN ._.
+R_NN typically_RB consists_VBZ of_IN entries_NNS of_IN standard_JJ normal_JJ N_NN -LRB-_-LRB- 0,1_NN -RRB-_-RRB- ._.
+It_PRP is_VBZ well_RB known_VBN that_IN random_JJ projections_NNS preserve_VBP pairwise_JJ distances_NNS -LRB-_-LRB- in_IN the_DT expectation_NN -RRB-_-RRB- ._.
+Achlioptas_NNS proposed_VBD sparse_JJ random_JJ projections_NNS by_IN replacing_VBG the_DT N_NN -LRB-_-LRB- 0,1_NN -RRB-_-RRB- entries_NNS in_IN R_NN with_IN entries_NNS in_IN -1,0,1_CD with_IN probabilities_NNS 1\/6_CD ,_, 2\/3_CD ,_, 1\/6_CD ,_, achieving_VBG a_DT threefold_JJ speedup_NN in_IN processing_NN time_NN ._.
+We_PRP recommend_VBP using_VBG R_NN of_IN entries_NNS in_IN -1,0,1_CD with_IN probabilities_NNS 1\/2_CD √_NN D_NN ,_, 1-1_CD √_NN D_NN ,_, 1\/2_CD √_NN D_NN for_IN achieving_VBG a_DT significant_JJ √_FW D-fold_FW speedup_NN ,_, with_IN little_JJ loss_NN in_IN accuracy_NN ._.

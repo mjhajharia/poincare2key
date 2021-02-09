@@ -1,0 +1,6 @@
+Mapping_NN XML_NN instances_NNS
+For_IN XML-based_JJ applications_NNS in_IN general_JJ and_CC B2B_NN applications_NNS in_IN particular_JJ ,_, mapping_VBG between_IN differently_RB structured_VBN XML_NN documents_NNS ,_, to_TO enable_VB exchange_NN of_IN data_NNS ,_, is_VBZ a_DT basic_JJ problem_NN ._.
+A_DT generic_JJ solution_NN to_TO the_DT problem_NN is_VBZ of_IN interest_NN and_CC desirable_JJ both_CC in_IN an_DT academic_JJ and_CC practical_JJ sense_NN ._.
+We_PRP present_VBP a_DT case_NN study_NN of_IN the_DT problem_NN that_WDT arises_VBZ in_IN an_DT XML_NN based_JJ project_NN ,_, which_WDT involves_VBZ mapping_NN of_IN different_JJ XML_NN schemas_NNS to_TO each_DT other_JJ ._.
+We_PRP describe_VBP our_PRP$ approach_NN to_TO solving_VBG the_DT problem_NN ,_, its_PRP$ advantages_NNS and_CC limitations_NNS ._.
+We_PRP also_RB compare_VBP and_CC contrast_VBP our_PRP$ approach_NN with_IN previously_RB known_VBN approaches_NNS and_CC commercially_RB available_JJ software_NN solutions_NNS ._.

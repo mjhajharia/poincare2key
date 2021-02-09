@@ -1,0 +1,7 @@
+Similarity_NN measure_NN based_VBN on_IN partial_JJ information_NN of_IN time_NN series_NN
+Similarity_NN measure_NN of_IN time_NN series_NN is_VBZ an_DT important_JJ subroutine_NN in_IN many_JJ KDD_NNP applications_NNS ._.
+Previous_JJ similarity_NN models_NNS mainly_RB focus_VB on_IN the_DT prominent_JJ series_NN behaviors_NNS by_IN considering_VBG the_DT whole_JJ information_NN of_IN time_NN series_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP address_VBP the_DT problem_NN :_: which_WDT portion_NN of_IN information_NN is_VBZ more_RBR suitable_JJ for_IN similarity_NN measure_NN for_IN the_DT data_NNS collected_VBN from_IN a_DT certain_JJ field_NN ._.
+We_PRP propose_VBP a_DT model_NN for_IN the_DT retrieval_NN and_CC representation_NN of_IN the_DT partial_JJ information_NN in_IN time_NN series_NN data_NNS ,_, and_CC a_DT methodology_NN for_IN evaluating_VBG the_DT similarity_NN measurements_NNS based_VBN on_IN partial_JJ information_NN ._.
+The_DT methodology_NN is_VBZ to_TO retrieve_VB various_JJ portions_NNS of_IN information_NN from_IN the_DT raw_JJ data_NNS and_CC represent_VBP it_PRP in_IN a_DT concise_JJ form_NN ,_, then_RB cluster_VB the_DT time_NN series_NN using_VBG the_DT partial_JJ information_NN and_CC evaluate_VB the_DT similarity_NN measurements_NNS through_IN comparing_VBG the_DT results_NNS with_IN a_DT standard_JJ classification_NN ._.
+Experiments_NNS on_IN data_NNS set_VBN from_IN stock_NN market_NN give_VBP some_DT interesting_JJ observations_NNS and_CC justify_VB the_DT usefulness_NN of_IN our_PRP$ approach_NN ._.

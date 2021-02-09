@@ -1,0 +1,8 @@
+Towards_IN content_JJ trust_NN of_IN web_NN resources_NNS
+Trust_NNP is_VBZ an_DT integral_JJ part_NN of_IN the_DT Semantic_JJ Web_NN architecture_NN ._.
+While_IN most_JJS prior_JJ work_NN focuses_VBZ on_IN entity-centered_JJ issues_NNS such_JJ as_IN authentication_NN and_CC reputation_NN ,_, it_PRP does_VBZ not_RB model_VB the_DT content_NN ,_, i.e._FW the_DT nature_NN and_CC use_NN of_IN the_DT information_NN being_VBG exchanged_VBN ._.
+This_DT paper_NN discusses_VBZ content_NN trust_NN as_IN an_DT aggregate_NN of_IN other_JJ trust_NN measures_NNS that_WDT have_VBP been_VBN previously_RB studied_VBN ._.
+The_DT paper_NN introduces_VBZ several_JJ factors_NNS that_IN users_NNS consider_VBP in_IN deciding_VBG whether_IN to_TO trust_VB the_DT content_NN provided_VBN by_IN a_DT Web_NN resource_NN ._.
+Many_JJ of_IN these_DT factors_NNS are_VBP hard_JJ to_TO capture_VB in_IN practice_NN ,_, since_IN they_PRP would_MD require_VB a_DT large_JJ amount_NN of_IN user_NN input_NN ._.
+Our_PRP$ goal_NN is_VBZ to_TO discern_VB which_WDT of_IN these_DT factors_NNS could_MD be_VB captured_VBN in_IN practice_NN with_IN minimal_JJ user_NN interaction_NN in_IN order_NN to_TO maximize_VB the_DT system_NN 's_POS trust_NN estimates_NNS ._.
+The_DT paper_NN also_RB describes_VBZ a_DT simulation_NN environment_NN that_IN we_PRP have_VBP designed_VBN to_TO study_VB alternative_JJ models_NNS of_IN content_NN trust_NN ._.

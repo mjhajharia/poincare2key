@@ -1,0 +1,14 @@
+A_DT refinement_NN approach_NN to_TO handling_NN model_NN misfit_NN in_IN text_NN categorization_NN
+Text_NN categorization_NN or_CC classification_NN is_VBZ the_DT automated_JJ assigning_NN of_IN text_NN documents_NNS to_TO pre-defined_JJ classes_NNS based_VBN on_IN their_PRP$ contents_NNS ._.
+This_DT problem_NN has_VBZ been_VBN studied_VBN in_IN information_NN retrieval_NN ,_, machine_NN learning_NN and_CC data_NN mining_NN ._.
+So_RB far_RB ,_, many_JJ effective_JJ techniques_NNS have_VBP been_VBN proposed_VBN ._.
+However_RB ,_, most_JJS techniques_NNS are_VBP based_VBN on_IN some_DT underlying_VBG models_NNS and\/or_CC assumptions_NNS ._.
+When_WRB the_DT data_NN fits_VBZ the_DT model_NN well_RB ,_, the_DT classification_NN accuracy_NN will_MD be_VB high_JJ ._.
+However_RB ,_, when_WRB the_DT data_NN does_VBZ not_RB fit_VB the_DT model_NN well_RB ,_, the_DT classification_NN accuracy_NN can_MD be_VB very_RB low_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT refinement_NN approach_NN to_TO dealing_VBG with_IN this_DT problem_NN of_IN model_NN misfit_NN ._.
+We_PRP show_VBP that_IN we_PRP do_VBP not_RB need_VB to_TO change_VB the_DT classification_NN technique_NN itself_PRP -LRB-_-LRB- or_CC its_PRP$ underlying_JJ model_NN -RRB-_-RRB- to_TO make_VB it_PRP more_RBR flexible_JJ ._.
+Instead_RB ,_, we_PRP propose_VBP to_TO use_VB successive_JJ refinements_NNS of_IN classification_NN on_IN the_DT training_NN data_NNS to_TO correct_VB the_DT model_NN misfit_NN ._.
+We_PRP apply_VBP the_DT proposed_VBN technique_NN to_TO improve_VB the_DT classification_NN performance_NN of_IN two_CD simple_JJ and_CC efficient_JJ text_NN classifiers_NNS ,_, the_DT Rocchio_NNP classifier_NN and_CC the_DT naïve_JJ Bayesian_JJ classifier_NN ._.
+These_DT techniques_NNS are_VBP suitable_JJ for_IN very_RB large_JJ text_NN collections_NNS because_IN they_PRP allow_VBP the_DT data_NNS to_TO reside_VB on_IN disk_NN and_CC need_VBP only_RB one_CD scan_VB of_IN the_DT data_NNS to_TO build_VB a_DT text_NN classifier_NN ._.
+Extensive_JJ experiments_NNS on_IN two_CD benchmark_JJ document_NN corpora_NN show_VBP that_IN the_DT proposed_VBN technique_NN is_VBZ able_JJ to_TO improve_VB text_NN categorization_NN accuracy_NN of_IN the_DT two_CD techniques_NNS dramatically_RB ._.
+In_IN particular_JJ ,_, our_PRP$ refined_JJ model_NN is_VBZ able_JJ to_TO improve_VB the_DT naïve_JJ Bayesian_NNP or_CC Rocchio_NNP classifier_NN 's_POS prediction_NN performance_NN by_IN 45_CD %_NN on_IN average_NN ._.

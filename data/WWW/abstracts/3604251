@@ -1,0 +1,7 @@
+Identifying_VBG link_NN farm_NN spam_NN pages_NNS
+With_IN the_DT increasing_VBG importance_NN of_IN search_NN in_IN guiding_VBG today_NN 's_POS web_NN traffic_NN ,_, more_JJR and_CC more_JJR effort_NN has_VBZ been_VBN spent_VBN to_TO create_VB search_NN engine_NN spam_NN ._.
+Since_IN link_NN analysis_NN is_VBZ one_CD of_IN the_DT most_RBS important_JJ factors_NNS in_IN current_JJ commercial_JJ search_NN engines_NNS '_POS ranking_NN systems_NNS ,_, new_JJ kinds_NNS of_IN spam_NN aiming_VBG at_IN links_NNS have_VBP appeared_VBN ._.
+Building_NN link_NN farms_NNS is_VBZ one_CD technique_NN that_WDT can_MD deteriorate_VB link-based_JJ ranking_NN algorithms_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP algorithms_NNS for_IN detecting_VBG these_DT link_NN farms_NNS automatically_RB by_IN first_RB generating_VBG a_DT seed_NN set_NN based_VBN on_IN the_DT common_JJ link_NN set_VBN between_IN incoming_JJ and_CC outgoing_JJ links_NNS of_IN Web_NN pages_NNS and_CC then_RB expanding_VBG it_PRP ._.
+Links_NNP between_IN identified_VBN pages_NNS are_VBP re-weighted_JJ ,_, providing_VBG a_DT modified_VBN web_NN graph_NN to_TO use_VB in_IN ranking_JJ page_NN importance_NN ._.
+Experimental_JJ results_NNS show_VBP that_IN we_PRP can_MD identify_VB most_JJS link_NN farm_NN spam_NN pages_NNS and_CC the_DT final_JJ ranking_NN results_NNS are_VBP improved_VBN for_IN almost_RB all_DT tested_VBN queries_NNS ._.

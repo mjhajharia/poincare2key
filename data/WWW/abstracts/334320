@@ -1,0 +1,10 @@
+Globetp_NNP :_: template-based_JJ database_NN replication_NN for_IN scalable_JJ web_NN applications_NNS
+Generic_JJ database_NN replication_NN algorithms_NNS do_VBP not_RB scale_VB linearly_RB in_IN throughput_NN as_IN all_DT update_VBP ,_, deletion_NN and_CC insertion_NN -LRB-_-LRB- UDI_NN -RRB-_-RRB- queries_NNS must_MD be_VB applied_VBN to_TO every_DT database_NN replica_NN ._.
+The_DT throughput_NN is_VBZ therefore_RB limited_VBN to_TO the_DT point_NN where_WRB the_DT number_NN of_IN UDI_NNP queries_NNS alone_RB is_VBZ sufficient_JJ to_TO overload_NN one_CD server_NN ._.
+In_IN such_JJ scenarios_NNS ,_, partial_JJ replication_NN of_IN a_DT database_NN can_MD help_VB ,_, as_IN UDI_NNP queries_NNS are_VBP executed_VBN only_RB by_IN a_DT subset_NN of_IN all_DT servers_NNS ._.
+In_IN this_DT paper_NN we_PRP propose_VBP GlobeTP_NN ,_, a_DT system_NN that_WDT employs_VBZ partial_JJ replication_NN to_TO improve_VB database_NN throughput_NN ._.
+GlobeTP_NN exploits_VBZ the_DT fact_NN that_IN a_DT Web_NN application_NN 's_POS query_NN workload_NN is_VBZ composed_VBN of_IN a_DT small_JJ set_NN of_IN read_NN and_CC write_VB templates_NNS ._.
+Using_VBG knowledge_NN of_IN these_DT templates_NNS and_CC their_PRP$ respective_JJ execution_NN costs_NNS ,_, GlobeTP_NN provides_VBZ database_NN table_NN placements_NNS that_WDT produce_VBP significant_JJ improvements_NNS in_IN database_NN throughput_NN ._.
+We_PRP demonstrate_VBP the_DT efficiency_NN of_IN this_DT technique_NN using_VBG two_CD different_JJ industry_NN standard_NN benchmarks_NNS ._.
+In_IN our_PRP$ experiments_NNS ,_, GlobeTP_NN increases_VBZ the_DT throughput_NN by_IN 57_CD %_NN to_TO 150_CD %_NN compared_VBN to_TO full_JJ replication_NN ,_, while_IN using_VBG identical_JJ hardware_NN configuration_NN ._.
+Furthermore_RB ,_, adding_VBG a_DT single_JJ query_NN cache_NN improves_VBZ the_DT throughput_NN by_IN another_DT 30_CD %_NN to_TO 60_CD %_NN ._.

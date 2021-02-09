@@ -1,0 +1,7 @@
+Budget_NNP constrained_VBD bidding_NN in_IN keyword_JJ auctions_NNS and_CC online_JJ knapsack_NN problems_NNS
+We_PRP consider_VBP the_DT budget-constrained_JJ bidding_NN optimization_NN problem_NN for_IN sponsored_VBN search_NN auctions_NNS ,_, and_CC model_VB it_PRP as_IN an_DT online_NN -LRB-_-LRB- multiple-choice_JJ -RRB-_-RRB- knapsack_NN problem_NN ._.
+We_PRP design_VBP both_CC deterministic_JJ and_CC randomized_JJ algorithms_NNS for_IN the_DT online_NN -LRB-_-LRB- multiple-choice_JJ -RRB-_-RRB- knapsack_NN problems_NNS achieving_VBG a_DT provably_RB optimal_JJ competitive_JJ ratio_NN ._.
+This_DT translates_VBZ back_RB to_TO fully_RB automatic_JJ bidding_NN strategies_NNS maximizing_VBG either_CC profit_NN or_CC revenue_NN for_IN the_DT budget-constrained_JJ advertiser_NN ._.
+Our_PRP$ bidding_NN strategy_NN for_IN revenue_NN maximization_NN is_VBZ oblivious_JJ -LRB-_-LRB- i.e._FW ,_, without_IN knowledge_NN -RRB-_-RRB- of_IN other_JJ bidders_NNS '_POS prices_NNS and\/or_CC click-through-rates_NNS for_IN those_DT positions_NNS ._.
+We_PRP evaluate_VBP our_PRP$ bidding_NN algorithms_NNS using_VBG both_DT synthetic_JJ data_NNS and_CC real_JJ bidding_NN data_NNS gathered_VBD manually_RB ,_, and_CC also_RB discuss_VBP a_DT sniping_NN heuristic_NN that_WDT strictly_RB improves_VBZ bidding_NN performance_NN ._.
+With_IN sniping_NN and_CC parameter_NN tuning_NN enabled_VBD ,_, our_PRP$ bidding_NN algorithms_NNS can_MD achieve_VB a_DT performance_NN ratio_NN above_IN 90_CD %_NN against_IN the_DT optimum_NN by_IN the_DT omniscient_JJ bidder_NN ._.

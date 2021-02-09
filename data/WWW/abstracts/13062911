@@ -1,0 +1,7 @@
+Analysis_NN and_CC tracking_NN of_IN emotions_NNS in_IN english_JJ and_CC bengali_JJ texts_NNS :_: a_DT computational_JJ approach_NN
+The_DT present_JJ discussion_NN highlights_VBZ the_DT aspects_NNS of_IN an_DT ongoing_JJ doctoral_JJ thesis_NN grounded_VBN on_IN the_DT analysis_NN and_CC tracking_NN of_IN emotions_NNS from_IN English_NNP and_CC Bengali_NNP texts_NNS ._.
+Development_NN of_IN lexical_JJ resources_NNS and_CC corpora_NN meets_VBZ the_DT preliminary_JJ urgencies_NNS ._.
+The_DT research_NN spectrum_NN aims_VBZ to_TO identify_VB the_DT evaluative_JJ emotional_JJ expressions_NNS at_IN word_NN ,_, phrase_NN ,_, sentence_NN ,_, and_CC document_NN level_NN granularities_NNS along_IN with_IN their_PRP$ associated_VBN holders_NNS and_CC topics_NNS ._.
+Tracking_VBG of_IN emotions_NNS based_VBN on_IN topic_NN or_CC event_NN was_VBD carried_VBN out_RP by_IN employing_VBG sense_NN based_JJ affect_NN scoring_VBG techniques_NNS ._.
+The_DT labeled_JJ emotion_NN corpora_NN are_VBP being_VBG prepared_VBN from_IN unlabeled_JJ examples_NNS to_TO cope_VB with_IN the_DT scarcity_NN of_IN emotional_JJ resources_NNS ,_, especially_RB for_IN the_DT resource_NN constraint_NN language_NN like_IN Bengali_NNP ._.
+Different_JJ unsupervised_JJ ,_, supervised_JJ and_CC semi-supervised_JJ strategies_NNS ,_, adopted_VBN for_IN coloring_VBG each_DT outline_NN of_IN the_DT research_NN spectrum_NN produce_VBP satisfactory_JJ outcomes_NNS

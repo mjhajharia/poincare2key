@@ -1,0 +1,7 @@
+Rare_JJ item_NN detection_NN in_IN e-commerce_NN site_NN
+As_IN the_DT largest_JJS online_NN marketplace_NN in_IN the_DT world_NN ,_, eBay_NNP has_VBZ a_DT huge_JJ inventory_NN where_WRB there_EX are_VBP plenty_NN of_IN great_JJ rare_JJ items_NNS with_IN potentially_RB large_JJ ,_, even_RB rapturous_JJ buyers_NNS ._.
+These_DT items_NNS are_VBP obscured_VBN in_IN long_JJ tail_NN of_IN eBay_JJ item_NN listing_NN and_CC hard_JJ to_TO find_VB through_IN existing_VBG searching_VBG or_CC browsing_VBG methods_NNS ._.
+It_PRP is_VBZ observed_VBN that_IN there_EX are_VBP great_JJ rarity_NN demands_NNS from_IN users_NNS according_VBG to_TO eBay_FW query_FW log_NN ._.
+To_TO keep_VB up_RP with_IN the_DT demands_NNS ,_, the_DT paper_NN proposes_VBZ a_DT method_NN to_TO automatically_RB detect_VB rare_JJ items_NNS in_FW eBay_FW online_NN listing_NN ._.
+A_DT large_JJ set_NN of_IN features_NNS relevant_JJ to_TO the_DT task_NN are_VBP investigated_VBN to_TO filter_NN items_NNS and_CC further_JJ measure_NN item_NN rareness_NN ._.
+The_DT experiments_NNS on_IN the_DT most_RBS rarity-demand-intensitive_JJ domains_NNS show_VBP that_IN the_DT method_NN may_MD effectively_RB detect_VB rare_JJ items_NNS -LRB-_-LRB- -RRB-_-RRB- 90_CD %_NN precision_NN -RRB-_-RRB- ._.

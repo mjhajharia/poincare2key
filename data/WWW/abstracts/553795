@@ -1,0 +1,8 @@
+Trust-serv_JJ :_: model-driven_JJ lifecycle_NN management_NN of_IN trust_NN negotiation_NN policies_NNS for_IN web_NN services_NNS
+A_DT scalable_JJ approach_NN to_TO trust_NN negotiation_NN is_VBZ required_VBN in_IN Web_NN service_NN environments_NNS that_WDT have_VBP large_JJ and_CC dynamic_JJ requester_NN populations_NNS ._.
+We_PRP introduce_VBP Trust-Serv_NNP ,_, a_DT model-driven_JJ trust_NN negotiation_NN framework_NN for_IN Web_NN services_NNS ._.
+The_DT framework_NN employs_VBZ a_DT model_NN for_IN trust_NN negotiation_NN that_WDT is_VBZ based_VBN on_IN state_NN machines_NNS ,_, extended_VBN with_IN security_NN abstractions_NNS ._.
+Our_PRP$ policy_NN model_NN supports_VBZ lifecycle_NN management_NN ,_, an_DT important_JJ trait_NN in_IN the_DT dynamic_JJ environments_NNS that_WDT characterize_VBP Web_NN services_NNS ._.
+In_IN particular_JJ ,_, we_PRP provide_VBP a_DT set_NN of_IN change_NN operations_NNS to_TO modify_VB policies_NNS ,_, and_CC migration_NN strategies_NNS that_WDT permit_VBP ongoing_JJ negotiations_NNS to_TO be_VB migrated_VBN to_TO new_JJ policies_NNS without_IN being_VBG disrupted_VBN ._.
+Experimental_JJ results_NNS show_VBP the_DT performance_NN benefit_NN of_IN these_DT strategies_NNS ._.
+The_DT proposed_VBN approach_NN has_VBZ been_VBN implemented_VBN as_IN a_DT container-centric_JJ mechanism_NN that_WDT is_VBZ transparent_JJ to_TO the_DT Web_NN services_NNS and_CC to_TO the_DT developers_NNS of_IN Web_NN services_NNS ,_, simplifying_VBG Web_NN service_NN development_NN and_CC management_NN as_RB well_RB as_IN enabling_VBG scalable_JJ deployments_NNS ._.

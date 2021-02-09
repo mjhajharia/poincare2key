@@ -1,0 +1,9 @@
+Live_JJ web_NN search_NN experiments_NNS for_IN the_DT rest_NN of_IN us_PRP
+There_EX are_VBP significant_JJ barriers_NNS to_TO academic_JJ research_NN into_IN user_NN Web_NN search_NN preferences_NNS ._.
+Academic_NNP researchers_NNS are_VBP unable_JJ to_TO manipulate_VB the_DT results_NNS shown_VBN by_IN a_DT major_JJ search_NN engine_NN to_TO users_NNS and_CC would_MD have_VB no_DT access_NN to_TO the_DT interaction_NN data_NNS collected_VBN by_IN the_DT engine_NN ._.
+Our_PRP$ initial_JJ approach_NN to_TO overcoming_VBG this_DT was_VBD to_TO ask_VB participants_NNS to_TO submit_VB queries_NNS to_TO an_DT experimental_JJ search_NN engine_NN rather_RB than_IN their_PRP$ usual_JJ search_NN tool_NN ._.
+Over_IN several_JJ different_JJ experiments_NNS we_PRP found_VBD that_IN initial_JJ user_NN buy-in_NN was_VBD high_JJ but_CC that_IN people_NNS quickly_RB drifted_VBD back_RB to_TO their_PRP$ old_JJ habits_NNS and_CC stopped_VBD contributing_VBG data_NNS ._.
+Here_RB ,_, we_PRP report_VBP our_PRP$ investigation_NN of_IN possible_JJ reasons_NNS why_WRB this_DT occurs_VBZ ._.
+An_DT alternative_JJ approach_NN is_VBZ exemplified_VBN by_IN the_DT Lemur_NNP browser_NN toolbar_NN ,_, which_WDT allows_VBZ local_JJ collection_NN of_IN user_NN interaction_NN data_NNS from_IN search_NN engine_NN sessions_NNS ,_, but_CC does_VBZ not_RB allow_VB result_NN pages_NNS to_TO be_VB modified_VBN ._.
+We_PRP will_MD demonstrate_VB a_DT new_JJ Firefox_NNP toolbar_NN that_IN we_PRP have_VBP developed_VBN to_TO support_VB experiments_NNS in_IN which_WDT search_NN results_NNS may_MD be_VB arbitrarily_RB manipulated_VBN ._.
+Using_VBG our_PRP$ toolbar_NN ,_, academics_NNS can_MD set_VB up_RP the_DT experiments_NNS they_PRP want_VBP to_TO conduct_VB ,_, while_IN collecting_VBG -LRB-_-LRB- subject_JJ to_TO human_JJ experimentation_NN guidelines_NNS -RRB-_-RRB- queries_NNS ,_, clicks_NNS and_CC dwell_NN times_NNS as_RB well_RB as_IN optional_JJ explicit_JJ judgments_NNS ._.

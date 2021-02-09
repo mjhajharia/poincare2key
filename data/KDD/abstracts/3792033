@@ -1,0 +1,15 @@
+YALE_NNP :_: rapid_JJ prototyping_NN for_IN complex_JJ data_NNS mining_NN tasks_NNS
+KDD_NNP is_VBZ a_DT complex_NN and_CC demanding_VBG task_NN ._.
+While_IN a_DT large_JJ number_NN of_IN methods_NNS has_VBZ been_VBN established_VBN for_IN numerous_JJ problems_NNS ,_, many_JJ challenges_NNS remain_VBP to_TO be_VB solved_VBN ._.
+New_JJ tasks_NNS emerge_VBP requiring_VBG the_DT development_NN of_IN new_JJ methods_NNS or_CC processing_NN schemes_NNS ._.
+Like_IN in_IN software_NN development_NN ,_, the_DT development_NN of_IN such_JJ solutions_NNS demands_NNS for_IN careful_JJ analysis_NN ,_, specification_NN ,_, implementation_NN ,_, and_CC testing_NN ._.
+Rapid_JJ prototyping_NN is_VBZ an_DT approach_NN which_WDT allows_VBZ crucial_JJ design_NN decisions_NNS as_RB early_RB as_IN possible_JJ ._.
+A_DT rapid_JJ prototyping_NN system_NN should_MD support_VB maximal_JJ re-use_NN and_CC innovative_JJ combinations_NNS of_IN existing_VBG methods_NNS ,_, as_RB well_RB as_IN simple_JJ and_CC quick_JJ integration_NN of_IN new_JJ ones_NNS ._.
+This_DT paper_NN describes_VBZ Yale_NNP ,_, a_DT free_JJ open-source_JJ environment_NN forKDD_NN and_CC machine_NN learning_NN ._.
+Yale_NNP provides_VBZ a_DT rich_JJ variety_NN of_IN methods_NNS whichallows_VBZ rapid_JJ prototyping_NN for_IN new_JJ applications_NNS and_CC makes_VBZ costlyre-implementations_NNS unnecessary_JJ ._.
+Additionally_RB ,_, Yale_NNP offers_VBZ extensive_JJ functionality_NN for_IN process_NN evaluation_NN and_CC optimization_NN which_WDT is_VBZ a_DT crucial_JJ property_NN for_IN any_DT KDD_NNP rapid_JJ prototyping_NN tool_NN ._.
+Following_VBG the_DT paradigm_NN of_IN visual_JJ programming_NN eases_VBZ the_DT design_NN of_IN processing_NN schemes_NNS ._.
+While_IN the_DT graphical_JJ user_NN interface_NN supports_VBZ interactive_JJ design_NN ,_, the_DT underlying_VBG XML_NN representation_NN enables_VBZ automated_JJ applications_NNS after_IN the_DT prototyping_NN phase_NN ._.
+After_IN a_DT discussion_NN of_IN the_DT key_JJ concepts_NNS of_IN Yale_NNP ,_, we_PRP illustrate_VBP the_DT advantages_NNS of_IN rapid_JJ prototyping_NN for_IN KDD_NNP on_IN case_NN studies_NNS ranging_VBG from_IN data_NNS pre-processing_JJ to_TO result_VB visualization_NN ._.
+These_DT case_NN studies_NNS cover_VBP tasks_NNS like_IN feature_NN engineering_NN ,_, text_NN mining_NN ,_, data_NN stream_NN mining_NN and_CC tracking_NN drifting_VBG concepts_NNS ,_, ensemble_NN methods_NNS and_CC distributed_VBN data_NNS mining_NN ._.
+This_DT variety_NN of_IN applications_NNS is_VBZ also_RB reflected_VBN in_IN a_DT broad_JJ user_NN base_NN ,_, we_PRP counted_VBD more_JJR than_IN 40,000_CD downloads_NNS during_IN the_DT last_JJ twelve_CD months_NNS ._.

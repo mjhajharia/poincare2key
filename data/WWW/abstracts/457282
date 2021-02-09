@@ -1,0 +1,7 @@
+Composite_JJ events_NNS for_IN xml_NN
+Recently_RB ,_, active_JJ behavior_NN has_VBZ received_VBN attention_NN in_IN the_DT XML_NN field_NN to_TO automatically_RB react_VB to_TO occurred_VBN events_NNS ._.
+Aside_RB from_IN proprietary_JJ approaches_NNS for_IN enriching_VBG XML_NN with_IN active_JJ behavior_NN ,_, the_DT W3C_NN standardized_JJ the_DT Document_NNP Object_NNP Model_NNP -LRB-_-LRB- DOM_NNP -RRB-_-RRB- Event_NNP Module_NNP for_IN the_DT detection_NN of_IN events_NNS in_IN XML_NN documents_NNS ._.
+When_WRB using_VBG any_DT of_IN these_DT approaches_NNS ,_, however_RB ,_, it_PRP is_VBZ often_RB impossible_JJ to_TO decide_VB which_WDT event_NN to_TO react_VB upon_IN because_IN not_RB a_DT single_JJ event_NN but_CC a_DT combination_NN of_IN multiple_JJ events_NNS ,_, i.e._FW ,_, a_DT composite_JJ event_NN determines_VBZ a_DT situation_NN to_TO react_VB upon_IN ._.
+The_DT paper_NN presents_VBZ the_DT first_JJ approach_NN for_IN detecting_VBG composite_JJ events_NNS in_IN XML_NN documents_NNS by_IN addressing_VBG the_DT peculiarities_NNS of_IN XML_NN events_NNS which_WDT are_VBP caused_VBN by_IN their_PRP$ hierarchical_JJ order_NN in_IN addition_NN to_TO their_PRP$ temporal_JJ order_NN ._.
+It_PRP also_RB provides_VBZ for_IN the_DT detection_NN of_IN satisfied_JJ multiplicity_NN constraints_NNS defined_VBN by_IN XML_NN schemas_NNS ._.
+Thereby_RB the_DT approach_NN enables_VBZ applications_NNS operating_VBG on_IN XML_NN documents_NNS to_TO react_VB to_TO composite_JJ events_NNS which_WDT have_VBP richer_JJR semantics_NNS ._.

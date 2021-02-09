@@ -1,0 +1,6 @@
+GalaTex_NNP :_: a_DT conformant_JJ implementation_NN of_IN the_DT XQuery_NN full-text_JJ language_NN
+We_PRP describe_VBP GalaTex_NNP ,_, the_DT first_JJ complete_JJ implementation_NN of_IN XQuery_NNP Full-Text_NNP ,_, a_DT W3C_NN specification_NN that_WDT extends_VBZ XPath_NN 2.0_CD and_CC XQuery_NN 1.0_CD with_IN full-text_JJ search_NN ._.
+XQuery_NNP Full-Text_NNP provides_VBZ composable_JJ full-text_JJ search_NN primitives_NNS such_JJ as_IN keyword_JJ search_NN ,_, Boolean_JJ queries_NNS ,_, and_CC keyword-distance_JJ predicates_NNS ._.
+GalaTex_NNP is_VBZ intended_VBN to_TO serve_VB as_IN a_DT reference_NN implementation_NN for_IN XQuery_NNP Full-Text_NNP and_CC as_IN a_DT platform_NN for_IN addressing_VBG new_JJ research_NN problems_NNS such_JJ as_IN scoring_VBG full-text_JJ query_NN results_NNS ,_, optimizing_VBG XML_NN queries_NNS over_IN both_CC structure_NN and_CC text_NN ,_, and_CC evaluating_VBG top-k_NN queries_NNS on_IN scored_VBN results_NNS ._.
+GalaTex_NNP is_VBZ an_DT all-XQuery_JJ implementation_NN initially_RB focused_VBD on_IN completeness_NN and_CC conformance_NN rather_RB than_IN on_IN efficiency_NN ._.
+We_PRP describe_VBP its_PRP$ implementation_NN on_IN top_NN of_IN Galax_NNP ,_, a_DT complete_JJ XQuery_NN implementation_NN ._.

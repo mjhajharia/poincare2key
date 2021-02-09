@@ -1,0 +1,8 @@
+PaintingClass_NNP :_: interactive_JJ construction_NN ,_, visualization_NN and_CC exploration_NN of_IN decision_NN trees_NNS
+Decision_NN trees_NNS are_VBP commonly_RB used_VBN for_IN classification_NN ._.
+We_PRP propose_VBP to_TO use_VB decision_NN trees_NNS not_RB just_RB for_IN classification_NN but_CC also_RB for_IN the_DT wider_JJR purpose_NN of_IN knowledge_NN discovery_NN ,_, because_IN visualizing_VBG the_DT decision_NN tree_NN can_MD reveal_VB much_JJ valuable_JJ information_NN in_IN the_DT data_NNS ._.
+We_PRP introduce_VBP PaintingClass_NNP ,_, a_DT system_NN for_IN interactive_JJ construction_NN ,_, visualization_NN and_CC exploration_NN of_IN decision_NN trees_NNS ._.
+PaintingClass_NNP provides_VBZ an_DT intuitive_JJ layout_NN and_CC convenient_JJ navigation_NN of_IN the_DT decision_NN tree_NN ._.
+PaintingClass_NNP also_RB provides_VBZ the_DT user_NN the_DT means_NN to_TO interactively_RB construct_VB the_DT decision_NN tree_NN ._.
+Each_DT node_NN in_IN the_DT decision_NN tree_NN is_VBZ displayed_VBN as_IN a_DT visual_JJ projection_NN of_IN the_DT data_NNS ._.
+Through_IN actual_JJ examples_NNS and_CC comparison_NN with_IN other_JJ classification_NN methods_NNS ,_, we_PRP show_VBP that_IN the_DT user_NN can_MD effectively_RB use_VB PaintingClass_NNP to_TO construct_VB a_DT decision_NN tree_NN and_CC explore_VB the_DT decision_NN tree_NN to_TO gain_VB additional_JJ knowledge_NN ._.

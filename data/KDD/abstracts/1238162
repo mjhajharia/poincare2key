@@ -1,0 +1,6 @@
+Mining_NN scale-free_NN networks_NNS using_VBG geodesic_JJ clustering_NN
+Many_JJ real-world_JJ graphs_NNS have_VBP been_VBN shown_VBN to_TO be_VB scale-free_JJ --_: vertex_NN degrees_NNS follow_VBP power_NN law_NN distributions_NNS ,_, vertices_NNS tend_VBP to_TO cluster_VB ,_, and_CC the_DT average_JJ length_NN of_IN all_DT shortest_JJS paths_NNS is_VBZ small_JJ ._.
+We_PRP present_VBP a_DT new_JJ model_NN for_IN understanding_VBG scale-free_JJ networks_NNS based_VBN on_IN multilevel_JJ geodesic_JJ approximation_NN ,_, using_VBG a_DT new_JJ data_NN structure_NN called_VBD a_DT multilevel_JJ mesh_NN ._.
+Using_VBG this_DT multilevel_JJ framework_NN ,_, we_PRP propose_VBP a_DT new_JJ kind_NN of_IN graph_NN clustering_NN for_IN data_NNS reduction_NN of_IN very_RB large_JJ graph_NN systems_NNS such_JJ as_IN social_JJ ,_, biological_JJ ,_, or_CC electronic_JJ networks_NNS ._.
+Finally_RB ,_, we_PRP apply_VBP our_PRP$ algorithms_NNS to_TO real-world_JJ social_JJ networks_NNS and_CC protein_NN interaction_NN graphs_NNS to_TO show_VB that_IN they_PRP can_MD reveal_VB knowledge_NN embedded_JJ in_IN underlying_VBG graph_NN structures_NNS ._.
+We_PRP also_RB demonstrate_VBP how_WRB our_PRP$ data_NNS structures_NNS can_MD be_VB used_VBN to_TO quickly_RB answer_VB approximate_JJ distance_NN and_CC shortest_JJS path_NN queries_NNS on_IN scale-free_JJ networks_NNS ._.

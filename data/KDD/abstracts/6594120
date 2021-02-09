@@ -1,0 +1,11 @@
+1-dimensional_JJ splines_NNS as_IN building_NN blocks_NNS for_IN improving_VBG accuracy_NN of_IN risk_NN outcomes_NNS models_NNS
+Transformation_NN of_IN both_CC the_DT response_NN variable_NN and_CC the_DT predictors_NNS is_VBZ commonly_RB used_VBN in_IN fitting_JJ regression_NN models_NNS ._.
+However_RB ,_, these_DT transformation_NN methods_NNS do_VBP not_RB always_RB provide_VB the_DT maximum_NN linear_JJ correlation_NN between_IN the_DT response_NN variable_NN and_CC the_DT predictors_NNS ,_, especially_RB when_WRB there_EX are_VBP non-linear_JJ relationships_NNS between_IN predictors_NNS and_CC the_DT response_NN such_JJ as_IN the_DT medical_JJ data_NN set_NN used_VBN in_IN this_DT study_NN ._.
+A_DT spline_NN based_VBN transformation_NN method_NN is_VBZ proposed_VBN that_WDT is_VBZ second_JJ order_NN smooth_NN ,_, continuous_JJ ,_, and_CC minimizes_VBZ the_DT mean_NN squared_VBD error_NN between_IN the_DT response_NN and_CC each_DT predictor_NN ._.
+Since_IN the_DT computation_NN time_NN for_IN generating_VBG this_DT spline_NN is_VBZ O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- ,_, the_DT processing_NN time_NN is_VBZ reasonable_JJ with_IN massive_JJ data_NNS sets_NNS ._.
+In_IN contrast_NN to_TO cubic_JJ smoothing_NN splines_NNS ,_, the_DT resulting_VBG transformation_NN equations_NNS also_RB display_VBP a_DT high_JJ level_NN of_IN efficiency_NN for_IN scoring_VBG ._.
+Data_NNS used_VBN for_IN predicting_VBG health_NN outcomes_NNS contains_VBZ an_DT abundance_NN of_IN non-linear_JJ relationships_NNS between_IN predictors_NNS and_CC the_DT outcomes_NNS requiring_VBG an_DT algorithm_NN for_IN modeling_NN them_PRP accurately_RB ._.
+Thus_RB ,_, a_DT transformation_NN that_WDT fits_VBZ an_DT adaptive_JJ cubic_JJ spline_NN to_TO each_DT of_IN a_DT set_NN of_IN variables_NNS is_VBZ proposed_VBN ._.
+These_DT curves_NNS are_VBP used_VBN as_IN a_DT set_NN of_IN transformation_NN functions_NNS on_IN the_DT predictors_NNS ._.
+A_DT case_NN study_NN of_IN how_WRB the_DT transformed_VBN variables_NNS can_MD be_VB fed_VBN into_IN a_DT simple_JJ linear_JJ regression_NN model_NN to_TO predict_VB risk_NN outcomes_NNS is_VBZ presented_VBN ._.
+The_DT results_NNS show_VBP significant_JJ improvement_NN over_IN the_DT performance_NN of_IN the_DT original_JJ variables_NNS in_IN both_CC linear_JJ and_CC non-linear_JJ models_NNS ._.

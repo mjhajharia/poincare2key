@@ -1,0 +1,8 @@
+Identifying_VBG and_CC discriminating_VBG between_IN web_NN and_CC peer-to-peer_NN traffic_NN in_IN the_DT network_NN core_NN
+Traffic_NN classification_NN is_VBZ the_DT ability_NN to_TO identify_VB and_CC categorize_VB network_NN traffic_NN by_IN application_NN type_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP consider_VBP the_DT problem_NN of_IN traffic_NN classification_NN in_IN the_DT network_NN core_NN ._.
+Classification_NN at_IN the_DT core_NN is_VBZ challenging_JJ because_IN only_JJ partial_JJ information_NN about_IN the_DT flows_NNS and_CC their_PRP$ contributors_NNS is_VBZ available_JJ ._.
+We_PRP address_VBP this_DT problem_NN by_IN developing_VBG a_DT framework_NN that_WDT can_MD classify_VB a_DT flow_NN using_VBG only_RB unidirectional_JJ flow_NN information_NN ._.
+We_PRP evaluated_VBD this_DT approach_NN using_VBG recent_JJ packet_NN traces_NNS that_IN we_PRP collected_VBD and_CC pre-classified_JJ to_TO establish_VB a_DT ``_`` base_NN truth_NN ''_'' ._.
+From_IN our_PRP$ evaluation_NN ,_, we_PRP find_VBP that_IN flow_NN statistics_NNS for_IN the_DT server-to-client_JJ direction_NN of_IN a_DT TCP_NN connection_NN provide_VBP greater_JJR classification_NN accuracy_NN than_IN the_DT flow_NN statistics_NNS for_IN the_DT client-to-server_JJ direction_NN ._.
+Because_IN collection_NN of_IN the_DT server-to-client_JJ flow_NN statistics_NNS may_MD not_RB always_RB be_VB feasible_JJ ,_, we_PRP developed_VBD and_CC validated_VBD an_DT algorithm_NN that_WDT can_MD estimate_VB the_DT missing_JJ statistics_NNS froma_VBP unidirectional_JJ packet_NN trace_NN ._.

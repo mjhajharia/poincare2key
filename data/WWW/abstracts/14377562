@@ -1,0 +1,9 @@
+Towards_IN robust_JJ service_NN compositions_NNS in_IN the_DT context_NN of_IN functionally_RB diverse_JJ services_NNS
+Web_NN service_NN composition_NN provides_VBZ a_DT means_NN of_IN customized_VBN and_CC flexible_JJ integration_NN of_IN service_NN functionalities_NNS ._.
+Quality-of-Service_NN -LRB-_-LRB- QoS_NN -RRB-_-RRB- optimization_NN algorithms_VBZ select_JJ services_NNS in_IN order_NN to_TO adapt_VB workflows_NNS to_TO the_DT non-functional_JJ requirements_NNS of_IN the_DT user_NN ._.
+With_IN increasing_VBG number_NN of_IN services_NNS in_IN a_DT workflow_NN ,_, previous_JJ approaches_NNS fail_VBP to_TO achieve_VB a_DT sufficient_JJ reliability_NN ._.
+Moreover_RB ,_, expensive_JJ ad-hoc_JJ replanning_NN is_VBZ required_VBN to_TO deal_VB with_IN service_NN failures_NNS ._.
+The_DT major_JJ problem_NN with_IN such_JJ sequential_JJ application_NN of_IN planning_NN and_CC replanning_NN is_VBZ that_IN it_PRP ignores_VBZ the_DT potential_JJ costs_NNS during_IN the_DT initial_JJ planning_NN and_CC they_PRP consequently_RB are_VBP hidden_VBN from_IN the_DT decision_NN maker_NN ._.
+Our_PRP$ basic_JJ idea_NN to_TO overcome_VB this_DT substantial_JJ problem_NN is_VBZ to_TO compute_VB a_DT QoS_NN optimized_VBD selection_NN of_IN service_NN clusters_NNS that_WDT includes_VBZ a_DT sufficient_JJ number_NN of_IN backup_NN services_NNS for_IN each_DT service_NN employed_VBN ._.
+To_TO support_VB the_DT human_JJ decision_NN maker_NN in_IN the_DT service_NN selection_NN task_NN ,_, our_PRP$ approach_NN considers_VBZ the_DT possible_JJ repair_NN costs_NNS directly_RB in_IN the_DT initial_JJ composition_NN ._.
+On_IN the_DT basis_NN of_IN a_DT multi-objective_JJ approach_NN and_CC using_VBG a_DT suitable_JJ service_NN selection_NN interface_NN ,_, the_DT decision_NN maker_NN can_MD select_VB compositions_NNS in_IN line_NN with_IN his\/her_NN personal_JJ risk_NN preferences_NNS ._.

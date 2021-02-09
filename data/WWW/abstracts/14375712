@@ -1,0 +1,7 @@
+Learning_NNP causality_NN for_IN news_NN events_NNS prediction_NN
+The_DT problem_NN we_PRP tackle_VBP in_IN this_DT work_NN is_VBZ ,_, given_VBN a_DT present_JJ news_NN event_NN ,_, to_TO generate_VB a_DT plausible_JJ future_JJ event_NN that_WDT can_MD be_VB caused_VBN by_IN the_DT given_VBN event_NN ._.
+We_PRP present_VBP a_DT new_JJ methodology_NN for_IN modeling_NN and_CC predicting_VBG such_JJ future_JJ news_NN events_NNS using_VBG machine_NN learning_NN and_CC data_NN mining_NN techniques_NNS ._.
+Our_PRP$ Pundit_NNP algorithm_NN generalizes_VBZ examples_NNS of_IN causality_NN pairs_NNS to_TO infer_VB a_DT causality_NN predictor_NN ._.
+To_TO obtain_VB precise_JJ labeled_JJ causality_NN examples_NNS ,_, we_PRP mine_VBP 150_CD years_NNS of_IN news_NN articles_NNS ,_, and_CC apply_VB semantic_JJ natural_JJ language_NN modeling_NN techniques_NNS to_TO titles_NNS containing_VBG certain_JJ predefined_JJ causality_NN patterns_NNS ._.
+For_IN generalization_NN ,_, the_DT model_NN uses_VBZ a_DT vast_JJ amount_NN of_IN world_NN knowledge_NN ontologies_NNS mined_VBN from_IN LinkedData_NNP ,_, containing_VBG ~_NN 200_CD datasets_NNS with_IN approximately_RB 20_CD billion_CD relations_NNS ._.
+Empirical_JJ evaluation_NN on_IN real_JJ news_NN articles_NNS shows_VBZ that_IN our_PRP$ Pundit_NNP algorithm_NN reaches_VBZ a_DT human-level_JJ performance_NN ._.

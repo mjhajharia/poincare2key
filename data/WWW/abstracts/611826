@@ -1,0 +1,6 @@
+Evaluation_NN of_IN edge_NN caching\/offloading_NN for_IN dynamic_JJ content_NN delivery_NN
+As_IN dynamic_JJ content_NN becomes_VBZ increasingly_RB dominant_JJ ,_, it_PRP becomes_VBZ an_DT important_JJ research_NN topic_NN as_IN how_WRB the_DT edge_NN resources_NNS such_JJ as_IN client-side_JJ proxies_NNS ,_, which_WDT are_VBP otherwise_RB underutilized_VBN for_IN such_JJ content_NN ,_, can_MD be_VB put_VBN into_IN use_NN ._.
+However_RB ,_, it_PRP is_VBZ unclear_JJ what_WP will_MD be_VB the_DT best_JJS strategy_NN and_CC the_DT design\/deployment_NN tradeoffs_NNS lie_VBP therein_RB ._.
+In_IN this_DT paper_NN ,_, using_VBG one_CD representative_JJ e-commerce_NN benchmark_NN ,_, we_PRP report_VBP our_PRP$ experience_NN of_IN an_DT extensive_JJ investigation_NN of_IN different_JJ offloading_VBG and_CC caching_VBG options_NNS ._.
+Our_PRP$ results_NNS point_VBP out_RP that_IN ,_, while_IN great_JJ benefits_NNS can_MD be_VB reached_VBN in_IN general_JJ ,_, advanced_JJ offloading_VBG strategies_NNS can_MD be_VB overly_RB complex_JJ and_CC even_RB counter-productive_JJ ._.
+In_IN contrast_NN ,_, simple_JJ augmentation_NN at_IN proxies_NNS to_TO enable_VB fragment_NN caching_NN and_CC page_NN composition_NN achieves_VBZ most_JJS of_IN the_DT benefit_NN without_IN compromising_VBG important_JJ considerations_NNS such_JJ as_IN security_NN ._.

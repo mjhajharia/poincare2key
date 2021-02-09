@@ -1,0 +1,6 @@
+Semantic_JJ search_NN
+Activities_NNS such_JJ as_IN Web_NN Services_NNPS and_CC the_DT Semantic_JJ Web_NN are_VBP working_VBG to_TO create_VB a_DT web_NN of_IN distributed_VBN machine_NN understandable_JJ data_NNS ._.
+In_IN this_DT paper_NN we_PRP present_VBP an_DT application_NN called_VBN `_`` Semantic_NNP Search_VB '_POS which_WDT is_VBZ built_VBN on_IN these_DT supporting_VBG technologies_NNS and_CC is_VBZ designed_VBN to_TO improve_VB traditional_JJ web_NN searching_VBG ._.
+We_PRP provide_VBP an_DT overview_NN of_IN TAP_NN ,_, the_DT application_NN framework_NN upon_IN which_WDT the_DT Semantic_NNP Search_VB is_VBZ built_VBN ._.
+We_PRP describe_VBP two_CD implemented_VBN Semantic_NNP Search_VB systems_NNS which_WDT ,_, based_VBN on_IN the_DT denotation_NN of_IN the_DT search_NN query_NN ,_, augment_VBP traditional_JJ search_NN results_NNS with_IN relevant_JJ data_NNS aggregated_VBN from_IN distributed_VBN sources_NNS ._.
+We_PRP also_RB discuss_VBP some_DT general_JJ issues_NNS related_VBN to_TO searching_VBG and_CC the_DT Semantic_JJ Web_NN and_CC outline_VB how_WRB an_DT understanding_NN of_IN the_DT semantics_NNS of_IN the_DT search_NN terms_NNS can_MD be_VB used_VBN to_TO provide_VB better_JJR results_NNS ._.

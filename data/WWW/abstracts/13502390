@@ -1,0 +1,10 @@
+Building_NN term_NN suggestion_NN relational_JJ graphs_NNS from_IN collective_JJ intelligence_NN
+This_DT paper_NN proposes_VBZ an_DT effective_JJ approach_NN to_TO provide_VB relevant_JJ search_NN terms_NNS for_IN conceptual_JJ Web_NN search_NN ._.
+`_`` Semantic_NNP Term_NNP Suggestion_NNP '_POS function_NN has_VBZ been_VBN included_VBN so_IN that_IN users_NNS can_MD find_VB the_DT most_RBS appropriate_JJ query_JJ term_NN to_TO what_WP they_PRP really_RB need_VBP ._.
+Conventional_JJ approaches_NNS for_IN term_NN suggestion_NN involve_VBP extracting_VBG frequently_RB occurring_VBG key_JJ terms_NNS from_IN retrieved_VBN documents_NNS ._.
+They_PRP must_MD deal_VB with_IN term_NN extraction_NN difficulties_NNS and_CC interference_NN from_IN irrelevant_JJ documents_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT semantic_JJ term_NN suggestion_NN function_NN called_VBN Collective_NNP Intelligence_NNP based_VBD Term_NNP Suggestion_NNP -LRB-_-LRB- CITS_NNP -RRB-_-RRB- ._.
+CITS_NNP provides_VBZ a_DT novel_JJ social-network_JJ based_JJ framework_NN for_IN relevant_JJ terms_NNS suggestion_NN with_IN a_DT semantic_JJ graph_NN of_IN the_DT search_NN term_NN without_IN limiting_VBG to_TO the_DT specific_JJ query_NN term_NN ._.
+A_DT visualization_NN of_IN semantic_JJ graph_NN is_VBZ presented_VBN to_TO the_DT users_NNS to_TO help_VB browsing_VBG search_NN results_NNS from_IN related_JJ terms_NNS in_IN the_DT semantic_JJ graph_NN ._.
+The_DT search_NN results_NNS are_VBP ranked_VBN each_DT time_NN according_VBG to_TO their_PRP$ relevance_NN to_TO the_DT related_JJ terms_NNS in_IN the_DT entire_JJ query_NN session_NN ._.
+Comparing_VBG to_TO two_CD popular_JJ commercial_JJ search_NN engines_NNS ,_, a_DT user_NN study_NN of_IN 18_CD users_NNS on_IN 50_CD search_NN terms_NNS showed_VBD better_JJR user_NN satisfactions_NNS and_CC indicated_VBD the_DT potential_JJ usefulness_NN of_IN proposed_VBN method_NN in_IN real-world_JJ search_NN applications_NNS ._.

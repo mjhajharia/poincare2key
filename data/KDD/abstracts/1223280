@@ -1,0 +1,8 @@
+Programming_VBG the_DT K-means_JJ clustering_NN algorithm_NN in_IN SQL_NN
+Using_VBG SQL_NN has_VBZ not_RB been_VBN considered_VBN an_DT efficient_JJ and_CC feasible_JJ way_NN to_TO implement_VB data_NN mining_NN algorithms_NNS ._.
+Although_IN this_DT is_VBZ true_JJ for_IN many_JJ data_NNS mining_NN ,_, machine_NN learning_NN and_CC statistical_JJ algorithms_NNS ,_, this_DT work_NN shows_VBZ it_PRP is_VBZ feasible_JJ to_TO get_VB an_DT efficient_JJ SQL_NN implementation_NN of_IN the_DT well-known_JJ K-means_NNS clustering_VBG algorithm_NN that_WDT can_MD work_VB on_IN top_NN of_IN a_DT relational_JJ DBMS_NN ._.
+The_DT article_NN emphasizes_VBZ both_CC correctness_NN and_CC performance_NN ._.
+From_IN a_DT correctness_NN point_NN of_IN view_NN the_DT article_NN explains_VBZ how_WRB to_TO compute_VB Euclidean_JJ distance_NN ,_, nearest-cluster_JJ queries_NNS and_CC updating_VBG clustering_NN results_VBZ in_IN SQL_NNP ._.
+From_IN a_DT performance_NN point_NN of_IN view_NN it_PRP is_VBZ explained_VBN how_WRB to_TO cluster_VB large_JJ data_NNS sets_NNS defining_VBG and_CC indexing_VBG tables_NNS to_TO store_VB and_CC retrieve_VB intermediate_JJ and_CC final_JJ results_NNS ,_, optimizing_VBG and_CC avoiding_VBG joins_VBZ ,_, optimizing_VBG and_CC simplifying_VBG clustering_NN aggregations_NNS ,_, and_CC taking_VBG advantage_NN of_IN sufficient_JJ statistics_NNS ._.
+Experiments_NNS evaluate_VBP scalability_NN with_IN synthetic_JJ data_NNS sets_NNS varying_VBG size_NN and_CC dimensionality_NN ._.
+The_DT proposed_VBN K-means_NNS implementation_NN can_MD cluster_VB large_JJ data_NNS sets_NNS and_CC exhibits_VBZ linear_JJ scalability_NN ._.

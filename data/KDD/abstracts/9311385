@@ -1,0 +1,12 @@
+Learning_NNP subspace_NN kernels_NNS for_IN classification_NN
+Kernel_NNP methods_NNS have_VBP been_VBN applied_VBN successfully_RB in_IN many_JJ data_NNS mining_NN tasks_NNS ._.
+Subspace_NN kernel_NN learning_NN was_VBD recently_RB proposed_VBN to_TO discover_VB an_DT effective_JJ low-dimensional_JJ subspace_NN of_IN a_DT kernel_NN feature_NN space_NN for_IN improved_VBN classification_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP to_TO construct_VB a_DT subspace_NN kernel_NN using_VBG the_DT Hilbert-Schmidt_JJ Independence_NN Criterion_NN -LRB-_-LRB- HSIC_NN -RRB-_-RRB- ._.
+We_PRP show_VBP that_IN the_DT optimal_JJ subspace_NN kernel_NN can_MD be_VB obtained_VBN efficiently_RB by_IN solving_VBG an_DT eigenvalue_NN problem_NN ._.
+One_CD limitation_NN of_IN the_DT existing_VBG subspace_NN kernel_NN learning_NN formulations_NNS is_VBZ that_IN the_DT kernel_NN learning_NN and_CC classification_NN are_VBP independent_JJ and_CC the_DT subspace_NN kernel_NN may_MD not_RB be_VB optimally_RB adapted_VBN for_IN classification_NN ._.
+To_TO overcome_VB this_DT limitation_NN ,_, we_PRP propose_VBP a_DT joint_JJ optimization_NN framework_NN ,_, in_IN which_WDT we_PRP learn_VBP the_DT subspace_NN kernel_NN and_CC subsequent_JJ classifiers_NNS simultaneously_RB ._.
+In_IN addition_NN ,_, we_PRP propose_VBP a_DT novel_JJ learning_NN formulation_NN that_WDT extracts_VBZ an_DT uncorrelated_JJ subspace_NN kernel_NN to_TO reduce_VB the_DT redundant_JJ information_NN in_IN a_DT subspace_NN kernel_NN ._.
+Following_VBG the_DT idea_NN from_IN multiple_JJ kernel_NN learning_NN ,_, we_PRP extend_VBP the_DT proposed_VBN formulations_NNS to_TO the_DT case_NN when_WRB multiple_JJ kernels_NNS are_VBP available_JJ and_CC need_VBP to_TO be_VB combined_VBN ._.
+We_PRP show_VBP that_IN the_DT integration_NN of_IN subspace_NN kernels_NNS can_MD be_VB formulated_VBN as_IN a_DT semidefinite_NN program_NN -LRB-_-LRB- SDP_NN -RRB-_-RRB- which_WDT is_VBZ computationally_RB expensive_JJ ._.
+To_TO improve_VB the_DT efficiency_NN of_IN the_DT SDP_NNP formulation_NN ,_, we_PRP propose_VBP an_DT equivalent_JJ semi-infinite_JJ linear_NN program_NN -LRB-_-LRB- SILP_NN -RRB-_-RRB- formulation_NN which_WDT can_MD be_VB solved_VBN efficiently_RB by_IN the_DT column_NN generation_NN technique_NN ._.
+Experimental_JJ results_NNS on_IN a_DT collection_NN of_IN benchmark_JJ data_NNS sets_NNS demonstrate_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN algorithms_NNS ._.

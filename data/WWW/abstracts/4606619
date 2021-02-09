@@ -1,0 +1,6 @@
+On_IN ranking_JJ techniques_NNS for_IN desktop_NN search_NN
+This_DT paper_NN addresses_VBZ the_DT desktop_NN search_NN problem_NN by_IN considering_VBG varioustechniques_NNS for_IN ranking_JJ results_NNS of_IN a_DT search_NN query_NN over_IN thefile_JJ system_NN ._.
+First_JJ ,_, basic_JJ ranking_NN techniques_NNS ,_, which_WDT are_VBP based_VBN ona_JJ single_JJ file_NN feature_NN -LRB-_-LRB- e.g._FW ,_, file_NN name_NN ,_, file_NN content_NN ,_, access_NN date_NN ,_, etc._NN -RRB-_-RRB- are_VBP considered_VBN ._.
+Next_RB ,_, two_CD learning-based_JJ ranking_NN schemes_NNS are_VBP presented_VBN ,_, and_CC are_VBP shown_VBN to_TO be_VB significantly_RB more_RBR effective_JJ than_IN the_DT basic_JJ ranking_NN methods_NNS ._.
+Finally_RB ,_, a_DT novel_JJ ranking_NN technique_NN ,_, based_VBN on_IN query_NN selectiveness_NN is_VBZ considered_VBN ,_, for_IN use_NN during_IN the_DT cold-start_JJ period_NN of_IN the_DT system_NN ._.
+This_DT method_NN isalso_NN shown_VBN to_TO be_VB empirically_RB effective_JJ ,_, even_RB though_IN it_PRP does_VBZ notinvolve_VB any_DT learning_NN ._.

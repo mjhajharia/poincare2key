@@ -1,0 +1,16 @@
+Web_NN data_NNS extraction_NN based_VBN on_IN partial_JJ tree_NN alignment_NN
+This_DT paper_NN studies_VBZ the_DT problem_NN of_IN extracting_VBG data_NNS from_IN a_DT Web_NN page_NN that_WDT contains_VBZ several_JJ structured_JJ data_NNS records_NNS ._.
+The_DT objective_NN is_VBZ to_TO segment_NN these_DT data_NNS records_NNS ,_, extract_NN data_NNS items\/fields_NNS from_IN them_PRP and_CC put_VB the_DT data_NNS in_IN a_DT database_NN table_NN ._.
+This_DT problem_NN has_VBZ been_VBN studied_VBN by_IN several_JJ researchers_NNS ._.
+However_RB ,_, existing_VBG methods_NNS still_RB have_VBP some_DT serious_JJ limitations_NNS ._.
+The_DT first_JJ class_NN of_IN methods_NNS is_VBZ based_VBN on_IN machine_NN learning_NN ,_, which_WDT requires_VBZ human_JJ labeling_NN of_IN many_JJ examples_NNS from_IN each_DT Web_NN site_NN that_IN one_CD is_VBZ interested_JJ in_IN extracting_VBG data_NNS from_IN ._.
+The_DT process_NN is_VBZ time_NN consuming_NN due_JJ to_TO the_DT large_JJ number_NN of_IN sites_NNS and_CC pages_NNS on_IN the_DT Web_NN ._.
+The_DT second_JJ class_NN of_IN algorithms_NNS is_VBZ based_VBN on_IN automatic_JJ pattern_NN discovery_NN ._.
+These_DT methods_NNS are_VBP either_CC inaccurate_JJ or_CC make_VB many_JJ assumptions_NNS ._.
+This_DT paper_NN proposes_VBZ a_DT new_JJ method_NN to_TO perform_VB the_DT task_NN automatically_RB ._.
+It_PRP consists_VBZ of_IN two_CD steps_NNS ,_, -LRB-_-LRB- 1_LS -RRB-_-RRB- identifying_VBG individual_JJ data_NNS records_NNS in_IN a_DT page_NN ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- aligning_VBG and_CC extracting_VBG data_NNS items_NNS from_IN the_DT identified_VBN data_NN records_NNS ._.
+For_IN step_NN 1_CD ,_, we_PRP propose_VBP a_DT method_NN based_VBN on_IN visual_JJ information_NN to_TO segment_NN data_NNS records_NNS ,_, which_WDT is_VBZ more_RBR accurate_JJ than_IN existing_VBG methods_NNS ._.
+For_IN step_NN 2_CD ,_, we_PRP propose_VBP a_DT novel_JJ partial_JJ alignment_NN technique_NN based_VBN on_IN tree_NN matching_NN ._.
+Partial_JJ alignment_NN means_VBZ that_IN we_PRP align_VBP only_RB those_DT data_NNS fields_NNS in_IN a_DT pair_NN of_IN data_NNS records_NNS that_WDT can_MD be_VB aligned_VBN -LRB-_-LRB- or_CC matched_VBN -RRB-_-RRB- with_IN certainty_NN ,_, and_CC make_VB no_DT commitment_NN on_IN the_DT rest_NN of_IN the_DT data_NNS fields_NNS ._.
+This_DT approach_NN enables_VBZ very_RB accurate_JJ alignment_NN of_IN multiple_JJ data_NNS records_NNS ._.
+Experimental_JJ results_NNS using_VBG a_DT large_JJ number_NN of_IN Web_NN pages_NNS from_IN diverse_JJ domains_NNS show_VBP that_IN the_DT proposed_VBN two-step_JJ technique_NN is_VBZ able_JJ to_TO segment_NN data_NNS records_NNS ,_, align_VB and_CC extract_VB data_NNS from_IN them_PRP very_RB accurately_RB ._.

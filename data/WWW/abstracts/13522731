@@ -1,0 +1,10 @@
+Answering_VBG approximate_JJ queries_NNS over_IN autonomous_JJ web_NN databases_NNS
+To_TO deal_VB with_IN the_DT problem_NN of_IN empty_JJ or_CC too_RB little_JJ answers_NNS returned_VBD from_IN a_DT Web_NN database_NN in_IN response_NN to_TO a_DT user_NN query_NN ,_, this_DT paper_NN proposes_VBZ a_DT novel_JJ approach_NN to_TO provide_VB relevant_JJ and_CC ranked_VBD query_JJ results_NNS ._.
+Based_VBN on_IN the_DT user_NN original_JJ query_NN ,_, we_PRP speculate_VBP how_WRB much_JJ the_DT user_NN cares_VBZ about_IN each_DT specified_VBN attribute_NN and_CC assign_VB a_DT corresponding_JJ weight_NN to_TO it_PRP ._.
+This_DT original_JJ query_NN is_VBZ then_RB rewritten_VBN as_IN an_DT approximate_JJ query_NN by_IN relaxing_VBG the_DT query_NN criteria_NNS range_VBP ._.
+The_DT relaxation_NN order_NN of_IN all_DT specified_VBN attributes_NNS and_CC the_DT relaxed_VBN degree_NN on_IN each_DT specified_VBN attribute_NN are_VBP varied_VBN with_IN the_DT attribute_NN weights_NNS ._.
+For_IN the_DT approximate_JJ query_NN results_NNS ,_, we_PRP generate_VBP users_NNS '_POS contextual_JJ preferences_NNS from_IN database_NN workload_NN and_CC use_VB them_PRP to_TO create_VB a_DT priori_FW orders_NNS of_IN tuples_NNS in_IN an_DT off-line_JJ preprocessing_NN step_NN ._.
+Only_RB a_DT few_JJ representative_JJ orders_NNS are_VBP saved_VBN ,_, each_DT corresponding_VBG to_TO a_DT set_NN of_IN contexts_NNS ._.
+Then_RB ,_, these_DT orders_NNS and_CC associated_VBN contexts_NNS are_VBP used_VBN at_IN query_JJ time_NN to_TO expeditiously_RB provide_VB ranked_VBN answers_NNS ._.
+Results_NNS of_IN a_DT preliminary_JJ user_NN study_NN demonstrate_VBP that_IN our_PRP$ query_NN relaxation_NN and_CC results_VBZ ranking_JJ methods_NNS can_MD capture_VB the_DT user_NN 's_POS preferences_NNS effectively_RB ._.
+The_DT efficiency_NN and_CC effectiveness_NN of_IN our_PRP$ approach_NN is_VBZ also_RB demonstrated_VBN by_IN experimental_JJ result_NN ._.

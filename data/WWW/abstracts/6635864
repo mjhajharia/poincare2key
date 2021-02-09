@@ -1,0 +1,6 @@
+Subspace_NN :_: secure_JJ cross-domain_JJ communication_NN for_IN web_NN mashups_NNS
+Combining_VBG data_NNS and_CC code_NN from_IN third-party_JJ sources_NNS has_VBZ enabled_VBN a_DT new_JJ wave_NN of_IN web_NN mashups_NNS that_WDT add_VBP creativity_NN and_CC functionality_NN to_TO web_NN applications_NNS ._.
+However_RB ,_, browsers_NNS are_VBP poorly_RB designed_VBN to_TO pass_VB data_NNS between_IN domains_NNS ,_, often_RB forcing_VBG web_NN developers_NNS to_TO abandon_VB security_NN in_IN the_DT name_NN of_IN functionality_NN ._.
+To_TO address_VB this_DT deficiency_NN ,_, we_PRP developed_VBD Subspace_NNP ,_, a_DT cross-domain_JJ communication_NN mechanism_NN that_WDT allows_VBZ efficient_JJ communication_NN across_IN domains_NNS without_IN sacrificing_VBG security_NN ._.
+Our_PRP$ prototype_NN requires_VBZ only_RB a_DT small_JJ JavaScript_NNP library_NN ,_, and_CC works_VBZ across_IN all_DT major_JJ browsers_NNS ._.
+We_PRP believe_VBP Subspace_NNP can_MD serve_VB as_IN a_DT new_JJ secure_JJ communication_NN primitive_JJ for_IN web_NN mashups_NNS ._.

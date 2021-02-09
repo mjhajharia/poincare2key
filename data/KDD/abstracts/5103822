@@ -1,0 +1,11 @@
+Suppressing_VBG model_NN overfitting_NN in_IN mining_NN concept-drifting_JJ data_NNS streams_NNS
+Mining_NN data_NNS streams_NNS of_IN changing_VBG class_NN distributions_NNS is_VBZ important_JJ for_IN real-time_JJ business_NN decision_NN support_NN ._.
+The_DT stream_NN classifier_NN must_MD evolve_VB to_TO reflect_VB the_DT current_JJ class_NN distribution_NN ._.
+This_DT poses_VBZ a_DT serious_JJ challenge_NN ._.
+On_IN the_DT one_CD hand_NN ,_, relying_VBG on_IN historical_JJ data_NNS may_MD increase_VB the_DT chances_NNS of_IN learning_VBG obsolete_JJ models_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, learning_VBG only_RB from_IN the_DT latest_JJS data_NNS may_MD lead_VB to_TO biased_VBN classifiers_NNS ,_, as_IN the_DT latest_JJS data_NN is_VBZ often_RB an_DT unrepresentative_JJ sample_NN of_IN the_DT current_JJ class_NN distribution_NN ._.
+The_DT problem_NN is_VBZ particularly_RB acute_JJ in_IN classifying_VBG rare_JJ events_NNS ,_, when_WRB ,_, for_IN example_NN ,_, instances_NNS of_IN the_DT rare_JJ class_NN do_VBP not_RB even_RB show_VB up_RP in_IN the_DT most_RBS recent_JJ training_NN data_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP use_VBP a_DT stochastic_JJ model_NN to_TO describe_VB the_DT concept_NN shifting_VBG patterns_NNS and_CC formulate_VB this_DT problem_NN as_IN an_DT optimization_NN one_NN :_: from_IN the_DT historical_JJ and_CC the_DT current_JJ training_NN data_NNS that_IN we_PRP have_VBP observed_VBN ,_, find_VB the_DT most-likely_JJS current_JJ distribution_NN ,_, and_CC learn_VB a_DT classifier_NN based_VBN on_IN the_DT most-likely_JJ distribution_NN ._.
+We_PRP derive_VBP an_DT analytic_JJ solution_NN and_CC approximate_JJ this_DT solution_NN with_IN an_DT efficient_JJ algorithm_NN ,_, which_WDT calibrates_VBZ the_DT influence_NN of_IN historical_JJ data_NNS carefully_RB to_TO create_VB an_DT accurate_JJ classifier_NN ._.
+We_PRP evaluate_VBP our_PRP$ algorithm_NN with_IN both_CC synthetic_JJ and_CC real-world_JJ datasets_NNS ._.
+Our_PRP$ results_NNS show_VBP that_IN our_PRP$ algorithm_NN produces_VBZ accurate_JJ and_CC efficient_JJ classification_NN ._.

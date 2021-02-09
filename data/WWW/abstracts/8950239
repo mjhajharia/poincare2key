@@ -1,0 +1,7 @@
+Design_NN and_CC implementation_NN of_IN a_DT feedback_NN controller_NN for_IN slowdown_NN differentiation_NN on_IN internet_NN servers_NNS
+Proportional_JJ slowdown_NN differentiation_NN -LRB-_-LRB- PSD_NN -RRB-_-RRB- aims_VBZ to_TO maintain_VB slowdown_NN ratios_NNS between_IN different_JJ classes_NNS of_IN clients_NNS according_VBG to_TO their_PRP$ pre-specified_JJ differentiation_NN parameters_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP design_VBP a_DT feedback_NN controller_NN to_TO allocate_VB processing_NN rate_NN on_IN Internet_NNP servers_NNS for_IN PSD_NNP ._.
+In_IN this_DT approach_NN ,_, the_DT processing_NN rate_NN of_IN a_DT class_NN is_VBZ adjusted_VBN by_IN an_DT integral_JJ feedback_NN controller_NN according_VBG to_TO the_DT difference_NN between_IN the_DT target_NN slowdown_NN ratio_NN and_CC the_DT achieved_VBN one_CD ._.
+The_DT initial_JJ rate_NN class_NN is_VBZ estimated_VBN based_VBN on_IN predicted_VBN workload_NN using_VBG queueing_VBG theory_NN ._.
+We_PRP implement_VBP the_DT feedback_NN controller_NN in_IN an_DT Apache_JJ Web_NN server_NN ._.
+The_DT experimental_JJ results_NNS under_IN various_JJ environments_NNS demonstrate_VBP the_DT controller_NN 's_POS effectiveness_NN and_CC robustness_NN ._.

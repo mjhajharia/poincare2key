@@ -1,0 +1,8 @@
+Towards_IN a_DT multimedia_NNS formatting_VBG vocabulary_NN
+Time-based_JJ ,_, media-centric_JJ Web_NN presentations_NNS can_MD be_VB described_VBN declaratively_RB in_IN the_DT XML_NN world_NN through_IN the_DT development_NN of_IN languages_NNS such_JJ as_IN SMIL_NNP ._.
+It_PRP is_VBZ difficult_JJ ,_, however_RB ,_, to_TO fully_RB integrate_VB them_PRP in_IN a_DT complete_JJ document_NN transformation_NN processing_NN chain_NN ._.
+In_IN order_NN to_TO achieve_VB the_DT desired_VBN processing_NN of_IN data-driven_JJ ,_, time-based_JJ ,_, media-centric_JJ presentations_NNS ,_, the_DT text-flow_JJ based_JJ formatting_NN vocabularies_NNS used_VBN by_IN style_NN languages_NNS such_JJ as_IN XSL_NNP ,_, CSS_NNP and_CC DSSSL_NNP need_VBP to_TO be_VB extended_VBN ._.
+The_DT paper_NN presents_VBZ a_DT selection_NN of_IN use_NN cases_NNS which_WDT are_VBP used_VBN to_TO derive_VB a_DT list_NN of_IN requirements_NNS for_IN a_DT multimedia_NNS style_NN and_CC transformation_NN formatting_NN vocabulary_NN ._.
+The_DT boundaries_NNS of_IN applicability_NN of_IN existing_VBG text-based_JJ formatting_NN models_NNS for_IN media-centric_JJ transformations_NNS are_VBP analyzed_VBN ._.
+The_DT paper_NN then_RB discusses_VBZ the_DT advantages_NNS and_CC disadvantages_NNS of_IN a_DT fully-fledged_JJ time-based_JJ multimedia_NNS formatting_VBG model_NN ._.
+Finally_RB ,_, the_DT discussion_NN is_VBZ illustrated_VBN by_IN describing_VBG the_DT key_JJ properties_NNS of_IN the_DT example_NN multimedia_NNS formatting_VBG vocabulary_NN currently_RB implemented_VBN in_IN the_DT back-end_JJ of_IN our_PRP$ Cuypers_NNP multimedia_NNS transformation_NN engine_NN ._.

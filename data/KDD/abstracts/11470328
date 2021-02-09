@@ -1,0 +1,8 @@
+Cold_NNP start_NN link_NN prediction_NN
+In_IN the_DT traditional_JJ link_NN prediction_NN problem_NN ,_, a_DT snapshot_NN of_IN a_DT social_JJ network_NN is_VBZ used_VBN as_IN a_DT starting_VBG point_NN to_TO predict_VB ,_, by_IN means_NNS of_IN graph-theoretic_JJ measures_NNS ,_, the_DT links_NNS that_WDT are_VBP likely_JJ to_TO appear_VB in_IN the_DT future_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP cold_JJ start_NN link_NN prediction_NN as_IN the_DT problem_NN of_IN predicting_VBG the_DT structure_NN of_IN a_DT social_JJ network_NN when_WRB the_DT network_NN itself_PRP is_VBZ totally_RB missing_VBG while_IN some_DT other_JJ information_NN regarding_VBG the_DT nodes_NNS is_VBZ available_JJ ._.
+We_PRP propose_VBP a_DT two-phase_JJ method_NN based_VBN on_IN the_DT bootstrap_NN probabilistic_JJ graph_NN ._.
+The_DT first_JJ phase_NN generates_VBZ an_DT implicit_JJ social_JJ network_NN under_IN the_DT form_NN of_IN a_DT probabilistic_JJ graph_NN ._.
+The_DT second_JJ phase_NN applies_VBZ probabilistic_JJ graph-based_JJ measures_NNS to_TO produce_VB the_DT final_JJ prediction_NN ._.
+We_PRP assess_VBP our_PRP$ method_NN empirically_RB over_IN a_DT large_JJ data_NN collection_NN obtained_VBN from_IN Flickr_NNP ,_, using_VBG interest_NN groups_NNS as_IN the_DT initial_JJ information_NN ._.
+The_DT experiments_NNS confirm_VBP the_DT effectiveness_NN of_IN our_PRP$ approach_NN ._.

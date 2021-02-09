@@ -1,0 +1,12 @@
+Optimizing_VBG search_NN engines_NNS using_VBG clickthrough_JJ data_NNS
+This_DT paper_NN presents_VBZ an_DT approach_NN to_TO automatically_RB optimizing_VBG the_DT retrieval_NN quality_NN of_IN search_NN engines_NNS using_VBG clickthrough_JJ data_NNS ._.
+Intuitively_RB ,_, a_DT good_JJ information_NN retrieval_NN system_NN should_MD present_VB relevant_JJ documents_NNS high_JJ in_IN the_DT ranking_NN ,_, with_IN less_JJR relevant_JJ documents_NNS following_VBG below_IN ._.
+While_IN previous_JJ approaches_NNS to_TO learning_VBG retrieval_NN functions_NNS from_IN examples_NNS exist_VBP ,_, they_PRP typically_RB require_VBP training_NN data_NNS generated_VBN from_IN relevance_NN judgments_NNS by_IN experts_NNS ._.
+This_DT makes_VBZ them_PRP difficult_JJ and_CC expensive_JJ to_TO apply_VB ._.
+The_DT goal_NN of_IN this_DT paper_NN is_VBZ to_TO develop_VB a_DT method_NN that_WDT utilizes_VBZ clickthrough_JJ data_NNS for_IN training_NN ,_, namely_RB the_DT query-log_NN of_IN the_DT search_NN engine_NN in_IN connection_NN with_IN the_DT log_NN of_IN links_NNS the_DT users_NNS clicked_VBD on_RP in_IN the_DT presented_VBN ranking_NN ._.
+Such_JJ clickthrough_JJ data_NNS is_VBZ available_JJ in_IN abundance_NN and_CC can_MD be_VB recorded_VBN at_IN very_RB low_JJ cost_NN ._.
+Taking_VBG a_DT Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- approach_NN ,_, this_DT paper_NN presents_VBZ a_DT method_NN for_IN learning_VBG retrieval_NN functions_NNS ._.
+From_IN a_DT theoretical_JJ perspective_NN ,_, this_DT method_NN is_VBZ shown_VBN to_TO be_VB well-founded_JJ in_IN a_DT risk_NN minimization_NN framework_NN ._.
+Furthermore_RB ,_, it_PRP is_VBZ shown_VBN to_TO be_VB feasible_JJ even_RB for_IN large_JJ sets_NNS of_IN queries_NNS and_CC features_NNS ._.
+The_DT theoretical_JJ results_NNS are_VBP verified_VBN in_IN a_DT controlled_JJ experiment_NN ._.
+It_PRP shows_VBZ that_IN the_DT method_NN can_MD effectively_RB adapt_VB the_DT retrieval_NN function_NN of_IN a_DT meta-search_JJ engine_NN to_TO a_DT particular_JJ group_NN of_IN users_NNS ,_, outperforming_VBG Google_NNP in_IN terms_NNS of_IN retrieval_NN quality_NN after_IN only_RB a_DT couple_NN of_IN hundred_CD training_NN examples_NNS ._.

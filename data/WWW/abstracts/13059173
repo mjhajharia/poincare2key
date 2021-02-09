@@ -1,0 +1,7 @@
+Leveraging_VBG auxiliary_JJ text_NN terms_NNS for_IN automatic_JJ image_NN annotation_NN
+This_DT paper_NN proposes_VBZ a_DT novel_JJ algorithm_NN to_TO annotate_VB web_NN images_NNS by_IN automatically_RB aligning_VBG the_DT images_NNS with_IN their_PRP$ most_RBS relevant_JJ auxiliary_JJ text_NN terms_NNS ._.
+First_RB ,_, the_DT DOM-based_JJ web_NN page_NN segmentation_NN is_VBZ performed_VBN to_TO extract_VB images_NNS and_CC their_PRP$ most_RBS relevant_JJ auxiliary_JJ text_NN blocks_NNS ._.
+Second_JJ ,_, automatic_JJ image_NN clustering_NN is_VBZ used_VBN to_TO partition_NN the_DT web_NN images_NNS into_IN a_DT set_NN of_IN groups_NNS according_VBG to_TO their_PRP$ visual_JJ similarity_NN contexts_NNS ,_, which_WDT significantly_RB reduces_VBZ the_DT uncertainty_NN on_IN the_DT relatedness_NN between_IN the_DT images_NNS and_CC their_PRP$ auxiliary_JJ terms_NNS ._.
+The_DT semantics_NNS of_IN the_DT visually-similar_JJ images_NNS in_IN the_DT same_JJ cluster_NN are_VBP then_RB described_VBN by_IN the_DT same_JJ ranked_VBN list_NN of_IN terms_NNS which_WDT frequently_RB co-occur_VBP in_IN their_PRP$ text_NN blocks_NNS ._.
+Finally_RB ,_, a_DT relevance_NN re-ranking_NN process_NN is_VBZ performed_VBN over_IN a_DT term_NN correlation_NN network_NN to_TO further_RB refine_VB the_DT ranked_VBN term_NN list_NN ._.
+Our_PRP$ experiments_NNS on_IN a_DT large-scale_JJ database_NN of_IN web_NN pages_NNS have_VBP provided_VBN very_RB positive_JJ results_NNS ._.

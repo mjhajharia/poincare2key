@@ -1,0 +1,9 @@
+Neighbor_NN query_NN friendly_JJ compression_NN of_IN social_JJ networks_NNS
+Compressing_VBG social_JJ networks_NNS can_MD substantially_RB facilitate_VB mining_NN and_CC advanced_JJ analysis_NN of_IN large_JJ social_JJ networks_NNS ._.
+Preferably_RB ,_, social_JJ networks_NNS should_MD be_VB compressed_VBN in_IN a_DT way_NN that_IN they_PRP still_RB can_MD be_VB queried_VBN efficiently_RB without_IN decompression_NN ._.
+Arguably_RB ,_, neighbor_NN queries_NNS ,_, which_WDT search_VBP for_IN all_DT neighbors_NNS of_IN a_DT query_NN vertex_NN ,_, are_VBP the_DT most_RBS essential_JJ operations_NNS on_IN social_JJ networks_NNS ._.
+Can_MD we_PRP compress_VBP social_JJ networks_NNS effectively_RB in_IN a_DT neighbor_NN query_NN friendly_JJ manner_NN ,_, that_DT is_VBZ ,_, neighbor_NN queries_NNS still_RB can_MD be_VB answered_VBN in_IN sublinear_JJ time_NN using_VBG the_DT compression_NN ?_.
+In_IN this_DT paper_NN ,_, we_PRP develop_VBP an_DT effective_JJ social_JJ network_NN compression_NN approach_NN achieved_VBN by_IN a_DT novel_JJ Eulerian_JJ data_NN structure_NN using_VBG multi-position_JJ linearizations_NNS of_IN directed_JJ graphs_NNS ._.
+Our_PRP$ method_NN comes_VBZ with_IN a_DT nontrivial_JJ theoretical_JJ bound_VBD on_IN the_DT compression_NN rate_NN ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, our_PRP$ approach_NN is_VBZ the_DT first_JJ that_WDT can_MD answer_VB both_CC out-neighbor_JJ and_CC in-neighbor_JJ queries_NNS in_IN sublinear_JJ time_NN ._.
+An_DT extensive_JJ empirical_JJ study_NN on_IN more_JJR than_IN a_DT dozen_NN benchmark_JJ real_JJ data_NN sets_NNS verifies_VBZ our_PRP$ design_NN ._.

@@ -1,0 +1,3 @@
+Mining_NNP RDF_NNP metadata_NN for_IN generalized_JJ association_NN rules_NNS :_: knowledge_NN discovery_NN in_IN the_DT semantic_JJ web_NN era_NN
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT novel_JJ frequent_JJ generalized_JJ pattern_NN mining_NN algorithm_NN ,_, called_VBN GP-Close_NN ,_, for_IN mining_NN generalized_JJ associations_NNS from_IN RDF_NN metadata_NN ._.
+To_TO solve_VB the_DT over-generalization_NN problem_NN encountered_VBN by_IN existing_VBG methods_NNS ,_, GP-Close_NN employs_VBZ the_DT notion_NN of_IN emphgeneralization_NN closure_NN for_IN systematic_JJ over-generalization_JJ reduction_NN ._.

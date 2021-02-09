@@ -1,0 +1,5 @@
+Applying_VBG NavOptim_NNP to_TO minimize_VB navigational_JJ effort_NN
+A_DT major_JJ factor_NN in_IN the_DT effectiveness_NN of_IN the_DT interaction_NN which_WDT users_NNS have_VBP with_IN Web_NN applications_NNS is_VBZ the_DT ease_NN with_IN which_WDT they_PRP can_MD locate_VB information_NN and_CC functionality_NN which_WDT they_PRP are_VBP seeking_VBG ._.
+Effective_JJ design_NN is_VBZ however_RB complicated_VBN by_IN the_DT multiple_JJ design_NN purposes_NNS and_CC diverse_JJ users_NNS which_WDT Web_NN applications_NNS typically_RB support_VBP ._.
+In_IN this_DT paper_NN we_PRP describe_VBP a_DT navigational_JJ design_NN method_NN aimed_VBN at_IN optimising_VBG designs_NNS through_IN minimizing_VBG navigational_JJ entropy_NN ._.
+The_DT approach_NN uses_VBZ a_DT theoretical_JJ navigational_JJ depth_NN for_IN the_DT various_JJ information_NN and_CC service_NN components_NNS to_TO moderate_VB a_DT nested_JJ hierarchical_JJ clustering_NN of_IN the_DT content_NN ._.

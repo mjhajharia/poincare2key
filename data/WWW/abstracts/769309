@@ -1,0 +1,6 @@
+A_DT quality_NN model_NN for_IN multichannel_JJ adaptive_JJ information_NN
+The_DT ongoing_JJ diffusion_NN of_IN novel_JJ and_CC mobile_JJ devices_NNS offers_VBZ new_JJ ways_NNS to_TO provide_VB services_NNS across_IN a_DT growing_VBG set_NN of_IN network_NN technologies_NNS ._.
+As_IN a_DT consequence_NN ,_, traditional_JJ information_NN systems_NNS evolve_VBP to_TO multichannel_JJ systems_NNS in_IN which_WDT services_NNS are_VBP provided_VBN through_IN different_JJ channels_NNS ,_, being_VBG a_DT channel_NN the_DT abstraction_NN of_IN a_DT device_NN and_CC a_DT network_NN ._.
+This_DT work_NN proposes_VBZ a_DT quality_NN model_NN suitable_JJ for_IN capturing_VBG and_CC reasoning_NN about_IN quality_NN aspects_NNS of_IN multichannel_JJ information_NN systems_NNS ._.
+In_IN particular_JJ ,_, the_DT model_NN enables_VBZ a_DT clear_JJ separation_NN of_IN modeling_NN aspects_NNS of_IN services_NNS ,_, networks_NNS ,_, and_CC devices_NNS ._.
+Further_RB ,_, it_PRP embeds_VBZ rules_NNS enabling_VBG the_DT evaluation_NN of_IN end-to-end_JJ quality_NN ,_, which_WDT can_MD be_VB used_VBN to_TO select_VB services_NNS according_VBG to_TO the_DT actual_JJ quality_NN perceived_VBN by_IN users_NNS ._.

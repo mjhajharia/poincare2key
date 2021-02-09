@@ -1,0 +1,8 @@
+DEW_NN :_: DNS-enhanced_JJ web_NN for_IN faster_JJR content_NN delivery_NN
+With_IN a_DT key_JJ component_NN of_IN latency_NN on_IN the_DT Web_NN being_VBG connection_NN set_VBN up_RP between_IN clients_NNS and_CC Web_NN servers_NNS ,_, several_JJ ways_NNS to_TO avoid_VB connections_NNS have_VBP been_VBN explored_VBN ._.
+While_IN the_DT work_NN in_IN recent_JJ years_NNS on_IN Content_NN Distribution_NN Networks_NNP -LRB-_-LRB- CDNs_NNS -RRB-_-RRB- have_VBP moved_VBN some_DT content_NN `_`` closer_JJR '_'' to_TO users_NNS at_IN the_DT cost_NN of_IN increasing_VBG DNS_NNP traffic_NN ,_, they_PRP have_VBP not_RB fully_RB exploited_VBN the_DT available_JJ unused_JJ potential_NN of_IN existing_VBG protocols_NNS ._.
+We_PRP explore_VBP ways_NNS by_IN which_WDT a_DT variety_NN of_IN Web_NN responses_NNS can_MD be_VB piggybacked_VBN on_IN DNS_NN messages_NNS ._.
+While_IN we_PRP evaluated_VBD our_PRP$ idea_NN in_IN the_DT Web_NN context_NN ,_, the_DT approach_NN is_VBZ generic_JJ and_CC not_RB restricted_JJ to_TO Web_NN responses_NNS ._.
+We_PRP propose_VBP an_DT architecture_NN for_IN HTTP_NNP piggybacking_VBG in_IN DNS_NN messages_NNS and_CC carry_VB out_RP a_DT detailed_JJ performance_NN analysis_NN based_VBN on_IN a_DT trace-driven_JJ simulation_NN study_NN ._.
+Our_PRP$ architecture_NN requires_VBZ minimal_JJ extensions_NNS to_TO existing_VBG protocols_NNS ,_, utilizing_VBG only_RB the_DT allowed_VBN optional_JJ fields_NNS for_IN these_DT extensions_NNS ._.
+It_PRP is_VBZ fully_RB compatible_JJ and_CC can_MD coexist_VB with_IN the_DT current_JJ Web_NN ._.

@@ -1,0 +1,10 @@
+Using_VBG annotations_NNS in_IN enterprise_NN search_NN
+A_DT major_JJ difference_NN between_IN corporate_JJ intranets_NNS and_CC the_DT Internet_NNP is_VBZ that_IN in_IN intranets_NNS the_DT barrier_NN for_IN users_NNS to_TO create_VB web_NN pages_NNS is_VBZ much_RB higher_JJR ._.
+This_DT limits_VBZ the_DT amount_NN and_CC quality_NN of_IN anchor_NN text_NN ,_, one_CD of_IN the_DT major_JJ factors_NNS used_VBN by_IN Internet_NN search_NN engines_NNS ,_, making_VBG intranet_JJ search_NN more_RBR difficult_JJ ._.
+The_DT social_JJ phenomenon_NN at_IN play_NN also_RB means_VBZ that_IN spam_NN is_VBZ relatively_RB rare_JJ ._.
+Both_DT on_IN the_DT Internet_NN and_CC in_IN intranets_NNS ,_, users_NNS are_VBP often_RB willing_JJ to_TO cooperate_VB with_IN the_DT search_NN engine_NN in_IN improving_VBG the_DT search_NN experience_NN ._.
+These_DT characteristics_NNS naturally_RB lead_VBP to_TO considering_VBG using_VBG user_NN feedback_NN to_TO improve_VB search_NN quality_NN in_IN intranets_NNS ._.
+In_IN this_DT paper_NN we_PRP show_VBP how_WRB a_DT particular_JJ form_NN of_IN feedback_NN ,_, namely_RB user_NN annotations_NNS ,_, can_MD be_VB used_VBN to_TO improve_VB the_DT quality_NN of_IN intranet_NN search_NN ._.
+An_DT annotation_NN is_VBZ a_DT short_JJ description_NN of_IN the_DT contents_NNS of_IN a_DT web_NN page_NN ,_, which_WDT can_MD be_VB considered_VBN a_DT substitute_NN for_IN anchor_NN text_NN ._.
+We_PRP propose_VBP two_CD ways_NNS to_TO obtain_VB user_NN annotations_NNS ,_, using_VBG explicit_JJ and_CC implicit_JJ feedback_NN ,_, and_CC show_VB how_WRB they_PRP can_MD be_VB integrated_VBN into_IN a_DT search_NN engine_NN ._.
+Preliminary_JJ experiments_NNS on_IN the_DT IBM_NNP intranet_NN demonstrate_VBP that_IN using_VBG annotations_NNS improves_VBZ the_DT search_NN quality_NN ._.

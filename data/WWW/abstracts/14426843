@@ -1,0 +1,4 @@
+D2RQ\/update_NN :_: updating_VBG relational_JJ data_NNS via_IN virtual_JJ RDF_NN
+D2RQ_NN is_VBZ a_DT popular_JJ RDB-to-RDF_NN mapping_NN platform_NN that_WDT supports_VBZ mapping_NN relational_JJ databases_NNS to_TO RDF_NNP and_CC posing_VBG SPARQL_NN queries_NNS to_TO these_DT relational_JJ databases_NNS ._.
+However_RB ,_, D2RQ_NN merely_RB provides_VBZ a_DT read-only_JJ RDF_NN view_NN on_IN relational_JJ databases_NNS ._.
+Thus_RB ,_, we_PRP introduce_VBP D2RQ\/Update_NN --_: an_DT extension_NN of_IN D2RQ_NN to_TO enable_VB executing_VBG SPARQL\/Update_NN statements_NNS on_IN the_DT mapped_VBN data_NNS ,_, and_CC to_TO facilitate_VB the_DT creation_NN of_IN a_DT read-write_JJ Semantic_JJ Web_NN ._.

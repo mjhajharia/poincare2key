@@ -1,0 +1,10 @@
+Semantic_NNP Wikipedia_NNP
+Wikipedia_NNP is_VBZ the_DT world_NN 's_POS largest_JJS collaboratively_RB edited_VBN source_NN of_IN encyclopaedic_JJ knowledge_NN ._.
+But_CC in_IN spite_NN of_IN its_PRP$ utility_NN ,_, its_PRP$ contents_NNS are_VBP barely_RB machine-interpretable_JJ ._.
+Structural_JJ knowledge_NN ,_, e._NN ,_, g._NN about_IN how_WRB concepts_NNS are_VBP interrelated_VBN ,_, can_MD neither_RB be_VB formally_RB stated_VBN nor_CC automatically_RB processed_VBN ._.
+Also_RB the_DT wealth_NN of_IN numerical_JJ data_NNS is_VBZ only_RB available_JJ as_IN plain_JJ text_NN and_CC thus_RB can_MD not_RB be_VB processed_VBN by_IN its_PRP$ actual_JJ meaning_NN ._.
+We_PRP provide_VBP an_DT extension_NN to_TO be_VB integrated_VBN in_IN Wikipedia_NNP ,_, that_WDT allows_VBZ the_DT typing_NN of_IN links_NNS between_IN articles_NNS and_CC the_DT specification_NN of_IN typed_VBN data_NNS inside_IN the_DT articles_NNS in_IN an_DT easy-to-use_JJ manner_NN ._.
+Enabling_VBG even_RB casual_JJ users_NNS to_TO participate_VB in_IN the_DT creation_NN of_IN an_DT open_JJ semantic_JJ knowledge_NN base_NN ,_, Wikipedia_NNP has_VBZ the_DT chance_NN to_TO become_VB a_DT resource_NN of_IN semantic_JJ statements_NNS ,_, hitherto_RB unknown_JJ regarding_VBG size_NN ,_, scope_NN ,_, openness_NN ,_, and_CC internationalisation_NN ._.
+These_DT semantic_JJ enhancements_NNS bring_VBP to_TO Wikipedia_NNP benefits_NNS of_IN today_NN 's_POS semantic_JJ technologies_NNS :_: more_RBR specific_JJ ways_NNS of_IN searching_VBG and_CC browsing_VBG ._.
+Also_RB ,_, the_DT RDF_NNP export_NN ,_, that_WDT gives_VBZ direct_JJ access_NN to_TO the_DT formalised_VBN knowledge_NN ,_, opens_VBZ Wikipedia_NNP up_IN to_TO a_DT wide_JJ range_NN of_IN external_JJ applications_NNS ,_, that_WDT will_MD be_VB able_JJ to_TO use_VB it_PRP as_IN a_DT background_NN knowledge_NN base_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP the_DT design_NN ,_, implementation_NN ,_, and_CC possible_JJ uses_NNS of_IN this_DT extension_NN ._.

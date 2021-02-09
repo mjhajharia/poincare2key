@@ -1,0 +1,6 @@
+Preferential_JJ walk_NN :_: towards_IN efficient_JJ and_CC scalable_JJ search_NN in_IN unstructured_JJ peer-to-peer_JJ networks_NNS
+To_TO improve_VB search_NN efficiency_NN and_CC reduce_VB unnecessary_JJ traffic_NN in_IN Peer-to-Peer_NN -LRB-_-LRB- P2P_NN -RRB-_-RRB- networks_NNS ,_, this_DT paper_NN proposes_VBZ a_DT trust-based_JJ probabilistic_JJ search_NN algorithm_NN ,_, called_VBN preferential_JJ walk_NN -LRB-_-LRB- P-Walk_NN -RRB-_-RRB- ._.
+Every_DT peer_VBP ranks_NNS its_PRP$ neighbors_NNS according_VBG to_TO searching_VBG experience_NN ._.
+The_DT highly_RB ranked_VBN neighbors_NNS have_VBP higher_JJR probabilities_NNS to_TO be_VB queried_VBN ._.
+Simulation_NN results_NNS show_VBP that_IN P-Walk_NN is_VBZ not_RB only_RB efficient_JJ ,_, but_CC also_RB robust_JJ against_IN malicious_JJ behaviors_NNS ._.
+Furthermore_RB ,_, we_PRP measure_VBP peers_NNS '_POS rank_NN distribution_NN and_CC draw_NN implications_NNS ._.

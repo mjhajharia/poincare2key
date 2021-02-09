@@ -1,0 +1,9 @@
+GigaHash_NNP :_: scalable_JJ minimal_JJ perfect_JJ hashing_VBG for_IN billions_NNS of_IN urls_NNS
+A_DT minimal_JJ perfect_JJ function_NN maps_VBZ a_DT static_JJ set_NN of_IN n_NN keys_NNS on_IN to_TO the_DT range_NN of_IN integers_NNS -LCB-_-LRB- 0,1,2_CD ,_, ..._: ,_, n_NN -_: 1_CD -RCB-_-RRB- ._.
+We_PRP present_VBP a_DT scalable_JJ high_JJ performance_NN algorithm_NN based_VBN on_IN random_JJ graphs_NNS for_IN constructing_VBG minimal_JJ perfect_JJ hash_JJ functions_NNS -LRB-_-LRB- MPHFs_NNS -RRB-_-RRB- ._.
+For_IN a_DT set_NN of_IN n_NN keys_NNS ,_, our_PRP$ algorithm_NN outputs_VBZ a_DT description_NN of_IN h_NN in_IN expected_VBN time_NN O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- ._.
+The_DT evaluation_NN of_IN h_NN -LRB-_-LRB- x_NN -RRB-_-RRB- requires_VBZ three_CD memory_NN accesses_NNS for_IN any_DT key_JJ x_NN and_CC the_DT description_NN of_IN h_NN takes_VBZ up_RP 0.89_CD n_NN bytes_NNS -LRB-_-LRB- 7.13_CD n_NN bits_NNS -RRB-_-RRB- ._.
+This_DT is_VBZ the_DT best_JJS -LRB-_-LRB- most_JJS space_NN efficient_JJ -RRB-_-RRB- known_JJ result_NN to_TO date_NN ._.
+Using_VBG a_DT simple_JJ heuristic_NN and_CC Huffman_NN coding_NN ,_, the_DT space_NN requirement_NN is_VBZ further_RB reduced_VBN to_TO 0.79_CD n_NN bytes_NNS -LRB-_-LRB- 6.86_CD n_NN bits_NNS -RRB-_-RRB- ._.
+We_PRP present_VBP a_DT high_JJ performance_NN architecture_NN that_WDT is_VBZ easy_JJ to_TO parallelize_NN and_CC scales_NNS well_RB to_TO very_RB large_JJ data_NNS sets_NNS encountered_VBN in_IN internet_NN search_NN applications_NNS ._.
+Experimental_JJ results_NNS on_IN a_DT one_CD billion_CD URL_NN dataset_NN obtained_VBN from_IN Live_NNP Search_VB crawl_NN data_NNS ,_, show_VBP that_IN the_DT proposed_VBN algorithm_NN -LRB-_-LRB- a_DT -RRB-_-RRB- finds_VBZ an_DT MPHF_NN for_IN one_CD billion_CD URLs_NNS in_IN less_JJR than_IN 4_CD minutes_NNS ,_, and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- requires_VBZ only_RB 6.86_CD bits\/key_NN for_IN the_DT description_NN of_IN h._NN

@@ -1,0 +1,7 @@
+Style_NN mining_NN of_IN electronic_JJ messages_NNS for_IN multiple_JJ authorship_NN discrimination_NN :_: first_JJ results_NNS
+This_DT paper_NN considers_VBZ the_DT use_NN of_IN computational_JJ stylistics_NNS for_IN performing_VBG authorship_NN attribution_NN of_IN electronic_JJ messages_NNS ,_, addressing_VBG categorization_NN problems_NNS with_IN as_RB many_JJ as_IN 20_CD different_JJ classes_NNS -LRB-_-LRB- authors_NNS -RRB-_-RRB- ._.
+Effective_JJ stylistic_JJ characterization_NN of_IN text_NN is_VBZ potentially_RB useful_JJ for_IN a_DT variety_NN of_IN tasks_NNS ,_, as_IN language_NN style_NN contains_VBZ cues_NNS regarding_VBG the_DT authorship_NN ,_, purpose_NN ,_, and_CC mood_NN of_IN the_DT text_NN ,_, all_DT of_IN which_WDT would_MD be_VB useful_JJ adjuncts_NNS to_TO information_NN retrieval_NN or_CC knowledge-management_JJ tasks_NNS ._.
+We_PRP focus_VBP here_RB on_IN the_DT problem_NN of_IN determining_VBG the_DT author_NN of_IN an_DT anonymous_JJ message_NN ,_, based_VBN only_RB on_IN the_DT message_NN text_NN ._.
+Several_JJ multiclass_JJ variants_NNS of_IN the_DT Winnow_NNP algorithm_NN were_VBD applied_VBN to_TO a_DT vector_NN representation_NN of_IN the_DT message_NN texts_NNS to_TO learn_VB models_NNS for_IN discriminating_VBG different_JJ authors_NNS ._.
+We_PRP present_VBP results_NNS comparing_VBG the_DT classification_NN accuracy_NN of_IN the_DT different_JJ approaches_NNS ._.
+The_DT results_NNS show_VBP that_IN stylistic_JJ models_NNS can_MD be_VB accurately_RB learned_VBN to_TO determine_VB an_DT author_NN 's_POS identity_NN ._.

@@ -1,0 +1,12 @@
+Compression_NN of_IN weighted_JJ graphs_NNS
+We_PRP propose_VBP to_TO compress_VB weighted_JJ graphs_NNS -LRB-_-LRB- networks_NNS -RRB-_-RRB- ,_, motivated_VBN by_IN the_DT observation_NN that_IN large_JJ networks_NNS of_IN social_JJ ,_, biological_JJ ,_, or_CC other_JJ relations_NNS can_MD be_VB complex_JJ to_TO handle_VB and_CC visualize_VB ._.
+In_IN the_DT process_NN also_RB known_VBN as_IN graph_NN simplification_NN ,_, nodes_NNS and_CC -LRB-_-LRB- unweighted_JJ -RRB-_-RRB- edges_NNS are_VBP grouped_VBN to_TO supernodes_NNS and_CC superedges_NNS ,_, respectively_RB ,_, to_TO obtain_VB a_DT smaller_JJR graph_NN ._.
+We_PRP propose_VBP models_NNS and_CC algorithms_NNS for_IN weighted_JJ graphs_NNS ._.
+The_DT interpretation_NN -LRB-_-LRB- i.e._FW decompression_NN -RRB-_-RRB- of_IN a_DT compressed_VBN ,_, weighted_JJ graph_NN is_VBZ that_IN a_DT pair_NN of_IN original_JJ nodes_NNS is_VBZ connected_VBN by_IN an_DT edge_NN if_IN their_PRP$ supernodes_NNS are_VBP connected_VBN by_IN one_CD ,_, and_CC that_IN the_DT weight_NN of_IN an_DT edge_NN is_VBZ approximated_VBN to_TO be_VB the_DT weight_NN of_IN the_DT superedge_NN ._.
+The_DT compression_NN problem_NN now_RB consists_VBZ of_IN choosing_NN supernodes_NNS ,_, superedges_NNS ,_, and_CC superedge_NN weights_NNS so_IN that_IN the_DT approximation_NN error_NN is_VBZ minimized_VBN while_IN the_DT amount_NN of_IN compression_NN is_VBZ maximized_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP formulate_VBP this_DT task_NN as_IN the_DT `_`` simple_JJ weighted_JJ graph_NN compression_NN problem_NN '_'' ._.
+We_PRP then_RB propose_VBP a_DT much_RB wider_JJR class_NN of_IN tasks_NNS under_IN the_DT name_NN of_IN `_`` generalized_JJ weighted_JJ graph_NN compression_NN problem_NN '_'' ._.
+The_DT generalized_JJ task_NN extends_VBZ the_DT optimization_NN to_TO preserve_VB longer-range_JJ connectivities_NNS between_IN nodes_NNS ,_, not_RB just_RB individual_JJ edge_NN weights_NNS ._.
+We_PRP study_VBD the_DT properties_NNS of_IN these_DT problems_NNS and_CC propose_VBP a_DT range_NN of_IN algorithms_NNS to_TO solve_VB them_PRP ,_, with_IN different_JJ balances_NNS between_IN complexity_NN and_CC quality_NN of_IN the_DT result_NN ._.
+We_PRP evaluate_VBP the_DT problems_NNS and_CC algorithms_NNS experimentally_RB on_IN real_JJ networks_NNS ._.
+The_DT results_NNS indicate_VBP that_IN weighted_JJ graphs_NNS can_MD be_VB compressed_VBN efficiently_RB with_IN relatively_RB little_JJ compression_NN error_NN ._.

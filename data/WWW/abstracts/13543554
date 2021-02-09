@@ -1,0 +1,4 @@
+Two_CD birds_NNS with_IN one_CD stone_NN :_: a_DT graph-based_JJ framework_NN for_IN disambiguating_VBG and_CC tagging_VBG people_NNS names_NNS in_IN web_NN search_NN
+The_DT ever_RB growing_VBG volume_NN of_IN Web_NN data_NNS makes_VBZ it_PRP increasingly_RB challenging_JJ to_TO accurately_RB find_VB relevant_JJ information_NN about_IN a_DT specific_JJ person_NN on_IN the_DT Web_NN ._.
+To_TO address_VB the_DT challenge_NN caused_VBN by_IN name_NN ambiguity_NN in_IN Web_NN people_NNS search_NN ,_, this_DT paper_NN explores_VBZ a_DT novel_JJ graph-based_JJ framework_NN to_TO both_CC disambiguate_NN and_CC tag_NN people_NNS entities_NNS in_IN Web_NN search_NN results_NNS ._.
+Experimental_JJ results_NNS demonstrate_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN framework_NN in_IN tag_NN discovery_NN and_CC name_NN disambiguation_NN ._.

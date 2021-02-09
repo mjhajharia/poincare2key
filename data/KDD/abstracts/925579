@@ -1,0 +1,7 @@
+Application_NN of_IN kernels_NNS to_TO link_VB analysis_NN
+The_DT application_NN of_IN kernel_NN methods_NNS to_TO link_NN analysis_NN is_VBZ explored_VBN ._.
+In_IN particular_JJ ,_, Kandola_NNP et_FW al._FW 's_POS Neumann_NNP kernels_NNS are_VBP shown_VBN to_TO subsume_VB not_RB only_RB the_DT co-citation_NN and_CC bibliographic_JJ coupling_NN relatedness_NN but_CC also_RB Kleinberg_NNP 's_POS HITS_NNP importance_NN ._.
+These_DT popular_JJ measures_NNS of_IN relatedness_NN and_CC importance_NN correspond_VBP to_TO the_DT Neumann_NNP kernels_NNS at_IN the_DT extremes_NNS of_IN their_PRP$ parameter_NN range_NN ,_, and_CC hence_RB these_DT kernels_NNS can_MD be_VB interpreted_VBN as_IN defining_VBG a_DT spectrum_NN of_IN link_NN analysis_NN measures_NNS intermediate_JJ between_IN co-citation\/bibliographic_JJ coupling_NN and_CC HITS_NN ._.
+We_PRP also_RB show_VBP that_IN the_DT kernels_NNS based_VBN on_IN the_DT graph_NN Laplacian_NN ,_, including_VBG the_DT regularized_VBN Laplacian_NN and_CC diffusion_NN kernels_NNS ,_, provide_VBP relatedness_NN measures_NNS that_WDT overcome_VBP some_DT limitations_NNS of_IN co-citation_NN relatedness_NN ._.
+The_DT property_NN of_IN these_DT kernel-based_JJ link_NN analysis_NN measures_NNS is_VBZ examined_VBN with_IN a_DT network_NN of_IN bibliographic_JJ citations_NNS ._.
+Practical_NNP issues_NNS in_IN applying_VBG these_DT methods_NNS to_TO real_JJ data_NNS are_VBP discussed_VBN ,_, and_CC possible_JJ solutions_NNS are_VBP proposed_VBN ._.

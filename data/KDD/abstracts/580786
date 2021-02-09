@@ -1,0 +1,11 @@
+SVM_NN selective_JJ sampling_NN for_IN ranking_NN with_IN application_NN to_TO data_NNS retrieval_NN
+Learning_NNP ranking_NN -LRB-_-LRB- or_CC preference_NN -RRB-_-RRB- functions_NNS has_VBZ been_VBN a_DT major_JJ issue_NN in_IN the_DT machine_NN learning_NN community_NN and_CC has_VBZ produced_VBN many_JJ applications_NNS in_IN information_NN retrieval_NN ._.
+SVMs_NNS -LRB-_-LRB- Support_NN Vector_NNP Machines_NNP -RRB-_-RRB- -_: a_DT classification_NN and_CC regression_NN methodology_NN -_: have_VBP also_RB shown_VBN excellent_JJ performance_NN in_IN learning_VBG ranking_JJ functions_NNS ._.
+They_PRP effectively_RB learn_VBP ranking_JJ functions_NNS of_IN high_JJ generalization_NN based_VBN on_IN the_DT ``_`` large-margin_JJ ''_'' principle_NN and_CC also_RB systematically_RB support_VB nonlinear_JJ ranking_NN by_IN the_DT ``_`` kernel_NN trick_NN ''_'' ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT SVM_NN selective_JJ sampling_NN technique_NN for_IN learning_VBG ranking_JJ functions_NNS ._.
+SVM_NN selective_JJ sampling_NN -LRB-_-LRB- or_CC active_JJ learning_NN with_IN SVM_NN -RRB-_-RRB- has_VBZ been_VBN studied_VBN in_IN the_DT context_NN of_IN classification_NN ._.
+Such_JJ techniques_NNS reduce_VBP the_DT labeling_NN effort_NN in_IN learning_VBG classification_NN functions_NNS by_IN selecting_VBG only_RB the_DT most_RBS informative_JJ samples_NNS to_TO be_VB labeled_VBN ._.
+However_RB ,_, they_PRP are_VBP not_RB extendable_JJ to_TO learning_VBG ranking_JJ functions_NNS ,_, as_IN the_DT labeled_JJ data_NNS in_IN ranking_NN is_VBZ relative_JJ ordering_VBG ,_, or_CC partial_JJ orders_NNS of_IN data_NNS ._.
+Our_PRP$ proposed_VBN sampling_NN technique_NN effectively_RB learns_VBZ an_DT accurate_JJ SVM_NN ranking_NN function_NN with_IN fewer_JJR partial_JJ orders_NNS ._.
+We_PRP apply_VBP our_PRP$ sampling_NN technique_NN to_TO the_DT data_NNS retrieval_NN application_NN ,_, which_WDT enables_VBZ fuzzy_JJ search_NN on_IN relational_JJ databases_NNS by_IN interacting_VBG with_IN users_NNS for_IN learning_VBG their_PRP$ preferences_NNS ._.
+Experimental_JJ results_NNS show_VBP a_DT significant_JJ reduction_NN of_IN the_DT labeling_NN effort_NN in_IN inducing_VBG accurate_JJ ranking_JJ functions_NNS ._.

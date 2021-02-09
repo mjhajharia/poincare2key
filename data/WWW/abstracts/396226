@@ -1,0 +1,8 @@
+Liveclassifier_NNP :_: creating_VBG hierarchical_JJ text_NN classifiers_NNS through_IN web_NN corpora_NN
+Many_JJ Web_NN information_NN services_NNS utilize_VBP techniques_NNS of_IN information_NN extraction_NN -LRB-_-LRB- IE_NN -RRB-_-RRB- to_TO collect_VB important_JJ facts_NNS from_IN the_DT Web_NN ._.
+To_TO create_VB more_RBR advanced_JJ services_NNS ,_, one_CD possible_JJ method_NN is_VBZ to_TO discover_VB thematic_JJ information_NN from_IN the_DT collected_VBN facts_NNS through_IN text_NN classification_NN ._.
+However_RB ,_, most_RBS conventional_JJ text_NN classification_NN techniques_NNS rely_VBP on_IN manual-labelled_JJ corpora_NN and_CC are_VBP thus_RB ill-suited_JJ to_TO cooperate_VB with_IN Web_NN information_NN services_NNS with_IN open_JJ domains_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP present_VBP a_DT system_NN named_VBN LiveClassifier_NNP that_WDT can_MD automatically_RB train_VB classifiersthrough_JJ Web_NN corpora_NN based_VBN on_IN user-defined_JJ topic_NN hierarchies_NNS ._.
+Due_JJ to_TO its_PRP$ flexibility_NN and_CC convenience_NN ,_, LiveClassifier_NNP can_MD be_VB easily_RB adapted_VBN for_IN various_JJ purposes_NNS ._.
+New_JJ Web_NN information_NN services_NNS can_MD be_VB created_VBN to_TO fully_RB exploit_VB it_PRP ;_: human_JJ users_NNS can_MD use_VB it_PRP to_TO create_VB classifiers_NNS for_IN their_PRP$ personal_JJ applications_NNS ._.
+The_DT effectiveness_NN of_IN classifiers_NNS created_VBN by_IN LiveClassifier_NN is_VBZ well_RB supportedby_JJ empirical_JJ evidence_NN ._.

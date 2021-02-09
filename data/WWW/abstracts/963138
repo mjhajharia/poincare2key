@@ -1,0 +1,6 @@
+Ontology-based_JJ learning_NN content_NN repurposing_VBG
+This_DT paper_NN investigates_VBZ basic_JJ research_NN issues_NNS that_WDT need_VBP to_TO be_VB addressed_VBN for_IN developing_VBG an_DT architecture_NN that_WDT enables_VBZ repurposing_NN of_IN learning_VBG objects_NNS in_IN a_DT flexible_JJ way_NN ._.
+Currently_RB ,_, there_EX are_VBP a_DT number_NN of_IN Learning_NNP Object_NNP Content_NNP Models_NNS -LRB-_-LRB- e.g._FW the_DT SCORM_NNP Content_NNP Aggregation_NN Model_NNP -RRB-_-RRB- that_WDT define_VBP learning_NN objects_NNS and_CC their_PRP$ components_NNS in_IN a_DT more_RBR or_CC less_RBR precise_JJ way_NN ._.
+However_RB ,_, these_DT models_NNS do_VBP not_RB allow_VB repurposing_NN of_IN fine-grained_JJ components_NNS -LRB-_-LRB- sentences_NNS ,_, images_NNS -RRB-_-RRB- ._.
+We_PRP developed_VBD an_DT ontology-based_JJ solution_NN for_IN content_NN repurposing_NN ._.
+The_DT ontology_NN is_VBZ a_DT solid_JJ basis_NN for_IN an_DT architecture_NN that_WDT will_MD enable_VB on-the-fly_JJ access_NN to_TO learning_VBG object_NN components_NNS and_CC that_WDT will_MD facilitate_VB repurposing_VBG these_DT components_NNS ._.

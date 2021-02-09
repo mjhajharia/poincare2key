@@ -1,0 +1,14 @@
+Beyond_NNP streams_NNS and_CC graphs_NNS :_: dynamic_JJ tensor_NN analysis_NN
+How_WRB do_VBP we_PRP find_VB patterns_NNS in_IN author-keyword_JJ associations_NNS ,_, evolving_VBG over_IN time_NN ?_.
+Or_CC in_IN Data_NNP Cubes_NNP ,_, with_IN product-branch-customer_JJ sales_NNS information_NN ?_.
+Matrix_NNP decompositions_NNS ,_, like_IN principal_JJ component_NN analysis_NN -LRB-_-LRB- PCA_NN -RRB-_-RRB- and_CC variants_NNS ,_, are_VBP invaluable_JJ tools_NNS for_IN mining_NN ,_, dimensionality_NN reduction_NN ,_, feature_NN selection_NN ,_, rule_NN identification_NN in_IN numerous_JJ settings_NNS like_IN streaming_NN data_NNS ,_, text_NN ,_, graphs_NNS ,_, social_JJ networks_NNS and_CC many_JJ more_JJR ._.
+However_RB ,_, they_PRP have_VBP only_RB two_CD orders_NNS ,_, like_IN author_NN and_CC keyword_NN ,_, in_IN the_DT above_JJ example_NN ._.
+We_PRP propose_VBP to_TO envision_VB such_JJ higher_JJR order_NN data_NNS as_IN tensors_NNS ,_, and_CC tap_VB the_DT vast_JJ literature_NN on_IN the_DT topic_NN ._.
+However_RB ,_, these_DT methods_NNS do_VBP not_RB necessarily_RB scale_VB up_RP ,_, let_VB alone_RB operate_VB on_IN semi-infinite_JJ streams_NNS ._.
+Thus_RB ,_, we_PRP introduce_VBP the_DT dynamic_JJ tensor_NN analysis_NN -LRB-_-LRB- DTA_NN -RRB-_-RRB- method_NN ,_, and_CC its_PRP$ variants_NNS ._.
+DTA_NNP provides_VBZ a_DT compact_JJ summary_NN for_IN high-order_JJ and_CC high-dimensional_JJ data_NNS ,_, and_CC it_PRP also_RB reveals_VBZ the_DT hidden_JJ correlations_NNS ._.
+Algorithmically_RB ,_, we_PRP designed_VBD DTA_NNP very_RB carefully_RB so_IN that_IN it_PRP is_VBZ -LRB-_-LRB- a_DT -RRB-_-RRB- scalable_JJ ,_, -LRB-_-LRB- b_LS -RRB-_-RRB- space_NN efficient_JJ -LRB-_-LRB- it_PRP does_VBZ not_RB need_VB to_TO store_VB the_DT past_NN -RRB-_-RRB- and_CC -LRB-_-LRB- c_LS -RRB-_-RRB- fully_RB automatic_JJ with_IN no_DT need_NN for_IN user_NN defined_VBN parameters_NNS ._.
+Moreover_RB ,_, we_PRP propose_VBP STA_NNP ,_, a_DT streaming_NN tensor_NN analysis_NN method_NN ,_, which_WDT provides_VBZ a_DT fast_JJ ,_, streaming_NN approximation_NN to_TO DTA_NNP ._.
+We_PRP implemented_VBD all_PDT our_PRP$ methods_NNS ,_, and_CC applied_VBD them_PRP in_IN two_CD real_JJ settings_NNS ,_, namely_RB ,_, anomaly_RB detection_NN and_CC multi-way_JJ latent_JJ semantic_JJ indexing_NN ._.
+We_PRP used_VBD two_CD real_JJ ,_, large_JJ datasets_NNS ,_, one_CD on_IN network_NN flow_NN data_NNS -LRB-_-LRB- 100GB_NN over_IN 1_CD month_NN -RRB-_-RRB- and_CC one_CD from_IN DBLP_NN -LRB-_-LRB- 200MB_NN over_IN 25_CD years_NNS -RRB-_-RRB- ._.
+Our_PRP$ experiments_NNS show_VBP that_IN our_PRP$ methods_NNS are_VBP fast_JJ ,_, accurate_JJ and_CC that_IN they_PRP find_VBP interesting_JJ patterns_NNS and_CC outliers_NNS on_IN the_DT real_JJ datasets_NNS ._.

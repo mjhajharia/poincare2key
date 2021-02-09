@@ -1,0 +1,13 @@
+CVS_NNP :_: a_DT Correlation-Verification_NNP based_VBN Smoothing_VBG technique_NN on_IN information_NN retrieval_NN and_CC term_NN clustering_NN
+As_IN information_NN volume_NN in_IN enterprise_NN systems_NNS and_CC in_IN the_DT Web_NN grows_VBZ rapidly_RB ,_, how_WRB to_TO accurately_RB retrieve_VB information_NN is_VBZ an_DT important_JJ research_NN area_NN ._.
+Several_JJ corpus_NN based_VBN smoothing_NN techniques_NNS have_VBP been_VBN proposed_VBN to_TO address_VB the_DT data_NNS sparsity_NN and_CC synonym_NN problems_NNS faced_VBN by_IN information_NN retrieval_NN systems_NNS ._.
+Such_JJ smoothing_NN techniques_NNS are_VBP often_RB unable_JJ to_TO discover_VB and_CC utilize_VB the_DT correlations_NNS among_IN terms_NNS ._.
+We_PRP propose_VBP CVS_NNP ,_, a_DT Correlation-Verification_NN based_VBN Smoothing_NNP method_NN ,_, that_WDT considers_VBZ co-occurrence_NN information_NN in_IN smoothing_NN ._.
+Strongly_RB correlated_VBN terms_NNS in_IN a_DT document_NN are_VBP identified_VBN by_IN their_PRP$ co-occurrence_NN frequencies_NNS in_IN the_DT document_NN ._.
+To_TO avoid_VB missing_VBG correlated_JJ terms_NNS with_IN low_JJ co-occurrence_NN frequencies_NNS but_CC specific_JJ to_TO the_DT theme_NN of_IN the_DT document_NN ,_, the_DT joint_JJ distributions_NNS of_IN terms_NNS in_IN the_DT document_NN are_VBP compared_VBN with_IN those_DT in_IN the_DT corpus_NN for_IN statistical_JJ significance_NN ._.
+A_DT common_JJ approach_NN to_TO apply_VB corpus_NN based_VBN smoothing_VBG techniques_NNS to_TO information_NN retrieval_NN is_VBZ by_IN refining_VBG the_DT vector_NN representations_NNS of_IN documents_NNS ._.
+This_DT paper_NN investigates_VBZ the_DT effects_NNS of_IN corpus_NN based_VBN smoothing_VBG on_IN information_NN retrieval_NN by_IN query_NN expansion_NN using_VBG term_NN clusters_NNS generated_VBN from_IN a_DT term_NN clustering_NN process_NN ._.
+The_DT results_NNS can_MD also_RB be_VB viewed_VBN in_IN light_NN of_IN the_DT effects_NNS of_IN smoothing_NN on_IN clustering_NN ._.
+Empirical_JJ studies_NNS show_VBP that_IN our_PRP$ approach_NN outperforms_VBZ previous_JJ corpus_NN based_VBN smoothing_VBG techniques_NNS ._.
+It_PRP improves_VBZ retrieval_NN effectiveness_NN by_IN 14.6_CD %_NN ._.
+The_DT results_NNS demonstrate_VBP that_IN corpus_NN based_JJ smoothing_NN can_MD be_VB used_VBN for_IN query_NN expansion_NN by_IN term_NN clustering_NN ._.

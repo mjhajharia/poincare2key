@@ -1,0 +1,7 @@
+Detecting_VBG graph-based_JJ spatial_JJ outliers_NNS :_: algorithms_NNS and_CC applications_NNS -LRB-_-LRB- a_DT summary_NN of_IN results_NNS -RRB-_-RRB-
+Identification_NN of_IN outliers_NNS can_MD lead_VB to_TO the_DT discovery_NN of_IN unexpected_JJ ,_, interesting_JJ ,_, and_CC useful_JJ knowledge_NN ._.
+Existing_VBG methods_NNS are_VBP designed_VBN for_IN detecting_VBG spatial_JJ outliers_NNS in_IN multidimensional_JJ geometric_JJ data_NN sets_NNS ,_, where_WRB a_DT distance_NN metric_NN is_VBZ available_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN detecting_VBG spatial_JJ outliers_NNS in_IN graph_NN structured_JJ data_NN sets_NNS ._.
+We_PRP define_VBP statistical_JJ tests_NNS ,_, analyze_VBP the_DT statistical_JJ foundation_NN underlying_VBG our_PRP$ approach_NN ,_, design_NN several_JJ fast_JJ algorithms_NNS to_TO detect_VB spatial_JJ outliers_NNS ,_, and_CC provide_VBP a_DT cost_NN model_NN for_IN outlier_NN detection_NN procedures_NNS ._.
+In_IN addition_NN ,_, we_PRP provide_VBP experimental_JJ results_NNS from_IN the_DT application_NN of_IN our_PRP$ algorithms_NNS on_IN a_DT Minneapolis-St_NN ._.
+Paul_NNP -LRB-_-LRB- Twin_NNP Cities_NNPS -RRB-_-RRB- traffic_NN dataset_NN to_TO show_VB their_PRP$ effectiveness_NN and_CC usefulness_NN ._.

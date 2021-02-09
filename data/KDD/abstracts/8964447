@@ -1,0 +1,9 @@
+Locating_VBG secret_JJ messages_NNS in_IN images_NNS
+Steganography_NNP involves_VBZ hiding_VBG messages_NNS in_IN innocuous_JJ media_NNS such_JJ as_IN images_NNS ,_, while_IN steganalysis_NN is_VBZ the_DT field_NN of_IN detecting_VBG these_DT secret_JJ messages_NNS ._.
+The_DT ultimate_JJ goal_NN of_IN steganalysis_NN is_VBZ two-fold_JJ :_: making_VBG a_DT binary_JJ classification_NN of_IN a_DT file_NN as_IN stego-bearing_JJ or_CC innocent_JJ ,_, and_CC secondly_RB ,_, locating_VBG the_DT hidden_JJ message_NN with_IN an_DT aim_NN to_TO extracting_VBG ,_, sterilizing_VBG or_CC manipulating_VBG it_PRP ._.
+Almost_RB all_DT steganalysis_NN approaches_NNS -LRB-_-LRB- known_VBN as_IN attacks_NNS -RRB-_-RRB- focus_VB on_IN the_DT first_JJ of_IN these_DT two_CD issues_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP explore_VBP the_DT difficult_JJ related_JJ problem_NN :_: given_VBN that_IN we_PRP know_VBP an_DT image_NN file_NN contains_VBZ steganography_NN ,_, locate_VB which_WDT pixels_NNS contain_VBP the_DT message_NN ._.
+We_PRP treat_VBP the_DT hidden_JJ message_NN location_NN problem_NN as_IN outlier_NN detection_NN using_VBG probability\/energy_JJ measures_NNS of_IN images_NNS motivated_VBN by_IN the_DT image_NN restoration_NN community_NN ._.
+Pixels_NNS contributing_VBG the_DT most_JJS to_TO the_DT energy_NN calculations_NNS of_IN an_DT image_NN are_VBP deemed_VBN outliers_NNS ._.
+Typically_RB ,_, of_IN the_DT top_JJ third_NN of_IN one_CD percent_NN of_IN most_JJS energized_VBN pixels_NNS -LRB-_-LRB- outliers_NNS -RRB-_-RRB- ,_, we_PRP find_VBP that_IN 87_CD %_NN are_VBP stego-bearing_JJ in_IN color_NN images_NNS and_CC 61_CD %_NN in_IN grayscale_JJ images_NNS ._.
+In_IN all_DT image_NN types_NNS only_RB 1_CD %_NN of_IN all_DT pixels_NNS are_VBP stego-bearing_JJ indicating_VBG our_PRP$ techniques_NNS provides_VBZ a_DT substantial_JJ lift_NN over_IN random_JJ guessing_VBG ._.

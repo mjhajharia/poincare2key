@@ -1,0 +1,9 @@
+A_DT cross-collection_JJ mixture_NN model_NN for_IN comparative_JJ text_NN mining_NN
+In_IN this_DT paper_NN ,_, we_PRP define_VBP and_CC study_VBP a_DT novel_JJ text_NN mining_NN problem_NN ,_, which_WDT we_PRP refer_VBP to_TO as_IN Comparative_JJ Text_NN Mining_NN -LRB-_-LRB- CTM_NN -RRB-_-RRB- ._.
+Given_VBN a_DT set_NN of_IN comparable_JJ text_NN collections_NNS ,_, the_DT task_NN of_IN comparative_JJ text_NN mining_NN is_VBZ to_TO discover_VB any_DT latent_JJ common_JJ themes_NNS across_IN all_DT collections_NNS as_RB well_RB as_IN summarize_VB the_DT similarity_NN and_CC differences_NNS of_IN these_DT collections_NNS along_IN each_DT common_JJ theme_NN ._.
+This_DT general_JJ problem_NN subsumes_VBZ many_JJ interesting_JJ applications_NNS ,_, including_VBG business_NN intelligence_NN and_CC opinion_NN summarization_NN ._.
+We_PRP propose_VBP a_DT generative_JJ probabilistic_JJ mixture_NN model_NN for_IN comparative_JJ text_NN mining_NN ._.
+The_DT model_NN simultaneously_RB performs_VBZ cross-collection_JJ clustering_NN and_CC within-collection_NN clustering_NN ,_, and_CC can_MD be_VB applied_VBN to_TO an_DT arbitrary_JJ set_NN of_IN comparable_JJ text_NN collections_NNS ._.
+The_DT model_NN can_MD be_VB estimated_VBN efficiently_RB using_VBG the_DT Expectation-Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN ._.
+We_PRP evaluate_VBP the_DT model_NN on_IN two_CD different_JJ text_NN data_NNS sets_NNS -LRB-_-LRB- i.e._FW ,_, a_DT news_NN article_NN data_NNS set_NN and_CC a_DT laptop_JJ review_NN data_NNS set_VBN -RRB-_-RRB- ,_, and_CC compare_VB it_PRP with_IN a_DT baseline_NN clustering_NN method_NN also_RB based_VBN on_IN a_DT mixture_NN model_NN ._.
+Experiment_NN results_NNS show_VBP that_IN the_DT model_NN is_VBZ quite_RB effective_JJ in_IN discovering_VBG the_DT latent_JJ common_JJ themes_NNS across_IN collections_NNS and_CC performs_VBZ significantly_RB better_JJR than_IN our_PRP$ baseline_NN mixture_NN model_NN ._.

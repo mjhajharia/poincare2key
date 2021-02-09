@@ -1,0 +1,6 @@
+Evaluation_NN of_IN prediction_NN models_NNS for_IN marketing_NN campaigns_NNS
+We_PRP consider_VBP prediction-model_JJ evaluation_NN in_IN the_DT context_NN of_IN marketing-campaign_JJ planning_NN ._.
+In_IN order_NN to_TO evaluate_VB and_CC compare_VB models_NNS with_IN specific_JJ campaign_NN objectives_NNS in_IN mind_NN ,_, we_PRP need_VBP to_TO concentrate_VB our_PRP$ attention_NN on_IN the_DT appropriate_JJ evaluation-criteria_NN ._.
+These_DT should_MD portray_VB the_DT model_NN 's_POS ability_NN to_TO score_VB accurately_RB and_CC to_TO identify_VB the_DT relevant_JJ target_NN population_NN ._.
+In_IN this_DT paper_NN we_PRP discuss_VBP some_DT applicable_JJ model-evaluation_NN and_CC selection_NN criteria_NNS ,_, their_PRP$ relevance_NN for_IN campaign_NN planning_NN ,_, their_PRP$ robustness_NN under_IN changing_VBG population_NN distributions_NNS ,_, and_CC their_PRP$ employment_NN when_WRB constructing_VBG confidence_NN intervals_NNS ._.
+We_PRP illustrate_VBP our_PRP$ results_NNS with_IN a_DT case_NN study_NN based_VBN on_IN our_PRP$ experience_NN from_IN several_JJ projects_NNS ._.

@@ -1,0 +1,9 @@
+Shrinkage_NN estimator_NN generalizations_NNS of_IN Proximal_JJ Support_NN Vector_NNP Machines_NNP
+We_PRP give_VBP a_DT statistical_JJ interpretation_NN of_IN Proximal_JJ Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- PSVM_NNP -RRB-_-RRB- proposed_VBN at_IN KDD2001_NN as_IN linear_JJ approximaters_NNS to_TO -LRB-_-LRB- nonlinear_JJ -RRB-_-RRB- Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- ._.
+We_PRP prove_VBP that_IN PSVM_NN using_VBG a_DT linear_JJ kernel_NN is_VBZ identical_JJ to_TO ridge_VB regression_NN ,_, a_DT biased-regression_NN method_NN known_VBN in_IN the_DT statistical_JJ community_NN for_IN more_JJR than_IN thirty_CD years_NNS ._.
+Techniques_NNS from_IN the_DT statistical_JJ literature_NN to_TO estimate_VB the_DT tuning_NN constant_NN that_WDT appears_VBZ in_IN the_DT SVM_NN and_CC PSVM_NN framework_NN are_VBP discussed_VBN ._.
+Better_NNP shrinkage_NN strategies_NNS that_WDT incorporate_VBP more_JJR than_IN one_CD tuning_NN constant_NN are_VBP suggested_VBN ._.
+For_IN nonlinear_JJ kernels_NNS ,_, the_DT minimization_NN problem_NN posed_VBD in_IN the_DT PSVM_NN framework_NN is_VBZ equivalent_JJ to_TO finding_VBG the_DT posterior_JJ mode_NN of_IN a_DT Bayesian_JJ model_NN defined_VBN through_IN a_DT Gaussian_JJ process_NN on_IN the_DT predictor_NN space_NN ._.
+Apart_RB from_IN providing_VBG new_JJ insights_NNS ,_, these_DT interpretations_NNS help_VBP us_PRP attach_VB an_DT estimate_NN of_IN uncertainty_NN to_TO our_PRP$ predictions_NNS and_CC enable_VB us_PRP to_TO build_VB richer_JJR classes_NNS of_IN models_NNS ._.
+In_IN particular_JJ ,_, we_PRP propose_VBP a_DT new_JJ algorithm_NN called_VBN PSVMMIX_NNP which_WDT is_VBZ a_DT combination_NN of_IN ridge_NN regression_NN and_CC a_DT Gaussian_JJ process_NN model_NN ._.
+Extension_NNP to_TO the_DT case_NN of_IN continuous_JJ response_NN is_VBZ straightforward_JJ and_CC illustrated_JJ with_IN example_NN datasets_NNS ._.

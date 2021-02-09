@@ -1,0 +1,10 @@
+Networked_JJ graphs_NNS :_: a_DT declarative_JJ mechanism_NN for_IN SPARQL_NNP rules_NNS ,_, SPARQL_NN views_NNS and_CC RDF_NNP data_NNS integration_NN on_IN the_DT web_NN
+Easy_JJ reuse_NN and_CC integration_NN of_IN declaratively_RB described_VBN information_NN in_IN a_DT distributed_VBN setting_NN is_VBZ one_CD of_IN the_DT main_JJ motivations_NNS for_IN building_VBG the_DT Semantic_JJ Web_NN ._.
+Despite_IN of_IN this_DT claim_NN ,_, reuse_NN and_CC recombination_NN of_IN RDF_NNP data_NNS today_NN is_VBZ mostly_RB done_VBN using_VBG data_NNS replication_NN and_CC procedural_JJ code_NN ._.
+A_DT simple_JJ declarative_JJ mechanism_NN for_IN reusing_VBG and_CC combining_VBG RDF_NNP data_NNS would_MD help_VB users_NNS to_TO generate_VB content_NN for_IN the_DT semantic_JJ web_NN ._.
+Having_VBG such_PDT a_DT mechanism_NN ,_, the_DT Semantic_JJ Web_NN could_MD better_JJR benefit_NN from_IN user_NN generated_VBD content_NN ,_, as_IN it_PRP is_VBZ broadly_RB present_JJ in_IN the_DT so_RB called_VBN Web_NN 2.0_CD ,_, but_CC also_RB from_IN better_JJR linkage_NN of_IN existing_VBG content_NN ._.
+We_PRP propose_VBP Networked_NNP Graphs_NNP ,_, which_WDT allow_VBP users_NNS to_TO define_VB RDF_NN graphs_NNS both_CC ,_, by_IN extensionally_RB listing_VBG content_NN ,_, but_CC also_RB by_IN using_VBG views_NNS on_IN other_JJ graphs_NNS ._.
+These_DT views_NNS can_MD be_VB used_VBN to_TO include_VB parts_NNS of_IN other_JJ graphs_NNS ,_, to_TO transform_VB data_NNS before_IN including_VBG it_PRP and_CC to_TO denote_VB rules_NNS ._.
+The_DT relationships_NNS between_IN graphs_NNS are_VBP described_VBN declaratively_RB using_VBG SPARQL_NN queries_NNS and_CC an_DT extension_NN of_IN the_DT SPARQL_NN semantics_NNS ._.
+Networked_JJ Graphs_NNS are_VBP easily_RB exchangeable_JJ between_IN and_CC interpretable_JJ on_IN different_JJ computers_NNS ._.
+Using_VBG existing_VBG protocols_NNS ,_, Networked_NNP Graphss_NNP can_MD be_VB evaluated_VBN in_IN a_DT distributed_VBN setting_NN ._.

@@ -1,0 +1,11 @@
+COA_NNP :_: finding_VBG novel_JJ patents_NNS through_IN text_NN analysis_NN
+In_IN recent_JJ years_NNS ,_, the_DT number_NN of_IN patents_NNS filed_VBN by_IN the_DT business_NN enterprises_NNS in_IN the_DT technology_NN industry_NN are_VBP growing_VBG rapidly_RB ,_, thus_RB providing_VBG unprecedented_JJ opportunities_NNS for_IN knowledge_NN discovery_NN in_IN patent_NN data_NNS ._.
+One_CD important_JJ task_NN in_IN this_DT regard_NN is_VBZ to_TO employ_VB data_NN mining_NN techniques_NNS to_TO rank_VB patents_NNS in_IN terms_NNS of_IN their_PRP$ potential_NN to_TO earn_VB money_NN through_IN licensing_NN ._.
+Availability_NN of_IN such_JJ ranking_NN can_MD substantially_RB reduce_VB enterprise_NN IP_NNP -LRB-_-LRB- Intellectual_NNP Property_NNP -RRB-_-RRB- management_NN costs_NNS ._.
+Unfortunately_RB ,_, the_DT existing_VBG software_NN systems_NNS in_IN the_DT IP_NNP domain_NN do_VBP not_RB address_VB this_DT task_NN directly_RB ._.
+Through_IN our_PRP$ research_NN ,_, we_PRP build_VBP a_DT patent_NN ranking_NN software_NN ,_, named_VBN COA_NNP -LRB-_-LRB- Claim_NNP Originality_NNP Analysis_NNP -RRB-_-RRB- that_WDT rates_VBZ a_DT patent_NN based_VBN on_IN its_PRP$ value_NN by_IN measuring_VBG the_DT recency_NN and_CC the_DT impact_NN of_IN the_DT important_JJ phrases_NNS that_WDT appear_VBP in_IN the_DT ``_`` claims_NNS ''_'' section_NN of_IN a_DT patent_NN ._.
+Experiments_NNS show_VBP that_IN COA_NN produces_VBZ meaningful_JJ ranking_NN when_WRB comparing_VBG it_PRP with_IN other_JJ indirect_JJ patent_NN evaluation_NN metrics_NNS --_: citation_NN count_NN ,_, patent_NN status_NN ,_, and_CC attorney_NN 's_POS rating_NN ._.
+In_IN reallife_NN settings_NNS ,_, this_DT tool_NN was_VBD used_VBN by_IN beta-testers_NNS in_IN the_DT IBM_NNP IP_NNP department_NN ._.
+Lawyers_NNS found_VBD it_PRP very_RB useful_JJ in_IN patent_NN rating_NN ,_, specifically_RB ,_, in_IN highlighting_VBG potentially_RB valuable_JJ patents_NNS in_IN a_DT patent_NN cluster_NN ._.
+In_IN this_DT article_NN ,_, we_PRP describe_VBP the_DT ranking_JJ techniques_NNS and_CC system_NN architecture_NN of_IN COA_NNP ._.
+We_PRP also_RB present_VBP the_DT results_NNS that_WDT validate_VBP its_PRP$ effectiveness_NN ._.

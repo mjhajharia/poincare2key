@@ -1,0 +1,6 @@
+An_DT experimental_JJ study_NN on_IN large-scale_JJ web_NN categorization_NN
+Taxonomies_NNS of_IN the_DT Web_NN typically_RB have_VBP hundreds_NNS of_IN thousands_NNS of_IN categories_NNS and_CC skewed_JJ category_NN distribution_NN over_IN documents_NNS ._.
+It_PRP is_VBZ not_RB clear_JJ whether_IN existing_VBG text_NN classification_NN technologies_NNS can_MD perform_VB well_RB on_IN and_CC scale_NN up_IN to_TO such_JJ large-scale_JJ applications_NNS ._.
+To_TO understand_VB this_DT ,_, we_PRP conducted_VBD the_DT evaluation_NN of_IN several_JJ representative_JJ methods_NNS -LRB-_-LRB- Support_NN Vector_NNP Machines_NNP ,_, k-Nearest_NNP Neighbor_NNP and_CC Naive_JJ Bayes_NNS -RRB-_-RRB- with_IN Yahoo_NNP !_.
+taxonomies_NNS ._.
+In_IN particular_JJ ,_, we_PRP evaluated_VBD the_DT effectiveness\/efficiency_NN tradeoff_NN in_IN classifiers_NNS with_IN hierarchical_JJ setting_NN compared_VBN to_TO conventional_JJ -LRB-_-LRB- flat_JJ -RRB-_-RRB- setting_NN ,_, and_CC tested_VBN popular_JJ threshold_NN tuning_NN strategies_NNS for_IN their_PRP$ scalability_NN and_CC accuracy_NN in_IN large-scale_JJ classification_NN problems_NNS ._.

@@ -1,0 +1,9 @@
+The_DT value_NN of_IN socially_RB tagged_VBN urls_NNS for_IN a_DT search_NN engine_NN
+Social_NN bookmarking_NN has_VBZ emerged_VBN as_IN a_DT growing_VBG source_NN of_IN human_JJ generated_VBN content_NN on_IN the_DT web_NN ._.
+In_IN essence_NN ,_, bookmarking_NN involves_VBZ URLs_NNS and_CC tags_NNS on_IN them_PRP ._.
+In_IN this_DT paper_NN ,_, we_PRP perform_VBP a_DT large_JJ scale_NN study_NN of_IN the_DT usefulness_NN of_IN bookmarked_VBN URLs_NNS from_IN the_DT top_JJ social_JJ bookmarking_NN site_NN Delicious_NNP ._.
+Instead_RB of_IN focusing_VBG on_IN the_DT dimension_NN of_IN tags_NNS ,_, which_WDT has_VBZ been_VBN covered_VBN in_IN the_DT previous_JJ work_NN ,_, we_PRP explore_VBP social_JJ bookmarking_NN from_IN the_DT dimension_NN of_IN URLs_NNS ._.
+More_RBR specifically_RB ,_, we_PRP investigate_VBP the_DT Delicious_NNP URLs_NNS and_CC their_PRP$ content_NN to_TO quantify_VB their_PRP$ value_NN to_TO a_DT search_NN engine_NN ._.
+For_IN their_PRP$ value_NN in_IN leading_VBG to_TO good_JJ content_NN ,_, we_PRP show_VBP that_IN the_DT Delicious_NNP URLs_NNS have_VBP higher_JJR quality_NN content_NN and_CC more_RBR external_JJ outlinks_NNS ._.
+For_IN their_PRP$ value_NN in_IN satisfying_JJ users_NNS ,_, we_PRP show_VBP that_IN the_DT Delicious_NNP URLs_NNS have_VBP more_RBR clicked_VBN URLs_NNS as_RB well_RB as_IN get_VB more_JJR clicks_NNS ._.
+We_PRP suggest_VBP that_IN based_VBN on_IN their_PRP$ value_NN ,_, the_DT Delicious_NNP URLs_NNS should_MD be_VB used_VBN as_IN another_DT source_NN of_IN seed_NN URLs_NNS for_IN crawlers_NNS ._.

@@ -1,0 +1,8 @@
+CTR-S_NN :_: a_DT logic_NN for_IN specifying_VBG contracts_NNS in_IN semantic_JJ web_NN services_NNS
+A_DT requirements_NNS analysis_NN in_IN the_DT emerging_VBG field_NN of_IN Semantic_JJ Web_NN Services_NNP -LRB-_-LRB- SWS_NNP -RRB-_-RRB- -LRB-_-LRB- see_VB http:\/\/daml.org\/services\/swsl\/requirements\/_NN -RRB-_-RRB- has_VBZ identified_VBN four_CD major_JJ areas_NNS of_IN research_NN :_: intelligent_JJ service_NN discovery_NN ,_, automated_JJ contracting_NN of_IN services_NNS ,_, process_NN modeling_NN ,_, and_CC service_NN enactment_NN ._.
+This_DT paper_NN deals_VBZ with_IN the_DT intersection_NN of_IN two_CD of_IN these_DT areas_NNS :_: process_NN modeling_NN as_IN it_PRP pertains_VBZ to_TO automated_JJ contracting_NN ._.
+Specifically_RB ,_, we_PRP propose_VBP a_DT logic_NN ,_, called_VBN CTR-S_NN ,_, which_WDT captures_VBZ the_DT dynamic_JJ aspects_NNS of_IN contracting_NN for_IN services_NNS ._.
+Since_IN CTR-S_NN is_VBZ an_DT extension_NN of_IN the_DT classical_JJ first-order_JJ logic_NN ,_, it_PRP is_VBZ well-suited_JJ to_TO model_VB the_DT static_JJ aspects_NNS of_IN contracting_NN as_RB well_RB ._.
+A_DT distinctive_JJ feature_NN of_IN contracting_NN is_VBZ that_IN it_PRP involves_VBZ two_CD or_CC more_JJR parties_NNS in_IN a_DT potentially_RB adversarial_JJ situation_NN ._.
+CTR-S_NN is_VBZ designed_VBN to_TO model_VB this_DT adversarial_JJ situation_NN through_IN its_PRP$ novel_JJ model_NN theory_NN ,_, which_WDT incorporates_VBZ certain_JJ game-theoretic_JJ concepts_NNS ._.
+In_IN addition_NN to_TO the_DT model_NN theory_NN ,_, we_PRP develop_VBP a_DT proof_NN theory_NN for_IN CTR-S_NN and_CC demonstrate_VBP the_DT use_NN of_IN the_DT logic_NN formodeling_NN and_CC reasoning_NN about_IN Web_NN service_NN contracts_NNS ._.

@@ -1,0 +1,9 @@
+Impact_NN of_IN search_NN engines_NNS on_IN page_NN popularity_NN
+Recent_JJ studies_NNS show_VBP that_IN a_DT majority_NN of_IN Web_NN page_NN accesses_NNS are_VBP referred_VBN by_IN search_NN engines_NNS ._.
+In_IN this_DT paper_NN we_PRP study_VBD the_DT widespread_JJ use_NN of_IN Web_NN search_NN engines_NNS and_CC its_PRP$ impact_NN on_IN the_DT ecology_NN of_IN the_DT Web_NN ._.
+In_IN particular_JJ ,_, we_PRP study_VBD how_WRB much_JJ impact_NN search_NN engines_NNS have_VBP on_IN the_DT popularity_NN evolution_NN of_IN Web_NN pages_NNS ._.
+For_IN example_NN ,_, given_VBN that_IN search_NN engines_NNS return_VBP currently_RB popular_JJ ''_'' pages_NNS at_IN the_DT top_NN of_IN search_NN results_NNS ,_, are_VBP we_PRP somehow_RB penalizing_VBG newly_RB created_VBN pages_NNS that_WDT are_VBP not_RB very_RB well_RB known_VBN yet_RB ?_.
+Are_VBP popular_JJ pages_NNS getting_VBG even_RB more_RBR popular_JJ and_CC new_JJ pages_NNS completely_RB ignored_VBN ?_.
+We_PRP first_RB show_VBP that_IN this_DT unfortunate_JJ trend_NN indeed_RB exists_VBZ on_IN the_DT Web_NN through_IN an_DT experimental_JJ study_NN based_VBN on_IN real_JJ Web_NN data_NNS ._.
+We_PRP then_RB analytically_RB estimate_VB how_WRB much_RB longer_JJR it_PRP takes_VBZ for_IN a_DT new_JJ page_NN to_TO attract_VB a_DT large_JJ number_NN of_IN Web_NN users_NNS when_WRB search_NN engines_NNS return_VBP only_RB popular_JJ pages_NNS at_IN the_DT top_NN of_IN search_NN results_NNS ._.
+Our_PRP$ result_NN shows_VBZ that_IN search_NN engines_NNS can_MD have_VB an_DT immensely_RB worrisome_JJ impact_NN on_IN the_DT discovery_NN of_IN new_JJ Web_NN pages_NNS ._.

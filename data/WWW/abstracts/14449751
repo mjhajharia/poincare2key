@@ -1,0 +1,6 @@
+A_DT flexible_JJ generative_JJ model_NN for_IN preference_NN aggregation_NN
+Many_JJ areas_NNS of_IN study_NN ,_, such_JJ as_IN information_NN retrieval_NN ,_, collaborative_JJ filtering_VBG ,_, and_CC social_JJ choice_NN face_VBP the_DT preference_NN aggregation_NN problem_NN ,_, in_IN which_WDT multiple_JJ preferences_NNS over_IN objects_NNS must_MD be_VB combined_VBN into_IN a_DT consensus_NN ranking_NN ._.
+Preferences_NNPS over_IN items_NNS can_MD be_VB expressed_VBN in_IN a_DT variety_NN of_IN forms_NNS ,_, which_WDT makes_VBZ the_DT aggregation_NN problem_NN difficult_JJ ._.
+In_IN this_DT work_NN we_PRP formulate_VBP a_DT flexible_JJ probabilistic_JJ model_NN over_IN pairwise_JJ comparisons_NNS that_WDT can_MD accommodate_VB all_PDT these_DT forms_NNS ._.
+Inference_NN in_IN the_DT model_NN is_VBZ very_RB fast_RB ,_, making_VBG it_PRP applicable_JJ to_TO problems_NNS with_IN hundreds_NNS of_IN thousands_NNS of_IN preferences_NNS ._.
+Experiments_NNS on_IN benchmark_JJ datasets_NNS demonstrate_VBP superior_JJ performance_NN to_TO existing_VBG methods_NNS

@@ -1,0 +1,6 @@
+RDF_NN triples_NNS in_IN XML_NN
+RDF\/XML_NN does_VBZ not_RB layer_NN RDF_NN on_IN top_NN of_IN XML_NN ina_NN useful_JJ way_NN ._.
+We_PRP use_VBP a_DT simple_JJ direct_JJ representation_NN of_IN the_DT RDF_NNP abstract_JJ syntax_NN in_IN XML_NN ._.
+We_PRP add_VBP the_DT ability_NN to_TO name_VB graphs_NNS ,_, noting_VBG that_IN in_IN practice_NN this_DT is_VBZ already_RB widely_RB used_VBN ._.
+We_PRP use_VBP XSLT_NNP as_IN a_DT general_JJ syntactic_JJ extensibility_NN mechanism_NN to_TO provide_VB human_JJ friendly_JJ macros_NNS for_IN our_PRP$ syntax_NN ._.
+This_DT provides_VBZ a_DT simple_JJ serialization_NN solving_VBG a_DT persistent_JJ problem_NN in_IN the_DT Semantic_JJ Web_NN ._.

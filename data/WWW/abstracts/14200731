@@ -1,0 +1,12 @@
+An_DT expressive_JJ mechanism_NN for_IN auctions_NNS on_IN the_DT web_NN
+Auctions_NNS are_VBP widely_RB used_VBN on_IN the_DT Web_NN ._.
+Applications_NNS range_VBP from_IN internet_NN advertising_NN to_TO platforms_NNS such_JJ as_IN eBay_NN ._.
+In_IN most_JJS of_IN these_DT applications_NNS the_DT auctions_NNS in_IN use_NN are_VBP single\/multi-item_JJ auctions_NNS with_IN unit_NN demand_NN ._.
+The_DT main_JJ drawback_NN of_IN standard_JJ mechanisms_NNS for_IN this_DT type_NN of_IN auctions_NNS ,_, such_JJ as_IN VCG_NNP and_CC GSP_NNP ,_, is_VBZ the_DT limited_JJ expressiveness_NN that_IN they_PRP offer_VBP to_TO the_DT bidders_NNS ._.
+The_DT General_JJ Auction_NN Mechanism_NN -LRB-_-LRB- GAM_NN -RRB-_-RRB- of_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- is_VBZ taking_VBG a_DT first_JJ step_NN towards_IN addressing_VBG the_DT problem_NN of_IN limited_JJ expressiveness_NN by_IN computing_VBG a_DT bidder_NN optimal_JJ ,_, envy_VB free_JJ outcome_NN for_IN linear_JJ utility_NN functions_NNS with_IN identical_JJ slopes_NNS and_CC a_DT single_JJ discontinuity_NN per_IN bidder-item_NN pair_NN ._.
+We_PRP show_VBP that_IN in_IN many_JJ practical_JJ situations_NNS this_DT does_VBZ not_RB suffice_VB to_TO adequately_RB model_VB the_DT preferences_NNS of_IN the_DT bidders_NNS ,_, and_CC we_PRP overcome_VBP this_DT problem_NN by_IN presenting_VBG the_DT first_JJ mechanism_NN for_IN piece-wise_JJ linear_JJ utility_NN functions_NNS with_IN non-identical_JJ slopes_NNS and_CC multiple_JJ discontinuities_NNS ._.
+Our_PRP$ mechanism_NN runs_VBZ in_IN polynomial_JJ time_NN ._.
+Like_IN GAM_NN it_PRP is_VBZ incentive_NN compatible_JJ for_IN inputs_NNS that_WDT fulfill_VBP a_DT certain_JJ non-degeneracy_JJ requirement_NN ,_, but_CC our_PRP$ requirement_NN is_VBZ more_RBR general_JJ than_IN the_DT requirement_NN of_IN GAM_NN ._.
+For_IN discontinuous_JJ utility_NN functions_NNS that_WDT are_VBP non-degenerate_JJ as_RB well_RB as_IN for_IN continuous_JJ utility_NN functions_VBZ the_DT outcome_NN of_IN our_PRP$ mechanism_NN is_VBZ a_DT competitive_JJ equilibrium_NN ._.
+We_PRP also_RB show_VBP how_WRB our_PRP$ mechanism_NN can_MD be_VB used_VBN to_TO compute_VB approximately_RB bidder_NN optimal_JJ ,_, envy_VB free_JJ outcomes_NNS for_IN a_DT general_JJ class_NN of_IN continuous_JJ utility_NN functions_NNS via_IN piece-wise_JJ linear_JJ approximation_NN ._.
+Finally_RB ,_, we_PRP prove_VBP hardness_NN results_NNS for_IN even_RB more_RBR expressive_JJ settings_NNS ._.

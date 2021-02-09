@@ -1,0 +1,10 @@
+Succinct_JJ summarization_NN of_IN transactional_JJ databases_NNS :_: an_DT overlapped_JJ hyperrectangle_NN scheme_NN
+Transactional_JJ data_NNS are_VBP ubiquitous_JJ ._.
+Several_JJ methods_NNS ,_, including_VBG frequent_JJ itemsets_NNS mining_NN and_CC co-clustering_NN ,_, have_VBP been_VBN proposed_VBN to_TO analyze_VB transactional_JJ databases_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP propose_VBP a_DT new_JJ research_NN problem_NN to_TO succinctly_RB summarize_VB transactional_JJ databases_NNS ._.
+Solving_VBG this_DT problem_NN requires_VBZ linking_VBG the_DT high_JJ level_NN structure_NN of_IN the_DT database_NN to_TO a_DT potentially_RB huge_JJ number_NN of_IN frequent_JJ itemsets_NNS ._.
+We_PRP formulate_VBP this_DT problem_NN as_IN a_DT set_NN covering_VBG problem_NN using_VBG overlapped_JJ hyperrectangles_NNS ;_: we_PRP then_RB prove_VBP that_IN this_DT problem_NN and_CC its_PRP$ several_JJ variations_NNS are_VBP NP-hard_JJ ._.
+We_PRP develop_VBP an_DT approximation_NN algorithm_NN HYPER_NN which_WDT can_MD achieve_VB a_DT ln_NN -LRB-_-LRB- k_NN -RRB-_-RRB- +_CC 1_CD approximation_NN ratio_NN in_IN polynomial_JJ time_NN ._.
+We_PRP propose_VBP a_DT pruning_NN strategy_NN that_WDT can_MD significantly_RB speed_VB up_RP the_DT processing_NN of_IN our_PRP$ algorithm_NN ._.
+Additionally_RB ,_, we_PRP propose_VBP an_DT efficient_JJ algorithm_NN to_TO further_RB summarize_VB the_DT set_NN of_IN hyperrectangles_NNS by_IN allowing_VBG false_JJ positive_JJ conditions_NNS ._.
+A_DT detailed_JJ study_NN using_VBG both_CC real_JJ and_CC synthetic_JJ datasets_NNS shows_VBZ the_DT effectiveness_NN and_CC efficiency_NN of_IN our_PRP$ approaches_NNS in_IN summarizing_VBG transactional_JJ databases_NNS ._.

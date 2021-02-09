@@ -1,0 +1,11 @@
+Ensemble-index_NN :_: a_DT new_JJ approach_NN to_TO indexing_NN large_JJ databases_NNS
+The_DT problem_NN of_IN similarity_NN search_NN -LRB-_-LRB- query-by-content_JJ -RRB-_-RRB- has_VBZ attracted_VBN much_JJ research_NN interest_NN ._.
+It_PRP is_VBZ a_DT difficult_JJ problem_NN because_IN of_IN the_DT inherently_RB high_JJ dimensionality_NN of_IN the_DT data_NNS ._.
+The_DT most_RBS promising_JJ solutions_NNS involve_VBP performing_VBG dimensionality_NN reduction_NN on_IN the_DT data_NNS ,_, then_RB indexing_VBG the_DT reduced_VBN data_NNS with_IN a_DT multidimensional_JJ index_NN structure_NN ._.
+Many_JJ dimensionality_NN reduction_NN techniques_NNS have_VBP been_VBN proposed_VBN ,_, including_VBG Singular_JJ Value_NN Decomposition_NN -LRB-_-LRB- SVD_NN -RRB-_-RRB- ,_, the_DT Discrete_JJ Fourier_NN Transform_NN -LRB-_-LRB- DFT_NN -RRB-_-RRB- ,_, the_DT Discrete_NNP Wavelet_NNP Transform_NNP -LRB-_-LRB- DWT_NNP -RRB-_-RRB- and_CC Piecewise_NNP Polynomial_NNP Approximation_NNP ._.
+In_IN this_DT work_NN ,_, we_PRP introduce_VBP a_DT novel_JJ framework_NN for_IN using_VBG ensembles_NNS of_IN two_CD or_CC more_JJR representations_NNS for_IN more_RBR efficient_JJ indexing_NN ._.
+The_DT basic_JJ idea_NN is_VBZ that_IN instead_RB of_IN committing_VBG to_TO a_DT single_JJ representation_NN for_IN an_DT entire_JJ dataset_NN ,_, different_JJ representations_NNS are_VBP chosen_VBN for_IN indexing_NN different_JJ parts_NNS of_IN the_DT database_NN ._.
+The_DT representations_NNS are_VBP chosen_VBN based_VBN upon_IN a_DT local_JJ view_NN of_IN the_DT database_NN ._.
+For_IN example_NN ,_, sections_NNS of_IN the_DT data_NNS that_WDT can_MD achieve_VB a_DT high_JJ fidelity_NN representation_NN with_IN wavelets_NNS are_VBP indexed_VBN as_IN wavelets_NNS ,_, but_CC highly_RB spectral_JJ sections_NNS of_IN the_DT data_NNS are_VBP indexed_VBN using_VBG the_DT Fourier_NN transform_VB ._.
+At_IN query_NN time_NN ,_, it_PRP is_VBZ necessary_JJ to_TO search_VB several_JJ small_JJ heterogeneous_JJ indices_NNS ,_, rather_RB than_IN one_CD large_JJ homogeneous_JJ index_NN ._.
+As_IN we_PRP will_MD theoretically_RB and_CC empirically_RB demonstrate_VBP this_DT results_VBZ in_IN much_RB faster_JJR query_NN response_NN times_NNS ._.

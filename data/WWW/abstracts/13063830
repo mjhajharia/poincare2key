@@ -1,0 +1,9 @@
+SmartInt_NNP :_: using_VBG mined_VBN attribute_NN dependencies_NNS to_TO integrate_VB fragmented_JJ web_NN databases_NNS
+Many_JJ web_NN databases_NNS can_MD be_VB seen_VBN as_IN providing_VBG partial_JJ and_CC overlapping_VBG information_NN about_IN entities_NNS in_IN the_DT world_NN ._.
+To_TO answer_VB queries_NNS effectively_RB ,_, we_PRP need_VBP to_TO integrate_VB the_DT information_NN about_IN the_DT individual_JJ entities_NNS that_WDT are_VBP fragmented_VBN over_IN multiple_JJ sources_NNS ._.
+At_IN first_RB blush_VB this_DT is_VBZ just_RB the_DT inverse_NN of_IN traditional_JJ database_NN normalization_NN problem_NN -_: rather_RB than_IN go_VB from_IN a_DT universal_JJ relation_NN to_TO normalized_VBN tables_NNS ,_, we_PRP want_VBP to_TO reconstruct_VB the_DT universal_JJ relation_NN given_VBN the_DT tables_NNS -LRB-_-LRB- sources_NNS -RRB-_-RRB- ._.
+The_DT standard_JJ way_NN of_IN reconstructing_VBG the_DT entities_NNS will_MD involve_VB joining_VBG the_DT tables_NNS ._.
+Unfortunately_RB ,_, because_IN of_IN the_DT autonomous_JJ and_CC decentralized_JJ way_NN in_IN which_WDT the_DT sources_NNS are_VBP populated_VBN ,_, they_PRP often_RB do_VBP not_RB have_VB Primary_JJ Key_NN -_: Foreign_NNP Key_NNP relations_NNS ._.
+While_IN tables_NNS do_VBP share_NN attributes_NNS ,_, direct_RB joins_VBZ over_IN these_DT shared_JJ attributes_NNS can_MD result_VB in_IN reconstruction_NN of_IN many_JJ spurious_JJ entities_NNS thus_RB seriously_RB compromising_VBG precision_NN ._.
+We_PRP present_VBP a_DT unified_JJ approach_NN that_WDT supports_VBZ intelligent_JJ retrieval_NN over_IN fragmented_JJ web_NN databases_NNS by_IN mining_VBG and_CC using_VBG inter-table_JJ dependencies_NNS ._.
+Experiments_NNS with_IN the_DT prototype_NN implementation_NN ,_, SmartInt_NNP ,_, show_VBP that_IN its_PRP$ retrieval_NN strikes_VBZ a_DT good_JJ balance_NN between_IN precision_NN and_CC recall_NN ._.

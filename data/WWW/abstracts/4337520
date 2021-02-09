@@ -1,0 +1,15 @@
+Answering_VBG relationship_NN queries_NNS on_IN the_DT web_NN
+Finding_VBG relationships_NNS between_IN entities_NNS on_IN the_DT Web_NN ,_, e.g._FW ,_, the_DT connections_NNS between_IN different_JJ places_NNS or_CC the_DT commonalities_NNS of_IN people_NNS ,_, is_VBZ a_DT novel_JJ and_CC challenging_JJ problem_NN ._.
+Existing_VBG Web_NN search_NN engines_NNS excel_VBP in_IN keyword_JJ matching_NN and_CC document_NN ranking_NN ,_, but_CC they_PRP can_MD not_RB well_RB handle_VB many_JJ relationship_NN queries_NNS ._.
+This_DT paper_NN proposes_VBZ a_DT new_JJ method_NN for_IN answering_VBG relationship_NN queries_NNS on_IN two_CD entities_NNS ._.
+Our_PRP$ method_NN first_RB respectively_RB retrieves_VBZ the_DT top_JJ Web_NN pages_NNS for_IN either_DT entity_NN from_IN a_DT Web_NN search_NN engine_NN ._.
+It_PRP then_RB matches_VBZ these_DT Web_NN pages_NNS and_CC generates_VBZ an_DT ordered_VBN list_NN of_IN Web_NN page_NN pairs_NNS ._.
+Each_DT Web_NN page_NN pair_NN consists_VBZ of_IN one_CD Web_NN page_NN for_IN either_DT entity_NN ._.
+The_DT top_NN ranked_VBD Web_NN page_NN pairs_NNS are_VBP likely_JJ to_TO contain_VB the_DT relationships_NNS between_IN the_DT two_CD entities_NNS ._.
+One_CD main_JJ challenge_NN in_IN the_DT ranking_JJ process_NN is_VBZ to_TO effectively_RB filter_NN out_IN the_DT large_JJ amount_NN of_IN noise_NN in_IN the_DT Web_NN pages_NNS without_IN losing_VBG much_JJ useful_JJ information_NN ._.
+To_TO achieve_VB this_DT ,_, our_PRP$ method_NN assigns_VBZ appropriate_JJ weights_NNS to_TO terms_NNS in_IN Web_NN pages_NNS and_CC intelligently_RB identifies_VBZ the_DT potential_JJ connecting_VBG terms_NNS that_WDT capture_VBP the_DT relationships_NNS between_IN the_DT two_CD entities_NNS ._.
+Only_RB those_DT top_JJ potential_JJ connecting_VBG terms_NNS with_IN large_JJ weights_NNS are_VBP used_VBN to_TO rank_VB Web_NN page_NN pairs_NNS ._.
+Finally_RB ,_, the_DT top_NN ranked_VBD Web_NN page_NN pairs_NNS are_VBP presented_VBN to_TO the_DT searcher_NN ._.
+For_IN each_DT such_JJ pair_NN ,_, the_DT query_NN terms_NNS and_CC the_DT top_JJ potential_NN connecting_VBG terms_NNS are_VBP properly_RB highlighted_VBN so_IN that_IN the_DT relationships_NNS between_IN the_DT two_CD entities_NNS can_MD be_VB easily_RB identified_VBN ._.
+We_PRP implemented_VBD a_DT prototype_NN on_IN top_NN of_IN the_DT Google_NNP search_NN engine_NN and_CC evaluated_VBD it_PRP under_IN a_DT wide_JJ variety_NN of_IN query_JJ scenarios_NNS ._.
+The_DT experimental_JJ results_NNS show_VBP that_IN our_PRP$ method_NN is_VBZ effective_JJ at_IN finding_VBG important_JJ relationships_NNS with_IN low_JJ overhead_NN ._.

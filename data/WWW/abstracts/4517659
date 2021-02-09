@@ -1,0 +1,14 @@
+Web4CE_NN :_: accessing_VBG web-based_JJ applications_NNS on_IN consumer_NN devices_NNS
+In_IN a_DT world_NN where_WRB all_DT devices_NNS will_MD be_VB interconnected_VBN ,_, the_DT boundaries_NNS between_IN the_DT different_JJ devices_NNS will_MD start_VB to_TO disappear_VB ._.
+Devices_NNP will_MD be_VB able_JJ to_TO access_VB each_DT other_JJ 's_POS applications_NNS ;_: sessions_NNS can_MD be_VB suspended_VBN on_IN one_CD device_NN and_CC resumed_VBD on_IN another_DT device_NN ;_: devices_NNS can_MD serve_VB as_IN each_DT other_JJ 's_POS input_NN and_CC output_NN device_NN ,_, and_CC all_DT devices_NNS will_MD be_VB able_JJ to_TO connect_VB to_TO the_DT Internet_NN ._.
+This_DT will_MD give_VB true_JJ mobility_NN to_TO the_DT user_NN as_IN he\/she_NN will_MD not_RB be_VB restricted_JJ to_TO the_DT time_NN and_CC location_NN where_WRB he\/she_NN accesses_VBZ an_DT application_NN ._.
+Of_IN course_NN ,_, we_PRP need_VBP a_DT variety_NN of_IN different_JJ mechanisms_NNS and_CC technologies_NNS to_TO enable_VB this_DT ,_, such_JJ as_IN :_: Remote_JJ rendering_NN of_IN UIs_NNS on_IN other_JJ devices_NNS in_IN the_DT network_NN ._.
+Infrastructure_NN for_IN discovering_VBG client_NN and_CC servers_NNS in_IN a_DT network_NN ._.
+Mechanisms_NNS to_TO exchange_VB capability_NN information_NN between_IN devices_NNS ,_, and_CC to_TO adapt_VB the_DT UI_NN based_VBN on_IN these_DT capabilities_NNS ._.
+Mechanisms_NNS to_TO deal_VB with_IN session_NN migration_NN ._.
+Support_NN for_IN a_DT wide_JJ range_NN of_IN consumer_NN devices_NNS ,_, ranging_VBG from_IN mobile_JJ phones_NNS to_TO high-end_JJ TVs_NNS ._.
+This_DT requires_VBZ technologies_NNS that_WDT cross_VBP different_JJ domains_NNS ,_, i.e._FW the_DT PC_NN domain_NN ,_, mobile_JJ domain_NN ,_, and_CC TV_NN domain_NN ._.
+Several_JJ major_JJ companies_NNS within_IN these_DT different_JJ domains_NNS have_VBP decided_VBN to_TO work_VB together_RB on_IN these_DT issues_NNS ._.
+One_CD of_IN the_DT results_NNS is_VBZ a_DT framework_NN for_IN remote_JJ user_NN interfaces_NNS for_IN both_DT UPnP_NN ''_'' networks_NNS and_CC the_DT Internet_NN ._.
+This_DT framework_NN is_VBZ called_VBN Web4CE_JJ -LRB-_-LRB- a.k.a._JJ CEA-2014_NN -RRB-_-RRB- -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, and_CC has_VBZ been_VBN accepted_VBN as_IN the_DT baseline_NN remote_JJ user_NN interface_NN technology_NN within_IN the_DT Digital_NNP Living_VBG Network_NNP Alliance_NNP -LRB-_-LRB- DLNA_NNP -RRB-_-RRB- -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, which_WDT is_VBZ a_DT large_JJ industry-wide_JJ effort_NN for_IN creating_VBG true_JJ interoperability_NN between_IN network-enabled_JJ devices_NNS ._.
+This_DT paper_NN provides_VBZ a_DT short_JJ overview_NN of_IN the_DT Web4CE_NN framework_NN ,_, and_CC some_DT of_IN the_DT use_NN cases_NNS that_IN it_PRP enables_VBZ ._.

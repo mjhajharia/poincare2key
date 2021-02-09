@@ -1,0 +1,9 @@
+ArnetMiner_NNP :_: extraction_NN and_CC mining_NN of_IN academic_JJ social_JJ networks_NNS
+This_DT paper_NN addresses_VBZ several_JJ key_JJ issues_NNS in_IN the_DT ArnetMiner_NNP system_NN ,_, which_WDT aims_VBZ at_IN extracting_VBG and_CC mining_VBG academic_JJ social_JJ networks_NNS ._.
+Specifically_RB ,_, the_DT system_NN focuses_VBZ on_IN :_: 1_LS -RRB-_-RRB- Extracting_VBG researcher_NN profiles_NNS automatically_RB from_IN the_DT Web_NN ;_: 2_LS -RRB-_-RRB- Integrating_VBG the_DT publication_NN data_NNS into_IN the_DT network_NN from_IN existing_VBG digital_JJ libraries_NNS ;_: 3_LS -RRB-_-RRB- Modeling_VBG the_DT entire_JJ academic_JJ network_NN ;_: and_CC 4_LS -RRB-_-RRB- Providing_VBG search_NN services_NNS for_IN the_DT academic_JJ network_NN ._.
+So_RB far_RB ,_, 448,470_CD researcher_NN profiles_NNS have_VBP been_VBN extracted_VBN using_VBG a_DT unified_JJ tagging_NN approach_NN ._.
+We_PRP integrate_VBP publications_NNS from_IN online_JJ Web_NN databases_NNS and_CC propose_VBP a_DT probabilistic_JJ framework_NN to_TO deal_VB with_IN the_DT name_NN ambiguity_NN problem_NN ._.
+Furthermore_RB ,_, we_PRP propose_VBP a_DT unified_JJ modeling_NN approach_NN to_TO simultaneously_RB model_VB topical_JJ aspects_NNS of_IN papers_NNS ,_, authors_NNS ,_, and_CC publication_NN venues_NNS ._.
+Search_VB services_NNS such_JJ as_IN expertise_NN search_NN and_CC people_NNS association_NN search_NN have_VBP been_VBN provided_VBN based_VBN on_IN the_DT modeling_NN results_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP the_DT architecture_NN and_CC main_JJ features_NNS of_IN the_DT system_NN ._.
+We_PRP also_RB present_VBP the_DT empirical_JJ evaluation_NN of_IN the_DT proposed_VBN methods_NNS ._.

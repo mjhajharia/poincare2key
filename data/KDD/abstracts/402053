@@ -1,0 +1,5 @@
+Online_JJ novelty_NN detection_NN on_IN temporal_JJ sequences_NNS
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT new_JJ framework_NN for_IN online_JJ novelty_NN detection_NN on_IN temporal_JJ sequences_NNS ._.
+This_DT framework_NN include_VBP a_DT mechanism_NN for_IN associating_VBG each_DT detection_NN result_VBP with_IN a_DT confidence_NN value_NN ._.
+Based_VBN on_IN this_DT framework_NN ,_, we_PRP develop_VBP a_DT concrete_JJ online_JJ detection_NN algorithm_NN ,_, by_IN modeling_NN the_DT temporal_JJ sequence_NN using_VBG an_DT online_JJ support_NN vector_NN regression_NN algorithm_NN ._.
+Experiments_NNS on_IN both_CC synthetic_JJ and_CC real_JJ world_NN data_NNS are_VBP performed_VBN to_TO demonstrate_VB the_DT promising_JJ performance_NN of_IN our_PRP$ proposed_VBN detection_NN algorithm_NN ._.

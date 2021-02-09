@@ -1,0 +1,5 @@
+Constructing_VBG extensible_JJ XQuery_NN mappings_NNS
+Constructing_VBG and_CC maintaining_VBG semantic_JJ mappings_NNS are_VBP necessary_JJ but_CC troublesome_JJ in_IN data_NN sharing_NN systems_NNS ._.
+While_IN most_JJS current_JJ work_NN focuses_VBZ on_IN seeking_VBG automated_JJ techniques_NNS to_TO solve_VB this_DT problem_NN ,_, this_DT paper_NN proposes_VBZ a_DT combination_NN model_NN for_IN constructing_VBG exten-sible_JJ mappings_NNS between_IN XML_NN schemas_NNS ._.
+In_IN our_PRP$ model_NN ,_, complex_JJ global_JJ mappings_NNS are_VBP constructed_VBN by_IN first_RB defining_VBG simple_JJ atomic_JJ mappings_NNS for_IN each_DT target_NN schema_NN element_NN ,_, and_CC then_RB combining_VBG them_PRP using_VBG a_DT few_JJ basic_JJ operators_NNS ._.
+At_IN the_DT same_JJ time_NN ,_, we_PRP provide_VBP automated_JJ support_NN for_IN constructing_VBG such_JJ combined_JJ mappings_NNS ._.

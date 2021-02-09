@@ -1,0 +1,13 @@
+A_DT general_JJ framework_NN for_IN accurate_JJ and_CC fast_JJ regression_NN by_IN data_NNS summarization_NN in_IN random_JJ decision_NN trees_NNS
+Predicting_VBG the_DT values_NNS of_IN continuous_JJ variable_NN as_IN a_DT function_NN of_IN several_JJ independent_JJ variables_NNS is_VBZ one_CD of_IN the_DT most_RBS important_JJ problems_NNS for_IN data_NN mining_NN ._.
+A_DT very_RB large_JJ number_NN of_IN regression_NN methods_NNS ,_, both_DT parametric_JJ and_CC nonparametric_JJ ,_, have_VBP been_VBN proposed_VBN in_IN the_DT past_NN ._.
+However_RB ,_, since_IN the_DT list_NN is_VBZ quite_RB extensive_JJ and_CC many_JJ of_IN these_DT models_NNS make_VBP rather_RB explicit_JJ ,_, strong_JJ yet_RB different_JJ assumptions_NNS about_IN the_DT type_NN of_IN applicable_JJ problems_NNS and_CC involve_VB a_DT lot_NN of_IN parameters_NNS and_CC options_NNS ,_, choosing_VBG the_DT appropriate_JJ regression_NN methodology_NN and_CC then_RB specifying_VBG the_DT parameter_NN values_NNS is_VBZ a_DT none-trivial_JJ ,_, sometimes_RB frustrating_JJ ,_, task_NN for_IN data_NN mining_NN practitioners_NNS ._.
+Choosing_VBG the_DT inappropriate_JJ methodology_NN can_MD have_VB rather_RB disappointing_JJ results_NNS ._.
+This_DT issue_NN is_VBZ against_IN the_DT general_JJ utility_NN of_IN data_NNS mining_NN software_NN ._.
+For_IN example_NN ,_, linear_JJ regression_NN methods_NNS are_VBP straightforward_JJ and_CC well-understood_JJ ._.
+However_RB ,_, since_IN the_DT linear_JJ assumption_NN is_VBZ very_RB strong_JJ ,_, its_PRP$ performance_NN is_VBZ compromised_VBN for_IN complicated_JJ non-linear_JJ problems_NNS ._.
+Kernel-based_JJ methods_NNS perform_VBP quite_RB well_RB if_IN the_DT kernel_NN functions_NNS are_VBP selected_VBN correctly_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT straightforward_JJ approach_NN based_VBN on_IN summarizing_VBG the_DT training_NN data_NNS using_VBG an_DT ensemble_NN of_IN random_JJ decisions_NNS trees_NNS ._.
+It_PRP requires_VBZ very_RB little_JJ knowledge_NN from_IN the_DT user_NN ,_, yet_RB is_VBZ applicable_JJ to_TO every_DT type_NN of_IN regression_NN problem_NN that_IN we_PRP are_VBP currently_RB aware_JJ of_IN ._.
+We_PRP have_VBP experimented_VBN on_IN a_DT wide_JJ range_NN of_IN problems_NNS including_VBG those_DT that_IN parametric_JJ methods_NNS performwell_NN ,_, a_DT large_JJ selection_NN of_IN benchmark_JJ datasets_NNS for_IN nonparametric_JJ regression_NN ,_, as_RB well_RB as_IN highly_RB non-linear_JJ stochastic_JJ problems_NNS ._.
+Our_PRP$ results_NNS are_VBP either_RB significantly_RB better_JJR than_IN or_CC identical_JJ to_TO many_JJ approaches_NNS that_WDT are_VBP known_VBN to_TO perform_VB well_RB on_IN these_DT problems_NNS ._.

@@ -1,0 +1,9 @@
+Behavioral_JJ profiles_NNS for_IN advanced_JJ email_NN features_NNS
+We_PRP examine_VBP the_DT behavioral_JJ patterns_NNS of_IN email_NN usage_NN in_IN a_DT large-scale_JJ enterprise_NN over_IN a_DT three-month_JJ period_NN ._.
+In_IN particular_JJ ,_, we_PRP focus_VBP on_IN two_CD main_JJ questions_NNS :_: -LRB-_-LRB- Q1_NN -RRB-_-RRB- what_WP do_VBP replies_NNS depend_VB on_IN ?_.
+and_CC -LRB-_-LRB- Q2_NN -RRB-_-RRB- what_WP is_VBZ the_DT gain_NN of_IN augmenting_VBG contacts_NNS through_IN the_DT friends_NNS of_IN friends_NNS from_IN the_DT email_JJ social_JJ graph_NN ?_.
+For_IN Q1_NN ,_, we_PRP identify_VBP and_CC evaluate_VBP the_DT significance_NN of_IN several_JJ factors_NNS that_WDT affect_VBP the_DT reply_NN probability_NN and_CC the_DT email_JJ response_NN time_NN ._.
+We_PRP find_VBP that_IN all_DT factors_NNS of_IN our_PRP$ considered_VBN set_NN are_VBP significant_JJ ,_, provide_VBP their_PRP$ relative_JJ ordering_VBG ,_, and_CC identify_VBP the_DT recipient_JJ list_NN size_NN ,_, and_CC the_DT intensity_NN of_IN email_JJ communication_NN between_IN the_DT correspondents_NNS as_IN the_DT dominant_JJ factors_NNS ._.
+We_PRP highlight_VBP various_JJ novel_JJ threshold_NN behaviors_NNS and_CC provide_VB support_NN for_IN existing_VBG hypotheses_NNS such_JJ as_IN that_DT of_IN the_DT least-effort_JJ reply_NN ._.
+For_IN Q2_NN ,_, we_PRP find_VBP that_IN the_DT number_NN of_IN new_JJ contacts_NNS extracted_VBN from_IN the_DT friends-of-friends_JJ relationships_NNS amounts_VBZ to_TO a_DT large_JJ number_NN ,_, but_CC which_WDT is_VBZ still_RB a_DT limited_JJ portion_NN of_IN the_DT total_JJ enterprise_NN size_NN ._.
+We_PRP believe_VBP that_IN our_PRP$ results_NNS provide_VBP significant_JJ insights_NNS towards_IN informed_VBN design_NN of_IN advanced_JJ email_NN features_NNS ,_, including_VBG those_DT of_IN social-networking_JJ type_NN ._.

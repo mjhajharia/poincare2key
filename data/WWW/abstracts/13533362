@@ -1,0 +1,8 @@
+Spatio-temporal_JJ models_NNS for_IN estimating_VBG click-through_JJ rate_NN
+We_PRP propose_VBP novel_JJ spatio-temporal_JJ models_NNS to_TO estimate_VB click-through_JJ rates_NNS in_IN the_DT context_NN of_IN content_NN recommendation_NN ._.
+We_PRP track_VBP article_NN CTR_NN at_IN a_DT fixed_JJ location_NN over_IN time_NN through_IN a_DT dynamic_JJ Gamma-Poisson_NNP model_NN and_CC combine_VB information_NN from_IN correlated_JJ locations_NNS through_IN dynamic_JJ linear_JJ regressions_NNS ,_, significantly_RB improving_VBG on_IN per-location_NN model_NN ._.
+Our_PRP$ models_NNS adjust_VBP for_IN user_NN fatigue_NN through_IN an_DT exponential_JJ tilt_NN to_TO the_DT first-view_JJ CTR_NN -LRB-_-LRB- probability_NN of_IN click_VB on_IN first_JJ article_NN exposure_NN -RRB-_-RRB- that_WDT is_VBZ based_VBN only_RB on_IN user-specific_JJ repeat-exposure_JJ features_NNS ._.
+We_PRP illustrate_VBP our_PRP$ approach_NN on_IN data_NNS obtained_VBN from_IN a_DT module_NN -LRB-_-LRB- Today_NN Module_NN -RRB-_-RRB- published_VBN regularly_RB on_IN Yahoo_NNP !_.
+Front_NN Page_NNP and_CC demonstrate_VB significant_JJ improvement_NN over_IN commonly_RB used_VBN baseline_NN methods_NNS ._.
+Large_JJ scale_NN simulation_NN experiments_NNS to_TO study_VB the_DT performance_NN of_IN our_PRP$ models_NNS under_IN different_JJ scenarios_NNS provide_VBP encouraging_JJ results_NNS ._.
+Throughout_IN ,_, all_DT modeling_NN assumptions_NNS are_VBP validated_VBN via_IN rigorous_JJ exploratory_JJ data_NN analysis_NN ._.

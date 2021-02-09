@@ -1,0 +1,8 @@
+Mining_NNP adaptively_RB frequent_JJ closed_VBD unlabeled_JJ rooted_JJ trees_NNS in_IN data_NNS streams_NNS
+Closed_JJ patterns_NNS are_VBP powerful_JJ representatives_NNS of_IN frequent_JJ patterns_NNS ,_, since_IN they_PRP eliminate_VBP redundant_JJ information_NN ._.
+We_PRP propose_VBP a_DT new_JJ approach_NN for_IN mining_NN closed_VBD unlabeled_JJ rooted_JJ trees_NNS adaptively_RB from_IN data_NNS streams_NNS that_IN change_NN over_IN time_NN ._.
+Our_PRP$ approach_NN is_VBZ based_VBN on_IN an_DT efficient_JJ representation_NN of_IN trees_NNS and_CC a_DT low_JJ complexity_NN notion_NN of_IN relaxed_VBN closed_JJ trees_NNS ,_, and_CC leads_VBZ to_TO an_DT on-line_JJ strategy_NN and_CC an_DT adaptive_JJ sliding_VBG window_NN technique_NN for_IN dealing_VBG with_IN changes_NNS over_IN time_NN ._.
+More_RBR precisely_RB ,_, we_PRP first_RB present_VBP a_DT general_JJ methodology_NN to_TO identify_VB closed_JJ patterns_NNS in_IN a_DT data_NN stream_NN ,_, using_VBG Galois_NNP Lattice_NNP Theory_NNP ._.
+Using_VBG this_DT methodology_NN ,_, we_PRP then_RB develop_VBP three_CD closed_JJ tree_NN mining_NN algorithms_NNS :_: an_DT incremental_JJ one_CD IncTreeNat_NNP ,_, a_DT sliding-window_NN based_VBN one_CD ,_, WinTreeNat_NNP ,_, and_CC finally_RB one_CD that_IN mines_NNS closed_VBD trees_NNS adaptively_RB from_IN data_NNS streams_NNS ,_, AdaTreeNat_NNP ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN this_DT is_VBZ the_DT first_JJ work_NN on_IN mining_NN frequent_JJ closed_JJ trees_NNS in_IN streaming_NN data_NNS varying_VBG with_IN time_NN ._.
+We_PRP give_VBP a_DT first_JJ experimental_JJ evaluation_NN of_IN the_DT proposed_VBN algorithms_NNS ._.

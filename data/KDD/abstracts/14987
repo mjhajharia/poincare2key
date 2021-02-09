@@ -1,0 +1,10 @@
+Accurate_JJ decision_NN trees_NNS for_IN mining_NN high-speed_JJ data_NNS streams_NNS
+In_IN this_DT paper_NN we_PRP study_VBD the_DT problem_NN of_IN constructing_VBG accurate_JJ decision_NN tree_NN models_NNS from_IN data_NNS streams_NNS ._.
+Data_NN streams_NNS are_VBP incremental_JJ tasks_NNS that_WDT require_VBP incremental_JJ ,_, online_NN ,_, and_CC any-time_JJ learning_NN algorithms_NNS ._.
+One_CD of_IN the_DT most_RBS successful_JJ algorithms_NNS for_IN mining_NN data_NNS streams_NNS is_VBZ VFDT_NNP ._.
+In_IN this_DT paper_NN we_PRP extend_VBP the_DT VFDT_NN system_NN in_IN two_CD directions_NNS :_: the_DT ability_NN to_TO deal_VB with_IN continuous_JJ data_NNS and_CC the_DT use_NN of_IN more_RBR powerful_JJ classification_NN techniques_NNS at_IN tree_NN leaves_NNS ._.
+The_DT proposed_VBN system_NN ,_, VFDTc_NN ,_, can_MD incorporate_VB and_CC classify_VB new_JJ information_NN online_NN ,_, with_IN a_DT single_JJ scan_VB of_IN the_DT data_NNS ,_, in_IN time_NN constant_JJ per_IN example_NN ._.
+The_DT most_RBS relevant_JJ property_NN of_IN our_PRP$ system_NN is_VBZ the_DT ability_NN to_TO obtain_VB a_DT performance_NN similar_JJ to_TO a_DT standard_JJ decision_NN tree_NN algorithm_NN even_RB for_IN medium_NN size_NN datasets_NNS ._.
+This_DT is_VBZ relevant_JJ due_JJ to_TO the_DT any-time_JJ property_NN ._.
+We_PRP study_VBD the_DT behavior_NN of_IN VFDTc_NN in_IN different_JJ problems_NNS and_CC demonstrate_VB its_PRP$ utility_NN in_IN large_JJ and_CC medium_JJ data_NNS sets_NNS ._.
+Under_IN a_DT bias-variance_JJ analysis_NN we_PRP observe_VBP that_IN VFDTc_NN in_IN comparison_NN to_TO C4_NN .5_CD is_VBZ able_JJ to_TO reduce_VB the_DT variance_NN component_NN ._.

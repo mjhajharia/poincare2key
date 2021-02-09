@@ -1,0 +1,6 @@
+Dealing_VBG with_IN different_JJ distributions_NNS in_IN learning_VBG from_IN
+In_IN the_DT problem_NN of_IN learning_VBG with_IN positive_JJ and_CC unlabeled_JJ examples_NNS ,_, existing_VBG research_NN all_DT assumes_VBZ that_IN positive_JJ examples_NNS P_NN and_CC the_DT hidden_JJ positive_JJ examples_NNS in_IN the_DT unlabeled_JJ set_NN U_NN are_VBP generated_VBN from_IN the_DT same_JJ distribution_NN ._.
+This_DT assumption_NN may_MD be_VB violated_VBN in_IN practice_NN ._.
+In_IN such_JJ cases_NNS ,_, existing_VBG methods_NNS perform_VB poorly_RB ._.
+This_DT paper_NN proposes_VBZ a_DT novel_JJ technique_NN A-EM_NN to_TO deal_VB with_IN the_DT problem_NN ._.
+Experimental_JJ results_NNS with_IN product_NN page_NN classification_NN demonstrate_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN technique_NN ._.

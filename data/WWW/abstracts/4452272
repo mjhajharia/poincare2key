@@ -1,0 +1,5 @@
+XML-based_JJ XML_NN schema_NN access_NN
+XML_NN Schema_NN 's_POS abstract_JJ data_NNS model_NN consists_VBZ of_IN components_NNS ,_, which_WDT are_VBP the_DT structures_NNS that_WDT eventually_RB define_VBP a_DT schema_NN as_IN a_DT whole_NN ._.
+XML_NN Schema_NN 's_POS XML_NN syntax_NN ,_, on_IN the_DT other_JJ hand_NN ,_, is_VBZ not_RB a_DT direct_JJ representation_NN of_IN the_DT schema_NN components_NNS ,_, and_CC it_PRP proves_VBZ to_TO be_VB surprisingly_RB hard_JJ to_TO derive_VB a_DT schema_NN 's_POS components_NNS from_IN the_DT XML_NN syntax_NN ._.
+The_DT Schema_FW Component_FW XML_NN Syntax_NN -LRB-_-LRB- SCX_NN -RRB-_-RRB- is_VBZ a_DT representation_NN which_WDT attempts_VBZ to_TO map_VB schema_NN components_NNS as_RB faithfully_RB as_IN possible_JJ to_TO XML_NN structures_NNS ._.
+SCX_NNP serves_VBZ as_IN the_DT starting_VBG point_NN for_IN applications_NNS which_WDT need_VBP access_NN to_TO schema_NN components_NNS and_CC want_VBP to_TO do_VB so_RB using_VBG standardized_JJ and_CC widely_RB available_JJ XML_NN technologies_NNS ._.

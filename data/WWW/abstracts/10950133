@@ -1,0 +1,8 @@
+Regular_JJ expressions_NNS considered_VBN harmful_JJ in_IN client-side_JJ XSS_NN filters_NNS
+Cross-site_JJ scripting_NN flaws_NNS have_VBP now_RB surpassed_VBN buffer_NN overflows_VBZ as_IN the_DT world_NN 's_POS most_RBS common_JJ publicly-reported_JJ security_NN vulnerability_NN ._.
+In_IN recent_JJ years_NNS ,_, browser_NN vendors_NNS and_CC researchers_NNS have_VBP tried_VBN to_TO develop_VB client-side_JJ filters_NNS to_TO mitigate_VB these_DT attacks_NNS ._.
+We_PRP analyze_VBP the_DT best_JJS existing_VBG filters_NNS and_CC find_VB them_PRP to_TO be_VB either_CC unacceptably_RB slow_JJ or_CC easily_RB circumvented_VBN ._.
+Worse_JJR ,_, some_DT of_IN these_DT filters_NNS could_MD introduce_VB vulnerabilities_NNS into_IN sites_NNS that_WDT were_VBD previously_RB bug-free_JJ ._.
+We_PRP propose_VBP a_DT new_JJ filter_NN design_NN that_WDT achieves_VBZ both_DT high_JJ performance_NN and_CC high_JJ precision_NN by_IN blocking_VBG scripts_NNS after_IN HTML_NNP parsing_NN but_CC before_IN execution_NN ._.
+Compared_VBN to_TO previous_JJ approaches_NNS ,_, our_PRP$ approach_NN is_VBZ faster_JJR ,_, protects_VBZ against_IN more_JJR vulnerabilities_NNS ,_, and_CC is_VBZ harder_RBR for_IN attackers_NNS to_TO abuse_VB ._.
+We_PRP have_VBP contributed_VBN an_DT implementation_NN of_IN our_PRP$ filter_NN design_NN to_TO the_DT WebKit_NNP open_JJ source_NN rendering_VBG engine_NN ,_, and_CC the_DT filter_NN is_VBZ now_RB enabled_VBN by_IN default_NN in_IN the_DT Google_NNP Chrome_NNP browser_NN ._.

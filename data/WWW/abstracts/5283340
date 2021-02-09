@@ -1,0 +1,4 @@
+CC-Buddy_JJ :_: an_DT adaptive_JJ framework_NN for_IN maintaining_VBG cache_NN coherency_NN using_VBG peers_NNS
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT framework_NN called_VBN CC-Buddy_JJ ,_, for_IN maintaining_VBG dynamic_JJ data_NNS coherency_NN in_IN peer-to-peer_JJ environment_NN ._.
+Working_VBG on_IN the_DT basis_NN of_IN peer_VB heterogeneity_NN in_IN data_NNS coherency_NN requirement_NN ,_, peers_NNS in_IN CC-Buddy_NN cooperate_VBP with_IN each_DT other_JJ to_TO disseminate_VB the_DT updates_NNS by_IN pushing_VBG ._.
+Simulation_NN results_NNS show_VBP that_IN our_PRP$ solution_NN not_RB only_RB improves_VBZ the_DT fidelity_NN in_IN data_NNS ,_, but_CC also_RB reduces_VBZ the_DT workload_NN of_IN servers_NNS ,_, therefore_RB achieves_VBZ high-scalability_JJ ._.

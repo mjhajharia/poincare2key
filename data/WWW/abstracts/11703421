@@ -1,0 +1,8 @@
+SafeVchat_NNP :_: detecting_VBG obscene_JJ content_NN and_CC misbehaving_VBG users_NNS in_IN online_JJ video_NN chat_NN services_NNS
+Online_JJ video_NN chat_NN services_NNS such_JJ as_IN Chatroulette_NNP ,_, Omegle_NNP ,_, and_CC vChatter_NN that_WDT randomly_RB match_VBP pairs_NNS of_IN users_NNS in_IN video_NN chat_NN sessions_NNS are_VBP fast_RB becoming_VBG very_RB popular_JJ ,_, with_IN over_IN a_DT million_CD users_NNS per_IN month_NN in_IN the_DT case_NN of_IN Chatroulette_NNP ._.
+A_DT key_JJ problem_NN encountered_VBN in_IN such_JJ systems_NNS is_VBZ the_DT presence_NN of_IN flashers_NNS and_CC obscene_JJ content_NN ._.
+This_DT problem_NN is_VBZ especially_RB acute_JJ given_VBN the_DT presence_NN of_IN underage_JJ minors_NNS in_IN such_JJ systems_NNS ._.
+This_DT paper_NN presents_VBZ SafeVchat_NNP ,_, a_DT novel_JJ solution_NN to_TO the_DT problem_NN of_IN flasher_NN detection_NN that_WDT employs_VBZ an_DT array_NN of_IN image_NN detection_NN algorithms_NNS ._.
+A_DT key_JJ contribution_NN of_IN the_DT paper_NN concerns_VBZ how_WRB the_DT results_NNS of_IN the_DT individual_JJ detectors_NNS are_VBP fused_VBN together_RB into_IN an_DT overall_JJ decision_NN classifying_VBG the_DT user_NN as_IN misbehaving_NN or_CC not_RB ,_, based_VBN on_IN Dempster-Shafer_NNP Theory_NNP ._.
+The_DT paper_NN introduces_VBZ a_DT novel_JJ ,_, motion-based_JJ skin_NN detection_NN method_NN that_WDT achieves_VBZ significantly_RB higher_JJR recall_NN and_CC better_JJR precision_NN ._.
+The_DT proposed_VBN methods_NNS have_VBP been_VBN evaluated_VBN over_IN real-world_JJ data_NNS and_CC image_NN traces_NNS obtained_VBN from_IN Chatroulette.com_NNP ._.

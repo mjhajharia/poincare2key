@@ -1,0 +1,4 @@
+Similarity_NN spreading_NN :_: a_DT unified_JJ framework_NN for_IN similarity_NN calculation_NN of_IN interrelated_JJ objects_NNS
+In_IN many_JJ Web_NN search_NN applications_NNS ,_, similarities_NNS between_IN objects_NNS of_IN one_CD type_NN -LRB-_-LRB- say_VB ,_, queries_NNS -RRB-_-RRB- can_MD be_VB affected_VBN by_IN the_DT similarities_NNS between_IN their_PRP$ interrelated_JJ objects_NNS of_IN another_DT type_NN -LRB-_-LRB- say_NN ,_, Web_NN pages_NNS -RRB-_-RRB- ,_, and_CC vice_NN versa_RB ._.
+We_PRP propose_VBP a_DT novel_JJ framework_NN called_VBN similarity_NN spreading_VBG to_TO take_VB account_NN of_IN the_DT interrelationship_NN and_CC improve_VB the_DT similarity_NN calculation_NN ._.
+Experiment_NN results_NNS show_VBP that_IN the_DT proposed_VBN framework_NN can_MD significantly_RB improve_VB the_DT accuracy_NN of_IN the_DT similarity_NN measurement_NN of_IN the_DT objects_NNS in_IN a_DT search_NN engine_NN ._.

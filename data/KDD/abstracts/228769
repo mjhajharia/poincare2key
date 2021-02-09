@@ -1,0 +1,9 @@
+Frequent_JJ term-based_JJ text_NN clustering_NN
+Text_NN clustering_NN methods_NNS can_MD be_VB used_VBN to_TO structure_VB large_JJ sets_NNS of_IN text_NN or_CC hypertext_NN documents_NNS ._.
+The_DT well-known_JJ methods_NNS of_IN text_NN clustering_NN ,_, however_RB ,_, do_VBP not_RB really_RB address_VB the_DT special_JJ problems_NNS of_IN text_NN clustering_NN :_: very_RB high_JJ dimensionality_NN of_IN the_DT data_NNS ,_, very_RB large_JJ size_NN of_IN the_DT databases_NNS and_CC understandability_NN of_IN the_DT cluster_NN description_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP a_DT novel_JJ approach_NN which_WDT uses_VBZ frequent_JJ item_NN -LRB-_-LRB- term_NN -RRB-_-RRB- sets_NNS for_IN text_NN clustering_NN ._.
+Such_JJ frequent_JJ sets_NNS can_MD be_VB efficiently_RB discovered_VBN using_VBG algorithms_NNS for_IN association_NN rule_NN mining_NN ._.
+To_TO cluster_VB based_VBN on_IN frequent_JJ term_NN sets_NNS ,_, we_PRP measure_VBP the_DT mutual_JJ overlap_VBP of_IN frequent_JJ sets_NNS with_IN respect_NN to_TO the_DT sets_NNS of_IN supporting_VBG documents_NNS ._.
+We_PRP present_VBP two_CD algorithms_NNS for_IN frequent_JJ term-based_JJ text_NN clustering_NN ,_, FTC_NNP which_WDT creates_VBZ flat_JJ clusterings_NNS and_CC HFTC_NN for_IN hierarchical_JJ clustering_NN ._.
+An_DT experimental_JJ evaluation_NN on_IN classical_JJ text_NN documents_NNS as_RB well_RB as_IN on_IN web_NN documents_NNS demonstrates_VBZ that_IN the_DT proposed_VBN algorithms_NNS obtain_VBP clusterings_NNS of_IN comparable_JJ quality_NN significantly_RB more_RBR efficiently_RB than_IN state-of-the_JJ -_: art_NN text_NN clustering_NN algorithms_NNS ._.
+Furthermore_RB ,_, our_PRP$ methods_NNS provide_VBP an_DT understandable_JJ description_NN of_IN the_DT discovered_VBN clusters_NNS by_IN their_PRP$ frequent_JJ term_NN sets_NNS ._.

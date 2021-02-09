@@ -1,0 +1,5 @@
+The_DT web_NN of_IN things_NNS
+The_DT Web_NN ,_, similar_JJ to_TO other_JJ successful_JJ man_NN made_VBN systems_NNS is_VBZ continuously_RB evolving_VBG ._.
+With_IN the_DT miniaturization_NN and_CC increased_VBN performance_NN of_IN computing_NN devices_NNS which_WDT are_VBP also_RB being_VBG embedded_VBN in_IN common_JJ physical_JJ objects_NNS ,_, it_PRP is_VBZ natural_JJ that_IN the_DT Web_NN evolved_VBD to_TO also_RB include_VB these_DT -_: therefore_RB the_DT Web_NN of_IN Things_NNS ._.
+This_DT tutorial_NN provides_VBZ an_DT overview_NN of_IN the_DT system_NN vertical_JJ structure_NN by_IN identifying_VBG the_DT relevant_JJ components_NNS ,_, illustrating_VBG their_PRP$ functionality_NN and_CC showing_VBG existing_VBG tools_NNS and_CC systems_NNS ._.
+The_DT aim_NN is_VBZ to_TO show_VB how_WRB small_JJ devices_NNS can_MD be_VB connected_VBN to_TO the_DT Web_NN at_IN various_JJ levels_NNS of_IN abstraction_NN and_CC transform_VB them_PRP into_IN ``_`` first-class_JJ ''_'' Web_NN residents_NNS ._.

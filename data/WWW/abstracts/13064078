@@ -1,0 +1,5 @@
+Highly_RB efficient_JJ algorithms_NNS for_IN structural_JJ clustering_NN of_IN large_JJ websites_NNS
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT highly_RB scalable_JJ algorithm_NN for_IN structurally_RB clustering_VBG webpages_NNS for_IN extraction_NN ._.
+We_PRP show_VBP that_IN ,_, using_VBG only_RB the_DT URLs_NNS of_IN the_DT webpages_NNS and_CC simple_JJ content_NN features_NNS ,_, it_PRP is_VBZ possible_JJ to_TO cluster_VB webpages_NNS effectively_RB and_CC efficiently_RB ._.
+At_IN the_DT heart_NN of_IN our_PRP$ techniques_NNS is_VBZ a_DT principled_JJ framework_NN ,_, based_VBN on_IN the_DT principles_NNS of_IN information_NN theory_NN ,_, that_WDT allows_VBZ us_PRP to_TO effectively_RB leverage_NN the_DT URLs_NNS ,_, and_CC combine_VB them_PRP with_IN content_NN and_CC structural_JJ properties_NNS ._.
+Using_VBG an_DT extensive_JJ evaluation_NN over_IN several_JJ large_JJ full_JJ websites_NNS ,_, we_PRP demonstrate_VBP the_DT effectiveness_NN of_IN our_PRP$ techniques_NNS ,_, at_IN a_DT scale_NN unattainable_JJ by_IN previous_JJ techniques_NNS ._.

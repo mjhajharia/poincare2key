@@ -1,0 +1,7 @@
+Privacy-preservation_NN for_IN gradient_NN descent_NN methods_NNS
+Gradient_NN descent_NN is_VBZ a_DT widely_RB used_VBN paradigm_NN for_IN solving_VBG many_JJ optimization_NN problems_NNS ._.
+Stochastic_JJ gradient_NN descent_NN performs_VBZ a_DT series_NN of_IN iterations_NNS to_TO minimize_VB a_DT target_NN function_NN in_IN order_NN to_TO reach_VB a_DT local_JJ minimum_NN ._.
+In_IN machine_NN learning_NN or_CC data_NN mining_NN ,_, this_DT function_NN corresponds_VBZ to_TO a_DT decision_NN model_NN that_WDT is_VBZ to_TO be_VB discovered_VBN ._.
+The_DT gradient_NN descent_NN paradigm_NN underlies_VBZ many_JJ commonly_RB used_VBN techniques_NNS in_IN data_NNS mining_NN and_CC machine_NN learning_NN ,_, such_JJ as_IN neural_JJ networks_NNS ,_, Bayesian_JJ networks_NNS ,_, genetic_JJ algorithms_NNS ,_, and_CC simulated_JJ annealing_NN ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, there_EX has_VBZ not_RB been_VBN any_DT work_NN that_WDT extends_VBZ the_DT notion_NN of_IN privacy_NN preservation_NN or_CC secure_JJ multi-party_JJ computation_NN to_TO gradient-descent-based_JJ techniques_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT preliminary_JJ approach_NN to_TO enable_VB privacy_NN preservation_NN in_IN gradient_NN descent_NN methods_NNS in_IN general_JJ and_CC demonstrate_VB its_PRP$ feasibility_NN in_IN specific_JJ gradient_NN descent_NN methods_NNS ._.

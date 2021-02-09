@@ -1,0 +1,7 @@
+Temporal_JJ rules_NNS for_IN mobile_JJ web_NN personalization_NN
+Many_JJ systems_NNS use_VBP past_JJ behavior_NN ,_, preferences_NNS and_CC environmental_JJ factors_NNS to_TO attempt_VB to_TO predict_VB user_NN navigation_NN on_IN the_DT Internet_NN ._.
+However_RB we_PRP believe_VBP that_IN many_JJ of_IN these_DT models_NNS have_VBP shortcomings_NNS ,_, in_IN that_IN they_PRP do_VBP not_RB take_VB into_IN account_NN that_IN users_NNS may_MD have_VB many_JJ different_JJ sets_NNS of_IN preferences_NNS ._.
+Here_RB we_PRP investigate_VBP an_DT environmental_JJ factor_NN ,_, namely_RB time_NN ,_, in_IN making_VBG predictions_NNS about_IN user_NN navigation_NN ._.
+We_PRP present_VBP methods_NNS for_IN creating_VBG temporal_JJ rules_NNS that_WDT describe_VBP user_NN navigation_NN patterns_NNS ._.
+We_PRP also_RB show_VBP the_DT benefit_NN of_IN using_VBG these_DT rules_NNS to_TO predict_VB user_NN navigation_NN and_CC also_RB show_VBP the_DT benefits_NNS of_IN these_DT models_NNS over_IN traditional_JJ methods_NNS ._.
+An_DT analysis_NN is_VBZ carried_VBN out_RP on_IN a_DT sample_NN of_IN usage_NN logs_NNS for_IN Wireless_NNP Application_NN Protocol_NNP -LRB-_-LRB- WAP_NNP -RRB-_-RRB- browsing_NN ,_, and_CC the_DT results_NNS of_IN this_DT analysis_NN verify_VB our_PRP$ hypothesis_NN ._.

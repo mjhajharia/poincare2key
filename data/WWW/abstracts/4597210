@@ -1,0 +1,6 @@
+Design_NN and_CC development_NN of_IN learning_VBG management_NN system_NN at_IN universiti_JJ Putra_NNP Malaysia_NNP :_: a_DT case_NN study_NN of_IN e-SPRINT_NN
+This_DT paper_NN reports_VBZ the_DT design_NN and_CC development_NN of_IN the_DT e-SPRINT_NNP ,_, Learning_NNP Management_NNP System_NNP ,_, which_WDT has_VBZ been_VBN derived_VBN from_IN Sistem_NNP Pengurusan_NNP Rangkaian_NNP Integrasi_NNP Notakuliah_NNP dalam_NN Talian_NN -_: mod_NN Elektronik_NN -RRB-_-RRB- and_CC currently_RB being_VBG implemented_VBN at_IN Universiti_NNP Putra_NNP Malaysia_NNP -LRB-_-LRB- UPM_NNP -RRB-_-RRB- ._.
+The_DT e-SPRINT_NN was_VBD developed_VBN by_IN utilizing_VBG PERL_NNP -LRB-_-LRB- Practical_NNP Extraction_NNP and_CC Report_NNP Language_NNP -RRB-_-RRB- and_CC was_VBD supported_VBN by_IN standard_JJ database_NN in_FW Linux\/UNIX_FW environment_NN operating_NN system_NN ._.
+The_DT system_NN is_VBZ currently_RB being_VBG used_VBN to_TO supplement_VB and_CC complement_VB part_NN of_IN the_DT classroom-based_JJ teaching_NN ._.
+This_DT paper_NN covers_VBZ the_DT architecture_NN and_CC features_NNS of_IN the_DT e-SPRINT_NN system_NN which_WDT consists_VBZ of_IN five_CD main_JJ modules_NNS ._.
+Some_DT general_JJ issues_NNS and_CC challenges_NNS of_IN such_JJ e-learning_NN initiatives_NNS implementation_NN will_MD also_RB be_VB discussed_VBN ._.

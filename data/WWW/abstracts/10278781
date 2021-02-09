@@ -1,0 +1,10 @@
+Object_JJ views_NNS :_: fine-grained_JJ sharing_NN in_IN browsers_NNS
+Browsers_NNS do_VBP not_RB currently_RB support_VBP the_DT secure_JJ sharing_NN of_IN JavaScript_NNP objects_NNS between_IN principals_NNS ._.
+We_PRP present_VBP this_DT problem_NN as_IN the_DT need_NN for_IN object_NN views_NNS ,_, which_WDT are_VBP consistent_JJ and_CC controllable_JJ versions_NNS of_IN objects_NNS ._.
+Multiple_JJ views_NNS can_MD be_VB made_VBN for_IN the_DT same_JJ object_NN and_CC customized_VBN for_IN the_DT recipients_NNS ._.
+We_PRP implement_VBP object_NN views_NNS with_IN a_DT JavaScript_NNP library_NN that_WDT wraps_VBZ shared_JJ objects_NNS and_CC interposes_VBZ on_IN all_DT access_NN attempts_NNS ._.
+The_DT security_NN challenge_NN is_VBZ to_TO fully_RB mediate_VB access_NN to_TO objects_NNS shared_VBN through_IN a_DT view_NN and_CC prevent_VB privilege_NN escalation_NN ._.
+We_PRP discuss_VBP how_WRB object_NN views_NNS can_MD be_VB deployed_VBN in_IN two_CD settings_NNS :_: same-origin_JJ sharing_NN with_IN rewriting-based_JJ JavaScript_NN isolation_NN systems_NNS like_IN Google_NNP Caja_NNP ,_, and_CC inter-origin_JJ sharing_NN between_IN browser_NN frames_NNS over_IN a_DT message-passing_JJ channel_NN ._.
+To_TO facilitate_VB simple_JJ document_NN sharing_NN ,_, we_PRP build_VBP a_DT policy_NN system_NN for_IN declaratively_RB defining_VBG policies_NNS for_IN document_NN object_NN views_NNS ._.
+Notably_RB ,_, our_PRP$ document_NN policy_NN system_NN makes_VBZ it_PRP possible_JJ to_TO hide_VB elements_NNS without_IN breaking_VBG document_NN structure_NN invariants_NNS ._.
+Developers_NNP can_MD control_VB the_DT fine-grained_JJ behavior_NN of_IN object_NN views_NNS with_IN an_DT aspect_NN system_NN that_WDT accepts_VBZ programmatic_JJ policies_NNS ._.

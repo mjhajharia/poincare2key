@@ -1,0 +1,8 @@
+Mining_NNP unexpected_JJ rules_NNS by_IN pushing_VBG user_NN dynamics_NNS
+Unexpected_JJ rules_NNS are_VBP interesting_JJ because_IN they_PRP are_VBP either_RB previously_RB unknown_JJ or_CC deviate_VB from_IN what_WP prior_JJ user_NN knowledge_NN would_MD suggest_VB ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD three_CD important_JJ issues_NNS that_WDT have_VBP been_VBN previously_RB ignored_VBN in_IN mining_NN unexpected_JJ rules_NNS ._.
+First_RB ,_, the_DT unexpectedness_NN of_IN a_DT rule_NN depends_VBZ on_IN how_WRB the_DT user_NN prefers_VBZ to_TO apply_VB the_DT prior_JJ knowledge_NN to_TO a_DT given_VBN scenario_NN ,_, in_IN addition_NN to_TO the_DT knowledge_NN itself_PRP ._.
+Second_RB ,_, the_DT prior_JJ knowledge_NN should_MD be_VB considered_VBN right_RB from_IN the_DT start_NN to_TO focus_VB the_DT search_NN on_IN unexpected_JJ rules_NNS ._.
+Third_RB ,_, the_DT unexpectedness_NN of_IN a_DT rule_NN depends_VBZ on_IN what_WP other_JJ rules_NNS the_DT user_NN has_VBZ seen_VBN so_RB far_RB ._.
+Thus_RB ,_, only_RB rules_NNS that_WDT remain_VBP unexpected_JJ given_VBN what_WP the_DT user_NN has_VBZ seen_VBN should_MD be_VB considered_VBN interesting_JJ ._.
+We_PRP develop_VBP an_DT approach_NN that_WDT addresses_VBZ all_DT three_CD problems_NNS above_IN and_CC evaluate_VB it_PRP by_IN means_NNS of_IN experiments_NNS focusing_VBG on_IN finding_VBG interesting_JJ rules_NNS ._.

@@ -1,0 +1,11 @@
+A_DT large-scale_JJ analysis_NN of_IN query_NN logs_NNS for_IN assessing_VBG personalization_NN opportunities_NNS
+Query_NNP logs_NNS ,_, the_DT patterns_NNS of_IN activity_NN left_VBN by_IN millions_NNS of_IN users_NNS ,_, contain_VBP a_DT wealth_NN of_IN information_NN that_WDT can_MD be_VB mined_VBN to_TO aid_VB personalization_NN ._.
+We_PRP perform_VBP a_DT large-scale_JJ study_NN of_IN Yahoo_NNP !_.
+search_NN engine_NN logs_NNS ,_, tracking_VBG 1.35_CD million_CD browser-cookies_NNS over_IN a_DT period_NN of_IN 6_CD months_NNS ._.
+We_PRP define_VBP metrics_NNS to_TO address_VB questions_NNS such_JJ as_IN 1_CD -RRB-_-RRB- How_WRB much_JJ history_NN is_VBZ available_JJ ?_.
+,_, 2_LS -RRB-_-RRB- How_WRB do_VBP users_NNS '_POS topical_JJ interests_NNS vary_VBP ,_, as_IN reflected_VBN by_IN their_PRP$ queries_NNS ?_.
+,_, and_CC 3_CD -RRB-_-RRB- What_WP can_MD we_PRP learn_VB from_IN user_NN clicks_NNS ?_.
+We_PRP find_VBP that_IN there_EX is_VBZ significantly_RB more_RBR expected_JJ history_NN for_IN the_DT user_NN of_IN a_DT randomly_RB picked_VBN query_NN than_IN for_IN a_DT randomly_RB picked_VBN user_NN ._.
+We_PRP show_VBP that_IN users_NNS exhibit_VBP consistent_JJ topical_JJ interests_NNS that_WDT vary_VBP between_IN users_NNS ._.
+We_PRP also_RB see_VBP that_IN user_NN clicks_NNS indicate_VBP a_DT variety_NN of_IN special_JJ interests_NNS ._.
+Our_PRP$ findings_NNS shed_VBP light_NN on_IN user_NN activity_NN and_CC can_MD inform_VB future_JJ personalization_NN efforts_NNS ._.

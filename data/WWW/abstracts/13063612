@@ -1,0 +1,10 @@
+Identifying_VBG primary_JJ content_NN from_IN web_NN pages_NNS and_CC its_PRP$ application_NN to_TO web_NN search_NN ranking_NN
+Web_NN pages_NNS are_VBP usually_RB highly_RB structured_JJ documents_NNS ._.
+In_IN some_DT documents_NNS ,_, content_NN with_IN different_JJ functionality_NN is_VBZ laid_VBN out_RP in_IN blocks_NNS ,_, some_DT merely_RB supporting_VBG the_DT main_JJ discourse_NN ._.
+In_IN other_JJ documents_NNS ,_, there_EX may_MD be_VB several_JJ blocks_NNS of_IN unrelated_JJ main_JJ content_NN ._.
+Indexing_NN a_DT web_NN page_NN as_IN if_IN it_PRP were_VBD a_DT linear_JJ document_NN can_MD cause_VB problems_NNS because_IN of_IN the_DT diverse_JJ nature_NN of_IN its_PRP$ content_NN ._.
+If_IN the_DT retrieval_NN function_NN treats_VBZ all_DT blocks_NNS of_IN the_DT web_NN page_NN equally_RB without_IN attention_NN to_TO structure_NN ,_, it_PRP may_MD lead_VB to_TO irrelevant_JJ query_NN matches_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP how_WRB content_JJ quality_NN of_IN different_JJ blocks_NNS of_IN a_DT web_NN page_NN can_MD be_VB utilized_VBN to_TO improve_VB a_DT retrieval_NN function_NN ._.
+Our_PRP$ method_NN is_VBZ based_VBN on_IN segmenting_VBG a_DT web_NN page_NN into_IN semantically_RB coherent_JJ blocks_NNS and_CC learning_VBG a_DT predictor_NN of_IN segment_NN content_NN quality_NN ._.
+We_PRP also_RB describe_VBP how_WRB to_TO use_VB segment_NN content_NN quality_NN estimates_NNS as_IN weights_NNS in_IN the_DT BM25F_NN formulation_NN ._.
+Experimental_JJ results_NNS show_VBP our_PRP$ method_NN improves_VBZ relevance_NN of_IN retrieved_VBN results_NNS by_IN as_RB much_JJ as_IN 4.5_CD %_NN compared_VBN to_TO BM25F_NN that_WDT treats_VBZ the_DT body_NN of_IN a_DT web_NN page_NN as_IN a_DT single_JJ section_NN ,_, and_CC by_IN a_DT larger_JJR margin_NN of_IN over_IN 9_CD %_NN for_IN difficult_JJ queries_NNS ._.

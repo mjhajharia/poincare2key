@@ -1,0 +1,6 @@
+OpenRuleBench_NNP :_: an_DT analysis_NN of_IN the_DT performance_NN of_IN rule_NN engines_NNS
+The_DT Semantic_JJ Web_NN initiative_NN has_VBZ led_VBN to_TO an_DT upsurge_NN of_IN the_DT interest_NN in_IN rules_NNS as_IN a_DT general_JJ and_CC powerful_JJ way_NN of_IN processing_NN ,_, combining_VBG ,_, and_CC analyzing_VBG semantic_JJ information_NN ._.
+Since_IN several_JJ of_IN the_DT technologies_NNS underlying_VBG rule-based_JJ systems_NNS are_VBP already_RB quite_RB mature_JJ ,_, it_PRP is_VBZ important_JJ to_TO understand_VB how_WRB such_JJ systems_NNS might_MD perform_VB on_IN the_DT Web_NN scale_NN ._.
+OpenRuleBench_NNP is_VBZ a_DT suite_NN of_IN benchmarks_NNS for_IN analyzing_VBG the_DT performance_NN and_CC scalability_NN of_IN different_JJ rule_NN engines_NNS ._.
+Currently_RB the_DT study_NN spans_VBZ five_CD different_JJ technologies_NNS and_CC eleven_NNS systems_NNS ,_, but_CC OpenRuleBench_NNP is_VBZ an_DT open_JJ community_NN resource_NN ,_, and_CC contributions_NNS from_IN the_DT community_NN are_VBP welcome_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP the_DT tested_VBN systems_NNS and_CC technologies_NNS ,_, the_DT methodology_NN used_VBN in_IN testing_NN ,_, and_CC analyze_VB the_DT results_NNS ._.

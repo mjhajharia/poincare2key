@@ -1,0 +1,12 @@
+Context-aware_JJ citation_NN recommendation_NN
+When_WRB you_PRP write_VBP papers_NNS ,_, how_WRB many_JJ times_NNS do_VBP you_PRP want_VB to_TO make_VB some_DT citations_NNS at_IN a_DT place_NN but_CC you_PRP are_VBP not_RB sure_JJ which_WDT papers_NNS to_TO cite_VB ?_.
+Do_VBP you_PRP wish_VB to_TO have_VB a_DT recommendation_NN system_NN which_WDT can_MD recommend_VB a_DT small_JJ number_NN of_IN good_JJ candidates_NNS for_IN every_DT place_NN that_IN you_PRP want_VBP to_TO make_VB some_DT citations_NNS ?_.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP our_PRP$ initiative_NN of_IN building_VBG a_DT context-aware_JJ citation_NN recommendation_NN system_NN ._.
+High_JJ quality_NN citation_NN recommendation_NN is_VBZ challenging_JJ :_: not_RB only_RB should_MD the_DT citations_NNS recommended_VBD be_VB relevant_JJ to_TO the_DT paper_NN under_IN composition_NN ,_, but_CC also_RB should_MD match_VB the_DT local_JJ contexts_NNS of_IN the_DT places_NNS citations_NNS are_VBP made_VBN ._.
+Moreover_RB ,_, it_PRP is_VBZ far_RB from_IN trivial_JJ to_TO model_VB how_WRB the_DT topic_NN of_IN the_DT whole_JJ paper_NN and_CC the_DT contexts_NNS of_IN the_DT citation_NN places_NNS should_MD affect_VB the_DT selection_NN and_CC ranking_NN of_IN citations_NNS ._.
+To_TO tackle_VB the_DT problem_NN ,_, we_PRP develop_VBP a_DT context-aware_JJ approach_NN ._.
+The_DT core_NN idea_NN is_VBZ to_TO design_VB a_DT novel_JJ non-parametric_JJ probabilistic_JJ model_NN which_WDT can_MD measure_VB the_DT context-based_JJ relevance_NN between_IN a_DT citation_NN context_NN and_CC a_DT document_NN ._.
+Our_PRP$ approach_NN can_MD recommend_VB citations_NNS for_IN a_DT context_NN effectively_RB ._.
+Moreover_RB ,_, it_PRP can_MD recommend_VB a_DT set_NN of_IN citations_NNS for_IN a_DT paper_NN with_IN high_JJ quality_NN ._.
+We_PRP implement_VBP a_DT prototype_NN system_NN in_IN CiteSeerX_NN ._.
+An_DT extensive_JJ empirical_JJ evaluation_NN in_IN the_DT CiteSeerX_NN digital_JJ library_NN against_IN many_JJ baselines_NNS demonstrates_VBZ the_DT effectiveness_NN and_CC the_DT scalability_NN of_IN our_PRP$ approach_NN ._.

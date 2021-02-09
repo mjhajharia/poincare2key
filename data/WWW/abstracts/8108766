@@ -1,0 +1,6 @@
+Generative_JJ models_NNS for_IN name_NN disambiguation_NN
+Name_VB ambiguity_NN is_VBZ a_DT special_JJ case_NN of_IN identity_NN uncertainty_NN where_WRB one_CD person_NN can_MD be_VB referenced_VBN by_IN multiple_JJ name_NN variations_NNS in_IN different_JJ situations_NNS or_CC evenshare_VB the_DT same_JJ name_NN with_IN other_JJ people_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP an_DT efficient_JJ framework_NN by_IN using_VBG two_CD novel_JJ topic-based_JJ models_NNS ,_, extended_VBN from_IN Probabilistic_JJ Latent_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- and_CC Latent_JJ Dirichlet_NNP Allocation_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- ._.
+Our_PRP$ models_NNS explicitly_RB introduce_VBP a_DT new_JJ variable_NN for_IN persons_NNS and_CC learn_VB the_DT distribution_NN of_IN topics_NNS with_IN regard_NN to_TO persons_NNS and_CC words_NNS ._.
+Experiments_NNS indicate_VBP that_IN our_PRP$ approach_NN consistently_RB outperforms_VBZ other_JJ unsupervised_JJ methods_NNS including_VBG spectral_JJ and_CC DBSCAN_JJ clustering_NN ._.
+Scalability_NNP is_VBZ addressed_VBN by_IN disambiguating_VBG authors_NNS in_IN over_IN 750,000_CD papers_NNS from_IN the_DT entire_JJ CiteSeer_NNP dataset_NN ._.

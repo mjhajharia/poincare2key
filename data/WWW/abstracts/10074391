@@ -1,0 +1,5 @@
+Advertising_NN keyword_NN generation_NN using_VBG active_JJ learning_NN
+This_DT paper_NN proposes_VBZ an_DT efficient_JJ relevance_NN feedback_NN based_VBN interactive_JJ model_NN for_IN keyword_JJ generation_NN in_IN sponsored_VBN search_NN advertising_NN ._.
+We_PRP formulate_VBP the_DT ranking_NN of_IN relevant_JJ terms_NNS as_IN a_DT supervised_JJ learning_NN problem_NN and_CC suggest_VBP new_JJ terms_NNS for_IN the_DT seed_NN by_IN leveraging_VBG user_NN relevance_NN feedback_NN information_NN ._.
+Active_JJ learning_NN is_VBZ employed_VBN to_TO select_VB the_DT most_RBS informative_JJ samples_NNS from_IN a_DT set_NN of_IN candidate_NN terms_NNS for_IN user_NN labeling_NN ._.
+Experiments_NNS show_VBP our_PRP$ approach_NN improves_VBZ the_DT relevance_NN of_IN generated_VBN terms_NNS significantly_RB with_IN little_JJ user_NN effort_NN required_VBN ._.

@@ -1,0 +1,10 @@
+Exploiting_VBG web_NN search_NN engines_NNS to_TO search_VB structured_JJ databases_NNS
+Web_NN search_NN engines_NNS often_RB federate_VBP many_JJ user_NN queries_NNS to_TO relevant_JJ structured_JJ databases_NNS ._.
+For_IN example_NN ,_, a_DT product_NN related_JJ query_NN might_MD be_VB federated_VBN to_TO a_DT product_NN database_NN containing_VBG their_PRP$ descriptions_NNS and_CC specifications_NNS ._.
+The_DT relevant_JJ structured_JJ data_NNS items_NNS are_VBP then_RB returned_VBN to_TO the_DT user_NN along_IN with_IN web_NN search_NN results_NNS ._.
+However_RB ,_, each_DT structured_JJ database_NN is_VBZ searched_VBN in_IN isolation_NN ._.
+Hence_RB ,_, the_DT search_NN often_RB produces_VBZ empty_JJ or_CC incomplete_JJ results_NNS as_IN the_DT database_NN may_MD not_RB contain_VB the_DT required_JJ information_NN to_TO answer_VB the_DT query_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ integrated_VBN search_NN architecture_NN ._.
+We_PRP establish_VBP and_CC exploit_VBP the_DT relationships_NNS between_IN web_NN search_NN results_NNS and_CC the_DT items_NNS in_IN structured_JJ databases_NNS to_TO identify_VB the_DT relevant_JJ structured_JJ data_NNS items_NNS for_IN a_DT much_RB wider_JJR range_NN of_IN queries_NNS ._.
+Our_PRP$ architecture_NN leverages_VBZ existing_VBG search_NN engine_NN components_NNS to_TO implement_VB this_DT functionality_NN at_IN very_RB low_JJ overhead_NN ._.
+We_PRP demonstrate_VBP the_DT quality_NN and_CC efficiency_NN of_IN our_PRP$ techniques_NNS through_IN an_DT extensive_JJ experimental_JJ study_NN ._.

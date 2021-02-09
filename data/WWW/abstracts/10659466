@@ -1,0 +1,8 @@
+Large_JJ scale_NN integration_NN of_IN senses_NNS for_IN the_DT semantic_JJ web_NN
+Nowadays_RB ,_, the_DT increasing_VBG amount_NN of_IN semantic_JJ data_NNS available_JJ on_IN the_DT Web_NN leads_VBZ to_TO a_DT new_JJ stage_NN in_IN the_DT potential_NN of_IN Semantic_JJ Web_NN applications_NNS ._.
+However_RB ,_, it_PRP also_RB introduces_VBZ new_JJ issues_NNS due_JJ to_TO the_DT heterogeneity_NN of_IN the_DT available_JJ semantic_JJ resources_NNS ._.
+One_CD of_IN the_DT most_RBS remarkable_JJ is_VBZ redundancy_NN ,_, that_DT is_VBZ ,_, the_DT excess_NN of_IN different_JJ semantic_JJ descriptions_NNS ,_, coming_VBG from_IN different_JJ sources_NNS ,_, to_TO describe_VB the_DT same_JJ intended_JJ meaning_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT technique_NN to_TO perform_VB a_DT large_JJ scale_NN integration_NN of_IN senses_NNS -LRB-_-LRB- expressed_VBN as_IN ontology_NN terms_NNS -RRB-_-RRB- ,_, in_IN order_NN to_TO cluster_VB the_DT most_RBS similar_JJ ones_NNS ,_, when_WRB indexing_VBG large_JJ amounts_NNS of_IN online_JJ semantic_JJ information_NN ._.
+It_PRP can_MD dramatically_RB reduce_VB the_DT redundancy_NN problem_NN on_IN the_DT current_JJ Semantic_JJ Web_NN ._.
+In_IN order_NN to_TO make_VB this_DT objective_JJ feasible_JJ ,_, we_PRP have_VBP studied_VBN the_DT adaptability_NN and_CC scalability_NN of_IN our_PRP$ previous_JJ work_NN on_IN sense_NN integration_NN ,_, to_TO be_VB translated_VBN to_TO the_DT much_RB larger_JJR scenario_NN of_IN the_DT Semantic_JJ Web_NN ._.
+Our_PRP$ evaluation_NN shows_VBZ a_DT good_JJ behavior_NN of_IN these_DT techniques_NNS when_WRB used_VBN in_IN large_JJ scale_NN experiments_NNS ,_, then_RB making_VBG feasible_JJ the_DT proposed_VBN approach_NN ._.

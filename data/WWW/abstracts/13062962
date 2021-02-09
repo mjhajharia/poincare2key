@@ -1,0 +1,8 @@
+Performance_NNP enhancement_NN of_IN scheduling_NN algorithms_NNS in_IN clusters_NNS and_CC grids_NNS using_VBG improved_VBN dynamic_JJ load_NN balancing_NN techniques_NNS
+This_DT paper_NN describes_VBZ the_DT research_NN work_NN done_VBN for_IN during_IN PhD_NN study_NN ._.
+Cluster_NN computing_NN ,_, grid_NN computing_NN and_CC cloud_NN computing_NN are_VBP distributed_VBN computing_VBG environments_NNS -LRB-_-LRB- DCEs_NNS -RRB-_-RRB- widely_RB accepted_VBN for_IN the_DT next_JJ generation_NN Web_NN based_VBN commercial_JJ and_CC scientific_JJ applications_NNS ._.
+These_DT applications_NNS work_VBP around_IN the_DT globally_RB distributed_VBN data_NNS of_IN petabyte_NN scale_NN that_WDT can_MD only_RB be_VB processed_VBN by_IN the_DT aggregating_VBG the_DT capability_NN of_IN globally_RB distributed_VBN resources_NNS ._.
+The_DT resource_NN management_NN and_CC process_NN scheduling_NN in_IN large_JJ scale_NN distributed_VBD computing_NN environment_NN are_VBP a_DT challenging_JJ task_NN ._.
+In_IN this_DT research_NN work_NN we_PRP have_VBP devised_VBN new_JJ scheduling_NN algorithms_NNS and_CC resource_NN management_NN strategies_NNS specially_RB designed_VBN for_IN the_DT cluster_NN and_CC grid_NN cloud_NN and_CC peer-to-peer_NN computing_NN ._.
+The_DT research_NN work_NN finally_RB presented_VBD the_DT distributed_VBN computing_NN solutions_NNS to_TO one_CD scientific_JJ and_CC one_CD commercial_JJ application_NN viz_NN ._.
+e-Learning_NN and_CC data_NN mining_NN ._.

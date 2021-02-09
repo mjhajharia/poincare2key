@@ -1,0 +1,13 @@
+Constant-factor_JJ approximation_NN algorithms_NNS for_IN identifying_VBG dynamic_JJ communities_NNS
+We_PRP propose_VBP two_CD approximation_NN algorithms_NNS for_IN identifying_VBG communities_NNS in_IN dynamic_JJ social_JJ networks_NNS ._.
+Communities_NNS are_VBP intuitively_RB characterized_VBN as_IN ``_`` unusually_RB densely_RB knit_VBN ''_'' subsets_NNS of_IN a_DT social_JJ network_NN ._.
+This_DT notion_NN becomes_VBZ more_RBR problematic_JJ if_IN the_DT social_JJ interactions_NNS change_VBP over_IN time_NN ._.
+Aggregating_VBG social_JJ networks_NNS over_IN time_NN can_MD radically_RB misrepresent_VB the_DT existing_VBG and_CC changing_VBG community_NN structure_NN ._.
+Recently_RB ,_, we_PRP have_VBP proposed_VBN an_DT optimization-based_JJ framework_NN for_IN modeling_NN dynamic_JJ community_NN structure_NN ._.
+Also_RB ,_, we_PRP have_VBP proposed_VBN an_DT algorithm_NN for_IN finding_VBG such_JJ structure_NN based_VBN on_IN maximum_NN weight_NN bipartite_JJ matching_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP analyze_VBP its_PRP$ performance_NN guarantee_NN for_IN a_DT special_JJ case_NN where_WRB all_DT actors_NNS can_MD be_VB observed_VBN at_IN all_DT times_NNS ._.
+In_IN such_JJ instances_NNS ,_, we_PRP show_VBP that_IN the_DT algorithm_NN is_VBZ a_DT small_JJ constant_JJ factor_NN approximation_NN of_IN the_DT optimum_NN ._.
+We_PRP use_VBP a_DT similar_JJ idea_NN to_TO design_VB an_DT approximation_NN algorithm_NN for_IN the_DT general_JJ case_NN where_WRB some_DT individuals_NNS are_VBP possibly_RB unobserved_JJ at_IN times_NNS ,_, and_CC to_TO show_VB that_IN the_DT approximation_NN factor_NN increases_VBZ twofold_JJ but_CC remains_VBZ a_DT constant_JJ regardless_RB of_IN the_DT input_NN size_NN ._.
+This_DT is_VBZ the_DT first_JJ algorithm_NN for_IN inferring_VBG communities_NNS in_IN dynamic_JJ networks_NNS with_IN a_DT provable_JJ approximation_NN guarantee_NN ._.
+We_PRP demonstrate_VBP the_DT general_JJ algorithm_NN on_IN real_JJ data_NNS sets_NNS ._.
+The_DT results_NNS confirm_VBP the_DT efficiency_NN and_CC effectiveness_NN of_IN the_DT algorithm_NN in_IN identifying_VBG dynamic_JJ communities_NNS ._.

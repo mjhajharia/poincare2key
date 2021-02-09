@@ -1,0 +1,6 @@
+Information_NN diffusion_NN through_IN blogspace_NN
+We_PRP study_VBD the_DT dynamics_NNS of_IN information_NN propagation_NN in_IN environments_NNS of_IN low-overhead_JJ personal_JJ publishing_NN ,_, using_VBG a_DT large_JJ collection_NN of_IN weblogs_NNS over_IN time_NN as_IN our_PRP$ example_NN domain_NN ._.
+We_PRP characterize_VBP and_CC model_VBP this_DT collection_NN at_IN two_CD levels_NNS ._.
+First_RB ,_, we_PRP present_VBP a_DT macroscopic_JJ characterization_NN of_IN topic_NN propagation_NN through_IN our_PRP$ corpus_NN ,_, formalizing_VBG the_DT notion_NN of_IN long-running_JJ ``_`` chatter_NN ''_'' topics_NNS consisting_VBG recursively_RB of_IN ``_`` spike_JJ ''_'' topics_NNS generated_VBN by_IN outside_JJ world_NN events_NNS ,_, or_CC more_RBR rarely_RB ,_, by_IN resonances_NNS within_IN the_DT community_NN ._.
+Second_RB ,_, we_PRP present_VBP a_DT microscopic_JJ characterization_NN of_IN propagation_NN from_IN individual_JJ to_TO individual_JJ ,_, drawing_VBG on_IN the_DT theory_NN of_IN infectious_JJ diseases_NNS to_TO model_VB the_DT flow_NN ._.
+We_PRP propose_VBP ,_, validate_VBP ,_, and_CC employ_VB an_DT algorithm_NN to_TO induce_VB the_DT underlying_JJ propagation_NN network_NN from_IN a_DT sequence_NN of_IN posts_NNS ,_, and_CC report_NN on_IN the_DT results_NNS ._.

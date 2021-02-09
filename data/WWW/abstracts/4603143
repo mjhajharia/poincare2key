@@ -1,0 +1,8 @@
+Selective_JJ hypertext_NN induced_VBD topic_NN search_NN
+We_PRP address_VBP the_DT problem_NN of_IN answering_VBG broad-topic_JJ queries_NNS on_IN the_DT World_NNP Wide_NN Web_NN ._.
+We_PRP present_VBP a_DT link_NN based_JJ analysis_NN algorithm_NN SelHITS_NN ,_, which_WDT is_VBZ an_DT improvement_NN over_IN Kleinberg_NNP 's_POS HITS_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- algorithm_NN ._.
+We_PRP introduce_VBP the_DT concept_NN of_IN virtual_JJ links_NNS to_TO exploit_VB the_DT latent_JJ information_NN in_IN the_DT hyperlinked_JJ environment_NN ._.
+We_PRP propose_VBP a_DT novel_JJ approach_NN to_TO calculate_VB hub_NN and_CC authority_NN values_NNS ._.
+We_PRP also_RB present_VBP a_DT selective_JJ expansion_NN method_NN which_WDT avoids_VBZ topic_NN drift_NN and_CC provides_VBZ results_NNS consistent_JJ with_IN only_RB one_CD interpretation_NN of_IN the_DT query_NN ,_, even_RB if_IN the_DT query_NN is_VBZ ambiguous_JJ ._.
+Initial_JJ experimental_JJ evaluation_NN and_CC user_NN feedback_NN show_VBP that_IN our_PRP$ algorithm_NN indeed_RB distills_VBZ the_DT most_RBS important_JJ and_CC relevant_JJ pages_NNS for_IN broad-topic_JJ queries_NNS ._.
+We_PRP also_RB infer_VBP that_IN there_EX exists_VBZ a_DT uniform_JJ notion_NN of_IN quality_NN of_IN search_NN results_NNS within_IN users_NNS ._.

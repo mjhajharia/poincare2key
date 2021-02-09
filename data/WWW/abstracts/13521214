@@ -1,0 +1,8 @@
+Keyword_JJ extraction_NN for_IN social_JJ snippets_NNS
+Today_NN ,_, a_DT huge_JJ amount_NN of_IN text_NN is_VBZ being_VBG generated_VBN for_IN social_JJ purposes_NNS on_IN social_JJ networking_NN services_NNS on_IN the_DT Web_NN ._.
+Unlike_IN traditional_JJ documents_NNS ,_, such_JJ text_NN is_VBZ usually_RB extremely_RB short_JJ and_CC tends_VBZ to_TO be_VB informal_JJ ._.
+Analysis_NN of_IN such_JJ text_NN benefit_NN many_JJ applications_NNS such_JJ as_IN advertising_NN ,_, search_NN ,_, and_CC content_NN filtering_VBG ._.
+In_IN this_DT work_NN ,_, we_PRP study_VBD one_CD traditional_JJ text_NN mining_NN task_NN on_IN such_JJ new_JJ form_NN of_IN text_NN ,_, that_WDT is_VBZ extraction_NN of_IN meaningful_JJ keywords_NNS ._.
+We_PRP propose_VBP several_JJ intuitive_JJ yet_RB useful_JJ features_NNS and_CC experiment_NN with_IN various_JJ classification_NN models_NNS ._.
+Evaluation_NN is_VBZ conducted_VBN on_IN Facebook_NNP data_NNS ._.
+Performances_NNPS of_IN various_JJ features_NNS and_CC models_NNS are_VBP reported_VBN and_CC compared_VBN ._.

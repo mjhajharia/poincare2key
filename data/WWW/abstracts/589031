@@ -1,0 +1,3 @@
+Upgrading_VBG relational_JJ legacy_NN data_NNS to_TO the_DT semantic_JJ web_NN
+In_IN this_DT poster_NN ,_, we_PRP describe_VBP a_DT framework_NN composed_VBN of_IN the_DT R2O_NN mapping_NN language_NN and_CC the_DT ODEMapster_NN processor_NN to_TO upgrade_VB relational_JJ legacy_NN data_NNS to_TO the_DT Semantic_JJ Web_NN ._.
+The_DT framework_NN is_VBZ based_VBN on_IN the_DT declarative_JJ description_NN of_IN mappings_NNS between_IN relational_JJ and_CC ontology_JJ elements_NNS and_CC the_DT exploitation_NN of_IN such_JJ mapping_NN descriptions_NNS by_IN a_DT generic_JJ processor_NN capable_JJ of_IN performing_VBG both_CC massive_JJ and_CC query_JJ driven_JJ data_NNS upgrade_NN ._.

@@ -1,0 +1,9 @@
+Quantification_NN and_CC semi-supervised_JJ classification_NN methods_NNS for_IN handling_VBG changes_NNS in_IN class_NN distribution_NN
+In_IN realistic_JJ settings_NNS the_DT prevalence_NN of_IN a_DT class_NN may_MD change_VB after_IN a_DT classifier_NN is_VBZ induced_VBN and_CC this_DT will_MD degrade_VB the_DT performance_NN of_IN the_DT classifier_NN ._.
+Further_RB complicating_VBG this_DT scenario_NN is_VBZ the_DT fact_NN that_IN labeled_JJ data_NNS is_VBZ often_RB scarce_JJ and_CC expensive_JJ ._.
+In_IN this_DT paper_NN we_PRP address_VBP the_DT problem_NN where_WRB the_DT class_NN distribution_NN changes_NNS and_CC only_RB unlabeled_JJ examples_NNS are_VBP available_JJ from_IN the_DT new_JJ distribution_NN ._.
+We_PRP design_VBP and_CC evaluate_VBP a_DT number_NN of_IN methods_NNS for_IN coping_VBG with_IN this_DT problem_NN and_CC compare_VB the_DT performance_NN of_IN these_DT methods_NNS ._.
+Our_PRP$ quantification-based_JJ methods_NNS estimate_VBP the_DT class_NN distribution_NN of_IN the_DT unlabeled_JJ data_NNS from_IN the_DT changed_JJ distribution_NN and_CC adjust_VBP the_DT original_JJ classifier_NN accordingly_RB ,_, while_IN our_PRP$ semi-supervised_JJ methods_NNS build_VBP a_DT new_JJ classifier_NN using_VBG the_DT examples_NNS from_IN the_DT new_JJ -LRB-_-LRB- unlabeled_JJ -RRB-_-RRB- distribution_NN which_WDT are_VBP supplemented_VBN with_IN predicted_VBN class_NN values_NNS ._.
+We_PRP also_RB introduce_VBP a_DT hybrid_NN method_NN that_WDT utilizes_VBZ both_CC quantification_NN and_CC semi-supervised_JJ learning_NN ._.
+All_DT methods_NNS are_VBP evaluated_VBN using_VBG accuracy_NN and_CC F-measure_NN on_IN a_DT set_NN of_IN benchmark_JJ data_NNS sets_NNS ._.
+Our_PRP$ results_NNS demonstrate_VBP that_IN our_PRP$ methods_NNS yield_VBP substantial_JJ improvements_NNS in_IN accuracy_NN and_CC F-measure_NN ._.

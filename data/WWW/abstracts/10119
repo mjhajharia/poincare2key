@@ -1,0 +1,11 @@
+Simulation_NN ,_, verification_NN and_CC automated_JJ composition_NN of_IN web_NN services_NNS
+Web_NN services_NNS --_: Web-accessible_JJ programs_NNS and_CC devices_NNS -_: are_VBP a_DT key_JJ application_NN area_NN for_IN the_DT Semantic_JJ Web_NN ._.
+With_IN the_DT proliferation_NN of_IN Web_NN services_NNS and_CC the_DT evolution_NN towards_IN the_DT Semantic_JJ Web_NN comes_VBZ the_DT opportunity_NN to_TO automate_VB various_JJ Web_NN services_NNS tasks_NNS ._.
+Our_PRP$ objective_NN is_VBZ to_TO enable_VB markup_NN and_CC automated_JJ reasoning_NN technology_NN to_TO describe_VB ,_, simulate_VB ,_, compose_VB ,_, test_NN ,_, and_CC verify_VB compositions_NNS of_IN Web_NN services_NNS ._.
+We_PRP take_VBP as_IN our_PRP$ starting_VBG point_NN the_DT DAML-S_NN DAML+OIL_NN ontology_NN for_IN describing_VBG the_DT capabilities_NNS of_IN Web_NN services_NNS ._.
+We_PRP define_VBP the_DT semantics_NNS for_IN a_DT relevant_JJ subset_NN of_IN DAML-S_NN in_IN terms_NNS of_IN a_DT first-order_JJ logical_JJ language_NN ._.
+With_IN the_DT semantics_NNS in_IN hand_NN ,_, we_PRP encode_VBP our_PRP$ service_NN descriptions_NNS in_IN a_DT Petri_NNP Net_NNP formalism_NN and_CC provide_VB decision_NN procedures_NNS for_IN Web_NN service_NN simulation_NN ,_, verification_NN and_CC composition_NN ._.
+We_PRP also_RB provide_VBP an_DT analysis_NN of_IN the_DT complexity_NN of_IN these_DT tasks_NNS under_IN different_JJ restrictions_NNS to_TO the_DT DAML-S_NN composite_JJ services_NNS we_PRP can_MD describe_VB ._.
+Finally_RB ,_, we_PRP present_VBP an_DT implementation_NN of_IN our_PRP$ analysis_NN techniques_NNS ._.
+This_DT implementation_NN takes_VBZ as_IN input_NN a_DT DAML-S_NN description_NN of_IN a_DT Web_NN service_NN ,_, automatically_RB generates_VBZ a_DT Petri_NNP Net_NNP and_CC performs_VBZ the_DT desired_VBN analysis_NN ._.
+Such_JJ a_DT tool_NN has_VBZ broad_JJ applicability_NN both_CC as_IN a_DT back_JJ end_NN to_TO existing_VBG manual_JJ Web_NN service_NN composition_NN tools_NNS ,_, and_CC as_IN a_DT stand-alone_JJ tool_NN for_IN Web_NN service_NN developers_NNS ._.

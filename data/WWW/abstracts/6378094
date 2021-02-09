@@ -1,0 +1,7 @@
+Recrawl_JJ scheduling_NN based_VBN on_IN information_NN longevity_NN
+It_PRP is_VBZ crucial_JJ for_IN a_DT web_NN crawler_NN to_TO distinguish_VB between_IN ephemeral_JJ and_CC persistent_JJ content_NN ._.
+Ephemeral_JJ content_NN -LRB-_-LRB- e.g._FW ,_, quote_NN of_IN the_DT day_NN -RRB-_-RRB- is_VBZ usually_RB not_RB worth_JJ crawling_VBG ,_, because_IN by_IN the_DT time_NN it_PRP reaches_VBZ the_DT index_NN it_PRP is_VBZ no_RB longer_JJR representative_NN of_IN the_DT web_NN page_NN from_IN which_WDT it_PRP was_VBD acquired_VBN ._.
+On_IN the_DT other_JJ hand_NN ,_, content_NN that_WDT persists_VBZ across_IN multiple_JJ page_NN updates_NNS -LRB-_-LRB- e.g._FW ,_, recent_JJ blog_NN postings_NNS -RRB-_-RRB- may_MD be_VB worth_JJ acquiring_VBG ,_, because_IN it_PRP matches_VBZ the_DT page_NN 's_POS true_JJ content_NN for_IN a_DT sustained_JJ period_NN of_IN time_NN ._.
+In_IN this_DT paper_NN we_PRP characterize_VBP the_DT longevity_NN of_IN information_NN found_VBN on_IN the_DT web_NN ,_, via_IN both_CC empirical_JJ measurements_NNS and_CC a_DT generative_JJ model_NN that_WDT coincides_VBZ with_IN these_DT measurements_NNS ._.
+We_PRP then_RB develop_VB new_JJ recrawl_NN scheduling_NN policies_NNS that_WDT take_VBP longevity_NN into_IN account_NN ._.
+As_IN we_PRP show_VBP via_IN experiments_NNS over_IN real_JJ web_NN data_NNS ,_, our_PRP$ policies_NNS obtain_VB better_JJR freshness_NN at_IN lower_JJR cost_NN ,_, compared_VBN with_IN previous_JJ approaches_NNS ._.

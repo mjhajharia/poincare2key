@@ -1,0 +1,8 @@
+Web_NN service_NN interfaces_NNS
+We_PRP present_VBP a_DT language_NN for_IN specifying_VBG web_NN service_NN interfaces_NNS ._.
+A_DT web_NN service_NN interface_NN puts_VBZ three_CD kinds_NNS of_IN constraints_NNS on_IN the_DT users_NNS of_IN the_DT service_NN ._.
+First_RB ,_, the_DT interface_NN specifies_VBZ the_DT methods_NNS that_WDT can_MD be_VB called_VBN by_IN a_DT client_NN ,_, together_RB with_IN types_NNS of_IN input_NN and_CC output_NN parameters_NNS ;_: these_DT are_VBP called_VBN signature_NN constraints_NNS ._.
+Second_RB ,_, the_DT interface_NN may_MD specify_VB propositional_JJ constraints_NNS on_IN method_NN calls_NNS and_CC output_NN values_NNS that_WDT may_MD occur_VB in_IN a_DT web_NN service_NN conversation_NN ;_: these_DT are_VBP called_VBN consistency_NN constraints_NNS ._.
+Third_RB ,_, the_DT interface_NN may_MD specify_VB temporal_JJ constraints_NNS on_IN the_DT ordering_VBG of_IN method_NN calls_NNS ;_: these_DT are_VBP called_VBN protocol_NN constraints_NNS ._.
+The_DT interfaces_NNS can_MD be_VB used_VBN to_TO check_VB ,_, first_RB ,_, if_IN two_CD or_CC more_JJR web_NN services_NNS are_VBP compatible_JJ ,_, and_CC second_JJ ,_, if_IN a_DT web_NN service_NN A_NN can_MD be_VB safely_RB substituted_VBN for_IN a_DT web_NN service_NN B._NNP The_NNP algorithm_NN for_IN compatibility_NN checking_NN verifies_VBZ that_IN two_CD or_CC more_JJR interfaces_NNS fulfill_VBP each_DT others_NNS '_POS constraints_NNS ._.
+The_DT algorithm_NN for_IN substitutivity_NN checking_NN verifies_VBZ that_IN service_NN A_NN demands_VBZ fewer_JJR and_CC fulfills_VBZ more_JJR constraints_NNS than_IN service_NN B._NNP

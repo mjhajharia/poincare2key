@@ -1,0 +1,7 @@
+Deriving_VBG music_NN theme_NN annotations_NNS from_IN user_NN tags_NNS
+Music_NN theme_NN annotations_NNS would_MD be_VB really_RB beneficial_JJ for_IN supporting_VBG retrieval_NN ,_, but_CC are_VBP often_RB neglected_VBN by_IN users_NNS while_IN annotating_VBG ._.
+Thus_RB ,_, in_IN order_NN to_TO support_VB users_NNS in_IN tagging_NN and_CC to_TO fill_VB the_DT gaps_NNS in_IN the_DT tag_NN space_NN ,_, in_IN this_DT paper_NN we_PRP develop_VBP algorithms_NNS for_IN recommending_VBG theme_NN annotations_NNS ._.
+Our_PRP$ methods_NNS exploit_VBP already_RB existing_VBG user_NN tags_NNS ,_, the_DT lyrics_NNS of_IN music_NN tracks_NNS ,_, as_RB well_RB as_IN combinations_NNS of_IN both_DT ._.
+We_PRP compare_VBP the_DT results_NNS for_IN our_PRP$ recommended_JJ theme_NN annotations_NNS against_IN genre_NN and_CC style_NN recommendations_NNS -_: a_DT much_RB easier_JJR and_CC already_RB studied_VBN task_NN ._.
+We_PRP evaluate_VBP the_DT quality_NN of_IN our_PRP$ recommended_JJ tags_NNS against_IN an_DT expert_JJ ground_NN truth_NN data_NNS set_VBN ._.
+Our_PRP$ results_NNS are_VBP promising_JJ and_CC provide_VB interesting_JJ insights_NNS into_IN possible_JJ extensions_NNS for_IN music_NN tagging_VBG systems_NNS to_TO support_VB music_NN search_NN ._.

@@ -1,0 +1,6 @@
+Web_NN projections_NNS :_: learning_VBG from_IN contextual_JJ subgraphs_NNS of_IN the_DT web_NN
+Graphical_JJ relationships_NNS among_IN Web_NN pages_NNS have_VBP been_VBN exploited_VBN inmethods_NNS for_IN ranking_JJ search_NN results_NNS ._.
+To_TO date_NN ,_, specific_JJ graphicalproperties_NNS have_VBP been_VBN used_VBN in_IN these_DT analyses_NNS ._.
+We_PRP introduce_VBP a_DT WebProjection_NNP methodology_NN that_WDT generalizes_VBZ prior_JJ efforts_NNS of_IN graphicalrelationships_NNS of_IN the_DT web_NN in_IN several_JJ ways_NNS ._.
+With_IN the_DT approach_NN ,_, wecreate_NN subgraphs_NNS by_IN projecting_VBG sets_NNS of_IN pages_NNS and_CC domains_NNS onto_IN thelarger_NN web_NN graph_NN ,_, and_CC then_RB use_VB machine_NN learning_VBG to_TO constructpredictive_JJ models_NNS that_WDT consider_VBP graphical_JJ properties_NNS as_IN evidence_NN ._.
+Wedescribe_IN the_DT method_NN and_CC then_RB present_JJ experiments_NNS that_WDT illustrate_VBP theconstruction_NN of_IN predictive_JJ models_NNS of_IN search_NN result_NN quality_NN and_CC userquery_NN reformulation_NN ._.

@@ -1,0 +1,7 @@
+Co-clustering_JJ documents_NNS and_CC words_NNS using_VBG bipartite_JJ spectral_JJ graph_NN partitioning_VBG
+Both_CC document_NN clustering_NN and_CC word_NN clustering_NN are_VBP well_RB studied_VBN problems_NNS ._.
+Most_JJS existing_VBG algorithms_NNS cluster_VBP documents_NNS and_CC words_NNS separately_RB but_CC not_RB simultaneously_RB ._.
+In_IN this_DT paper_NN we_PRP present_VBP the_DT novel_JJ idea_NN of_IN modeling_NN the_DT document_NN collection_NN as_IN a_DT bipartite_JJ graph_NN between_IN documents_NNS and_CC words_NNS ,_, using_VBG which_WDT the_DT simultaneous_JJ clustering_NN problem_NN can_MD be_VB posed_VBN as_IN a_DT bipartite_JJ graph_NN partitioning_VBG problem_NN ._.
+To_TO solve_VB the_DT partitioning_VBG problem_NN ,_, we_PRP use_VBP a_DT new_JJ spectral_JJ co-clustering_JJ algorithm_NN that_WDT uses_VBZ the_DT second_JJ left_NN and_CC right_JJ singular_JJ vectors_NNS of_IN an_DT appropriately_RB scaled_VBN word-document_JJ matrix_NN to_TO yield_VB good_JJ bipartitionings_NNS ._.
+The_DT spectral_JJ algorithm_NN enjoys_VBZ some_DT optimality_NN properties_NNS ;_: it_PRP can_MD be_VB shown_VBN that_IN the_DT singular_JJ vectors_NNS solve_VBP a_DT real_JJ relaxation_NN to_TO the_DT NP-complete_JJ graph_NN bipartitioning_VBG problem_NN ._.
+We_PRP present_VBP experimental_JJ results_NNS to_TO verify_VB that_IN the_DT resulting_VBG co-clustering_NN algorithm_NN works_VBZ well_RB in_IN practice_NN ._.

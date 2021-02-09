@@ -1,0 +1,10 @@
+Eigenspace-based_JJ anomaly_NN detection_NN in_IN computer_NN systems_NNS
+We_PRP report_VBP on_IN an_DT automated_JJ runtime_NN anomaly_NN detection_NN method_NN at_IN the_DT application_NN layer_NN of_IN multi-node_JJ computer_NN systems_NNS ._.
+Although_IN several_JJ network_NN management_NN systems_NNS are_VBP available_JJ in_IN the_DT market_NN ,_, none_NN of_IN them_PRP have_VBP sufficient_JJ capabilities_NNS to_TO detect_VB faults_NNS in_IN multi-tier_JJ Web-based_JJ systems_NNS with_IN redundancy_NN ._.
+We_PRP model_VBP a_DT Web-based_JJ system_NN as_IN a_DT weighted_JJ graph_NN ,_, where_WRB each_DT node_NN represents_VBZ a_DT ``_`` service_NN ''_'' and_CC each_DT edge_NN represents_VBZ a_DT dependency_NN between_IN services_NNS ._.
+Since_IN the_DT edge_NN weights_NNS vary_VBP greatly_RB over_IN time_NN ,_, the_DT problem_NN we_PRP address_VBP is_VBZ that_DT of_IN anomaly_JJ detection_NN from_IN a_DT time_NN sequence_NN of_IN graphs_NNS ._.
+In_IN our_PRP$ method_NN ,_, we_PRP first_JJ extract_NN a_DT feature_NN vector_NN from_IN the_DT adjacency_NN matrix_NN that_WDT represents_VBZ the_DT activities_NNS of_IN all_DT of_IN the_DT services_NNS ._.
+The_DT heart_NN of_IN our_PRP$ method_NN is_VBZ to_TO use_VB the_DT principal_JJ eigenvector_NN of_IN the_DT eigenclusters_NNS of_IN the_DT graph_NN ._.
+Then_RB we_PRP derive_VBP a_DT probability_NN distribution_NN for_IN an_DT anomaly_NN measure_NN defined_VBN for_IN a_DT time-series_NNS of_IN directional_JJ data_NNS derived_VBN from_IN the_DT graph_NN sequence_NN ._.
+Given_VBN a_DT critical_JJ probability_NN ,_, the_DT threshold_NN value_NN is_VBZ adaptively_RB updated_VBN using_VBG a_DT novel_JJ online_NN algorithm_NN ._.
+We_PRP demonstrate_VBP that_IN a_DT fault_NN in_IN a_DT Web_NN application_NN can_MD be_VB automatically_RB detected_VBN and_CC the_DT faulty_JJ services_NNS are_VBP identified_VBN without_IN using_VBG detailed_JJ knowledge_NN of_IN the_DT behavior_NN of_IN the_DT system_NN ._.

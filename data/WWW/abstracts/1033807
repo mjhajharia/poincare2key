@@ -1,0 +1,8 @@
+A_DT fault_NN model_NN and_CC mutation_NN testing_NN of_IN access_NN control_NN policies_NNS
+To_TO increase_VB confidence_NN in_IN the_DT correctness_NN of_IN specified_JJ policies_NNS ,_, policy_NN developers_NNS can_MD conduct_VB policy_NN testing_NN by_IN supplying_VBG typical_JJ test_NN inputs_NNS -LRB-_-LRB- requests_NNS -RRB-_-RRB- and_CC subsequently_RB checking_VBG test_NN outputs_NNS -LRB-_-LRB- responses_NNS -RRB-_-RRB- against_IN expected_VBN ones_NNS ._.
+Unfortunately_RB ,_, manual_JJ testing_NN is_VBZ tedious_JJ and_CC few_JJ tools_NNS exist_VBP for_IN automated_JJ testing_NN of_IN access_NN control_NN policies_NNS ._.
+We_PRP present_VBP a_DT fault_NN model_NN for_IN access_NN control_NN policies_NNS and_CC a_DT framework_NN to_TO explore_VB it_PRP ._.
+The_DT framework_NN includes_VBZ mutation_NN operators_NNS used_VBN to_TO implement_VB the_DT fault_NN model_NN ,_, mutant_JJ generation_NN ,_, equivalent-mutant_JJ detection_NN ,_, and_CC mutant-killing_JJ determination_NN ._.
+This_DT framework_NN allows_VBZ us_PRP to_TO investigate_VB our_PRP$ fault_NN model_NN ,_, evaluate_VB coverage_NN criteria_NNS for_IN test_NN generation_NN and_CC selection_NN ,_, and_CC determine_VB a_DT relationship_NN between_IN structural_JJ coverage_NN and_CC fault-detection_JJ effectiveness_NN ._.
+We_PRP have_VBP implemented_VBN the_DT framework_NN and_CC applied_VBD it_PRP to_TO various_JJ policies_NNS written_VBN in_IN XACML_NNP ._.
+Our_PRP$ experimental_JJ results_NNS offer_VBP valuable_JJ insights_NNS into_IN choosing_NN mutation_NN operators_NNS in_IN mutation_NN testing_NN and_CC choosing_NN coverage_NN criteria_NNS in_IN test_NN generation_NN and_CC selection_NN ._.

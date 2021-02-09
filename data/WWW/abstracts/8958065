@@ -1,0 +1,6 @@
+An_DT agent_NN system_NN for_IN ontology_NN sharing_NN on_IN WWW_NN
+Semantic_JJ Web_NN Services_NNP -LRB-_-LRB- SWS_NNP -RRB-_-RRB- ,_, a_DT new_JJ generation_NN WWW_NNP technology_NN ,_, will_MD facilitate_VB the_DT automation_NN of_IN Web_NN service_NN tasks_NNS ,_, including_VBG automated_JJ Web_NN service_NN discovery_NN ,_, execution_NN ,_, composition_NN and_CC mediation_NN by_IN using_VBG XML_NN based_JJ metadata_NN and_CC ontology_NN ._.
+There_EX have_VBP been_VBN several_JJ efforts_NNS to_TO build_VB knowledge_NN representation_NN languages_NNS for_IN Web_NN Services_NNP ._.
+However_RB ,_, only_RB few_JJ attempts_NNS have_VBP so_RB far_RB been_VBN made_VBN to_TO develop_VB applications_NNS based_VBN on_IN SWS_NNP ._.
+Especially_RB ,_, front-end_JJ agent_NN systems_NNS for_IN users_NNS are_VBP one_CD of_IN the_DT urgent_JJ research_NN areas_NNS ._.
+The_DT purpose_NN of_IN this_DT paper_NN is_VBZ to_TO introduce_VB our_PRP$ new_JJ integrated_JJ front-end_JJ agent_NN system_NN for_IN ontology_NN management_NN and_CC SWS_NN management_NN ._.

@@ -1,0 +1,10 @@
+U-REST_NN :_: an_DT unsupervised_JJ record_NN extraction_NN system_NN
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP a_DT system_NN that_WDT can_MD extract_VB recordstructures_NNS from_IN web_NN pages_NNS with_IN no_DT direct_JJ human_JJ supervision_NN ._.
+Records_NNPS are_VBP commonly_RB occurring_VBG HTML-embedded_JJ data_NNS tuples_NNS that_WDT describe_VBP people_NNS ,_, offered_VBN courses_NNS ,_, products_NNS ,_, company_NN profiles_NNS ,_, etc._FW ._.
+We_PRP present_VBP a_DT simplified_VBN frameworkfor_NN studying_VBG the_DT problem_NN of_IN unsupervised_JJ record_NN extraction_NN ._.
+one_CD which_WDT separates_VBZ the_DT algorithms_NNS from_IN the_DT feature_NN engineering_NN ._.
+Our_PRP$ system_NN ,_, U-REST_NN formalizes_VBZ an_DT approach_NN tothe_NN problem_NN of_IN unsupervised_JJ record_NN extraction_NN using_VBG a_DT simple_JJ two-stage_JJ machine_NN learning_NN framework_NN ._.
+The_DT first_JJ stage_NN involves_VBZ clustering_NN ,_, where_WRB structurally_RB similar_JJ regions_NNS are_VBP discovered_VBN ,_, and_CC the_DT second_JJ stage_NN involves_VBZ classification_NN ,_, where_WRB discovered_VBN groupings_NNS -LRB-_-LRB- clusters_NNS of_IN regions_NNS -RRB-_-RRB- are_VBP ranked_VBN by_IN their_PRP$ likelihood_NN of_IN being_VBG records_NNS ._.
+In_IN our_PRP$ work_NN ,_, we_PRP describe_VBP ,_, and_CC summarize_VB the_DT results_NNS of_IN an_DT extensive_JJ survey_NN of_IN features_NNS for_IN both_DT stages_NNS ._.
+We_PRP conclude_VBP by_IN comparing_VBG U-REST_NN to_TO related_JJ systems_NNS ._.
+The_DT results_NNS of_IN our_PRP$ empirical_JJ evaluation_NN show_VBP encouraging_JJ improvements_NNS in_IN extraction_NN accuracy_NN ._.

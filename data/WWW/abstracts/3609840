@@ -1,0 +1,5 @@
+WAND_NNP :_: a_DT meta-data_JJ maintenance_NN system_NN over_IN the_DT internet_NN
+WAND_NNP is_VBZ a_DT meta-data_JJ management_NN system_NN that_WDT provides_VBZ a_DT file-system_JJ tree_NN for_IN users_NNS of_IN an_DT internet_NN based_VBN P2P_NN network_NN ._.
+The_DT tree_NN is_VBZ robust_JJ and_CC retains_VBZ its_PRP$ structure_NN even_RB when_WRB nodes_NNS -LRB-_-LRB- peers_NNS -RRB-_-RRB- enter_VBP and_CC leave_VBP the_DT network_NN ._.
+The_DT robustness_NN is_VBZ based_VBN on_IN a_DT concept_NN of_IN virtual_JJ folders_NNS that_WDT are_VBP automatically_RB created_VBN to_TO retain_VB paths_NNS to_TO lower_JJR level_NN folders_NNS whenever_WRB a_DT node_NN hosting_VBG a_DT higher-level_JJ folder_NN moves_NNS away_RB ._.
+Other_JJ contributions_NNS of_IN the_DT WAND_NN system_NN include_VBP its_PRP$ novel_JJ approach_NN towards_IN managing_VBG root_NN directory_NN information_NN and_CC handling_NN network_NN partitions_NNS ._.

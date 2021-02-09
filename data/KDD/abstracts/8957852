@@ -1,0 +1,7 @@
+Similarity_NN analysis_NN on_IN government_NN regulations_NNS
+Government_NN regulations_NNS are_VBP semi-structured_JJ text_NN documents_NNS that_WDT are_VBP often_RB voluminous_JJ ,_, heavily_RB cross-referenced_JJ between_IN provisions_NNS and_CC even_RB ambiguous_JJ ._.
+Multiple_JJ sources_NNS of_IN regulations_NNS lead_VBP to_TO difficulties_NNS in_IN both_CC understanding_VBG and_CC complying_VBG with_IN all_DT applicable_JJ codes_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP propose_VBP a_DT framework_NN for_IN regulation_NN management_NN and_CC similarity_NN analysis_NN ._.
+An_DT online_JJ repository_NN for_IN legal_JJ documents_NNS is_VBZ created_VBN with_IN the_DT help_NN of_IN text_NN mining_NN tool_NN ,_, and_CC users_NNS can_MD access_VB regulatory_JJ documents_NNS either_CC through_IN the_DT natural_JJ hierarchy_NN of_IN provisions_NNS or_CC from_IN a_DT taxonomy_NN generated_VBN by_IN knowledge_NN engineers_NNS based_VBN on_IN concepts_NNS ._.
+Our_PRP$ similarity_NN analysis_NN core_NN identifies_VBZ relevant_JJ provisions_NNS and_CC brings_VBZ them_PRP to_TO the_DT user_NN 's_POS attention_NN ,_, and_CC this_DT is_VBZ performed_VBN by_IN utilizing_VBG both_CC the_DT hierarchical_JJ and_CC referential_JJ structures_NNS of_IN regulations_NNS to_TO provide_VB a_DT better_JJR comparison_NN between_IN provisions_NNS ._.
+Preliminary_JJ results_NNS show_VBP that_IN our_PRP$ system_NN reveals_VBZ hidden_JJ similarities_NNS that_WDT are_VBP not_RB apparent_JJ between_IN provisions_NNS based_VBN on_IN node_NN content_NN comparisons_NNS ._.

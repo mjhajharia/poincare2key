@@ -1,0 +1,8 @@
+Partial_JJ least_JJS squares_NNS regression_NN for_IN graph_NN mining_NN
+Attributed_VBN graphs_NNS are_VBP increasingly_RB more_RBR common_JJ in_IN many_JJ application_NN domains_NNS such_JJ as_IN chemistry_NN ,_, biology_NN and_CC text_NN processing_NN ._.
+A_DT central_JJ issue_NN in_IN graph_NN mining_NN is_VBZ how_WRB to_TO collect_VB informative_JJ subgraph_NN patterns_NNS for_IN a_DT given_VBN learning_NN task_NN ._.
+We_PRP propose_VBP an_DT iterative_JJ mining_NN method_NN based_VBN on_IN partial_JJ least_JJS squares_NNS regression_NN -LRB-_-LRB- PLS_NN -RRB-_-RRB- ._.
+To_TO apply_VB PLS_NN to_TO graph_NN data_NNS ,_, a_DT sparse_JJ version_NN of_IN PLS_NN is_VBZ developed_VBN first_RB and_CC then_RB it_PRP is_VBZ combined_VBN with_IN a_DT weighted_JJ pattern_NN mining_NN algorithm_NN ._.
+The_DT mining_NN algorithm_NN is_VBZ iteratively_RB called_VBN with_IN different_JJ weight_NN vectors_NNS ,_, creating_VBG one_CD latent_JJ component_NN per_IN one_CD mining_NN call_NN ._.
+Our_PRP$ method_NN ,_, graph_NN PLS_NN ,_, is_VBZ efficient_JJ and_CC easy_JJ to_TO implement_VB ,_, because_IN the_DT weight_NN vector_NN is_VBZ updated_VBN with_IN elementary_JJ matrix_NN calculations_NNS ._.
+In_IN experiments_NNS ,_, our_PRP$ graph_NN PLS_NN algorithm_NN showed_VBD competitive_JJ prediction_NN accuracies_NNS in_IN many_JJ chemical_JJ datasets_NNS and_CC its_PRP$ efficiency_NN was_VBD significantly_RB superior_JJ to_TO graph_NN boosting_VBG -LRB-_-LRB- gBoost_NN -RRB-_-RRB- and_CC the_DT naive_JJ method_NN based_VBN on_IN frequent_JJ graph_NN mining_NN ._.

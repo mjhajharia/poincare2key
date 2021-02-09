@@ -1,0 +1,6 @@
+Relational_NNP Markov_NNP models_NNS and_CC their_PRP$ application_NN to_TO adaptive_JJ web_NN navigation_NN
+Relational_NNP Markov_NNP models_NNS -LRB-_-LRB- RMMs_NNS -RRB-_-RRB- are_VBP a_DT generalization_NN of_IN Markov_NNP models_NNS where_WRB states_NNS can_MD be_VB of_IN different_JJ types_NNS ,_, with_IN each_DT type_NN described_VBN by_IN a_DT different_JJ set_NN of_IN variables_NNS ._.
+The_DT domain_NN of_IN each_DT variable_NN can_MD be_VB hierarchically_RB structured_VBN ,_, and_CC shrinkage_NN is_VBZ carried_VBN out_RP over_IN the_DT cross_JJ product_NN of_IN these_DT hierarchies_NNS ._.
+RMMs_NNS make_VBP effective_JJ learning_NN possible_JJ in_IN domains_NNS with_IN very_RB large_JJ and_CC heterogeneous_JJ state_NN spaces_NNS ,_, given_VBN only_RB sparse_JJ data_NNS ._.
+We_PRP apply_VBP them_PRP to_TO modeling_NN the_DT behavior_NN of_IN web_NN site_NN users_NNS ,_, improving_VBG prediction_NN in_IN our_PRP$ PROTEUS_NNP architecture_NN for_IN personalizing_VBG web_NN sites_NNS ._.
+We_PRP present_VBP experiments_NNS on_IN an_DT e-commerce_NN and_CC an_DT academic_JJ web_NN site_NN showing_VBG that_IN RMMs_NNS are_VBP substantially_RB more_RBR accurate_JJ than_IN alternative_JJ methods_NNS ,_, and_CC make_VB good_JJ predictions_NNS even_RB when_WRB applied_VBN to_TO previously-unvisited_JJ parts_NNS of_IN the_DT site_NN ._.

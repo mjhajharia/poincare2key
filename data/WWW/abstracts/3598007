@@ -1,0 +1,8 @@
+A_DT community-aware_JJ search_NN engine_NN
+Current_JJ search_NN technologies_NNS work_VBP in_IN a_DT ``_`` one_CD size_NN fits_VBZ all_DT ''_'' fashion_NN ._.
+Therefore_RB ,_, the_DT answer_NN to_TO a_DT query_NN is_VBZ independent_JJ of_IN specific_JJ user_NN information_NN need_NN ._.
+In_IN this_DT paper_NN we_PRP describe_VBP a_DT novel_JJ ranking_NN technique_NN for_IN personalized_JJ search_NN servicesthat_NN combines_VBZ content-based_JJ and_CC community-based_JJ evidences_NNS ._.
+The_DT community-based_JJ information_NN is_VBZ used_VBN in_IN order_NN to_TO provide_VB context_NN for_IN queries_NNS andis_NN influenced_VBN by_IN the_DT current_JJ interaction_NN of_IN the_DT user_NN with_IN the_DT service_NN ._.
+Ouralgorithm_NNP is_VBZ evaluated_VBN using_VBG data_NNS derived_VBN from_IN an_DT actual_JJ service_NN available_JJ on_IN the_DT Web_NN an_DT online_JJ bookstore_NN ._.
+We_PRP show_VBP that_IN the_DT quality_NN of_IN content-based_JJ ranking_NN strategies_NNS can_MD be_VB improved_VBN by_IN the_DT use_NN of_IN communityinformation_NN as_IN another_DT evidential_JJ source_NN of_IN relevance_NN ._.
+In_IN our_PRP$ experiments_NNS the_DT improvements_NNS reach_VBP up_RB to_TO 48_CD %_NN in_IN terms_NNS of_IN average_JJ precision_NN ._.

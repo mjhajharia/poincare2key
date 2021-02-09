@@ -1,0 +1,13 @@
+A_DT large-scale_JJ study_NN of_IN robots_NNS ._.
+txt_NN
+Search_VB engines_NNS largely_RB rely_VBP on_IN Web_NN robots_NNS to_TO collect_VB information_NN from_IN the_DT Web_NN ._.
+Due_JJ to_TO the_DT unregulated_JJ open-access_JJ nature_NN of_IN the_DT Web_NN ,_, robot_NN activities_NNS are_VBP extremely_RB diverse_JJ ._.
+Such_JJ crawling_VBG activities_NNS can_MD be_VB regulated_VBN from_IN the_DT server_NN side_NN by_IN deploying_VBG the_DT Robots_NNP Exclusion_NNP Protocol_NNP in_IN a_DT file_NN called_VBN robots_NNS ._.
+txt_NN ._.
+Although_IN it_PRP is_VBZ not_RB an_DT enforcement_NN standard_NN ,_, ethical_JJ robots_NNS -LRB-_-LRB- and_CC many_JJ commercial_JJ -RRB-_-RRB- will_MD follow_VB the_DT rules_NNS specified_VBN in_IN robots_NNS ._.
+txt_NN ._.
+With_IN our_PRP$ focused_JJ crawler_NN ,_, we_PRP investigate_VBP 7,593_CD websites_NNS from_IN education_NN ,_, government_NN ,_, news_NN ,_, and_CC business_NN domains_NNS ._.
+Five_CD crawls_VBZ have_VBP been_VBN conducted_VBN in_IN succession_NN to_TO study_VB the_DT temporal_JJ changes_NNS ._.
+Through_IN statistical_JJ analysis_NN of_IN the_DT data_NNS ,_, we_PRP present_VBP a_DT survey_NN of_IN the_DT usage_NN of_IN Web_NN robots_NNS rules_NNS at_IN the_DT Web_NN scale_NN ._.
+The_DT results_NNS also_RB show_VBP that_IN the_DT usage_NN of_IN robots_NNS ._.
+txt_NN has_VBZ increased_VBN over_IN time_NN ._.

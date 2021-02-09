@@ -1,0 +1,6 @@
+A_DT generic_JJ uiml_NN vocabulary_NN for_IN device_NN -_: and_CC modality_NN independent_JJ user_NN interfaces_NNS
+We_PRP present_JJ in_IN this_DT poster_NN our_PRP$ work_NN on_IN a_DT User_NN Interface_NNP Markup_NNP Language_NN -LRB-_-LRB- UIML_NN -RRB-_-RRB- vocabulary_NN for_IN the_DT specification_NN of_IN device_NN -_: and_CC modality_NN independent_JJ user_NN interfaces_NNS ._.
+The_DT work_NN presented_VBN here_RB is_VBZ part_NN of_IN an_DT application-oriented_JJ project_NN ._.
+One_CD of_IN the_DT results_NNS of_IN the_DT project_NN is_VBZ a_DT prototype_NN implementation_NN of_IN a_DT generic_JJ platform_NN for_IN device_NN independent_JJ multimodal_JJ mobile_JJ applications_NNS ._.
+The_DT poster_NN presents_VBZ the_DT requirements_NNS for_IN a_DT generic_JJ user_NN interface_NN description_NN format_NN and_CC explains_VBZ our_PRP$ approach_NN on_IN an_DT integrated_JJ description_NN of_IN user_NN interfaces_NNS for_IN both_CC graphical_JJ and_CC voice_NN modality_NN ._.
+A_DT basic_JJ overview_NN of_IN the_DT vocabulary_NN structure_NN ,_, its_PRP$ language_NN elements_NNS and_CC main_JJ features_NNS is_VBZ presented_VBN ._.

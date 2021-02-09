@@ -1,0 +1,10 @@
+Filtering_VBG microblogging_NN messages_NNS for_IN social_JJ tv_NN
+Social_NNP TV_NNP was_VBD named_VBN one_CD of_IN the_DT ten_CD most_RBS important_JJ emerging_VBG technologies_NNS in_IN 2010_CD by_IN the_DT MIT_NNP Technology_NNP Review_NNP ._.
+Manufacturers_NNS of_IN set-top_JJ boxes_NNS and_CC televisions_NNS have_VBP recently_RB started_VBN to_TO integrate_VB access_NN to_TO social_JJ networks_NNS into_IN their_PRP$ products_NNS ._.
+Some_DT of_IN these_DT systems_NNS allow_VBP users_NNS to_TO read_VB microblogging_VBG messages_NNS related_VBN to_TO the_DT TV_NN program_NN they_PRP are_VBP currently_RB watching_VBG ._.
+However_RB ,_, such_JJ systems_NNS suffer_VBP from_IN low_JJ precision_NN and_CC recall_NN when_WRB they_PRP use_VBP the_DT title_NN of_IN the_DT show_NN as_IN keywords_NNS when_WRB retrieving_VBG messages_NNS ,_, without_IN any_DT additional_JJ filtering_VBG ._.
+We_PRP propose_VBP a_DT bootstrapping_VBG approach_NN to_TO collecting_VBG microblogging_NN messages_NNS related_VBN to_TO a_DT given_VBN TV_NN program_NN ._.
+We_PRP start_VBP with_IN a_DT small_JJ set_NN of_IN annotated_JJ data_NNS ,_, in_IN which_WDT ,_, for_IN a_DT given_VBN show_NN and_CC a_DT candidate_NN message_NN ,_, we_PRP annotate_VBP the_DT pair_NN to_TO be_VB relevant_JJ or_CC irrelevant_JJ ._.
+From_IN this_DT annotated_JJ data_NN set_NN ,_, we_PRP train_VBP an_DT initial_JJ classifier_NN ._.
+The_DT features_NNS are_VBP designed_VBN to_TO capture_VB the_DT association_NN between_IN the_DT TV_NN program_NN and_CC the_DT message_NN ._.
+Using_VBG our_PRP$ initial_JJ classifier_NN and_CC a_DT large_JJ dataset_NN of_IN unlabeled_JJ messages_NNS we_PRP derive_VBP broader_JJR features_NNS for_IN a_DT second_JJ classifier_NN to_TO further_RB improve_VB precision_NN ._.

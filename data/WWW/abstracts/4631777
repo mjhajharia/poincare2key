@@ -1,0 +1,6 @@
+The_DT ScratchPad_NNP :_: sensemaking_VBG support_NN for_IN the_DT web_NN
+The_DT World_NNP Wide_NN Web_NN is_VBZ a_DT powerful_JJ platform_NN for_IN a_DT wide_JJ range_NN of_IN information_NN tasks_NNS ._.
+Dramatic_JJ advances_NNS in_IN technology_NN ,_, such_JJ as_IN improved_VBN search_NN capabilities_NNS and_CC the_DT AJAX_NNP application_NN model_NN ,_, have_VBP enabled_VBN entirely_RB new_JJ web-based_JJ applications_NNS and_CC usage_NN patterns_NNS ,_, making_VBG many_JJ tasks_NNS easier_JJR to_TO perform_VB than_IN ever_RB before_RB ._.
+However_RB ,_, few_JJ tools_NNS have_VBP been_VBN developed_VBN to_TO assist_VB with_IN sensemaking_NN tasks_NNS :_: complex_JJ research_NN behaviors_NNS in_IN which_WDT users_NNS gather_VBP and_CC comprehend_VBP information_NN from_IN many_JJ sources_NNS to_TO answer_VB potentially_RB vague_JJ ,_, non-procedural_JJ questions_NNS ._.
+Sensemaking_VBG tasks_NNS are_VBP common_JJ and_CC include_VBP ,_, for_IN example_NN ,_, researching_VBG vacation_NN destinations_NNS or_CC deciding_VBG how_WRB to_TO invest_VB ._.
+This_DT paper_NN presents_VBZ the_DT ScratchPad_NNP ,_, an_DT extension_NN to_TO the_DT standard_JJ browser_NN interface_NN that_WDT is_VBZ designed_VBN to_TO capture_VB ,_, organize_VB ,_, and_CC exploit_VB the_DT information_NN discovered_VBN while_IN performing_VBG a_DT sensemaking_NN task_NN ._.

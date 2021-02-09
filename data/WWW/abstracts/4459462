@@ -1,0 +1,7 @@
+A_DT novel_JJ collaborative_JJ filtering-based_JJ framework_NN for_IN personalized_JJ services_NNS in_IN m-commerce_NN
+With_IN the_DT rapid_JJ growth_NN of_IN wireless_JJ technologies_NNS and_CC handheld_JJ devices_NNS ,_, m-commerce_NN is_VBZ becoming_VBG a_DT promising_JJ research_NN area_NN ._.
+Personalization_NN is_VBZ especially_RB important_JJ to_TO the_DT success_NN of_IN m-commerce_NN ._.
+This_DT paper_NN proposes_VBZ a_DT novel_JJ collaborative_JJ filtering-based_JJ framework_NN for_IN personalized_JJ services_NNS in_IN m-commerce_NN ._.
+The_DT framework_NN extends_VBZ our_PRP$ previous_JJ work_NN by_IN using_VBG Online_NNP Analytical_NNP Processing_NNP -LRB-_-LRB- OLAP_NNP -RRB-_-RRB- to_TO represent_VB the_DT relations_NNS among_IN user_NN ,_, content_NN and_CC context_NN information_NN ,_, and_CC adopting_VBG a_DT multi-dimensional_JJ collaborative_JJ filtering_VBG model_NN to_TO perform_VB inference_NN ._.
+It_PRP provides_VBZ a_DT powerful_JJ and_CC well-founded_JJ mechanism_NN to_TO personalization_NN for_IN m-commerce_NN ._.
+We_PRP implemented_VBD it_PRP in_IN an_DT existing_VBG m-commerce_NN platform_NN ,_, and_CC experimental_JJ results_NNS demonstrate_VBP its_PRP$ feasibility_NN and_CC correctness_NN ._.

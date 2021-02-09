@@ -1,0 +1,11 @@
+Mining_NNP optimal_JJ decision_NN trees_NNS from_IN itemset_JJ lattices_NNS
+We_PRP present_VBP DL8_NN ,_, an_DT exact_JJ algorithm_NN for_IN finding_VBG a_DT decision_NN tree_NN that_WDT optimizes_VBZ a_DT ranking_JJ function_NN under_IN size_NN ,_, depth_NN ,_, accuracy_NN and_CC leaf_NN constraints_NNS ._.
+Because_IN the_DT discovery_NN of_IN optimal_JJ trees_NNS has_VBZ high_JJ theoretical_JJ complexity_NN ,_, until_IN now_RB few_JJ efforts_NNS have_VBP been_VBN made_VBN to_TO compute_VB such_JJ trees_NNS for_IN real-world_JJ datasets_NNS ._.
+An_DT exact_JJ algorithm_NN is_VBZ of_IN both_CC scientific_JJ and_CC practical_JJ interest_NN ._.
+From_IN a_DT scientific_JJ point_NN of_IN view_NN ,_, it_PRP can_MD be_VB used_VBN as_IN a_DT gold_JJ standard_NN to_TO evaluate_VB the_DT performance_NN of_IN heuristic_NN constraint-based_JJ decision_NN tree_NN learners_NNS and_CC to_TO gain_VB new_JJ insight_NN in_IN traditional_JJ decision_NN tree_NN learners_NNS ._.
+From_IN the_DT application_NN point_NN of_IN view_NN ,_, it_PRP can_MD be_VB used_VBN to_TO discover_VB trees_NNS that_WDT can_MD not_RB be_VB found_VBN by_IN heuristic_NN decision_NN tree_NN learners_NNS ._.
+The_DT key_JJ idea_NN behind_IN our_PRP$ algorithm_NN is_VBZ that_IN there_EX is_VBZ a_DT relation_NN between_IN constraints_NNS on_IN decision_NN trees_NNS and_CC constraints_NNS on_IN itemsets_NNS ._.
+We_PRP show_VBP that_IN optimal_JJ decision_NN trees_NNS can_MD be_VB extracted_VBN from_IN lattices_NNS of_IN itemsets_NNS in_IN linear_JJ time_NN ._.
+We_PRP give_VBP several_JJ strategies_NNS to_TO efficiently_RB build_VB these_DT lattices_NNS ._.
+Experiments_NNS show_VBP that_IN under_IN the_DT same_JJ constraints_NNS ,_, DL8_NN obtains_VBZ better_JJR results_NNS than_IN C4_NN .5_NN ,_, which_WDT confirms_VBZ that_IN exhaustive_JJ search_NN does_VBZ not_RB always_RB imply_VB overfitting_NN ._.
+The_DT results_NNS also_RB show_VBP that_IN DL8_NN is_VBZ a_DT useful_JJ and_CC interesting_JJ tool_NN to_TO learn_VB decision_NN trees_NNS under_IN constraints_NNS ._.

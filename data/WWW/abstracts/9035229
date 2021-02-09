@@ -1,0 +1,10 @@
+Learning_NNP multiple_JJ graphs_NNS for_IN document_NN recommendations_NNS
+The_DT Web_NN offers_VBZ rich_JJ relational_JJ data_NNS with_IN different_JJ semantics_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP address_VBP the_DT problem_NN of_IN document_NN recommendation_NN in_IN a_DT digital_JJ library_NN ,_, where_WRB the_DT documents_NNS in_IN question_NN are_VBP networked_VBN by_IN citations_NNS and_CC are_VBP associated_VBN with_IN other_JJ entities_NNS by_IN various_JJ relations_NNS ._.
+Due_JJ to_TO the_DT sparsity_NN of_IN a_DT single_JJ graph_NN and_CC noise_NN in_IN graph_NN construction_NN ,_, we_PRP propose_VBP a_DT new_JJ method_NN for_IN combining_VBG multiple_JJ graphs_NNS to_TO measure_VB document_NN similarities_NNS ,_, where_WRB different_JJ factorization_NN strategies_NNS are_VBP used_VBN based_VBN on_IN the_DT nature_NN of_IN different_JJ graphs_NNS ._.
+In_IN particular_JJ ,_, the_DT new_JJ method_NN seeks_VBZ a_DT single_JJ low-dimensional_JJ embedding_NN of_IN documents_NNS that_WDT captures_VBZ their_PRP$ relative_JJ similarities_NNS in_IN a_DT latent_JJ space_NN ._.
+Based_VBN on_IN the_DT obtained_VBN embedding_NN ,_, a_DT new_JJ recommendation_NN framework_NN is_VBZ developed_VBN using_VBG semi-supervised_JJ learning_NN on_IN graphs_NNS ._.
+In_IN addition_NN ,_, we_PRP address_VBP the_DT scalability_NN issue_NN and_CC propose_VBP an_DT incremental_JJ algorithm_NN ._.
+The_DT new_JJ incremental_JJ method_NN significantly_RB improves_VBZ the_DT efficiency_NN by_IN calculating_VBG the_DT embedding_NN for_IN new_JJ incoming_JJ documents_NNS only_RB ._.
+The_DT new_JJ batch_NN and_CC incremental_JJ methods_NNS are_VBP evaluated_VBN on_IN two_CD real_JJ world_NN datasets_NNS prepared_VBN from_IN CiteSeer_NNP ._.
+Experiments_NNS demonstrate_VBP significant_JJ quality_NN improvement_NN for_IN our_PRP$ batch_NN method_NN and_CC significant_JJ efficiency_NN improvement_NN with_IN tolerable_JJ quality_NN loss_NN for_IN our_PRP$ incremental_JJ method_NN ._.

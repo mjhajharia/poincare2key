@@ -1,0 +1,9 @@
+Using_VBG the_DT wisdom_NN of_IN the_DT crowds_NNS for_IN keyword_JJ generation_NN
+In_IN the_DT sponsored_VBN search_NN model_NN ,_, search_NN engines_NNS are_VBP paid_VBN by_IN businesses_NNS that_WDT are_VBP interested_JJ in_IN displaying_VBG ads_NNS for_IN their_PRP$ site_NN alongside_IN the_DT search_NN results_NNS ._.
+Businesses_NNS bid_VBP for_IN keywords_NNS ,_, and_CC their_PRP$ ad_NN is_VBZ displayed_VBN when_WRB the_DT keyword_NN is_VBZ queried_VBN to_TO the_DT search_NN engine_NN ._.
+An_DT important_JJ problem_NN in_IN this_DT process_NN is_VBZ `_`` keyword_JJ generation_NN '_'' :_: given_VBN a_DT business_NN that_WDT is_VBZ interested_JJ in_IN launching_VBG a_DT campaign_NN ,_, suggest_VBP keywords_NNS that_WDT are_VBP related_JJ to_TO that_DT campaign_NN ._.
+We_PRP address_VBP this_DT problem_NN by_IN making_VBG use_NN of_IN the_DT query_JJ logs_NNS of_IN the_DT search_NN engine_NN ._.
+We_PRP identify_VBP queries_NNS related_VBN to_TO a_DT campaign_NN by_IN exploiting_VBG the_DT associations_NNS between_IN queries_NNS and_CC URLs_NNS as_IN they_PRP are_VBP captured_VBN by_IN the_DT user_NN 's_POS clicks_NNS ._.
+These_DT queries_NNS form_VBP good_JJ keyword_JJ suggestions_NNS since_IN they_PRP capture_VBP the_DT ``_`` wisdom_NN of_IN the_DT crowd_NN ''_'' as_IN to_TO what_WP is_VBZ related_JJ to_TO a_DT site_NN ._.
+We_PRP formulate_VBP the_DT problem_NN as_IN a_DT semi-supervised_JJ learning_NN problem_NN ,_, and_CC propose_VBP algorithms_NNS within_IN the_DT Markov_NNP Random_NNP Field_NNP model_NN ._.
+We_PRP perform_VBP experiments_NNS with_IN real_JJ query_NN logs_NNS ,_, and_CC we_PRP demonstrate_VBP that_IN our_PRP$ algorithms_NNS scale_VBP to_TO large_JJ query_NN logs_NNS and_CC produce_VBP meaningful_JJ results_NNS ._.

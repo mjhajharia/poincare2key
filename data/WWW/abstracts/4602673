@@ -1,0 +1,6 @@
+Efficient_JJ training_NN on_IN biased_VBN minimax_NN probability_NN machine_NN for_IN imbalanced_JJ text_NN classification_NN
+The_DT Biased_JJ Minimax_NN Probability_NN Machine_NN -LRB-_-LRB- BMPM_NN -RRB-_-RRB- constructs_NNS a_DT classifier_NN which_WDT deals_VBZ with_IN the_DT imbalanced_JJ learning_NN tasks_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT Second_NNP Order_NNP Cone_NNP Programming_NNP -LRB-_-LRB- SOCP_NNP -RRB-_-RRB- based_VBN algorithm_NN to_TO train_VB the_DT model_NN ._.
+We_PRP outline_VBP the_DT theoretical_JJ derivatives_NNS of_IN the_DT biased_VBN classification_NN model_NN ,_, and_CC address_VB the_DT text_NN classification_NN tasks_NNS where_WRB negative_JJ training_NN documents_NNS significantly_RB outnumber_VBP the_DT positive_JJ ones_NNS using_VBG the_DT proposed_VBN strategy_NN ._.
+We_PRP evaluated_VBD the_DT learning_NN scheme_NN in_IN comparison_NN with_IN traditional_JJ solutions_NNS on_IN three_CD different_JJ datasets_NNS ._.
+Empirical_JJ results_NNS have_VBP shown_VBN that_IN our_PRP$ method_NN is_VBZ more_RBR effective_JJ and_CC robust_JJ to_TO handle_VB imbalanced_JJ text_NN classification_NN problems_NNS ._.

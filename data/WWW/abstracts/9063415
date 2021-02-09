@@ -1,0 +1,11 @@
+Test_NN case_NN prioritization_NN for_IN regression_NN testing_NN of_IN service-oriented_JJ business_NN applications_NNS
+Regression_NN testing_NN assures_VBZ the_DT quality_NN of_IN modified_VBN service-oriented_JJ business_NN applications_NNS against_IN unintended_JJ changes_NNS ._.
+However_RB ,_, a_DT typical_JJ regression_NN test_NN suite_NN is_VBZ large_JJ in_IN size_NN ._.
+Earlier_JJR execution_NN of_IN those_DT test_NN cases_NNS that_WDT may_MD detect_VB failures_NNS is_VBZ attractive_JJ ._.
+Many_JJ existing_VBG prioritization_NN techniques_NNS order_NN test_NN cases_NNS according_VBG to_TO their_PRP$ respective_JJ coverage_NN of_IN program_NN statements_NNS in_IN a_DT previous_JJ version_NN of_IN the_DT application_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, industrial_JJ service-oriented_JJ business_NN applications_NNS are_VBP typically_RB written_VBN in_IN orchestration_NN languages_NNS such_JJ as_IN WS-BPEL_NN and_CC integrated_VBN with_IN workflow_NN steps_NNS and_CC web_NN services_NNS via_IN XPath_NN and_CC WSDL_NN ._.
+Faults_NNS in_IN these_DT artifacts_NNS may_MD cause_VB the_DT application_NN to_TO extract_VB wrong_JJ data_NNS from_IN messages_NNS ,_, leading_VBG to_TO failures_NNS in_IN service_NN compositions_NNS ._.
+Surprisingly_RB ,_, current_JJ regression_NN testing_NN research_NN hardly_RB considers_VBZ these_DT artifacts_NNS ._.
+We_PRP propose_VBP a_DT multilevel_JJ coverage_NN model_NN to_TO capture_VB the_DT business_NN process_NN ,_, XPath_NN ,_, and_CC WSDL_NN from_IN the_DT perspective_NN of_IN regression_NN testing_NN ._.
+We_PRP develop_VBP a_DT family_NN of_IN test_NN case_NN prioritization_NN techniques_NNS atop_IN the_DT model_NN ._.
+Empirical_JJ results_NNS show_VBP that_IN our_PRP$ techniques_NNS can_MD achieve_VB significantly_RB higher_JJR rates_NNS of_IN fault_NN detection_NN than_IN existing_VBG techniques_NNS ._.

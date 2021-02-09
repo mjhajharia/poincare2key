@@ -1,0 +1,4 @@
+Exploiting_VBG the_DT web_NN for_IN point-in-time_JJ file_NN sharing_NN
+We_PRP describe_VBP a_DT simple_JJ approach_NN to_TO ``_`` point-in-time_JJ ''_'' file_NN sharing_NN based_VBN on_IN time_NN expiring_VBG web_NN links_NNS and_CC personal_JJ webservers_NNS ._.
+This_DT approach_NN to_TO file_VB sharing_NN is_VBZ useful_JJ in_IN environments_NNS where_WRB instant_JJ messaging_NN clients_NNS are_VBP varied_JJ and_CC do_VBP n't_RB necessarily_RB support_VB -LRB-_-LRB- compatible_JJ -RRB-_-RRB- file_NN transfer_NN protocols_NNS ._.
+We_PRP discuss_VBP the_DT features_NNS of_IN such_PDT an_DT approach_NN along_IN with_IN a_DT successfully_RB deployed_VBN implementation_NN now_RB in_IN wide_JJ use_NN throughout_IN the_DT IBM_NNP corporation_NN ._.

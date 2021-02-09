@@ -1,0 +1,9 @@
+Structured_VBN objects_NNS in_IN owl_NN :_: representation_NN and_CC reasoning_NN
+Applications_NNS of_IN semantic_JJ technologies_NNS often_RB require_VBP the_DT representation_NN of_IN and_CC reasoning_NN with_IN structured_JJ objects_NNS -_: that_DT is_VBZ ,_, objects_NNS composed_VBN of_IN parts_NNS connected_VBN in_IN complex_JJ ways_NNS ._.
+Although_IN OWL_NN is_VBZ a_DT general_JJ and_CC powerful_JJ language_NN ,_, its_PRP$ class_NN descriptions_NNS and_CC axioms_NNS can_MD not_RB be_VB used_VBN to_TO describe_VB arbitrarily_RB connected_JJ structures_NNS ._.
+An_DT OWL_NN representation_NN of_IN structured_JJ objects_NNS can_MD thus_RB be_VB underconstrained_VBN ,_, which_WDT reduces_VBZ the_DT inferences_NNS that_WDT can_MD be_VB drawn_VBN and_CC causes_VBZ performance_NN problems_NNS in_IN reasoning_NN ._.
+To_TO address_VB these_DT problems_NNS ,_, we_PRP extend_VBP OWL_NN with_IN description_NN graphs_NNS ,_, which_WDT allow_VBP for_IN the_DT description_NN of_IN structured_JJ objects_NNS in_IN a_DT simple_JJ and_CC precise_JJ way_NN ._.
+To_TO represent_VB conditional_JJ aspects_NNS of_IN the_DT domain_NN ,_, we_PRP also_RB allow_VBP for_IN SWRL-like_JJ rules_NNS over_IN description_NN graphs_NNS ._.
+Based_VBN on_IN an_DT observation_NN about_IN the_DT nature_NN of_IN structured_JJ objects_NNS ,_, we_PRP ensure_VBP decidability_NN of_IN our_PRP$ formalism_NN ._.
+We_PRP also_RB present_VBP a_DT hypertableau-based_JJ decision_NN procedure_NN ,_, which_WDT we_PRP implemented_VBD in_IN the_DT HermiT_NN reasoner_NN ._.
+To_TO evaluate_VB its_PRP$ performance_NN ,_, we_PRP have_VBP extracted_VBN description_NN graphs_NNS from_IN the_DT GALEN_NNP and_CC FMA_NNP ontologies_NNS ,_, classified_VBD them_PRP successfully_RB ,_, and_CC even_RB detected_VBD a_DT modeling_NN error_NN in_IN GALEN_NNP ._.

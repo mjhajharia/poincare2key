@@ -1,0 +1,9 @@
+An_DT adaptive_JJ ,_, fast_RB ,_, and_CC safe_JJ XML_NN parser_NN based_VBN on_IN byte_NN sequences_NNS memorization_NN
+XML_NN -LRB-_-LRB- Extensible_JJ Markup_NN Language_NN -RRB-_-RRB- processing_NN can_MD incur_VB significant_JJ runtime_NN overhead_NN in_IN XML-based_JJ infrastructural_JJ middleware_NN such_JJ as_IN Web_NN service_NN application_NN servers_NNS ._.
+This_DT paper_NN proposes_VBZ a_DT novel_JJ mechanism_NN for_IN efficiently_RB processing_VBG similar_JJ XML_NN documents_NNS ._.
+Given_VBN a_DT new_JJ XML_NN document_NN as_IN a_DT byte_NN sequence_NN ,_, the_DT XML_NN parser_NN proposed_VBN in_IN this_DT paper_NN normally_RB avoids_VBZ syntactic_JJ analysis_NN but_CC simply_RB matches_VBZ the_DT document_NN with_IN previously_RB processed_VBN ones_NNS ,_, reusing_VBG those_DT results_NNS ._.
+Our_PRP$ parser_NN is_VBZ adaptive_JJ since_IN it_PRP partially_RB parses_VBZ and_CC then_RB remembers_VBZ XML_NN document_NN fragments_NNS that_IN it_PRP has_VBZ not_RB met_VBN before_RB ._.
+Moreover_RB ,_, it_PRP processes_VBZ safely_RB since_IN its_PRP$ partial_JJ parsing_NN correctly_RB checks_VBZ the_DT well-formedness_NN of_IN documents_NNS ._.
+Our_PRP$ implementation_NN of_IN the_DT proposed_VBN parser_NN complies_NNS with_IN the_DT JSR_NNP 63_CD standard_NN of_IN the_DT Java_NNP API_NNP for_IN XML_NN Processing_NN -LRB-_-LRB- JAXP_NN -RRB-_-RRB- 1.1_CD specification_NN ._.
+We_PRP evaluated_VBD Deltarser_NNP performance_NN with_IN messages_NNS using_VBG Google_NNP Web_NN services_NNS ._.
+Comparing_VBG to_TO Piccolo_NNP -LRB-_-LRB- and_CC Apache_FW Xerces_FW -RRB-_-RRB- ,_, it_PRP effectively_RB parses_VBZ 35_CD %_NN -LRB-_-LRB- 106_CD %_NN -RRB-_-RRB- faster_RBR in_IN a_DT server-side_JJ use-case_JJ scenario_NN ,_, and_CC 73_CD %_NN -LRB-_-LRB- 126_CD %_NN -RRB-_-RRB- faster_RBR in_IN a_DT client-side_JJ use-case_NN scenario_NN ._.

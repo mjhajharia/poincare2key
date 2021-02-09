@@ -1,0 +1,8 @@
+Improving_NN recommendation_NN lists_NNS through_IN topic_NN diversification_NN
+In_IN this_DT work_NN we_PRP present_VBP topic_NN diversification_NN ,_, a_DT novel_JJ method_NN designed_VBN to_TO balance_VB and_CC diversify_VB personalized_JJ recommendation_NN lists_NNS in_IN order_NN to_TO reflect_VB the_DT user_NN 's_POS complete_JJ spectrum_NN of_IN interests_NNS ._.
+Though_IN being_VBG detrimental_JJ to_TO average_JJ accuracy_NN ,_, we_PRP show_VBP that_IN our_PRP$ method_NN improves_VBZ user_NN satisfaction_NN with_IN recommendation_NN lists_NNS ,_, in_IN particular_JJ for_IN lists_NNS generated_VBN using_VBG the_DT common_JJ item-based_JJ collaborative_JJ filtering_VBG algorithm_NN ._.
+Our_PRP$ work_NN builds_VBZ upon_IN prior_JJ research_NN on_IN recommender_NN systems_NNS ,_, looking_VBG at_IN properties_NNS of_IN recommendation_NN lists_NNS as_IN entities_NNS in_IN their_PRP$ own_JJ right_NN rather_RB than_IN specifically_RB focusing_VBG on_IN the_DT accuracy_NN of_IN individual_JJ recommendations_NNS ._.
+We_PRP introduce_VBP the_DT intra-list_JJ similarity_NN metric_NN to_TO assess_VB the_DT topical_JJ diversity_NN of_IN recommendation_NN lists_NNS and_CC the_DT topic_NN diversification_NN approach_NN for_IN decreasing_VBG the_DT intra-list_JJ similarity_NN ._.
+We_PRP evaluate_VBP our_PRP$ method_NN using_VBG book_NN recommendation_NN data_NNS ,_, including_VBG offline_JJ analysis_NN on_IN 361_CD ,_, !_.
+,_, 349_CD ratings_NNS and_CC an_DT online_JJ study_NN involving_VBG more_JJR than_IN 2_CD ,_, !_.
+,_, 100_CD subjects_NNS ._.

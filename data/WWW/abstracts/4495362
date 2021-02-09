@@ -1,0 +1,9 @@
+Detecting_VBG near-duplicates_NNS for_IN web_NN crawling_VBG
+Near-duplicate_JJ web_NN documents_NNS are_VBP abundant_JJ ._.
+Two_CD such_JJ documents_NNS differ_VBP from_IN each_DT other_JJ in_IN a_DT very_RB small_JJ portion_NN that_WDT displays_VBZ advertisements_NNS ,_, for_IN example_NN ._.
+Such_JJ differences_NNS are_VBP irrelevant_JJ for_IN web_NN search_NN ._.
+So_IN the_DT quality_NN of_IN a_DT web_NN crawler_NN increases_NNS if_IN it_PRP can_MD assess_VB whether_IN a_DT newly_RB crawled_VBN web_NN page_NN is_VBZ a_DT near-duplicate_NN of_IN a_DT previously_RB crawled_VBN web_NN page_NN or_CC not_RB ._.
+In_IN the_DT course_NN of_IN developing_VBG a_DT near-duplicate_JJ detection_NN system_NN for_IN a_DT multi-billion_JJ page_NN repository_NN ,_, we_PRP make_VBP two_CD research_NN contributions_NNS ._.
+First_RB ,_, we_PRP demonstrate_VBP that_IN Charikar_NNP 's_POS fingerprinting_NN technique_NN is_VBZ appropriate_JJ for_IN this_DT goal_NN ._.
+Second_RB ,_, we_PRP present_VBP an_DT algorithmic_JJ technique_NN for_IN identifying_VBG existing_VBG f-bit_NN fingerprints_NNS that_WDT differ_VBP from_IN a_DT given_VBN fingerprint_NN in_IN at_IN most_JJS k_NN bit-positions_NNS ,_, for_IN small_JJ k._NNP Our_NNP technique_NN is_VBZ useful_JJ for_IN both_CC online_JJ queries_NNS -LRB-_-LRB- single_JJ fingerprints_NNS -RRB-_-RRB- and_CC all_DT batch_NN queries_NNS -LRB-_-LRB- multiple_JJ fingerprints_NNS -RRB-_-RRB- ._.
+Experimental_JJ evaluation_NN over_IN real_JJ data_NNS confirms_VBZ the_DT practicality_NN of_IN our_PRP$ design_NN ._.

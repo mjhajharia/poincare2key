@@ -1,0 +1,10 @@
+A_DT multiple_JJ tree_NN algorithm_NN for_IN the_DT efficient_JJ association_NN of_IN asteroid_NN observations_NNS
+In_IN this_DT paper_NN we_PRP examine_VBP the_DT problem_NN of_IN efficiently_RB finding_VBG sets_NNS of_IN observations_NNS that_WDT conform_VBP to_TO a_DT given_JJ underlying_JJ motion_NN model_NN ._.
+While_IN this_DT problem_NN is_VBZ often_RB phrased_VBN as_IN a_DT tracking_NN problem_NN ,_, where_WRB it_PRP is_VBZ called_VBN track_NN initiation_NN ,_, it_PRP is_VBZ useful_JJ in_IN a_DT variety_NN of_IN tasks_NNS where_WRB we_PRP want_VBP to_TO find_VB correspondences_NNS or_CC patterns_NNS in_IN spatial-temporal_JJ data_NNS ._.
+Unfortunately_RB ,_, this_DT problem_NN often_RB suffers_VBZ from_IN a_DT combinatorial_JJ explosion_NN in_IN the_DT number_NN of_IN potential_JJ sets_NNS that_WDT must_MD be_VB evaluated_VBN ._.
+We_PRP consider_VBP the_DT problem_NN with_IN respect_NN to_TO large-scale_JJ asteroid_JJ observation_NN data_NNS ,_, where_WRB the_DT goal_NN is_VBZ to_TO find_VB associations_NNS among_IN the_DT observations_NNS that_WDT correspond_VBP to_TO the_DT same_JJ underlying_JJ asteroid_NN ._.
+In_IN this_DT domain_NN ,_, it_PRP is_VBZ vital_JJ that_IN we_PRP can_MD efficiently_RB extract_VB the_DT underlying_VBG associations_NNS ._.
+We_PRP introduce_VBP a_DT new_JJ methodology_NN for_IN track_NN initiation_NN that_WDT exhaustively_RB considers_VBZ all_DT possible_JJ linkages_NNS ._.
+We_PRP then_RB introduce_VBP an_DT exact_JJ tree-based_JJ algorithm_NN for_IN tractably_RB finding_VBG all_DT compatible_JJ sets_NNS of_IN points_NNS ._.
+Further_RB ,_, we_PRP extend_VBP this_DT approach_NN to_TO use_VB multiple_JJ trees_NNS ,_, exploiting_VBG structure_NN from_IN several_JJ time_NN steps_NNS at_IN once_RB ._.
+We_PRP compare_VBP this_DT approach_NN to_TO a_DT standard_JJ sequential_JJ approach_NN and_CC show_VB how_WRB the_DT use_NN of_IN multiple_JJ trees_NNS can_MD provide_VB a_DT significant_JJ benefit_NN ._.

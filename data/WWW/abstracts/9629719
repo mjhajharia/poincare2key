@@ -1,0 +1,8 @@
+Online_JJ expansion_NN of_IN rare_JJ queries_NNS for_IN sponsored_VBN search_NN
+Sponsored_VBN search_NN systems_NNS are_VBP tasked_VBN with_IN matching_JJ queries_NNS to_TO relevant_JJ advertisements_NNS ._.
+The_DT current_JJ state-of-the-art_JJ matching_NN algorithms_NNS expand_VBP the_DT user_NN 's_POS query_NN using_VBG a_DT variety_NN of_IN external_JJ resources_NNS ,_, such_JJ as_IN Web_NN search_NN results_NNS ._.
+While_IN these_DT expansion-based_JJ algorithms_NNS are_VBP highly_RB effective_JJ ,_, they_PRP are_VBP largely_RB inefficient_JJ and_CC can_MD not_RB be_VB applied_VBN in_IN real-time_JJ ._.
+In_IN practice_NN ,_, such_JJ algorithms_NNS are_VBP applied_VBN offline_JJ to_TO popular_JJ queries_NNS ,_, with_IN the_DT results_NNS of_IN the_DT expensive_JJ operations_NNS cached_VBN for_IN fast_JJ access_NN at_IN query_NN time_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP an_DT efficient_JJ and_CC effective_JJ approach_NN for_IN matching_VBG ads_NNS against_IN rare_JJ queries_NNS that_WDT were_VBD not_RB processed_VBN offline_NN ._.
+The_DT approach_NN builds_VBZ an_DT expanded_VBN query_NN representation_NN by_IN leveraging_VBG offline_JJ processing_NN done_VBN for_IN related_JJ popular_JJ queries_NNS ._.
+Our_PRP$ experimental_JJ results_NNS show_VBP that_IN our_PRP$ approach_NN significantly_RB improves_VBZ the_DT effectiveness_NN of_IN advertising_NN on_IN rare_JJ queries_NNS with_IN only_RB a_DT negligible_JJ increase_NN in_IN computational_JJ cost_NN ._.

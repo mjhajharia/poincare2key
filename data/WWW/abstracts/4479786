@@ -1,0 +1,8 @@
+Logical_JJ structure_NN based_VBN semantic_JJ relationship_NN extraction_NN from_IN semi-structured_JJ documents_NNS
+Addressed_VBN in_IN this_DT paper_NN is_VBZ the_DT issue_NN of_IN semantic_JJ relationship_NN extraction_NN from_IN semi-structured_JJ documents_NNS ._.
+Many_JJ research_NN efforts_NNS have_VBP been_VBN made_VBN so_RB far_RB on_IN the_DT semantic_JJ information_NN extraction_NN ._.
+However_RB ,_, much_JJ of_IN the_DT previous_JJ work_NN focuses_VBZ on_IN detecting_VBG `_`` isolated_VBN '_'' semantic_JJ information_NN by_IN making_VBG use_NN of_IN linguistic_JJ analysis_NN or_CC linkage_NN information_NN in_IN web_NN pages_NNS and_CC limited_JJ research_NN has_VBZ been_VBN done_VBN on_IN extracting_VBG semantic_JJ relationship_NN from_IN the_DT semi-structured_JJ documents_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT method_NN for_IN semantic_JJ relationship_NN extraction_NN by_IN using_VBG the_DT logical_JJ information_NN in_IN the_DT semi-structured_JJ document_NN -LRB-_-LRB- semi-structured_JJ document_NN usually_RB has_VBZ various_JJ types_NNS of_IN structure_NN information_NN ,_, e.g._FW a_DT semi-structured_JJ document_NN may_MD be_VB hierarchical_JJ laid_VBN out_RP -RRB-_-RRB- ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, extracting_VBG semantic_JJ relationships_NNS by_IN using_VBG logical_JJ information_NN has_VBZ not_RB been_VBN investigated_VBN previously_RB ._.
+A_DT probabilistic_JJ approach_NN has_VBZ been_VBN proposed_VBN in_IN the_DT paper_NN ._.
+Features_NNS used_VBN in_IN the_DT probabilistic_JJ model_NN have_VBP been_VBN defined_VBN ._.

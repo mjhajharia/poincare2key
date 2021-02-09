@@ -1,0 +1,8 @@
+Online_JJ multiscale_JJ dynamic_JJ topic_NN models_NNS
+We_PRP propose_VBP an_DT online_JJ topic_NN model_NN for_IN sequentially_RB analyzing_VBG the_DT time_NN evolution_NN of_IN topics_NNS in_IN document_NN collections_NNS ._.
+Topics_NNS naturally_RB evolve_VBP with_IN multiple_JJ timescales_NNS ._.
+For_IN example_NN ,_, some_DT words_NNS may_MD be_VB used_VBN consistently_RB over_IN one_CD hundred_CD years_NNS ,_, while_IN other_JJ words_NNS emerge_VBP and_CC disappear_VBP over_IN periods_NNS of_IN a_DT few_JJ days_NNS ._.
+Thus_RB ,_, in_IN the_DT proposed_VBN model_NN ,_, current_JJ topic-specific_JJ distributions_NNS over_IN words_NNS are_VBP assumed_VBN to_TO be_VB generated_VBN based_VBN on_IN the_DT multiscale_JJ word_NN distributions_NNS of_IN the_DT previous_JJ epoch_NN ._.
+Considering_VBG both_CC the_DT long-timescale_JJ dependency_NN as_RB well_RB as_IN the_DT short-timescale_JJ dependency_NN yields_VBZ a_DT more_RBR robust_JJ model_NN ._.
+We_PRP derive_VBP efficient_JJ online_JJ inference_NN procedures_NNS based_VBN on_IN a_DT stochastic_JJ EM_NN algorithm_NN ,_, in_IN which_WDT the_DT model_NN is_VBZ sequentially_RB updated_VBN using_VBG newly_RB obtained_VBN data_NNS ;_: this_DT means_VBZ that_IN past_JJ data_NNS are_VBP not_RB required_VBN to_TO make_VB the_DT inference_NN ._.
+We_PRP demonstrate_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN method_NN in_IN terms_NNS of_IN predictive_JJ performance_NN and_CC computational_JJ efficiency_NN by_IN examining_VBG collections_NNS of_IN real_JJ documents_NNS with_IN timestamps_NNS ._.

@@ -1,0 +1,5 @@
+Bridging_VBG the_DT gap_NN between_IN OWL_NN and_CC relational_JJ databases_NNS
+Schema_NN statements_NNS in_IN OWL_NN are_VBP interpreted_VBN quite_RB differently_RB from_IN analogous_JJ statements_NNS in_IN relational_JJ databases_NNS ._.
+If_IN these_DT statements_NNS are_VBP meant_VBN to_TO be_VB interpreted_VBN as_IN integrity_NN constraints_NNS -LRB-_-LRB- ICs_NNS -RRB-_-RRB- ,_, OWL_NN 's_POS interpretation_NN may_MD seem_VB confusing_JJ and\/or_CC inappropriate_JJ ._.
+Therefore_RB ,_, we_PRP propose_VBP an_DT extension_NN of_IN OWL_NN with_IN ICs_NNS that_WDT captures_VBZ the_DT intuition_NN behind_IN ICs_NNS in_IN relational_JJ databases_NNS ._.
+We_PRP discuss_VBP the_DT algorithms_NNS for_IN checking_VBG IC_NN satisfaction_NN for_IN different_JJ types_NNS of_IN knowledge_NN bases_NNS ,_, and_CC show_VBP that_IN ,_, if_IN the_DT constraints_NNS are_VBP satisfied_VBN ,_, we_PRP can_MD disregard_VB them_PRP while_IN answering_VBG a_DT broad_JJ range_NN of_IN positive_JJ queries_NNS ._.

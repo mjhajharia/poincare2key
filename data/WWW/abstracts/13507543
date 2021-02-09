@@ -1,0 +1,11 @@
+A_DT class-feature-centroid_JJ classifier_NN for_IN text_NN categorization_NN
+Automated_NNP text_NN categorization_NN is_VBZ an_DT important_JJ technique_NN for_IN many_JJ web_NN applications_NNS ,_, such_JJ as_IN document_NN indexing_NN ,_, document_NN filtering_VBG ,_, and_CC cataloging_VBG web_NN resources_NNS ._.
+Many_JJ different_JJ approaches_NNS have_VBP been_VBN proposed_VBN for_IN the_DT automated_JJ text_NN categorization_NN problem_NN ._.
+Among_IN them_PRP ,_, centroid-based_JJ approaches_NNS have_VBP the_DT advantages_NNS of_IN short_JJ training_NN time_NN and_CC testing_NN time_NN due_JJ to_TO its_PRP$ computational_JJ efficiency_NN ._.
+As_IN a_DT result_NN ,_, centroid-based_JJ classifiers_NNS have_VBP been_VBN widely_RB used_VBN in_IN many_JJ web_NN applications_NNS ._.
+However_RB ,_, the_DT accuracy_NN of_IN centroid-based_JJ classifiers_NNS is_VBZ inferior_JJ to_TO SVM_NNP ,_, mainly_RB because_IN centroids_NNS found_VBN during_IN construction_NN are_VBP far_RB from_IN perfect_JJ locations_NNS ._.
+We_PRP design_VBP a_DT fast_JJ Class-Feature-Centroid_NNP -LRB-_-LRB- CFC_NNP -RRB-_-RRB- classifier_NN for_IN multi-class_JJ ,_, single-label_JJ text_NN categorization_NN ._.
+In_IN CFC_NNP ,_, a_DT centroid_NN is_VBZ built_VBN from_IN two_CD important_JJ class_NN distributions_NNS :_: inter-class_JJ term_NN index_NN and_CC inner-class_JJ term_NN index_NN ._.
+CFC_NNP proposes_VBZ a_DT novel_JJ combination_NN of_IN these_DT indices_NNS and_CC employs_VBZ a_DT denormalized_VBN cosine_NN measure_NN to_TO calculate_VB the_DT similarity_NN score_NN between_IN a_DT text_NN vector_NN and_CC a_DT centroid_NN ._.
+Experiments_NNS on_IN the_DT Reuters-21578_NN corpus_NN and_CC 20-newsgroup_JJ email_NN collection_NN show_VBP that_IN CFC_NNP consistently_RB outperforms_VBZ the_DT state-of-the-art_JJ SVM_NN classifiers_NNS on_IN both_CC micro-F1_NN and_CC macro-F1_NN scores_NNS ._.
+Particularly_RB ,_, CFC_NNP is_VBZ more_RBR effective_JJ and_CC robust_JJ than_IN SVM_NNP when_WRB data_NNS is_VBZ sparse_JJ ._.

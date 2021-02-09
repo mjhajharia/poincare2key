@@ -1,0 +1,11 @@
+Detecting_VBG Wikipedia_NNP vandalism_NN with_IN active_JJ learning_NN and_CC statistical_JJ language_NN models_NNS
+This_DT paper_NN proposes_VBZ an_DT active_JJ learning_NN approach_NN using_VBG language_NN model_NN statistics_NNS to_TO detect_VB Wikipedia_NNP vandalism_NN ._.
+Wikipedia_NNP is_VBZ a_DT popular_JJ and_CC influential_JJ collaborative_JJ information_NN system_NN ._.
+The_DT collaborative_JJ nature_NN of_IN authoring_NN ,_, as_RB well_RB as_IN the_DT high_JJ visibility_NN of_IN its_PRP$ content_NN ,_, have_VBP exposed_VBN Wikipedia_NNP articles_NNS to_TO vandalism_NN ._.
+Vandalism_NNP is_VBZ defined_VBN as_IN malicious_JJ editing_NN intended_VBN to_TO compromise_VB the_DT integrity_NN of_IN the_DT content_NN of_IN articles_NNS ._.
+Extensive_JJ manual_JJ efforts_NNS are_VBP being_VBG made_VBN to_TO combat_VB vandalism_NN and_CC an_DT automated_JJ approach_NN to_TO alleviate_VB the_DT laborious_JJ process_NN is_VBZ needed_VBN ._.
+This_DT paper_NN builds_VBZ statistical_JJ language_NN models_NNS ,_, constructing_VBG distributions_NNS of_IN words_NNS from_IN the_DT revision_NN history_NN of_IN Wikipedia_NNP articles_NNS ._.
+As_IN vandalism_NN often_RB involves_VBZ the_DT use_NN of_IN unexpected_JJ words_NNS to_TO draw_VB attention_NN ,_, the_DT fitness_NN -LRB-_-LRB- or_CC lack_NN thereof_RB -RRB-_-RRB- of_IN a_DT new_JJ edit_NN when_WRB compared_VBN with_IN language_NN models_NNS built_VBN from_IN previous_JJ versions_NNS may_MD well_RB indicate_VB that_IN an_DT edit_NN is_VBZ a_DT vandalism_NN instance_NN ._.
+In_IN addition_NN ,_, the_DT paper_NN adopts_VBZ an_DT active_JJ learning_NN model_NN to_TO solve_VB the_DT problem_NN of_IN noisy_JJ and_CC incomplete_JJ labeling_NN of_IN Wikipedia_NNP vandalism_NN ._.
+The_DT Wikipedia_NNP domain_NN with_IN its_PRP$ revision_NN histories_NNS offers_VBZ a_DT novel_JJ context_NN in_IN which_WDT to_TO explore_VB the_DT potential_NN of_IN language_NN models_NNS in_IN characterizing_VBG author_NN intention_NN ._.
+As_IN the_DT experimental_JJ results_NNS presented_VBN in_IN the_DT paper_NN demonstrate_VBP ,_, these_DT models_NNS hold_VBP promise_NN for_IN vandalism_NN detection_NN ._.

@@ -1,0 +1,8 @@
+Association_NN search_NN in_IN semantic_JJ web_NN :_: search_NN +_CC inference_NN
+Association_NN search_NN is_VBZ to_TO search_VB for_IN certain_JJ instances_NNS in_IN semantic_JJ web_NN and_CC then_RB make_VB inferences_NNS from_IN and_CC about_IN the_DT instances_NNS we_PRP have_VBP found_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP the_DT problem_NN of_IN association_NN search_NN and_CC our_PRP$ preliminary_JJ solution_NN for_IN it_PRP using_VBG Bayesian_JJ network_NN ._.
+We_PRP first_RB minutely_RB define_VB the_DT association_NN search_NN and_CC its_PRP$ categorization_NN ._.
+We_PRP then_RB define_VBP tasks_NNS in_IN association_NN search_NN ._.
+In_IN terms_NNS of_IN Bayesian_JJ network_NN ,_, we_PRP take_VBP ontology_JJ taxonomy_NN as_IN network_NN structure_NN in_IN Bayesian_JJ network_NN ._.
+We_PRP use_VBP the_DT query_JJ log_NN of_IN instances_NNS to_TO estimate_VB the_DT network_NN parameters_NNS ._.
+After_IN the_DT Bayesian_JJ network_NN is_VBZ constructed_VBN ,_, we_PRP give_VBP the_DT solution_NN for_IN association_NN search_NN in_IN the_DT network_NN ._.

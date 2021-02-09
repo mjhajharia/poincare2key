@@ -1,0 +1,10 @@
+Domain-constrained_JJ semi-supervised_JJ mining_NN of_IN tracking_NN models_NNS in_IN sensor_NN networks_NNS
+Accurate_JJ localization_NN of_IN mobile_JJ objects_NNS is_VBZ a_DT major_JJ research_NN problem_NN in_IN sensor_NN networks_NNS and_CC an_DT important_JJ data_NN mining_NN application_NN ._.
+Specifically_RB ,_, the_DT localization_NN problem_NN is_VBZ to_TO determine_VB the_DT location_NN of_IN a_DT client_NN device_NN accurately_RB given_VBN the_DT radio_NN signal_NN strength_NN values_NNS received_VBN at_IN the_DT client_NN device_NN from_IN multiple_JJ beacon_NN sensors_NNS or_CC access_NN points_NNS ._.
+Conventional_JJ data_NNS mining_NN and_CC machine_NN learning_NN methods_NNS can_MD be_VB applied_VBN to_TO solve_VB this_DT problem_NN ._.
+However_RB ,_, all_DT of_IN them_PRP require_VBP large_JJ amounts_NNS of_IN labeled_JJ training_NN data_NNS ,_, which_WDT can_MD be_VB quite_RB expensive_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT probabilistic_JJ semi_NN supervised_VBN learning_VBG approach_NN to_TO reduce_VB the_DT calibration_NN effort_NN and_CC increase_VB the_DT tracking_NN accuracy_NN ._.
+Our_PRP$ method_NN is_VBZ based_VBN on_IN semi-supervised_JJ conditional_JJ random_JJ fields_NNS which_WDT can_MD enhance_VB the_DT learned_VBN model_NN from_IN a_DT small_JJ set_NN of_IN training_NN data_NNS with_IN abundant_JJ unlabeled_JJ data_NNS effectively_RB ._.
+To_TO make_VB our_PRP$ method_NN more_RBR efficient_JJ ,_, we_PRP exploit_VBP a_DT Generalized_NNP EM_NNP algorithm_NN coupled_VBN with_IN domain_NN constraints_NNS ._.
+We_PRP validate_VBP our_PRP$ method_NN through_IN extensive_JJ experiments_NNS in_IN a_DT real_JJ sensor_NN network_NN using_VBG Crossbow_NN MICA2_NN sensors_NNS ._.
+The_DT results_NNS demonstrate_VBP the_DT advantages_NNS of_IN methods_NNS compared_VBN to_TO other_JJ state-of-the-art_JJ object-tracking_JJ algorithms_NNS ._.

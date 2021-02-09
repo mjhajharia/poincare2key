@@ -1,0 +1,6 @@
+Genealogical_JJ trees_NNS on_IN the_DT web_NN :_: a_DT search_NN engine_NN user_NN perspective_NN
+This_DT paper_NN presents_VBZ an_DT extensive_JJ study_NN about_IN the_DT evolution_NN of_IN textual_JJ content_NN on_IN the_DT Web_NN ,_, which_WDT shows_VBZ how_WRB some_DT new_JJ pages_NNS are_VBP created_VBN from_IN scratch_NN while_IN others_NNS are_VBP created_VBN using_VBG already_RB existing_VBG content_NN ._.
+We_PRP show_VBP that_IN a_DT significant_JJ fraction_NN of_IN the_DT Web_NN is_VBZ a_DT byproduct_NN of_IN the_DT latter_JJ case_NN ._.
+We_PRP introduce_VBP the_DT concept_NN of_IN Web_NN genealogical_JJ tree_NN ,_, in_IN which_WDT every_DT page_NN in_IN a_DT Web_NN snapshot_NN is_VBZ classified_VBN into_IN a_DT component_NN ._.
+We_PRP study_VBD in_IN detail_NN these_DT components_NNS ,_, characterizing_VBG the_DT copies_NNS and_CC identifying_VBG the_DT relation_NN between_IN a_DT source_NN of_IN content_NN and_CC a_DT search_NN engine_NN ,_, by_IN comparing_VBG page_NN relevance_NN measures_NNS ,_, documents_NNS returned_VBN by_IN real_JJ queries_NNS performed_VBN in_IN the_DT past_NN ,_, and_CC click-through_JJ data_NNS ._.
+We_PRP observe_VBP that_IN sources_NNS of_IN copies_NNS are_VBP more_RBR frequently_RB returned_VBN by_IN queries_NNS and_CC more_JJR clicked_VBD than_IN other_JJ documents_NNS ._.

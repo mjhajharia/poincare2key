@@ -1,0 +1,6 @@
+On_IN compressing_VBG social_JJ networks_NNS
+Motivated_VBN by_IN structural_JJ properties_NNS of_IN the_DT Web_NN graph_NN that_WDT support_VBP efficient_JJ data_NNS structures_NNS for_IN in_IN memory_NN adjacency_NN queries_NNS ,_, we_PRP study_VBD the_DT extent_NN to_TO which_WDT a_DT large_JJ network_NN can_MD be_VB compressed_VBN ._.
+Boldi_NNP and_CC Vigna_NNP -LRB-_-LRB- WWW_NNP 2004_CD -RRB-_-RRB- ,_, showed_VBD that_IN Web_NN graphs_NNS can_MD be_VB compressed_VBN down_RB to_TO three_CD bits_NNS of_IN storage_NN per_IN edge_NN ;_: we_PRP study_VBD the_DT compressibility_NN of_IN social_JJ networks_NNS where_WRB again_RB adjacency_NN queries_NNS are_VBP a_DT fundamental_JJ primitive_JJ ._.
+To_TO this_DT end_NN ,_, we_PRP propose_VBP simple_JJ combinatorial_JJ formulations_NNS that_WDT encapsulate_VBP efficient_JJ compressibility_NN of_IN graphs_NNS ._.
+We_PRP show_VBP that_IN some_DT of_IN the_DT problems_NNS are_VBP NP-hard_JJ yet_RB admit_VBP effective_JJ heuristics_NNS ,_, some_DT of_IN which_WDT can_MD exploit_VB properties_NNS of_IN social_JJ networks_NNS such_JJ as_IN link_NN reciprocity_NN ._.
+Our_PRP$ extensive_JJ experiments_NNS show_VBP that_IN social_JJ networks_NNS and_CC the_DT Web_NN graph_NN exhibit_VBP vastly_RB different_JJ compressibility_NN characteristics_NNS ._.

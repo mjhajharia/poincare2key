@@ -1,0 +1,14 @@
+Mining_NNP closed_VBD episodes_NNS with_IN simultaneous_JJ events_NNS
+Sequential_JJ pattern_NN discovery_NN is_VBZ a_DT well-studied_JJ field_NN in_IN data_NNS mining_NN ._.
+Episodes_NNS are_VBP sequential_JJ patterns_NNS describing_VBG events_NNS that_WDT often_RB occur_VBP in_IN the_DT vicinity_NN of_IN each_DT other_JJ ._.
+Episodes_NNS can_MD impose_VB restrictions_NNS to_TO the_DT order_NN of_IN the_DT events_NNS ,_, which_WDT makes_VBZ them_PRP a_DT versatile_JJ technique_NN for_IN describing_VBG complex_JJ patterns_NNS in_IN the_DT sequence_NN ._.
+Most_JJS of_IN the_DT research_NN on_IN episodes_NNS deals_NNS with_IN special_JJ cases_NNS such_JJ as_IN serial_NN ,_, parallel_NN ,_, and_CC injective_JJ episodes_NNS ,_, while_IN discovering_VBG general_JJ episodes_NNS is_VBZ understudied_VBN ._.
+In_IN this_DT paper_NN we_PRP extend_VBP the_DT definition_NN of_IN an_DT episode_NN in_IN order_NN to_TO be_VB able_JJ to_TO represent_VB cases_NNS where_WRB events_NNS often_RB occur_VBP simultaneously_RB ._.
+We_PRP present_VBP an_DT efficient_JJ and_CC novel_JJ miner_NN for_IN discovering_VBG frequent_JJ and_CC closed_JJ general_JJ episodes_NNS ._.
+Such_JJ a_DT task_NN presents_VBZ unique_JJ challenges_NNS ._.
+Firstly_RB ,_, we_PRP can_MD not_RB define_VB closure_NN based_VBN on_IN frequency_NN ._.
+We_PRP solve_VBP this_DT by_IN computing_VBG a_DT more_RBR conservative_JJ closure_NN that_IN we_PRP use_VBP to_TO reduce_VB the_DT search_NN space_NN and_CC discover_VB the_DT closed_JJ episodes_NNS as_IN a_DT postprocessing_JJ step_NN ._.
+Secondly_RB ,_, episodes_NNS are_VBP traditionally_RB presented_VBN as_IN directed_JJ acyclic_JJ graphs_NNS ._.
+We_PRP argue_VBP that_IN this_DT representation_NN has_VBZ drawbacks_NNS leading_VBG to_TO redundancy_NN in_IN the_DT output_NN ._.
+We_PRP solve_VBP these_DT drawbacks_NNS by_IN defining_VBG a_DT subset_NN relationship_NN in_IN such_PDT a_DT way_NN that_WDT allows_VBZ us_PRP to_TO remove_VB the_DT redundant_JJ episodes_NNS ._.
+We_PRP demonstrate_VBP the_DT efficiency_NN of_IN our_PRP$ algorithm_NN and_CC the_DT need_NN for_IN using_VBG closed_JJ episodes_NNS empirically_RB on_IN synthetic_JJ and_CC real-world_JJ datasets_NNS ._.

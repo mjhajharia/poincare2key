@@ -1,0 +1,8 @@
+Finding_VBG visual_JJ concepts_NNS by_IN web_NN image_NN mining_NN
+We_PRP propose_VBP measuring_VBG ``_`` visualness_NN ''_'' of_IN concepts_NNS with_IN images_NNS on_IN the_DT Web_NN ,_, that_DT is_VBZ ,_, what_WDT extent_NN concepts_NNS have_VBP visual_JJ characteristics_NNS ._.
+This_DT is_VBZ a_DT new_JJ application_NN of_IN ``_`` Web_NN image_NN mining_NN ''_'' ._.
+To_TO know_VB which_WDT concept_NN has_VBZ visually_RB discriminative_JJ power_NN is_VBZ important_JJ for_IN image_NN recognition_NN ,_, since_IN not_RB all_DT concepts_NNS are_VBP related_JJ to_TO visual_JJ contents_NNS ._.
+Mining_NN image_NN data_NNS on_IN the_DT Web_NN with_IN our_PRP$ method_NN enables_VBZ it_PRP ._.
+Our_PRP$ method_NN performs_VBZ probabilistic_JJ region_NN selection_NN for_IN images_NNS and_CC computes_VBZ an_DT entropy_NN measure_NN which_WDT represents_VBZ ``_`` visualness_NN ''_'' of_IN concepts_NNS ._.
+In_IN the_DT experiments_NNS ,_, we_PRP collected_VBD about_RB forty_CD thousand_CD images_NNS from_IN the_DT Web_NN for_IN 150_CD concepts_NNS ._.
+We_PRP examined_VBD which_WDT concepts_NNS are_VBP suitable_JJ for_IN annotation_NN of_IN image_NN contents_NNS ._.

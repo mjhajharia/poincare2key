@@ -1,0 +1,8 @@
+Delay_VB tolerant_JJ applications_NNS for_IN low_JJ bandwidth_NN and_CC intermittently_RB connected_JJ users_NNS :_: the_DT aAQUA_NN experience_NN
+With_IN the_DT explosive_JJ growth_NN and_CC spread_NN of_IN Internet_NNP ,_, web_NN access_NN from_IN mobile_JJ and_CC rural_JJ users_NNS has_VBZ become_VBN significant_JJ ._.
+But_CC these_DT users_NNS face_VBP problems_NNS of_IN low_JJ bandwidth_NN and_CC intermittent_JJ Internet_NN connectivity_NN ._.
+To_TO make_VB the_DT benefits_NNS of_IN the_DT Internet_NN reach_VBP the_DT common_JJ man_NN in_IN developing_VBG countries_NNS ,_, accessibility_NN and_CC availability_NN of_IN the_DT information_NN has_VBZ to_TO be_VB improved_VBN ._.
+aAQUA_NN is_VBZ an_DT online_NN multilingual_JJ ,_, multimedia_NNS agricultural_JJ portal_NN for_IN disseminating_VBG information_NN from_IN and_CC to_TO rural_JJ communities_NNS ._.
+Considering_VBG resource_NN constrained_VBD rural_JJ environments_NNS ,_, we_PRP have_VBP designed_VBN and_CC implemented_VBN an_DT offline_JJ solution_NN which_WDT provides_VBZ an_DT online_JJ experience_NN to_TO users_NNS in_IN disconnected_VBN mode_NN ._.
+Our_PRP$ solution_NN is_VBZ based_VBN on_IN heterogeneous_JJ database_NN synchronization_NN which_WDT involves_VBZ only_RB a_DT small_JJ synchronization_NN payload_NN ensuring_VBG an_DT efficient_JJ use_NN of_IN available_JJ bandwidth_NN ._.
+Offline_NNP aAQUA_NNP has_VBZ been_VBN deployed_VBN in_IN the_DT field_NN and_CC systematic_JJ studies_NNS of_IN our_PRP$ solution_NN show_VBP that_IN user_NN experience_NN has_VBZ improved_VBN tremendously_RB not_RB only_RB in_IN disconnected_VBN mode_NN but_CC also_RB in_IN connected_JJ mode_NN ._.

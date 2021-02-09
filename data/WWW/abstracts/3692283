@@ -1,0 +1,4 @@
+Describing_VBG namespaces_NNS with_IN GRDDL_NN
+Describing_VBG XML_NN Namespaces_NNS is_VBZ an_DT open_JJ issue_NN for_IN many_JJ users_NNS of_IN XML_NN technologies_NNS ,_, and_CC even_RB though_IN namespaces_NNS are_VBP one_CD of_IN the_DT foundations_NNS of_IN XML_NN ,_, there_EX is_VBZ no_DT generally_RB accepted_VBN and_CC widely_RB used_VBN format_NN for_IN namespace_NN descriptions_NNS ._.
+We_PRP present_VBP a_DT framework_NN for_IN describing_VBG namespaces_NNS based_VBN on_IN GRDDL_NNP using_VBG a_DT controlled_JJ vocabulary_NN ._.
+Using_VBG this_DT frame-work_NN ,_, namespace_NN descriptions_NNS can_MD be_VB easily_RB generated_VBN ,_, har-vested_JJ and_CC published_VBN in_IN human_JJ -_: or_CC machine-readable_JJ form_NN ._.

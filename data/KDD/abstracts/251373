@@ -1,0 +1,16 @@
+Statistical_JJ modeling_NN of_IN large-scale_JJ simulation_NN data_NNS
+With_IN the_DT advent_NN of_IN fast_JJ computer_NN systems_NNS ,_, scientists_NNS are_VBP now_RB able_JJ to_TO generate_VB terabytes_NNS of_IN simulation_NN data_NNS ._.
+Unfortunately_RB ,_, the_DT sheer_JJ size_NN of_IN these_DT data_NNS sets_NNS has_VBZ made_VBN efficient_JJ exploration_NN of_IN them_PRP impossible_JJ ._.
+To_TO aid_VB scientists_NNS in_IN gleaning_VBG insight_NN from_IN their_PRP$ simulation_NN data_NNS ,_, we_PRP have_VBP developed_VBN an_DT ad-hoc_JJ query_NN infrastructure_NN ._.
+Our_PRP$ system_NN ,_, called_VBN AQSim_NN -LRB-_-LRB- short_JJ for_IN Ad-hoc_JJ Queries_NNS for_IN Simulation_NN -RRB-_-RRB- reduces_VBZ the_DT data_NNS storage_NN requirements_NNS and_CC query_NN access_NN times_NNS in_IN two_CD stages_NNS ._.
+First_RB ,_, it_PRP creates_VBZ and_CC stores_VBZ mathematical_JJ and_CC statistical_JJ models_NNS of_IN the_DT data_NNS at_IN multiple_JJ resolutions_NNS ._.
+Second_RB ,_, it_PRP evaluates_VBZ queries_NNS on_IN the_DT models_NNS of_IN the_DT data_NNS instead_RB of_IN on_IN the_DT entire_JJ data_NN set_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP two_CD simple_JJ but_CC effective_JJ statistical_JJ modeling_NN techniques_NNS for_IN simulation_NN data_NNS ._.
+Our_PRP$ first_JJ modeling_NN technique_NN computes_VBZ the_DT ``_`` true_JJ ''_'' -LRB-_-LRB- unbiased_JJ -RRB-_-RRB- mean_NN of_IN systematic_JJ partitions_NNS of_IN the_DT data_NNS ._.
+It_PRP makes_VBZ no_DT assumptions_NNS about_IN the_DT distribution_NN of_IN the_DT data_NNS and_CC uses_VBZ a_DT variant_NN of_IN the_DT root_NN mean_VB square_JJ error_NN to_TO evaluate_VB a_DT model_NN ._.
+Our_PRP$ second_JJ statistical_JJ modeling_NN technique_NN uses_VBZ the_DT Andersen-Darling_JJ goodness-of-fit_NN method_NN on_IN systematic_JJ partitions_NNS of_IN the_DT data_NNS ._.
+This_DT method_NN evaluates_VBZ a_DT model_NN by_IN how_WRB well_RB it_PRP passes_VBZ the_DT normality_NN test_NN on_IN the_DT data_NNS ._.
+Both_DT of_IN our_PRP$ statistical_JJ models_NNS effectively_RB answer_VBP range_NN queries_NNS ._.
+At_IN each_DT resolution_NN of_IN the_DT data_NNS ,_, we_PRP compute_VBP the_DT precision_NN of_IN our_PRP$ answer_NN to_TO the_DT user_NN 's_POS query_NN by_IN scaling_VBG the_DT one-sided_JJ Chebyshev_NNP Inequalities_NNPS with_IN the_DT original_JJ mesh_NN 's_POS topology_NN ._.
+We_PRP combine_VBP precisions_NNS at_IN different_JJ resolutions_NNS by_IN calculating_VBG their_PRP$ weighted_JJ average_NN ._.
+Our_PRP$ experimental_JJ evaluations_NNS on_IN two_CD scientific_JJ simulation_NN data_NNS sets_NNS illustrate_VBP the_DT value_NN of_IN using_VBG these_DT statistical_JJ modeling_NN techniques_NNS on_IN multiple_JJ resolutions_NNS of_IN large_JJ simulation_NN data_NNS sets_NNS ._.

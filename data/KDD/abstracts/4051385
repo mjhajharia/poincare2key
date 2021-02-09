@@ -1,0 +1,7 @@
+Mining_NNP rank-correlated_JJ sets_NNS of_IN numerical_JJ attributes_NNS
+We_PRP study_VBD the_DT mining_NN of_IN interesting_JJ patterns_NNS in_IN the_DT presence_NN of_IN numerical_JJ attributes_NNS ._.
+Instead_RB of_IN the_DT usual_JJ discretization_NN methods_NNS ,_, we_PRP propose_VBP the_DT use_NN of_IN rank_NN based_VBN measures_NNS to_TO score_VB the_DT similarity_NN of_IN sets_NNS of_IN numerical_JJ attributes_NNS ._.
+New_JJ support_NN measures_NNS for_IN numerical_JJ data_NNS are_VBP introduced_VBN ,_, based_VBN on_IN extensions_NNS of_IN Kendall_NNP 's_POS tau_NN ,_, and_CC Spearman_NNP 's_POS Footrule_NN and_CC rho_NN ._.
+We_PRP show_VBP how_WRB these_DT support_NN measures_NNS are_VBP related_VBN ._.
+Furthermore_RB ,_, we_PRP introduce_VBP a_DT novel_JJ type_NN of_IN pattern_NN combining_VBG numerical_JJ and_CC categorical_JJ attributes_NNS ._.
+We_PRP give_VBP efficient_JJ algorithms_NNS to_TO find_VB all_DT frequent_JJ patterns_NNS for_IN the_DT proposed_VBN support_NN measures_NNS ,_, and_CC evaluate_VB their_PRP$ performance_NN on_IN real-life_JJ datasets_NNS ._.

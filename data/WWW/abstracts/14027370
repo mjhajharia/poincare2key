@@ -1,0 +1,12 @@
+Framework_NN and_CC algorithms_NNS for_IN network_NN bucket_NN testing_NN
+Bucket_NN testing_NN ,_, also_RB known_VBN as_IN split_JJ testing_NN ,_, A\/B_NN testing_NN ,_, or_CC 0\/1_CD testing_NN ,_, is_VBZ a_DT widely_RB used_VBN method_NN for_IN evaluating_VBG users_NNS '_POS satisfaction_NN with_IN new_JJ features_NNS ,_, products_NNS ,_, or_CC services_NNS ._.
+In_IN order_NN not_RB to_TO expose_VB the_DT whole_JJ user_NN base_NN to_TO the_DT new_JJ service_NN ,_, the_DT mean_NN user_NN satisfaction_NN rate_NN is_VBZ estimated_VBN by_IN exposing_VBG the_DT service_NN only_RB to_TO a_DT few_JJ uniformly_RB chosen_VBN random_JJ users_NNS ._.
+In_IN a_DT recent_JJ work_NN ,_, Backstrom_NNP and_CC Kleinberg_NNP ,_, defined_VBD the_DT notion_NN of_IN network_NN bucket_NN testing_NN for_IN social_JJ services_NNS ._.
+In_IN this_DT context_NN ,_, users_NNS '_POS interactions_NNS are_VBP only_RB valid_JJ for_IN measurement_NN if_IN some_DT minimal_JJ number_NN of_IN their_PRP$ friends_NNS are_VBP also_RB given_VBN the_DT service_NN ._.
+The_DT goal_NN is_VBZ to_TO estimate_VB the_DT mean_NN user_NN satisfaction_NN rate_NN while_IN providing_VBG the_DT service_NN to_TO the_DT least_JJS number_NN of_IN users_NNS ._.
+This_DT constraint_NN makes_VBZ uniform_JJ sampling_NN ,_, which_WDT is_VBZ optimal_JJ for_IN the_DT traditional_JJ case_NN ,_, grossly_RB inefficient_JJ ._.
+In_IN this_DT paper_NN we_PRP introduce_VBP a_DT simple_JJ general_JJ framework_NN for_IN designing_VBG and_CC evaluating_VBG sampling_NN techniques_NNS for_IN network_NN bucket_NN testing_NN ._.
+The_DT framework_NN is_VBZ constructed_VBN in_IN a_DT way_NN that_IN sampling_NN algorithms_NNS are_VBP only_RB required_VBN to_TO generate_VB sets_NNS of_IN users_NNS to_TO which_WDT the_DT service_NN should_MD be_VB provided_VBN ._.
+Given_VBN an_DT algorithm_NN ,_, the_DT framework_NN produces_VBZ an_DT unbiased_JJ user_NN satisfaction_NN rate_NN estimator_NN and_CC a_DT corresponding_JJ variance_NN bound_VBD for_IN any_DT network_NN and_CC any_DT user_NN satisfaction_NN function_NN ._.
+Furthermore_RB ,_, we_PRP present_VBP several_JJ simple_JJ sampling_NN algorithms_NNS that_WDT are_VBP evaluated_VBN using_VBG both_CC synthetic_JJ and_CC real_JJ social_JJ networks_NNS ._.
+Our_PRP$ experiments_NNS corroborate_VBP the_DT theoretical_JJ results_NNS and_CC demonstrate_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN framework_NN and_CC algorithms_NNS ._.

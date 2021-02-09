@@ -1,0 +1,8 @@
+Nantonac_FW collaborative_FW filtering_VBG :_: recommendation_NN based_VBN on_IN order_NN responses_NNS
+A_DT recommender_NN system_NN suggests_VBZ the_DT items_NNS expected_VBN to_TO be_VB preferred_VBN by_IN the_DT users_NNS ._.
+Recommender_NN systems_NNS use_VBP collaborative_JJ filtering_VBG to_TO recommend_VB items_NNS by_IN summarizing_VBG the_DT preferences_NNS of_IN people_NNS who_WP have_VBP tendencies_NNS similar_JJ to_TO the_DT user_NN preference_NN ._.
+Traditionally_RB ,_, the_DT degree_NN of_IN preference_NN is_VBZ represented_VBN by_IN a_DT scale_NN ,_, for_IN example_NN ,_, one_CD that_WDT ranges_VBZ from_IN one_CD to_TO five_CD ._.
+This_DT type_NN of_IN measuring_VBG technique_NN is_VBZ called_VBN the_DT semantic_JJ differential_NN -LRB-_-LRB- SD_NN -RRB-_-RRB- method_NN ._.
+Web_NN adopted_VBD the_DT ranking_JJ method_NN ,_, however_RB ,_, rather_RB than_IN the_DT SD_NN method_NN ,_, since_IN the_DT SD_NN method_NN is_VBZ intrinsically_RB not_RB suited_VBN for_IN representing_VBG individual_JJ preferences_NNS ._.
+In_IN the_DT ranking_JJ method_NN ,_, the_DT preferences_NNS are_VBP represented_VBN by_IN orders_NNS ,_, which_WDT are_VBP sorted_VBN item_NN sequences_NNS according_VBG to_TO the_DT users_NNS '_POS preferences_NNS ._.
+We_PRP here_RB propose_VBP some_DT methods_NNS to_TO recommed_JJ items_NNS based_VBN on_IN these_DT order_NN responses_NNS ,_, and_CC carry_VB out_RP the_DT comparison_NN experiments_NNS of_IN these_DT methods_NNS ._.

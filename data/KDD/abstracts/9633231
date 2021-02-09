@@ -1,0 +1,9 @@
+Constrained_VBN optimization_NN for_IN validation-guided_JJ conditional_JJ random_JJ field_NN learning_VBG
+Conditional_JJ random_JJ fields_NNS -LRB-_-LRB- CRFs_NNS -RRB-_-RRB- are_VBP a_DT class_NN of_IN undirected_JJ graphical_JJ models_NNS which_WDT have_VBP been_VBN widely_RB used_VBN for_IN classifying_VBG and_CC labeling_VBG sequence_NN data_NNS ._.
+The_DT training_NN of_IN CRFs_NNS is_VBZ typically_RB formulated_VBN as_IN an_DT unconstrained_JJ optimization_NN problem_NN that_WDT maximizes_VBZ the_DT conditional_JJ likelihood_NN ._.
+However_RB ,_, maximum_NN likelihood_NN training_NN is_VBZ prone_JJ to_TO overfitting_NN ._.
+To_TO address_VB this_DT issue_NN ,_, we_PRP propose_VBP a_DT novel_JJ constrained_VBN nonlinear_JJ optimization_NN formulation_NN in_IN which_WDT the_DT prediction_NN accuracy_NN of_IN cross-validation_NN sets_NNS are_VBP included_VBN as_IN constraints_NNS ._.
+Instead_RB of_IN requiring_VBG multiple_JJ passes_NNS of_IN training_NN ,_, the_DT constrained_VBN formulation_NN allows_VBZ the_DT cross-validation_NN be_VB handled_VBN in_IN one_CD pass_NN of_IN constrained_VBN optimization_NN ._.
+The_DT new_JJ formulation_NN is_VBZ discontinuous_JJ ,_, and_CC classical_JJ Lagrangian_JJ based_JJ constraint_NN handling_NN methods_NNS are_VBP not_RB applicable_JJ ._.
+A_DT new_JJ constrained_VBN optimization_NN algorithm_NN based_VBN on_IN the_DT recently_RB proposed_VBN extended_JJ saddle_NN point_NN theory_NN is_VBZ developed_VBN to_TO learn_VB the_DT constrained_VBN CRF_NN model_NN ._.
+Experimental_JJ results_NNS on_IN gene_NN and_CC stock-price_JJ prediction_NN tasks_NNS show_VBP that_IN the_DT constrained_VBN formulation_NN is_VBZ able_JJ to_TO significantly_RB improve_VB the_DT generalization_NN ability_NN of_IN CRF_NN training_NN ._.

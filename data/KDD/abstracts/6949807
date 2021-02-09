@@ -1,0 +1,19 @@
+Rule_NN interestingness_NN analysis_NN using_VBG OLAP_NN operations_NNS
+The_DT problem_NN of_IN interestingness_NN of_IN discovered_VBN rules_NNS has_VBZ been_VBN investigated_VBN by_IN many_JJ researchers_NNS ._.
+The_DT issue_NN is_VBZ that_IN data_NN mining_NN algorithms_NNS often_RB generate_VBP too_RB many_JJ rules_NNS ,_, which_WDT make_VBP it_PRP very_RB hard_RB for_IN the_DT user_NN to_TO find_VB the_DT interesting_JJ ones_NNS ._.
+Over_IN the_DT years_NNS many_JJ techniques_NNS have_VBP been_VBN proposed_VBN ._.
+However_RB ,_, few_JJ have_VBP made_VBN it_PRP to_TO real-life_JJ applications_NNS ._.
+Since_IN August_NNP 2004_CD ,_, we_PRP have_VBP been_VBN working_VBG on_IN a_DT major_JJ application_NN for_IN Motorola_NNP ._.
+The_DT objective_NN is_VBZ to_TO find_VB causes_NNS of_IN cellular_JJ phone_NN call_NN failures_NNS from_IN a_DT large_JJ amount_NN of_IN usage_NN log_NN data_NNS ._.
+Class_NN association_NN rules_NNS have_VBP been_VBN shown_VBN to_TO be_VB suitable_JJ for_IN this_DT type_NN of_IN diagnostic_JJ data_NNS mining_NN application_NN ._.
+We_PRP were_VBD also_RB able_JJ to_TO put_VB several_JJ existing_VBG interestingness_NN methods_NNS to_TO the_DT test_NN ,_, which_WDT revealed_VBD some_DT major_JJ shortcomings_NNS ._.
+One_CD of_IN the_DT main_JJ problems_NNS is_VBZ that_IN most_JJS existing_JJ methods_NNS treat_VBP rules_NNS individually_RB ._.
+However_RB ,_, we_PRP discovered_VBD that_IN users_NNS seldom_RB regard_VBP a_DT single_JJ rule_NN to_TO be_VB interesting_JJ by_IN itself_PRP ._.
+A_DT rule_NN is_VBZ only_RB interesting_JJ in_IN the_DT context_NN of_IN some_DT other_JJ rules_NNS ._.
+Furthermore_RB ,_, in_IN many_JJ cases_NNS ,_, each_DT individual_JJ rule_NN may_MD not_RB be_VB interesting_JJ ,_, but_CC a_DT group_NN of_IN them_PRP together_RB can_MD represent_VB an_DT important_JJ piece_NN of_IN knowledge_NN ._.
+This_DT led_VBD us_PRP to_TO discover_VB a_DT deficiency_NN of_IN the_DT current_JJ rule_NN mining_NN paradigm_NN ._.
+Using_VBG non-zero_JJ minimum_JJ support_NN and_CC non-zero_JJ minimum_JJ confidence_NN eliminates_VBZ a_DT large_JJ amount_NN of_IN context_NN information_NN ,_, which_WDT makes_VBZ rule_NN analysis_NN difficult_JJ ._.
+This_DT paper_NN proposes_VBZ a_DT novel_JJ approach_NN to_TO deal_VB with_IN all_DT of_IN these_DT issues_NNS ,_, which_WDT casts_VBZ rule_NN analysis_NN as_IN OLAP_NN operations_NNS and_CC general_JJ impression_NN mining_NN ._.
+This_DT approach_NN enables_VBZ the_DT user_NN to_TO explore_VB the_DT knowledge_NN space_NN to_TO find_VB useful_JJ knowledge_NN easily_RB and_CC systematically_RB ._.
+It_PRP also_RB provides_VBZ a_DT natural_JJ framework_NN for_IN visualization_NN ._.
+As_IN an_DT evidence_NN of_IN its_PRP$ effectiveness_NN ,_, our_PRP$ system_NN ,_, called_VBN Opportunity_NNP Map_NNP ,_, based_VBN on_IN these_DT ideas_NNS has_VBZ been_VBN deployed_VBN ,_, and_CC it_PRP is_VBZ in_IN daily_JJ use_NN in_IN Motorola_NNP for_IN finding_VBG actionable_JJ knowledge_NN from_IN its_PRP$ engineering_NN and_CC other_JJ types_NNS of_IN data_NNS sets_NNS ._.

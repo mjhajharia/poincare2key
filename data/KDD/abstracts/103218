@@ -1,0 +1,8 @@
+Mining_NN intrusion_NN detection_NN alarms_NNS for_IN actionable_JJ knowledge_NN
+In_IN response_NN to_TO attacks_NNS against_IN enterprise_NN networks_NNS ,_, administrators_NNS increasingly_RB deploy_VBP intrusion_NN detection_NN systems_NNS ._.
+These_DT systems_NNS monitor_VBP hosts_NNS ,_, networks_NNS ,_, and_CC other_JJ resources_NNS for_IN signs_NNS of_IN security_NN violations_NNS ._.
+The_DT use_NN of_IN intrusion_NN detection_NN has_VBZ given_VBN rise_NN to_TO another_DT difficult_JJ problem_NN ,_, namely_RB the_DT handling_NN of_IN a_DT generally_RB large_JJ number_NN of_IN alarms_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP mine_VBP historical_JJ alarms_NNS to_TO learn_VB how_WRB future_JJ alarms_NNS can_MD be_VB handled_VBN more_RBR efficiently_RB ._.
+First_RB ,_, we_PRP investigate_VBP episode_NN rules_NNS with_IN respect_NN to_TO their_PRP$ suitability_NN in_IN this_DT approach_NN ._.
+We_PRP report_VBP the_DT difficulties_NNS encountered_VBD and_CC the_DT unexpected_JJ insights_NNS gained_VBD ._.
+In_IN addition_NN ,_, we_PRP introduce_VBP a_DT new_JJ conceptual_JJ clustering_NN technique_NN ,_, and_CC use_VB it_PRP in_IN extensive_JJ experiments_NNS with_IN real-world_JJ data_NNS to_TO show_VB that_IN intrusion_NN detection_NN alarms_NNS can_MD be_VB handled_VBN efficiently_RB by_IN using_VBG previously_RB mined_VBN knowledge_NN ._.

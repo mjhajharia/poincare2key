@@ -1,0 +1,5 @@
+Three_CD theses_DT of_IN representation_NN in_IN the_DT semantic_JJ web_NN
+The_DT Semantic_JJ Web_NN is_VBZ vitally_RB dependent_JJ on_IN a_DT formal_JJ meaning_NN for_IN the_DT constructs_NNS of_IN its_PRP$ languages_NNS ._.
+For_IN Semantic_JJ Web_NN languages_NNS to_TO work_VB well_RB together_RB their_PRP$ formal_JJ meanings_NNS must_MD employ_VB a_DT common_JJ view_NN -LRB-_-LRB- or_CC thesis_NN -RRB-_-RRB- of_IN representation_NN ,_, otherwise_RB it_PRP will_MD not_RB be_VB possible_JJ to_TO reconcile_VB documents_NNS written_VBN in_IN different_JJ languages_NNS ._.
+The_DT thesis_NN of_IN representation_NN underlying_VBG RDF_NNP and_CC RDFS_NNP is_VBZ particularly_RB troublesome_JJ in_IN this_DT regard_NN ,_, as_IN it_PRP has_VBZ several_JJ unusual_JJ aspects_NNS ,_, both_DT semantic_JJ and_CC syntactic_JJ ._.
+A_DT more-standard_JJ thesis_NN of_IN representation_NN would_MD result_VB in_IN the_DT ability_NN to_TO reuse_VB existing_VBG results_NNS and_CC tools_NNS in_IN the_DT Semantic_JJ Web_NN ._.

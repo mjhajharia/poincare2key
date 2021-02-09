@@ -1,0 +1,11 @@
+Xspect_NNP :_: bridging_VBG open_JJ hypermedia_NN and_CC XLink_NN
+This_DT paper_NN evaluates_VBZ the_DT XLink_NN format_NN in_IN comparison_NN with_IN other_JJ linking_VBG formats_NNS ._.
+The_DT comparison_NN is_VBZ based_VBN on_IN Xspect_NNP ,_, an_DT implementation_NN of_IN XLink_NN ._.
+Xspect_NNP handles_VBZ transformation_NN between_IN an_DT open_JJ hypermedia_NN format_NN -LRB-_-LRB- OHIF_NN -RRB-_-RRB- and_CC XLink_NN ,_, and_CC the_DT paper_NN discusses_VBZ this_DT isomorphic_JJ transformation_NN and_CC generalises_NNS it_PRP to_TO include_VB another_DT open_JJ hypermedia_NN format_NN ,_, FOHM_NN ._.
+The_DT Xspect_NNP system_NN ,_, based_VBN on_IN XSLT_NNP and_CC Javascript_NNP ,_, provides_VBZ users_NNS with_IN an_DT interface_NN to_TO browse_VB and_CC merge_VB linkbases_NNS ._.
+Xspect_NNP supports_VBZ navigational_JJ hypermedia_NN in_IN the_DT form_NN of_IN links_NNS inserted_VBN on_IN the_DT fly_NN into_IN Web_NN pages_NNS ,_, as_RB well_RB as_IN guided_VBN tours_NNS presented_VBN as_IN SVG_NNP ._.
+Xspect_NNP has_VBZ two_CD implementations_NNS :_: one_CD server-side_NN and_CC one_CD running_VBG on_IN the_DT client_NN ._.
+Both_DT implementation_NN provide_VBP the_DT user_NN with_IN an_DT interface_NN for_IN the_DT creation_NN of_IN annotations_NNS ._.
+The_DT main_JJ result_NN of_IN the_DT paper_NN is_VBZ a_DT critique_NN of_IN XLink_NN ._.
+XLink_NN is_VBZ shown_VBN to_TO be_VB a_DT format_NN well_RB suited_VBN for_IN navigational_JJ hypermedia_NN ,_, but_CC lacking_VBG in_RP more_RBR advanced_JJ constructs_NNS ._.
+More_RBR problematic_JJ are_VBP the_DT issues_NNS regarding_VBG large-scale_JJ use_NN ,_, such_JJ as_IN evaluating_VBG validity_NN and_CC credibility_NN of_IN linkbases_NNS ,_, and_CC ensuring_VBG general_JJ support_NN for_IN a_DT format_NN as_RB flexible_JJ as_IN XLink_NN ._.

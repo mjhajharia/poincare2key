@@ -1,0 +1,6 @@
+Are_VBP web_NN users_NNS really_RB Markovian_NNP ?_.
+User_NN modeling_NN on_IN the_DT Web_NN has_VBZ rested_VBN on_IN the_DT fundamental_JJ assumption_NN of_IN Markovian_JJ behavior_NN --_: a_DT user_NN 's_POS next_JJ action_NN depends_VBZ only_RB on_IN her_PRP$ current_JJ state_NN ,_, and_CC not_RB the_DT history_NN leading_VBG up_RP to_TO the_DT current_JJ state_NN ._.
+This_DT forms_VBZ the_DT underpinning_NN of_IN PageRank_NN web_NN ranking_NN ,_, as_RB well_RB as_IN a_DT number_NN of_IN techniques_NNS for_IN targeting_VBG advertising_NN to_TO users_NNS ._.
+In_IN this_DT work_NN we_PRP examine_VBP the_DT validity_NN of_IN this_DT assumption_NN ,_, using_VBG data_NNS from_IN a_DT number_NN of_IN Web_NN settings_NNS ._.
+Our_PRP$ main_JJ result_NN invokes_VBZ statistical_JJ order_NN estimation_NN tests_NNS for_IN Markov_NNP chains_NNS to_TO establish_VB that_IN Web_NN users_NNS are_VBP not_RB ,_, in_IN fact_NN ,_, Markovian_NNP ._.
+We_PRP study_VBD the_DT extent_NN to_TO which_WDT the_DT Markovian_JJ assumption_NN is_VBZ invalid_JJ ,_, and_CC derive_VB a_DT number_NN of_IN avenues_NNS for_IN further_JJ research_NN ._.

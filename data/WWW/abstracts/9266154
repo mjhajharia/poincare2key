@@ -1,0 +1,5 @@
+Structuring_VBG namespace_NN descriptions_NNS
+Namespaces_NNS are_VBP a_DT central_JJ building_NN block_NN of_IN XML_NN technologies_NNS today_NN ,_, they_PRP provide_VBP the_DT identification_NN mechanism_NN for_IN many_JJ XML-related_JJ vocabularies_NNS ._.
+Despite_IN their_PRP$ ubiquity_NN ,_, there_EX is_VBZ no_DT established_JJ mechanism_NN for_IN describing_VBG namespaces_NNS ,_, and_CC in_IN particular_JJ for_IN describing_VBG the_DT dependencies_NNS of_IN namespaces_NNS ._.
+We_PRP propose_VBP a_DT simple_JJ model_NN for_IN describing_VBG namespaces_NNS and_CC their_PRP$ dependencies_NNS ._.
+Using_VBG these_DT descriptions_NNS ,_, it_PRP is_VBZ possible_JJ to_TO compile_VB directories_NNS of_IN namespaces_NNS providing_VBG searchable_JJ and_CC browsable_JJ namespace_NN descriptions_NNS ._.

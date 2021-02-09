@@ -1,0 +1,13 @@
+Mining_NNP relational_JJ data_NNS through_IN correlation-based_JJ multiple_JJ view_NN validation_NN
+Commercial_JJ relational_JJ databases_NNS currently_RB store_VBP vast_JJ amounts_NNS of_IN real-world_JJ data_NNS ._.
+The_DT data_NNS within_IN these_DT relational_JJ repositories_NNS are_VBP represented_VBN by_IN multiple_JJ relations_NNS ,_, which_WDT are_VBP inter-connected_JJ by_IN means_NNS of_IN foreign_JJ key_NN joins_VBZ ._.
+The_DT mining_NN of_IN such_JJ interrelated_JJ data_NNS poses_VBZ a_DT major_JJ challenge_NN to_TO the_DT data_NNS mining_NN community_NN ._.
+Unfortunately_RB ,_, traditional_JJ data_NNS mining_NN algorithms_NNS usually_RB only_RB explore_VB one_CD relation_NN ,_, the_DT so-called_JJ target_NN relation_NN ,_, thus_RB excluding_VBG crucial_JJ knowledge_NN embedded_VBN in_IN the_DT related_JJ so-called_JJ background_NN relations_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ approach_NN for_IN classifying_VBG relational_JJ such_JJ domains_NNS ._.
+This_DT strategy_NN employs_VBZ multiple_JJ views_NNS to_TO capture_VB crucial_JJ information_NN not_RB only_RB from_IN the_DT target_NN relation_NN ,_, but_CC also_RB from_IN related_JJ relations_NNS ._.
+This_DT information_NN is_VBZ integrated_VBN into_IN the_DT relational_JJ mining_NN process_NN ._.
+The_DT framework_NN presented_VBN here_RB ,_, firstly_RB ,_, explore_VB the_DT relational_JJ domain_NN to_TO partition_NN its_PRP$ features_NNS space_NN into_IN multiple_JJ subsets_NNS ._.
+Subsequently_RB ,_, these_DT subsets_NNS are_VBP used_VBN to_TO construct_VB multiple_JJ uncorrelated_JJ views_NNS ,_, based_VBN on_IN a_DT novel_JJ correlation-based_JJ view_NN validation_NN method_NN ,_, against_IN the_DT target_NN concept_NN ._.
+Finally_RB ,_, the_DT knowledge_NN possessed_VBN by_IN multiple_JJ views_NNS are_VBP incorporated_VBN into_IN a_DT meta-learning_JJ mechanism_NN to_TO augment_VB one_CD another_DT ._.
+Based_VBN on_IN this_DT framework_NN ,_, a_DT wide_JJ range_NN of_IN conventional_JJ data_NNS mining_NN methods_NNS can_MD be_VB applied_VBN to_TO mine_VB relational_JJ databases_NNS ._.
+Our_PRP$ experiments_NNS on_IN benchmark_JJ real-world_JJ data_NNS sets_NNS show_VBP that_IN the_DT proposed_VBN method_NN achieves_VBZ promising_JJ results_NNS both_CC in_IN terms_NNS of_IN overall_JJ accuracy_NN obtained_VBN and_CC run_VBN time_NN ,_, when_WRB compared_VBN with_IN two_CD other_JJ relational_JJ data_NNS mining_NN approaches_NNS ._.

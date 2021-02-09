@@ -1,0 +1,2 @@
+A_DT non-syntactic_JJ approach_NN for_IN text_NN sentiment_NN classification_NN with_IN stopwords_NNS
+The_DT present_JJ approach_NN uses_VBZ stopwords_NNS and_CC the_DT gaps_NNS that_WDT occur_VBP between_IN successive_JJ stopwords_NNS -_: formed_VBN by_IN contentwords_NNS -_: as_IN features_NNS for_IN sentiment_NN classification_NN ._.

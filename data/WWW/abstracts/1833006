@@ -1,0 +1,12 @@
+A_DT smart_JJ hill-climbing_JJ algorithm_NN for_IN application_NN server_NN configuration_NN
+The_DT overwhelming_JJ success_NN of_IN the_DT Web_NN as_IN a_DT mechanism_NN for_IN facilitating_VBG information_NN retrieval_NN and_CC for_IN conducting_VBG business_NN transactions_NNS has_VBZ ledto_VBN an_DT increase_NN in_IN the_DT deployment_NN of_IN complex_JJ enterprise_NN applications_NNS ._.
+These_DT applications_NNS typically_RB run_VBP on_IN Web_NN Application_NN Servers_NNS ,_, which_WDT assume_VBP the_DT burden_NN of_IN managing_VBG many_JJ tasks_NNS ,_, such_JJ as_IN concurrency_NN ,_, memory_NN management_NN ,_, database_NN access_NN ,_, etc._NN ,_, required_VBN by_IN these_DT applications_NNS ._.
+The_DT performance_NN of_IN an_DT Application_NN Server_NN depends_VBZ heavily_RB on_IN appropriate_JJ configuration_NN ._.
+Configuration_NN is_VBZ a_DT difficult_JJ and_CC error-prone_JJ task_NN dueto_VBP the_DT large_JJ number_NN of_IN configuration_NN parameters_NNS and_CC complex_JJ interactions_NNS between_IN them_PRP ._.
+We_PRP formulate_VBP the_DT problem_NN of_IN finding_VBG an_DT optimal_JJ configuration_NN for_IN a_DT given_VBN application_NN as_IN a_DT black-box_JJ optimization_NN problem_NN ._.
+We_PRP propose_VBP a_DT smart_JJ hill-climbing_JJ algorithm_NN using_VBG ideas_NNS of_IN importance_NN sampling_NN and_CC Latin_NNP Hypercube_NNP Sampling_NNP -LRB-_-LRB- LHS_NNP -RRB-_-RRB- ._.
+The_DT algorithm_NN is_VBZ efficient_JJ in_IN both_CC searching_VBG and_CC random_JJ sampling_NN ._.
+It_PRP consists_VBZ of_IN estimating_VBG a_DT local_JJ function_NN ,_, and_CC then_RB ,_, hill-climbing_NN in_IN the_DT steepest_JJS descent_NN direction_NN ._.
+The_DT algorithm_NN also_RB learns_VBZ from_IN past_JJ searches_NNS and_CC restarts_NNS in_IN a_DT smart_JJ and_CC selective_JJ fashion_NN using_VBG the_DT idea_NN of_IN importance_NN sampling_NN ._.
+We_PRP have_VBP carried_VBN out_RP extensive_JJ experiments_NNS with_IN an_DT on-line_JJ brokerage_NN application_NN running_VBG in_IN a_DT WebSphere_NNP environment_NN ._.
+Empirical_JJ results_NNS demonstrate_VBP that_IN our_PRP$ algorithm_NN is_VBZ more_RBR efficient_JJ than_IN and_CC superior_JJ to_TO traditional_JJ heuristic_NN methods_NNS ._.

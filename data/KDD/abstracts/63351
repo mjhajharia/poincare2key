@@ -1,0 +1,5 @@
+Adversarial_JJ learning_NN
+Many_JJ classification_NN tasks_NNS ,_, such_JJ as_IN spam_NN filtering_VBG ,_, intrusion_NN detection_NN ,_, and_CC terrorism_NN detection_NN ,_, are_VBP complicated_VBN by_IN an_DT adversary_NN who_WP wishes_VBZ to_TO avoid_VB detection_NN ._.
+Previous_JJ work_NN on_IN adversarial_JJ classification_NN has_VBZ made_VBN the_DT unrealistic_JJ assumption_NN that_IN the_DT attacker_NN has_VBZ perfect_JJ knowledge_NN of_IN the_DT classifier_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP the_DT adversarial_JJ classifier_NN reverse_NN engineering_NN -LRB-_-LRB- ACRE_NN -RRB-_-RRB- learning_NN problem_NN ,_, the_DT task_NN of_IN learning_VBG sufficient_JJ information_NN about_IN a_DT classifier_NN to_TO construct_VB adversarial_JJ attacks_NNS ._.
+We_PRP present_VBP efficient_JJ algorithms_NNS for_IN reverse_JJ engineering_NN linear_NN classifiers_NNS with_IN either_CC continuous_JJ or_CC Boolean_JJ features_NNS and_CC demonstrate_VBP their_PRP$ effectiveness_NN using_VBG real_JJ data_NNS from_IN the_DT domain_NN of_IN spam_NN filtering_VBG ._.

@@ -1,0 +1,9 @@
+k-Centralities_NNS :_: local_JJ approximations_NNS of_IN global_JJ measures_NNS based_VBN on_IN shortest_JJS paths_NNS
+A_DT lot_NN of_IN centrality_NN measures_NNS have_VBP been_VBN developed_VBN to_TO analyze_VB different_JJ aspects_NNS of_IN importance_NN ._.
+Some_DT of_IN the_DT most_RBS popular_JJ centrality_NN measures_NNS -LRB-_-LRB- e.g._FW betweenness_FW centrality_NN ,_, closeness_NN centrality_NN -RRB-_-RRB- are_VBP based_VBN on_IN the_DT calculation_NN of_IN shortest_JJS paths_NNS ._.
+This_DT characteristic_NN limits_VBZ the_DT applicability_NN of_IN these_DT measures_NNS for_IN larger_JJR networks_NNS ._.
+In_IN this_DT article_NN we_PRP elaborate_VBP on_IN the_DT idea_NN of_IN bounded-distance_JJ shortest_JJS paths_NNS calculations_NNS ._.
+We_PRP claim_VBP criteria_NNS for_IN k-centrality_NN measures_NNS and_CC we_PRP introduce_VBP one_CD algorithm_NN for_IN calculating_VBG both_CC betweenness_NN and_CC closeness_NN based_JJ centralities_NNS ._.
+We_PRP also_RB present_VBP normalizations_NNS for_IN these_DT measures_NNS ._.
+We_PRP show_VBP that_IN k-centrality_NN measures_NNS are_VBP good_JJ approximations_NNS for_IN the_DT corresponding_JJ centrality_NN measures_NNS by_IN achieving_VBG a_DT tremendous_JJ gain_NN of_IN calculation_NN time_NN and_CC also_RB having_VBG linear_JJ calculation_NN complexity_NN O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- for_IN networks_NNS with_IN constant_JJ average_JJ degree_NN ._.
+This_DT allows_VBZ researchers_NNS to_TO approximate_JJ centrality_NN measures_NNS based_VBN on_IN shortest_JJS paths_NNS for_IN networks_NNS with_IN millions_NNS of_IN nodes_NNS or_CC with_IN high_JJ frequency_NN in_IN dynamically_RB changing_VBG networks_NNS ._.

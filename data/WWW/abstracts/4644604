@@ -1,0 +1,7 @@
+Automatic_NNP search_NN engine_NN performance_NN evaluation_NN with_IN click-through_JJ data_NNS analysis_NN
+Performance_NNP evaluation_NN is_VBZ an_DT important_JJ issue_NN in_IN Web_NN search_NN engine_NN researches_VBZ ._.
+Traditional_JJ evaluation_NN methods_NNS rely_VBP on_IN much_JJ human_JJ efforts_NNS and_CC are_VBP therefore_RB quite_RB time-consuming_JJ ._.
+With_IN click-through_JJ data_NNS analysis_NN ,_, we_PRP proposed_VBD an_DT automatic_JJ search_NN engine_NN performance_NN evaluation_NN method_NN ._.
+This_DT method_NN generates_VBZ navigational_JJ type_NN query_NN topics_NNS and_CC answers_NNS automatically_RB based_VBN on_IN search_NN users_NNS ._.
+querying_VBG and_CC clicking_VBG behavior_NN ._.
+Experimental_JJ results_NNS based_VBN on_IN a_DT commercial_JJ Chinese_JJ search_NN engine_NN 's_POS user_NN logs_NNS show_VBP that_IN the_DT automatically_RB method_NN gets_VBZ a_DT similar_JJ evaluation_NN result_NN with_IN traditional_JJ assessor-based_JJ ones_NNS ._.

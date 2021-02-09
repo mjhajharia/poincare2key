@@ -1,0 +1,8 @@
+Semantic_JJ virtual_JJ environments_NNS
+Today_NN 's_POS Virtual_JJ Environment_NN -LRB-_-LRB- VE_NN -RRB-_-RRB- systems_NNS share_VBP a_DT number_NN of_IN issues_NNS with_IN the_DT HTML-based_JJ World_NN Wide_NN Web_NN ._.
+Their_PRP$ content_NN is_VBZ usually_RB designed_VBN for_IN presentation_NN to_TO humans_NNS ,_, and_CC thus_RB is_VBZ not_RB suitable_JJ for_IN machine_NN access_NN ._.
+This_DT is_VBZ complicated_VBN by_IN the_DT large_JJ number_NN of_IN different_JJ data_NNS models_NNS and_CC network_NN protocols_NNS in_IN use_NN ._.
+Accordingly_RB ,_, it_PRP is_VBZ difficult_JJ to_TO develop_VB VE_NNP software_NN ,_, such_JJ as_IN agents_NNS ,_, services_NNS ,_, and_CC tools_NNS ._.
+In_IN this_DT paper_NN we_PRP adopt_VBP the_DT Semantic_JJ Web_NN idea_NN to_TO the_DT field_NN of_IN virtual_JJ environments_NNS ._.
+Using_VBG the_DT Resource_NNP Description_NN Framework_NN -LRB-_-LRB- RDF_NN -RRB-_-RRB- we_PRP establish_VBP a_DT machine-understandable_JJ abstraction_NN of_IN existing_VBG VE_NNP systems_NNS --_: the_DT Semantic_JJ Virtual_JJ Environments_NNS -LRB-_-LRB- SVE_NN -RRB-_-RRB- ._.
+On_IN this_DT basis_NN it_PRP is_VBZ possible_JJ to_TO develop_VB system-independent_JJ software_NN ,_, which_WDT could_MD even_RB operate_VB across_IN VE_NNP system_NN boundaries_NNS ._.

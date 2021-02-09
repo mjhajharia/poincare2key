@@ -1,0 +1,12 @@
+Classification_NN of_IN software_NN behaviors_NNS for_IN failure_NN detection_NN :_: a_DT discriminative_JJ pattern_NN mining_NN approach_NN
+Software_NNP is_VBZ a_DT ubiquitous_JJ component_NN of_IN our_PRP$ daily_JJ life_NN ._.
+We_PRP often_RB depend_VBP on_IN the_DT correct_JJ working_NN of_IN software_NN systems_NNS ._.
+Due_JJ to_TO the_DT difficulty_NN and_CC complexity_NN of_IN software_NN systems_NNS ,_, bugs_NNS and_CC anomalies_NNS are_VBP prevalent_JJ ._.
+Bugs_NNS have_VBP caused_VBN billions_NNS of_IN dollars_NNS loss_NN ,_, in_IN addition_NN to_TO privacy_NN and_CC security_NN threats_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP address_VBP software_NN reliability_NN issues_NNS by_IN proposing_VBG a_DT novel_JJ method_NN to_TO classify_VB software_NN behaviors_NNS based_VBN on_IN past_JJ history_NN or_CC runs_NNS ._.
+With_IN the_DT technique_NN ,_, it_PRP is_VBZ possible_JJ to_TO generalize_VB past_JJ known_JJ errors_NNS and_CC mistakes_NNS to_TO capture_VB failures_NNS and_CC anomalies_NNS ._.
+Our_PRP$ technique_NN first_JJ mines_NNS a_DT set_NN of_IN discriminative_JJ features_NNS capturing_VBG repetitive_JJ series_NN of_IN events_NNS from_IN program_NN execution_NN traces_NNS ._.
+It_PRP then_RB performs_VBZ feature_NN selection_NN to_TO select_VB the_DT best_JJS features_NNS for_IN classification_NN ._.
+These_DT features_NNS are_VBP then_RB used_VBN to_TO train_VB a_DT classifier_NN to_TO detect_VB failures_NNS ._.
+Experiments_NNS and_CC case_NN studies_NNS on_IN traces_NNS of_IN several_JJ benchmark_JJ software_NN systems_NNS and_CC a_DT real-life_JJ concurrency_NN bug_NN from_IN MySQL_NN server_NN show_VBP the_DT utility_NN of_IN the_DT technique_NN in_IN capturing_VBG failures_NNS and_CC anomalies_NNS ._.
+On_IN average_NN ,_, our_PRP$ pattern-based_JJ classification_NN technique_NN outperforms_VBZ the_DT baseline_NN approach_NN by_IN 24.68_CD %_NN in_IN accuracy_NN ._.

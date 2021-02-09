@@ -1,0 +1,10 @@
+Co-clustering_VBG based_VBN classification_NN for_IN out-of-domain_JJ documents_NNS
+In_IN many_JJ real_JJ world_NN applications_NNS ,_, labeled_JJ data_NNS are_VBP in_IN short_JJ supply_NN ._.
+It_PRP often_RB happens_VBZ that_IN obtaining_VBG labeled_JJ data_NNS in_IN a_DT new_JJ domain_NN is_VBZ expensive_JJ and_CC time_NN consuming_NN ,_, while_IN there_EX may_MD be_VB plenty_JJ of_IN labeled_JJ data_NNS from_IN a_DT related_JJ but_CC different_JJ domain_NN ._.
+Traditional_JJ machine_NN learning_NN is_VBZ not_RB able_JJ to_TO cope_VB well_RB with_IN learning_NN across_IN different_JJ domains_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP address_VBP this_DT problem_NN for_IN a_DT text-mining_JJ task_NN ,_, where_WRB the_DT labeled_JJ data_NNS are_VBP under_IN one_CD distribution_NN in_IN one_CD domain_NN known_VBN as_IN in-domain_JJ data_NNS ,_, while_IN the_DT unlabeled_JJ data_NNS are_VBP under_IN a_DT related_JJ but_CC different_JJ domain_NN known_VBN as_IN out-of-domain_JJ data_NNS ._.
+Our_PRP$ general_JJ goal_NN is_VBZ to_TO learn_VB from_IN the_DT in-domain_NN and_CC apply_VB the_DT learned_VBN knowledge_NN to_TO out-of-domain_NN ._.
+We_PRP propose_VBP a_DT co-clustering_JJ based_JJ classification_NN -LRB-_-LRB- CoCC_NN -RRB-_-RRB- algorithm_NN to_TO tackle_VB this_DT problem_NN ._.
+Co-clustering_NN is_VBZ used_VBN as_IN a_DT bridge_NN to_TO propagate_VB the_DT class_NN structure_NN and_CC knowledge_NN from_IN the_DT in-domain_NN to_TO the_DT out-of-domain_NN ._.
+We_PRP present_VBP theoretical_JJ and_CC empirical_JJ analysis_NN to_TO show_VB that_IN our_PRP$ algorithm_NN is_VBZ able_JJ to_TO produce_VB high_JJ quality_NN classification_NN results_NNS ,_, even_RB when_WRB the_DT distributions_NNS between_IN the_DT two_CD data_NNS are_VBP different_JJ ._.
+The_DT experimental_JJ results_NNS show_VBP that_IN our_PRP$ algorithm_NN greatly_RB improves_VBZ the_DT classification_NN performance_NN over_IN the_DT traditional_JJ learning_NN algorithms_NNS ._.

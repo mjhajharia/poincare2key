@@ -1,0 +1,12 @@
+Csurf_NNP :_: a_DT context-driven_JJ non-visual_JJ web-browser_NN
+Web_NN sites_NNS are_VBP designed_VBN for_IN graphical_JJ mode_NN of_IN interaction_NN ._.
+Sighted_VBN users_NNS can_MD ``_`` cut_VB to_TO the_DT chase_NN ''_'' and_CC quickly_RB identify_VB relevant_JJ information_NN in_IN Web_NN pages_NNS ._.
+On_IN the_DT contrary_NN ,_, individuals_NNS with_IN visual_JJ disabilities_NNS have_VBP to_TO use_VB screen-readers_JJ tobrowse_NN the_DT Web_NN ._.
+As_IN screen-readers_JJ process_NN pages_NNS sequentially_RB and_CC read_VB through_IN everything_NN ,_, Web_NN browsing_NN can_MD become_VB strenuous_JJ and_CC time-consuming_JJ ._.
+Although_IN ,_, the_DT use_NN ofshortcuts_NNS and_CC searching_VBG offers_NNS some_DT improvements_NNS ,_, the_DT problem_NN still_RB remains_VBZ ._.
+In_IN this_DT paper_NN ,_, we_PRP address_VBP the_DT problemof_JJ information_NN overload_NN in_IN non-visual_JJ Web_NN access_NN using_VBG thenotion_NN of_IN context_NN ._.
+Our_PRP$ prototype_NN system_NN ,_, CSurf_NN ,_, embodyingor_NN approach_NN ,_, provides_VBZ the_DT usual_JJ features_NNS of_IN a_DT screen-reader_NN ._.
+However_RB ,_, when_WRB a_DT user_NN follows_VBZ a_DT link_NN ,_, CSurf_NN captures_VBZ thecontext_NN of_IN the_DT link_NN using_VBG a_DT simple_JJ topic-boundary_JJ detectiontechnique_NN ,_, and_CC uses_VBZ it_PRP to_TO identify_VB relevant_JJ information_NN onthe_NN next_IN page_NN with_IN the_DT help_NN of_IN a_DT Support_NN Vector_NNP Machine_NNP ,_, astatistical_JJ machine-learning_JJ model_NN ._.
+Then_RB ,_, CSurf_NN reads_VBZ the_DT Web_NN page_NN starting_VBG from_IN the_DT most_RBS relevant_JJ section_NN ,_, identifiedby_VBG the_DT model_NN ._.
+We_PRP conducted_VBD a_DT series_NN experiments_NNS to_TO evaluate_VB the_DT performance_NN of_IN CSurf_NN against_IN the_DT state-of-the-artscreen-reader_NN ,_, JAWS_NNP ._.
+Our_PRP$ results_NNS show_VBP that_IN the_DT use_NN of_IN context_NN can_MD potentially_RB save_VB browsing_VBG time_NN and_CC substantiallyimprove_JJ browsing_NN experience_NN of_IN visually_RB disabled_JJ people_NNS ._.

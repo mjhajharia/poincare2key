@@ -1,0 +1,14 @@
+Network-aware_JJ forward_JJ caching_NN
+This_DT paper_NN proposes_VBZ and_CC evaluates_VBZ a_DT Network_NNP Aware_NNP Forward_NNP Caching_NNP approach_NN for_IN determining_VBG the_DT optimal_JJ deployment_NN strategy_NN of_IN forward_JJ caches_NNS to_TO a_DT network_NN ._.
+A_DT key_JJ advantage_NN of_IN this_DT approach_NN is_VBZ that_IN we_PRP can_MD reduce_VB the_DT network_NN costs_NNS associated_VBN with_IN forward_JJ caching_NN to_TO maximize_VB the_DT benefit_NN obtained_VBN from_IN their_PRP$ deployment_NN ._.
+We_PRP show_VBP in_IN our_PRP$ simulation_NN that_IN a_DT 37_CD %_NN increase_NN to_TO net_JJ benefits_NNS could_MD be_VB achieved_VBN over_IN the_DT standard_JJ method_NN of_IN full_JJ cache_NN deployment_NN to_TO cache_NN all_RB POPs_VBZ traffic_NN ._.
+In_IN addition_NN ,_, we_PRP show_VBP that_IN this_DT maximal_JJ point_NN occurs_VBZ when_WRB only_RB 68_CD %_NN of_IN the_DT total_JJ traffic_NN is_VBZ cached_VBN ._.
+Another_DT contribution_NN of_IN this_DT paper_NN is_VBZ the_DT analysis_NN we_PRP use_VBP to_TO motivate_VB and_CC evaluate_VB this_DT problem_NN ._.
+We_PRP characterize_VBP the_DT Internet_NN traffic_NN of_IN 100K_CD subscribers_NNS of_IN a_DT US_NNP residential_JJ broadband_NN provider_NN ._.
+We_PRP use_VBP both_DT layer_NN 4_CD and_CC layer_NN 7_CD analysis_NN to_TO investigate_VB the_DT traffic_NN volumes_NNS of_IN the_DT flows_NNS as_RB well_RB as_IN study_NN the_DT general_JJ characteristics_NNS of_IN the_DT applications_NNS used_VBN ._.
+We_PRP show_VBP that_IN HTTP_NN is_VBZ a_DT dominant_JJ protocol_NN and_CC account_NN for_IN 68_CD %_NN of_IN the_DT total_JJ downstream_JJ traffic_NN and_CC that_IN 34_CD %_NN of_IN that_DT traffic_NN is_VBZ multimedia_NNS ._.
+In_IN addition_NN ,_, we_PRP show_VBP that_IN multimedia_NNS content_NN using_VBG HTTP_NN exhibits_VBZ a_DT 83_CD %_NN annualized_JJ growth_NN rate_NN and_CC other_JJ HTTP_NNP traffic_NN has_VBZ a_DT 53_CD %_NN growth_NN rate_NN versus_CC the_DT 26_CD %_NN over_IN all_DT annual_JJ growth_NN rate_NN of_IN broadband_NN traffic_NN ._.
+This_DT shows_VBZ that_IN HTTP_NNP traffic_NN will_MD become_VB ever_RB more_JJR dominent_NN and_CC increase_VB the_DT potential_JJ caching_NN opportunities_NNS ._.
+Furthermore_RB ,_, we_PRP characterize_VBP the_DT core_NN backbone_NN traffic_NN of_IN this_DT broadband_NN provider_NN to_TO measure_VB the_DT distance_NN traveled_VBN by_IN content_NN and_CC traffic_NN ._.
+We_PRP find_VBP that_IN CDN_NN traffic_NN is_VBZ much_RB more_RBR efficient_JJ than_IN P2P_NN content_NN and_CC that_IN there_EX is_VBZ large_JJ skew_VB in_IN the_DT Air_NNP Miles_NNP between_IN POP_NNP in_IN a_DT typical_JJ network_NN ._.
+Our_PRP$ findings_NNS show_VBP that_IN there_EX are_VBP many_JJ opportunties_NNS in_IN broadband_NN provider_NN networks_NNS to_TO optimize_VB how_WRB traffic_NN is_VBZ delivered_VBN and_CC cached_VBN ._.

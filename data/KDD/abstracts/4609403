@@ -1,0 +1,11 @@
+Finding_VBG low-entropy_JJ sets_NNS and_CC trees_NNS from_IN binary_JJ data_NNS
+The_DT discovery_NN of_IN subsets_NNS with_IN special_JJ properties_NNS from_IN binary_JJ data_NNS hasbeen_VBP one_CD of_IN the_DT key_JJ themes_NNS in_IN pattern_NN discovery_NN ._.
+Pattern_NN classes_NNS suchas_VBP frequent_JJ itemsets_NNS stress_VBP the_DT co-occurrence_NN of_IN the_DT value_NN 1_CD in_IN the_DT data_NNS ._.
+While_IN this_DT choice_NN makes_VBZ sense_NN in_IN the_DT context_NN of_IN sparse_JJ binary_JJ data_NNS ,_, it_PRP disregards_VBZ potentially_RB interesting_JJ subsets_NNS of_IN attributes_NNS that_WDT have_VBP some_DT other_JJ type_NN of_IN dependency_NN structure_NN ._.
+We_PRP consider_VBP the_DT problem_NN of_IN finding_VBG all_DT subsets_NNS of_IN attributes_NNS that_WDT have_VBP low_JJ complexity_NN ._.
+The_DT complexity_NN is_VBZ measured_VBN by_IN either_CC the_DT entropy_NN of_IN the_DT projection_NN of_IN the_DT data_NNS on_IN the_DT subset_NN ,_, or_CC the_DT entropy_NN of_IN the_DT data_NNS for_IN the_DT subset_NN when_WRB modeled_VBN using_VBG a_DT Bayesian_JJ tree_NN ,_, with_IN downward_JJ or_CC upward_JJ pointing_VBG edges_NNS ._.
+We_PRP show_VBP that_IN the_DT entropy_NN measure_NN on_IN sets_NNS has_VBZ a_DT monotonicity_NN property_NN ,_, and_CC thus_RB a_DT levelwise_JJ approach_NN can_MD find_VB all_DT low-entropy_JJ itemsets_NNS ._.
+We_PRP also_RB show_VBP that_IN the_DT tree-based_JJ measures_NNS are_VBP bounded_VBN above_RB by_IN the_DT entropy_NN of_IN the_DT corresponding_JJ itemset_NN ,_, allowing_VBG similar_JJ algorithms_NNS to_TO be_VB used_VBN for_IN finding_VBG low-entropy_JJ trees_NNS ._.
+We_PRP describe_VBP algorithms_NNS for_IN finding_VBG all_DT subsets_NNS satisfying_VBG an_DT entropy_JJ condition_NN ._.
+We_PRP give_VBP an_DT extensive_JJ empirical_JJ evaluation_NN of_IN the_DT performance_NN of_IN the_DT methods_NNS both_CC on_IN synthetic_NN and_CC on_IN real_JJ data_NNS ._.
+We_PRP also_RB discuss_VBP the_DT search_NN for_IN high-entropy_JJ subsets_NNS and_CC the_DT computation_NN of_IN the_DT Vapnik-Chervonenkis_NNP dimension_NN of_IN the_DT data_NNS ._.

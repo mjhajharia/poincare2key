@@ -1,0 +1,10 @@
+Learning_NNP patterns_NNS in_IN the_DT dynamics_NNS of_IN biological_JJ networks_NNS
+Our_PRP$ dynamic_JJ graph-based_JJ relational_JJ mining_NN approach_NN has_VBZ been_VBN developed_VBN to_TO learn_VB structural_JJ patterns_NNS in_IN biological_JJ networks_NNS as_IN they_PRP change_VBP over_IN time_NN ._.
+The_DT analysis_NN of_IN dynamic_JJ networks_NNS is_VBZ important_JJ not_RB only_RB to_TO understand_VB life_NN at_IN the_DT system-level_JJ ,_, but_CC also_RB to_TO discover_VB novel_JJ patterns_NNS in_IN other_JJ structural_JJ data_NNS ._.
+Most_RBS current_JJ graph-based_JJ data_NN mining_NN approaches_NNS overlook_VBP dynamic_JJ features_NNS of_IN biological_JJ networks_NNS ,_, because_IN they_PRP are_VBP focused_VBN on_IN only_JJ static_JJ graphs_NNS ._.
+Our_PRP$ approach_NN analyzes_VBZ a_DT sequence_NN of_IN graphs_NNS and_CC discovers_VBZ rules_NNS that_WDT capture_VBP the_DT changes_NNS that_WDT occur_VBP between_IN pairs_NNS of_IN graphs_NNS in_IN the_DT sequence_NN ._.
+These_DT rules_NNS represent_VBP the_DT graph_NN rewrite_VB rules_NNS that_IN the_DT first_JJ graph_NN must_MD go_VB through_IN to_TO be_VB isomorphic_JJ to_TO the_DT second_JJ graph_NN ._.
+Then_RB ,_, our_PRP$ approach_NN feeds_VBZ the_DT graph_NN rewrite_VB rules_NNS into_IN a_DT machine_NN learning_NN system_NN that_WDT learns_VBZ general_JJ transformation_NN rules_NNS describing_VBG the_DT types_NNS of_IN changes_NNS that_WDT occur_VBP for_IN a_DT class_NN of_IN dynamic_JJ biological_JJ networks_NNS ._.
+The_DT discovered_VBN graph-rewriting_JJ rules_NNS show_VBP how_WRB biological_JJ networks_NNS change_VBP over_IN time_NN ,_, and_CC the_DT transformation_NN rules_NNS show_VBP the_DT repeated_JJ patterns_NNS in_IN the_DT structural_JJ changes_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP apply_VBP our_PRP$ approach_NN to_TO biological_JJ networks_NNS to_TO evaluate_VB our_PRP$ approach_NN and_CC to_TO understand_VB how_WRB the_DT biosystems_NNS change_VBP over_IN time_NN ._.
+We_PRP evaluate_VBP our_PRP$ results_NNS using_VBG coverage_NN and_CC prediction_NN metrics_NNS ,_, and_CC compare_VB to_TO biological_JJ literature_NN ._.

@@ -1,0 +1,6 @@
+Web_NN resource_NN geographic_JJ location_NN classification_NN and_CC detection_NN
+Rapid_JJ pervasion_NN of_IN the_DT web_NN into_IN users_NNS '_POS daily_JJ lives_NNS has_VBZ put_VBN much_JJ importance_NN on_IN capturing_VBG location-specific_JJ information_NN on_IN the_DT web_NN ,_, due_JJ to_TO the_DT fact_NN that_IN most_JJS human_JJ activities_NNS occur_VBP locally_RB around_IN where_WRB a_DT user_NN is_VBZ located_JJ ._.
+This_DT is_VBZ especially_RB true_JJ in_IN the_DT increasingly_RB popular_JJ mobile_JJ and_CC local_JJ search_NN environments_NNS ._.
+Thus_RB ,_, how_WRB to_TO correctly_RB and_CC effectively_RB detect_VB locations_NNS from_IN web_NN resources_NNS has_VBZ become_VBN a_DT key_JJ challenge_NN to_TO location-based_JJ web_NN applications_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP first_RB explicitly_RB distinguish_VB the_DT locations_NNS of_IN web_NN resources_NNS into_IN three_CD types_NNS to_TO cater_VB to_TO different_JJ application_NN needs_NNS :_: 1_LS -RRB-_-RRB- provider_NN location_NN ;_: 2_LS -RRB-_-RRB- content_NN location_NN ;_: and_CC 3_LS -RRB-_-RRB- serving_VBG location_NN ._.
+Then_RB we_PRP describe_VBP a_DT unified_JJ system_NN that_WDT computes_VBZ each_DT of_IN the_DT three_CD locations_NNS ,_, employing_VBG a_DT set_NN of_IN algorithms_NNS and_CC different_JJ geographic_JJ sources_NNS ._.

@@ -1,0 +1,8 @@
+Bias_NNP and_CC controversy_NN :_: beyond_IN the_DT statistical_JJ deviation_NN
+In_IN this_DT paper_NN ,_, we_PRP investigate_VBP how_WRB deviation_NN in_IN evaluation_NN activities_NNS may_MD reveal_VB bias_NN on_IN the_DT part_NN of_IN reviewers_NNS and_CC controversy_NN on_IN the_DT part_NN of_IN evaluated_VBN objects_NNS ._.
+We_PRP focus_VBP on_IN a_DT `_`` data-centric_JJ approach_NN '_'' where_WRB the_DT evaluation_NN data_NNS is_VBZ assumed_VBN to_TO represent_VB the_DT `_`` ground_NN truth_NN '_'' ._.
+The_DT standard_JJ statistical_JJ approaches_NNS take_VBP evaluation_NN and_CC deviation_NN at_IN face_NN value_NN ._.
+We_PRP argue_VBP that_IN attention_NN should_MD be_VB paid_VBN to_TO the_DT subjectivity_NN of_IN evaluation_NN ,_, judging_VBG the_DT evaluation_NN score_NN not_RB just_RB on_IN `_`` what_WP is_VBZ being_VBG said_VBN '_'' -LRB-_-LRB- deviation_NN -RRB-_-RRB- ,_, but_CC also_RB on_IN `_`` who_WP says_VBZ it_PRP '_'' -LRB-_-LRB- reviewer_NN -RRB-_-RRB- as_RB well_RB as_IN on_IN `_`` whom_WP it_PRP is_VBZ said_VBD about_IN '_'' -LRB-_-LRB- object_NN -RRB-_-RRB- ._.
+Furthermore_RB ,_, we_PRP observe_VBP that_IN bias_NN and_CC controversy_NN are_VBP mutually_RB dependent_JJ ,_, as_IN there_EX is_VBZ more_JJR bias_NN if_IN there_EX is_VBZ higher_JJR deviation_NN on_IN a_DT less_RBR controversial_JJ object_NN ._.
+To_TO address_VB this_DT mutual_JJ dependency_NN ,_, we_PRP propose_VBP a_DT reinforcement_NN model_NN to_TO identify_VB bias_NN and_CC controversy_NN ._.
+We_PRP test_VBP our_PRP$ model_NN on_IN real-life_JJ data_NNS to_TO verify_VB its_PRP$ applicability_NN ._.

@@ -1,0 +1,5 @@
+MemoSpace_NNP :_: a_DT visualization_NN tool_NN for_IN web_NN navigation_NN
+A_DT central_JJ aspect_NN of_IN reducing_VBG orientation_NN problems_NNS in_IN web_NN navigation_NN concerns_VBZ the_DT design_NN of_IN adequate_JJ navigation_NN aids_NNS ._.
+Visualization_NN of_IN users_NNS '_POS navigation_NN path_NN in_IN form_NN of_IN a_DT temporal-spatial_JJ template_NN can_MD function_VB as_IN external_JJ memory_NN of_IN users_NNS '_POS search_NN history_NN ,_, thereby_RB supporting_VBG the_DT user_NN to_TO find_VB previously_RB visited_VBN sites_NNS ,_, getting_VBG an_DT overview_NN of_IN the_DT search_NN process_NN and_CC moreover_RB ,_, provide_VBP structure_NN for_IN the_DT complex_JJ WorldWideWeb_NN -LRB-_-LRB- WWW_NN -RRB-_-RRB- environment_NN ._.
+This_DT paper_NN presents_VBZ an_DT application_NN for_IN dynamic_NN 2_CD and_CC 3_CD dimensional_JJ visualizations_NNS of_IN users_NNS '_POS navigation_NN paths_NNS ,_, called_VBN MemoSpace_NNP ._.
+In_IN an_DT explorative_JJ study_NN ,_, users_NNS behavior_NN and_CC subjective_JJ evaluation_NN of_IN a_DT MemoSpace_NNP application_NN was_VBD examined_VBN ._.

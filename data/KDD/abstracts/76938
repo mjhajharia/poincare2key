@@ -1,0 +1,13 @@
+MARK_NNP :_: a_DT boosting_VBG algorithm_NN for_IN heterogeneous_JJ kernel_NN models_NNS
+Support_NN Vector_NNP Machines_NNP and_CC other_JJ kernel_NN methods_NNS have_VBP proven_VBN to_TO be_VB very_RB effective_JJ for_IN nonlinear_JJ inference_NN ._.
+Practical_NNP issues_NNS are_VBP how_WRB to_TO select_VB the_DT type_NN of_IN kernel_NN including_VBG any_DT parameters_NNS and_CC how_WRB to_TO deal_VB with_IN the_DT computational_JJ issues_NNS caused_VBN by_IN the_DT fact_NN that_IN the_DT kernel_NN matrix_NN grows_VBZ quadratically_RB with_IN the_DT data_NNS ._.
+Inspired_VBN by_IN ensemble_NN and_CC boosting_VBG methods_NNS like_IN MART_NNP ,_, we_PRP propose_VBP the_DT Multiple_JJ Additive_JJ Regression_NN Kernels_NNS -LRB-_-LRB- MARK_NNP -RRB-_-RRB- algorithm_NN to_TO address_VB these_DT issues_NNS ._.
+MARK_NNP considers_VBZ a_DT large_JJ -LRB-_-LRB- potentially_RB infinite_JJ -RRB-_-RRB- library_NN of_IN kernel_NN matrices_NNS formed_VBN by_IN different_JJ kernel_NN functions_NNS and_CC parameters_NNS ._.
+Using_VBG gradient_NN boosting\/column_NN generation_NN ,_, MARK_NNP constructs_NNS columns_NNS of_IN the_DT heterogeneous_JJ kernel_NN matrix_NN -LRB-_-LRB- the_DT base_NN hypotheses_NNS -RRB-_-RRB- on_IN the_DT fly_NN and_CC then_RB adds_VBZ them_PRP into_IN the_DT kernel_NN ensemble_NN ._.
+Regularization_NN methods_NNS such_JJ as_IN used_VBN in_IN SVM_NN ,_, kernel_NN ridge_NN regression_NN ,_, and_CC MART_NNP ,_, are_VBP used_VBN to_TO prevent_VB overfitting_NN ._.
+We_PRP investigate_VBP how_WRB MARK_NNP is_VBZ applied_VBN to_TO heterogeneous_JJ kernel_NN ridge_NN regression_NN ._.
+The_DT resulting_VBG algorithm_NN is_VBZ simple_JJ to_TO implement_VB and_CC efficient_JJ ._.
+Kernel_NNP parameter_NN selection_NN is_VBZ handled_VBN within_IN MARK_NNP ._.
+Sampling_NN and_CC ``_`` weak_JJ ''_'' kernels_NNS are_VBP used_VBN to_TO further_RB enhance_VB the_DT computational_JJ efficiency_NN of_IN the_DT resulting_VBG additive_JJ algorithm_NN ._.
+The_DT user_NN can_MD incorporate_VB and_CC potentially_RB extract_NN domain_NN knowledge_NN by_IN restricting_VBG the_DT kernel_NN library_NN to_TO interpretable_JJ kernels_NNS ._.
+MARK_NNP compares_VBZ very_RB favorably_RB with_IN SVM_NN and_CC kernel_NN ridge_NN regression_NN on_IN several_JJ benchmark_JJ datasets_NNS ._.

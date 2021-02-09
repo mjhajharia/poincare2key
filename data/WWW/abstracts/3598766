@@ -1,0 +1,7 @@
+Towards_IN autonomic_JJ web-sites_NNS based_VBN on_IN learning_NN automata_NN
+Autonomics_NNS or_CC self-reorganization_NN becomes_VBZ pertinent_JJ for_IN web-sites_NNS serving_VBG a_DT large_JJ number_NN of_IN users_NNS with_IN highly_RB varying_VBG workloads_NNS ._.
+An_DT important_JJ component_NN of_IN self-adaptation_NN is_VBZ to_TO model_VB the_DT behavior_NN of_IN users_NNS and_CC adapt_VB accordingly_RB ._.
+This_DT paper_NN proposes_VBZ a_DT learning-automata_JJ based_JJ technique_NN for_IN model_NN discovery_NN ._.
+User_NN access_NN patterns_NNS are_VBP used_VBN to_TO construct_VB an_DT FSM_NNP model_NN of_IN user_NN behavior_NN that_IN in_IN turn_NN is_VBZ used_VBN for_IN prediction_NN and_CC prefetching_NN ._.
+The_DT proposed_VBN technique_NN uses_VBZ a_DT generalization_NN algorithm_NN to_TO classify_VB behavior_NN patterns_NNS into_IN a_DT small_JJ number_NN of_IN generalized_JJ classes_NNS ._.
+It_PRP has_VBZ been_VBN tested_VBN on_IN both_CC synthetic_JJ and_CC live_JJ data-sets_NNS and_CC has_VBZ shown_VBN a_DT prediction_NN hit-rate_NN of_IN up_IN to_TO 89_CD %_NN on_IN a_DT real_JJ web-site_NN ._.

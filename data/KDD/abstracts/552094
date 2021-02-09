@@ -1,0 +1,8 @@
+Attack_NN detection_NN in_IN time_NN series_NN for_IN recommender_NN systems_NNS
+Recent_JJ research_NN has_VBZ identified_VBN significant_JJ vulnerabilities_NNS in_IN recommender_NN systems_NNS ._.
+Shilling_NNP attacks_NNS ,_, in_IN which_WDT attackers_NNS introduce_VBP biased_VBN ratings_NNS in_IN order_NN to_TO influence_VB future_JJ recommendations_NNS ,_, have_VBP been_VBN shown_VBN to_TO be_VB effective_JJ against_IN collaborative_JJ filtering_VBG algorithms_NNS ._.
+We_PRP postulate_VBP that_IN the_DT distribution_NN of_IN item_NN ratings_NNS in_IN time_NN can_MD reveal_VB the_DT presence_NN of_IN a_DT wide_JJ range_NN of_IN shilling_VBG attacks_NNS given_VBN reasonable_JJ assumptions_NNS about_IN their_PRP$ duration_NN ._.
+To_TO construct_VB a_DT time_NN series_NN of_IN ratings_NNS for_IN an_DT item_NN ,_, we_PRP use_VBP a_DT window_NN size_NN of_IN k_NN to_TO group_NN consecutive_JJ ratings_NNS for_IN the_DT item_NN into_IN disjoint_JJ windows_NNS and_CC compute_VB the_DT sample_NN average_NN and_CC sample_NN entropy_NN in_IN each_DT window_NN ._.
+We_PRP derive_VBP a_DT theoretically_RB optimal_JJ window_NN size_NN to_TO best_RB detect_VB an_DT attack_NN event_NN if_IN the_DT number_NN of_IN attack_NN profiles_NNS is_VBZ known_VBN ._.
+For_IN practical_JJ applications_NNS where_WRB this_DT number_NN is_VBZ unknown_JJ ,_, we_PRP propose_VBP a_DT heuristic_NN algorithm_NN that_WDT adaptively_RB changes_VBZ the_DT window_NN size_NN ._.
+Our_PRP$ experimental_JJ results_NNS demonstrate_VBP that_IN monitoring_NN rating_NN distributions_NNS in_IN time_NN series_NN is_VBZ an_DT effective_JJ approach_NN for_IN detecting_VBG shilling_NN attacks_NNS ._.

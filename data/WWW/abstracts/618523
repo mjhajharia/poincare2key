@@ -1,0 +1,10 @@
+Dynamic_NNP maintenance_NN of_IN web_NN indexes_NNS using_VBG landmarks_NNS
+Recent_JJ work_NN on_IN incremental_JJ crawling_NN has_VBZ enabled_VBN the_DT indexed_VBN document_NN collection_NN of_IN a_DT search_NN engine_NN to_TO be_VB more_RBR synchronized_VBN with_IN the_DT changing_VBG World_NN Wide_NN Web_NN ._.
+However_RB ,_, this_DT synchronized_VBN collection_NN is_VBZ not_RB immediately_RB searchable_JJ ,_, because_IN the_DT keyword_JJ index_NN is_VBZ rebuilt_VBN from_IN scratch_NN less_RBR frequently_RB than_IN the_DT collection_NN can_MD be_VB refreshed_VBN ._.
+An_DT inverted_JJ index_NN is_VBZ usually_RB used_VBN to_TO index_NN documents_NNS crawled_VBD from_IN the_DT web_NN ._.
+Complete_JJ index_NN rebuild_VB at_IN high_JJ frequency_NN is_VBZ expensive_JJ ._.
+Previous_JJ work_NN on_IN incremental_JJ inverted_JJ index_NN updates_NNS have_VBP been_VBN restricted_JJ to_TO adding_VBG and_CC removing_VBG documents_NNS ._.
+Updating_VBG the_DT inverted_JJ index_NN for_IN previously_RB indexed_VBN documents_NNS that_WDT have_VBP changed_VBN has_VBZ not_RB been_VBN addressed_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT efficient_JJ method_NN to_TO update_VB the_DT inverted_JJ index_NN for_IN previously_RB indexed_VBN documents_NNS whose_WP$ contents_NNS have_VBP changed_VBN ._.
+Our_PRP$ method_NN uses_VBZ the_DT idea_NN of_IN landmarks_NNS together_RB with_IN the_DT diff_JJ algorithm_NN to_TO significantly_RB reduce_VB the_DT number_NN of_IN postings_NNS in_IN the_DT inverted_JJ index_NN that_WDT need_VBP to_TO be_VB updated_VBN ._.
+Our_PRP$ experiments_NNS verify_VBP that_IN our_PRP$ landmark-diff_JJ method_NN results_VBZ in_IN significant_JJ savings_NNS in_IN the_DT number_NN of_IN update_VB operations_NNS on_IN the_DT inverted_JJ index_NN ._.

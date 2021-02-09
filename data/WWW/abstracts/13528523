@@ -1,0 +1,7 @@
+Web_NN image_NN retrieval_NN reranking_VBG with_IN multi-view_JJ clustering_NN
+General_JJ image_NN retrieval_NN is_VBZ often_RB carried_VBN out_RP by_IN a_DT text-based_JJ search_NN engine_NN ,_, such_JJ as_IN Google_NNP Image_NN Search_VB ._.
+In_IN this_DT case_NN ,_, natural_JJ language_NN queries_NNS are_VBP used_VBN as_IN input_NN to_TO the_DT search_NN engine_NN ._.
+Usually_RB ,_, the_DT user_NN queries_NNS are_VBP quite_RB ambiguous_JJ and_CC the_DT returned_VBN results_NNS are_VBP not_RB well-organized_JJ as_IN the_DT ranking_NN often_RB done_VBN by_IN the_DT popularity_NN of_IN an_DT image_NN ._.
+In_IN order_NN to_TO address_VB these_DT problems_NNS ,_, we_PRP propose_VBP to_TO use_VB both_CC textual_JJ and_CC visual_JJ contents_NNS of_IN retrieved_VBN images_NNS to_TO reRank_NN web_NN retrieved_VBD results_NNS ._.
+In_IN particular_JJ ,_, a_DT machine_NN learning_NN technique_NN ,_, a_DT multi-view_JJ clustering_NN algorithm_NN is_VBZ proposed_VBN to_TO reorganize_VB the_DT original_JJ results_NNS provided_VBN by_IN the_DT text-based_JJ search_NN engine_NN ._.
+Preliminary_JJ results_NNS validate_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN framework_NN ._.

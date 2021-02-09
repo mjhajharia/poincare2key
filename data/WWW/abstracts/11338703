@@ -1,0 +1,12 @@
+Enabling_VBG entity-based_JJ aggregators_NNS for_IN web_NN 2.0_CD data_NNS
+Selecting_VBG and_CC presenting_VBG content_NN culled_VBN from_IN multiple_JJ heterogeneous_JJ and_CC physically_RB distributed_VBN sources_NNS is_VBZ a_DT challenging_JJ task_NN ._.
+The_DT exponential_JJ growth_NN of_IN the_DT web_NN data_NNS in_IN modern_JJ times_NNS has_VBZ brought_VBN new_JJ requirements_NNS to_TO such_JJ integration_NN systems_NNS ._.
+Data_NN is_VBZ not_RB any_DT more_RBR produced_VBN by_IN content_NN providers_NNS alone_RB ,_, but_CC also_RB from_IN regular_JJ users_NNS through_IN the_DT highly_RB popular_JJ Web_NN 2.0_CD social_JJ and_CC semantic_JJ web_NN applications_NNS ._.
+The_DT plethora_NN of_IN the_DT available_JJ web_NN content_NN increased_VBD its_PRP$ demand_NN by_IN regular_JJ users_NNS who_WP could_MD not_RB any_DT more_JJR wait_NN the_DT development_NN of_IN advanced_JJ integration_NN tools_NNS ._.
+They_PRP wanted_VBD to_TO be_VB able_JJ to_TO build_VB in_IN a_DT short_JJ time_NN their_PRP$ own_JJ specialized_JJ integration_NN applications_NNS ._.
+Aggregators_NNS came_VBD to_TO the_DT risk_NN of_IN these_DT users_NNS ._.
+They_PRP allowed_VBD them_PRP not_RB only_RB to_TO combine_VB distributed_VBN content_NN ,_, but_CC also_RB to_TO process_VB it_PRP in_IN ways_NNS that_WDT generate_VBP new_JJ services_NNS available_JJ for_IN further_JJ consumption_NN ._.
+To_TO cope_VB with_IN the_DT heterogeneous_JJ data_NNS ,_, the_DT Linked_NNP Data_NNP initiative_NN aims_VBZ at_IN the_DT creation_NN and_CC exploitation_NN of_IN correspondences_NNS across_IN data_NNS values_NNS ._.
+In_IN this_DT work_NN ,_, although_IN we_PRP share_VBP the_DT Linked_NNP Data_NNP community_NN vision_NN ,_, we_PRP advocate_VBP that_IN for_IN the_DT modern_JJ web_NN ,_, linking_VBG at_IN the_DT data_NNS value_NN level_NN is_VBZ not_RB enough_RB ._.
+Aggregators_NNS should_MD base_VB their_PRP$ integration_NN tasks_NNS on_IN the_DT concept_NN of_IN an_DT entity_NN ,_, i.e._FW ,_, identifying_VBG whether_IN different_JJ pieces_NNS of_IN information_NN correspond_VBP to_TO the_DT same_JJ real_JJ world_NN entity_NN ,_, such_JJ as_IN an_DT event_NN or_CC a_DT person_NN ._.
+We_PRP describe_VBP our_PRP$ theory_NN ,_, system_NN ,_, and_CC experimental_JJ results_NNS that_WDT illustrate_VBP the_DT approach_NN 's_POS effectiveness_NN ._.

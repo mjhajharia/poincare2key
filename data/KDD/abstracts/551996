@@ -1,0 +1,4 @@
+CLOPE_NNP :_: a_DT fast_JJ and_CC effective_JJ clustering_NN algorithm_NN for_IN transactional_JJ data_NNS
+This_DT paper_NN studies_VBZ the_DT problem_NN of_IN categorical_JJ data_NNS clustering_NN ,_, especially_RB for_IN transactional_JJ data_NNS characterized_VBN by_IN high_JJ dimensionality_NN and_CC large_JJ volume_NN ._.
+Starting_VBG from_IN a_DT heuristic_NN method_NN of_IN increasing_VBG the_DT height-to-width_JJ ratio_NN of_IN the_DT cluster_NN histogram_NN ,_, we_PRP develop_VBP a_DT novel_JJ algorithm_NN --_: CLOPE_NN ,_, which_WDT is_VBZ very_RB fast_JJ and_CC scalable_JJ ,_, while_IN being_VBG quite_RB effective_JJ ._.
+We_PRP demonstrate_VBP the_DT performance_NN of_IN our_PRP$ algorithm_NN on_IN two_CD real_JJ world_NN datasets_NNS ,_, and_CC compare_VB CLOPE_NNP with_IN the_DT state-of-art_JJ algorithms_NNS ._.

@@ -1,0 +1,11 @@
+Estimating_VBG the_DT impressionrank_NN of_IN web_NN pages_NNS
+The_DT ImpressionRank_NN of_IN a_DT web_NN page_NN -LRB-_-LRB- or_CC ,_, more_RBR generally_RB ,_, of_IN a_DT web_NN site_NN -RRB-_-RRB- is_VBZ the_DT number_NN of_IN times_NNS users_NNS viewed_VBD the_DT page_NN while_IN browsing_VBG search_NN results_NNS ._.
+ImpressionRank_NNP captures_VBZ the_DT visibility_NN of_IN pages_NNS and_CC sites_NNS in_IN search_NN engines_NNS and_CC is_VBZ thus_RB an_DT important_JJ measure_NN ,_, which_WDT is_VBZ of_IN interest_NN to_TO web_NN site_NN owners_NNS ,_, competitors_NNS ,_, market_NN analysts_NNS ,_, and_CC end_NN users_NNS ._.
+All_DT previous_JJ approaches_NNS to_TO estimating_VBG the_DT ImpressionRank_NN of_IN a_DT page_NN rely_VB on_IN privileged_JJ access_NN to_TO private_JJ data_NNS sources_NNS ,_, like_IN the_DT search_NN engine_NN 's_POS query_NN log_NN ._.
+In_IN this_DT paper_NN we_PRP present_VBP the_DT first_JJ external_JJ algorithm_NN for_IN estimating_VBG the_DT ImpressionRank_NN of_IN a_DT web_NN page_NN ._.
+This_DT algorithm_NN relies_VBZ on_IN access_NN to_TO three_CD public_JJ data_NNS sources_NNS :_: the_DT search_NN engine_NN ,_, the_DT query_NN suggestion_NN service_NN of_IN the_DT search_NN engine_NN ,_, and_CC the_DT web_NN ._.
+In_IN addition_NN ,_, the_DT algorithm_NN is_VBZ local_JJ and_CC uses_VBZ modest_JJ resources_NNS ._.
+It_PRP can_MD therefore_RB be_VB used_VBN by_IN almost_RB any_DT party_NN to_TO estimate_VB the_DT ImpressionRank_NN of_IN any_DT page_NN on_IN any_DT search_NN engine_NN ._.
+En_NN route_NN to_TO estimating_VBG the_DT ImpressionRank_NN of_IN a_DT page_NN ,_, our_PRP$ algorithm_NN solves_VBZ a_DT novel_JJ variant_NN of_IN the_DT keyword_JJ extraction_NN problem_NN :_: it_PRP finds_VBZ the_DT most_RBS popular_JJ search_NN keywords_NNS that_WDT drive_VBP impressions_NNS of_IN a_DT page_NN ._.
+Empirical_JJ analysis_NN of_IN the_DT algorithm_NN on_IN the_DT Google_NNP and_CC Yahoo_NNP !_.
+search_NN engines_NNS indicates_VBZ that_IN it_PRP is_VBZ accurate_JJ and_CC provides_VBZ interesting_JJ insights_NNS about_IN sites_NNS and_CC search_NN queries_NNS ._.

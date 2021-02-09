@@ -1,0 +1,6 @@
+Where_WRB to_TO adapt_VB dynamic_JJ service_NN compositions_NNS
+Peer_JJR services_NNS depend_VBP on_IN one_CD another_DT to_TO accomplish_VB their_PRP$ tasks_NNS ,_, and_CC their_PRP$ structures_NNS may_MD evolve_VB ._.
+A_DT service_NN composition_NN may_MD be_VB designed_VBN to_TO replace_VB its_PRP$ member_NN services_NNS whenever_WRB the_DT quality_NN of_IN the_DT composite_JJ service_NN fails_VBZ to_TO meet_VB certain_JJ quality-of-service_NN -LRB-_-LRB- QoS_NN -RRB-_-RRB- requirements_NNS ._.
+Finding_VBG services_NNS and_CC service_NN invocation_NN endpoints_NNS having_VBG the_DT greatest_JJS impact_NN on_IN the_DT quality_NN are_VBP important_JJ to_TO guide_VB subsequent_JJ service_NN adaptations_NNS ._.
+This_DT paper_NN proposes_VBZ a_DT technique_NN that_IN samples_NNS the_DT QoS_NN of_IN composite_JJ services_NNS and_CC continually_RB analyzes_VBZ them_PRP to_TO identify_VB artifacts_NNS for_IN service_NN adaptation_NN ._.
+The_DT preliminary_JJ results_NNS show_VBP that_IN our_PRP$ technique_NN has_VBZ the_DT potential_NN to_TO effectively_RB find_VB such_JJ artifacts_NNS in_IN services_NNS ._.

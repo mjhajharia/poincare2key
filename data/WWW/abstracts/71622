@@ -1,0 +1,10 @@
+Delivering_VBG web_NN service_NN coordination_NN capability_NN to_TO users_NNS
+As_IN web_NN service_NN technology_NN matures_VBZ there_EX is_VBZ growing_VBG interest_NN in_IN exploiting_VBG workflow_NN techniques_NNS to_TO coordinate_VB web_NN services_NNS ._.
+Bioinformaticians_NNS are_VBP a_DT user_NN community_NN who_WP combine_VBP web_NN resources_NNS to_TO perform_VB in_IN silico_NN experiments_NNS ._.
+These_DT users_NNS are_VBP scientists_NNS and_CC not_RB information_NN technology_NN experts_NNS they_PRP require_VBP workflow_NN solutions_NNS that_WDT have_VBP a_DT low_JJ cost_NN of_IN entry_NN for_IN service_NN users_NNS and_CC providers_NNS ._.
+Problems_NNS satisfying_VBG these_DT requirements_NNS with_IN current_JJ techniques_NNS led_VBD to_TO the_DT development_NN of_IN the_DT Simple_JJ conceptual_JJ unified_JJ flow_NN language_NN -LRB-_-LRB- Scufl_NN -RRB-_-RRB- ._.
+Scufl_NNP is_VBZ supported_VBN by_IN the_DT Freefluo_NNP enactment_NN engine_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, and_CC the_DT Taverna_NNP editing_NN workbench_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+The_DT extensibility_NN of_IN Scufl_NNP ,_, supported_VBN by_IN these_DT tools_NNS ,_, means_VBZ that_IN workflows_NNS coordinating_VBG web_NN services_NNS can_MD be_VB matched_VBN to_TO how_WRB users_NNS view_VBP their_PRP$ problems_NNS ._.
+The_DT Taverna_NNP workbench_NN exploits_VBZ the_DT web_NN to_TO keep_VB Scufl_NNP simple_JJ by_IN retrieving_VBG detail_NN from_IN URIs_NNS when_WRB required_VBN ,_, and_CC by_IN scavenging_NN the_DT web_NN for_IN services_NNS ._.
+Scufl_NNP and_CC its_PRP$ tools_NNS are_VBP not_RB bioinformatics_NNS specific_JJ ._.
+They_PRP can_MD be_VB exploited_VBN by_IN other_JJ communities_NNS who_WP require_VBP user-driven_JJ composition_NN and_CC execution_NN of_IN workflows_NNS coordinating_VBG web_NN resources_NNS ._.

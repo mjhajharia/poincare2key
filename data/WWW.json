@@ -1,0 +1,9 @@
+{
+  "dataset_identifier": "WWW",
+  "reference": {
+    "test": "datasets/WWW/references/test.author.stem.json"
+  },
+  "files": [
+    "test.json"
+  ]
+}

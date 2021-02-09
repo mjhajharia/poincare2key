@@ -1,0 +1,8 @@
+Deriving_VBG knowledge_NN from_IN figures_NNS for_IN digital_JJ libraries_NNS
+Figures_NNS in_IN digital_JJ documents_NNS contain_VBP important_JJ information_NN ._.
+Current_JJ digital_JJ libraries_NNS do_VBP not_RB summarize_VB and_CC index_NN information_NN available_JJ within_IN figures_NNS for_IN document_NN retrieval_NN ._.
+We_PRP present_VBP our_PRP$ system_NN on_IN automatic_JJ categorization_NN of_IN figures_NNS and_CC extraction_NN of_IN data_NNS from_IN 2-D_JJ plots_NNS ._.
+A_DT machine-learning_JJ based_JJ method_NN is_VBZ used_VBN to_TO categorize_VB figures_NNS into_IN a_DT set_NN of_IN predefined_JJ types_NNS based_VBN on_IN image_NN features_NNS ._.
+An_DT automated_JJ algorithm_NN is_VBZ designed_VBN to_TO extract_VB data_NN values_NNS from_IN solid_JJ line_NN curves_NNS in_IN 2-D_JJ plots_NNS ._.
+The_DT semantic_JJ type_NN of_IN figures_NNS and_CC extracted_VBN data_NNS values_NNS from_IN 2-D_JJ plots_NNS can_MD be_VB integrated_VBN with_IN textual_JJ information_NN within_IN documents_NNS to_TO provide_VB more_RBR effective_JJ document_NN retrieval_NN services_NNS for_IN digital_JJ library_NN users_NNS ._.
+Experimental_JJ evaluation_NN has_VBZ demonstrated_VBN that_IN our_PRP$ system_NN can_MD produce_VB results_NNS suitable_JJ for_IN real-world_JJ use_NN ._.

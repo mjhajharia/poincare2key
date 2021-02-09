@@ -1,0 +1,11 @@
+Mind_VB the_DT data_NNS skew_VBP :_: distributed_VBN inferencing_NN by_IN speeddating_VBG in_IN elastic_JJ regions_NNS
+Semantic_JJ Web_NN data_NNS exhibits_VBZ very_RB skewed_JJ frequency_NN distributions_NNS among_IN terms_NNS ._.
+Efficient_JJ large-scale_JJ distributed_VBN reasoning_NN methods_NNS should_MD maintain_VB load-balance_NN in_IN the_DT face_NN of_IN such_JJ highly_RB skewed_JJ distribution_NN of_IN input_NN data_NNS ._.
+We_PRP show_VBP that_IN term-based_JJ partitioning_NN ,_, used_VBN by_IN most_JJS distributed_VBN reasoning_NN approaches_NNS ,_, has_VBZ limited_VBN scalability_NN due_JJ to_TO load-balancing_JJ problems_NNS ._.
+We_PRP address_VBP this_DT problem_NN with_IN a_DT method_NN for_IN data_NNS distribution_NN based_VBN on_IN clustering_NN in_IN elastic_JJ regions_NNS ._.
+Instead_RB of_IN as_IN -_: signing_VBG data_NNS to_TO fixed_JJ peers_NNS ,_, data_NNS flows_VBZ semi-randomly_RB in_IN the_DT network_NN ._.
+Data_NN items_NNS ``_`` speed-date_NN ''_'' while_IN being_VBG temporarily_RB collocated_VBN in_IN the_DT same_JJ peer_VB ._.
+We_PRP introduce_VBP a_DT bias_NN in_IN the_DT routing_VBG to_TO allow_VB semantically_RB clustered_VBN neighborhoods_NNS to_TO emerge_VB ._.
+Our_PRP$ approach_NN is_VBZ self-organising_JJ ,_, efficient_JJ and_CC does_VBZ not_RB require_VB any_DT central_JJ coordination_NN ._.
+We_PRP have_VBP implemented_VBN this_DT method_NN on_IN the_DT MaRVIN_NN platform_NN and_CC have_VBP performed_VBN experiments_NNS on_IN large_JJ real-world_JJ datasets_NNS ,_, using_VBG a_DT cluster_NN of_IN up_IN to_TO 64_CD nodes_NNS ._.
+We_PRP compute_VBP the_DT RDFS_NN closure_NN over_IN different_JJ datasets_NNS and_CC show_VBP that_IN our_PRP$ clustering_NN algorithm_NN drastically_RB reduces_VBZ computation_NN time_NN ,_, calculating_VBG the_DT RDFS_NN closure_NN of_IN 200_CD million_CD triples_NNS in_IN 7.2_CD minutes_NNS ._.

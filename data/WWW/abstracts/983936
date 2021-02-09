@@ -1,0 +1,10 @@
+Predicting_VBG clicks_NNS :_: estimating_VBG the_DT click-through_JJ rate_NN for_IN new_JJ ads_NNS
+Search_VB engine_NN advertising_NN has_VBZ become_VBN a_DT significant_JJ element_NN of_IN the_DT Web_NN browsing_VBG experience_NN ._.
+Choosing_VBG the_DT right_JJ ads_NNS for_IN the_DT query_NN and_CC the_DT order_NN in_IN which_WDT they_PRP are_VBP displayed_VBN greatly_RB affects_VBZ the_DT probability_NN that_IN a_DT user_NN will_MD see_VB and_CC click_VB on_IN each_DT ad_NN ._.
+This_DT ranking_NN has_VBZ a_DT strong_JJ impact_NN on_IN the_DT revenue_NN the_DT search_NN engine_NN receives_VBZ from_IN the_DT ads_NNS ._.
+Further_RB ,_, showing_VBG the_DT user_NN an_DT ad_NN that_IN they_PRP prefer_VBP to_TO click_VB on_IN improves_VBZ user_NN satisfaction_NN ._.
+For_IN these_DT reasons_NNS ,_, it_PRP is_VBZ important_JJ to_TO be_VB able_JJ to_TO accurately_RB estimate_VB the_DT click-through_JJ rate_NN of_IN ads_NNS in_IN the_DT system_NN ._.
+For_IN ads_NNS that_WDT have_VBP been_VBN displayed_VBN repeatedly_RB ,_, this_DT is_VBZ empirically_RB measurable_JJ ,_, but_CC for_IN new_JJ ads_NNS ,_, other_JJ means_NNS must_MD be_VB used_VBN ._.
+We_PRP show_VBP that_IN we_PRP can_MD use_VB features_NNS of_IN ads_NNS ,_, terms_NNS ,_, and_CC advertisers_NNS to_TO learn_VB a_DT model_NN that_WDT accurately_RB predicts_VBZ the_DT click-though_JJ rate_NN for_IN new_JJ ads_NNS ._.
+We_PRP also_RB show_VBP that_IN using_VBG our_PRP$ model_NN improves_VBZ the_DT convergence_NN and_CC performance_NN of_IN an_DT advertising_NN system_NN ._.
+As_IN a_DT result_NN ,_, our_PRP$ model_NN increases_VBZ both_CC revenue_NN and_CC user_NN satisfaction_NN ._.

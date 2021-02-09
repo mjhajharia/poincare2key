@@ -1,0 +1,6 @@
+Joint_JJ relevance_NN and_CC freshness_NN learning_NN from_IN clickthroughs_NNS for_IN news_NN search_NN
+In_IN contrast_NN to_TO traditional_JJ Web_NN search_NN ,_, where_WRB topical_JJ relevance_NN is_VBZ often_RB the_DT main_JJ selection_NN criterion_NN ,_, news_NN search_NN is_VBZ characterized_VBN by_IN the_DT increased_VBN importance_NN of_IN freshness_NN ._.
+However_RB ,_, the_DT estimation_NN of_IN relevance_NN and_CC freshness_NN ,_, and_CC especially_RB the_DT relative_JJ importance_NN of_IN these_DT two_CD aspects_NNS ,_, are_VBP highly_RB specific_JJ to_TO the_DT query_NN and_CC the_DT time_NN when_WRB the_DT query_NN was_VBD issued_VBN ._.
+In_IN this_DT work_NN ,_, we_PRP propose_VBP a_DT unified_JJ framework_NN for_IN modeling_NN the_DT topical_JJ relevance_NN and_CC freshness_NN ,_, as_RB well_RB as_IN their_PRP$ relative_JJ importance_NN ,_, based_VBN on_IN click_VB logs_NNS ._.
+We_PRP use_VBP click_VB statistics_NNS and_CC content_NN analysis_NN techniques_NNS to_TO define_VB a_DT set_NN of_IN temporal_JJ features_NNS ,_, which_WDT predict_VBP the_DT right_JJ mix_NN of_IN freshness_NN and_CC relevance_NN for_IN a_DT given_VBN query_NN ._.
+Experimental_JJ results_NNS on_IN both_CC historical_JJ click_VBP data_NNS and_CC editorial_NN judgments_NNS demonstrate_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN approach_NN ._.

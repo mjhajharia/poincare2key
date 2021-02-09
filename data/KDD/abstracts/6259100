@@ -1,0 +1,11 @@
+Summarizing_VBG itemset_NN patterns_NNS using_VBG probabilistic_JJ models_NNS
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ probabilistic_JJ approach_NN to_TO summarize_VB frequent_JJ itemset_NN patterns_NNS ._.
+Such_JJ techniques_NNS are_VBP useful_JJ for_IN summarization_NN ,_, post-processing_NN ,_, and_CC end-user_JJ interpretation_NN ,_, particularly_RB for_IN problems_NNS where_WRB the_DT resulting_VBG set_NN of_IN patterns_NNS are_VBP huge_JJ ._.
+In_IN our_PRP$ approach_NN items_NNS in_IN the_DT dataset_NN are_VBP modeled_VBN as_IN random_JJ variables_NNS ._.
+We_PRP then_RB construct_VBP a_DT Markov_NNP Random_NNP Fields_NNP -LRB-_-LRB- MRF_NNP -RRB-_-RRB- on_IN these_DT variables_NNS based_VBN on_IN frequent_JJ itemsets_NNS and_CC their_PRP$ occurrence_NN statistics_NNS ._.
+The_DT summarization_NN proceeds_VBZ in_IN a_DT level-wise_JJ iterative_JJ fashion_NN ._.
+Occurrence_NN statistics_NNS of_IN itemsets_NNS at_IN the_DT lowest_JJS level_NN are_VBP used_VBN to_TO construct_VB an_DT initial_JJ MRF_NN ._.
+Statistics_NNS of_IN itemsets_NNS at_IN the_DT next_JJ level_NN can_MD then_RB be_VB inferred_VBN from_IN the_DT model_NN ._.
+We_PRP use_VBP those_DT patterns_NNS whose_WP$ occurrence_NN can_MD not_RB be_VB accurately_RB inferred_VBN from_IN the_DT model_NN to_TO augment_VB the_DT model_NN in_IN an_DT iterative_JJ manner_NN ,_, repeating_VBG the_DT procedure_NN until_IN all_DT frequent_JJ itemsets_NNS can_MD be_VB modeled_VBN ._.
+The_DT resulting_VBG MRF_NN model_NN affords_VBZ a_DT concise_JJ and_CC useful_JJ representation_NN of_IN the_DT original_JJ collection_NN of_IN itemsets_NNS ._.
+Extensive_JJ empirical_JJ study_NN on_IN real_JJ datasets_NNS show_VBP that_IN the_DT new_JJ approach_NN can_MD effectively_RB summarize_VB a_DT large_JJ number_NN of_IN itemsets_NNS and_CC typically_RB significantly_RB outperforms_VBZ extant_JJ approaches_NNS ._.

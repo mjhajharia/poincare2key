@@ -1,0 +1,3 @@
+OWL_NN FA_NN :_: a_DT metamodeling_JJ extension_NN of_IN OWL_NN D_NN
+This_DT paper_NN proposes_VBZ OWL_NNP FA_NNP ,_, a_DT decidable_JJ extension_NN of_IN OWL_NN DL_NN with_IN the_DT metamodeling_JJ architecture_NN of_IN RDFS_NN -LRB-_-LRB- FA_NN -RRB-_-RRB- ._.
+It_PRP shows_VBZ that_IN the_DT knowledge_NN base_NN satisfiability_NN problem_NN of_IN OWL_NN FA_NN can_MD be_VB reduced_VBN to_TO that_DT of_IN OWL_NN DL_NN ,_, and_CC compares_VBZ the_DT FA_NNP semantics_NNS with_IN the_DT recently_RB proposed_VBN contextual_JJ semantics_NNS and_CC Hilog_NNP semantics_NNS for_IN OWL_NN ._.

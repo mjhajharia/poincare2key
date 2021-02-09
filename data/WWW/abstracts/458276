@@ -1,0 +1,7 @@
+Index_NN structures_NNS and_CC algorithms_NNS for_IN querying_VBG distributed_VBN RDF_NN repositories_NNS
+A_DT technical_JJ infrastructure_NN for_IN storing_VBG ,_, querying_VBG and_CC managing_VBG RDFdata_NN is_VBZ a_DT key_JJ element_NN in_IN the_DT current_JJ semantic_JJ web_NN development_NN ._.
+Systems_NNP like_IN Jena_NNP ,_, Sesame_NNP or_CC the_DT ICS-FORTH_NN RDF_NN Suite_NN are_VBP widelyused_VBN for_IN building_VBG semantic_JJ web_NN applications_NNS ._.
+Currently_RB ,_, none_NN ofthese_NN systems_NNS supports_VBZ the_DT integrated_JJ querying_NN of_IN distributed_VBN RDF_NN repositories_NNS ._.
+We_PRP consider_VBP this_DT a_DT major_JJ shortcoming_NN since_IN the_DT semanticweb_NN is_VBZ distributed_VBN by_IN nature_NN ._.
+In_IN this_DT paper_NN we_PRP present_VBP an_DT architecture_NN for_IN querying_VBG distributed_VBN RDF_NN repositories_NNS by_IN extending_VBG the_DT existing_VBG Sesame_NNP system_NN ._.
+We_PRP discuss_VBP the_DT implications_NNS of_IN our_PRP$ architectureand_NN propose_VBP an_DT index_NN structure_NN as_RB well_RB as_IN algorithms_NNS forquery_NN processing_NN and_CC optimization_NN in_IN such_JJ a_DT distributed_VBN context_NN ._.

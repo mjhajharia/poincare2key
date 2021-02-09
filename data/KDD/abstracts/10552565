@@ -1,0 +1,11 @@
+Beyond_NNP heuristics_NNS :_: learning_VBG to_TO classify_VB vulnerabilities_NNS and_CC predict_VB exploits_NNS
+The_DT security_NN demands_NNS on_IN modern_JJ system_NN administration_NN are_VBP enormous_JJ and_CC getting_VBG worse_JJR ._.
+Chief_JJ among_IN these_DT demands_NNS ,_, administrators_NNS must_MD monitor_VB the_DT continual_JJ ongoing_JJ disclosure_NN of_IN software_NN vulnerabilities_NNS that_WDT have_VBP the_DT potential_NN to_TO compromise_VB their_PRP$ systems_NNS in_IN some_DT way_NN ._.
+Such_JJ vulnerabilities_NNS include_VBP buffer_NN overflow_NN errors_NNS ,_, improperly_RB validated_VBN inputs_NNS ,_, and_CC other_JJ unanticipated_JJ attack_NN modalities_NNS ._.
+In_IN 2008_CD ,_, over_IN 7,400_CD new_JJ vulnerabilities_NNS were_VBD disclosed_VBN --_: well_RB over_IN 100_CD per_IN week_NN ._.
+While_IN no_DT enterprise_NN is_VBZ affected_VBN by_IN all_DT of_IN these_DT disclosures_NNS ,_, administrators_NNS commonly_RB face_VBP many_JJ outstanding_JJ vulnerabilities_NNS across_IN the_DT software_NN systems_NNS they_PRP manage_VBP ._.
+Vulnerabilities_NNS can_MD be_VB addressed_VBN by_IN patches_NNS ,_, reconfigurations_NNS ,_, and_CC other_JJ workarounds_NNS ;_: however_RB ,_, these_DT actions_NNS may_MD incur_VB down-time_NN or_CC unforeseen_JJ side-effects_NNS ._.
+Thus_RB ,_, a_DT key_JJ question_NN for_IN systems_NNS administrators_NNS is_VBZ which_WDT vulnerabilities_NNS to_TO prioritize_VB ._.
+From_IN publicly_RB available_JJ databases_NNS that_WDT document_VBP past_JJ vulnerabilities_NNS ,_, we_PRP show_VBP how_WRB to_TO train_VB classifiers_NNS that_WDT predict_VBP whether_IN and_CC how_WRB soon_RB a_DT vulnerability_NN is_VBZ likely_JJ to_TO be_VB exploited_VBN ._.
+As_IN input_NN ,_, our_PRP$ classifiers_NNS operate_VBP on_IN high_JJ dimensional_JJ feature_NN vectors_NNS that_IN we_PRP extract_VBP from_IN the_DT text_NN fields_NNS ,_, time_NN stamps_NNS ,_, cross_NN references_NNS ,_, and_CC other_JJ entries_NNS in_IN existing_VBG vulnerability_NN disclosure_NN reports_NNS ._.
+Compared_VBN to_TO current_JJ industry-standard_JJ heuristics_NNS based_VBN on_IN expert_NN knowledge_NN and_CC static_JJ formulas_NNS ,_, our_PRP$ classifiers_NNS predict_VBP much_RB more_RBR accurately_RB whether_IN and_CC how_WRB soon_RB individual_JJ vulnerabilities_NNS are_VBP likely_JJ to_TO be_VB exploited_VBN ._.

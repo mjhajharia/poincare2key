@@ -1,0 +1,9 @@
+Document_NNP preprocessing_VBG for_IN naive_JJ Bayes_NNP classification_NN and_CC clustering_NN with_IN mixture_NN of_IN multinomials_NNS
+Naive_JJ Bayes_NNP classifier_NN has_VBZ long_RB been_VBN used_VBN for_IN text_NN categorization_NN tasks_NNS ._.
+Its_PRP$ sibling_NN from_IN the_DT unsupervised_JJ world_NN ,_, the_DT probabilistic_JJ mixture_NN of_IN multinomial_JJ models_NNS ,_, has_VBZ likewise_RB been_VBN successfully_RB applied_VBN to_TO text_NN clustering_NN problems_NNS ._.
+Despite_IN the_DT strong_JJ independence_NN assumptions_NNS that_IN these_DT models_NNS make_VBP ,_, their_PRP$ attractiveness_NN come_VBN from_IN low_JJ computational_JJ cost_NN ,_, relatively_RB low_JJ memory_NN consumption_NN ,_, ability_NN to_TO handle_VB heterogeneous_JJ features_NNS and_CC multiple_JJ classes_NNS ,_, and_CC often_RB competitiveness_NN with_IN the_DT top_NN of_IN the_DT line_NN models_NNS ._.
+Recently_RB ,_, there_EX has_VBZ been_VBN several_JJ attempts_NNS to_TO alleviate_VB the_DT problems_NNS of_IN Naive_JJ Bayes_NNS by_IN performing_VBG heuristic_NN feature_NN transformations_NNS ,_, such_JJ as_IN IDF_NN ,_, normalization_NN by_IN the_DT length_NN of_IN the_DT documents_NNS and_CC taking_VBG the_DT logarithms_NNS of_IN the_DT counts_NNS ._.
+We_PRP justify_VBP the_DT use_NN of_IN these_DT techniques_NNS and_CC apply_VB them_PRP to_TO two_CD problems_NNS :_: classification_NN of_IN products_NNS in_IN Yahoo_NNP !_.
+Shopping_NNP and_CC clustering_VBG the_DT vectors_NNS of_IN collocated_VBN terms_NNS in_IN user_NN queries_NNS to_TO Yahoo_NNP !_.
+Search_VB ._.
+The_DT experimental_JJ evaluation_NN allows_VBZ us_PRP to_TO draw_VB conclusions_NNS about_IN the_DT promise_NN that_IN these_DT transformations_NNS carry_VBP with_IN regard_NN to_TO alleviating_VBG the_DT strong_JJ assumptions_NNS of_IN the_DT multinomial_JJ model_NN ._.

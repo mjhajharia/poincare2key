@@ -1,0 +1,12 @@
+Relational_JJ learning_NN via_IN latent_JJ social_JJ dimensions_NNS
+Social_NN media_NNS such_JJ as_IN blogs_NNS ,_, Facebook_NNP ,_, Flickr_NNP ,_, etc._NN ,_, presents_VBZ data_NNS in_IN a_DT network_NN format_NN rather_RB than_IN classical_JJ IID_NN distribution_NN ._.
+To_TO address_VB the_DT interdependency_NN among_IN data_NNS instances_NNS ,_, relational_JJ learning_NN has_VBZ been_VBN proposed_VBN ,_, and_CC collective_JJ inference_NN based_VBN on_IN network_NN connectivity_NN is_VBZ adopted_VBN for_IN prediction_NN ._.
+However_RB ,_, connections_NNS in_IN social_JJ media_NNS are_VBP often_RB multi-dimensional_JJ ._.
+An_DT actor_NN can_MD connect_VB to_TO another_DT actor_NN for_IN different_JJ reasons_NNS ,_, e.g._FW ,_, alumni_NNS ,_, colleagues_NNS ,_, living_VBG in_IN the_DT same_JJ city_NN ,_, sharing_VBG similar_JJ interests_NNS ,_, etc._FW ._.
+Collective_JJ inference_NN normally_RB does_VBZ not_RB differentiate_VB these_DT connections_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP propose_VBP to_TO extract_VB latent_JJ social_JJ dimensions_NNS based_VBN on_IN network_NN information_NN ,_, and_CC then_RB utilize_VB them_PRP as_IN features_NNS for_IN discriminative_JJ learning_NN ._.
+These_DT social_JJ dimensions_NNS describe_VBP diverse_JJ affiliations_NNS of_IN actors_NNS hidden_VBN in_IN the_DT network_NN ,_, and_CC the_DT discriminative_JJ learning_NN can_MD automatically_RB determine_VB which_WDT affiliations_NNS are_VBP better_RB aligned_VBN with_IN the_DT class_NN labels_NNS ._.
+Such_JJ a_DT scheme_NN is_VBZ preferred_VBN when_WRB multiple_JJ diverse_JJ relations_NNS are_VBP associated_VBN with_IN the_DT same_JJ network_NN ._.
+We_PRP conduct_VBP extensive_JJ experiments_NNS on_IN social_JJ media_NNS data_NNS -LRB-_-LRB- one_CD from_IN a_DT real-world_JJ blog_NN site_NN and_CC the_DT other_JJ from_IN a_DT popular_JJ content_NN sharing_NN site_NN -RRB-_-RRB- ._.
+Our_PRP$ model_NN outperforms_VBZ representative_JJ relational_JJ learning_NN methods_NNS based_VBN on_IN collective_JJ inference_NN ,_, especially_RB when_WRB few_JJ labeled_VBN data_NNS are_VBP available_JJ ._.
+The_DT sensitivity_NN of_IN this_DT model_NN and_CC its_PRP$ connection_NN to_TO existing_VBG methods_NNS are_VBP also_RB examined_VBN ._.

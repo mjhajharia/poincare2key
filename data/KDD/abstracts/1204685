@@ -1,0 +1,9 @@
+Experimental_JJ design_NN for_IN solicitation_NN campaigns_NNS
+Data_NN mining_NN techniques_NNS are_VBP routinely_RB used_VBN by_IN fundraisers_NNS to_TO select_VB those_DT prospects_NNS from_IN a_DT large_JJ pool_NN of_IN candidates_NNS who_WP are_VBP most_RBS likely_JJ to_TO make_VB a_DT financial_JJ contribution_NN ._.
+These_DT techniques_NNS often_RB rely_VBP on_IN statistical_JJ models_NNS based_VBN on_IN trial_NN performance_NN data_NNS ._.
+This_DT trial_NN performance_NN data_NNS is_VBZ typically_RB obtained_VBN by_IN soliciting_VBG a_DT smaller_JJR sample_NN of_IN the_DT possible_JJ prospect_NN pool_NN ._.
+Collecting_VBG this_DT trial_NN data_NN involves_VBZ a_DT cost_NN ;_: therefore_RB the_DT fundraiser_NN is_VBZ interested_JJ in_IN keeping_VBG the_DT trial_NN size_NN small_JJ while_IN still_RB collecting_VBG enough_JJ data_NNS to_TO build_VB a_DT reliable_JJ statistical_JJ model_NN that_WDT will_MD be_VB used_VBN to_TO evaluate_VB the_DT remainder_NN of_IN the_DT prospects_NNS ._.
+We_PRP describe_VBP an_DT experimental_JJ design_NN approach_NN to_TO optimally_RB choose_VB the_DT trial_NN prospects_NNS from_IN an_DT existing_VBG large_JJ pool_NN of_IN prospects_NNS ._.
+Prospects_NNS are_VBP clustered_VBN to_TO render_VB the_DT problem_NN practically_RB tractable_JJ ._.
+We_PRP modify_VBP the_DT standard_JJ D-optimality_NN algorithm_NN to_TO prevent_VB repeated_JJ selection_NN of_IN the_DT same_JJ prospect_NN cluster_NN ,_, since_IN each_DT prospect_NN can_MD only_RB be_VB solicited_VBN at_IN most_RBS once_RB ._.
+We_PRP assess_VBP the_DT benefits_NNS of_IN this_DT approach_NN on_IN the_DT KDD-98_NN data_NNS set_VBN by_IN comparing_VBG the_DT performance_NN of_IN the_DT model_NN based_VBN on_IN the_DT optimal_JJ trial_NN data_NNS set_VBN with_IN that_DT of_IN a_DT model_NN based_VBN on_IN a_DT randomly_RB selected_VBN trial_NN data_NNS set_VBN of_IN equal_JJ size_NN ._.

@@ -1,0 +1,8 @@
+Fast_JJ and_CC parallel_JJ webpage_NN layout_NN
+The_DT web_NN browser_NN is_VBZ a_DT CPU-intensive_JJ program_NN ._.
+Especially_RB on_IN mobile_JJ devices_NNS ,_, webpages_NNS load_VBP too_RB slowly_RB ,_, expending_VBG significant_JJ time_NN in_IN processing_VBG a_DT document_NN 's_POS appearance_NN ._.
+Due_JJ to_TO power_NN constraints_NNS ,_, most_RBS hardware-driven_JJ speedups_NNS will_MD come_VB in_IN the_DT form_NN of_IN parallel_JJ architectures_NNS ._.
+This_DT is_VBZ also_RB true_JJ of_IN mobile_JJ devices_NNS such_JJ as_IN phones_NNS and_CC e-books_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP new_JJ algorithms_NNS for_IN CSS_NN selector_NN matching_NN ,_, layout_NN solving_VBG ,_, and_CC font_NN rendering_NN ,_, which_WDT represent_VBP key_JJ components_NNS for_IN a_DT fast_JJ layout_NN engine_NN ._.
+Evaluation_NN on_IN popular_JJ sites_NNS shows_VBZ speedups_NNS as_RB high_JJ as_IN 80x_NN ._.
+We_PRP also_RB formulate_VBP the_DT layout_NN problem_NN with_IN attribute_NN grammars_NNS ,_, enabling_VBG us_PRP to_TO not_RB only_RB parallelize_VB our_PRP$ algorithm_NN but_CC prove_VBP that_IN it_PRP computes_VBZ in_IN O_NN -LRB-_-LRB- log_NN -RRB-_-RRB- time_NN and_CC without_IN reflow_NN ._.

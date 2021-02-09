@@ -1,0 +1,5 @@
+A_DT possible_JJ simplification_NN of_IN the_DT semantic_JJ web_NN architecture_NN
+In_IN the_DT semantic_JJ Web_NN architecture_NN ,_, Web_NN ontology_NN languages_NNS arebuilt_VBP on_IN top_NN of_IN RDF_NN -LRB-_-LRB- S_NN -RRB-_-RRB- ._.
+However_RB ,_, serious_JJ difficulties_NNS have_VBP arisen_VBN when_WRB trying_VBG to_TO layer_NN expressive_JJ ontology_NN languages_NNS ,_, like_IN OWL_NNP ,_, on_IN top_NN of_IN RDF-Schema_NN ._.
+Although_IN these_DT problems_NNS can_MD be_VB avoided_VBN ,_, OWL_NN -LRB-_-LRB- andthe_JJ whole_JJ semantic_JJ Web_NN architecture_NN -RRB-_-RRB- becomes_VBZ much_RB more_RBR complex_JJ than_IN it_PRP should_MD be_VB ._.
+In_IN this_DT paper_NN ,_, a_DT possible_JJ simplification_NN of_IN thesemantic_JJ Web_NN architecture_NN is_VBZ suggested_VBN ,_, which_WDT has_VBZ several_JJ import_NN antadvantages_NNS with_IN respect_NN to_TO the_DT layering_NN currently_RB accepted_VBN by_IN the_DT W3C_NNP Ontology_NNP Working_NNP Group_NNP ._.

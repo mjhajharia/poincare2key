@@ -1,0 +1,6 @@
+Clustering_VBG spatial_JJ data_NNS using_VBG random_JJ walks_VBZ
+Discovering_VBG significant_JJ patterns_NNS that_WDT exist_VBP implicitly_RB in_IN huge_JJ spatial_JJ databases_NNS is_VBZ an_DT important_JJ computational_JJ task_NN ._.
+A_DT common_JJ approach_NN to_TO this_DT problem_NN is_VBZ to_TO use_VB cluster_NN analysis_NN ._.
+We_PRP propose_VBP a_DT novel_JJ approach_NN to_TO clustering_NN ,_, based_VBN on_IN the_DT deterministic_JJ analysis_NN of_IN random_JJ walks_VBZ on_IN a_DT weighted_JJ graph_NN generated_VBN from_IN the_DT data_NNS ._.
+Our_PRP$ approach_NN can_MD decompose_VB the_DT data_NNS into_IN arbitrarily_RB shaped_JJ clusters_NNS of_IN different_JJ sizes_NNS and_CC densities_NNS ,_, overcoming_VBG noise_NN and_CC outliers_NNS that_WDT may_MD blur_VB the_DT natural_JJ decomposition_NN of_IN the_DT data_NNS ._.
+The_DT method_NN requires_VBZ only_RB O_NN -LRB-_-LRB- n_NN log_NN n_NN -RRB-_-RRB- time_NN ,_, and_CC one_CD of_IN its_PRP$ variants_NNS needs_VBZ only_RB constant_JJ space_NN ._.

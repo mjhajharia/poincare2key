@@ -1,0 +1,5 @@
+Anonymizing_JJ user_NN profiles_NNS for_IN personalized_JJ web_NN search_NN
+We_PRP study_VBD the_DT problem_NN of_IN anonymizing_JJ user_NN profiles_NNS so_IN that_DT user_NN privacy_NN is_VBZ sufficiently_RB protected_VBN while_IN the_DT anonymized_JJ profiles_NNS are_VBP still_RB effective_JJ in_IN enabling_VBG personalized_JJ web_NN search_NN ._.
+We_PRP propose_VBP a_DT Bayes-optimal_JJ privacy_NN notion_NN to_TO bound_VBD the_DT prior_JJ and_CC posterior_JJ probability_NN of_IN associating_VBG a_DT user_NN with_IN an_DT individual_JJ term_NN in_IN the_DT anonymized_JJ user_NN profile_NN set_NN ._.
+We_PRP also_RB propose_VBP a_DT novel_JJ bundling_VBG technique_NN that_IN clusters_NNS user_NN profiles_NNS into_IN groups_NNS by_IN taking_VBG into_IN account_NN the_DT semantic_JJ relationships_NNS between_IN the_DT terms_NNS while_IN satisfying_VBG the_DT privacy_NN constraint_NN ._.
+We_PRP evaluate_VBP our_PRP$ approach_NN through_IN a_DT set_NN of_IN preliminary_JJ experiments_NNS using_VBG real_JJ data_NNS demonstrating_VBG its_PRP$ feasibility_NN and_CC effectiveness_NN ._.

@@ -1,0 +1,4 @@
+Using_VBG semantic_JJ web_NN approach_NN in_IN augmented_JJ audio_JJ reality_NN system_NN for_IN museum_NN visitors_NNS
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP our_PRP$ work_NN in_IN progress_NN on_IN the_DT reasoning_NN module_NN of_IN ec_NN -LRB-_-LRB- h_NN -RRB-_-RRB- o_NN ,_, an_DT augmented_JJ audio-reality_NN interface_NN for_IN museum_NN visitors_NNS utilizing_VBG spatialized_JJ soundscapes_NNS and_CC a_DT semantic_JJ web_NN approach_NN to_TO information_NN ._.
+We_PRP used_VBD ontologies_NNS to_TO describe_VB the_DT semantics_NNS of_IN sound_JJ objects_NNS and_CC represent_VBP user_NN model_NN ._.
+A_DT rule-based_JJ system_NN for_IN selecting_VBG sound_JJ object_NN uses_VBZ semantic_JJ description_NN of_IN objects_NNS ,_, visitor_NN 's_POS interaction_NN history_NN and_CC heuristics_NNS for_IN continuity_NN of_IN the_DT dialogue_NN between_IN user_NN and_CC the_DT system_NN ._.

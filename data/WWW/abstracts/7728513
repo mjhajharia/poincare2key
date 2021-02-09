@@ -1,0 +1,10 @@
+Exploring_VBG social_JJ annotations_NNS for_IN information_NN retrieval_NN
+Social_NN annotation_NN has_VBZ gained_VBN increasing_VBG popularity_NN in_IN many_JJ Web-based_JJ applications_NNS ,_, leading_VBG to_TO an_DT emerging_VBG research_NN area_NN in_IN text_NN analysis_NN and_CC information_NN retrieval_NN ._.
+This_DT paper_NN is_VBZ concerned_VBN with_IN developing_VBG probabilistic_JJ models_NNS and_CC computational_JJ algorithms_NNS for_IN social_JJ annotations_NNS ._.
+We_PRP propose_VBP a_DT unified_JJ framework_NN to_TO combine_VB the_DT modeling_NN of_IN social_JJ annotations_NNS with_IN the_DT language_NN modeling-based_JJ methods_NNS for_IN information_NN retrieval_NN ._.
+The_DT proposed_VBN approach_NN consists_VBZ of_IN two_CD steps_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- discovering_VBG topics_NNS in_IN the_DT contents_NNS and_CC annotations_NNS of_IN documents_NNS while_IN categorizing_VBG the_DT users_NNS by_IN domains_NNS ;_: and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- enhancing_NN document_NN and_CC query_NN language_NN models_NNS by_IN incorporating_VBG user_NN domain_NN interests_NNS as_RB well_RB as_IN topical_JJ background_NN models_NNS ._.
+In_IN particular_JJ ,_, we_PRP propose_VBP a_DT new_JJ general_JJ generative_JJ model_NN for_IN social_JJ annotations_NNS ,_, which_WDT is_VBZ then_RB simplified_VBN to_TO a_DT computationally_RB tractable_JJ hierarchical_JJ Bayesian_JJ network_NN ._.
+Then_RB we_PRP apply_VBP smoothing_VBG techniques_NNS in_IN a_DT risk_NN minimization_NN framework_NN to_TO incorporate_VB the_DT topical_JJ information_NN to_TO language_NN models_NNS ._.
+Experiments_NNS are_VBP carried_VBN out_RP on_IN a_DT real-world_JJ annotation_NN data_NNS set_VBP sampled_VBN from_IN del._FW icio_FW ._.
+us_PRP ._.
+Our_PRP$ results_NNS demonstrate_VBP significant_JJ improvements_NNS over_IN the_DT traditional_JJ approaches_NNS ._.

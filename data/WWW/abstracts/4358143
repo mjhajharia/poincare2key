@@ -1,0 +1,5 @@
+Comparing_VBG apples_NNS and_CC oranges_NNS :_: normalized_VBN pagerank_NN for_IN evolving_VBG graphs_NNS
+PageRank_NNP is_VBZ the_DT best_JJS known_JJ technique_NN for_IN link-based_JJ importance_NN ranking_NN ._.
+The_DT computed_JJ importance_NN scores_NNS ,_, however_RB ,_, are_VBP not_RB directly_RB comparable_JJ across_IN different_JJ snapshots_NNS of_IN an_DT evolving_VBG graph_NN ._.
+We_PRP present_VBP an_DT efficiently_RB computable_JJ normalization_NN for_IN PageRank_NN scores_NNS that_WDT makes_VBZ them_PRP comparable_JJ across_IN graphs_NNS ._.
+Furthermore_RB ,_, we_PRP show_VBP that_IN the_DT normalized_VBN PageRank_NN scores_NNS are_VBP robust_JJ to_TO non-local_JJ changes_NNS in_IN the_DT graph_NN ,_, unlike_IN the_DT standard_JJ PageRank_NN measure_NN ._.

@@ -1,0 +1,7 @@
+Do_VBP not_RB crawl_VB in_IN the_DT DUST_NN :_: different_JJ URLs_NNS with_IN similar_JJ text_NN
+We_PRP consider_VBP the_DT problem_NN of_IN dust_NN :_: Different_JJ URLs_NNS with_IN Similar_JJ Text_NN ._.
+Such_JJ duplicate_VBP URLs_NNS are_VBP prevalent_JJ in_IN web_NN sites_NNS ,_, as_IN web_NN server_NN software_NN often_RB uses_VBZ aliases_NNS and_CC redirections_NNS ,_, translates_VBZ URLs_NNS to_TO some_DT canonical_JJ form_NN ,_, and_CC dynamically_RB generates_VBZ the_DT same_JJ page_NN from_IN various_JJ different_JJ URL_NN requests_NNS ._.
+We_PRP present_VBP a_DT novel_JJ algorithm_NN ,_, DustBuster_NNP ,_, for_IN uncovering_VBG dust_NN ;_: that_DT is_VBZ ,_, for_IN discovering_VBG rules_NNS for_IN transforming_VBG a_DT given_VBN URL_NN to_TO others_NNS that_WDT are_VBP likely_JJ to_TO have_VB similar_JJ content_NN ._.
+DustBuster_NNP is_VBZ able_JJ to_TO detect_VB dust_NN effectively_RB from_IN previous_JJ crawl_NN logs_NNS or_CC web_NN server_NN logs_NNS ,_, without_IN examining_VBG page_NN contents_NNS ._.
+Verifying_VBG these_DT rules_NNS via_IN sampling_NN requires_VBZ fetching_VBG few_JJ actual_JJ web_NN pages_NNS ._.
+Search_VB engines_NNS can_MD benefit_VB from_IN this_DT information_NN to_TO increase_VB the_DT effectiveness_NN of_IN crawling_VBG ,_, reduce_VB indexing_NN overhead_NN as_RB well_RB as_IN improve_VB the_DT quality_NN of_IN popularity_NN statistics_NNS such_JJ as_IN PageRank_NNP ._.

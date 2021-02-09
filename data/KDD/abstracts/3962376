@@ -1,0 +1,7 @@
+Integration_NN of_IN profile_NN hidden_VBN Markov_NNP model_NN output_NN into_IN association_NN rule_NN mining_NN
+Scientific_NNP models_NNS typically_RB depend_VBP on_IN parameters_NNS ._.
+Preserving_VBG the_DT parameter_NN dependence_NN of_IN models_NNS in_IN the_DT pattern_NN mining_NN context_NN opens_VBZ up_RP several_JJ applications_NNS ._.
+Within_IN association_NN rule_NN mining_NN -LRB-_-LRB- ARM_NN -RRB-_-RRB- ,_, the_DT choice_NN of_IN parameters_NNS can_MD be_VB studied_VBN with_IN more_RBR flexibly_RB then_RB in_IN traditional_JJ model_NN building_NN ._.
+Studying_VBG support_NN ,_, confidence_NN ,_, and_CC other_JJ rule_NN metrics_NNS as_IN a_DT function_NN of_IN model_NN parameters_NNS allows_VBZ conclusions_NNS on_IN assumptions_NNS underlying_VBG the_DT models_NNS ._.
+We_PRP present_VBP efficient_JJ techniques_NNS to_TO handle_VB multiple_JJ model_NN output_NN data_NNS sets_NNS at_IN little_RB more_JJR than_IN the_DT cost_NN of_IN one_CD ._.
+We_PRP integrate_VBP output_NN from_IN hidden_JJ Markov_NNP models_NNS into_IN the_DT association_NN rule_NN mining_NN framework_NN ,_, demonstrating_VBG the_DT potential_NN for_IN frequent_JJ pattern_NN mining_NN in_IN the_DT field_NN of_IN scientific_JJ modeling_NN and_CC experimentation_NN ._.

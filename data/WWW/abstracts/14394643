@@ -1,0 +1,9 @@
+Recommendations_NNS to_TO boost_VB content_NN spread_VBN in_IN social_JJ networks_NNS
+Content_NN sharing_NN in_IN social_JJ networks_NNS is_VBZ a_DT powerful_JJ mechanism_NN for_IN discovering_VBG content_NN on_IN the_DT Internet_NN ._.
+The_DT degree_NN to_TO which_WDT content_NN is_VBZ disseminated_VBN within_IN the_DT network_NN depends_VBZ on_IN the_DT connectivity_NN relationships_NNS among_IN network_NN nodes_NNS ._.
+Existing_VBG schemes_NNS for_IN recommending_VBG connections_NNS in_IN social_JJ networks_NNS are_VBP based_VBN on_IN the_DT number_NN of_IN common_JJ neighbors_NNS ,_, similarity_NN of_IN user_NN profiles_NNS ,_, etc._FW ._.
+However_RB ,_, such_JJ similarity-based_JJ connections_NNS do_VBP not_RB consider_VB the_DT amount_NN of_IN content_NN discovered_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP novel_JJ algorithms_NNS for_IN recommending_VBG connections_NNS that_IN boost_NN content_NN propagation_NN in_IN a_DT social_JJ network_NN without_IN compromising_VBG on_IN the_DT relevance_NN of_IN the_DT recommendations_NNS ._.
+Unlike_IN existing_VBG work_NN on_IN influence_NN propagation_NN ,_, in_IN our_PRP$ environment_NN ,_, we_PRP are_VBP looking_VBG for_IN edges_NNS instead_RB of_IN nodes_NNS ,_, with_IN a_DT bound_VBN on_IN the_DT number_NN of_IN incident_NN edges_NNS per_IN node_NN ._.
+We_PRP show_VBP that_IN the_DT content_NN spread_NN function_NN is_VBZ not_RB submodular_JJ ,_, and_CC develop_VB approximation_NN algorithms_NNS for_IN computing_VBG a_DT near-optimal_JJ set_NN of_IN edges_NNS ._.
+Through_IN experiments_NNS on_IN real-world_JJ social_JJ graphs_NNS such_JJ as_IN Flickr_NNP and_CC Twitter_NNP ,_, we_PRP show_VBP that_IN our_PRP$ approximation_NN algorithms_NNS achieve_VBP content_NN spreads_NNS that_WDT are_VBP as_RB much_JJ as_IN 90_CD times_NNS higher_JJR compared_VBN to_TO existing_VBG heuristics_NNS for_IN recommending_VBG connections_NNS ._.

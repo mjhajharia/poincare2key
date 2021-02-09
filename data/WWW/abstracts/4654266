@@ -1,0 +1,6 @@
+Query_JJ topic_NN detection_NN for_IN reformulation_NN
+In_IN this_DT paper_NN ,_, we_PRP show_VBP that_IN most_JJS multiple_JJ term_NN queries_NNS include_VBP more_JJR than_IN one_CD topic_NN and_CC users_NNS usually_RB reformulate_VBP their_PRP$ queries_NNS by_IN topics_NNS instead_RB of_IN terms_NNS ._.
+In_IN order_NN to_TO provide_VB empirical_JJ evidence_NN on_IN user_NN 's_POS reformulation_NN behavior_NN and_CC to_TO help_VB search_NN engines_NNS better_RBR handle_VB the_DT query_NN reformulation_NN problem_NN ,_, we_PRP focus_VBP on_IN detecting_VBG internal_JJ topics_NNS in_IN the_DT original_JJ query_NN and_CC analyzing_NN users_NNS ._.
+reformulation_NN to_TO those_DT topics_NNS ._.
+Particularly_RB ,_, we_PRP utilize_VBP the_DT Interaction_NN Information_NN -LRB-_-LRB- II_CD -RRB-_-RRB- to_TO measure_VB the_DT degree_NN of_IN one_CD sub-query_NN being_VBG a_DT topic_NN based_VBN on_IN the_DT local_JJ search_NN results_NNS ._.
+The_DT experimental_JJ results_NNS on_IN query_NN log_NN show_VBP that_IN :_: most_JJS users_NNS reformulate_VBP query_NN at_IN the_DT topical_JJ level_NN ;_: and_CC our_PRP$ proposed_VBN II-based_JJ algorithm_NN is_VBZ a_DT good_JJ method_NN to_TO detect_VB topics_NNS from_IN original_JJ queries_NNS ._.

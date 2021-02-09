@@ -1,0 +1,5 @@
+Generating_NNP summaries_NNS for_IN large_JJ collections_NNS of_IN geo-referenced_JJ photographs_NNS
+We_PRP describe_VBP a_DT framework_NN for_IN automatically_RB selecting_VBG a_DT summary_NN set_NN of_IN photographs_NNS from_IN a_DT large_JJ collection_NN of_IN geo-referenced_JJ photos_NNS ._.
+The_DT summary_NN algorithm_NN is_VBZ based_VBN on_IN spatial_JJ patterns_NNS in_IN photo_JJ sets_NNS ,_, but_CC can_MD be_VB expanded_VBN to_TO support_VB social_JJ ,_, temporal_JJ ,_, as_RB well_RB as_IN textual-topical_JJ factors_NNS of_IN the_DT photo_JJ set_NN ._.
+The_DT summary_NN set_NN can_MD be_VB biased_VBN by_IN the_DT user_NN ,_, the_DT content_NN of_IN the_DT user_NN 's_POS query_NN ,_, and_CC the_DT context_NN in_IN which_WDT the_DT query_NN is_VBZ made_VBN ._.
+An_DT initial_JJ evaluation_NN on_IN a_DT set_NN of_IN geo-referenced_JJ photos_NNS shows_VBZ that_IN our_PRP$ algorithm_NN performs_VBZ well_RB ,_, producing_VBG results_NNS that_WDT are_VBP highly_RB rated_VBN by_IN users_NNS ._.

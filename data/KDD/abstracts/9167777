@@ -1,0 +1,9 @@
+Effective_JJ and_CC efficient_JJ itemset_NN pattern_NN summarization_NN :_: regression-based_JJ approaches_NNS
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT set_NN of_IN novel_JJ regression-based_JJ approaches_NNS to_TO effectively_RB and_CC efficiently_RB summarize_VB frequent_JJ itemset_NN patterns_NNS ._.
+Specifically_RB ,_, we_PRP show_VBP that_IN the_DT problem_NN of_IN minimizing_VBG the_DT restoration_NN error_NN for_IN a_DT set_NN of_IN itemsets_NNS based_VBN on_IN a_DT probabilistic_JJ model_NN corresponds_VBZ to_TO a_DT non-linear_JJ regression_NN problem_NN ._.
+We_PRP show_VBP that_IN under_IN certain_JJ conditions_NNS ,_, we_PRP can_MD transform_VB the_DT nonlinear_JJ regression_NN problem_NN to_TO a_DT linear_JJ regression_NN problem_NN ._.
+We_PRP propose_VBP two_CD new_JJ methods_NNS ,_, k-regression_NN and_CC tree-regression_NN ,_, to_TO partition_NN the_DT entire_JJ collection_NN of_IN frequent_JJ itemsets_NNS in_IN order_NN to_TO minimize_VB the_DT restoration_NN error_NN ._.
+The_DT K-regression_NN approach_NN ,_, employing_VBG a_DT K-means_JJ type_NN clustering_NN method_NN ,_, guarantees_VBZ that_IN the_DT total_JJ restoration_NN error_NN achieves_VBZ a_DT local_JJ minimum_NN ._.
+The_DT tree-regression_NN approach_NN employs_VBZ a_DT decision-tree_JJ type_NN of_IN top-down_JJ partition_NN process_NN ._.
+In_IN addition_NN ,_, we_PRP discuss_VBP alternatives_NNS to_TO estimate_VB the_DT frequency_NN for_IN the_DT collection_NN of_IN itemsets_NNS being_VBG covered_VBN by_IN the_DT k_NN representative_JJ itemsets_NNS ._.
+The_DT experimental_JJ evaluation_NN on_IN both_CC real_JJ and_CC synthetic_JJ datasets_NNS demonstrates_VBZ that_IN our_PRP$ approaches_NNS significantly_RB improve_VB the_DT summarization_NN performance_NN in_IN terms_NNS of_IN both_CC accuracy_NN -LRB-_-LRB- restoration_NN error_NN -RRB-_-RRB- ,_, and_CC computational_JJ cost_NN ._.

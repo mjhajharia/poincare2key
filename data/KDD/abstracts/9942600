@@ -1,0 +1,7 @@
+Connections_NNP between_IN the_DT lines_NNS :_: augmenting_VBG social_JJ networks_NNS with_IN text_NN
+Network_NNP data_NNS is_VBZ ubiquitous_JJ ,_, encoding_VBG collections_NNS of_IN relationships_NNS between_IN entities_NNS such_JJ as_IN people_NNS ,_, places_NNS ,_, genes_NNS ,_, or_CC corporations_NNS ._.
+While_IN many_JJ resources_NNS for_IN networks_NNS of_IN interesting_JJ entities_NNS are_VBP emerging_VBG ,_, most_JJS of_IN these_DT can_MD only_RB annotate_VB connections_NNS in_IN a_DT limited_JJ fashion_NN ._.
+Although_IN relationships_NNS between_IN entities_NNS are_VBP rich_JJ ,_, it_PRP is_VBZ impractical_JJ to_TO manually_RB devise_VB complete_JJ characterizations_NNS of_IN these_DT relationships_NNS for_IN every_DT pair_NN of_IN entities_NNS on_IN large_JJ ,_, real-world_JJ corpora_NN ._.
+In_IN this_DT paper_NN we_PRP present_VBP a_DT novel_JJ probabilistic_JJ topic_NN model_NN to_TO analyze_VB text_NN corpora_NN and_CC infer_VB descriptions_NNS of_IN its_PRP$ entities_NNS and_CC of_IN relationships_NNS between_IN those_DT entities_NNS ._.
+We_PRP develop_VBP variational_JJ methods_NNS for_IN performing_VBG approximate_JJ inference_NN on_IN our_PRP$ model_NN and_CC demonstrate_VBP that_IN our_PRP$ model_NN can_MD be_VB practically_RB deployed_VBN on_IN large_JJ corpora_NNS such_JJ as_IN Wikipedia_NNP ._.
+We_PRP show_VBP qualitatively_RB and_CC quantitatively_RB that_IN our_PRP$ model_NN can_MD construct_VB and_CC annotate_VB graphs_NNS of_IN relationships_NNS and_CC make_VB useful_JJ predictions_NNS ._.

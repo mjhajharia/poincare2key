@@ -1,0 +1,6 @@
+Semantic_JJ navigation_NN on_IN the_DT web_NN of_IN data_NNS :_: specification_NN of_IN routes_NNS ,_, web_NN fragments_NNS and_CC actions_NNS
+The_DT massive_JJ semantic_JJ data_NNS sources_NNS linked_VBN in_IN the_DT Web_NN of_IN Data_NNP give_VB new_JJ meaning_NN to_TO old_JJ features_NNS like_IN navigation_NN ;_: introduce_VB new_JJ challenges_NNS like_IN semantic_JJ specification_NN of_IN Web_NN fragments_NNS ;_: and_CC make_VB it_PRP possible_JJ to_TO specify_VB actions_NNS relying_VBG on_IN semantic_JJ data_NNS ._.
+In_IN this_DT paper_NN we_PRP introduce_VBP a_DT declarative_JJ language_NN to_TO face_VB these_DT challenges_NNS ._.
+Based_VBN on_IN navigational_JJ features_NNS ,_, it_PRP is_VBZ designed_VBN to_TO specify_VB fragments_NNS of_IN the_DT Web_NN of_IN Data_NNP and_CC actions_NNS to_TO be_VB performed_VBN based_VBN on_IN these_DT data_NNS ._.
+We_PRP implement_VBP it_PRP in_IN a_DT centralized_JJ fashion_NN ,_, and_CC show_VB its_PRP$ power_NN and_CC performance_NN ._.
+Finally_RB ,_, we_PRP explore_VBP the_DT same_JJ ideas_NNS in_IN a_DT distributed_VBN setting_NN ,_, showing_VBG their_PRP$ feasibility_NN ,_, potentialities_NNS and_CC challenges_NNS ._.

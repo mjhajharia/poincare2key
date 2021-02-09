@@ -1,0 +1,5 @@
+Solving_VBG regression_NN problems_NNS with_IN rule-based_JJ ensemble_NN classifiers_NNS
+We_PRP describe_VBP a_DT lightweight_JJ learning_NN method_NN that_WDT induces_VBZ an_DT ensemble_NN of_IN decision-rule_JJ solutions_NNS for_IN regression_NN problems_NNS ._.
+Instead_RB of_IN direct_JJ prediction_NN of_IN a_DT continuous_JJ output_NN variable_NN ,_, the_DT method_NN discretizes_VBZ the_DT variable_NN by_IN k-means_NN clustering_NN and_CC solves_VBZ the_DT resultant_JJ classification_NN problem_NN ._.
+Predictions_NNS on_IN new_JJ examples_NNS are_VBP made_VBN by_IN averaging_VBG the_DT mean_NN values_NNS of_IN classes_NNS with_IN votes_NNS that_WDT are_VBP close_JJ in_IN number_NN to_TO the_DT most_RBS likely_JJ class_NN ._.
+We_PRP provide_VBP experimental_JJ evidence_NN that_IN this_DT indirect_JJ approach_NN can_MD often_RB yield_VB strong_JJ results_NNS for_IN many_JJ applications_NNS ,_, generally_RB outperforming_VBG direct_JJ approaches_NNS such_JJ as_IN regression_NN trees_NNS and_CC rivaling_VBG bagged_JJ regression_NN trees_NNS ._.

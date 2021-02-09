@@ -1,0 +1,6 @@
+Crawling_VBG English-Japanese_JJ person-name_JJ transliterations_NNS from_IN the_DT web_NN
+Automatic_NNP compilation_NN of_IN lexicon_NN is_VBZ a_DT dream_NN of_IN lexicon_NN compilers_NNS as_RB well_RB as_IN lexicon_NN users_NNS ._.
+This_DT paper_NN proposes_VBZ a_DT system_NN that_WDT crawls_VBZ English-Japanese_JJ person-name_JJ transliterations_NNS from_IN the_DT Web_NN ,_, which_WDT works_VBZ a_DT back-end_JJ collector_NN for_IN automatic_JJ compilation_NN of_IN bilingual_JJ person-name_JJ lexicon_NN ._.
+Our_PRP$ crawler_NN collected_VBD 561K_JJ transliterations_NNS in_IN five_CD months_NNS ._.
+From_IN them_PRP ,_, an_DT English-Japanese_JJ person-name_JJ lexicon_NN with_IN 406K_NN entries_NNS has_VBZ been_VBN compiled_VBN by_IN an_DT automatic_JJ post_NN processing_NN ._.
+This_DT lexicon_NN is_VBZ much_RB larger_JJR than_IN other_JJ similar_JJ resources_NNS including_VBG English-Japanese_JJ lexicon_NN of_IN HeiNER_NN obtained_VBN from_IN Wikipedia_NNP ._.

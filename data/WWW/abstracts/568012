@@ -1,0 +1,10 @@
+XQuery_NN at_IN your_PRP$ web_NN service_NN
+XML_NN messaging_NN is_VBZ at_IN the_DT heart_NN of_IN Web_NN services_NNS ,_, providing_VBG the_DT flexibility_NN required_VBN for_IN their_PRP$ deployment_NN ,_, composition_NN ,_, and_CC maintenance_NN ._.
+Yet_RB ,_, current_JJ approaches_NNS to_TO Web_NN services_NNS development_NN hide_VBP the_DT messaging_VBG layer_NN behind_IN Java_NNP or_CC C_NNP #_# APIs_NNS ,_, preventing_VBG the_DT application_NN to_TO get_VB direct_JJ access_NN to_TO the_DT underlying_VBG XML_NN information_NN ._.
+To_TO address_VB this_DT problem_NN ,_, we_PRP advocate_VBP the_DT use_NN of_IN a_DT native_JJ XML_NN language_NN ,_, namely_RB XQuery_NN ,_, as_IN an_DT integral_JJ part_NN of_IN the_DT Web_NN services_NNS development_NN infrastructure_NN ._.
+The_DT main_JJ contribution_NN of_IN the_DT paper_NN is_VBZ a_DT binding_NN between_IN WSDL_NNP ,_, the_DT Web_NN Services_NNPS Description_NN Language_NN ,_, and_CC XQuery_NN ._.
+The_DT approach_NN enables_VBZ the_DT use_NN of_IN XQuery_NN for_IN both_DT Web_NN services_NNS deployment_NN and_CC composition_NN ._.
+We_PRP present_VBP a_DT simple_JJ command-line_JJ tool_NN that_WDT can_MD be_VB used_VBN to_TO automatically_RB deploy_VB a_DT Web_NN service_NN from_IN a_DT given_VBN XQuery_NN module_NN ,_, and_CC extend_VB the_DT XQuery_NN language_NN itself_PRP with_IN a_DT statement_NN for_IN accessing_VBG one_CD or_CC more_JJR Web_NN services_NNS ._.
+The_DT binding_NN provides_VBZ tight-coupling_JJ between_IN WSDL_NN and_CC XQuery_NN ,_, yielding_VBG additional_JJ benefits_NNS ,_, notably_RB :_: the_DT ability_NN to_TO use_VB WSDL_NNP as_IN an_DT interface_NN language_NN for_IN XQuery_NN ,_, and_CC the_DT ability_NN to_TO perform_VB static_JJ typing_NN on_IN XQuery_NN programs_NNS that_WDT include_VBP Web_NN service_NN calls_NNS ._.
+Last_JJ but_CC not_RB least_JJS ,_, the_DT proposal_NN requires_VBZ only_RB minimal_JJ changes_NNS to_TO the_DT existing_VBG infrastructure_NN ._.
+We_PRP report_VBP on_IN our_PRP$ experience_NN implementing_VBG this_DT approach_NN in_IN the_DT Galax_NNP XQuery_NN processor_NN ._.

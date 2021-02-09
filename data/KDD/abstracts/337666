@@ -1,0 +1,8 @@
+Natural_JJ communities_NNS in_IN large_JJ linked_JJ networks_NNS
+We_PRP are_VBP interested_JJ in_IN finding_VBG natural_JJ communities_NNS in_IN large-scale_JJ linked_JJ networks_NNS ._.
+Our_PRP$ ultimate_JJ goal_NN is_VBZ to_TO track_VB changes_NNS over_IN time_NN in_IN such_JJ communities_NNS ._.
+For_IN such_JJ temporal_JJ tracking_NN ,_, we_PRP require_VBP a_DT clustering_NN algorithm_NN that_WDT is_VBZ relatively_RB stable_JJ under_IN small_JJ perturbations_NNS of_IN the_DT input_NN data_NNS ._.
+We_PRP have_VBP developed_VBN an_DT efficient_JJ ,_, scalable_JJ agglomerative_JJ strategy_NN and_CC applied_VBD it_PRP to_TO the_DT citation_NN graph_NN of_IN the_DT NEC_NNP CiteSeer_NNP database_NN -LRB-_-LRB- 250,000_CD papers_NNS ;_: 4.5_CD million_CD citations_NNS -RRB-_-RRB- ._.
+Agglomerative_JJ clustering_NN techniques_NNS are_VBP known_VBN to_TO be_VB unstable_JJ on_IN data_NNS in_IN which_WDT the_DT community_NN structure_NN is_VBZ not_RB strong_JJ ._.
+We_PRP find_VBP that_IN some_DT communities_NNS are_VBP essentially_RB random_JJ and_CC thus_RB unstable_JJ while_IN others_NNS are_VBP natural_JJ and_CC will_MD appear_VB in_IN most_JJS clusterings_NNS ._.
+These_DT natural_JJ communities_NNS will_MD enable_VB us_PRP to_TO track_VB the_DT evolution_NN of_IN communities_NNS over_IN time_NN ._.

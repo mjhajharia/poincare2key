@@ -1,0 +1,8 @@
+Modeling_VBG click-through_JJ based_JJ word-pairs_NNS for_IN web_NN search_NN
+Statistical_JJ translation_NN models_NNS and_CC latent_JJ semantic_JJ analysis_NN -LRB-_-LRB- LSA_NN -RRB-_-RRB- are_VBP two_CD effective_JJ approaches_NNS to_TO exploit_VB click-through_JJ data_NNS for_IN web_NN search_NN ranking_NN ._.
+This_DT paper_NN presents_VBZ two_CD document_NN ranking_NN models_NNS that_WDT combine_VBP both_DT approaches_NNS by_IN explicitly_RB modeling_NN word-pairs_NNS ._.
+The_DT first_JJ model_NN ,_, called_VBN PairModel_NNP ,_, is_VBZ a_DT monolingual_JJ ranking_NN model_NN based_VBN on_IN word_NN pairs_NNS that_WDT are_VBP derived_VBN from_IN click-through_JJ data_NNS ._.
+It_PRP maps_VBZ queries_NNS and_CC documents_NNS into_IN a_DT concept_NN space_NN spanned_VBN by_IN these_DT word_NN pairs_NNS ._.
+The_DT second_JJ model_NN ,_, called_VBN Bilingual_NNP Paired_NNP Topic_NNP Model_NNP -LRB-_-LRB- BPTM_NNP -RRB-_-RRB- ,_, uses_VBZ bilingual_JJ word_NN pairs_NNS and_CC jointly_RB models_NNS a_DT bilingual_JJ query-document_NN collection_NN ._.
+This_DT model_NN maps_VBZ queries_NNS and_CC documents_NNS in_IN multiple_JJ languages_NNS into_IN a_DT lower_JJR dimensional_JJ semantic_JJ subspace_NN ._.
+Experimental_JJ results_NNS on_IN web_NN search_NN task_NN show_VBP that_IN they_PRP significantly_RB outperform_VBP the_DT state-of-the-art_JJ baseline_NN models_NNS ,_, and_CC the_DT best_JJS result_NN is_VBZ obtained_VBN by_IN interpolating_VBG PairModel_NNP and_CC BPTM_NNP ._.

@@ -1,0 +1,8 @@
+Law-governed_JJ peer-to-peer_JJ auctions_NNS
+This_DT paper_NN proposes_VBZ a_DT flexible_JJ architecture_NN for_IN the_DT creation_NN of_IN Internet_NNP auctions_NNS ._.
+It_PRP allows_VBZ the_DT custom_NN definition_NN of_IN the_DT auction_NN parameters_NNS ,_, and_CC provides_VBZ a_DT decentralized_JJ control_NN of_IN the_DT auction_NN process_NN ._.
+Auction_NN policies_NNS are_VBP defined_VBN as_IN laws_NNS in_IN the_DT Law_NNP Governed_NNP Interaction_NN -LRB-_-LRB- LGI_NN -RRB-_-RRB- paradigm_NN ._.
+Each_DT of_IN these_DT laws_NNS specifies_VBZ not_RB only_RB the_DT auction_NN algorithm_NN itself_PRP -LRB-_-LRB- e.g._FW open-cry_JJ ,_, dutch_JJ ,_, etc._NN -RRB-_-RRB- but_CC also_RB how_WRB to_TO handle_VB the_DT other_JJ parameters_NNS usually_RB involved_VBN in_IN the_DT online_JJ auctions_NNS ,_, such_JJ as_IN certification_NN ,_, auditioning_VBG ,_, and_CC treatment_NN of_IN complaints_NNS ._.
+LGI_NNP is_VBZ used_VBN to_TO enforce_VB the_DT rules_NNS established_VBN in_IN the_DT auction_NN policy_NN within_IN the_DT agents_NNS involved_VBN in_IN the_DT process_NN ._.
+After_IN the_DT agents_NNS find_VBP out_RP about_IN the_DT actions_NNS ,_, they_PRP interact_VBP in_IN a_DT peer-to-peer_JJ communication_NN protocol_NN ,_, reducing_VBG the_DT role_NN of_IN the_DT centralized_JJ auction_NN room_NN to_TO an_DT advertising_NN registry_NN ,_, and_CC taking_VBG profit_NN of_IN the_DT distributed_VBN nature_NN of_IN the_DT Internet_NN to_TO conduct_VB the_DT auction_NN ._.
+The_DT paper_NN presents_VBZ an_DT example_NN of_IN an_DT auction_NN law_NN ,_, illustrating_VBG the_DT use_NN of_IN the_DT proposed_VBN architecture_NN ._.

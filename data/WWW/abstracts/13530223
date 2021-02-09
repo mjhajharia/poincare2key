@@ -1,0 +1,7 @@
+Searching_NN for_IN events_NNS in_IN the_DT blogosphere_NN
+Over_IN the_DT last_JJ few_JJ years_NNS ,_, blogs_NNS -LRB-_-LRB- web_NN logs_NNS -RRB-_-RRB- have_VBP gained_VBN massive_JJ popularity_NN and_CC have_VBP become_VBN one_CD of_IN the_DT most_RBS influential_JJ web_NN social_JJ media_NNS in_IN our_PRP$ times_NNS ._.
+Every_DT blog_NN post_NN in_IN the_DT Blogosphere_NNP has_VBZ a_DT well_RB defined_VBN timestamp_NN ,_, which_WDT is_VBZ not_RB taken_VBN into_IN account_NN by_IN search_NN engines_NNS ._.
+By_IN conducting_VBG research_NN regarding_VBG this_DT feature_NN of_IN the_DT Blogosphere_NNP ,_, we_PRP can_MD attempt_VB to_TO discover_VB bursty_JJ terms_NNS and_CC correlations_NNS between_IN them_PRP during_IN a_DT time_NN interval_NN ._.
+We_PRP apply_VBP Kleinberg_NNP 's_POS automaton_NN on_IN extracted_VBN titles_NNS of_IN blog_NN posts_NNS to_TO discover_VB bursty_JJ terms_NNS ,_, we_PRP introduce_VBP a_DT novel_JJ representation_NN of_IN a_DT term_NN 's_POS burstiness_NN evolution_NN called_VBN State_NNP Series_NNP and_CC we_PRP employ_VBP a_DT Euclidean-based_JJ distance_NN metric_NN to_TO discover_VB potential_JJ correlations_NNS between_IN terms_NNS without_IN taking_VBG into_IN account_NN their_PRP$ context_NN ._.
+We_PRP evaluate_VBP the_DT results_NNS trying_VBG to_TO match_VB them_PRP with_IN real_JJ life_NN events_NNS ._.
+Finally_RB ,_, we_PRP propose_VBP some_DT ideas_NNS for_IN further_JJ evaluation_NN techniques_NNS and_CC future_JJ research_NN in_IN the_DT field_NN ._.

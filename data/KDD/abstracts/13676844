@@ -1,0 +1,8 @@
+Systematic_JJ data_NNS selection_NN to_TO mine_VB concept-drifting_JJ data_NNS streams_NNS
+One_CD major_JJ problem_NN of_IN existing_VBG methods_NNS to_TO mine_VB data_NNS streams_NNS is_VBZ that_IN it_PRP makes_VBZ ad_FW hoc_FW choices_NNS to_TO combine_VB most_RBS recent_JJ data_NNS with_IN some_DT amount_NN of_IN old_JJ data_NNS to_TO search_VB the_DT new_JJ hypothesis_NN ._.
+The_DT assumption_NN is_VBZ that_IN the_DT additional_JJ old_JJ data_NNS always_RB helps_VBZ produce_VB a_DT more_RBR accurate_JJ hypothesis_NN than_IN using_VBG the_DT most_RBS recent_JJ data_NNS only_RB ._.
+We_PRP first_RB criticize_VBP this_DT notion_NN and_CC point_NN out_RP that_IN using_VBG old_JJ data_NNS blindly_RB is_VBZ not_RB better_JJR than_IN ``_`` gambling_NN ''_'' ;_: in_IN other_JJ words_NNS ,_, it_PRP helps_VBZ increase_VB the_DT accuracy_NN only_RB if_IN we_PRP are_VBP ``_`` lucky_JJ ._. ''_''
+We_PRP discuss_VBP and_CC analyze_VBP the_DT situations_NNS where_WRB old_JJ data_NNS will_MD help_VB and_CC what_WDT kind_NN of_IN old_JJ data_NNS will_MD help_VB ._.
+The_DT practical_JJ problem_NN on_IN choosing_VBG the_DT right_JJ example_NN from_IN old_JJ data_NNS is_VBZ due_JJ to_TO the_DT formidable_JJ cost_NN to_TO compare_VB different_JJ possibilities_NNS and_CC models_NNS ._.
+This_DT problem_NN will_MD go_VB away_RB if_IN we_PRP have_VBP an_DT algorithm_NN that_WDT is_VBZ extremely_RB efficient_JJ to_TO compare_VB all_DT sensible_JJ choices_NNS with_IN little_JJ extra_JJ cost_NN ._.
+Based_VBN on_IN this_DT observation_NN ,_, we_PRP propose_VBP a_DT simple_JJ ,_, efficient_JJ and_CC accurate_JJ cross-validation_NN decision_NN tree_NN ensemble_NN method_NN ._.

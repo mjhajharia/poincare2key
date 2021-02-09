@@ -1,0 +1,12 @@
+Empirical_JJ comparisons_NNS of_IN various_JJ voting_NN methods_NNS in_IN bagging_VBG
+Finding_VBG effective_JJ methods_NNS for_IN developing_VBG an_DT ensemble_NN of_IN models_NNS has_VBZ been_VBN an_DT active_JJ research_NN area_NN of_IN large-scale_JJ data_NNS mining_NN in_IN recent_JJ years_NNS ._.
+Models_NNS learned_VBD from_IN data_NNS are_VBP often_RB subject_JJ to_TO some_DT degree_NN of_IN uncertainty_NN ,_, for_IN a_DT variety_NN of_IN resoans_NNS ._.
+In_IN classification_NN ,_, ensembles_NNS of_IN models_NNS provide_VBP a_DT useful_JJ means_NN of_IN averaging_VBG out_RP error_NN introduced_VBN by_IN individual_JJ classifiers_NNS ,_, hence_RB reducing_VBG the_DT generalization_NN error_NN of_IN prediction_NN ._.
+The_DT plurality_NN voting_NN method_NN is_VBZ often_RB chosen_VBN for_IN bagging_NN ,_, because_IN of_IN its_PRP$ simplicity_NN of_IN implementation_NN ._.
+However_RB ,_, the_DT plurality_NN approach_NN to_TO model_NN reconciliation_NN is_VBZ ad-hoc_JJ ._.
+There_EX are_VBP many_JJ other_JJ voting_VBG methods_NNS to_TO choose_VB from_IN ,_, including_VBG the_DT anti-plurality_JJ method_NN ,_, the_DT plurality_NN method_NN with_IN elimination_NN ,_, the_DT Borda_NNP count_NN method_NN ,_, and_CC Condorcet_NNP 's_POS method_NN of_IN pairwise_JJ comparisons_NNS ._.
+Any_DT of_IN these_DT could_MD lead_VB to_TO a_DT better_JJR method_NN for_IN reconciliation_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP analyze_VBP the_DT use_NN of_IN these_DT voting_VBG methods_NNS in_IN model_NN reconciliation_NN ._.
+We_PRP present_VBP empirical_JJ results_NNS comparing_VBG performance_NN of_IN these_DT voting_NN methods_NNS when_WRB applied_VBN in_IN bagging_NN ._.
+These_DT results_NNS include_VBP some_DT surprises_NNS ,_, and_CC among_IN other_JJ things_NNS suggest_VBP that_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- plurality_NN is_VBZ not_RB always_RB the_DT best_JJS voting_NN method_NN ;_: -LRB-_-LRB- 2_LS -RRB-_-RRB- the_DT number_NN of_IN classes_NNS can_MD affect_VB the_DT performance_NN of_IN voting_NN methods_NNS ;_: and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- the_DT degree_NN of_IN dataset_NN noise_NN can_MD affect_VB the_DT performance_NN of_IN voting_NN methods_NNS ._.
+While_IN it_PRP is_VBZ premature_JJ to_TO make_VB final_JJ judgments_NNS about_IN specific_JJ voting_NN methods_NNS ,_, the_DT results_NNS of_IN this_DT work_NN raise_VB interesting_JJ questions_NNS ,_, and_CC they_PRP open_VBP the_DT door_NN to_TO the_DT application_NN of_IN voting_NN theory_NN in_IN classification_NN theory_NN ._.

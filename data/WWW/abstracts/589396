@@ -1,0 +1,11 @@
+Compiling_VBG XSLT_NN 2.0_CD into_IN XQuery_NN 1.0_CD
+As_IN XQuery_NN is_VBZ gathering_VBG momentum_NN as_IN the_DT standard_JJ query_NN language_NN for_IN XML_NN ,_, there_EX is_VBZ a_DT growing_VBG interest_NN in_IN using_VBG it_PRP as_IN an_DT integral_JJ part_NN of_IN the_DT XML_NN application_NN development_NN infrastructure_NN ._.
+In_IN that_DT context_NN ,_, one_CD question_NN which_WDT is_VBZ often_RB raised_VBN is_VBZ how_WRB well_RB XQuery_NN interoperates_NNS with_IN other_JJ XML_NN languages_NNS ,_, and_CC notably_RB with_IN XSLT_NN ._.
+XQuery_NN 1.0_CD -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC XSLT_NN 2.0_CD -LRB-_-LRB- 7_CD -RRB-_-RRB- share_VBP a_DT lot_NN in_IN common_JJ :_: they_PRP share_VBP XPath_NN 2.0_CD as_IN a_DT common_JJ sub-language_NN and_CC have_VBP the_DT same_JJ expressiveness_NN ._.
+However_RB ,_, they_PRP are_VBP based_VBN on_IN fairly_RB different_JJ programming_NN paradigms_NNS ._.
+While_IN XSLT_NN has_VBZ adopted_VBN a_DT highly_RB declarative_JJ template_NN based_VBN approach_NN ,_, XQuery_NN relies_VBZ on_IN a_DT simpler_JJR ,_, and_CC more_RBR operational_JJ ,_, functional_JJ approach_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP an_DT approach_NN to_TO compile_VB XSLT_NN 2.0_CD into_IN XQuery_NN 1.0_CD ,_, and_CC a_DT working_VBG implementation_NN of_IN that_DT approach_NN ._.
+The_DT compilation_NN rules_NNS explain_VBP how_WRB XSLT_NNP 's_POS template-based_JJ approach_NN can_MD be_VB implemented_VBN using_VBG the_DT functional_JJ approach_NN of_IN XQuery_NN and_CC underpins_VBZ the_DT tight_JJ connection_NN between_IN the_DT two_CD languages_NNS ._.
+The_DT resulting_VBG compiler_NN can_MD be_VB used_VBN to_TO migrate_VB a_DT XSLT_NN code_NN base_NN to_TO XQuery_NN ,_, or_CC to_TO enable_VB the_DT use_NN of_IN XQuery_NN runtimes_NNS -LRB-_-LRB- e.g._FW ,_, as_IN will_MD soon_RB be_VB provided_VBN by_IN most_JJS relational_JJ database_NN management_NN systems_NNS -RRB-_-RRB- for_IN XSLT_NN users_NNS ._.
+We_PRP also_RB identify_VBP a_DT number_NN of_IN areas_NNS where_WRB compatibility_NN between_IN the_DT two_CD languages_NNS could_MD be_VB improved_VBN ._.
+Finally_RB ,_, we_PRP show_VBP experiments_NNS on_IN actual_JJ XSLT_NN stylesheets_NNS ,_, demonstrating_VBG the_DT applicability_NN of_IN the_DT approach_NN in_IN practice_NN ._.

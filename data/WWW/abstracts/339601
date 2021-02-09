@@ -1,0 +1,7 @@
+Automatic_NNP web_NN news_NN extraction_NN using_VBG tree_NN edit_NN distance_NN
+The_DT Web_NN poses_VBZ itself_PRP as_IN the_DT largest_JJS data_NN repository_NN ever_RB available_JJ in_IN the_DT history_NN of_IN humankind_NN ._.
+Major_JJ efforts_NNS have_VBP been_VBN made_VBN in_IN order_NN to_TO provide_VB efficient_JJ access_NN to_TO relevant_JJ information_NN within_IN this_DT huge_JJ repository_NN of_IN data_NNS ._.
+Although_IN several_JJ techniques_NNS have_VBP been_VBN developed_VBN to_TO the_DT problem_NN of_IN Web_NN data_NNS extraction_NN ,_, their_PRP$ use_NN is_VBZ still_RB not_RB spread_VBN ,_, mostly_RB because_IN of_IN the_DT need_NN for_IN high_JJ human_JJ intervention_NN and_CC the_DT low_JJ quality_NN of_IN the_DT extraction_NN results_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT domain-oriented_JJ approach_NN to_TO Web_NN data_NNS extraction_NN and_CC discuss_VB its_PRP$ application_NN to_TO automatically_RB extracting_VBG news_NN from_IN Web_NN sites_NNS ._.
+Our_PRP$ approach_NN is_VBZ based_VBN on_IN a_DT highly_RB efficient_JJ tree_NN structure_NN analysis_NN that_WDT produces_VBZ very_RB effective_JJ results_NNS ._.
+We_PRP have_VBP tested_VBN our_PRP$ approach_NN with_IN several_JJ important_JJ Brazilian_JJ on-line_JJ news_NN sites_NNS and_CC achieved_VBD very_RB precise_JJ results_NNS ,_, correctly_RB extracting_VBG 87.71_CD %_NN of_IN the_DT news_NN in_IN a_DT set_NN of_IN 4088_CD pages_NNS distributed_VBN among_IN 35_CD different_JJ sites_NNS ._.

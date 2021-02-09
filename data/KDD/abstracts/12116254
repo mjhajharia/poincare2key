@@ -1,0 +1,8 @@
+Query_NNP chains_NNS :_: learning_VBG to_TO rank_VB from_IN implicit_JJ feedback_NN
+This_DT paper_NN presents_VBZ a_DT novel_JJ approach_NN for_IN using_VBG clickthrough_JJ data_NNS to_TO learn_VB ranked_VBN retrieval_NN functions_NNS for_IN web_NN search_NN results_NNS ._.
+We_PRP observe_VBP that_IN users_NNS searching_VBG the_DT web_NN often_RB perform_VBP a_DT sequence_NN ,_, or_CC chain_NN ,_, of_IN queries_NNS with_IN a_DT similar_JJ information_NN need_NN ._.
+Using_VBG query_NN chains_NNS ,_, we_PRP generate_VBP new_JJ types_NNS of_IN preference_NN judgments_NNS from_IN search_NN engine_NN logs_NNS ,_, thus_RB taking_VBG advantage_NN of_IN user_NN intelligence_NN in_IN reformulating_VBG queries_NNS ._.
+To_TO validate_VB our_PRP$ method_NN we_PRP perform_VBP a_DT controlled_JJ user_NN study_NN comparing_VBG generated_VBN preference_NN judgments_NNS to_TO explicit_JJ relevance_NN judgments_NNS ._.
+We_PRP also_RB implemented_VBD a_DT real-world_JJ search_NN engine_NN to_TO test_VB our_PRP$ approach_NN ,_, using_VBG a_DT modified_VBN ranking_NN SVM_NN to_TO learn_VB an_DT improved_VBN ranking_NN function_NN from_IN preference_NN data_NNS ._.
+Our_PRP$ results_NNS demonstrate_VBP significant_JJ improvements_NNS in_IN the_DT ranking_NN given_VBN by_IN the_DT search_NN engine_NN ._.
+The_DT learned_VBN rankings_NNS outperform_VBP both_CC a_DT static_JJ ranking_NN function_NN ,_, as_RB well_RB as_IN one_CD trained_VBN without_IN considering_VBG query_NN chains_NNS ._.

@@ -1,0 +1,11 @@
+An_DT integrated_VBN machine_NN learning_VBG approach_NN to_TO stroke_NN prediction_NN
+Stroke_NN is_VBZ the_DT third_JJ leading_JJ cause_NN of_IN death_NN and_CC the_DT principal_JJ cause_NN of_IN serious_JJ long-term_JJ disability_NN in_IN the_DT United_NNP States_NNPS ._.
+Accurate_JJ prediction_NN of_IN stroke_NN is_VBZ highly_RB valuable_JJ for_IN early_JJ intervention_NN and_CC treatment_NN ._.
+In_IN this_DT study_NN ,_, we_PRP compare_VBP the_DT Cox_NNP proportional_JJ hazards_NNS model_NN with_IN a_DT machine_NN learning_NN approach_NN for_IN stroke_NN prediction_NN on_IN the_DT Cardiovascular_NNP Health_NNP Study_NNP -LRB-_-LRB- CHS_NNP -RRB-_-RRB- dataset_NN ._.
+Specifically_RB ,_, we_PRP consider_VBP the_DT common_JJ problems_NNS of_IN data_NNS imputation_NN ,_, feature_NN selection_NN ,_, and_CC prediction_NN in_IN medical_JJ datasets_NNS ._.
+We_PRP propose_VBP a_DT novel_JJ automatic_JJ feature_NN selection_NN algorithm_NN that_WDT selects_VBZ robust_JJ features_NNS based_VBN on_IN our_PRP$ proposed_VBN heuristic_NN :_: conservative_JJ mean_NN ._.
+Combined_VBN with_IN Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- ,_, our_PRP$ proposed_VBN feature_NN selection_NN algorithm_NN achieves_VBZ a_DT greater_JJR area_NN under_IN the_DT ROC_NN curve_NN -LRB-_-LRB- AUC_NN -RRB-_-RRB- as_IN compared_VBN to_TO the_DT Cox_NN proportional_JJ hazards_NNS model_NN and_CC L1_NN regularized_VBD Cox_NN feature_NN selection_NN algorithm_NN ._.
+Furthermore_RB ,_, we_PRP present_VBP a_DT margin-based_JJ censored_VBN regression_NN algorithm_NN that_WDT combines_VBZ the_DT concept_NN of_IN margin-based_JJ classifiers_NNS with_IN censored_VBN regression_NN to_TO achieve_VB a_DT better_JJR concordance_NN index_NN than_IN the_DT Cox_NNP model_NN ._.
+Overall_RB ,_, our_PRP$ approach_NN outperforms_VBZ the_DT current_JJ state-of-the-art_JJ in_IN both_DT metrics_NNS of_IN AUC_NN and_CC concordance_NN index_NN ._.
+In_IN addition_NN ,_, our_PRP$ work_NN has_VBZ also_RB identified_VBN potential_JJ risk_NN factors_NNS that_WDT have_VBP not_RB been_VBN discovered_VBN by_IN traditional_JJ approaches_NNS ._.
+Our_PRP$ method_NN can_MD be_VB applied_VBN to_TO clinical_JJ prediction_NN of_IN other_JJ diseases_NNS ,_, where_WRB missing_VBG data_NNS are_VBP common_JJ and_CC risk_NN factors_NNS are_VBP not_RB well_RB understood_VBN ._.

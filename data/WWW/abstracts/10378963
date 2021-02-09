@@ -1,0 +1,4 @@
+Acquiring_VBG ontological_JJ knowledge_NN from_IN query_JJ logs_NNS
+We_PRP present_VBP a_DT method_NN for_IN acquiring_VBG ontological_JJ knowledge_NN using_VBG search_NN query_NN logs_NNS ._.
+We_PRP first_JJ use_NN query_NN logs_NNS to_TO identify_VB important_JJ contexts_NNS associated_VBN with_IN terms_NNS belonging_VBG to_TO a_DT semantic_JJ category_NN ;_: we_PRP then_RB use_VBP these_DT contexts_NNS to_TO harvest_VB new_JJ words_NNS belonging_VBG to_TO this_DT category_NN ._.
+Our_PRP$ evaluation_NN on_IN selected_VBN categories_NNS indicates_VBZ that_IN the_DT method_NN works_VBZ very_RB well_RB to_TO help_VB harvesting_VBG terms_NNS ,_, achieving_VBG 85_CD %_NN to_TO 95_CD %_NN accuracy_NN in_IN categorizing_VBG newly_RB acquired_VBN terms_NNS ._.

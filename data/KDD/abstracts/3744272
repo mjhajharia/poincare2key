@@ -1,0 +1,12 @@
+A_DT multinomial_JJ clustering_NN model_NN for_IN fast_JJ simulation_NN of_IN computer_NN architecture_NN designs_NNS
+Computer_NN architects_NNS utilize_VBP simulation_NN tools_NNS to_TO evaluate_VB the_DT merits_NNS of_IN a_DT new_JJ design_NN feature_NN ._.
+The_DT time_NN needed_VBN to_TO adequately_RB evaluate_VB the_DT tradeoffs_NNS associated_VBN with_IN adding_VBG any_DT new_JJ feature_NN has_VBZ become_VBN a_DT critical_JJ issue_NN ._.
+Recent_JJ work_NN has_VBZ found_VBN that_IN by_IN identifying_VBG execution_NN phases_NNS present_JJ in_IN common_JJ workloads_NNS used_VBN in_IN simulation_NN studies_NNS ,_, we_PRP can_MD apply_VB clustering_NN algorithms_NNS to_TO significantly_RB reduce_VB the_DT amount_NN of_IN time_NN needed_VBN to_TO complete_VB the_DT simulation_NN ._.
+Our_PRP$ goal_NN in_IN this_DT paper_NN is_VBZ to_TO demonstrate_VB the_DT value_NN of_IN this_DT approach_NN when_WRB applied_VBN to_TO the_DT set_NN of_IN industry-standard_JJ benchmarks_NNS most_RBS commonly_RB used_VBN in_IN computer_NN architecture_NN studies_NNS ._.
+We_PRP also_RB look_VBP to_TO improve_VB upon_IN prior_JJ work_NN by_IN applying_VBG more_RBR appropriate_JJ clustering_NN algorithms_NNS to_TO identify_VB phases_NNS ,_, and_CC to_TO further_RB reduce_VB simulation_NN time_NN ._.
+We_PRP find_VBP that_IN the_DT phase_NN clustering_NN in_IN computer_NN architecture_NN simulation_NN has_VBZ many_JJ similarities_NNS to_TO text_NN clustering_NN ._.
+In_IN prior_JJ work_NN on_IN clustering_NN techniques_NNS to_TO reduce_VB simulation_NN time_NN ,_, K-means_JJ clustering_NN was_VBD used_VBN to_TO identify_VB representative_JJ program_NN phases_NNS ._.
+In_IN this_DT paper_NN we_PRP apply_VBP a_DT mixture_NN of_IN multinomials_NNS to_TO the_DT clustering_NN problem_NN and_CC show_VB its_PRP$ advantages_NNS over_IN using_VBG K-means_NNS on_IN simulation_NN data_NNS ._.
+We_PRP have_VBP implemented_VBN these_DT two_CD clustering_NN algorithms_NNS and_CC evaluate_VB how_WRB well_RB they_PRP can_MD characterize_VB program_NN behavior_NN ._.
+By_IN adopting_VBG a_DT mixture_NN of_IN multinomials_NNS model_NN ,_, we_PRP find_VBP that_IN we_PRP can_MD maintain_VB simulation_NN result_NN fidelity_NN ,_, while_IN greatly_RB reducing_VBG overall_JJ simulation_NN time_NN ._.
+We_PRP report_VBP results_NNS for_IN a_DT range_NN of_IN applications_NNS taken_VBN from_IN the_DT SPEC2000_NN benchmark_NN suite_NN ._.

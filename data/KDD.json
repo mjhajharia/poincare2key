@@ -1,0 +1,9 @@
+{
+  "dataset_identifier": "KDD",
+  "reference": {
+    "test": "KDD/references/test.author.stem.json"
+  },
+  "files": [
+    "test.json"
+  ]
+}

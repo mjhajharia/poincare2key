@@ -1,0 +1,12 @@
+Data_NNS filtering_VBG for_IN automatic_JJ classification_NN of_IN rocks_NNS from_IN reflectance_NN spectra_NNS
+The_DT ability_NN to_TO identify_VB the_DT mineral_JJ composition_NN of_IN rocks_NNS and_CC soils_NNS is_VBZ an_DT important_JJ tool_NN for_IN the_DT exploration_NN of_IN geological_JJ sites_NNS ._.
+For_IN instance_NN ,_, NASA_NNP intends_VBZ to_TO design_VB robots_NNS that_WDT are_VBP sufficiently_RB autonomous_JJ to_TO perform_VB this_DT task_NN on_IN planetary_JJ missions_NNS ._.
+Spectrometer_NN readings_NNS provide_VBP one_CD important_JJ source_NN of_IN data_NNS for_IN identifying_VBG sites_NNS with_IN minerals_NNS of_IN interest_NN ._.
+Reflectance_NN spectrometers_NNS measure_VBP intensities_NNS of_IN light_NN reflected_VBN from_IN surfaces_NNS over_IN a_DT range_NN of_IN wavelengths_NNS ._.
+Spectral_JJ intensity_NN patterns_NNS may_MD in_IN some_DT cases_NNS be_VB sufficiently_RB distinctive_JJ for_IN proper_JJ identification_NN of_IN minerals_NNS or_CC classes_NNS of_IN minerals_NNS ._.
+For_IN some_DT mineral_JJ classes_NNS ,_, carbonates_NNS for_IN example_NN ,_, specific_JJ short_JJ spectral_JJ intervals_NNS are_VBP known_VBN to_TO carry_VB a_DT distinctive_JJ signature_NN ._.
+Finding_VBG similar_JJ distinctive_JJ spectral_JJ ranges_NNS for_IN other_JJ mineral_JJ classes_NNS is_VBZ not_RB an_DT easy_JJ problem_NN ._.
+We_PRP propose_VBP and_CC evaluate_VBP data-driven_JJ techniques_NNS that_WDT automatically_RB search_VBP for_IN spectral_JJ ranges_NNS optimized_VBN for_IN specific_JJ minerals_NNS ._.
+In_IN one_CD set_NN of_IN studies_NNS ,_, we_PRP partition_NN the_DT whole_JJ interval_NN of_IN wavelengths_NNS available_JJ in_IN our_PRP$ data_NNS into_IN sub-intervals_NNS ,_, or_CC bins_NNS ,_, and_CC use_VB a_DT genetic_JJ algorithm_NN to_TO evaluate_VB a_DT candidate_NN selection_NN of_IN subintervals_NNS ._.
+As_IN alternatives_NNS to_TO this_DT computationally_RB expensive_JJ search_NN technique_NN ,_, we_PRP present_VBP an_DT entropy-based_JJ heuristic_NN that_WDT gives_VBZ higher_JJR scores_NNS for_IN wavelengths_NNS more_RBR likely_JJ to_TO distinguish_VB between_IN classes_NNS ,_, as_RB well_RB as_IN other_JJ greedy_JJ search_NN procedures_NNS ._.
+Results_NNS are_VBP presented_VBN for_IN four_CD different_JJ classes_NNS ,_, showing_VBG reasonable_JJ improvements_NNS in_IN identifying_VBG some_DT ,_, but_CC not_RB all_DT ,_, of_IN the_DT mineral_JJ classes_NNS tested_VBN ._.

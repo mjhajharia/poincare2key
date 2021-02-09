@@ -1,0 +1,11 @@
+Collective_JJ privacy_NN management_NN in_IN social_JJ networks_NNS
+Social_NNP Networking_NNP is_VBZ one_CD of_IN the_DT major_JJ technological_JJ phenomena_NNS of_IN the_DT Web_NN 2.0_CD ,_, with_IN hundreds_NNS of_IN millions_NNS of_IN people_NNS participating_VBG ._.
+Social_NN networks_NNS enable_VBP a_DT form_NN of_IN self_NN expression_NN for_IN users_NNS ,_, and_CC help_VB them_PRP to_TO socialize_VB and_CC share_VB content_NN with_IN other_JJ users_NNS ._.
+In_IN spite_NN of_IN the_DT fact_NN that_IN content_NN sharing_NN represents_VBZ one_CD of_IN the_DT prominent_JJ features_NNS of_IN existing_VBG Social_NNP Network_NNP sites_NNS ,_, Social_NNP Networks_NNP yet_RB do_VBP not_RB support_VB any_DT mechanism_NN for_IN collaborative_JJ management_NN of_IN privacy_NN settings_NNS for_IN shared_JJ content_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP model_VBP the_DT problem_NN of_IN collaborative_JJ enforcement_NN of_IN privacy_NN policies_NNS on_IN shared_JJ data_NNS by_IN using_VBG game_NN theory_NN ._.
+In_IN particular_JJ ,_, we_PRP propose_VBP a_DT solution_NN that_WDT offers_VBZ automated_JJ ways_NNS to_TO share_VB images_NNS based_VBN on_IN an_DT extended_JJ notion_NN of_IN content_NN ownership_NN ._.
+Building_NN upon_IN the_DT Clarke-Tax_NNP mechanism_NN ,_, we_PRP describe_VBP a_DT simple_JJ mechanism_NN that_WDT promotes_VBZ truthfulness_NN ,_, and_CC that_IN rewards_NNS users_NNS who_WP promote_VBP co-ownership_NN ._.
+We_PRP integrate_VBP our_PRP$ design_NN with_IN inference_NN techniques_NNS that_WDT free_VBP the_DT users_NNS from_IN the_DT burden_NN of_IN manually_RB selecting_VBG privacy_NN preferences_NNS for_IN each_DT picture_NN ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN this_DT is_VBZ the_DT first_JJ time_NN such_JJ a_DT protection_NN mechanism_NN for_IN Social_NNP Networking_NNP has_VBZ been_VBN proposed_VBN ._.
+In_IN the_DT paper_NN ,_, we_PRP also_RB show_VBP a_DT proof-of-concept_JJ application_NN ,_, which_WDT we_PRP implemented_VBD in_IN the_DT context_NN of_IN Facebook_NNP ,_, one_CD of_IN today_NN 's_VBZ most_RBS popular_JJ social_JJ networks_NNS ._.
+We_PRP show_VBP that_IN supporting_VBG these_DT type_NN of_IN solutions_NNS is_VBZ not_RB also_RB feasible_JJ ,_, but_CC can_MD be_VB implemented_VBN through_IN a_DT minimal_JJ increase_NN in_IN overhead_NN to_TO end-users_NNS ._.

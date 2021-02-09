@@ -1,0 +1,6 @@
+Multi-step_JJ media_NNS adaptation_NN :_: implementation_NN of_IN a_DT knowledge-based_JJ engine_NN
+Continuing_VBG changes_NNS in_IN the_DT domains_NNS of_IN consumer_NN devices_NNS and_CC multimedia_NNS formats_NNS demand_NN for_IN a_DT new_JJ approach_NN to_TO media_NNS adaptation_NN ._.
+The_DT publication_NN of_IN customized_VBN content_NN on_IN a_DT device_NN requires_VBZ an_DT automatic_JJ adaptation_NN engine_NN that_WDT takes_VBZ into_IN account_NN the_DT specifications_NNS of_IN both_CC the_DT device_NN and_CC the_DT material_NN to_TO be_VB published_VBN ._.
+These_DT specifications_NNS can_MD be_VB expressed_VBN using_VBG a_DT single_JJ domain_NN ontology_NN that_WDT describes_VBZ the_DT concepts_NNS of_IN the_DT media_NNS adaptation_NN domain_NN ._.
+In_IN this_DT document_NN ,_, we_PRP provide_VBP insight_NN into_IN the_DT implementation_NN of_IN an_DT adaptation_NN engine_NN that_WDT exploits_VBZ this_DT domain_NN knowledge_NN ._.
+We_PRP explain_VBP how_WRB this_DT engine_NN ,_, through_IN the_DT use_NN of_IN description_NN matching_NN and_CC Semantic_JJ Web_NN Services_NNPS ,_, composes_VBZ a_DT chain_NN of_IN adaptation_NN services_NNS which_WDT will_MD alter_VB the_DT original_JJ content_NN to_TO the_DT needs_NNS of_IN the_DT target_NN device_NN ._.

@@ -1,0 +1,7 @@
+A_DT link_NN classification_NN based_VBN approach_NN to_TO website_NN topic_NN hierarchy_NN generation_NN
+Hierarchical_JJ models_NNS are_VBP commonly_RB used_VBN to_TO organize_VB a_DT Website_NNP 's_POS content_NN ._.
+A_DT Website_NNP 's_POS content_NN structure_NN can_MD be_VB represented_VBN by_IN a_DT topic_NN hierarchy_NN ,_, a_DT directed_JJ tree_NN rooted_VBN at_IN a_DT Website_NNP 's_POS homepage_NN in_IN which_WDT the_DT vertices_NNS and_CC edges_NNS correspond_VBP to_TO Web_NN pages_NNS and_CC hyperlinks_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP propose_VBP a_DT new_JJ method_NN for_IN constructing_VBG the_DT topic_NN hierarchy_NN of_IN a_DT Website_NNP ._.
+We_PRP model_VBP the_DT Website_NNP 's_POS link_NN structure_NN using_VBG weighted_JJ directed_JJ graph_NN ,_, in_IN which_WDT the_DT edge_NN weights_NNS are_VBP computed_VBN using_VBG a_DT classifier_NN that_WDT predicts_VBZ if_IN an_DT edge_NN connects_VBZ a_DT pair_NN of_IN nodes_NNS representing_VBG a_DT topic_NN and_CC a_DT sub-topic_JJ ._.
+We_PRP then_RB pose_VBP the_DT problem_NN of_IN building_VBG the_DT topic_NN hierarchy_NN as_IN finding_VBG the_DT shortest-path_JJ tree_NN and_CC directed_JJ minimum_JJ spanning_NN tree_NN in_IN the_DT weighted_JJ graph_NN ._.
+We_PRP 've_VBP done_VBN extensive_JJ experiments_NNS using_VBG real_JJ Websites_NNS and_CC obtained_VBD very_RB promising_JJ results_NNS ._.

@@ -1,0 +1,8 @@
+Efficient_JJ anomaly_JJ monitoring_NN over_IN moving_VBG object_NN trajectory_NN streams_NNS
+Lately_RB there_RB exist_VBP increasing_VBG demands_NNS for_IN online_JJ abnormality_NN monitoring_NN over_IN trajectory_JJ streams_NNS ,_, which_WDT are_VBP obtained_VBN from_IN moving_VBG object_NN tracking_NN devices_NNS ._.
+This_DT problem_NN is_VBZ challenging_VBG due_JJ to_TO the_DT requirement_NN of_IN high_JJ speed_NN data_NNS processing_NN within_IN limited_JJ space_NN cost_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT novel_JJ framework_NN for_IN monitoring_VBG anomalies_NNS over_IN continuous_JJ trajectory_JJ streams_NNS ._.
+First_RB ,_, we_PRP illustrate_VBP the_DT importance_NN of_IN distance-based_JJ anomaly_JJ monitoring_NN over_IN moving_VBG object_NN trajectories_NNS ._.
+Then_RB ,_, we_PRP utilize_VBP the_DT local_JJ continuity_NN characteristics_NNS of_IN trajectories_NNS to_TO build_VB local_JJ clusters_NNS upon_IN trajectory_NN streams_NNS and_CC monitor_NN anomalies_NNS via_IN efficient_JJ pruning_NN strategies_NNS ._.
+Finally_RB ,_, we_PRP propose_VBP a_DT piecewise_JJ metric_JJ index_NN structure_NN to_TO reschedule_VB the_DT joining_VBG order_NN of_IN local_JJ clusters_NNS to_TO further_RB reduce_VB the_DT time_NN cost_NN ._.
+Our_PRP$ extensive_JJ experiments_NNS demonstrate_VBP the_DT effectiveness_NN and_CC efficiency_NN of_IN our_PRP$ methods_NNS ._.

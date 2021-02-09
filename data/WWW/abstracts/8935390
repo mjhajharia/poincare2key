@@ -1,0 +1,4 @@
+Associative_JJ sources_NNS and_CC agents_NNS for_IN zero-input_JJ publishing_NN
+This_DT paper_NN presents_VBZ an_DT associative_JJ agent_NN that_WDT allows_VBZ seamless_JJ navigation_NN from_IN one_NN 's_POS own_JJ personal_JJ space_NN to_TO third-party_JJ associative_JJ sources_NNS ,_, as_RB well_RB as_IN the_DT personal_JJ spaces_NNS of_IN other_JJ users_NNS ._.
+The_DT agent_NN provides_VBZ users_NNS with_IN access_NN to_TO a_DT dynamically_RB growing_VBG list_NN of_IN information_NN sources_NNS ,_, all_DT of_IN which_WDT follow_VBP a_DT common_JJ associative_JJ sources_NNS API_NNP that_IN we_PRP have_VBP defined_VBN ._.
+The_DT agent_NN also_RB allows_VBZ users_NNS act_VBP as_IN sources_NNS themselves_PRP and_CC take_VB part_NN in_IN peer-to_NN peer_VBP knowledge_NN sharing_NN ._.

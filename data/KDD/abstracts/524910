@@ -1,0 +1,8 @@
+Feature_NN bagging_NN for_IN outlier_NN detection_NN
+Outlier_NNP detection_NN has_VBZ recently_RB become_VBN an_DT important_JJ problem_NN in_IN many_JJ industrial_JJ and_CC financial_JJ applications_NNS ._.
+In_IN this_DT paper_NN ,_, a_DT novel_JJ feature_NN bagging_VBG approach_NN for_IN detecting_VBG outliers_NNS in_IN very_RB large_JJ ,_, high_JJ dimensional_JJ and_CC noisy_JJ databases_NNS is_VBZ proposed_VBN ._.
+It_PRP combines_VBZ results_NNS from_IN multiple_JJ outlier_NN detection_NN algorithms_NNS that_WDT are_VBP applied_VBN using_VBG different_JJ set_NN of_IN features_NNS ._.
+Every_DT outlier_NN detection_NN algorithm_NN uses_VBZ a_DT small_JJ subset_NN of_IN features_NNS that_WDT are_VBP randomly_RB selected_VBN from_IN the_DT original_JJ feature_NN set_NN ._.
+As_IN a_DT result_NN ,_, each_DT outlier_NN detector_NN identifies_VBZ different_JJ outliers_NNS ,_, and_CC thus_RB assigns_VBZ to_TO all_DT data_NNS records_NNS outlier_NN scores_NNS that_WDT correspond_VBP to_TO their_PRP$ probability_NN of_IN being_VBG outliers_NNS ._.
+The_DT outlier_NN scores_NNS computed_VBN by_IN the_DT individual_JJ outlier_NN detection_NN algorithms_NNS are_VBP then_RB combined_VBN in_IN order_NN to_TO find_VB the_DT better_JJR quality_NN outliers_NNS ._.
+Experiments_NNS performed_VBN on_IN several_JJ synthetic_JJ and_CC real_JJ life_NN data_NNS sets_NNS show_VBP that_IN the_DT proposed_VBN methods_NNS for_IN combining_VBG outputs_NNS from_IN multiple_JJ outlier_NN detection_NN algorithms_NNS provide_VBP non-trivial_JJ improvements_NNS over_IN the_DT base_NN algorithm_NN ._.

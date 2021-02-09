@@ -1,0 +1,13 @@
+Logical-shapelets_NNS :_: an_DT expressive_JJ primitive_JJ for_IN time_NN series_NN classification_NN
+Time_NN series_NN shapelets_NNS are_VBP small_JJ ,_, local_JJ patterns_NNS in_IN a_DT time_NN series_NN that_WDT are_VBP highly_RB predictive_JJ of_IN a_DT class_NN and_CC are_VBP thus_RB very_RB useful_JJ features_NNS for_IN building_NN classifiers_NNS and_CC for_IN certain_JJ visualization_NN and_CC summarization_NN tasks_NNS ._.
+While_IN shapelets_NNS were_VBD introduced_VBN only_RB recently_RB ,_, they_PRP have_VBP already_RB seen_VBN significant_JJ adoption_NN and_CC extension_NN in_IN the_DT community_NN ._.
+Despite_IN their_PRP$ immense_JJ potential_NN as_IN a_DT data_NN mining_NN primitive_JJ ,_, there_EX are_VBP two_CD important_JJ limitations_NNS of_IN shapelets_NNS ._.
+First_RB ,_, their_PRP$ expressiveness_NN is_VBZ limited_VBN to_TO simple_JJ binary_JJ presence\/absence_NN questions_NNS ._.
+Second_JJ ,_, even_RB though_IN shapelets_NNS are_VBP computed_VBN offline_JJ ,_, the_DT time_NN taken_VBN to_TO compute_VB them_PRP is_VBZ significant_JJ ._.
+In_IN this_DT work_NN ,_, we_PRP address_VBP the_DT latter_JJ problem_NN by_IN introducing_VBG a_DT novel_JJ algorithm_NN that_WDT finds_VBZ shapelets_NNS in_IN less_JJR time_NN than_IN current_JJ methods_NNS by_IN an_DT order_NN of_IN magnitude_NN ._.
+Our_PRP$ algorithm_NN is_VBZ based_VBN on_IN intelligent_JJ caching_NN and_CC reuse_NN of_IN computations_NNS ,_, and_CC the_DT admissible_JJ pruning_NN of_IN the_DT search_NN space_NN ._.
+Because_IN our_PRP$ algorithm_NN is_VBZ so_RB fast_RB ,_, it_PRP creates_VBZ an_DT opportunity_NN to_TO consider_VB more_RBR expressive_JJ shapelet_NN queries_NNS ._.
+In_IN particular_JJ ,_, we_PRP show_VBP for_IN the_DT first_JJ time_NN an_DT augmented_JJ shapelet_NN representation_NN that_WDT distinguishes_VBZ the_DT data_NNS based_VBN on_IN conjunctions_NNS or_CC disjunctions_NNS of_IN shapelets_NNS ._.
+We_PRP call_VBP our_PRP$ novel_JJ representation_NN Logical-Shapelets_NNS ._.
+We_PRP demonstrate_VBP the_DT efficiency_NN of_IN our_PRP$ approach_NN on_IN the_DT classic_JJ benchmark_NN datasets_NNS used_VBN for_IN these_DT problems_NNS ,_, and_CC show_VBP several_JJ case_NN studies_NNS where_WRB logical_JJ shapelets_NNS significantly_RB outperform_VBP the_DT original_JJ shapelet_NN representation_NN and_CC other_JJ time_NN series_NN classification_NN techniques_NNS ._.
+We_PRP demonstrate_VBP the_DT utility_NN of_IN our_PRP$ ideas_NNS in_IN domains_NNS as_RB diverse_JJ as_IN gesture_NN recognition_NN ,_, robotics_NNS ,_, and_CC biometrics_NNS ._.

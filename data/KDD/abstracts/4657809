@@ -1,0 +1,8 @@
+Playing_VBG hide-and-seek_NN with_IN correlations_NNS
+We_PRP present_VBP a_DT method_NN for_IN very_RB high-dimensional_JJ correlation_NN analysis_NN ._.
+The_DT method_NN relies_VBZ equally_RB on_IN rigorous_JJ search_NN strategies_NNS and_CC on_IN human_JJ interaction_NN ._.
+At_IN each_DT step_NN ,_, the_DT method_NN conservatively_RB ``_`` shaves_VBZ off_RP ''_'' a_DT fraction_NN of_IN the_DT database_NN tuples_NNS and_CC attributes_NNS ,_, so_IN that_IN most_JJS of_IN the_DT correlations_NNS present_JJ in_IN the_DT data_NNS are_VBP not_RB affected_VBN by_IN the_DT decomposition_NN ._.
+Instead_RB ,_, the_DT correlations_NNS become_VBP more_RBR obvious_JJ to_TO the_DT user_NN ,_, because_IN they_PRP are_VBP hidden_VBN in_IN a_DT much_RB smaller_JJR portion_NN of_IN the_DT database_NN ._.
+This_DT process_NN can_MD be_VB repeated_VBN iteratively_RB and_CC interactively_RB ,_, until_IN only_RB the_DT most_RBS important_JJ correlations_NNS remain_VBP ._.
+The_DT main_JJ technical_JJ difficulty_NN of_IN the_DT approach_NN is_VBZ figuring_VBG out_RP how_WRB to_TO ``_`` shave_VB off_RP ''_'' part_NN of_IN the_DT database_NN so_RB as_IN to_TO preserve_VB most_JJS correlations_NNS ._.
+We_PRP develop_VBP an_DT algorithm_NN for_IN this_DT problem_NN that_WDT has_VBZ a_DT polynomial_JJ running_NN time_NN and_CC guarantees_NNS result_VBP quality_NN ._.

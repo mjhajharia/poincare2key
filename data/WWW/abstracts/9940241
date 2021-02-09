@@ -1,0 +1,11 @@
+Personalized_VBN recommendation_NN on_IN dynamic_JJ content_NN using_VBG predictive_JJ bilinear_JJ models_NNS
+In_IN Web-based_JJ services_NNS of_IN dynamic_JJ content_NN -LRB-_-LRB- such_JJ as_IN news_NN articles_NNS -RRB-_-RRB- ,_, recommender_NN systems_NNS face_VBP the_DT difficulty_NN of_IN timely_JJ identifying_VBG new_JJ items_NNS of_IN high-quality_NN and_CC providing_VBG recommendations_NNS for_IN new_JJ users_NNS ._.
+We_PRP propose_VBP a_DT feature-based_JJ machine_NN learning_VBG approach_NN to_TO personalized_JJ recommendation_NN that_WDT is_VBZ capable_JJ of_IN handling_VBG the_DT cold-start_JJ issue_NN effectively_RB ._.
+We_PRP maintain_VBP profiles_NNS of_IN content_NN of_IN interest_NN ,_, in_IN which_WDT temporal_JJ characteristics_NNS of_IN the_DT content_NN ,_, e.g._FW popularity_NN and_CC freshness_NN ,_, are_VBP updated_VBN in_IN real-time_JJ manner_NN ._.
+We_PRP also_RB maintain_VBP profiles_NNS of_IN users_NNS including_VBG demographic_JJ information_NN and_CC a_DT summary_NN of_IN user_NN activities_NNS within_IN Yahoo_NNP !_.
+properties_NNS ._.
+Based_VBN on_IN all_DT features_NNS in_IN user_NN and_CC content_NN profiles_NNS ,_, we_PRP develop_VBP predictive_JJ bilinear_JJ regression_NN models_NNS to_TO provide_VB accurate_JJ personalized_JJ recommendations_NNS of_IN new_JJ items_NNS for_IN both_CC existing_JJ and_CC new_JJ users_NNS ._.
+This_DT approach_NN results_VBZ in_IN an_DT offline_JJ model_NN with_IN light_JJ computational_JJ overhead_NN compared_VBN with_IN other_JJ recommender_NN systems_NNS that_WDT require_VBP online_NN re-training_NN ._.
+The_DT proposed_VBN framework_NN is_VBZ general_JJ and_CC flexible_JJ for_IN other_JJ personalized_JJ tasks_NNS ._.
+The_DT superior_JJ performance_NN of_IN our_PRP$ approach_NN is_VBZ verified_VBN on_IN a_DT large-scale_JJ data_NN set_NN collected_VBN from_IN the_DT Today-Module_NNP on_IN Yahoo_NNP !_.
+Front_NN Page_NNP ,_, with_IN comparison_NN against_IN six_CD competitive_JJ approaches_NNS ._.

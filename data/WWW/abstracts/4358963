@@ -1,0 +1,9 @@
+Expertise_NN networks_NNS in_IN online_JJ communities_NNS :_: structure_NN and_CC algorithms_NNS
+Web-based_JJ communities_NNS have_VBP become_VBN important_JJ places_NNS for_IN people_NNS to_TO seek_VB and_CC share_VB expertise_NN ._.
+We_PRP find_VBP that_IN networks_NNS in_IN these_DT communities_NNS typically_RB differ_VBP in_IN their_PRP$ topology_NN from_IN other_JJ online_JJ networks_NNS such_JJ as_IN the_DT World_NNP Wide_NN Web_NN ._.
+Systems_NNP targeted_VBD to_TO augment_VB web-based_JJ communities_NNS by_IN automatically_RB identifying_VBG users_NNS with_IN expertise_NN ,_, for_IN example_NN ,_, need_VBP to_TO adapt_VB to_TO the_DT underlying_JJ interaction_NN dynamics_NNS ._.
+In_IN this_DT study_NN ,_, we_PRP analyze_VBP the_DT Java_NNP Forum_NNP ,_, a_DT large_JJ online_JJ help-seeking_JJ community_NN ,_, using_VBG social_JJ network_NN analysis_NN methods_NNS ._.
+We_PRP test_VBP a_DT set_NN of_IN network-based_JJ ranking_NN algorithms_NNS ,_, including_VBG PageRank_NNP and_CC HITS_NNP ,_, on_IN this_DT large_JJ size_NN social_JJ network_NN in_IN order_NN to_TO identify_VB users_NNS with_IN high_JJ expertise_NN ._.
+We_PRP then_RB use_VBP simulations_NNS to_TO identify_VB a_DT small_JJ number_NN of_IN simple_JJ simulation_NN rules_NNS governing_VBG the_DT question-answer_JJ dynamic_NN in_IN the_DT network_NN ._.
+These_DT simple_JJ rules_NNS not_RB only_RB replicate_VB the_DT structural_JJ characteristics_NNS and_CC algorithm_NN performance_NN on_IN the_DT empirically_RB observed_VBN Java_NNP Forum_NNP ,_, but_CC also_RB allow_VBP us_PRP to_TO evaluate_VB how_WRB other_JJ algorithms_NNS may_MD perform_VB in_IN communities_NNS with_IN different_JJ characteristics_NNS ._.
+We_PRP believe_VBP this_DT approach_NN will_MD be_VB fruitful_JJ for_IN practical_JJ algorithm_NN design_NN and_CC implementation_NN for_IN online_JJ expertise-sharing_JJ communities_NNS ._.

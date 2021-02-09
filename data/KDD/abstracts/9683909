@@ -1,0 +1,14 @@
+Direct_JJ mining_NN of_IN discriminative_JJ and_CC essential_JJ frequent_JJ patterns_NNS via_IN model-based_JJ search_NN tree_NN
+Frequent_JJ patterns_NNS provide_VBP solutions_NNS to_TO datasets_NNS that_WDT do_VBP not_RB have_VB well-structured_JJ feature_NN vectors_NNS ._.
+However_RB ,_, frequent_JJ pattern_NN mining_NN is_VBZ non-trivial_JJ since_IN the_DT number_NN of_IN unique_JJ patterns_NNS is_VBZ exponential_JJ but_CC many_JJ are_VBP non-discriminative_JJ and_CC correlated_VBN ._.
+Currently_RB ,_, frequent_JJ pattern_NN mining_NN is_VBZ performed_VBN in_IN two_CD sequential_JJ steps_NNS :_: enumerating_VBG a_DT set_NN of_IN frequent_JJ patterns_NNS ,_, followed_VBN by_IN feature_NN selection_NN ._.
+Although_IN many_JJ methods_NNS have_VBP been_VBN proposed_VBN in_IN the_DT past_JJ few_JJ years_NNS on_IN how_WRB to_TO perform_VB each_DT separate_JJ step_NN efficiently_RB ,_, there_EX is_VBZ still_RB limited_JJ success_NN in_IN eventually_RB finding_VBG highly_RB compact_JJ and_CC discriminative_JJ patterns_NNS ._.
+The_DT culprit_NN is_VBZ due_JJ to_TO the_DT inherent_JJ nature_NN of_IN this_DT widely_RB adopted_VBN two-step_JJ approach_NN ._.
+This_DT paper_NN discusses_VBZ these_DT problems_NNS and_CC proposes_VBZ a_DT new_JJ and_CC different_JJ method_NN ._.
+It_PRP builds_VBZ a_DT decision_NN tree_NN that_WDT partitions_VBZ the_DT data_NNS onto_IN different_JJ nodes_NNS ._.
+Then_RB at_IN each_DT node_NN ,_, it_PRP directly_RB discovers_VBZ a_DT discriminative_JJ pattern_NN to_TO further_RB divide_VB its_PRP$ examples_NNS into_IN purer_JJR subsets_NNS ._.
+Since_IN the_DT number_NN of_IN examples_NNS towards_IN leaf_NN level_NN is_VBZ relatively_RB small_JJ ,_, the_DT new_JJ approach_NN is_VBZ able_JJ to_TO examine_VB patterns_NNS with_IN extremely_RB low_JJ global_JJ support_NN that_WDT could_MD not_RB be_VB enumerated_VBN on_IN the_DT whole_JJ dataset_NN by_IN the_DT two-step_JJ method_NN ._.
+The_DT discovered_VBN feature_NN vectors_NNS are_VBP more_RBR accurate_JJ on_IN some_DT of_IN the_DT most_RBS difficult_JJ graph_NN as_RB well_RB as_IN frequent_JJ itemset_NN problems_NNS than_IN most_RBS recently_RB proposed_VBN algorithms_NNS but_CC the_DT total_JJ size_NN is_VBZ typically_RB 50_CD %_NN or_CC more_JJR smaller_JJR ._.
+Importantly_RB ,_, the_DT minimum_JJ support_NN of_IN some_DT discriminative_JJ patterns_NNS can_MD be_VB extremely_RB low_JJ -LRB-_-LRB- e.g._FW 0.03_CD %_NN -RRB-_-RRB- ._.
+In_IN order_NN to_TO enumerate_VB these_DT low_JJ support_NN patterns_NNS ,_, state-of-the-art_JJ frequent_JJ pattern_NN algorithm_NN either_CC can_MD not_RB finish_VB due_JJ to_TO huge_JJ memory_NN consumption_NN or_CC have_VBP to_TO enumerate_VB 101_CD to_TO 103_CD times_NNS more_JJR patterns_NNS before_IN they_PRP can_MD even_RB be_VB found_VBN ._.
+Software_NNP and_CC datasets_NNS are_VBP available_JJ by_IN contacting_VBG the_DT author_NN ._.

@@ -1,0 +1,17 @@
+Learning_NNP from_IN the_DT past_NN :_: answering_VBG new_JJ questions_NNS with_IN past_JJ answers_NNS
+Community-based_JJ Question_NNP Answering_NNP sites_NNS ,_, such_JJ as_IN Yahoo_NNP !_.
+Answers_NNS or_CC Baidu_NNP Zhidao_NNP ,_, allow_VBP users_NNS to_TO get_VB answers_NNS to_TO complex_JJ ,_, detailed_JJ and_CC personal_JJ questions_NNS from_IN other_JJ users_NNS ._.
+However_RB ,_, since_IN answering_VBG a_DT question_NN depends_VBZ on_IN the_DT ability_NN and_CC willingness_NN of_IN users_NNS to_TO address_VB the_DT asker_NN 's_POS needs_NNS ,_, a_DT significant_JJ fraction_NN of_IN the_DT questions_NNS remain_VBP unanswered_JJ ._.
+We_PRP measured_VBD that_IN in_IN Yahoo_NNP !_.
+Answers_NNS ,_, this_DT fraction_NN represents_VBZ 15_CD %_NN of_IN all_DT incoming_JJ English_NNP questions_NNS ._.
+At_IN the_DT same_JJ time_NN ,_, we_PRP discovered_VBD that_IN around_IN 25_CD %_NN of_IN questions_NNS in_IN certain_JJ categories_NNS are_VBP recurrent_JJ ,_, at_IN least_JJS at_IN the_DT question-title_JJ level_NN ,_, over_IN a_DT period_NN of_IN one_CD year_NN ._.
+We_PRP attempt_VBP to_TO reduce_VB the_DT rate_NN of_IN unanswered_JJ questions_NNS in_IN Yahoo_NNP !_.
+Answers_NNS by_IN reusing_VBG the_DT large_JJ repository_NN of_IN past_JJ resolved_VBN questions_NNS ,_, openly_RB available_JJ on_IN the_DT site_NN ._.
+More_RBR specifically_RB ,_, we_PRP estimate_VBP the_DT probability_NN whether_IN certain_JJ new_JJ questions_NNS can_MD be_VB satisfactorily_RB answered_VBN by_IN a_DT best_JJS answer_NN from_IN the_DT past_NN ,_, using_VBG a_DT statistical_JJ model_NN specifically_RB trained_VBN for_IN this_DT task_NN ._.
+We_PRP leverage_NN concepts_NNS and_CC methods_NNS from_IN query-performance_JJ prediction_NN and_CC natural_JJ language_NN processing_NN in_IN order_NN to_TO extract_VB a_DT wide_JJ range_NN of_IN features_NNS for_IN our_PRP$ model_NN ._.
+The_DT key_JJ challenge_NN here_RB is_VBZ to_TO achieve_VB a_DT level_NN of_IN quality_NN similar_JJ to_TO the_DT one_NN provided_VBN by_IN the_DT best_JJS human_JJ answerers_NNS ._.
+We_PRP evaluated_VBD our_PRP$ algorithm_NN on_IN offline_JJ data_NNS extracted_VBN from_IN Yahoo_NNP !_.
+Answers_NNS ,_, but_CC more_RBR interestingly_RB ,_, also_RB on_IN online_JJ data_NNS by_IN using_VBG three_CD ``_`` live_VB ''_'' answering_VBG robots_NNS that_WDT automatically_RB provide_VBP past_JJ answers_NNS to_TO new_JJ questions_NNS when_WRB a_DT certain_JJ degree_NN of_IN confidence_NN is_VBZ reached_VBN ._.
+We_PRP report_VBP the_DT success_NN rate_NN of_IN these_DT robots_NNS in_IN three_CD active_JJ Yahoo_NNP !_.
+Answers_NNS categories_NNS in_IN terms_NNS of_IN both_DT accuracy_NN ,_, coverage_NN and_CC askers_NNS '_POS satisfaction_NN ._.
+This_DT work_NN presents_VBZ a_DT first_JJ attempt_NN ,_, to_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, of_IN automatic_JJ question_NN answering_VBG to_TO questions_NNS of_IN social_JJ nature_NN ,_, by_IN reusing_VBG past_JJ answers_NNS of_IN high_JJ quality_NN ._.

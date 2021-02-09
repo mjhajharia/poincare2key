@@ -1,0 +1,12 @@
+Designing_NNP an_DT architecture_NN for_IN delivering_VBG mobile_JJ information_NN services_NNS to_TO the_DT rural_JJ developing_VBG world_NN
+Implementing_VBG successful_JJ rural_JJ computing_NN applications_NNS requires_VBZ addressing_VBG a_DT number_NN of_IN significant_JJ challenges_NNS ._.
+Recent_JJ advances_NNS in_IN mobile_JJ phone_NN computing_NN capabilities_NNS make_VBP this_DT device_NN a_DT likely_JJ candidate_NN to_TO address_VB the_DT client_NN hardware_NN constraints_NNS ._.
+Long_JJ battery_NN life_NN ,_, wireless_JJ connectivity_NN ,_, solid-state_JJ memory_NN ,_, low_JJ price_NN and_CC immediate_JJ utility_NN all_DT make_VBP it_PRP better_RBR suited_VBN to_TO rural_JJ conditions_NNS than_IN a_DT PC_NN ._.
+However_RB ,_, current_JJ mobile_JJ software_NN platforms_NNS are_VBP not_RB as_RB appropriate_JJ ._.
+Web-based_JJ mobile_JJ applications_NNS are_VBP hard_JJ to_TO use_VB ,_, do_VBP not_RB take_VB advantage_NN of_IN the_DT mobile_JJ phone_NN 's_POS media_NNS capabilities_NNS and_CC require_VBP an_DT online_JJ connection_NN ._.
+Custom_NNP mobile_JJ applications_NNS are_VBP difficult_JJ to_TO develop_VB and_CC distribute_VB ._.
+To_TO address_VB these_DT limitations_NNS we_PRP present_VBP CAM_NNP -_: a_DT new_JJ framework_NN for_IN developing_VBG and_CC deploying_VBG mobile_JJ computing_NN applications_NNS in_IN the_DT rural_JJ developing_VBG world_NN ._.
+CAM_NN applications_NNS are_VBP accessed_VBN by_IN capturing_VBG barcodes_NNS using_VBG the_DT mobile_JJ phone_NN camera_NN ,_, or_CC entering_VBG numeric_JJ strings_NNS with_IN the_DT keypad_NN ._.
+Supporting_VBG minimal_JJ navigation_NN ,_, direct_JJ linkage_NN to_TO paper_NN practices_NNS and_CC offline_JJ multi-media_JJ interaction_NN ,_, CAM_NNP is_VBZ uniquely_RB adapted_VBN to_TO rural_JJ device_NN ,_, user_NN and_CC infrastructure_NN constraints_NNS ._.
+To_TO illustrate_VB the_DT breadth_NN of_IN the_DT framework_NN ,_, we_PRP list_VBP a_DT number_NN of_IN CAM-based_JJ applications_NNS that_IN we_PRP have_VBP implemented_VBN or_CC are_VBP planning_VBG ._.
+These_DT include_VBP processing_NN microfinance_NN loans_NNS ,_, facilitating_VBG rural_JJ supply_NN chains_NNS ,_, documenting_VBG grassroots_NNS innovation_NN and_CC accessing_VBG electronic_JJ medical_JJ histories_NNS ._.

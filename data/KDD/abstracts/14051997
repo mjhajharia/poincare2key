@@ -1,0 +1,9 @@
+Sparsification_NN of_IN influence_NN networks_NNS
+We_PRP present_VBP Spine_NNP ,_, an_DT efficient_JJ algorithm_NN for_IN finding_VBG the_DT ``_`` backbone_NN ''_'' of_IN an_DT influence_NN network_NN ._.
+Given_VBN a_DT social_JJ graph_NN and_CC a_DT log_NN of_IN past_JJ propagations_NNS ,_, we_PRP build_VBP an_DT instance_NN of_IN the_DT independent-cascade_JJ model_NN that_WDT describes_VBZ the_DT propagations_NNS ._.
+We_PRP aim_VBP at_IN reducing_VBG the_DT complexity_NN of_IN that_DT model_NN ,_, while_IN preserving_VBG most_JJS of_IN its_PRP$ accuracy_NN in_IN describing_VBG the_DT data_NNS ._.
+We_PRP show_VBP that_IN the_DT problem_NN is_VBZ inapproximable_JJ and_CC we_PRP present_VBP an_DT optimal_JJ ,_, dynamic-programming_JJ algorithm_NN ,_, whose_WP$ search_NN space_NN ,_, albeit_IN exponential_NN ,_, is_VBZ typically_RB much_RB smaller_JJR than_IN that_DT of_IN the_DT brute_JJ force_NN ,_, exhaustive-search_JJ approach_NN ._.
+Seeking_VBG a_DT practical_JJ ,_, scalable_JJ approach_NN to_TO sparsification_NN ,_, we_PRP devise_VBP Spine_NN ,_, a_DT greedy_JJ ,_, efficient_JJ algorithm_NN with_IN practically_RB little_JJ compromise_NN in_IN quality_NN ._.
+We_PRP claim_VBP that_IN sparsification_NN is_VBZ a_DT fundamental_JJ data-reduction_NN operation_NN with_IN many_JJ applications_NNS ,_, ranging_VBG from_IN visualization_NN to_TO exploratory_JJ and_CC descriptive_JJ data_NN analysis_NN ._.
+As_IN a_DT proof_NN of_IN concept_NN ,_, we_PRP use_VBP Spine_NN on_IN real-world_JJ datasets_NNS ,_, revealing_VBG the_DT backbone_NN of_IN their_PRP$ influence-propagation_NN networks_NNS ._.
+Moreover_RB ,_, we_PRP apply_VBP Spine_NN as_IN a_DT pre-processing_JJ step_NN for_IN the_DT influence-maximization_NN problem_NN ,_, showing_VBG that_IN computations_NNS on_IN sparsified_JJ models_NNS give_VBP up_RP little_JJ accuracy_NN ,_, but_CC yield_NN significant_JJ improvements_NNS in_IN terms_NNS of_IN scalability_NN ._.

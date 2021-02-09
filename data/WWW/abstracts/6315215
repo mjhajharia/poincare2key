@@ -1,0 +1,9 @@
+Planetary-scale_JJ views_NNS on_IN a_DT large_JJ instant-messaging_JJ network_NN
+We_PRP present_VBP a_DT study_NN of_IN anonymized_JJ data_NNS capturing_VBG a_DT month_NN of_IN high-level_JJ communication_NN activities_NNS within_IN the_DT whole_NN of_IN the_DT Microsoft_NNP Messenger_NNP instant-messaging_NN system_NN ._.
+We_PRP examine_VBP characteristics_NNS and_CC patterns_NNS that_WDT emerge_VBP from_IN the_DT collective_JJ dynamics_NNS of_IN large_JJ numbers_NNS of_IN people_NNS ,_, rather_RB than_IN the_DT actions_NNS and_CC characteristics_NNS of_IN individuals_NNS ._.
+The_DT dataset_NN contains_VBZ summary_NN properties_NNS of_IN 30_CD billion_CD conversations_NNS among_IN 240_CD million_CD people_NNS ._.
+From_IN the_DT data_NNS ,_, we_PRP construct_VBP a_DT communication_NN graph_NN with_IN 180_CD million_CD nodes_NNS and_CC 1.3_CD billion_CD undirected_JJ edges_NNS ,_, creating_VBG the_DT largest_JJS social_JJ network_NN constructed_VBN and_CC analyzed_VBN to_TO date_NN ._.
+We_PRP report_VBP on_IN multiple_JJ aspects_NNS of_IN the_DT dataset_NN and_CC synthesized_VBN graph_NN ._.
+We_PRP find_VBP that_IN the_DT graph_NN is_VBZ well-connected_JJ and_CC robust_JJ to_TO node_NN removal_NN ._.
+We_PRP investigate_VBP on_IN a_DT planetary-scale_NN the_DT oft-cited_JJ report_NN that_IN people_NNS are_VBP separated_VBN by_IN ``_`` six_CD degrees_NNS of_IN separation_NN ''_'' and_CC find_VBP that_IN the_DT average_JJ path_NN length_NN among_IN Messenger_NN users_NNS is_VBZ 6.6_CD ._.
+We_PRP find_VBP that_IN people_NNS tend_VBP to_TO communicate_VB more_RBR with_IN each_DT other_JJ when_WRB they_PRP have_VBP similar_JJ age_NN ,_, language_NN ,_, and_CC location_NN ,_, and_CC that_IN cross-gender_JJ conversations_NNS are_VBP both_DT more_RBR frequent_JJ and_CC of_IN longer_JJR duration_NN than_IN conversations_NNS with_IN the_DT same_JJ gender_NN ._.

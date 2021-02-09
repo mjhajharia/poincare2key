@@ -1,0 +1,12 @@
+Better_NNP abstractions_NNS for_IN secure_JJ server-side_JJ scripting_NN
+It_PRP is_VBZ notoriously_RB difficult_JJ to_TO program_VB a_DT solid_JJ web_NN application_NN ._.
+Besides_IN addressing_VBG web_NN interactions_NNS ,_, state_NN maintenance_NN ,_, and_CC whimsical_JJ user_NN navigation_NN behaviors_NNS ,_, programmers_NNS must_MD also_RB avoid_VB a_DT minefield_NN of_IN security_NN vulnerabilities_NNS ._.
+The_DT problem_NN is_VBZ twofold_JJ ._.
+First_RB ,_, we_PRP lack_VBP a_DT clear_JJ understanding_NN of_IN the_DT new_JJ computation_NN model_NN underlying_VBG web_NN applications_NNS ._.
+Second_RB ,_, we_PRP lack_VBP proper_JJ abstractions_NNS for_IN hiding_VBG common_JJ and_CC subtle_JJ coding_NN details_NNS that_WDT are_VBP orthogonal_JJ to_TO the_DT business_NN functionalities_NNS of_IN specific_JJ web_NN applications_NNS ._.
+This_DT paper_NN addresses_VBZ both_DT issues_NNS ._.
+First_RB ,_, we_PRP present_VBP a_DT language_NN BASS_NN for_IN declarative_JJ server-side_JJ scripting_NN ._.
+BASS_NN allows_VBZ programmers_NNS to_TO work_VB in_IN an_DT ideal_JJ world_NN ,_, using_VBG new_JJ abstractions_NNS to_TO tackle_VB common_JJ but_CC problematic_JJ aspects_NNS of_IN web_NN programming_NN ._.
+The_DT meta_NN properties_NNS of_IN BASS_NN provide_VBP useful_JJ security_NN guarantees_NNS ._.
+Second_RB ,_, we_PRP present_VBP a_DT language_NN MOSS_NN reflecting_VBG realistic_JJ web_NN programming_NN concepts_NNS and_CC scenarios_NNS ,_, thus_RB articulating_VBG the_DT computation_NN model_NN behind_IN web_NN programming_NN ._.
+Finally_RB ,_, we_PRP present_VBP a_DT translation_NN from_IN BASS_NN to_TO MOSS_NNP ,_, demonstrating_VBG how_WRB the_DT ideal_JJ programming_NN model_NN and_CC security_NN guarantees_NNS of_IN BASS_NN can_MD be_VB implemented_VBN in_IN practice_NN ._.

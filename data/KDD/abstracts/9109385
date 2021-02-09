@@ -1,0 +1,12 @@
+Anonymizing_JJ transaction_NN databases_NNS for_IN publication_NN
+This_DT paper_NN considers_VBZ the_DT problem_NN of_IN publishing_VBG ``_`` transaction_NN data_NNS ''_'' for_IN research_NN purposes_NNS ._.
+Each_DT transaction_NN is_VBZ an_DT arbitrary_JJ set_NN of_IN items_NNS chosen_VBN from_IN a_DT large_JJ universe_NN ._.
+Detailed_JJ transaction_NN data_NNS provides_VBZ an_DT electronic_JJ image_NN of_IN one_NN 's_POS life_NN ._.
+This_DT has_VBZ two_CD implications_NNS ._.
+One_CD ,_, transaction_NN data_NNS are_VBP excellent_JJ candidates_NNS for_IN data_NNS mining_NN research_NN ._.
+Two_CD ,_, use_NN of_IN transaction_NN data_NNS would_MD raise_VB serious_JJ concerns_NNS over_IN individual_JJ privacy_NN ._.
+Therefore_RB ,_, before_IN transaction_NN data_NNS is_VBZ released_VBN for_IN data_NNS mining_NN ,_, it_PRP must_MD be_VB made_VBN anonymous_JJ so_IN that_IN data_NNS subjects_NNS can_MD not_RB be_VB re-identified_JJ ._.
+The_DT challenge_NN is_VBZ that_IN transaction_NN data_NNS has_VBZ no_DT structure_NN and_CC can_MD be_VB extremely_RB high_JJ dimensional_NN ._.
+Traditional_JJ anonymization_NN methods_NNS lose_VBP too_RB much_JJ information_NN on_IN such_JJ data_NNS ._.
+To_TO date_NN ,_, there_EX has_VBZ been_VBN no_DT satisfactory_JJ privacy_NN notion_NN and_CC solution_NN proposed_VBN for_IN anonymizing_VBG transaction_NN data_NNS ._.
+This_DT paper_NN proposes_VBZ one_CD way_NN to_TO address_VB this_DT issue_NN ._.

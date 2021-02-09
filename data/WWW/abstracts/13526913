@@ -1,0 +1,12 @@
+Co-browsing_JJ dynamic_JJ web_NN pages_NNS
+Collaborative_JJ browsing_NN ,_, or_CC co-browsing_NN ,_, is_VBZ the_DT co-navigation_NN of_IN the_DT web_NN with_IN other_JJ people_NNS at-a-distance_JJ ,_, supported_VBN by_IN software_NN that_WDT takes_VBZ care_NN of_IN synchronizing_VBG the_DT browsers_NNS ._.
+Current_JJ state-of-the-art_JJ solutions_NNS are_VBP able_JJ to_TO do_VB co-browsing_NN of_IN ``_`` static_JJ web_NN pages_NNS ''_'' ,_, and_CC do_VBP not_RB support_VB the_DT synchronization_NN of_IN JavaScript_NNP interactions_NNS ._.
+However_RB ,_, currently_RB many_JJ web_NN pages_NNS use_VBP JavaScript_NNP and_CC Ajax_NNP techniques_NNS to_TO create_VB highly_RB dynamic_JJ and_CC interactive_JJ web_NN applications_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP two_CD approaches_NNS for_IN co-browsing_NN that_IN both_DT support_VBP the_DT synchronization_NN of_IN the_DT JavaScript_NNP and_CC Ajax_NNP interactions_NNS of_IN dynamic_JJ web_NN pages_NNS ._.
+One_CD approach_NN is_VBZ based_VBN on_IN synchronizing_VBG the_DT output_NN of_IN the_DT JavaScript_NNP engine_NN by_IN sending_VBG over_IN the_DT changes_NNS made_VBN on_IN the_DT DOM_NNP tree_NN ._.
+The_DT other_JJ approach_NN is_VBZ based_VBN on_IN synchronizing_VBG the_DT input_NN of_IN the_DT JavaScript_NNP engine_NN by_IN synchronizing_VBG UI_NN events_NNS and_CC incoming_JJ data_NNS ._.
+Since_IN the_DT latter_JJ solution_NN offers_VBZ a_DT better_JJR user_NN experience_NN and_CC is_VBZ more_RBR scalable_JJ ,_, it_PRP is_VBZ elaborated_VBN in_IN more_JJR detail_NN ._.
+An_DT important_JJ aspect_NN of_IN both_DT approaches_NNS is_VBZ that_IN they_PRP operate_VBP at_IN the_DT DOM_NNP level_NN ._.
+Therefore_RB ,_, the_DT client-side_NN can_MD be_VB implemented_VBN in_IN JavaScript_NNP and_CC no_DT browser_NN extensions_NNS are_VBP required_VBN ._.
+To_TO the_DT best_JJS of_IN the_DT authors_NNS '_POS knowledge_NN this_DT is_VBZ the_DT first_JJ DOM-level_JJ co-browsing_JJ solution_NN that_WDT also_RB enables_VBZ co-browsing_NN of_IN the_DT dynamic_JJ interaction_NN parts_NNS of_IN web_NN pages_NNS ._.
+The_DT presented_VBN co-browsing_NN solution_NN has_VBZ been_VBN implemented_VBN in_IN a_DT research_NN demonstrator_NN which_WDT allows_VBZ users_NNS to_TO do_VB co-browsing_NN of_IN web-applications_NNS on_IN browser-based_JJ networked_JJ televisions_NNS ._.

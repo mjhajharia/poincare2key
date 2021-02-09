@@ -1,0 +1,12 @@
+V-Miner_NN :_: using_VBG enhanced_VBN parallel_NN coordinates_VBZ to_TO mine_VB product_NN design_NN and_CC test_NN data_NNS
+Analyzing_VBG data_NNS to_TO find_VB trends_NNS ,_, correlations_NNS ,_, and_CC stable_JJ patterns_NNS is_VBZ an_DT important_JJ task_NN in_IN many_JJ industrial_JJ applications_NNS ._.
+This_DT paper_NN proposes_VBZ a_DT new_JJ technique_NN based_VBN on_IN parallel_JJ coordinate_JJ visualization_NN ._.
+Previous_JJ work_NN on_IN parallel_JJ coordinate_JJ methods_NNS has_VBZ shown_VBN that_IN they_PRP are_VBP effective_JJ only_RB when_WRB variables_NNS that_WDT are_VBP correlated_VBN and\/or_CC show_VBP similar_JJ patterns_NNS are_VBP displayed_VBN adjacently_RB ._.
+Although_IN current_JJ parallel_JJ coordinate_NN tools_NNS allow_VBP the_DT user_NN to_TO manually_RB rearrange_VB the_DT order_NN of_IN variables_NNS ,_, this_DT process_NN is_VBZ very_RB time-consuming_JJ when_WRB the_DT number_NN of_IN variables_NNS is_VBZ large_JJ ._.
+Automated_NNP assistance_NN is_VBZ required_VBN ._.
+This_DT paper_NN introduces_VBZ an_DT edit-distance_JJ based_JJ technique_NN to_TO rearrange_VB variables_NNS so_RB that_IN interesting_JJ change_NN patterns_NNS can_MD be_VB easily_RB detected_VBN visually_RB ._.
+The_DT Visual_NNP Miner_NNP -LRB-_-LRB- V-Miner_NN -RRB-_-RRB- software_NN includes_VBZ both_DT automated_JJ methods_NNS for_IN visualizing_VBG common_JJ patterns_NNS and_CC a_DT query_NN tool_NN that_WDT enables_VBZ the_DT user_NN to_TO describe_VB specific_JJ target_NN patterns_NNS to_TO be_VB mined_VBN or_CC displayed_VBN by_IN the_DT system_NN ._.
+In_IN addition_NN ,_, the_DT system_NN can_MD filter_NN data_NNS according_VBG to_TO rules_NNS sets_NNS imported_VBN from_IN other_JJ data_NNS mining_NN tools_NNS ._.
+This_DT feature_NN was_VBD found_VBN very_RB helpful_JJ in_IN practice_NN ,_, because_IN it_PRP enables_VBZ decision_NN makers_NNS to_TO visually_RB identify_VB interesting_JJ rules_NNS and_CC data_NNS segments_NNS for_IN further_JJ analysis_NN or_CC data_NN mining_NN ._.
+This_DT paper_NN begins_VBZ with_IN an_DT introduction_NN to_TO the_DT proposed_VBN techniques_NNS and_CC the_DT V-Miner_NN system_NN ._.
+Next_RB ,_, a_DT case_NN study_NN illustrates_VBZ how_WRB V-Miner_NN has_VBZ been_VBN used_VBN at_IN Motorola_NNP to_TO guide_VB product_NN design_NN and_CC test_NN decisions_NNS ._.

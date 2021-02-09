@@ -1,0 +1,10 @@
+Privacy_NN in_IN dynamic_JJ social_JJ networks_NNS
+Anonymization_NN of_IN social_JJ networks_NNS before_IN they_PRP are_VBP published_VBN or_CC shared_VBN has_VBZ become_VBN an_DT important_JJ research_NN question_NN ._.
+Recent_JJ work_NN on_IN anonymizing_VBG social_JJ networks_NNS has_VBZ looked_VBN at_IN privacy_NN preserving_NN techniques_NNS for_IN publishing_VBG a_DT single_JJ instance_NN of_IN the_DT network_NN ._.
+However_RB ,_, social_JJ networks_NNS evolve_VBP and_CC a_DT single_JJ instance_NN is_VBZ inadequate_JJ for_IN analyzing_VBG the_DT evolution_NN of_IN the_DT social_JJ network_NN or_CC for_IN performing_VBG any_DT longitudinal_JJ data_NN analysis_NN ._.
+We_PRP study_VBD the_DT problem_NN of_IN repeatedly_RB publishing_VBG social_JJ network_NN data_NNS as_IN the_DT network_NN evolves_VBZ ,_, while_IN preserving_VBG privacy_NN of_IN users_NNS ._.
+Publishing_NN multiple_JJ instances_NNS of_IN the_DT same_JJ network_NN independently_RB has_VBZ privacy_NN risks_NNS ,_, since_IN stitching_VBG the_DT information_NN together_RB may_MD allow_VB an_DT adversary_NN to_TO identify_VB users_NNS in_IN the_DT networks_NNS ._.
+We_PRP propose_VBP methods_NNS to_TO anonymize_VB a_DT dynamic_JJ network_NN such_JJ that_IN the_DT privacy_NN of_IN users_NNS is_VBZ preserved_VBN when_WRB new_JJ nodes_NNS and_CC edges_NNS are_VBP added_VBN to_TO the_DT published_VBN network_NN ._.
+These_DT methods_NNS make_VBP use_NN of_IN link_NN prediction_NN algorithms_NNS to_TO model_VB the_DT evolution_NN of_IN the_DT social_JJ network_NN ._.
+Using_VBG this_DT predicted_VBN graph_NN to_TO perform_VB group-based_JJ anonymization_NN ,_, the_DT loss_NN in_IN privacy_NN caused_VBN by_IN new_JJ edges_NNS can_MD be_VB reduced_VBN ._.
+We_PRP evaluate_VBP the_DT privacy_NN loss_NN on_IN publishing_NN multiple_JJ social_JJ network_NN instances_NNS using_VBG our_PRP$ methods_NNS ._.

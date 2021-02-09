@@ -1,0 +1,10 @@
+Towards_IN context-aware_JJ search_NN by_IN learning_VBG a_DT very_RB large_JJ variable_JJ length_NN hidden_JJ markov_NN model_NN from_IN search_NN logs_NNS
+Capturing_VBG the_DT context_NN of_IN a_DT user_NN 's_POS query_NN from_IN the_DT previous_JJ queries_NNS and_CC clicks_NNS in_IN the_DT same_JJ session_NN may_MD help_VB understand_VB the_DT user_NN 's_POS information_NN need_NN ._.
+A_DT context-aware_JJ approach_NN to_TO document_VB re-ranking_JJ ,_, query_JJ suggestion_NN ,_, and_CC URL_NN recommendation_NN may_MD improve_VB users_NNS '_POS search_NN experience_NN substantially_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT general_JJ approach_NN to_TO context-aware_JJ search_NN ._.
+To_TO capture_VB contexts_NNS of_IN queries_NNS ,_, we_PRP learn_VBP a_DT variable_JJ length_NN Hidden_NNP Markov_NNP Model_NNP -LRB-_-LRB- vlHMM_NN -RRB-_-RRB- from_IN search_NN sessions_NNS extracted_VBN from_IN log_NN data_NNS ._.
+Although_IN the_DT mathematical_JJ model_NN is_VBZ intuitive_JJ ,_, how_WRB to_TO learn_VB a_DT large_JJ vlHMM_NN with_IN millions_NNS of_IN states_NNS from_IN hundreds_NNS of_IN millions_NNS of_IN search_NN sessions_NNS poses_VBZ a_DT grand_JJ challenge_NN ._.
+We_PRP develop_VBP a_DT strategy_NN for_IN parameter_NN initialization_NN in_IN vlHMM_NN learning_NN which_WDT can_MD greatly_RB reduce_VB the_DT number_NN of_IN parameters_NNS to_TO be_VB estimated_VBN in_IN practice_NN ._.
+We_PRP also_RB devise_VBP a_DT method_NN for_IN distributed_VBN vlHMM_NN learning_VBG under_IN the_DT map-reduce_JJ model_NN ._.
+We_PRP test_VBP our_PRP$ approach_NN on_IN a_DT real_JJ data_NN set_NN consisting_VBG of_IN 1.8_CD billion_CD queries_NNS ,_, 2.6_CD billion_CD clicks_NNS ,_, and_CC 840_CD million_CD search_NN sessions_NNS ,_, and_CC evaluate_VB the_DT effectiveness_NN of_IN the_DT vlHMM_NN learned_VBD from_IN the_DT real_JJ data_NNS on_IN three_CD search_NN applications_NNS :_: document_NN re-ranking_NN ,_, query_NN suggestion_NN ,_, and_CC URL_NN recommendation_NN ._.
+The_DT experimental_JJ results_NNS show_VBP that_IN our_PRP$ approach_NN is_VBZ both_CC effective_JJ and_CC efficient_JJ ._.

@@ -1,0 +1,10 @@
+AdHeat_NNP :_: an_DT influence-based_JJ diffusion_NN model_NN for_IN propagating_VBG hints_NNS to_TO match_VB ads_NNS
+In_IN this_DT paper_NN ,_, we_PRP present_VBP AdHeat_NNP ,_, a_DT social_JJ ad_NN model_NN considering_VBG user_NN influence_NN in_IN addition_NN to_TO relevance_NN for_IN matching_VBG ads_NNS ._.
+Traditionally_RB ,_, ad_NN placement_NN employs_VBZ the_DT relevance_NN model_NN ._.
+Such_JJ a_DT model_NN matches_VBZ ads_NNS with_IN Web_NN page_NN content_NN ,_, user_NN interests_NNS ,_, or_CC both_DT ._.
+We_PRP have_VBP observed_VBN ,_, however_RB ,_, on_IN social_JJ networks_NNS that_IN the_DT relevance_NN model_NN suffers_VBZ from_IN two_CD shortcomings_NNS ._.
+First_JJ ,_, influential_JJ users_NNS -LRB-_-LRB- users_NNS who_WP contribute_VBP opinions_NNS -RRB-_-RRB- seldom_RB click_VBP ads_NNS that_WDT are_VBP highly_RB relevant_JJ to_TO their_PRP$ expertise_NN ._.
+Second_RB ,_, because_IN influential_JJ users_NNS '_POS contents_NNS and_CC activities_NNS are_VBP attractive_JJ to_TO other_JJ users_NNS ,_, hint_NN words_NNS summarizing_VBG their_PRP$ expertise_NN and_CC activities_NNS may_MD be_VB widely_RB preferred_VBN ._.
+Therefore_RB ,_, we_PRP propose_VBP AdHeat_NNP ,_, which_WDT diffuses_VBZ hint_NN words_NNS of_IN influential_JJ users_NNS to_TO others_NNS and_CC then_RB matches_VBZ ads_NNS for_IN each_DT user_NN with_IN aggregated_JJ hints_NNS ._.
+We_PRP performed_VBD experiments_NNS on_IN a_DT large_JJ online_JJ Q&A_NN community_NN with_IN half_PDT a_DT million_CD users_NNS ._.
+The_DT experimental_JJ results_NNS show_VBP that_IN AdHeat_NNP outperforms_VBZ the_DT relevance_NN model_NN on_IN CTR_NN -LRB-_-LRB- click_VB through_IN rate_NN -RRB-_-RRB- by_IN significant_JJ margins_NNS ._.

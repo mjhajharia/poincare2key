@@ -1,0 +1,9 @@
+Groupme_NN !_.
+This_DT paper_NN presents_VBZ the_DT GroupMe_NN !_.
+system_NN ,_, a_DT resource_NN sharing_NN system_NN with_IN advanced_JJ tagging_NN functionality_NN ._.
+GroupMe_NN !_.
+provides_VBZ a_DT novel_JJ user_NN interface_NN ,_, which_WDT enables_VBZ users_NNS to_TO organize_VB and_CC arrange_VB arbitrary_JJ Web_NN resources_NNS into_IN groups_NNS ._.
+The_DT content_NN of_IN such_JJ groups_NNS can_MD be_VB overlooked_VBN and_CC inspected_VBN immediately_RB as_IN resources_NNS are_VBP visualized_VBN in_IN a_DT multimedia-based_JJ fashion_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP furthermore_RB introduce_VBP new_JJ folksonomy-based_JJ ranking_NN strategies_NNS that_WDT exploit_VBP the_DT group_NN structure_NN shipped_VBN with_IN GroupMe_NN !_.
+folksonomies_NNS ._.
+Experiments_NNS show_VBP that_IN those_DT strategies_NNS significantly_RB improve_VB the_DT performance_NN of_IN such_JJ ranking_JJ algorithms_NNS ._.

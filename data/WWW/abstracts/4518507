@@ -1,0 +1,6 @@
+Querying_VBG and_CC maintaining_VBG a_DT compact_JJ XML_NN storage_NN
+As_IN XML_NN database_NN sizes_NNS grow_VBP ,_, the_DT amount_NN of_IN space_NN used_VBN for_IN storing_VBG the_DT data_NNS and_CC auxiliary_JJ data_NNS structures_NNS becomes_VBZ a_DT major_JJ factor_NN in_IN query_NN and_CC update_VB performance_NN ._.
+This_DT paper_NN presents_VBZ a_DT new_JJ storage_NN scheme_NN for_IN XML_NN data_NNS that_WDT supports_VBZ all_DT navigational_JJ operations_NNS in_IN near_JJ constant_JJ time_NN ._.
+In_IN addition_NN to_TO supporting_VBG efficient_JJ queries_NNS ,_, the_DT space_NN requirement_NN of_IN the_DT proposed_VBN scheme_NN is_VBZ within_IN a_DT constant_JJ factor_NN of_IN the_DT information_NN theoretic_JJ minimum_NN ,_, while_IN insertions_NNS and_CC deletions_NNS can_MD be_VB performed_VBN in_IN near_JJ constant_JJ time_NN as_RB well_RB ._.
+As_IN a_DT result_NN ,_, the_DT proposed_VBN structure_NN features_VBZ a_DT small_JJ memory_NN footprint_NN that_WDT increases_VBZ cache_NN locality_NN ,_, whilst_IN still_RB supporting_VBG standard_JJ APIs_NNS ,_, such_JJ as_IN DOM_NNP ,_, and_CC necessary_JJ database_NN operations_NNS ,_, such_JJ as_IN queries_NNS and_CC updates_NNS ,_, efficiently_RB ._.
+Analysis_NN and_CC experiments_NNS show_VBP that_IN the_DT proposed_VBN structure_NN is_VBZ space_NN and_CC time_NN efficient_JJ ._.

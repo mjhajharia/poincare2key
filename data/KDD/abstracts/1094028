@@ -1,0 +1,7 @@
+Maximally_RB informative_JJ k-itemsets_NNS and_CC their_PRP$ efficient_JJ discovery_NN
+In_IN this_DT paper_NN we_PRP present_VBP a_DT new_JJ approach_NN to_TO mining_NN binary_JJ data_NNS ._.
+We_PRP treat_VBP each_DT binary_JJ feature_NN -LRB-_-LRB- item_NN -RRB-_-RRB- as_IN a_DT means_NN of_IN distinguishing_VBG two_CD sets_NNS of_IN examples_NNS ._.
+Our_PRP$ interest_NN is_VBZ in_IN selecting_VBG from_IN the_DT total_JJ set_NN of_IN items_NNS an_DT itemset_NN of_IN specified_JJ size_NN ,_, such_JJ that_IN the_DT database_NN is_VBZ partitioned_VBN with_IN as_RB uniform_JJ a_DT distribution_NN over_IN the_DT parts_NNS as_IN possible_JJ ._.
+To_TO achieve_VB this_DT goal_NN ,_, we_PRP propose_VBP the_DT use_NN of_IN joint_JJ entropy_NN as_IN a_DT quality_NN measure_NN for_IN itemsets_NNS ,_, and_CC refer_VBP to_TO optimal_JJ itemsets_NNS of_IN cardinality_NN k_NN as_RB maximally_RB informative_JJ k-itemsets_NNS ._.
+We_PRP claim_VBP that_IN this_DT approach_NN maximises_VBZ distinctive_JJ power_NN ,_, as_RB well_RB as_IN minimises_VBZ redundancy_NN within_IN the_DT feature_NN set_NN ._.
+A_DT number_NN of_IN algorithms_NNS is_VBZ presented_VBN for_IN computing_VBG optimal_JJ itemsets_NNS efficiently_RB ._.

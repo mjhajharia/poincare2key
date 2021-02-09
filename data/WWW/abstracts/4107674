@@ -1,0 +1,11 @@
+Information_NN flow_NN modeling_NN based_VBN on_IN diffusion_NN rate_NN for_IN prediction_NN and_CC ranking_NN
+Information_NNP flows_VBZ in_IN a_DT network_NN where_WRB individuals_NNS influence_VBP each_DT other_JJ ._.
+The_DT diffusion_NN rate_NN captures_VBZ how_WRB efficiently_RB the_DT information_NN can_MD diffuse_VB among_IN the_DT users_NNS in_IN the_DT network_NN ._.
+We_PRP propose_VBP an_DT information_NN flow_NN model_NN that_WDT leverages_VBZ diffusion_NN rates_NNS for_IN :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- prediction_NN ._.
+identify_VB where_WRB information_NN should_MD flow_VB to_TO ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- ranking_NN ._.
+identify_VB who_WP will_MD most_RBS quickly_RB receive_VB the_DT information_NN ._.
+For_IN prediction_NN ,_, we_PRP measure_VBP how_WRB likely_JJ information_NN will_MD propagate_VB from_IN a_DT specific_JJ sender_NN to_TO a_DT specific_JJ receiver_NN during_IN a_DT certain_JJ time_NN period_NN ._.
+Accordingly_RB a_DT rate-based_JJ recommendation_NN algorithm_NN is_VBZ proposed_VBN that_WDT predicts_VBZ who_WP will_MD most_RBS likely_RB receive_VB the_DT information_NN during_IN a_DT limited_JJ time_NN period_NN ._.
+For_IN ranking_NN ,_, we_PRP estimate_VBP the_DT expected_VBN time_NN for_IN information_NN diffusion_NN to_TO reach_VB a_DT specific_JJ user_NN in_IN a_DT network_NN ._.
+Subsequently_RB ,_, a_DT DiffusionRank_NNP algorithm_NN is_VBZ proposed_VBN that_IN ranks_NNS users_NNS based_VBN on_IN how_WRB quickly_RB information_NN will_MD flow_VB to_TO them_PRP ._.
+Experiments_NNS on_IN two_CD datasets_NNS demonstrate_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN algorithms_NNS to_TO both_DT improve_VB the_DT recommendation_NN performance_NN and_CC rank_NN users_NNS by_IN the_DT efficiency_NN of_IN information_NN flow_NN ._.

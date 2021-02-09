@@ -1,0 +1,5 @@
+Communities_NNS from_IN seed_NN sets_NNS
+Expanding_VBG a_DT seed_NN set_VBN into_IN a_DT larger_JJR community_NN is_VBZ a_DT common_JJ procedure_NN in_IN link-based_JJ analysis_NN ._.
+We_PRP show_VBP how_WRB to_TO adapt_VB recent_JJ results_NNS from_IN theoretical_JJ computer_NN science_NN to_TO expand_VB a_DT seed_NN set_VBN into_IN a_DT community_NN with_IN small_JJ conductance_NN and_CC a_DT strong_JJ relationship_NN to_TO the_DT seed_NN ,_, while_IN examining_VBG only_RB a_DT small_JJ neighborhood_NN of_IN the_DT entire_JJ graph_NN ._.
+We_PRP extend_VBP existing_VBG results_NNS to_TO give_VB theoretical_JJ guarantees_NNS that_WDT apply_VBP to_TO a_DT variety_NN of_IN seed_NN sets_NNS from_IN specified_JJ communities_NNS ._.
+We_PRP also_RB describe_VBP simple_JJ and_CC flexible_JJ heuristics_NNS for_IN applying_VBG these_DT methods_NNS in_IN practice_NN ,_, and_CC present_JJ early_JJ experiments_NNS showing_VBG that_IN these_DT methods_NNS compare_VBP favorably_RB with_IN existing_VBG approaches_NNS ._.

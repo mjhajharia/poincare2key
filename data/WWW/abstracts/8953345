@@ -1,0 +1,8 @@
+Processing_NN link_NN structures_NNS and_CC linkbases_NNS on_IN the_DT web_NN
+Hyperlinks_NNS are_VBP an_DT essential_JJ feature_NN of_IN the_DT World_NNP Wide_NN Web_NN ,_, highly_RB responsible_JJ for_IN its_PRP$ success_NN ._.
+XLink_NN improves_VBZ on_IN HTML_NNP 's_POS linking_VBG capabilities_NNS in_IN several_JJ ways_NNS ._.
+In_IN particular_JJ ,_, links_NNS after_IN XLink_NN can_MD be_VB ``_`` out-of-line_JJ ''_'' -LRB-_-LRB- i.e._FW ,_, not_RB defined_VBN at_IN a_DT link_NN source_NN -RRB-_-RRB- and_CC collected_VBN in_IN -LRB-_-LRB- possibly_RB several_JJ -RRB-_-RRB- linkbases_NNS ,_, which_WDT considerably_RB ease_VBP building_NN complex_NN link_NN structures_NNS ._.
+Modeling_NN of_IN link_NN structures_NNS and_CC processing_NN of_IN linkbases_NNS under_IN the_DT Web_NN 's_POS ``_`` open_JJ world_NN linking_VBG ''_'' are_VBP aspects_NNS neglected_VBN by_IN XLink_NN ._.
+Adding_VBG a_DT notion_NN of_IN ``_`` interface_NN ''_'' to_TO XLink_NN ,_, as_IN suggested_VBN in_IN this_DT work_NN ,_, considerably_RB improves_VBZ modeling_NN of_IN link_NN structures_NNS ._.
+When_WRB a_DT link_NN structure_NN is_VBZ traversed_VBN ,_, the_DT relevant_JJ linkbase_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- might_MD become_VB ambiguous_JJ ._.
+We_PRP suggest_VBP three_CD linkbase_NN management_NN modes_NNS governing_VBG the_DT binding_NN of_IN a_DT linkbase_NN to_TO a_DT document_NN to_TO resolve_VB this_DT ambiguity_NN ._.

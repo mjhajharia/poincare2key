@@ -1,0 +1,6 @@
+CiteSeerx_NNP :_: an_DT architecture_NN and_CC web_NN service_NN design_NN for_IN an_DT academic_JJ document_NN search_NN engine_NN
+CiteSeer_NNP is_VBZ a_DT scientific_JJ literature_NN digital_JJ library_NN and_CC search_NN engine_NN which_WDT automatically_RB crawls_VBZ and_CC indexes_NNS scientific_JJ documents_NNS in_IN the_DT field_NN of_IN computer_NN and_CC information_NN science_NN ._.
+After_IN serving_VBG as_IN a_DT public_JJ search_NN engine_NN for_IN nearly_RB ten_CD years_NNS ,_, CiteSeer_NNP is_VBZ starting_VBG to_TO have_VB scaling_VBG problems_NNS for_IN handling_NN of_IN more_JJR documents_NNS ,_, adding_VBG new_JJ feature_NN and_CC more_JJR users_NNS ._.
+Its_PRP$ monolithic_JJ architecture_NN design_NN prevents_VBZ it_PRP from_IN effectively_RB making_VBG use_NN of_IN new_JJ web_NN technologies_NNS and_CC providing_VBG new_JJ services_NNS ._.
+After_IN analyzing_VBG the_DT current_JJ system_NN problems_NNS ,_, we_PRP propose_VBP a_DT new_JJ architecture_NN and_CC data_NN model_NN ,_, CiteSeerx_NNP ._.
+CiteSeerx_NNP that_WDT will_MD overcome_VB the_DT existing_VBG problems_NNS as_RB well_RB as_IN provide_VBP scalability_NN and_CC better_JJR performance_NN plus_CC new_JJ services_NNS and_CC system_NN features_NNS ._.

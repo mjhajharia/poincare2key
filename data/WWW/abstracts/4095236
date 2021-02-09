@@ -1,0 +1,3 @@
+Capturing_VBG RIA_NN concepts_NNS in_IN a_DT web_NN modeling_NN language_NN
+This_DT work_NN addresses_VBZ conceptual_JJ modeling_NN and_CC automatic_JJ code_NN generation_NN for_IN Rich_NNP Internet_NNP Applications_NNS ,_, a_DT variant_NN of_IN Web-based_JJ systems_NNS bridging_VBG the_DT gap_NN between_IN desktop_NN and_CC Web_NN interfaces_NNS ._.
+The_DT approach_NN we_PRP propose_VBP is_VBZ a_DT first_JJ step_NN towards_IN a_DT full_JJ integration_NN of_IN RIA_NN paradigms_NNS into_IN the_DT Web_NN development_NN process_NN ,_, enabling_VBG the_DT specification_NN of_IN complex_JJ Web_NN solutions_NNS mixing_VBG HTTP+HTML_NNP and_CC Rich_NNP Internet_NNP Applications_NNS ,_, using_VBG a_DT single_JJ modeling_NN language_NN and_CC tool_NN ._.

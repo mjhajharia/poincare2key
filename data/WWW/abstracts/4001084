@@ -1,0 +1,13 @@
+PRIVE_NNP :_: anonymous_JJ location-based_JJ queries_NNS in_IN distributed_VBN mobile_JJ systems_NNS
+Nowadays_RB ,_, mobile_JJ users_NNS with_IN global_JJ positioning_VBG devices_NNS canaccess_NN Location_NNP Based_VBN Services_NNPS -LRB-_-LRB- LBS_NN -RRB-_-RRB- and_CC query_NN about_IN pointsof_JJ interest_NN in_IN their_PRP$ proximity_NN ._.
+For_IN such_JJ applications_NNS to_TO succeed_VB ,_, privacy_NN and_CC confidentiality_NN are_VBP essential_JJ ._.
+Encryptionalone_NNP is_VBZ not_RB adequate_JJ ;_: although_IN it_PRP safeguards_NNS the_DT systemagainst_NN eavesdroppers_NNS ,_, the_DT queries_NNS themselves_PRP may_MD disclosethe_VB location_NN and_CC identity_NN of_IN the_DT user_NN ._.
+Recently_RB ,_, there_EX havebeen_NNS proposed_VBD centralized_JJ architectures_NNS based_VBN on_IN K-anonymity_NN ,_, which_WDT utilize_VBP an_DT intermediate_JJ anonymizer_NN between_IN themobile_JJ users_NNS and_CC the_DT LBS_NN ._.
+However_RB ,_, the_DT anonymizer_NN mustbe_NN updated_VBN continuously_RB with_IN the_DT current_JJ locations_NNS of_IN allusers_NNS ._.
+Moreover_RB ,_, the_DT complete_JJ knowledge_NN of_IN the_DT entire_JJ systemposes_NNS a_DT security_NN threat_NN ,_, if_IN the_DT anonymizer_NN is_VBZ compromised_VBN ._.
+In_IN this_DT paper_NN we_PRP address_VBP two_CD issues_NNS :_: -LRB-_-LRB- i_LS -RRB-_-RRB- We_PRP show_VBP thatexisting_VBG approaches_NNS may_MD fail_VB to_TO provide_VB spatial_JJ anonymityfor_NN some_DT distributions_NNS of_IN user_NN locations_NNS and_CC describe_VBP a_DT noveltechnique_NN which_WDT solves_VBZ this_DT problem_NN ._.
+-LRB-_-LRB- ii_LS -RRB-_-RRB- We_PRP propose_VBP Prive_NNP ,_, a_DT decentralized_JJ architecture_NN for_IN preserving_VBG the_DT anonymityof_NN users_NNS issuing_VBG spatial_JJ queries_NNS to_TO LBS_NNP ._.
+Mobile_NNP users_NNS self-organizeinto_VBP an_DT overlay_NN network_NN with_IN good_JJ fault_NN toleranceand_NN load_NN balancing_VBG properties_NNS ._.
+Prive_NNP avoids_VBZ the_DT bottleneckcaused_VBN by_IN centralized_JJ techniques_NNS both_CC in_IN terms_NNS of_IN anonymizationand_NN location_NN updates_NNS ._.
+Moreover_RB ,_, the_DT system_NN state_NN isdistributed_VBN in_IN numerous_JJ users_NNS ,_, rendering_VBG Prive_NNP resilient_JJ toattacks_NNS ._.
+Extensive_JJ experimental_JJ studies_NNS suggest_VBP that_IN Priveis_NN applicable_JJ to_TO real-life_JJ scenarios_NNS with_IN large_JJ populations_NNS ofmobile_VBP users_NNS ._.

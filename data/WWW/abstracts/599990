@@ -1,0 +1,3 @@
+P-tree_NN :_: a_DT p2p_NN index_NN for_IN resource_NN discovery_NN applications_NNS
+We_PRP propose_VBP a_DT new_JJ distributed_VBN ,_, fault-tolerant_JJ Peer-to-Peer_NNP index_NN structure_NN for_IN resource_NN discovery_NN applications_NNS called_VBD the_DT P-tree_NN ._.
+P-trees_NNS efficiently_RB support_VBP range_NN queries_NNS in_IN addition_NN to_TO equality_NN queries_NNS ._.

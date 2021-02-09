@@ -1,0 +1,8 @@
+Tag-oriented_JJ document_NN summarization_NN
+Social_NN annotations_NNS on_IN a_DT Web_NN document_NN are_VBP highly_RB generalized_VBN description_NN of_IN topics_NNS contained_VBN in_IN that_DT page_NN ._.
+Their_PRP$ tagged_VBN frequency_NN indicates_VBZ the_DT user_NN attentions_NNS with_IN various_JJ degrees_NNS ._.
+This_DT makes_VBZ annotations_NNS a_DT good_JJ resource_NN for_IN summarizing_VBG multiple_JJ topics_NNS in_IN a_DT Web_NN page_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT tag-oriented_JJ Web_NN document_NN summarization_NN approach_NN by_IN using_VBG both_CC document_NN content_NN and_CC the_DT tags_NNS annotated_JJ on_IN that_DT document_NN ._.
+To_TO improve_VB summarization_NN performance_NN ,_, a_DT new_JJ tag_NN ranking_NN algorithm_NN named_VBN EigenTag_NNP is_VBZ proposed_VBN in_IN this_DT paper_NN to_TO reduce_VB noise_NN in_IN tags_NNS ._.
+Meanwhile_RB ,_, association_NN mining_NN technique_NN is_VBZ employed_VBN to_TO expand_VB tag_NN set_VBN to_TO tackle_VB the_DT sparsity_NN problem_NN ._.
+Experimental_JJ results_NNS show_VBP our_PRP$ tag-oriented_JJ summarization_NN has_VBZ a_DT significant_JJ improvement_NN over_IN those_DT not_RB using_VBG tags_NNS ._.

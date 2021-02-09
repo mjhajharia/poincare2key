@@ -1,0 +1,6 @@
+SGPS_NNS :_: a_DT semantic_JJ scheme_NN for_IN web_NN service_NN similarity_NN
+Today_NN 's_POS Web_NN becomes_VBZ a_DT platform_NN for_IN services_NNS to_TO be_VB dynamically_RB interconnected_VBN to_TO produce_VB a_DT desired_VBN outcome_NN ._.
+It_PRP is_VBZ important_JJ to_TO formalize_VB the_DT semantics_NNS of_IN the_DT contextual_JJ elements_NNS of_IN web_NN services_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ technique_NN called_VBN Semantic_NNP Genome_NNP Propagation_NN Scheme_NN -LRB-_-LRB- SGPS_NN -RRB-_-RRB- for_IN measuring_VBG similarity_NN between_IN semantic_JJ concepts_NNS ._.
+We_PRP show_VBP how_WRB SGPS_NNP is_VBZ used_VBN to_TO compute_VB a_DT multi-dimensional_JJ similarity_NN between_IN two_CD services_NNS ._.
+We_PRP evaluate_VBP the_DT SGPS_NN similarity_NN measurement_NN in_IN terms_NNS of_IN the_DT similarity_NN performance_NN and_CC scalability_NN ._.

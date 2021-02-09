@@ -1,0 +1,11 @@
+Enforcing_VBG strict_JJ model-view_JJ separation_NN in_IN template_NN engines_NNS
+The_DT mantra_NN of_IN every_DT experienced_JJ web_NN application_NN developer_NN is_VBZ the_DT same_JJ :_: thou_FW shalt_FW separate_JJ business_NN logic_NN from_IN display_NN ._.
+Ironically_RB ,_, almost_RB all_DT template_NN engines_NNS allow_VBP violation_NN of_IN this_DT separation_NN principle_NN ,_, which_WDT is_VBZ the_DT very_JJ impetus_NN for_IN HTML_NNP template_NN engine_NN development_NN ._.
+This_DT situation_NN is_VBZ due_JJ mostly_RB to_TO a_DT lack_NN of_IN formal_JJ definition_NN of_IN separation_NN and_CC fear_VBP that_IN enforcing_VBG separation_NN emasculates_VBZ a_DT template_NN 's_POS power_NN ._.
+I_PRP show_VBP that_IN not_RB only_RB is_VBZ strict_JJ separation_NN a_DT worthy_JJ design_NN principle_NN ,_, but_CC that_IN we_PRP can_MD enforce_VB separation_NN while_IN providing_VBG a_DT potent_JJ template_NN engine_NN ._.
+I_PRP demonstrate_VBP my_PRP$ StringTemplate_NNP engine_NN ,_, used_VBN to_TO build_VB jGuru.com_NN and_CC other_JJ commercial_JJ sites_NNS ,_, at_IN work_NN solving_VBG some_DT nontrivial_JJ generational_JJ tasks_NNS ._.
+My_PRP$ goal_NN is_VBZ to_TO formalize_VB the_DT study_NN of_IN template_NN engines_NNS ,_, thus_RB ,_, providing_VBG a_DT common_JJ nomenclature_NN ,_, a_DT means_NN of_IN classifying_VBG template_NN generational_JJ power_NN ,_, and_CC a_DT way_NN to_TO leverage_NN interesting_JJ results_NNS from_IN formal_JJ language_NN theory_NN ._.
+I_PRP classify_VBP three_CD types_NNS of_IN restricted_JJ templates_NNS analogous_JJ to_TO Chomsky_NNP 's_POS type_NN 1_CD ._.
+.3_NN grammar_NN classes_NNS and_CC formally_RB define_VB separation_NN including_VBG the_DT rules_NNS that_WDT embody_VBP separation_NN ._.
+Because_IN this_DT paper_NN provides_VBZ a_DT clear_JJ definition_NN of_IN model-view_JJ separation_NN ,_, template_NN engine_NN designers_NNS may_MD no_RB longer_RBR blindly_RB claim_VBP enforcement_NN of_IN separation_NN ._.
+Moreover_RB ,_, given_VBN theoretical_JJ arguments_NNS and_CC empirical_JJ evidence_NN ,_, programmers_NNS no_RB longer_RB have_VB an_DT excuse_NN to_TO entangle_VB model_NN and_CC view_NN ._.

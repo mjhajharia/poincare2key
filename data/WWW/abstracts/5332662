@@ -1,0 +1,7 @@
+An_DT investigation_NN of_IN cloning_NN in_IN web_NN applications_NNS
+Cloning_NN -LRB-_-LRB- ad_FW hoc_FW reuse_NN by_IN duplication_NN of_IN design_NN or_CC code_NN -RRB-_-RRB- speeds_VBZ up_RP development_NN ,_, but_CC also_RB hinders_VBZ future_JJ maintenance_NN ._.
+Cloning_NN also_RB hints_VBZ at_IN reuse_NN opportunities_NNS that_WDT ,_, if_IN exploited_VBN systematically_RB ,_, might_MD have_VB positive_JJ impact_NN on_IN development_NN and_CC maintenance_NN productivity_NN ._.
+Unstable_JJ requirements_NNS and_CC tight_JJ schedules_NNS pose_VBP unique_JJ challenges_NNS for_IN Web_NN Application_NN engineering_NN that_WDT encourage_VBP cloning_NN ._.
+We_PRP are_VBP conducting_VBG a_DT systematic_JJ study_NN of_IN cloning_NN in_IN Web_NN Applications_NNS of_IN different_JJ sizes_NNS ,_, developed_VBD using_VBG a_DT range_NN of_IN Web_NN technologies_NNS ,_, and_CC serving_VBG diverse_JJ purposes_NNS ._.
+Our_PRP$ initial_JJ results_NNS show_VBP cloning_NN rates_NNS up_IN to_TO 63_CD %_NN in_IN both_DT newly_RB developed_VBN and_CC already_RB maintained_VBN Web_NN Applications_NNS ._.
+Expected_VBN contribution_NN of_IN this_DT work_NN is_VBZ two-fold_JJ :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- to_TO confirm_VB potential_JJ benefits_NNS of_IN reuse-based_JJ methods_NNS in_IN addressing_VBG clone_NN related_JJ problems_NNS of_IN Web_NN engineering_NN ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- to_TO create_VB a_DT framework_NN of_IN metrics_NNS and_CC presentation_NN views_NNS to_TO be_VB used_VBN in_IN other_JJ similar_JJ studies_NNS ._.

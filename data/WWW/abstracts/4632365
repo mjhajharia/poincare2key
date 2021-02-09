@@ -1,0 +1,6 @@
+Multiway_JJ SLCA-based_JJ keyword_NN search_NN in_IN XML_NN data_NNS
+Keyword_JJ search_NN for_IN smallest_JJS lowest_JJS common_JJ ancestors_NNS -LRB-_-LRB- SLCAs_NNS -RRB-_-RRB- in_IN XML_NN data_NNS has_VBZ recently_RB been_VBN proposed_VBN as_IN a_DT meaningful_JJ way_NN to_TO identify_VB interesting_JJ data_NNS nodes_NNS inXML_NN data_NNS where_WRB their_PRP$ subtrees_NNS contain_VBP an_DT input_NN set_NN of_IN keywords_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP generalize_VBP this_DT useful_JJ search_NN paradigm_NN to_TO support_VB keyword_JJ search_NN beyond_IN the_DT traditional_JJ AND_NNP semantics_NNS to_TO include_VB both_DT AND_NNP and_CC OR_NN boolean_NN operators_NNS as_RB well_RB ._.
+We_PRP first_RB analyze_VBP properties_NNS of_IN the_DT LCA_NNP computation_NN and_CC propose_VBP improved_JJ algorithms_NNS to_TO solve_VB the_DT traditional_JJ keyword_JJ search_NN problem_NN -LRB-_-LRB- with_IN only_JJ AND_NNP semantics_NNS -RRB-_-RRB- ._.
+We_PRP then_RB extend_VBP our_PRP$ approach_NN to_TO handle_VB general_JJ keyword_JJ search_NN involving_VBG combinations_NNS of_IN AND_NNP and_CC OR_NN boolean_NN operators_NNS ._.
+The_DT effectiveness_NN of_IN our_PRP$ new_JJ algorithms_NNS is_VBZ demonstrated_VBN with_IN a_DT comprehensive_JJ experimental_JJ performance_NN study_NN ._.

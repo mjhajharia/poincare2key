@@ -1,0 +1,10 @@
+Choreography_NN conformance_NN via_IN synchronizability_NN
+Choreography_NN analysis_NN has_VBZ been_VBN a_DT crucial_JJ problem_NN in_IN service_NN oriented_JJ computing_NN ._.
+Interactions_NNS among_IN services_NNS involve_VBP message_NN exchanges_NNS across_IN organizational_JJ boundaries_NNS in_IN a_DT distributed_VBN computing_NN environment_NN ,_, and_CC in_IN order_NN to_TO build_VB such_JJ systems_NNS in_IN a_DT reliable_JJ manner_NN ,_, it_PRP is_VBZ necessary_JJ to_TO develop_VB techniques_NNS for_IN analyzing_VBG such_JJ interactions_NNS ._.
+Choreography_NN conformance_NN involves_VBZ verifying_VBG that_IN a_DT set_NN of_IN services_NNS behave_VBP according_VBG to_TO a_DT given_VBN choreography_NN specification_NN that_WDT characterizes_VBZ their_PRP$ interactions_NNS ._.
+Unfortunately_RB this_DT is_VBZ an_DT undecidable_JJ problem_NN when_WRB services_NNS interact_VBP with_IN asynchronous_JJ communication_NN ._.
+In_IN this_DT paper_NN we_PRP present_VBP techniques_NNS that_WDT identify_VBP if_IN the_DT interaction_NN behavior_NN for_IN a_DT set_NN of_IN services_NNS remain_VBP the_DT same_JJ when_WRB asynchronous_JJ communication_NN is_VBZ replaced_VBN with_IN synchronous_JJ communication_NN ._.
+This_DT is_VBZ called_VBN the_DT synchronizability_NN problem_NN and_CC determining_VBG the_DT synchronizability_NN of_IN a_DT set_NN of_IN services_NNS has_VBZ been_VBN an_DT open_JJ problem_NN for_IN several_JJ years_NNS ._.
+We_PRP solve_VBP this_DT problem_NN in_IN this_DT paper_NN ._.
+Our_PRP$ results_NNS can_MD be_VB used_VBN to_TO identify_VB synchronizable_JJ services_NNS for_IN which_WDT choreography_NN conformance_NN can_MD be_VB checked_VBN efficiently_RB ._.
+Our_PRP$ results_NNS on_IN synchronizability_NN are_VBP applicable_JJ to_TO any_DT software_NN infrastructure_NN that_WDT supports_VBZ message-based_JJ interactions_NNS ._.

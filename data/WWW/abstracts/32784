@@ -1,0 +1,10 @@
+Mining_NN newsgroups_NNS using_VBG networks_NNS arising_VBG from_IN social_JJ behavior_NN
+Recent_JJ advances_NNS in_IN information_NN retrieval_NN over_IN hyperlinked_JJ corpora_NNS have_VBP convincingly_RB demonstrated_VBN that_IN links_NNS carry_VBP less_RBR noisy_JJ information_NN than_IN text_NN ._.
+We_PRP investigate_VBP the_DT feasibility_NN of_IN applying_VBG link-based_JJ methods_NNS in_IN new_JJ applications_NNS domains_NNS ._.
+The_DT specific_JJ application_NN we_PRP consider_VBP is_VBZ to_TO partition_NN authors_NNS into_IN opposite_JJ camps_NNS within_IN a_DT given_VBN topic_NN in_IN the_DT context_NN of_IN newsgroups_NNS ._.
+A_DT typical_JJ newsgroup_NN posting_VBG consists_VBZ of_IN one_CD or_CC more_JJR quoted_VBN lines_NNS from_IN another_DT posting_VBG followed_VBN by_IN the_DT opinion_NN of_IN the_DT author_NN ._.
+This_DT social_JJ behavior_NN gives_VBZ rise_NN to_TO a_DT network_NN in_IN which_WDT the_DT vertices_NNS are_VBP individuals_NNS and_CC the_DT links_NNS represent_VBP ``_`` responded-to_JJ ''_'' relationships_NNS ._.
+An_DT interesting_JJ characteristic_NN of_IN many_JJ newsgroups_NNS is_VBZ that_IN people_NNS more_RBR frequently_RB respond_VBP to_TO a_DT message_NN when_WRB they_PRP disagree_VBP than_IN when_WRB they_PRP agree_VBP ._.
+This_DT behavior_NN is_VBZ in_IN sharp_JJ contrast_NN to_TO the_DT WWW_NNP link_NN graph_NN ,_, where_WRB linkage_NN is_VBZ an_DT indicator_NN of_IN agreement_NN or_CC common_JJ interest_NN ._.
+By_IN analyzing_VBG the_DT graph_NN structure_NN of_IN the_DT responses_NNS ,_, we_PRP are_VBP able_JJ to_TO effectively_RB classify_VB people_NNS into_IN opposite_JJ camps_NNS ._.
+In_IN contrast_NN ,_, methods_NNS based_VBN on_IN statistical_JJ analysis_NN of_IN text_NN yield_NN low_JJ accuracy_NN on_IN such_JJ datasets_NNS because_IN the_DT vocabulary_NN used_VBN by_IN the_DT two_CD sides_NNS tends_VBZ to_TO be_VB largely_RB identical_JJ ,_, and_CC many_JJ newsgroup_NN postings_NNS consist_VBP of_IN relatively_RB few_JJ words_NNS of_IN text_NN ._.

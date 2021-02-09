@@ -1,0 +1,3 @@
+Soundness_NN proof_NN of_IN Z_NN semantics_NNS of_IN OWL_NN using_VBG institutions_NNS
+The_DT correctness_NN of_IN the_DT Z_NN semantics_NNS of_IN OWL_NN is_VBZ the_DT theoretical_JJ foundation_NN of_IN using_VBG software_NN engineering_NN techniques_NNS to_TO verify_VB Web_NN ontologies_NNS ._.
+As_IN OWL_NN and_CC Z_NN are_VBP based_VBN on_IN different_JJ logical_JJ systems_NNS ,_, we_PRP use_VBP institutions_NNS to_TO represent_VB their_PRP$ underlying_JJ logical_JJ systems_NNS and_CC use_VB institution_NN morphisms_NNS to_TO prove_VB the_DT correctness_NN of_IN the_DT Z_NN semantics_NNS for_IN OWL_NNP DL_NNP ._.

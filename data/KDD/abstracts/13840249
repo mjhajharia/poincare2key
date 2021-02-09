@@ -1,0 +1,9 @@
+Mining_NN top-k_NN frequent_JJ items_NNS in_IN a_DT data_NN stream_NN with_IN flexible_JJ sliding_VBG windows_NNS
+We_PRP study_VBD the_DT problem_NN of_IN finding_VBG the_DT k_NN most_RBS frequent_JJ items_NNS in_IN a_DT stream_NN of_IN items_NNS for_IN the_DT recently_RB proposed_VBN max-frequency_NN measure_NN ._.
+Based_VBN on_IN the_DT properties_NNS of_IN an_DT item_NN ,_, the_DT max-frequency_NN of_IN an_DT item_NN is_VBZ counted_VBN over_IN a_DT sliding_VBG window_NN of_IN which_WDT the_DT length_NN changes_NNS dynamically_RB ._.
+Besides_IN being_VBG parameterless_JJ ,_, this_DT way_NN of_IN measuring_VBG the_DT support_NN of_IN items_NNS was_VBD shown_VBN to_TO have_VB the_DT advantage_NN of_IN a_DT faster_JJR detection_NN of_IN bursts_NNS in_IN a_DT stream_NN ,_, especially_RB if_IN the_DT set_NN of_IN items_NNS is_VBZ heterogeneous_JJ ._.
+The_DT algorithm_NN that_WDT was_VBD proposed_VBN for_IN maintaining_VBG all_DT frequent_JJ items_NNS ,_, however_RB ,_, scales_NNS poorly_RB when_WRB the_DT number_NN of_IN items_NNS becomes_VBZ large_JJ ._.
+Therefore_RB ,_, in_IN this_DT paper_NN we_PRP propose_VBP ,_, instead_RB of_IN reporting_VBG all_DT frequent_JJ items_NNS ,_, to_TO only_RB mine_VB the_DT top-k_NN most_RBS frequent_JJ ones_NNS ._.
+First_RB we_PRP prove_VBP that_IN in_IN order_NN to_TO solve_VB this_DT problem_NN exactly_RB ,_, we_PRP still_RB need_VBP a_DT prohibitive_JJ amount_NN of_IN memory_NN -LRB-_-LRB- at_IN least_JJS linear_NN in_IN the_DT number_NN of_IN items_NNS -RRB-_-RRB- ._.
+Yet_RB ,_, under_IN some_DT reasonable_JJ conditions_NNS ,_, we_PRP show_VBP both_DT theoretically_RB and_CC empirically_RB that_IN a_DT memory-efficient_JJ algorithm_NN exists_VBZ ._.
+A_DT prototype_NN of_IN this_DT algorithm_NN is_VBZ implemented_VBN and_CC we_PRP present_VBP its_PRP$ performance_NN w.r.t._NN memory-efficiency_NN on_IN real-life_JJ data_NNS and_CC in_IN controlled_JJ experiments_NNS with_IN synthetic_JJ data_NNS ._.

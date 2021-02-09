@@ -1,0 +1,8 @@
+Texquery_NNP :_: a_DT full-text_JJ search_NN extension_NN to_TO xquery_VB
+One_CD of_IN the_DT key_JJ benefits_NNS of_IN XML_NN is_VBZ its_PRP$ ability_NN to_TO represent_VB a_DT mix_NN of_IN structured_JJ and_CC unstructured_JJ -LRB-_-LRB- text_NN -RRB-_-RRB- data_NNS ._.
+Although_IN current_JJ XML_NN query_NN languages_NNS such_JJ as_IN XPath_NN and_CC XQuery_NN can_MD express_VB rich_JJ queries_NNS over_IN structured_JJ data_NNS ,_, they_PRP can_MD only_RB express_VB very_RB rudimentary_JJ queries_NNS over_IN text_NN data_NNS ._.
+We_PRP thus_RB propose_VBP TeXQuery_NNP ,_, which_WDT is_VBZ a_DT powerful_JJ full-text_JJ search_NN extension_NN to_TO XQuery_NN ._.
+TeXQuery_NNP provides_VBZ a_DT rich_JJ set_NN of_IN fully_RB composable_JJ full-text_JJ search_NN primitives_NNS ,_, such_JJ as_IN Boolean_JJ connectives_NNS ,_, phrase_NN matching_NN ,_, proximity_NN distance_NN ,_, stemming_VBG and_CC thesauri_NNS ._.
+TeXQuery_NNP also_RB enables_VBZ users_NNS to_TO seamlessly_RB query_VB over_IN both_CC structured_JJ and_CC text_NN data_NNS by_IN embedding_VBG TeXQuery_NNP primitives_NNS in_IN XQuery_NN ,_, and_CC vice_NN versa_RB ._.
+Finally_RB ,_, TeXQuery_NNP supports_VBZ a_DT flexible_JJ scoring_VBG construct_NN that_WDT can_MD be_VB used_VBN toscore_NN query_NN results_NNS based_VBN on_IN full-text_JJ predicates_NNS ._.
+TeXQuery_NNP is_VBZ the_DT precursor_NN ofthe_NN full-text_JJ language_NN extensions_NNS to_TO XPath_NN 2.0_CD and_CC XQuery_NN 1.0_CD currently_RB being_VBG developed_VBN by_IN the_DT W3C_NN ._.

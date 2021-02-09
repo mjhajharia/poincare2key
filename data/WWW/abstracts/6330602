@@ -1,0 +1,8 @@
+Generating_NNP diverse_JJ and_CC representative_JJ image_NN search_NN results_NNS for_IN landmarks_NNS
+Can_MD we_PRP leverage_NN the_DT community-contributed_JJ collections_NNS of_IN rich_JJ media_NNS on_IN the_DT web_NN to_TO automatically_RB generate_VB representative_JJ and_CC diverse_JJ views_NNS of_IN the_DT world_NN 's_POS landmarks_NNS ?_.
+We_PRP use_VBP a_DT combination_NN of_IN context_NN -_: and_CC content-based_JJ tools_NNS to_TO generate_VB representative_JJ sets_NNS of_IN images_NNS for_IN location-driven_JJ features_NNS and_CC landmarks_NNS ,_, a_DT common_JJ search_NN task_NN ._.
+To_TO do_VB that_DT ,_, we_PRP using_VBG location_NN and_CC other_JJ metadata_NN ,_, as_RB well_RB as_IN tags_NNS associated_VBN with_IN images_NNS ,_, and_CC the_DT images_NNS '_POS visual_JJ features_NNS ._.
+We_PRP present_VBP an_DT approach_NN to_TO extracting_VBG tags_NNS that_WDT represent_VBP landmarks_NNS ._.
+We_PRP show_VBP how_WRB to_TO use_VB unsupervised_JJ methods_NNS to_TO extract_VB representative_JJ views_NNS and_CC images_NNS for_IN each_DT landmark_NN ._.
+This_DT approach_NN can_MD potentially_RB scale_VB to_TO provide_VB better_JJR search_NN and_CC representation_NN for_IN landmarks_NNS ,_, worldwide_RB ._.
+We_PRP evaluate_VBP the_DT system_NN in_IN the_DT context_NN of_IN image_NN search_NN using_VBG a_DT real-life_JJ dataset_NN of_IN 110,000_CD images_NNS from_IN the_DT San_NNP Francisco_NNP area_NN ._.

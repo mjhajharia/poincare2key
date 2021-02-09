@@ -1,0 +1,6 @@
+Combinational_JJ collaborative_NN filtering_VBG for_IN personalized_JJ community_NN recommendation_NN
+Rapid_JJ growth_NN in_IN the_DT amount_NN of_IN data_NNS available_JJ on_IN social_JJ networking_NN sites_NNS has_VBZ made_VBN information_NN retrieval_NN increasingly_RB challenging_JJ for_IN users_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT collaborative_JJ filtering_VBG method_NN ,_, Combinational_JJ Collaborative_JJ Filtering_NN -LRB-_-LRB- CCF_NN -RRB-_-RRB- ,_, to_TO perform_VB personalized_JJ community_NN recommendations_NNS by_IN considering_VBG multiple_JJ types_NNS of_IN co-occurrences_NNS in_IN social_JJ data_NNS at_IN the_DT same_JJ time_NN ._.
+This_DT filtering_VBG method_NN fuses_VBZ semantic_JJ and_CC user_NN information_NN ,_, then_RB applies_VBZ a_DT hybrid_NN training_NN strategy_NN that_WDT combines_VBZ Gibbs_NNP sampling_NN and_CC Expectation-Maximization_NN algorithm_NN ._.
+To_TO handle_VB the_DT large-scale_JJ dataset_NN ,_, parallel_JJ computing_NN is_VBZ used_VBN to_TO speed_VB up_RP the_DT model_NN training_NN ._.
+Through_IN an_DT empirical_JJ study_NN on_IN the_DT Orkut_NNP dataset_NN ,_, we_PRP show_VBP CCF_NNP to_TO be_VB both_CC effective_JJ and_CC scalable_JJ ._.

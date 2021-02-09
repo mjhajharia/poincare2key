@@ -1,0 +1,9 @@
+Yago_NNP :_: a_DT core_NN of_IN semantic_JJ knowledge_NN
+We_PRP present_VBP YAGO_NNP ,_, a_DT light-weight_JJ and_CC extensible_JJ ontology_NN with_IN high_JJ coverage_NN and_CC quality_NN ._.
+YAGO_NNP builds_VBZ on_IN entities_NNS and_CC relations_NNS and_CC currently_RB contains_VBZ more_JJR than_IN 1_CD million_CD entities_NNS and_CC 5_CD million_CD facts_NNS ._.
+This_DT includes_VBZ the_DT Is-A_NN hierarchy_NN as_RB well_RB as_IN non-taxonomic_JJ relations_NNS between_IN entities_NNS -LRB-_-LRB- such_JJ as_IN HASONEPRIZE_NN -RRB-_-RRB- ._.
+The_DT facts_NNS have_VBP been_VBN automatically_RB extracted_VBN from_IN Wikipedia_NNP and_CC unified_VBN with_IN WordNet_NNP ,_, using_VBG a_DT carefully_RB designed_VBN combination_NN of_IN rule-based_JJ and_CC heuristic_NN methods_NNS described_VBN in_IN this_DT paper_NN ._.
+The_DT resulting_VBG knowledge_NN base_NN is_VBZ a_DT major_JJ step_NN beyond_IN WordNet_NNP :_: in_IN quality_NN by_IN adding_VBG knowledge_NN about_IN individuals_NNS like_IN persons_NNS ,_, organizations_NNS ,_, products_NNS ,_, etc._FW with_IN their_PRP$ semantic_JJ relationships_NNS -_: and_CC in_IN quantity_NN by_IN increasing_VBG the_DT number_NN of_IN facts_NNS by_IN more_JJR than_IN an_DT order_NN of_IN magnitude_NN ._.
+Our_PRP$ empirical_JJ evaluation_NN of_IN fact_NN correctness_NN shows_VBZ an_DT accuracy_NN of_IN about_IN 95_CD %_NN ._.
+YAGO_NNP is_VBZ based_VBN on_IN a_DT logically_RB clean_JJ model_NN ,_, which_WDT is_VBZ decidable_JJ ,_, extensible_JJ ,_, and_CC compatible_JJ with_IN RDFS_NN ._.
+Finally_RB ,_, we_PRP show_VBP how_WRB YAGO_NNP can_MD be_VB further_RB extended_VBN by_IN state-of-the-art_JJ information_NN extraction_NN techniques_NNS ._.

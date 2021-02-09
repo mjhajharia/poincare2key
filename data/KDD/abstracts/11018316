@@ -1,0 +1,9 @@
+Large_JJ linear_JJ classification_NN when_WRB data_NNS can_MD not_RB fit_VB in_IN memory_NN
+Recent_JJ advances_NNS in_IN linear_JJ classification_NN have_VBP shown_VBN that_IN for_IN applications_NNS such_JJ as_IN document_NN classification_NN ,_, the_DT training_NN can_MD be_VB extremely_RB efficient_JJ ._.
+However_RB ,_, most_JJS of_IN the_DT existing_VBG training_NN methods_NNS are_VBP designed_VBN by_IN assuming_VBG that_IN data_NNS can_MD be_VB stored_VBN in_IN the_DT computer_NN memory_NN ._.
+These_DT methods_NNS can_MD not_RB be_VB easily_RB applied_VBN to_TO data_NNS larger_JJR than_IN the_DT memory_NN capacity_NN due_JJ to_TO the_DT random_JJ access_NN to_TO the_DT disk_NN ._.
+We_PRP propose_VBP and_CC analyze_VBP a_DT block_NN minimization_NN framework_NN for_IN data_NNS larger_JJR than_IN the_DT memory_NN size_NN ._.
+At_IN each_DT step_NN a_DT block_NN of_IN data_NNS is_VBZ loaded_VBN from_IN the_DT disk_NN and_CC handled_VBN by_IN certain_JJ learning_NN methods_NNS ._.
+We_PRP investigate_VBP two_CD implementations_NNS of_IN the_DT proposed_VBN framework_NN for_IN primal_JJ and_CC dual_JJ SVMs_NNS ,_, respectively_RB ._.
+As_IN data_NNS can_MD not_RB fit_VB in_IN memory_NN ,_, many_JJ design_NN considerations_NNS are_VBP very_RB different_JJ from_IN those_DT for_IN traditional_JJ algorithms_NNS ._.
+Experiments_NNS using_VBG data_NNS sets_VBZ 20_CD times_NNS larger_JJR than_IN the_DT memory_NN demonstrate_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN method_NN ._.

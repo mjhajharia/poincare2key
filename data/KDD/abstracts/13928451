@@ -1,0 +1,9 @@
+Mining_NNP uncertain_JJ data_NNS with_IN probabilistic_JJ guarantees_NNS
+Data_NN uncertainty_NN is_VBZ inherent_JJ in_IN applications_NNS such_JJ as_IN sensor_NN monitoring_NN systems_NNS ,_, location-based_JJ services_NNS ,_, and_CC biological_JJ databases_NNS ._.
+To_TO manage_VB this_DT vast_JJ amount_NN of_IN imprecise_JJ information_NN ,_, probabilistic_JJ databases_NNS have_VBP been_VBN recently_RB developed_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT discovery_NN of_IN frequent_JJ patterns_NNS and_CC association_NN rules_NNS from_IN probabilistic_JJ data_NNS under_IN the_DT Possible_JJ World_NN Semantics_NNS ._.
+This_DT is_VBZ technically_RB challenging_JJ ,_, since_IN a_DT probabilistic_JJ database_NN can_MD have_VB an_DT exponential_JJ number_NN of_IN possible_JJ worlds_NNS ._.
+We_PRP propose_VBP two_CD effcient_JJ algorithms_NNS ,_, which_WDT discover_VBP frequent_JJ patterns_NNS in_IN bottom-up_JJ and_CC top-down_JJ manners_NNS ._.
+Both_DT algorithms_NNS can_MD be_VB easily_RB extended_VBN to_TO discover_VB maximal_JJ frequent_JJ patterns_NNS ._.
+We_PRP also_RB explain_VBP how_WRB to_TO use_VB these_DT patterns_NNS to_TO generate_VB association_NN rules_NNS ._.
+Extensive_JJ experiments_NNS ,_, using_VBG real_JJ and_CC synthetic_JJ datasets_NNS ,_, were_VBD conducted_VBN to_TO validate_VB the_DT performance_NN of_IN our_PRP$ methods_NNS ._.

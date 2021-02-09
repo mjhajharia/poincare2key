@@ -1,0 +1,7 @@
+Translating_VBG XSLT_NN programs_NNS to_TO Efficient_JJ SQL_NN queries_NNS
+We_PRP present_VBP an_DT algorithm_NN for_IN translating_VBG XSLT_NNP programs_NNS into_IN SQL_NNP ._.
+Our_PRP$ context_NN is_VBZ that_DT of_IN virtual_JJ XML_NN publishing_NN ,_, in_IN which_WDT a_DT single_JJ XML_NN view_NN is_VBZ defined_VBN from_IN a_DT relational_JJ database_NN ,_, and_CC subsequently_RB queried_VBN with_IN XSLT_NN programs_NNS ._.
+Each_DT XSLT_NN program_NN is_VBZ translated_VBN into_IN a_DT single_JJ SQL_NN query_NN and_CC run_VB entirely_RB in_IN the_DT database_NN engine_NN ._.
+Our_PRP$ translation_NN works_VBZ for_IN a_DT large_JJ fragment_NN of_IN XSLT_NNP ,_, which_WDT we_PRP define_VBP ,_, that_WDT includes_VBZ descendant\/ancestor_NN axis_NN ,_, recursive_JJ templates_NNS ,_, modes_NNS ,_, parameters_NNS ,_, and_CC aggregates_NNS ._.
+We_PRP put_VBD considerable_JJ effort_NN in_IN generating_VBG correct_JJ and_CC efficient_JJ SQL_NN queries_NNS and_CC describe_VBP several_JJ optimization_NN techniques_NNS to_TO achieve_VB this_DT efficiency_NN ._.
+We_PRP have_VBP tested_VBN our_PRP$ system_NN on_IN all_DT 22_CD SQL_NNP queries_NNS of_IN the_DT TPC-H_NN database_NN benchmark_NN which_WDT we_PRP represented_VBD in_IN XSLT_NNP and_CC then_RB translated_VBN back_RB to_TO SQL_NN using_VBG our_PRP$ translator_NN ._.

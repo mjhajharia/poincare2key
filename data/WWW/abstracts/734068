@@ -1,0 +1,10 @@
+PageRank_NN as_IN a_DT function_NN of_IN the_DT damping_VBG factor_NN
+PageRank_NN is_VBZ defined_VBN as_IN the_DT stationary_JJ state_NN of_IN a_DT Markov_NNP chain_NN ._.
+The_DT chain_NN is_VBZ obtained_VBN by_IN perturbing_VBG the_DT transition_NN matrix_NN induced_VBN by_IN a_DT web_NN graph_NN with_IN a_DT damping_VBG factor_NN α_NN that_WDT spreads_VBZ uniformly_RB part_NN of_IN the_DT rank_NN ._.
+The_DT choice_NN of_IN α_NN is_VBZ eminently_RB empirical_JJ ,_, and_CC in_IN most_JJS cases_NNS the_DT original_JJ suggestion_NN α_NN =_JJ 0.85_CD by_IN Brin_NNP and_CC Page_NNP is_VBZ still_RB used_VBN ._.
+Recently_RB ,_, however_RB ,_, the_DT behavior_NN of_IN PageRank_NN with_IN respect_NN to_TO changes_NNS in_IN α_NN was_VBD discovered_VBN to_TO be_VB useful_JJ in_FW link-spam_FW detection_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Moreover_RB ,_, an_DT analytical_JJ justification_NN of_IN the_DT value_NN chosen_VBN for_IN α_NN is_VBZ still_RB missing_VBG ._.
+In_IN this_DT paper_NN ,_, we_PRP give_VBP the_DT first_JJ mathematical_JJ analysis_NN of_IN PageRank_NNP when_WRB α_NN changes_NNS ._.
+In_IN particular_JJ ,_, we_PRP show_VBP that_IN ,_, contrarily_RB to_TO popular_JJ belief_NN ,_, for_IN real-world_JJ graphs_NNS values_NNS of_IN α_NN close_RB to_TO 1_CD do_VBP not_RB give_VB a_DT more_RBR meaningful_JJ ranking_NN ._.
+Then_RB ,_, we_PRP give_VBP closed-form_JJ formulae_NN for_IN PageRank_NN derivatives_NNS of_IN any_DT order_NN ,_, and_CC an_DT extension_NN of_IN the_DT Power_NNP Method_NNP that_WDT approximates_VBZ them_PRP with_IN convergence_NN O_NN -LRB-_-LRB- tk_NN αt_NN -RRB-_-RRB- for_IN the_DT k-th_NN derivative_NN ._.
+Finally_RB ,_, we_PRP show_VBP a_DT tight_JJ connection_NN between_IN iterated_JJ computation_NN and_CC analytical_JJ behavior_NN by_IN proving_VBG that_IN the_DT k-th_JJ iteration_NN of_IN the_DT Power_NNP Method_NNP gives_VBZ exactly_RB the_DT PageRank_NNP value_NN obtained_VBD using_VBG a_DT Maclaurin_NNP polynomial_NN of_IN degree_NN k._VBP The_DT latter_JJ result_NN paves_VBZ the_DT way_NN towards_IN the_DT application_NN of_IN analytical_JJ methods_NNS to_TO the_DT study_NN of_IN PageRank_NN ._.

@@ -1,0 +1,6 @@
+Enhancing_NN web_NN search_NN with_IN entity_NN intent_NN
+Web_NN entities_NNS ,_, such_JJ as_IN documents_NNS and_CC hyperlinks_NNS ,_, are_VBP created_VBN for_IN different_JJ purposes_NNS ,_, or_CC intents_NNS ._.
+Existing_VBG intent-based_JJ retrieval_NN methods_NNS largely_RB focus_VB on_IN information_NN seekers_NNS '_POS intent_NN expressed_VBN by_IN queries_NNS ,_, ignoring_VBG the_DT other_JJ side_NN of_IN the_DT problem_NN :_: web_NN content_NN creators_NNS '_POS intent_NN ._.
+We_PRP argue_VBP that_IN understanding_VBG why_WRB the_DT content_NN was_VBD created_VBN is_VBZ also_RB important_JJ ._.
+In_IN this_DT work_NN ,_, we_PRP propose_VBP to_TO classify_VB such_JJ intents_NNS into_IN two_CD broad_JJ categories_NNS :_: ``_`` navigational_JJ ''_'' and_CC ``_`` informational_JJ ''_'' ._.
+Then_RB we_PRP incorporate_VBP such_JJ intents_NNS into_IN traditional_JJ retrieval_NN models_NNS ,_, and_CC show_VBP their_PRP$ effect_NN on_IN ranking_JJ performance_NN ._.

@@ -1,0 +1,6 @@
+Modeling_VBG the_DT author_NN bias_NN between_IN two_CD on-line_JJ computer_NN science_NN citation_NN databases_NNS
+We_PRP examine_VBP the_DT difference_NN and_CC similarities_NNS between_IN two_CD on-line_JJ computer_NN science_NN citation_NN databases_NNS DBLP_NNP and_CC CiteSeer_NNP ._.
+The_DT database_NN entries_NNS in_IN DBLP_NN are_VBP inserted_VBN manually_RB while_IN the_DT CiteSeer_NNP entries_NNS are_VBP obtained_VBN autonomously_RB ._.
+We_PRP show_VBP that_IN the_DT CiteSeer_NNP database_NN contains_VBZ considerably_RB fewer_JJR single_JJ author_NN papers_NNS ._.
+This_DT bias_NN can_MD be_VB modeled_VBN by_IN an_DT exponential_JJ process_NN with_IN intuitive_JJ explanation_NN ._.
+The_DT model_NN permits_VBZ us_PRP to_TO predict_VB that_IN the_DT DBLP_NN database_NN covers_VBZ approximately_RB 30_CD %_NN of_IN the_DT entire_JJ literature_NN of_IN Computer_NNP Science_NNP ._.

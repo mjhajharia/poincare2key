@@ -1,0 +1,4 @@
+Visually_RB guided_VBN bottom-up_JJ table_NN detection_NN and_CC segmentation_NN in_IN web_NN documents_NNS
+In_IN the_DT AllRight_NNP project_NN ,_, we_PRP are_VBP developing_VBG an_DT algorithm_NN for_IN unsupervised_JJ table_NN detection_NN and_CC segmentation_NN that_WDT uses_VBZ the_DT visual_JJ rendition_NN of_IN a_DT Web_NN page_NN rather_RB than_IN the_DT HTML_NNP code_NN ._.
+Our_PRP$ algorithm_NN works_VBZ bottom-up_JJ by_IN grouping_VBG word_NN bounding_VBG boxes_NNS into_IN larger_JJR groups_NNS and_CC uses_VBZ a_DT set_NN of_IN heuristics_NNS ._.
+It_PRP has_VBZ already_RB been_VBN implemented_VBN and_CC a_DT preliminary_JJ evaluation_NN on_IN about_IN 6000_CD Web_NN documents_NNS has_VBZ been_VBN carried_VBN out_RP ._.

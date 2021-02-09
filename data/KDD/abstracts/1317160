@@ -1,0 +1,12 @@
+A_DT model_NN for_IN discovering_VBG customer_NN value_NN for_IN E-content_NN
+There_EX exists_VBZ a_DT huge_JJ demand_NN for_IN multimedia_NNS goods_NNS and_CC services_NNS in_IN the_DT Internet_NN ._.
+Currently_RB available_JJ bandwidth_NN speeds_NNS can_MD support_VB sale_NN of_IN downloadable_JJ content_NN like_IN CDs_NNS ,_, e-books_NNS ,_, etc._NN as_RB well_RB as_IN services_NNS like_IN video-on-demand_NN ._.
+In_IN the_DT future_NN ,_, such_JJ services_NNS will_MD be_VB prevalent_JJ in_IN the_DT Internet_NN ._.
+Since_IN costs_NNS are_VBP typically_RB fixed_VBN ,_, maximizing_VBG revenue_NN can_MD maximize_VB profits_NNS ._.
+A_DT primary_JJ determinant_NN of_IN revenue_NN in_IN such_JJ e-content_NN markets_NNS is_VBZ how_WRB much_JJ value_NN the_DT customers_NNS associate_VBP with_IN the_DT content_NN ._.
+Though_IN marketing_NN surveys_NNS are_VBP useful_JJ ,_, they_PRP can_MD not_RB adapt_VB to_TO the_DT dynamic_JJ nature_NN of_IN the_DT Internet_NN market_NN ._.
+In_IN this_DT work_NN ,_, we_PRP examine_VBP how_WRB to_TO learn_VB customer_NN valuations_NNS in_IN close_JJ to_TO real-time_JJ ._.
+Our_PRP$ contributions_NNS in_IN this_DT paper_NN are_VBP threefold_JJ :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- we_PRP develop_VBP a_DT probabilistic_JJ model_NN to_TO describe_VB customer_NN behavior_NN ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- we_PRP develop_VBP a_DT framework_NN for_IN pricing_NN e-content_NN based_VBN on_IN basic_JJ economic_JJ principles_NNS ,_, and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- we_PRP propose_VBP a_DT price_NN discovering_VBG algorithm_NN that_WDT learns_VBZ customer_NN behavior_NN parameters_NNS and_CC suggests_VBZ prices_NNS to_TO an_DT e-content_NN provider_NN ._.
+We_PRP validate_VBP our_PRP$ algorithm_NN using_VBG simulations_NNS ._.
+Our_PRP$ simulations_NNS indicate_VBP that_IN our_PRP$ algorithm_NN generates_VBZ revenue_NN close_RB to_TO the_DT maximum_NN expectation_NN ._.
+Further_RB ,_, they_PRP also_RB indicate_VBP that_IN the_DT algorithm_NN is_VBZ robust_JJ to_TO transient_JJ customer_NN behavior_NN ._.

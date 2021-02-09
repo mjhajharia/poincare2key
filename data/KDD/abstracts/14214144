@@ -1,0 +1,9 @@
+Personal_JJ privacy_NN vs_CC population_NN privacy_NN :_: learning_VBG to_TO attack_VB anonymization_NN
+Over_IN the_DT last_JJ decade_NN great_JJ strides_NNS have_VBP been_VBN made_VBN in_IN developing_VBG techniques_NNS to_TO compute_VB functions_NNS privately_RB ._.
+In_IN particular_JJ ,_, Differential_JJ Privacy_NN gives_VBZ strong_JJ promises_NNS about_IN conclusions_NNS that_WDT can_MD be_VB drawn_VBN about_IN an_DT individual_NN ._.
+In_IN contrast_NN ,_, various_JJ syntactic_JJ methods_NNS for_IN providing_VBG privacy_NN -LRB-_-LRB- criteria_NNS such_JJ as_IN k-anonymity_NN and_CC l-diversity_NN -RRB-_-RRB- have_VBP been_VBN criticized_VBN for_IN still_RB allowing_VBG private_JJ information_NN of_IN an_DT individual_NN to_TO be_VB inferred_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP consider_VBP the_DT ability_NN of_IN an_DT attacker_NN to_TO use_VB data_NNS meeting_VBG privacy_NN definitions_NNS to_TO build_VB an_DT accurate_JJ classifier_NN ._.
+We_PRP demonstrate_VBP that_IN even_RB under_IN Differential_JJ Privacy_NN ,_, such_JJ classifiers_NNS can_MD be_VB used_VBN to_TO infer_VB ``_`` private_JJ ''_'' attributes_NNS accurately_RB in_IN realistic_JJ data_NNS ._.
+We_PRP compare_VBP this_DT to_TO similar_JJ approaches_NNS for_IN inference-based_JJ attacks_NNS on_IN other_JJ forms_NNS of_IN anonymized_JJ data_NNS ._.
+We_PRP show_VBP how_WRB the_DT efficacy_NN of_IN all_PDT these_DT attacks_NNS can_MD be_VB measured_VBN on_IN the_DT same_JJ scale_NN ,_, based_VBN on_IN the_DT probability_NN of_IN successfully_RB inferring_VBG a_DT private_JJ attribute_NN ._.
+We_PRP observe_VBP that_IN the_DT accuracy_NN of_IN inference_NN of_IN private_JJ attributes_NNS for_IN differentially_RB private_JJ data_NNS and_CC $_$ l_NN $_$ -_: diverse_JJ data_NNS can_MD be_VB quite_RB similar_JJ ._.

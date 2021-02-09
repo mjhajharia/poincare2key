@@ -1,0 +1,7 @@
+Formulating_VBG distance_NN functions_NNS via_IN the_DT kernel_NN trick_NN
+Tasks_NNS of_IN data_NNS mining_NN and_CC information_NN retrieval_NN depend_VBP on_IN a_DT good_JJ distance_NN function_NN for_IN measuring_VBG similarity_NN between_IN data_NNS instances_NNS ._.
+The_DT most_RBS effective_JJ distance_NN function_NN must_MD be_VB formulated_VBN in_IN a_DT context-dependent_JJ -LRB-_-LRB- also_RB application_NN -_: ,_, data_NNS -_: ,_, and_CC user-dependent_JJ -RRB-_-RRB- way_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP to_TO learn_VB a_DT distance_NN function_NN by_IN capturing_VBG the_DT nonlinear_JJ relationships_NNS among_IN contextual_JJ information_NN provided_VBN by_IN the_DT application_NN ,_, data_NNS ,_, or_CC user_NN ._.
+We_PRP show_VBP that_IN through_IN a_DT process_NN called_VBN the_DT ``_`` kernel_NN trick_NN ,_, ''_'' such_JJ nonlinear_JJ relationships_NNS can_MD be_VB learned_VBN efficiently_RB in_IN a_DT projected_JJ space_NN ._.
+Theoretically_RB ,_, we_PRP substantiate_VBP that_IN our_PRP$ method_NN is_VBZ both_CC sound_JJ and_CC optimal_JJ ._.
+Empirically_RB ,_, using_VBG several_JJ datasets_NNS and_CC applications_NNS ,_, we_PRP demonstrate_VBP that_IN our_PRP$ method_NN is_VBZ effective_JJ and_CC useful_JJ ._.

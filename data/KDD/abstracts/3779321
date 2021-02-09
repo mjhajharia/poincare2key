@@ -1,0 +1,5 @@
+Interestingness_NN of_IN frequent_JJ itemsets_NNS using_VBG Bayesian_JJ networks_NNS as_IN background_NN knowledge_NN
+The_DT paper_NN presents_VBZ a_DT method_NN for_IN pruning_NN frequent_JJ itemsets_NNS based_VBN on_IN background_NN knowledge_NN represented_VBN by_IN a_DT Bayesian_JJ network_NN ._.
+The_DT interestingness_NN of_IN an_DT itemset_NN is_VBZ defined_VBN as_IN the_DT absolute_JJ difference_NN between_IN its_PRP$ support_NN estimated_VBN from_IN data_NNS and_CC from_IN the_DT Bayesian_JJ network_NN ._.
+Efficient_JJ algorithms_NNS are_VBP presented_VBN for_IN finding_VBG interestingness_NN of_IN a_DT collection_NN of_IN frequent_JJ itemsets_NNS ,_, and_CC for_IN finding_VBG all_DT attribute_NN sets_VBZ with_IN a_DT given_VBN minimum_NN interestingness_NN ._.
+Practical_NNP usefulness_NN of_IN the_DT algorithms_NNS and_CC their_PRP$ efficiency_NN have_VBP been_VBN verified_VBN experimentally_RB ._.

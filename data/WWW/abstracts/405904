@@ -1,0 +1,8 @@
+Web_NN ontology_NN segmentation_NN :_: analysis_NN ,_, classification_NN and_CC use_NN
+Ontologies_NNS are_VBP at_IN the_DT heart_NN of_IN the_DT semantic_JJ web_NN ._.
+They_PRP define_VBP the_DT concepts_NNS and_CC relationships_NNS that_WDT make_VBP global_JJ interoperability_NN possible_JJ ._.
+However_RB ,_, as_IN these_DT ontologies_NNS grow_VBP in_IN size_NN they_PRP become_VBP more_RBR and_CC more_RBR difficult_JJ to_TO create_VB ,_, use_VB ,_, understand_VB ,_, maintain_VB ,_, transform_VB and_CC classify_VB ._.
+We_PRP present_VBP and_CC evaluate_VBP several_JJ algorithms_NNS for_IN extracting_VBG relevant_JJ segments_NNS out_IN of_IN large_JJ description_NN logic_NN ontologies_NNS for_IN the_DT purposes_NNS of_IN increasing_VBG tractability_NN for_IN both_DT humans_NNS and_CC computers_NNS ._.
+The_DT segments_NNS are_VBP not_RB mere_JJ fragments_NNS ,_, but_CC stand_VBP alone_RB as_IN ontologies_NNS in_IN their_PRP$ own_JJ right_NN ._.
+This_DT technique_NN takes_VBZ advantage_NN of_IN the_DT detailed_JJ semantics_NNS captured_VBN within_IN an_DT OWL_NN ontology_NN to_TO produce_VB highly_RB relevant_JJ segments_NNS ._.
+The_DT research_NN was_VBD evaluated_VBN using_VBG the_DT GALEN_NNP ontology_NN of_IN medical_JJ terms_NNS and_CC procedures_NNS ._.

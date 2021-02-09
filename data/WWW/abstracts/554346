@@ -1,0 +1,6 @@
+Beyond_NNP PageRank_NNP :_: machine_NN learning_NN for_IN static_JJ ranking_NN
+Since_IN the_DT publication_NN of_IN Brin_NNP and_CC Page_NNP 's_POS paper_NN on_IN PageRank_NNP ,_, many_JJ in_IN the_DT Web_NN community_NN have_VBP depended_VBN on_IN PageRank_NNP for_IN the_DT static_JJ -LRB-_-LRB- query-independent_JJ -RRB-_-RRB- ordering_VBG of_IN Web_NN pages_NNS ._.
+We_PRP show_VBP that_IN we_PRP can_MD significantly_RB outperform_VB PageRank_NNP using_VBG features_NNS that_WDT are_VBP independent_JJ of_IN the_DT link_NN structure_NN of_IN the_DT Web_NN ._.
+We_PRP gain_VBP a_DT further_JJ boost_NN in_IN accuracy_NN by_IN using_VBG data_NNS on_IN the_DT frequency_NN at_IN which_WDT users_NNS visit_VBP Web_NN pages_NNS ._.
+We_PRP use_VBP RankNet_NNP ,_, a_DT ranking_JJ machine_NN learning_NN algorithm_NN ,_, to_TO combine_VB these_DT and_CC other_JJ static_JJ features_NNS based_VBN on_IN anchor_NN text_NN and_CC domain_NN characteristics_NNS ._.
+The_DT resulting_VBG model_NN achieves_VBZ a_DT static_JJ ranking_JJ pairwise_JJ accuracy_NN of_IN 67.3_CD %_NN -LRB-_-LRB- vs._FW 56.7_CD %_NN for_IN PageRank_NNP or_CC 50_CD %_NN for_IN random_JJ -RRB-_-RRB- ._.

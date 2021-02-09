@@ -1,0 +1,8 @@
+Implementing_VBG physical_JJ hyperlinks_NNS using_VBG ubiquitous_JJ identifier_NN resolution_NN
+Identifier_NN resolution_NN is_VBZ presented_VBN as_IN a_DT way_NN to_TO link_VB the_DT physical_JJ world_NN with_IN virtual_JJ Web_NN resources_NNS ._.
+In_IN this_DT paradigm_NN ,_, designed_VBN to_TO support_VB nomadic_JJ users_NNS ,_, the_DT user_NN employs_VBZ a_DT handheld_JJ ,_, wirelessly_RB connected_JJ ,_, sensor-equipped_JJ device_NN to_TO read_VB identifiers_NNS associated_VBN with_IN physical_JJ entities_NNS ._.
+The_DT identifiers_NNS are_VBP resolved_VBN into_IN virtual_JJ resources_NNS or_CC actions_NNS related_VBN to_TO the_DT physical_JJ entities_NNS -_: as_IN though_IN the_DT user_NN `_`` clicked_VBD on_IN a_DT physical_JJ hyperlink_NN '_'' ._.
+We_PRP have_VBP integrated_VBN identifier_NN resolution_NN with_IN the_DT Web_NN so_IN that_IN it_PRP can_MD be_VB deployed_VBN as_RB ubiquitously_RB as_IN the_DT Web_NN ,_, in_IN the_DT infrastructure_NN and_CC on_IN wirelessly_RB connected_VBN handheld_JJ devices_NNS ._.
+We_PRP enable_VBP users_NNS to_TO capture_VB resolution_NN services_NNS and_CC applications_NNS as_IN Web_NN resources_NNS in_IN their_PRP$ local_JJ context_NN ._.
+We_PRP use_VBP the_DT Web_NN to_TO invoke_VB resolution_NN services_NNS ,_, with_IN a_DT model_NN of_IN `_`` physical_JJ '_'' Web_NN form-filling_NN ._.
+We_PRP propose_VBP a_DT scheme_NN for_IN binding_VBG identifiers_NNS to_TO resources_NNS ,_, to_TO promote_VB services_NNS and_CC applications_NNS linking_VBG the_DT physical_JJ and_CC virtual_JJ worlds_NNS ._.

@@ -1,0 +1,8 @@
+Model_NNP checking_NN cobweb_NN protocols_NNS for_IN verification_NN of_IN HTML_NNP frames_NNS behavior_NN
+HTML_NNP documents_NNS composed_VBN of_IN frames_NNS can_MD be_VB difficult_JJ to_TO write_VB correctly_RB ._.
+We_PRP demonstrate_VBP a_DT technique_NN that_WDT can_MD be_VB used_VBN by_IN authors_NNS manually_RB creating_VBG HTML_NNP documents_NNS -LRB-_-LRB- or_CC by_IN document_NN editors_NNS -RRB-_-RRB- to_TO verify_VB that_IN complex_JJ frame_NN construction_NN exhibits_VBZ the_DT intended_JJ behavior_NN when_WRB browsed_VBN ._.
+The_DT method_NN is_VBZ based_VBN on_IN model_NN checking_NN -LRB-_-LRB- an_DT automated_VBN program_NN verification_NN technique_NN -RRB-_-RRB- ,_, and_CC on_IN temporal_JJ logic_NN specifications_NNS of_IN expected_VBN frames_NNS behavior_NN ._.
+We_PRP show_VBP how_WRB to_TO model_VB the_DT HTML_NNP frames_NNS source_NN as_IN a_DT CobWeb_NNP protocol_NN ,_, related_VBN to_TO the_DT Trellis_NNP model_NN of_IN hypermedia_NN documents_NNS ._.
+We_PRP show_VBP how_WRB to_TO convert_VB the_DT CobWeb_NNP protocol_NN to_TO input_NN for_IN a_DT model_NN checker_NN ,_, and_CC discuss_VB several_JJ ways_NNS for_IN authors_NNS to_TO create_VB the_DT necessary_JJ behavior_NN specifications_NNS ._.
+Our_PRP$ solution_NN allows_VBZ Web_NN documents_NNS to_TO be_VB built_VBN containing_VBG a_DT large_JJ number_NN of_IN frames_NNS and_CC content_NN pages_NNS interacting_VBG in_IN complex_JJ ways_NNS ._.
+We_PRP expect_VBP such_JJ Web_NN structures_NNS to_TO be_VB more_RBR useful_JJ in_IN ``_`` literary_JJ ''_'' hypermedia_NN than_IN for_IN Web_NN ``_`` sites_NNS ''_'' used_VBN as_IN interfaces_NNS to_TO organizational_JJ information_NN or_CC databases_NNS ._.

@@ -1,0 +1,6 @@
+Towards_IN the_DT self-annotating_JJ web_NN
+The_DT success_NN of_IN the_DT Semantic_JJ Web_NN depends_VBZ on_IN the_DT availability_NN of_IN ontologies_NNS as_RB well_RB as_IN on_IN the_DT proliferation_NN of_IN web_NN pages_NNS annotated_JJ with_IN metadata_NN conforming_VBG to_TO these_DT ontologies_NNS ._.
+Thus_RB ,_, a_DT crucial_JJ question_NN is_VBZ where_WRB to_TO acquire_VB these_DT metadata_NNS from_IN ._.
+In_IN this_DT paper_NN wepropose_NN PANKOW_NN -LRB-_-LRB- Pattern-based_JJ Annotation_NN through_IN Knowledge_NN on_IN theWeb_NN -RRB-_-RRB- ,_, a_DT method_NN which_WDT employs_VBZ an_DT unsupervised_JJ ,_, pattern-based_JJ approach_NN to_TO categorize_VB instances_NNS with_IN regard_NN to_TO an_DT ontology_NN ._.
+The_DT approach_NN is_VBZ evaluated_VBN against_IN the_DT manual_JJ annotations_NNS of_IN two_CD human_JJ subjects_NNS ._.
+The_DT approach_NN is_VBZ implemented_VBN in_IN OntoMat_NNP ,_, an_DT annotation_NN tool_NN for_IN the_DT Semantic_JJ Web_NN and_CC shows_VBZ very_RB promising_JJ results_NNS ._.

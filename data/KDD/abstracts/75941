@@ -1,0 +1,10 @@
+Selecting_VBG the_DT right_JJ interestingness_NN measure_NN for_IN association_NN patterns_NNS
+Many_JJ techniques_NNS for_IN association_NN rule_NN mining_NN and_CC feature_NN selection_NN require_VBP a_DT suitable_JJ metric_NN to_TO capture_VB the_DT dependencies_NNS among_IN variables_NNS in_IN a_DT data_NN set_NN ._.
+For_IN example_NN ,_, metrics_NNS such_JJ as_IN support_NN ,_, confidence_NN ,_, lift_NN ,_, correlation_NN ,_, and_CC collective_JJ strength_NN are_VBP often_RB used_VBN to_TO determine_VB the_DT interestingness_NN of_IN association_NN patterns_NNS ._.
+However_RB ,_, many_JJ such_JJ measures_NNS provide_VBP conflicting_VBG information_NN about_IN the_DT interestingness_NN of_IN a_DT pattern_NN ,_, and_CC the_DT best_JJS metric_NN to_TO use_VB for_IN a_DT given_VBN application_NN domain_NN is_VBZ rarely_RB known_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP an_DT overview_NN of_IN various_JJ measures_NNS proposed_VBN in_IN the_DT statistics_NNS ,_, machine_NN learning_NN and_CC data_NN mining_NN literature_NN ._.
+We_PRP describe_VBP several_JJ key_JJ properties_NNS one_PRP should_MD examine_VB in_IN order_NN to_TO select_VB the_DT right_JJ measure_NN for_IN a_DT given_VBN application_NN domain_NN ._.
+A_DT comparative_JJ study_NN of_IN these_DT properties_NNS is_VBZ made_VBN using_VBG twenty_CD one_CD of_IN the_DT existing_VBG measures_NNS ._.
+We_PRP show_VBP that_IN each_DT measure_NN has_VBZ different_JJ properties_NNS which_WDT make_VBP them_PRP useful_JJ for_IN some_DT application_NN domains_NNS ,_, but_CC not_RB for_IN others_NNS ._.
+We_PRP also_RB present_VBP two_CD scenarios_NNS in_IN which_WDT most_JJS of_IN the_DT existing_VBG measures_NNS agree_VBP with_IN each_DT other_JJ ,_, namely_RB ,_, support-based_JJ pruning_NN and_CC table_NN standardization_NN ._.
+Finally_RB ,_, we_PRP present_VBP an_DT algorithm_NN to_TO select_VB a_DT small_JJ set_NN of_IN tables_NNS such_JJ that_IN an_DT expert_NN can_MD select_VB a_DT desirable_JJ measure_NN by_IN looking_VBG at_IN just_RB this_DT small_JJ set_NN of_IN tables_NNS ._.

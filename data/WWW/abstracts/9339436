@@ -1,0 +1,8 @@
+Less_RBR talk_NN ,_, more_JJR rock_NN :_: automated_JJ organization_NN of_IN community-contributed_JJ collections_NNS of_IN concert_NN videos_NNS
+We_PRP describe_VBP a_DT system_NN for_IN synchronization_NN and_CC organization_NN of_IN user-contributed_JJ content_NN from_IN live_JJ music_NN events_NNS ._.
+We_PRP start_VBP with_IN a_DT set_NN of_IN short_JJ video_NN clips_NNS taken_VBN at_IN a_DT single_JJ event_NN by_IN multiple_JJ contributors_NNS ,_, who_WP were_VBD using_VBG a_DT varied_JJ set_NN of_IN capture_NN devices_NNS ._.
+Using_VBG audio_JJ fingerprints_NNS ,_, we_PRP synchronize_VBP these_DT clips_NNS such_JJ that_IN overlapping_VBG clips_NNS can_MD be_VB displayed_VBN simultaneously_RB ._.
+Furthermore_RB ,_, we_PRP use_VBP the_DT timing_NN and_CC link_NN structure_NN generated_VBN by_IN the_DT synchronization_NN algorithm_NN to_TO improve_VB the_DT findability_NN and_CC representation_NN of_IN the_DT event_NN content_NN ,_, including_VBG identifying_VBG key_JJ moments_NNS of_IN interest_NN and_CC descriptive_JJ text_NN for_IN important_JJ captured_VBN segments_NNS of_IN the_DT show_NN ._.
+We_PRP also_RB identify_VBP the_DT preferred_JJ audio_NN track_NN when_WRB multiple_JJ clips_NNS overlap_VBP ._.
+We_PRP thus_RB create_VBP a_DT much_JJ improved_JJ representation_NN of_IN the_DT event_NN that_WDT builds_VBZ on_IN the_DT automatic_JJ content_NN match_NN ._.
+Our_PRP$ work_NN demonstrates_VBZ important_JJ principles_NNS in_IN the_DT use_NN of_IN content_NN analysis_NN techniques_NNS for_IN social_JJ media_NNS content_NN on_IN the_DT Web_NN ,_, and_CC applies_VBZ those_DT principles_NNS in_IN the_DT domain_NN of_IN live_JJ music_NN capture_NN ._.

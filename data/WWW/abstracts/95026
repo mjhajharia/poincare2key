@@ -1,0 +1,7 @@
+Evaluating_VBG strategies_NNS for_IN similarity_NN search_NN on_IN the_DT web_NN
+Finding_VBG pages_NNS on_IN the_DT Web_NN that_WDT are_VBP similar_JJ to_TO a_DT query_JJ page_NN -LRB-_-LRB- Related_NNP Pages_NNP -RRB-_-RRB- is_VBZ an_DT important_JJ component_NN of_IN modern_JJ search_NN engines_NNS ._.
+A_DT variety_NN of_IN strategies_NNS have_VBP been_VBN proposed_VBN for_IN answering_VBG Related_NNP Pages_NNP queries_NNS ,_, but_CC comparative_JJ evaluation_NN by_IN user_NN studies_NNS is_VBZ expensive_JJ ,_, especially_RB when_WRB large_JJ strategy_NN spaces_NNS must_MD be_VB searched_VBN -LRB-_-LRB- e.g._FW ,_, when_WRB tuning_NN parameters_NNS -RRB-_-RRB- ._.
+We_PRP present_VBP a_DT technique_NN for_IN automatically_RB evaluating_VBG strategies_NNS using_VBG Web_NN hierarchies_NNS ,_, such_JJ as_IN Open_NNP Directory_NNP ,_, in_IN place_NN of_IN user_NN feedback_NN ._.
+We_PRP apply_VBP this_DT evaluation_NN methodology_NN to_TO a_DT mix_NN of_IN document_NN representation_NN strategies_NNS ,_, including_VBG the_DT use_NN of_IN text_NN ,_, anchor-text_NN ,_, and_CC links_NNS ._.
+We_PRP discuss_VBP the_DT relative_JJ advantages_NNS and_CC disadvantages_NNS of_IN the_DT various_JJ approaches_NNS examined_VBN ._.
+Finally_RB ,_, we_PRP describe_VBP how_WRB to_TO efficiently_RB construct_VB a_DT similarity_NN index_NN out_IN of_IN our_PRP$ chosen_JJ strategies_NNS ,_, and_CC provide_VBP sample_NN results_NNS from_IN our_PRP$ index_NN ._.

@@ -1,0 +1,13 @@
+Cost-effective_JJ outbreak_NN detection_NN in_IN networks_NNS
+Given_VBN a_DT water_NN distribution_NN network_NN ,_, where_WRB should_MD we_VB place_NN sensors_NNS toquickly_RB detect_VB contaminants_NNS ?_.
+Or_CC ,_, which_WDT blogs_NNS should_MD we_PRP read_VB to_TO avoid_VB missing_VBG important_JJ stories_NNS ?_. ._.
+These_DT seemingly_RB different_JJ problems_NNS share_VBP common_JJ structure_NN :_: Outbreak_NN detection_NN can_MD be_VB modeled_VBN as_IN selecting_NN nodes_NNS -LRB-_-LRB- sensor_NN locations_NNS ,_, blogs_NNS -RRB-_-RRB- in_IN a_DT network_NN ,_, in_IN order_NN to_TO detect_VB the_DT spreading_NN of_IN a_DT virus_NN or_CC information_NN asquickly_RB as_IN possible_JJ ._.
+We_PRP present_VBP a_DT general_JJ methodology_NN for_IN near_JJ optimal_JJ sensor_NN placement_NN in_IN these_DT and_CC related_JJ problems_NNS ._.
+We_PRP demonstrate_VBP that_IN many_JJ realistic_JJ outbreak_NN detection_NN objectives_NNS -LRB-_-LRB- e.g._FW ,_, detection_NN likelihood_NN ,_, population_NN affected_VBN -RRB-_-RRB- exhibit_VBP the_DT property_NN of_IN ``_`` submodularity_NN ''_'' ._.
+We_PRP exploit_VBP submodularity_NN to_TO develop_VB an_DT efficient_JJ algorithm_NN that_IN scales_NNS to_TO large_JJ problems_NNS ,_, achieving_VBG near_IN optimal_JJ placements_NNS ,_, while_IN being_VBG 700_CD times_NNS faster_RBR than_IN a_DT simple_JJ greedy_JJ algorithm_NN ._.
+We_PRP also_RB derive_VBP online_NN bounds_NNS on_IN the_DT quality_NN of_IN the_DT placements_NNS obtained_VBN by_IN any_DT algorithm_NN ._.
+Our_PRP$ algorithms_NNS and_CC bounds_NNS also_RB handle_VBP cases_NNS where_WRB nodes_NNS -LRB-_-LRB- sensor_NN locations_NNS ,_, blogs_NNS -RRB-_-RRB- have_VBP different_JJ costs_NNS ._.
+We_PRP evaluate_VBP our_PRP$ approach_NN on_IN several_JJ large_JJ real-world_JJ problems_NNS ,_, including_VBG a_DT model_NN of_IN a_DT water_NN distribution_NN network_NN from_IN the_DT EPA_NNP ,_, andreal_JJ blog_NN data_NNS ._.
+The_DT obtained_VBN sensor_NN placements_NNS are_VBP provably_RB near_IN optimal_JJ ,_, providing_VBG a_DT constant_JJ fraction_NN of_IN the_DT optimal_JJ solution_NN ._.
+We_PRP show_VBP that_IN the_DT approach_NN scales_NNS ,_, achieving_VBG speedups_NNS and_CC savings_NNS in_IN storage_NN of_IN several_JJ orders_NNS of_IN magnitude_NN ._.
+We_PRP also_RB show_VBP how_WRB the_DT approach_NN leads_VBZ to_TO deeper_JJR insights_NNS in_IN both_DT applications_NNS ,_, answering_VBG multicriteria_JJ trade-off_NN ,_, cost-sensitivity_NN and_CC generalization_NN questions_NNS ._.

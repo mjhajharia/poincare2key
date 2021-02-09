@@ -1,0 +1,5 @@
+Shout_VB out_RP :_: integrating_VBG news_NN and_CC reader_NN comments_NNS
+A_DT useful_JJ approach_NN for_IN enabling_VBG computers_NNS to_TO automatically_RB create_VB new_JJ content_NN is_VBZ utilizing_VBG the_DT text_NN ,_, media_NNS ,_, and_CC information_NN already_RB present_JJ on_IN the_DT World_NNP Wide_NN Web_NN ._.
+The_DT newly_RB created_VBN content_NN is_VBZ known_VBN as_IN ``_`` machine-generated_JJ content_NN ''_'' ._.
+For_IN example_NN ,_, a_DT machine-generated_JJ content_NN system_NN may_MD create_VB a_DT multimedia_NNS news_NN show_NN with_IN two_CD animated_JJ anchors_NNS presenting_VBG a_DT news_NN story_NN ;_: one_CD anchor_NN reads_VBZ the_DT news_NN story_NN with_IN text_NN taken_VBN from_IN an_DT existing_VBG news_NN article_NN ,_, and_CC the_DT other_JJ anchor_NN regularly_RB interrupts_VBZ with_IN his_PRP$ or_CC her_PRP$ own_JJ opinion_NN about_IN the_DT story_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP such_JJ a_DT system_NN ,_, and_CC describe_VBP in_IN detail_NN its_PRP$ strategy_NN for_IN autonomously_RB extracting_VBG and_CC selecting_VBG the_DT opinions_NNS given_VBN by_IN the_DT second_JJ anchor_NN ._.

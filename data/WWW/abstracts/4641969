@@ -1,0 +1,5 @@
+Exploit_VB sequencing_NN views_NNS in_IN semantic_JJ cache_NN to_TO accelerate_VB xpath_NN query_NN evaluation_NN
+In_IN XML_NN databases_NNS ,_, materializing_VBG queries_NNS and_CC their_PRP$ results_NNS into_IN views_NNS in_IN a_DT semantic_JJ cache_NN can_MD improve_VB the_DT performance_NN of_IN query_NN evaluation_NN by_IN reducing_VBG computational_JJ complexity_NN and_CC I\/O_NN cost_NN ._.
+Although_IN there_EX are_VBP a_DT number_NN of_IN proposals_NNS of_IN semantic_JJ cache_NN for_IN XML_NN queries_NNS ,_, the_DT issues_NNS of_IN fast_JJ cache_NN lookup_NN and_CC compensation_NN query_NN construction_NN could_MD be_VB further_RB studied_VBN ._.
+In_IN this_DT paper_NN ,_, based_VBN on_IN sequential_JJ XPath_NN queries_NNS ,_, we_PRP propose_VBP fastCLU_NN ,_, a_DT fast_JJ Cache_NN LookUp_NN algorithm_NN and_CC effiCQ_NN ,_, an_DT efficient_JJ Compensation_NNP Query_NNP constructing_VBG algorithm_NN to_TO solve_VB these_DT two_CD problems_NNS ._.
+Experimental_JJ results_NNS show_VBP that_IN our_PRP$ algorithms_NNS outperform_VBP previous_JJ algorithms_NNS and_CC can_MD achieve_VB good_JJ performance_NN of_IN query_NN evaluation_NN ._.

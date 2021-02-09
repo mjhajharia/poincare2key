@@ -1,0 +1,10 @@
+Hardening_VBG Web_NN browsers_NNS against_IN man-in-the-middle_NN and_CC eavesdropping_NN attacks_NNS
+Existing_VBG Web_NN browsers_NNS handle_VBP security_NN errors_NNS in_IN a_DT manner_NN that_WDT often_RB confuses_VBZ users_NNS ._.
+In_IN particular_JJ ,_, when_WRB a_DT user_NN visits_VBZ a_DT secure_JJ site_NN whose_WP$ certificate_NN the_DT browser_NN can_MD not_RB verify_VB ,_, the_DT browser_NN typically_RB allows_VBZ the_DT user_NN to_TO view_VB and_CC install_VB the_DT certificate_NN and_CC connect_VB to_TO the_DT site_NN despite_IN the_DT verification_NN failure_NN ._.
+However_RB ,_, few_JJ users_NNS understand_VBP the_DT risk_NN of_IN man-in-the-middle_JJ attacks_NNS and_CC the_DT principles_NNS behind_IN certificate-based_JJ authentication_NN ._.
+We_PRP propose_VBP context-sensitive_JJ certificate_NN verification_NN -LRB-_-LRB- CSCV_NN -RRB-_-RRB- ,_, whereby_WRB the_DT browser_NN interrogates_VBZ the_DT user_NN about_IN the_DT context_NN in_IN which_WDT a_DT certificate_NN verification_NN error_NN occurs_VBZ ._.
+Considering_VBG the_DT context_NN ,_, the_DT browser_NN then_RB guides_NNS the_DT user_NN in_IN handling_NN and_CC possibly_RB overcoming_VBG the_DT security_NN error_NN ._.
+We_PRP also_RB propose_VBP specific_JJ password_NN warnings_NNS -LRB-_-LRB- SPW_NN -RRB-_-RRB- when_WRB users_NNS are_VBP about_IN to_TO send_VB passwords_NNS in_IN a_DT form_NN vulnerable_JJ to_TO eavesdropping_NN ._.
+We_PRP performed_VBD user_NN studies_NNS to_TO evaluate_VB CSCV_NNP and_CC SPW_NNP ._.
+Our_PRP$ results_NNS suggest_VBP that_IN CSCV_NN and_CC SPW_NN can_MD greatly_RB improve_VB Web_NN browsing_VBG security_NN and_CC are_VBP easy_JJ to_TO use_VB even_RB without_IN training_NN ._.
+Moreover_RB ,_, CSCV_NN had_VBD greater_JJR impact_NN than_IN did_VBD staged_VBN security_NN training_NN ._.

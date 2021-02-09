@@ -1,0 +1,6 @@
+Improving_NN spatial_JJ locality_NN of_IN programs_NNS via_IN data_NNS mining_NN
+In_IN most_JJS computer_NN systems_NNS ,_, page_NN fault_NN rate_NN is_VBZ currently_RB minimized_VBN by_IN generic_JJ page_NN replacement_NN algorithms_NNS which_WDT try_VBP to_TO model_VB the_DT temporal_JJ locality_NN inherent_JJ in_IN programs_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP two_CD algorithms_NNS ,_, one_CD greedy_JJ and_CC the_DT other_JJ stochastic_JJ ,_, designed_VBN for_IN program_NN specific_JJ code_NN restructuring_NN as_IN a_DT means_NN of_IN increasing_VBG spatial_JJ locality_NN within_IN a_DT program_NN ._.
+Both_DT algorithms_NNS effectively_RB decrease_VBP average_JJ working_VBG set_NN size_NN and_CC hence_RB the_DT page_NN fault_NN rate_NN ._.
+Our_PRP$ methods_NNS are_VBP more_RBR effective_JJ than_IN traditional_JJ approaches_NNS due_JJ to_TO use_NN of_IN domain_NN information_NN ._.
+We_PRP illustrate_VBP the_DT efficacy_NN of_IN our_PRP$ algorithms_NNS on_IN actual_JJ data_NNS mining_NN algorithms_NNS ._.

@@ -1,0 +1,9 @@
+Topical_JJ TrustRank_NN :_: using_VBG topicality_NN to_TO combat_VB web_NN spam_NN
+Web_NN spam_NN is_VBZ behavior_NN that_WDT attempts_VBZ to_TO deceive_VB search_NN engine_NN ranking_NN algorithms_NNS ._.
+TrustRank_NNP is_VBZ a_DT recent_JJ algorithm_NN that_WDT can_MD combat_VB web_NN spam_NN ._.
+However_RB ,_, TrustRank_NN is_VBZ vulnerable_JJ in_IN the_DT sense_NN that_IN the_DT seed_NN set_NN used_VBN by_IN TrustRank_NN may_MD not_RB be_VB sufficiently_RB representative_JJ to_TO cover_VB well_RB the_DT different_JJ topics_NNS on_IN the_DT Web_NN ._.
+Also_RB ,_, for_IN a_DT given_VBN seed_NN set_NN ,_, TrustRank_NNP has_VBZ a_DT bias_NN towards_IN larger_JJR communities_NNS ._.
+We_PRP propose_VBP the_DT use_NN of_IN topical_JJ information_NN to_TO partition_NN the_DT seed_NN set_NN and_CC calculate_VB trust_NN scores_NNS for_IN each_DT topic_NN separately_RB to_TO address_VB the_DT above_JJ issues_NNS ._.
+A_DT combination_NN of_IN these_DT trust_NN scores_NNS for_IN a_DT page_NN is_VBZ used_VBN to_TO determine_VB its_PRP$ ranking_NN ._.
+Experimental_JJ results_NNS on_IN two_CD large_JJ datasets_NNS show_VBP that_IN our_PRP$ Topical_NNP TrustRank_NNP has_VBZ a_DT better_JJR performance_NN than_IN TrustRank_NNP in_IN demoting_VBG spam_NN sites_NNS or_CC pages_NNS ._.
+Compared_VBN to_TO TrustRank_NNP ,_, our_PRP$ best_JJS technique_NN can_MD decrease_VB spam_NN from_IN the_DT top_NN ranked_VBD sites_NNS by_IN as_RB much_JJ as_IN 43.1_CD %_NN ._.

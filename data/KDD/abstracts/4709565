@@ -1,0 +1,5 @@
+Identifying_VBG bridging_VBG rules_NNS between_IN conceptual_JJ clusters_NNS
+A_DT bridging_VBG rule_NN in_IN this_DT paper_NN has_VBZ its_PRP$ antecedent_JJ and_CC action_NN from_IN different_JJ conceptual_JJ clusters_NNS ._.
+We_PRP first_JJ design_NN two_CD algorithms_NNS for_IN mining_NN bridging_VBG rules_NNS between_IN clusters_NNS in_IN a_DT database_NN ,_, and_CC then_RB propose_VBP two_CD non-linear_JJ metrics_NNS for_IN measuring_VBG the_DT interestingness_NN of_IN bridging_VBG rules_NNS ._.
+Bridging_VBG rules_NNS can_MD be_VB distinct_JJ from_IN association_NN rules_NNS -LRB-_-LRB- or_CC frequent_JJ itemsets_NNS -RRB-_-RRB- ._.
+This_DT is_VBZ because_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- bridging_VBG rules_NNS can_MD be_VB generated_VBN by_IN infrequent_JJ itemsets_NNS that_WDT are_VBP pruned_VBN in_IN association_NN rule_NN mining_NN ;_: and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- bridging_VBG rules_NNS are_VBP measured_VBN by_IN the_DT importance_NN that_WDT includes_VBZ the_DT distance_NN between_IN two_CD conceptual_JJ clusters_NNS ,_, whereas_IN frequent_JJ itemsets_NNS are_VBP measured_VBN by_IN only_RB the_DT support_NN ._.

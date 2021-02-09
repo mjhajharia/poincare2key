@@ -1,0 +1,8 @@
+Exploiting_VBG unlabeled_JJ data_NNS in_IN ensemble_NN methods_NNS
+An_DT adaptive_JJ semi-supervised_JJ ensemble_NN method_NN ,_, ASSEMBLE_NNP ,_, is_VBZ proposed_VBN that_IN constructs_NNS classification_NN ensembles_NNS based_VBN on_IN both_CC labeled_JJ and_CC unlabeled_JJ data_NNS ._.
+ASSEMBLE_NNP alternates_VBZ between_IN assigning_VBG ``_`` pseudo-classes_NNS ''_'' to_TO the_DT unlabeled_JJ data_NNS using_VBG the_DT existing_VBG ensemble_NN and_CC constructing_VBG the_DT next_JJ base_NN classifier_NN using_VBG both_CC the_DT labeled_JJ and_CC pseudolabeled_JJ data_NNS ._.
+Mathematically_RB ,_, this_DT intuitive_JJ algorithm_NN corresponds_VBZ to_TO maximizing_VBG the_DT classification_NN margin_NN in_IN hypothesis_NN space_NN as_IN measured_VBN on_IN both_CC the_DT labeled_JJ and_CC unlabeled_JJ of_IN data_NNS ._.
+Unlike_IN alternative_JJ approaches_NNS ,_, ASSEMBLE_NNP does_VBZ not_RB require_VB a_DT semi-supervised_JJ learning_NN method_NN for_IN the_DT base_NN classifier_NN ._.
+ASSEMBLE_NN can_MD be_VB used_VBN in_IN conjunction_NN with_IN any_DT cost-sensitive_JJ classification_NN algorithm_NN for_IN both_CC two-class_JJ and_CC multi-class_JJ problems_NNS ._.
+ASSEMBLE_VB using_VBG decision_NN trees_NNS won_VBD the_DT NIPS_NNP 2001_CD Unlabeled_NNP Data_NNP Competition_NNP ._.
+In_IN addition_NN ,_, strong_JJ results_NNS on_IN several_JJ benchmark_JJ datasets_NNS using_VBG both_DT decision_NN trees_NNS and_CC neural_JJ networks_NNS support_VBP the_DT proposed_VBN method_NN ._.

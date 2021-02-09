@@ -1,0 +1,13 @@
+{
+  "dataset_identifier": "Inspec",
+  "reference": {
+    "test": "Inspec/references/test.uncontr.stem.json",
+    "train": "Inspec/references/train.uncontr.stem.json",
+    "val": "Inspec/references/dev.uncontr.stem.json"
+  },
+  "files": [
+    "test.json",
+    "train.json",
+    "val.json"
+  ]
+}

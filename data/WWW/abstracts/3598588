@@ -1,0 +1,6 @@
+The_DT WT10G_NN dataset_NN and_CC the_DT evolution_NN of_IN the_DT web_NN
+The_DT purpose_NN of_IN this_DT paper_NN is_VBZ threefold_JJ ._.
+First_RB ,_, we_PRP study_VBD the_DT evolution_NN of_IN the_DT web_NN based_VBN on_IN data_NNS available_JJ from_IN an_DT earlier_JJR snapshot_NN of_IN the_DT web_NN and_CC compare_VB the_DT results_NNS with_IN those_DT predicted_VBN in_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Secondly_RB ,_, we_PRP establish_VBP whether_IN the_DT WT10G_NN dataset_NN ,_, a_DT popular_JJ benchmark_NN for_IN the_DT development_NN and_CC evaluation_NN of_IN internet_NN based_VBN applications_NNS is_VBZ appropriate_JJ for_IN the_DT tasks_NNS ._.
+Finally_RB ,_, is_VBZ there_RB a_DT need_NN for_IN a_DT collection_NN of_IN a_DT new_JJ dataset_NN for_IN such_JJ purposes_NNS ._.
+The_DT findings_NNS are_VBP that_IN the_DT appropriateness_NN of_IN using_VBG the_DT popular_JJ WT10G_NN dataset_NN in_IN recent_JJ Internet-based_JJ experiments_NNS is_VBZ questionable_JJ and_CC that_IN there_EX is_VBZ a_DT need_NN for_IN a_DT new_JJ collection_NN of_IN dataset_NN for_IN development_NN and_CC evaluation_NN purposes_NNS of_IN algorithms_NNS related_VBN to_TO Internet_NN search_NN engine_NN developments_NNS ._.

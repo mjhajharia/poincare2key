@@ -1,0 +1,6 @@
+On_IN a_DT web_NN browsing_VBG support_NN system_NN with_IN 3d_NN visualization_NN
+Existing_VBG commercial_JJ Web_NN browsers_NNS provide_VBP various_JJ utilities_NNS and_CC functions_NNS ,_, e.g._FW ,_, Web_NN bookmarks_NNS and_CC a_DT browsing_VBG history_NN list_NN ._.
+Since_IN the_DT bookmark_NN and_CC history_NN functions_NNS only_RB the_DT title_NN and_CC URL_NN of_IN the_DT Web_NN page_NN ,_, users_NNS who_WP can_MD not_RB remember_VB the_DT contents_NNS of_IN each_DT Web_NN page_NN have_VBP difficulty_NN retracing_VBG their_PRP$ steps_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT bookmark_NN system_NN based_VBN on_IN a_DT 3D_NN interface_NN ._.
+Additionally_RB ,_, our_PRP$ system_NN offers_VBZ three_CD main_JJ functions_NNS a_DT 3D_NN browsing_VBG history_NN function_NN ,_, a_DT marker_NN function_NN ,_, and_CC a_DT look-ahead_JJ loading_NN function_NN ._.
+These_DT functions_NNS enable_VBP users_NNS to_TO browse_VB Web_NN pages_NNS more_RBR effectively_RB ._.

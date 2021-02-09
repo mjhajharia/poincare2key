@@ -1,0 +1,12 @@
+Evaluating_VBG the_DT effectiveness_NN of_IN search_NN task_NN trails_VBZ
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP ``_`` task_NN trail_NN ''_'' as_IN a_DT new_JJ concept_NN to_TO understand_VB user_NN search_NN behaviors_NNS ._.
+We_PRP define_VBP task_NN to_TO be_VB an_DT atomic_JJ user_NN information_NN need_NN ._.
+Web_NN search_NN logs_NNS have_VBP been_VBN studied_VBN mainly_RB at_IN session_NN or_CC query_NN level_NN where_WRB users_NNS may_MD submit_VB several_JJ queries_NNS within_IN one_CD task_NN and_CC handle_VB several_JJ tasks_NNS within_IN one_CD session_NN ._.
+Although_IN previous_JJ studies_NNS have_VBP addressed_VBN the_DT problem_NN of_IN task_NN identification_NN ,_, little_JJ is_VBZ known_VBN about_IN the_DT advantage_NN of_IN using_VBG task_NN over_IN session_NN and_CC query_NN for_IN search_NN applications_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP conduct_VBP extensive_JJ analyses_NNS and_CC comparisons_NNS to_TO evaluate_VB the_DT effectiveness_NN of_IN task_NN trails_VBZ in_IN three_CD search_NN applications_NNS :_: determining_VBG user_NN satisfaction_NN ,_, predicting_VBG user_NN search_NN interests_NNS ,_, and_CC query_NN suggestion_NN ._.
+Experiments_NNS are_VBP conducted_VBN on_IN large_JJ scale_NN datasets_NNS from_IN a_DT commercial_JJ search_NN engine_NN ._.
+Experimental_JJ results_NNS show_VBP that_IN :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- Sessions_NNP and_CC queries_NNS are_VBP not_RB as_RB precise_JJ as_IN tasks_NNS in_IN determining_VBG user_NN satisfaction_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Task_NNP trails_VBZ provide_VB higher_JJR web_NN page_NN utilities_NNS to_TO users_NNS than_IN other_JJ sources_NNS ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Tasks_NNS represent_VBP atomic_JJ user_NN information_NN needs_VBZ ,_, and_CC therefore_RB can_MD preserve_VB topic_NN similarity_NN between_IN query_JJ pairs_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Task-based_JJ query_NN suggestion_NN can_MD provide_VB complementary_JJ results_NNS to_TO other_JJ models_NNS ._.
+The_DT findings_NNS in_IN this_DT paper_NN verify_VB the_DT need_NN to_TO extract_VB task_NN trails_VBZ from_IN web_NN search_NN logs_NNS and_CC suggest_VBP potential_JJ applications_NNS in_IN search_NN and_CC recommendation_NN systems_NNS ._.

@@ -1,0 +1,5 @@
+Estimating_VBG the_DT cardinality_NN of_IN RDF_NN graph_NN patterns_NNS
+Most_JJS RDF_NN query_NN languages_NNS allow_VBP for_IN graph_NN structure_NN search_NN through_IN a_DT conjunction_NN of_IN triples_NNS which_WDT is_VBZ typically_RB processed_VBN using_VBG join_VB operations_NNS ._.
+A_DT key_JJ factor_NN in_IN optimizing_NN joins_VBZ is_VBZ determining_VBG the_DT join_VBP order_NN which_WDT depends_VBZ on_IN the_DT expected_VBN cardinality_NN of_IN intermediate_JJ results_NNS ._.
+This_DT work_NN proposes_VBZ a_DT pattern-based_JJ summarization_NN framework_NN for_IN estimating_VBG the_DT cardinality_NN of_IN RDF_NN graph_NN patterns_NNS ._.
+We_PRP present_VBP experiments_NNS on_IN real_JJ world_NN and_CC synthetic_JJ datasets_NNS which_WDT confirm_VBP the_DT feasibility_NN of_IN our_PRP$ approach_NN ._.

@@ -1,0 +1,9 @@
+Estimating_VBG the_DT global_JJ pagerank_NN of_IN web_NN communities_NNS
+Localized_JJ search_NN engines_NNS are_VBP small-scale_JJ systems_NNS that_IN index_NN a_DT particular_JJ community_NN on_IN the_DT web_NN ._.
+They_PRP offer_VBP several_JJ benefits_NNS over_IN their_PRP$ large-scale_JJ counterparts_NNS in_IN that_IN they_PRP are_VBP relatively_RB inexpensive_JJ to_TO build_VB ,_, and_CC can_MD provide_VB more_RBR precise_JJ and_CC complete_JJ search_NN capability_NN over_IN their_PRP$ relevant_JJ domains_NNS ._.
+One_CD disadvantage_NN such_JJ systems_NNS have_VBP over_IN large-scale_JJ search_NN engines_NNS is_VBZ the_DT lack_NN of_IN global_JJ PageRank_NN values_NNS ._.
+Such_JJ information_NN is_VBZ needed_VBN to_TO assess_VB the_DT value_NN of_IN pages_NNS in_IN the_DT localized_JJ search_NN domain_NN within_IN the_DT context_NN of_IN the_DT web_NN as_IN a_DT whole_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP well-motivated_JJ algorithms_NNS to_TO estimate_VB the_DT global_JJ PageRank_NN values_NNS of_IN a_DT local_JJ domain_NN ._.
+The_DT algorithms_NNS are_VBP all_RB highly_RB scalable_JJ in_IN that_DT ,_, given_VBN a_DT local_JJ domain_NN of_IN size_NN n_NN ,_, they_PRP use_VBP O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- resources_NNS that_WDT include_VBP computation_NN time_NN ,_, bandwidth_NN ,_, and_CC storage_NN ._.
+We_PRP test_VBP our_PRP$ methods_NNS across_IN a_DT variety_NN of_IN localized_JJ domains_NNS ,_, including_VBG site-specific_JJ domains_NNS and_CC topic-specific_JJ domains_NNS ._.
+We_PRP demonstrate_VBP that_IN by_IN crawling_VBG as_RB few_JJ as_IN n_NN or_CC 2n_JJ additional_JJ pages_NNS ,_, our_PRP$ methods_NNS can_MD give_VB excellent_JJ global_JJ PageRank_NN estimates_NNS ._.

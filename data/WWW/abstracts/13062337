@@ -1,0 +1,7 @@
+DIDO_NNP :_: a_DT disease-determinants_JJ ontology_NN from_IN web_NN sources_NNS
+This_DT paper_NN introduces_VBZ DIDO_NNP ,_, a_DT system_NN providing_VBG convenient_JJ access_NN to_TO knowledge_NN about_IN factors_NNS involved_VBN in_IN human_JJ diseases_NNS ,_, automatically_RB extracted_VBN from_IN textual_JJ Web_NN sources_NNS ._.
+The_DT knowledge_NN base_NN is_VBZ bootstrapped_VBN by_IN integrating_VBG entities_NNS from_IN hand-crafted_JJ sources_NNS like_IN MeSH_NN and_CC OMIM_NN ._.
+As_IN these_DT are_VBP short_JJ on_IN relationships_NNS between_IN dierent_JJ types_NNS of_IN biomedical_JJ entities_NNS ,_, DIDO_NNP employs_VBZ flexible_JJ and_CC robust_JJ pattern_NN learning_NN and_CC constraint-based_JJ reasoning_NN methods_NNS to_TO automatically_RB extract_VB new_JJ relational_JJ facts_NNS from_IN textual_JJ sources_NNS ._.
+These_DT facts_NNS can_MD then_RB be_VB iteratively_RB added_VBN to_TO the_DT knowledge_NN base_NN ._.
+The_DT result_NN is_VBZ a_DT semantic_JJ graph_NN of_IN typed_VBN entities_NNS and_CC relations_NNS between_IN diseases_NNS ,_, their_PRP$ symptoms_NNS ,_, and_CC their_PRP$ factors_NNS ,_, with_IN emphasis_NN on_IN environmental_JJ factors_NNS but_CC covering_VBG also_RB molecular_JJ determinants_NNS ._.
+We_PRP demonstrate_VBP the_DT value_NN of_IN DIDO_NNP for_IN knowledge_NN discovery_NN about_IN causal_JJ factors_NNS and_CC properties_NNS of_IN complex_JJ diseases_NNS ,_, including_VBG factor-disease_NN chains_NNS ._.

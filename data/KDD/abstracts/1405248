@@ -1,0 +1,6 @@
+Making_VBG every_DT bit_NN count_NN :_: fast_JJ nonlinear_JJ axis_NN scaling_VBG
+Existing_VBG axis_NN scaling_NN and_CC dimensionality_NN methods_NNS focus_VBP on_IN preserving_NN structure_NN ,_, usually_RB determined_VBN via_IN the_DT Euclidean_JJ distance_NN ._.
+In_IN other_JJ words_NNS ,_, they_PRP inherently_RB assume_VBP that_IN the_DT Euclidean_JJ distance_NN is_VBZ already_RB correct_JJ ._.
+We_PRP instead_RB propose_VBP a_DT novel_JJ nonlinear_JJ approach_NN driven_VBN by_IN an_DT information-theoretic_JJ viewpoint_NN ,_, which_WDT we_PRP show_VBP is_VBZ also_RB strongly_RB linked_VBN to_TO intrinsic_JJ dimensionality_NN ,_, or_CC degrees_NNS of_IN freedom_NN ;_: and_CC uniformity_NN ._.
+Nonlinear_JJ transformations_NNS based_VBN on_IN common_JJ probability_NN distributions_NNS ,_, combined_VBN with_IN information-driven_JJ selection_NN ,_, simultaneously_RB reduce_VB the_DT number_NN of_IN dimensions_NNS required_VBN and_CC increase_VB the_DT value_NN of_IN those_DT we_PRP retain_VBP ._.
+Experiments_NNS on_IN real_JJ data_NNS confirm_VBP that_IN this_DT approach_NN reveals_VBZ correlations_NNS ,_, finds_VBZ novel_JJ attributes_NNS ,_, and_CC scales_NNS well_RB ._.

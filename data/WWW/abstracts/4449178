@@ -1,0 +1,6 @@
+Utility_NN analysis_NN for_IN topically_RB biased_VBN PageRank_NN
+PageRank_NN is_VBZ known_VBN to_TO be_VB an_DT efficient_JJ metric_NN for_IN computing_VBG general_JJ document_NN importance_NN in_IN the_DT Web_NN ._.
+While_IN commonly_RB used_VBN as_IN a_DT one-size-fits-all_JJ measure_NN ,_, the_DT ability_NN to_TO produce_VB topically_RB biased_VBN ranks_NNS has_VBZ not_RB yet_RB been_VBN fully_RB explored_VBN in_IN detail_NN ._.
+In_IN particular_JJ ,_, it_PRP was_VBD still_RB unclear_JJ to_TO what_WP granularity_NN of_IN ``_`` topic_NN ''_'' the_DT computation_NN of_IN biased_VBN page_NN ranks_NNS makes_VBZ sense_NN ._.
+In_IN this_DT paper_NN we_PRP present_VBP the_DT results_NNS of_IN a_DT thorough_JJ quantitative_JJ and_CC qualitative_JJ analysis_NN of_IN biasing_VBG PageRank_NNP on_IN Open_NNP Directory_NNP categories_NNS ._.
+We_PRP show_VBP that_IN the_DT MAP_NN quality_NN of_IN Biased_JJ PageRank_NN generally_RB increases_VBZ with_IN the_DT ODP_NN level_NN up_IN to_TO a_DT certain_JJ point_NN ,_, thus_RB sustaining_VBG the_DT usage_NN of_IN more_JJR specialized_JJ categories_NNS to_TO bias_NN PageRank_NN on_IN ,_, in_IN order_NN to_TO improve_VB topic_NN specific_JJ search_NN ._.

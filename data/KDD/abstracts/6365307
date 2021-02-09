@@ -1,0 +1,5 @@
+A_DT generative_JJ probabilistic_JJ approach_NN to_TO visualizing_VBG sets_NNS of_IN symbolic_JJ sequences_NNS
+There_EX is_VBZ a_DT notable_JJ interest_NN in_IN extending_VBG probabilistic_JJ generative_JJ modeling_NN principles_NNS to_TO accommodate_VB for_IN more_RBR complex_JJ structured_JJ data_NN types_NNS ._.
+In_IN this_DT paper_NN we_PRP develop_VBP a_DT generative_JJ probabilistic_JJ model_NN for_IN visualizing_VBG sets_NNS of_IN discrete_JJ symbolic_JJ sequences_NNS ._.
+The_DT model_NN ,_, a_DT constrained_VBN mixture_NN of_IN discrete_JJ hidden_JJ Markov_NNP models_NNS ,_, is_VBZ a_DT generalization_NN of_IN density-based_JJ visualization_NN methods_NNS previously_RB developed_VBN for_IN static_JJ data_NNS sets_NNS ._.
+We_PRP illustrate_VBP our_PRP$ approach_NN on_IN sequences_NNS representing_VBG web-log_JJ data_NNS and_CC chorals_NNS by_IN J.S._NNP Bach_NNP ._.

@@ -1,0 +1,12 @@
+Determining_VBG the_DT user_NN intent_NN of_IN web_NN search_NN engine_NN queries_NNS
+Determining_VBG the_DT user_NN intent_NN of_IN Web_NN searches_NNS is_VBZ a_DT difficult_JJ problem_NN due_JJ to_TO the_DT sparse_JJ data_NNS available_JJ concerning_VBG the_DT searcher_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP examine_VBP a_DT method_NN to_TO determine_VB the_DT user_NN intent_NN underlying_VBG Web_NN search_NN engine_NN queries_NNS ._.
+We_PRP qualitatively_RB analyze_VBP samples_NNS of_IN queries_NNS from_IN seven_CD transaction_NN logs_NNS from_IN three_CD different_JJ Web_NN search_NN engines_NNS containing_VBG more_JJR than_IN five_CD million_CD queries_NNS ._.
+From_IN this_DT analysis_NN ,_, we_PRP identified_VBD characteristics_NNS of_IN user_NN queries_NNS based_VBN on_IN three_CD broad_JJ classifications_NNS of_IN user_NN intent_NN ._.
+The_DT classifications_NNS of_IN informational_JJ ,_, navigational_JJ ,_, and_CC transactional_JJ represent_VBP the_DT type_NN of_IN content_NN destination_NN the_DT searcher_NN desired_VBN as_IN expressed_VBN by_IN their_PRP$ query_NN ._.
+We_PRP implemented_VBD our_PRP$ classification_NN algorithm_NN and_CC automatically_RB classified_VBD a_DT separate_JJ Web_NN search_NN engine_NN transaction_NN log_NN of_IN over_IN a_DT million_CD queries_NNS submitted_VBN by_IN several_JJ hundred_CD thousand_CD users_NNS ._.
+Our_PRP$ findings_NNS show_VBP that_IN more_JJR than_IN 80_CD %_NN of_IN Web_NN queries_NNS are_VBP informational_JJ in_IN nature_NN ,_, with_IN about_RB 10_CD %_NN each_DT being_VBG navigational_JJ and_CC transactional_JJ ._.
+In_IN order_NN to_TO validate_VB the_DT accuracy_NN of_IN our_PRP$ algorithm_NN ,_, we_PRP manually_RB coded_VBD 400_CD queries_NNS and_CC compared_VBD the_DT classification_NN to_TO the_DT results_NNS from_IN our_PRP$ algorithm_NN ._.
+This_DT comparison_NN showed_VBD that_IN our_PRP$ automatic_JJ classification_NN has_VBZ an_DT accuracy_NN of_IN 74_CD %_NN ._.
+Of_IN the_DT remaining_VBG 25_CD %_NN of_IN the_DT queries_NNS ,_, the_DT user_NN intent_NN is_VBZ generally_RB vague_JJ or_CC multi-faceted_JJ ,_, pointing_VBG to_TO the_DT need_NN to_TO for_IN probabilistic_JJ classification_NN ._.
+We_PRP illustrate_VBP how_WRB knowledge_NN of_IN searcher_NN intent_NN might_MD be_VB used_VBN to_TO enhance_VB future_JJ Web_NN search_NN engines_NNS ._.

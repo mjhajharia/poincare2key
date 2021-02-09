@@ -1,0 +1,7 @@
+Foundations_NNS for_IN service_NN ontologies_NNS :_: aligning_VBG OWL-S_NN to_TO dolce_FW
+Clarity_NN in_IN semantics_NNS and_CC a_DT rich_JJ formalization_NN of_IN this_DT semantics_NNS are_VBP important_JJ requirements_NNS for_IN ontologies_NNS designed_VBN to_TO be_VB deployed_VBN in_IN large-scale_JJ ,_, open_JJ ,_, distributed_VBN systems_NNS such_JJ as_IN the_DT envisioned_VBN Semantic_JJ Web_NN This_DT is_VBZ especially_RB important_JJ for_IN the_DT description_NN of_IN Web_NN Services_NNPS ,_, which_WDT should_MD enable_VB complex_JJ tasks_NNS involving_VBG multiple_JJ agents_NNS ._.
+As_IN one_CD of_IN the_DT first_JJ initiatives_NNS of_IN the_DT Semantic_NNP Webcommunity_NNP for_IN describing_VBG Web_NN Services_NNPS ,_, OWL-S_NN attracts_VBZ a_DT lot_NN of_IN interest_NN even_RB though_IN it_PRP is_VBZ still_RB under_IN development_NN ._.
+We_PRP identify_VBP problematic_JJ aspects_NNS of_IN OWL-S_NN and_CC suggest_VBP enhancements_NNS through_IN alignment_NN to_TO a_DT foundational_JJ ontology_NN ._.
+Another_DT contribution_NN of_IN ourwork_NN is_VBZ the_DT Core_NNP Ontology_NNP of_IN Services_NNP that_WDT tries_VBZ to_TO fill_VB the_DT epistemological_JJ gap_NN between_IN the_DT foundational_JJ ontology_NN and_CC OWL-S_NN ._.
+It_PRP can_MD be_VB reused_VBN to_TO align_VB other_JJ Web_NN Service_NNP description_NN languages_NNS as_RB well_RB ._.
+Finally_RB ,_, we_PRP demonstrate_VBP the_DT applicability_NN of_IN our_PRP$ work_NN byaligning_VBG OWL-S_NN '_'' standard_JJ example_NN called_VBN CongoBuy_NNP ._.

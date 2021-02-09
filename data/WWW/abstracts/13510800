@@ -1,0 +1,8 @@
+Releasing_VBG search_NN queries_NNS and_CC clicks_NNS privately_RB
+The_DT question_NN of_IN how_WRB to_TO publish_VB an_DT anonymized_JJ search_NN log_NN was_VBD brought_VBN to_TO the_DT forefront_NN by_IN a_DT well-intentioned_JJ ,_, but_CC privacy-unaware_JJ AOL_NN search_NN log_NN release_NN ._.
+Since_IN then_RB a_DT series_NN of_IN ad-hoc_JJ techniques_NNS have_VBP been_VBN proposed_VBN in_IN the_DT literature_NN ,_, though_IN none_NN are_VBP known_VBN to_TO be_VB provably_RB private_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP take_VBP a_DT major_JJ step_NN towards_IN a_DT solution_NN :_: we_PRP show_VBP how_WRB queries_NNS ,_, clicks_NNS and_CC their_PRP$ associated_VBN perturbed_VBN counts_NNS can_MD be_VB published_VBN in_IN a_DT manner_NN that_WDT rigorously_RB preserves_VBZ privacy_NN ._.
+Our_PRP$ algorithm_NN is_VBZ decidedly_RB simple_JJ to_TO state_NN ,_, but_CC non-trivial_JJ to_TO analyze_VB ._.
+On_IN the_DT opposite_JJ side_NN of_IN privacy_NN is_VBZ the_DT question_NN of_IN whether_IN the_DT data_NNS we_PRP can_MD safely_RB publish_VB is_VBZ of_IN any_DT use_NN ._.
+Our_PRP$ findings_NNS offer_VBP a_DT glimmer_NN of_IN hope_NN :_: we_PRP demonstrate_VBP that_IN a_DT non-negligible_JJ fraction_NN of_IN queries_NNS and_CC clicks_NNS can_MD indeed_RB be_VB safely_RB published_VBN via_IN a_DT collection_NN of_IN experiments_NNS on_IN a_DT real_JJ search_NN log_NN ._.
+In_IN addition_NN ,_, we_PRP select_VBP an_DT application_NN ,_, keyword_JJ generation_NN ,_, and_CC show_VBP that_IN the_DT keyword_JJ suggestions_NNS generated_VBN from_IN the_DT perturbed_VBN data_NNS resemble_VBP those_DT generated_VBN from_IN the_DT original_JJ data_NNS ._.

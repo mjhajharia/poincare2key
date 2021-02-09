@@ -1,0 +1,9 @@
+Optimizing_VBG web_NN search_NN using_VBG social_JJ annotations_NNS
+This_DT paper_NN explores_VBZ the_DT use_NN of_IN social_JJ annotations_NNS to_TO improve_VB websearch_NN ._.
+Nowadays_RB ,_, many_JJ services_NNS ,_, e.g._FW del._FW icio_FW ._.
+us_PRP ,_, have_VBP been_VBN developed_VBN for_IN web_NN users_NNS to_TO organize_VB and_CC share_VB their_PRP$ favorite_JJ webpages_NNS on_IN line_NN by_IN using_VBG social_JJ annotations_NNS ._.
+We_PRP observe_VBP that_IN the_DT social_JJ annotations_NNS can_MD benefit_VB web_NN search_NN in_IN two_CD aspects_NNS :_: 1_LS -RRB-_-RRB- the_DT annotations_NNS are_VBP usually_RB good_JJ summaries_NNS of_IN corresponding_JJ webpages_NNS ;_: 2_LS -RRB-_-RRB- the_DT count_NN of_IN annotations_NNS indicates_VBZ the_DT popularity_NN of_IN webpages_NNS ._.
+Two_CD novel_JJ algorithms_NNS are_VBP proposed_VBN to_TO incorporate_VB the_DT above_JJ information_NN into_IN page_NN ranking_NN :_: 1_LS -RRB-_-RRB- SocialSimRank_NN -LRB-_-LRB- SSR_NN -RRB-_-RRB- calculates_VBZ the_DT similarity_NN between_IN social_JJ annotations_NNS and_CC webqueries_NNS ;_: 2_LS -RRB-_-RRB- SocialPageRank_NN -LRB-_-LRB- SPR_NN -RRB-_-RRB- captures_VBZ the_DT popularity_NN of_IN webpages_NNS ._.
+Preliminary_JJ experimental_JJ results_NNS show_VBP that_IN SSR_NN can_MD find_VB the_DT latent_JJ semantic_JJ association_NN between_IN queries_NNS and_CC annotations_NNS ,_, while_IN SPR_NN successfully_RB measures_VBZ the_DT quality_NN -LRB-_-LRB- popularity_NN -RRB-_-RRB- of_IN a_DT webpage_NN from_IN the_DT web_NN users_NNS '_POS perspective_NN ._.
+We_PRP further_RB evaluate_VBP the_DT proposed_VBN methods_NNS empirically_RB with_IN 50_CD manually_RB constructed_VBN queries_NNS and_CC 3000_CD auto-generated_JJ queries_NNS on_IN a_DT dataset_NN crawledfrom_NN delicious_JJ ._.
+Experiments_NNS show_VBP that_IN both_CC SSR_NN and_CC SPRbenefit_NN web_NN search_NN significantly_RB ._.

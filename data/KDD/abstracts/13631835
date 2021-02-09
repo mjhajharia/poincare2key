@@ -1,0 +1,6 @@
+Partial_JJ example_NN acquisition_NN in_IN cost-sensitive_JJ learning_NN
+It_PRP is_VBZ often_RB expensive_JJ to_TO acquire_VB data_NNS in_IN real-world_JJ data_NNS mining_NN applications_NNS ._.
+Most_JJS previous_JJ data_NNS mining_NN and_CC machine_NN learning_NN research_NN ,_, however_RB ,_, assumes_VBZ that_IN a_DT fixed_JJ set_NN of_IN training_NN examples_NNS is_VBZ given_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT online_JJ cost-sensitive_JJ framework_NN that_WDT allows_VBZ a_DT learner_NN to_TO dynamically_RB acquire_VB examples_NNS as_IN it_PRP learns_VBZ ,_, and_CC to_TO decide_VB the_DT ideal_JJ number_NN of_IN examples_NNS needed_VBN to_TO minimize_VB the_DT total_JJ cost_NN ._.
+We_PRP also_RB propose_VBP a_DT new_JJ strategy_NN for_IN Partial_JJ Example_NN Acquisition_NN -LRB-_-LRB- PAS_NN -RRB-_-RRB- ,_, in_IN which_WDT the_DT learner_NN can_MD acquire_VB examples_NNS with_IN a_DT subset_NN of_IN attribute_NN values_NNS to_TO reduce_VB the_DT data_NNS acquisition_NN cost_NN ._.
+Experiments_NNS on_IN UCI_NN datasets_NNS show_VBP that_IN the_DT new_JJ PAS_NN strategy_NN is_VBZ an_DT effective_JJ method_NN in_IN reducing_VBG the_DT total_JJ cost_NN for_IN data_NNS acquisition_NN ._.

@@ -1,0 +1,9 @@
+Using_VBG landing_NN pages_NNS for_IN sponsored_VBN search_NN ad_NN selection_NN
+We_PRP explore_VBP the_DT use_NN of_IN the_DT landing_NN page_NN content_NN in_IN sponsored_VBN search_NN ad_NN selection_NN ._.
+Specifically_RB ,_, we_PRP compare_VBP the_DT use_NN of_IN the_DT ad_NN 's_POS intrinsic_JJ content_NN to_TO augmenting_VBG the_DT ad_NN with_IN the_DT whole_NN ,_, or_CC parts_NNS ,_, of_IN the_DT landing_NN page_NN ._.
+We_PRP explore_VBP two_CD types_NNS of_IN extractive_JJ summarization_NN techniques_NNS to_TO select_VB useful_JJ regions_NNS from_IN the_DT landing_NN pages_NNS :_: out-of-context_JJ and_CC in-context_JJ methods_NNS ._.
+Out-of-context_JJ methods_NNS select_VBP salient_JJ regions_NNS from_IN the_DT landing_NN page_NN by_IN analyzing_VBG the_DT content_NN alone_RB ,_, without_IN taking_VBG into_IN account_NN the_DT ad_NN associated_VBN with_IN the_DT landing_NN page_NN ._.
+In-context_JJ methods_NNS use_VBP the_DT ad_NN context_NN -LRB-_-LRB- including_VBG its_PRP$ title_NN ,_, creative_JJ ,_, and_CC bid_NN phrases_NNS -RRB-_-RRB- to_TO help_VB identify_VB regions_NNS of_IN the_DT landing_NN page_NN that_WDT should_MD be_VB used_VBN by_IN the_DT ad_NN selection_NN engine_NN ._.
+In_IN addition_NN ,_, we_PRP introduce_VBP a_DT simple_NN yet_RB effective_JJ unsupervised_JJ algorithm_NN to_TO enrich_VB the_DT ad_NN context_NN to_TO further_RB improve_VB the_DT ad_NN selection_NN ._.
+Experimental_JJ evaluation_NN confirms_VBZ that_IN the_DT use_NN of_IN landing_NN pages_NNS can_MD significantly_RB improve_VB the_DT quality_NN of_IN ad_NN selection_NN ._.
+We_PRP also_RB find_VBP that_IN our_PRP$ extractive_JJ summarization_NN techniques_NNS reduce_VBP the_DT size_NN of_IN landing_NN pages_NNS substantially_RB ,_, while_IN retaining_VBG or_CC even_RB improving_VBG the_DT performance_NN of_IN ad_NN retrieval_NN over_IN the_DT method_NN that_WDT utilize_VBP the_DT entire_JJ landing_NN page_NN ._.

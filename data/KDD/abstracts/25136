@@ -1,0 +1,6 @@
+Privacy_NN preserving_NN association_NN rule_NN mining_NN in_IN vertically_RB partitioned_VBN data_NNS
+Privacy_NN considerations_NNS often_RB constrain_VBP data_NNS mining_NN projects_NNS ._.
+This_DT paper_NN addresses_VBZ the_DT problem_NN of_IN association_NN rule_NN mining_NN where_WRB transactions_NNS are_VBP distributed_VBN across_IN sources_NNS ._.
+Each_DT site_NN holds_VBZ some_DT attributes_NNS of_IN each_DT transaction_NN ,_, and_CC the_DT sites_NNS wish_VBP to_TO collaborate_VB to_TO identify_VB globally_RB valid_JJ association_NN rules_NNS ._.
+However_RB ,_, the_DT sites_NNS must_MD not_RB reveal_VB individual_JJ transaction_NN data_NNS ._.
+We_PRP present_VBP a_DT two-party_JJ algorithm_NN for_IN efficiently_RB discovering_VBG frequent_JJ itemsets_NNS with_IN minimum_JJ support_NN levels_NNS ,_, without_IN either_DT site_NN revealing_VBG individual_JJ transaction_NN values_NNS ._.

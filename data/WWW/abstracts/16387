@@ -1,0 +1,6 @@
+A_DT software_NN framework_NN for_IN matchmaking_NN based_VBN on_IN semantic_JJ web_NN technology_NN
+An_DT important_JJ objective_NN of_IN the_DT Semantic_JJ Web_NN is_VBZ to_TO make_VB Electronic_NNP Commerce_NNP interactions_NNS more_RBR flexible_JJ and_CC automated_JJ ._.
+To_TO achieve_VB this_DT ,_, standardization_NN of_IN ontologies_NNS ,_, message_NN content_NN and_CC message_NN protocols_NNS will_MD be_VB necessary_JJ ._.
+In_IN this_DT paper_NN we_PRP investigate_VBP how_WRB Semantic_JJ and_CC Web_NN Services_NNPS technologies_NNS can_MD be_VB used_VBN to_TO support_VB service_NN advertisement_NN and_CC discovery_NN in_IN e-commerce_NN ._.
+In_IN particular_JJ ,_, we_PRP describe_VBP the_DT design_NN and_CC implementation_NN of_IN a_DT service_NN matchmaking_NN prototype_NN which_WDT uses_VBZ a_DT DAML-S_NN based_JJ ontology_NN and_CC a_DT Description_NN Logic_NN reasoner_NN to_TO compare_VB ontology_RB based_VBN service_NN descriptions_NNS ._.
+We_PRP also_RB present_VBP the_DT results_NNS of_IN initial_JJ experiments_NNS testing_VBG the_DT performance_NN of_IN this_DT prototype_NN implementation_NN in_IN a_DT realistic_JJ agent_NN based_VBN e-commerce_NN scenario_NN ._.

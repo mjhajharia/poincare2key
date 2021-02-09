@@ -1,0 +1,9 @@
+A_DT general_JJ framework_NN for_IN adaptive_JJ and_CC online_JJ detection_NN of_IN web_NN attacks_NNS
+Detection_NN of_IN web_NN attacks_NNS is_VBZ an_DT important_JJ issue_NN in_IN current_JJ defense-in-depth_JJ security_NN framework_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ general_JJ framework_NN for_IN adaptive_JJ and_CC online_JJ detection_NN of_IN web_NN attacks_NNS ._.
+The_DT general_JJ framework_NN can_MD be_VB based_VBN on_IN any_DT online_JJ clustering_NN methods_NNS ._.
+A_DT detection_NN model_NN based_VBN on_IN the_DT framework_NN is_VBZ able_JJ to_TO learn_VB online_NN and_CC deal_NN with_IN ``_`` concept_NN drift_NN ''_'' in_IN web_NN audit_NN data_NNS streams_NNS ._.
+Str-DBSCAN_VB that_IN we_PRP extended_VBD DBSCAN_NNP to_TO streaming_NN data_NNS as_RB well_RB as_IN StrAP_NN are_VBP both_DT used_VBN to_TO validate_VB the_DT framework_NN ._.
+The_DT detection_NN model_NN based_VBN on_IN the_DT framework_NN automatically_RB labels_VBZ the_DT web_NN audit_NN data_NNS and_CC adapts_NNS to_TO normal_JJ behavior_NN changes_NNS while_IN identifies_VBZ attacks_NNS through_IN dynamical_JJ clustering_NN of_IN the_DT streaming_NN data_NNS ._.
+A_DT very_RB large_JJ size_NN of_IN real_JJ HTTP_NN Log_NN data_NNS collected_VBN in_IN our_PRP$ institute_NN is_VBZ used_VBN to_TO validate_VB the_DT framework_NN and_CC the_DT model_NN ._.
+The_DT preliminary_JJ testing_NN results_NNS demonstrated_VBD its_PRP$ effectiveness_NN ._.

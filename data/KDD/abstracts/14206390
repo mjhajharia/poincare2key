@@ -1,0 +1,7 @@
+A_DT GPU-tailored_JJ approach_NN for_IN training_NN kernelized_VBD SVMs_NNS
+We_PRP present_VBP a_DT method_NN for_IN efficiently_RB training_VBG binary_JJ and_CC multiclass_JJ kernelized_VBN SVMs_NNS on_IN a_DT Graphics_NNP Processing_NNP Unit_NNP -LRB-_-LRB- GPU_NNP -RRB-_-RRB- ._.
+Our_PRP$ methods_NNS apply_VBP to_TO a_DT broad_JJ range_NN of_IN kernels_NNS ,_, including_VBG the_DT popular_JJ Gaus_NNP -_: sian_JJ kernel_NN ,_, on_IN datasets_NNS as_RB large_JJ as_IN the_DT amount_NN of_IN available_JJ memory_NN on_IN the_DT graphics_NNS card_NN ._.
+Our_PRP$ approach_NN is_VBZ distinguished_VBN from_IN earlier_JJR work_NN in_IN that_IN it_PRP cleanly_RB and_CC efficiently_RB handles_VBZ sparse_JJ datasets_NNS through_IN the_DT use_NN of_IN a_DT novel_JJ clustering_NN technique_NN ._.
+Our_PRP$ optimization_NN algorithm_NN is_VBZ also_RB specifically_RB designed_VBN to_TO take_VB advantage_NN of_IN the_DT graphics_NNS hardware_NN ._.
+This_DT leads_VBZ to_TO different_JJ algorithmic_JJ choices_NNS then_RB those_DT preferred_VBN in_IN serial_JJ implementations_NNS ._.
+Our_PRP$ easy-to-use_JJ library_NN is_VBZ orders_NNS of_IN magnitude_NN faster_RBR then_RB existing_VBG CPU_NNP libraries_NNS ,_, and_CC several_JJ times_NNS faster_RBR than_IN prior_JJ GPU_NNP approaches_NNS ._.

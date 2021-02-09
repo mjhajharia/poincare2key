@@ -1,0 +1,8 @@
+ASDL_NN :_: a_DT wide_JJ spectrum_NN language_NN for_IN designing_VBG web_NN services_NNS
+A_DT Service_NNP oriented_JJ system_NN emerges_VBZ from_IN composition_NN of_IN services_NNS ._.
+Dynamically_RB composed_VBN reactive_JJ Web_NN services_NNS form_VBP a_DT special_JJ class_NN of_IN service_NN oriented_JJ system_NN ,_, where_WRB the_DT delays_NNS associated_VBN with_IN communication_NN ,_, unreliability_NN and_CC unavailability_NN of_IN services_NNS ,_, and_CC competition_NN for_IN resources_NNS from_IN multiple_JJ service_NN requesters_NNS are_VBP dominant_JJ concerns_NNS ._.
+As_IN complexity_NN of_IN services_NNS increase_NN ,_, an_DT abstract_JJ design_NN language_NN for_IN the_DT specification_NN of_IN services_NNS and_CC interaction_NN between_IN them_PRP is_VBZ desired_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP ASDL_NNP -LRB-_-LRB- Abstract_NNP Service_NNP Design_NNP Language_NNP -RRB-_-RRB- ,_, a_DT wide_JJ spectrum_NN language_NN for_IN modelling_VBG Web_NN services_NNS ._.
+We_PRP initially_RB provide_VBP an_DT informal_JJ description_NN of_IN our_PRP$ computational_JJ model_NN for_IN service_NN oriented_JJ systems_NNS ._.
+We_PRP then_RB present_VBP ASDL_NNP along_IN with_IN its_PRP$ specification_NN oriented_JJ semantics_NNS defined_VBN in_IN Interval_JJ Temporal_JJ Logic_NN -LRB-_-LRB- ITL_NN -RRB-_-RRB- :_: a_DT sound_JJ formalism_NN for_IN specifying_VBG and_CC reasoning_NN about_IN temporal_JJ properties_NNS of_IN systems_NNS ._.
+The_DT objective_NN of_IN ASDL_NNP is_VBZ to_TO provide_VB a_DT notation_NN for_IN the_DT design_NN of_IN service_NN composition_NN and_CC interaction_NN protocols_NNS at_IN an_DT abstract_JJ level_NN ._.

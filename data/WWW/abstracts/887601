@@ -1,0 +1,7 @@
+Web_NN page_NN summarization_NN using_VBG dynamic_JJ content_NN
+Summarizing_VBG web_NN pages_NNS have_VBP recently_RB gained_VBN much_JJ attention_NN from_IN researchers_NNS ._.
+Until_IN now_RB two_CD main_JJ types_NNS of_IN approaches_NNS have_VBP been_VBN proposed_VBN for_IN this_DT task_NN :_: content_NN -_: and_CC context-based_JJ methods_NNS ._.
+Both_DT of_IN them_PRP assume_VBP fixed_JJ content_NN and_CC characteristics_NNS of_IN web_NN documents_NNS without_IN considering_VBG their_PRP$ dynamic_JJ nature_NN ._.
+However_RB the_DT volatility_NN of_IN information_NN published_VBN on_IN the_DT Internet_NNP argue_VBP for_IN the_DT implementation_NN of_IN more_JJR time-aware_JJ techniques_NNS ._.
+This_DT paper_NN proposes_VBZ a_DT new_JJ approach_NN towards_IN automatic_JJ web_NN page_NN description_NN ,_, which_WDT extends_VBZ the_DT concept_NN of_IN a_DT web_NN page_NN by_IN the_DT temporal_JJ dimension_NN ._.
+Our_PRP$ method_NN provides_VBZ a_DT broader_JJR view_NN on_IN web_NN document_NN summarization_NN and_CC can_MD complement_VB the_DT existing_VBG techniques_NNS ._.

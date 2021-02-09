@@ -1,0 +1,7 @@
+Extracting_VBG semantic_JJ structure_NN of_IN web_NN documents_NNS using_VBG content_NN and_CC visual_JJ information_NN
+This_DT work_NN aims_VBZ to_TO provide_VB a_DT page_NN segmentation_NN algorithm_NN which_WDT uses_VBZ both_CC visual_JJ and_CC content_JJ information_NN to_TO extract_VB the_DT semantic_JJ structure_NN of_IN a_DT web_NN page_NN ._.
+The_DT visual_JJ information_NN is_VBZ utilized_VBN using_VBG the_DT VIPS_NNS algorithm_NN and_CC the_DT content_NN information_NN using_VBG a_DT pre-trained_JJ Naive_JJ Bayes_NNP classifier_NN ._.
+The_DT output_NN of_IN the_DT algorithm_NN is_VBZ a_DT semantic_JJ structure_NN tree_NN whose_WP$ leaves_NNS represent_VBP segments_NNS having_VBG unique_JJ topic_NN ._.
+However_RB contents_NNS of_IN the_DT leaf_NN segments_NNS may_MD possibly_RB be_VB physically_RB distributed_VBN in_IN the_DT web_NN page_NN ._.
+This_DT structure_NN can_MD be_VB useful_JJ in_IN many_JJ web_NN applications_NNS like_IN information_NN retrieval_NN ,_, information_NN extraction_NN and_CC automatic_JJ web_NN page_NN adaptation_NN ._.
+This_DT algorithm_NN is_VBZ expected_VBN to_TO outperform_VB other_JJ existing_VBG page_NN segmentation_NN algorithms_NNS since_IN it_PRP utilizes_VBZ both_CC content_NN and_CC visual_JJ information_NN ._.

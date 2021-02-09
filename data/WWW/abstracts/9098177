@@ -1,0 +1,7 @@
+Sailer_NNP :_: an_DT effective_JJ search_NN engine_NN for_IN unified_JJ retrieval_NN of_IN heterogeneous_JJ xml_NN and_CC web_NN documents_NNS
+This_DT paper_NN studies_VBZ the_DT problem_NN of_IN unified_JJ ranked_VBN retrieval_NN of_IN heterogeneous_JJ XML_NN documents_NNS and_CC Web_NN data_NNS ._.
+We_PRP propose_VBP an_DT effective_JJ search_NN engine_NN called_VBN Sailer_NNP to_TO adaptively_RB and_CC versatilely_RB answer_VB keyword_JJ queries_NNS over_IN the_DT heterogenous_JJ data_NNS ._.
+We_PRP model_VBP the_DT Web_NN pages_NNS and_CC XML_NN documents_NNS as_IN graphs_NNS ._.
+We_PRP propose_VBP the_DT concept_NN of_IN pivotal_JJ trees_NNS to_TO effectively_RB answer_VB keyword_JJ queries_NNS and_CC present_VB an_DT effective_JJ method_NN to_TO identify_VB the_DT top-k_NN pivotal_JJ trees_NNS with_IN the_DT highest_JJS ranks_NNS from_IN the_DT graphs_NNS ._.
+Moreover_RB ,_, we_PRP propose_VBP effective_JJ indexes_NNS to_TO facilitate_VB the_DT effective_JJ unified_JJ ranked_VBN retrieval_NN ._.
+We_PRP have_VBP conducted_VBN an_DT extensive_JJ experimental_JJ study_NN using_VBG real_JJ datasets_NNS ,_, and_CC the_DT experimental_JJ results_NNS show_VBP that_IN Sailer_NNP achieves_VBZ both_DT high_JJ search_NN efficiency_NN and_CC accuracy_NN ,_, and_CC outperforms_VBZ the_DT existing_VBG approaches_NNS significantly_RB ._.

@@ -1,0 +1,13 @@
+Analysis_NN of_IN interacting_VBG BPEL_NN web_NN services_NNS
+This_DT paper_NN presents_VBZ a_DT set_NN of_IN tools_NNS and_CC techniques_NNS for_IN analyzing_VBG interactions_NNS of_IN composite_JJ web_NN services_NNS which_WDT are_VBP specified_VBN in_IN BPEL_NN and_CC communicate_VBP through_IN asynchronous_JJ XML_NN messages_NNS ._.
+We_PRP model_VBP the_DT interactions_NNS of_IN composite_JJ web_NN services_NNS as_IN conversations_NNS ,_, the_DT global_JJ sequence_NN of_IN messages_NNS exchanged_VBN by_IN the_DT web_NN services_NNS ._.
+As_IN opposed_VBN to_TO earlier_JJR work_NN ,_, our_PRP$ tool-set_NN handles_VBZ rich_JJ data_NNS manipulation_NN via_IN XPath_NN expressions_NNS ._.
+This_DT allows_VBZ us_PRP to_TO verify_VB designs_NNS at_IN a_DT more_RBR detailed_JJ level_NN and_CC check_NN properties_NNS about_IN message_NN content_NN ._.
+We_PRP present_VBP a_DT framework_NN where_WRB BPEL_NN specifications_NNS of_IN web_NN services_NNS are_VBP translated_VBN to_TO an_DT intermediate_JJ representation_NN ,_, followed_VBN by_IN the_DT translation_NN of_IN the_DT intermediate_JJ representation_NN to_TO a_DT verification_NN language_NN ._.
+As_IN an_DT intermediate_JJ representation_NN we_PRP use_VBP guarded_VBN automata_NN augmented_VBD with_IN unbounded_JJ queues_NNS for_IN incoming_JJ messages_NNS ,_, where_WRB the_DT guards_NNS are_VBP expressed_VBN as_IN XPath_NN expressions_NNS ._.
+As_IN the_DT target_NN verification_NN language_NN we_PRP use_VBP Promela_NNP ,_, input_NN language_NN of_IN the_DT model_NN checker_NN SPIN_NN ._.
+Since_IN SPIN_NN model_NN checker_NN is_VBZ a_DT finite-state_JJ verification_NN tool_NN we_PRP can_MD only_RB achieve_VB partial_JJ verification_NN by_IN fixing_VBG the_DT sizes_NNS of_IN the_DT input_NN queues_NNS in_IN the_DT translation_NN ._.
+We_PRP propose_VBP the_DT concept_NN of_IN synchronizability_NN to_TO address_VB this_DT problem_NN ._.
+We_PRP show_VBP that_IN if_IN a_DT composite_JJ web_NN service_NN is_VBZ synchronizable_JJ ,_, then_RB its_PRP$ conversation_NN set_NN remains_VBZ same_JJ when_WRB asynchronous_JJ communication_NN is_VBZ replaced_VBN with_IN synchronous_JJ communication_NN ._.
+We_PRP give_VBP a_DT set_NN of_IN sufficient_JJ conditions_NNS that_WDT guarantee_VBP synchronizability_NN and_CC that_WDT can_MD be_VB checked_VBN statically_RB ._.
+Based_VBN on_IN our_PRP$ synchronizability_NN results_NNS ,_, we_PRP show_VBP that_IN a_DT large_JJ class_NN of_IN composite_JJ web_NN services_NNS with_IN unbounded_JJ input_NN queues_NNS can_MD be_VB completely_RB verified_VBN using_VBG a_DT finite_JJ state_NN model_NN checker_NN such_JJ as_IN SPIN_NN ._.

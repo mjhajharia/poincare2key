@@ -1,0 +1,7 @@
+Constructing_VBG folksonomies_NNS by_IN integrating_VBG structured_JJ metadata_NN
+Aggregating_VBG many_JJ personal_JJ hierarchies_NNS into_IN a_DT common_JJ taxonomy_NN ,_, also_RB known_VBN as_IN a_DT folksonomy_NN ,_, presents_VBZ several_JJ challenges_NNS due_JJ to_TO its_PRP$ sparseness_NN ,_, ambiguity_NN ,_, noise_NN ,_, and_CC inconsistency_NN ._.
+We_PRP describe_VBP an_DT approach_NN to_TO folksonomy_JJ learning_NN based_VBN on_IN relational_JJ clustering_NN that_WDT addresses_VBZ these_DT challenges_NNS by_IN exploiting_VBG structured_JJ metadata_NN contained_VBN in_IN personal_JJ hierarchies_NNS ._.
+Our_PRP$ approach_NN clusters_NNS similar_JJ hierarchies_NNS using_VBG their_PRP$ structure_NN and_CC tag_NN statistics_NNS ,_, then_RB incrementally_RB weaves_VBZ them_PRP into_IN a_DT deeper_JJR ,_, bushier_JJR tree_NN ._.
+We_PRP study_VBD folksonomy_NN learning_NN using_VBG social_JJ metadata_NN extracted_VBN from_IN the_DT photo-sharing_JJ site_NN Flickr_NNP ._.
+We_PRP evaluate_VBP the_DT learned_VBN folksonomy_NN quantitatively_RB by_IN automatically_RB comparing_VBG it_PRP to_TO a_DT reference_NN taxonomy_NN created_VBN by_IN the_DT Open_NNP Directory_NNP Project_NNP ._.
+Our_PRP$ empirical_JJ results_NNS suggest_VBP that_IN the_DT proposed_VBN approach_NN improves_VBZ upon_IN the_DT state-of-the-art_JJ folksonomy_NN learning_NN method_NN ._.

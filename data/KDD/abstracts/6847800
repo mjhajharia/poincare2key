@@ -1,0 +1,8 @@
+A_DT framework_NN for_IN community_NN identification_NN in_IN dynamic_JJ social_JJ networks_NNS
+We_PRP propose_VBP frameworks_NNS and_CC algorithms_NNS for_IN identifying_VBG communities_NNS in_IN social_JJ networks_NNS that_WDT change_VBP over_IN time_NN ._.
+Communities_NNS are_VBP intuitively_RB characterized_VBN as_IN ``_`` unusually_RB densely_RB knit_VBN ''_'' subsets_NNS of_IN a_DT social_JJ network_NN ._.
+This_DT notion_NN becomes_VBZ more_RBR problematic_JJ if_IN the_DT social_JJ interactions_NNS change_VBP over_IN time_NN ._.
+Aggregating_VBG social_JJ networks_NNS over_IN time_NN can_MD radically_RB misrepresent_VB the_DT existing_VBG and_CC changing_VBG community_NN structure_NN ._.
+Instead_RB ,_, we_PRP propose_VBP an_DT optimization-based_JJ approach_NN for_IN modeling_NN dynamic_JJ community_NN structure_NN ._.
+We_PRP prove_VBP that_IN finding_VBG the_DT most_RBS explanatory_JJ community_NN structure_NN is_VBZ NP-hard_JJ and_CC APX-hard_JJ ,_, and_CC propose_VBP algorithms_NNS based_VBN on_IN dynamic_JJ programming_NN ,_, exhaustive_JJ search_NN ,_, maximum_NN matching_NN ,_, and_CC greedy_JJ heuristics_NNS ._.
+We_PRP demonstrate_VBP empirically_RB that_IN the_DT heuristics_NNS trace_VBP developments_NNS of_IN community_NN structure_NN accurately_RB for_IN several_JJ synthetic_JJ and_CC real-world_JJ examples_NNS ._.

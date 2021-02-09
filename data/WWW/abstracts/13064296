@@ -1,0 +1,7 @@
+Information_NN spreading_NN in_IN context_NN
+Information_NN spreading_NN processes_NNS are_VBP central_JJ to_TO human_JJ interactions_NNS ._.
+Despite_IN recent_JJ studies_NNS in_IN online_JJ domains_NNS ,_, little_JJ is_VBZ known_VBN about_IN factors_NNS that_WDT could_MD affect_VB the_DT dissemination_NN of_IN a_DT single_JJ piece_NN of_IN information_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP address_VBP this_DT challenge_NN by_IN combining_VBG two_CD related_JJ but_CC distinct_JJ datasets_NNS ,_, collected_VBN from_IN a_DT large_JJ scale_NN privacy-preserving_NN distributed_VBN social_JJ sensor_NN system_NN ._.
+We_PRP find_VBP that_IN the_DT social_JJ and_CC organizational_JJ context_NN significantly_RB impacts_VBZ to_TO whom_WP and_CC how_WRB fast_JJ people_NNS forward_JJ information_NN ._.
+Yet_RB the_DT structures_NNS within_IN spreading_NN processes_NNS can_MD be_VB well_RB captured_VBN by_IN a_DT simple_JJ stochastic_JJ branching_VBG model_NN ,_, indicating_VBG surprising_JJ independence_NN of_IN context_NN ._.
+Our_PRP$ results_NNS build_VBP the_DT foundation_NN of_IN future_JJ predictive_JJ models_NNS of_IN information_NN flow_NN and_CC provide_VB significant_JJ insights_NNS towards_IN design_NN of_IN communication_NN platforms_NNS ._.

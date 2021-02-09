@@ -1,0 +1,14 @@
+Opinion_NN observer_NN :_: analyzing_VBG and_CC comparing_VBG opinions_NNS on_IN the_DT Web_NN
+The_DT Web_NN has_VBZ become_VBN an_DT excellent_JJ source_NN for_IN gathering_VBG consumer_NN opinions_NNS ._.
+There_EX are_VBP now_RB numerous_JJ Web_NN sites_NNS containing_VBG such_JJ opinions_NNS ,_, e.g._FW ,_, customer_NN reviews_NNS of_IN products_NNS ,_, forums_NNS ,_, discussion_NN groups_NNS ,_, and_CC blogs_NNS ._.
+This_DT paper_NN focuses_VBZ on_IN online_JJ customer_NN reviews_NNS of_IN products_NNS ._.
+It_PRP makes_VBZ two_CD contributions_NNS ._.
+First_RB ,_, it_PRP proposes_VBZ a_DT novel_JJ framework_NN for_IN analyzing_VBG and_CC comparing_VBG consumer_NN opinions_NNS of_IN competing_VBG products_NNS ._.
+A_DT prototype_NN system_NN called_VBN Opinion_NNP Observer_NNP is_VBZ also_RB implemented_VBN ._.
+The_DT system_NN is_VBZ such_JJ that_IN with_IN a_DT single_JJ glance_NN of_IN its_PRP$ visualization_NN ,_, the_DT user_NN is_VBZ able_JJ to_TO clearly_RB see_VB the_DT strengths_NNS and_CC weaknesses_NNS of_IN each_DT product_NN in_IN the_DT minds_NNS of_IN consumers_NNS in_IN terms_NNS of_IN various_JJ product_NN features_NNS ._.
+This_DT comparison_NN is_VBZ useful_JJ to_TO both_DT potential_JJ customers_NNS and_CC product_NN manufacturers_NNS ._.
+For_IN a_DT potential_JJ customer_NN ,_, he\/she_NN can_MD see_VB a_DT visual_JJ side-by-side_RB and_CC feature-by-feature_JJ comparison_NN of_IN consumer_NN opinions_NNS on_IN these_DT products_NNS ,_, which_WDT helps_VBZ him\/her_NN to_TO decide_VB which_WDT product_NN to_TO buy_VB ._.
+For_IN a_DT product_NN manufacturer_NN ,_, the_DT comparison_NN enables_VBZ it_PRP to_TO easily_RB gather_VB marketing_NN intelligence_NN and_CC product_NN benchmarking_VBG information_NN ._.
+Second_RB ,_, a_DT new_JJ technique_NN based_VBN on_IN language_NN pattern_NN mining_NN is_VBZ proposed_VBN to_TO extract_VB product_NN features_NNS from_IN Pros_NNS and_CC Cons_NNS in_IN a_DT particular_JJ type_NN of_IN reviews_NNS ._.
+Such_JJ features_NNS form_VBP the_DT basis_NN for_IN the_DT above_JJ comparison_NN ._.
+Experimental_JJ results_NNS show_VBP that_IN the_DT technique_NN is_VBZ highly_RB effective_JJ and_CC outperform_JJ existing_VBG methods_NNS significantly_RB ._.

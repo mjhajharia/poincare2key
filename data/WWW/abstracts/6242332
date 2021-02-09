@@ -1,0 +1,8 @@
+Supporting_VBG end-users_NNS in_IN the_DT creation_NN of_IN dependable_JJ web_NN clips_NNS
+Web_NN authoring_NN environments_NNS enable_VBP end-users_NNS to_TO create_VB applications_NNS that_WDT integrate_VBP information_NN from_IN other_JJ web_NN sources_NNS ._.
+Users_NNS can_MD create_VB web_NN sites_NNS that_WDT include_VBP built-in_JJ components_NNS to_TO dynamically_RB incorporate_VB ,_, for_IN example_NN ,_, weather_NN information_NN ,_, stock-quotes_NNS ,_, or_CC the_DT latest_JJS news_NN from_IN different_JJ web_NN sources_NNS ._.
+Recent_JJ surveys_NNS conducted_VBN among_IN end-users_NNS have_VBP indicated_VBN an_DT increasing_VBG interest_NN in_IN creating_VBG such_JJ applications_NNS ._.
+Unfortunately_RB ,_, web_NN authoring_NN environments_NNS do_VBP not_RB provide_VB support_NN beyond_IN a_DT limited_JJ set_NN of_IN built-in_JJ components_NNS ._.
+This_DT work_NN addresses_VBZ this_DT limitation_NN by_IN providing_VBG end-user_JJ support_NN for_IN ``_`` clipping_JJ ''_'' information_NN from_IN a_DT target_NN web_NN site_NN to_TO incorporate_VB it_PRP into_IN the_DT end-user_NN site_NN ._.
+The_DT support_NN consists_VBZ of_IN a_DT mechanism_NN to_TO identify_VB the_DT target_NN clipping_JJ with_IN multiple_JJ markers_NNS to_TO increase_VB robustness_NN ,_, and_CC a_DT dynamic_JJ assessment_NN of_IN the_DT retrieved_VBN information_NN to_TO quantify_VB its_PRP$ reliability_NN ._.
+The_DT clipping_JJ approach_NN has_VBZ been_VBN integrated_VBN as_IN a_DT feature_NN into_IN a_DT popular_JJ web_NN authoring_NN tool_NN on_IN which_WDT we_PRP present_VBP the_DT results_NNS of_IN two_CD preliminary_JJ studies_NNS ._.

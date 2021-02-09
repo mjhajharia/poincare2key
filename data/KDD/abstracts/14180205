@@ -1,0 +1,8 @@
+Balanced_JJ allocation_NN with_IN succinct_JJ representation_NN
+Motivated_VBN by_IN applications_NNS in_IN guaranteed_JJ delivery_NN in_IN computational_JJ advertising_NN ,_, we_PRP consider_VBP the_DT general_JJ problem_NN of_IN balanced_JJ allocation_NN in_IN a_DT bipartite_JJ supply-demand_JJ setting_NN ._.
+Our_PRP$ formulation_NN captures_VBZ the_DT notion_NN of_IN deviation_NN from_IN being_VBG balanced_VBN by_IN a_DT convex_NN penalty_NN function_NN ._.
+While_IN this_DT formulation_NN admits_VBZ a_DT convex_NN programming_NN solution_NN ,_, we_PRP strive_VBP for_IN more_RBR robust_JJ and_CC scalable_JJ algorithms_NNS ._.
+For_IN the_DT case_NN of_IN L1_NN penalty_NN functions_NNS we_PRP obtain_VBP a_DT simple_JJ combinatorial_JJ algorithm_NN based_VBN on_IN min-cost_JJ flow_NN in_IN graphs_NNS and_CC show_VB how_WRB to_TO precompute_VB a_DT linear_JJ amount_NN of_IN information_NN such_JJ that_IN the_DT allocation_NN along_IN any_DT edge_NN can_MD be_VB approximated_VBN in_IN constant_JJ time_NN ._.
+We_PRP then_RB extend_VBP our_PRP$ combinatorial_JJ solution_NN to_TO any_DT convex_NN function_NN by_IN solving_VBG a_DT convex_NN cost_NN flow_NN ._.
+These_DT scalable_JJ methods_NNS may_MD have_VB applications_NNS in_IN other_JJ contexts_NNS stipulating_VBG balanced_JJ allocation_NN ._.
+We_PRP study_VBD the_DT performance_NN of_IN our_PRP$ algorithms_NNS on_IN large_JJ real-world_JJ graphs_NNS and_CC show_VBP that_IN they_PRP are_VBP efficient_JJ ,_, scalable_JJ ,_, and_CC robust_JJ in_IN practice_NN ._.

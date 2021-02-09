@@ -1,0 +1,7 @@
+Finding_VBG influential_JJ mediators_NNS in_IN social_JJ networks_NNS
+Given_VBN a_DT social_JJ network_NN ,_, who_WP are_VBP the_DT key_JJ players_NNS controlling_VBG the_DT bottlenecks_NNS of_IN influence_NN propagation_NN if_IN some_DT persons_NNS would_MD like_VB to_TO activate_VB specific_JJ individuals_NNS ?_.
+In_IN this_DT paper_NN ,_, we_PRP tackle_VBP the_DT problem_NN of_IN selecting_VBG a_DT set_NN of_IN k_NN mediator_NN nodes_NNS as_IN the_DT influential_JJ gateways_NNS whose_WP$ existence_NN determines_VBZ the_DT activation_NN probabilities_NNS of_IN targeted_VBN nodes_NNS from_IN some_DT given_VBN seed_NN nodes_NNS ._.
+We_PRP formally_RB define_VBP the_DT k-Mediators_NNS problem_NN ._.
+To_TO have_VB an_DT effective_JJ and_CC efficient_JJ solution_NN ,_, we_PRP propose_VBP a_DT three-step_JJ greedy_JJ method_NN by_IN considering_VBG the_DT probabilistic_JJ influence_NN and_CC the_DT structural_JJ connectivity_NN on_IN the_DT pathways_NNS from_IN sources_NNS to_TO targets_NNS ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, this_DT is_VBZ the_DT first_JJ work_NN to_TO consider_VB the_DT k-Mediators_NNS problem_NN in_IN networks_NNS ._.
+Experiments_NNS on_IN the_DT DBLP_NN co-authorship_NN graph_NN show_VBP the_DT effectiveness_NN and_CC efficiency_NN of_IN the_DT proposed_VBN method_NN ._.

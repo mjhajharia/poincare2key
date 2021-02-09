@@ -1,0 +1,11 @@
+Detection_NN and_CC analysis_NN of_IN drive-by-download_NN attacks_NNS and_CC malicious_JJ JavaScript_NN code_NN
+JavaScript_NNP is_VBZ a_DT browser_NN scripting_VBG language_NN that_WDT allows_VBZ developers_NNS to_TO create_VB sophisticated_JJ client-side_JJ interfaces_NNS for_IN web_NN applications_NNS ._.
+However_RB ,_, JavaScript_NN code_NN is_VBZ also_RB used_VBN to_TO carry_VB out_RP attacks_NNS against_IN the_DT user_NN 's_POS browser_NN and_CC its_PRP$ extensions_NNS ._.
+These_DT attacks_NNS usually_RB result_VBP in_IN the_DT download_NN of_IN additional_JJ malware_NN that_WDT takes_VBZ complete_JJ control_NN of_IN the_DT victim_NN 's_POS platform_NN ,_, and_CC are_VBP ,_, therefore_RB ,_, called_VBN ``_`` drive-by_JJ downloads_NNS ._. ''_''
+Unfortunately_RB ,_, the_DT dynamic_JJ nature_NN of_IN the_DT JavaScript_NNP language_NN and_CC its_PRP$ tight_JJ integration_NN with_IN the_DT browser_NN make_VBP it_PRP difficult_JJ to_TO detect_VB and_CC block_VB malicious_JJ JavaScript_NNP code_NN ._.
+This_DT paper_NN presents_VBZ a_DT novel_JJ approach_NN to_TO the_DT detection_NN and_CC analysis_NN of_IN malicious_JJ JavaScript_NNP code_NN ._.
+Our_PRP$ approach_NN combines_VBZ anomaly_RB detection_NN with_IN emulation_NN to_TO automatically_RB identify_VB malicious_JJ JavaScript_NNP code_NN and_CC to_TO support_VB its_PRP$ analysis_NN ._.
+We_PRP developed_VBD a_DT system_NN that_WDT uses_VBZ a_DT number_NN of_IN features_NNS and_CC machine-learning_JJ techniques_NNS to_TO establish_VB the_DT characteristics_NNS of_IN normal_JJ JavaScript_NNP code_NN ._.
+Then_RB ,_, during_IN detection_NN ,_, the_DT system_NN is_VBZ able_JJ to_TO identify_VB anomalous_JJ JavaScript_NNP code_NN by_IN emulating_VBG its_PRP$ behavior_NN and_CC comparing_VBG it_PRP to_TO the_DT established_JJ profiles_NNS ._.
+In_IN addition_NN to_TO identifying_VBG malicious_JJ code_NN ,_, the_DT system_NN is_VBZ able_JJ to_TO support_VB the_DT analysis_NN of_IN obfuscated_VBN code_NN and_CC to_TO generate_VB detection_NN signatures_NNS for_IN signature-based_JJ systems_NNS ._.
+The_DT system_NN has_VBZ been_VBN made_VBN publicly_RB available_JJ and_CC has_VBZ been_VBN used_VBN by_IN thousands_NNS of_IN analysts_NNS ._.

@@ -1,0 +1,7 @@
+Measuring_VBG and_CC extracting_VBG proximity_NN in_IN networks_NNS
+Measuring_VBG distance_NN or_CC some_DT other_JJ form_NN of_IN proximity_NN between_IN objects_NNS is_VBZ a_DT standard_JJ data_NN mining_NN tool_NN ._.
+Connection_NN subgraphs_NNS were_VBD recently_RB proposed_VBN as_IN a_DT way_NN to_TO demonstrate_VB proximity_NN between_IN nodes_NNS in_IN networks_NNS ._.
+We_PRP propose_VBP a_DT new_JJ way_NN of_IN measuring_VBG and_CC extracting_VBG proximity_NN in_IN networks_NNS called_VBN ``_`` cycle_NN free_JJ effective_JJ conductance_NN ''_'' -LRB-_-LRB- CFEC_NNP -RRB-_-RRB- ._.
+Our_PRP$ proximity_NN measure_NN can_MD handle_VB more_JJR than_IN two_CD endpoints_NNS ,_, directed_JJ edges_NNS ,_, is_VBZ statistically_RB well-behaved_JJ ,_, and_CC produces_VBZ an_DT effectiveness_NN score_NN for_IN the_DT computed_JJ subgraphs_NNS ._.
+We_PRP provide_VBP an_DT efficien_JJ talgorithm_NN ._.
+Also_RB ,_, we_PRP report_VBP experimental_JJ results_NNS and_CC show_VBP examples_NNS for_IN three_CD large_JJ network_NN data_NNS sets_NNS :_: a_DT telecommunications_NN calling_NN graph_NN ,_, the_DT IMDB_NNP actors_NNS graph_NN ,_, and_CC an_DT academic_JJ co-authorship_NN network_NN ._.

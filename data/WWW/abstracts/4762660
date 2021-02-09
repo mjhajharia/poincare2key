@@ -1,0 +1,7 @@
+Reliable_JJ QoS_NN monitoring_NN based_VBN on_IN client_NN feedback_NN
+Service-level_JJ agreements_NNS -LRB-_-LRB- SLAs_NNS -RRB-_-RRB- establish_VB a_DT contract_NN between_IN service_NN providersand_NN clients_NNS concerning_VBG Quality_NNP of_IN Service_NNP -LRB-_-LRB- QoS_NN -RRB-_-RRB- parameters_NNS ._.
+Without_IN properpenalties_NNS ,_, service_NN providers_NNS have_VBP strong_JJ incentives_NNS to_TO deviate_VB from_IN theadvertised_VBN QoS_NN ,_, causing_VBG losses_NNS to_TO the_DT clients_NNS ._.
+Reliable_JJ QoS_NN monitoring_NN -LRB-_-LRB- andproper_NN penalties_NNS computed_VBN on_IN the_DT basis_NN of_IN delivered_VBN QoS_NN -RRB-_-RRB- are_VBP thereforeessential_JJ for_IN the_DT trustworthiness_NN of_IN a_DT service-oriented_JJ environment_NN ._.
+In_IN thispaper_NN ,_, we_PRP present_VBP a_DT novel_JJ QoS_NN monitoring_NN mechanism_NN based_VBN on_IN quality_NN ratings_NNS from_IN theclients_NNS ._.
+A_DT reputation_NN mechanism_NN collects_VBZ the_DT ratings_NNS and_CC computes_VBZ theactual_JJ quality_NN delivered_VBN to_TO the_DT clients_NNS ._.
+The_DT mechanism_NN provides_VBZ incentives_NNS forthe_VBP clients_NNS to_TO report_VB honestly_RB ,_, and_CC pays_VBZ special_JJ attention_NN to_TO minimizing_VBG costand_JJ overhead1_NN ._.

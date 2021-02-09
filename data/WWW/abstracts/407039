@@ -1,0 +1,4 @@
+An_DT ontology_NN for_IN internal_JJ and_CC external_JJ business_NN processes_NNS
+In_IN this_DT paper_NN we_PRP introduce_VBP our_PRP$ multi_JJ metamodel_NN process_NN ontology_NN -LRB-_-LRB- m3po_NN -RRB-_-RRB- ,_, which_WDT is_VBZ based_VBN on_IN various_JJ existing_VBG reference_NN models_NNS and_CC languages_NNS from_IN the_DT workflow_NN and_CC choreography_NN domain_NN ._.
+This_DT ontology_NN allows_VBZ the_DT extraction_NN of_IN arbitrary_JJ choreography_NN interface_NN descriptions_NNS from_IN arbitrary_JJ internal_JJ workflow_NN models_NNS ._.
+We_PRP also_RB report_VBP on_IN an_DT initial_JJ validation_NN :_: we_PRP translate_VBP an_DT IBM_NNP Websphere_NNP MQ_NNP Workflow_NNP model_NN into_IN the_DT m3po_FW ontology_FW and_CC then_RB extract_VB an_DT Abstract_JJ BPEL_NN model_NN from_IN the_DT ontology_NN ._.

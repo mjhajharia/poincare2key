@@ -1,0 +1,9 @@
+Information_NN genealogy_NN :_: uncovering_VBG the_DT flow_NN of_IN ideas_NNS in_IN non-hyperlinked_JJ document_NN databases_NNS
+We_PRP now_RB have_VBP incrementally-grown_JJ databases_NNS of_IN text_NN documents_NNS ranging_VBG back_RB for_IN over_IN a_DT decade_NN in_IN areas_NNS ranging_VBG from_IN personal_JJ email_NN ,_, to_TO news-articles_NNS and_CC conference_NN proceedings_NNS ._.
+While_IN accessing_VBG individual_JJ documents_NNS is_VBZ easy_JJ ,_, methods_NNS for_IN overviewing_VBG and_CC understanding_VBG these_DT collections_NNS as_IN a_DT whole_NN are_VBP lacking_VBG in_IN number_NN and_CC in_IN scope_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP address_VBP one_CD such_JJ global_JJ analysis_NN task_NN ,_, namely_RB the_DT problem_NN of_IN automatically_RB uncovering_VBG how_WRB ideas_NNS spread_VBN through_IN the_DT collection_NN over_IN time_NN ._.
+We_PRP refer_VBP to_TO this_DT problem_NN as_IN Information_NNP Genealogy_NNP ._.
+In_IN contrast_NN to_TO bibliometric_JJ methods_NNS that_WDT are_VBP limited_VBN to_TO collections_NNS with_IN explicit_JJ citation_NN structure_NN ,_, we_PRP investigate_VBP content-based_JJ methods_NNS requiring_VBG only_RB the_DT text_NN and_CC timestamps_NNS of_IN the_DT documents_NNS ._.
+In_IN particular_JJ ,_, we_PRP propose_VBP a_DT language-modeling_JJ approach_NN and_CC a_DT likelihood_NN ratio_NN test_NN to_TO detect_VB influence_NN between_IN documents_NNS in_IN a_DT statistically_RB well-founded_JJ way_NN ._.
+Furthermore_RB ,_, we_PRP show_VBP how_WRB this_DT method_NN can_MD be_VB used_VBN to_TO infer_VB citation_NN graphs_NNS and_CC to_TO identify_VB the_DT most_RBS influential_JJ documents_NNS in_IN the_DT collection_NN ._.
+Experiments_NNS on_IN the_DT NIPS_NNP conference_NN proceedings_NNS and_CC the_DT Physics_NN ArXiv_NN show_VBP that_IN our_PRP$ method_NN is_VBZ more_RBR effective_JJ than_IN methods_NNS based_VBN on_IN document_NN similarity_NN ._.

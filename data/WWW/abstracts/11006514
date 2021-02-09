@@ -1,0 +1,10 @@
+Scalable_JJ techniques_NNS for_IN document_NN identifier_NN assignment_NN in_IN inverted_JJ indexes_NNS
+Web_NN search_NN engines_NNS depend_VBP on_IN the_DT full-text_JJ inverted_JJ index_NN data_NNS structure_NN ._.
+Because_IN the_DT query_NN processing_NN performance_NN is_VBZ so_RB dependent_JJ on_IN the_DT size_NN of_IN the_DT inverted_JJ index_NN ,_, a_DT plethora_NN of_IN research_NN has_VBZ focused_VBN on_IN fast_JJ end_NN effective_JJ techniques_NNS for_IN compressing_VBG this_DT structure_NN ._.
+Recently_RB ,_, several_JJ authors_NNS have_VBP proposed_VBN techniques_NNS for_IN improving_VBG index_NN compression_NN by_IN optimizing_VBG the_DT assignment_NN of_IN document_NN identifiers_NNS to_TO the_DT documents_NNS in_IN the_DT collection_NN ,_, leading_VBG to_TO significant_JJ reduction_NN in_IN overall_JJ index_NN size_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP improved_VBN techniques_NNS for_IN document_NN identifier_NN assignment_NN ._.
+Previous_JJ work_NN includes_VBZ simple_JJ and_CC fast_JJ heuristics_NNS such_JJ as_IN sorting_NN by_IN URL_NN ,_, as_RB well_RB as_IN more_JJR involved_JJ approaches_NNS based_VBN on_IN the_DT Traveling_VBG Salesman_NNP Problem_NNP or_CC on_IN graph_NN partitioning_NN ._.
+These_DT techniques_NNS achieve_VBP good_JJ compression_NN but_CC do_VBP not_RB scale_VB to_TO larger_JJR document_NN collections_NNS ._.
+We_PRP propose_VBP a_DT new_JJ framework_NN based_VBN on_IN performing_VBG a_DT Traveling_VBG Salesman_NN computation_NN on_IN a_DT reduced_VBN sparse_JJ graph_NN obtained_VBN through_IN Locality_NNP Sensitive_NNP Hashing_NNP ._.
+This_DT technique_NN achieves_VBZ improved_VBN compression_NN while_IN scaling_VBG to_TO tens_NNS of_IN millions_NNS of_IN documents_NNS ._.
+Based_VBN on_IN this_DT framework_NN ,_, we_PRP describe_VBP a_DT number_NN of_IN new_JJ algorithms_NNS ,_, and_CC perform_VB a_DT detailed_JJ evaluation_NN on_IN three_CD large_JJ data_NNS sets_NNS showing_VBG improvements_NNS in_IN index_NN size_NN ._.

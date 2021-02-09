@@ -1,0 +1,5 @@
+Reliability_NN analysis_NN using_VBG weighted_JJ combinational_JJ models_NNS for_IN web-based_JJ software_NN
+In_IN the_DT past_NN ,_, some_DT researches_VBZ suggested_VBD that_IN engineers_NNS can_MD use_VB combined_JJ software_NN reliability_NN growth_NN models_NNS -LRB-_-LRB- SRGMs_NNS -RRB-_-RRB- to_TO obtain_VB more_RBR accurate_JJ reliability_NN prediction_NN during_IN testing_NN ._.
+In_IN this_DT paper_NN ,_, three_CD weighted_JJ combinational_JJ models_NNS ,_, namely_RB ,_, equal_JJ ,_, linear_JJ ,_, and_CC nonlinear_JJ weight_NN ,_, are_VBP proposed_VBN for_IN reliability_NN estimation_NN of_IN web-based_JJ software_NN ._.
+We_PRP further_RB investigate_VBP the_DT estimation_NN accuracy_NN of_IN using_VBG genetic_JJ algorithm_NN to_TO determine_VB the_DT weight_NN assignment_NN for_IN the_DT proposed_VBN models_NNS ._.
+Preliminary_JJ result_NN shows_VBZ that_IN the_DT linearly_RB and_CC nonlinearly_RB weighted_JJ combinational_JJ models_NNS have_VBP better_JJR prediction_NN capability_NN than_IN single_JJ SRGM_NN and_CC equally_RB weighted_JJ combinational_JJ model_NN for_IN web-based_JJ software_NN ._.

@@ -1,0 +1,9 @@
+Speeding_VBG up_RP adaptation_NN of_IN web_NN service_NN compositions_NNS using_VBG expiration_NN times_NNS
+Web_NN processes_NNS must_MD often_RB operate_VB in_IN volatile_JJ environments_NNS where_WRB the_DT quality_NN of_IN service_NN parameters_NNS of_IN the_DT participating_VBG service_NN providers_NNS change_VBP during_IN the_DT life_NN time_NN of_IN the_DT process_NN ._.
+In_IN order_NN to_TO remain_VB optimal_JJ ,_, the_DT Web_NN process_NN must_MD adapt_VB to_TO these_DT changes_NNS ._.
+Adaptation_NN requires_VBZ knowledge_NN about_IN the_DT parameter_NN changes_NNS of_IN each_DT of_IN the_DT service_NN providers_NNS and_CC using_VBG this_DT knowledge_NN to_TO determine_VB whether_IN the_DT Web_NN process_NN should_MD make_VB a_DT different_JJ more_RBR optimal_JJ decision_NN ._.
+Previously_RB ,_, we_PRP defined_VBD a_DT mechanism_NN called_VBN the_DT value_NN of_IN changed_JJ information_NN which_WDT measures_VBZ the_DT impact_NN of_IN expected_VBN changes_NNS in_IN the_DT service_NN parameters_NNS on_IN the_DT Web_NN process_NN ,_, thereby_RB offering_VBG a_DT way_NN to_TO query_VB and_CC incorporate_VB those_DT changes_NNS that_WDT are_VBP useful_JJ and_CC cost-efficient_JJ ._.
+However_RB ,_, computing_VBG the_DT value_NN of_IN changed_VBN information_NN incurs_VBZ a_DT substantial_JJ computational_JJ overhead_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP use_VBP service_NN expiration_NN times_NNS obtained_VBN from_IN pre-defined_JJ service_NN level_NN agreements_NNS to_TO reduce_VB the_DT computational_JJ overhead_NN of_IN adaptation_NN ._.
+We_PRP formalize_VBP the_DT intuition_NN that_IN services_NNS whose_WP$ parameters_NNS have_VBP not_RB expired_VBN need_MD not_RB be_VB considered_VBN for_IN querying_VBG for_IN revised_VBN information_NN ._.
+Using_VBG two_CD realistic_JJ scenarios_NNS ,_, we_PRP illustrate_VBP our_PRP$ approach_NN and_CC demonstrate_VBP the_DT associated_VBN computational_JJ savings_NNS ._.

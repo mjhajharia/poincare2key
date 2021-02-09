@@ -1,0 +1,6 @@
+MIME_NN :_: a_DT framework_NN for_IN interactive_JJ visual_JJ pattern_NN mining_NN
+We_PRP present_VBP a_DT framework_NN for_IN interactive_JJ visual_JJ pattern_NN mining_NN ._.
+Our_PRP$ system_NN enables_VBZ the_DT user_NN to_TO browse_VB through_IN the_DT data_NNS and_CC patterns_NNS easily_RB and_CC intuitively_RB ,_, using_VBG a_DT toolbox_NN consisting_VBG of_IN interestingness_NN measures_NNS ,_, mining_NN algorithms_NNS and_CC post-processing_JJ algorithms_NNS to_TO assist_VB in_IN identifying_VBG interesting_JJ patterns_NNS ._.
+By_IN mining_NN interactively_RB ,_, we_PRP enable_VBP the_DT user_NN to_TO combine_VB their_PRP$ subjective_JJ interestingness_NN measure_NN and_CC background_NN knowledge_NN with_IN a_DT wide_JJ variety_NN of_IN objective_JJ measures_NNS to_TO easily_RB and_CC quickly_RB mine_VB the_DT most_RBS important_JJ and_CC interesting_JJ patterns_NNS ._.
+Basically_RB ,_, we_PRP enable_VBP the_DT user_NN to_TO become_VB an_DT essential_JJ part_NN of_IN the_DT mining_NN algorithm_NN ._.
+Our_PRP$ demo_NN currently_RB applies_VBZ to_TO mining_NN interesting_JJ itemsets_NNS and_CC association_NN rules_NNS ,_, and_CC its_PRP$ extension_NN to_TO episodes_NNS and_CC decision_NN trees_NNS is_VBZ ongoing_JJ ._.

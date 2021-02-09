@@ -1,0 +1,8 @@
+Threshold_NN selection_NN for_IN web-page_JJ classification_NN with_IN highly_RB skewed_JJ class_NN distribution_NN
+We_PRP propose_VBP a_DT novel_JJ cost-efficient_JJ approach_NN to_TO threshold_NN selection_NN for_IN binary_JJ web-page_JJ classification_NN problems_NNS with_IN imbalanced_JJ class_NN distributions_NNS ._.
+In_IN many_JJ binary-classification_JJ tasks_NNS the_DT distribution_NN of_IN classes_NNS is_VBZ highly_RB skewed_JJ ._.
+In_IN such_JJ problems_NNS ,_, using_VBG uniform_JJ random_JJ sampling_NN in_IN constructing_VBG sample_NN sets_NNS for_IN threshold_NN setting_NN requires_VBZ large_JJ sample_NN sizes_NNS in_IN order_NN to_TO include_VB a_DT statistically_RB sufficient_JJ number_NN of_IN examples_NNS of_IN the_DT minority_NN class_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, manually_RB labeling_VBG examples_NNS is_VBZ expensive_JJ and_CC budgetary_JJ considerations_NNS require_VBP that_IN the_DT size_NN of_IN sample_NN sets_NNS be_VB limited_VBN ._.
+These_DT conflicting_VBG requirements_NNS make_VBP threshold_NN selection_NN a_DT challenging_JJ problem_NN ._.
+Our_PRP$ method_NN of_IN sample-set_JJ construction_NN is_VBZ a_DT novel_JJ approach_NN based_VBN on_IN stratified_JJ sampling_NN ,_, in_IN which_WDT manually_RB labeled_VBN examples_NNS are_VBP expanded_VBN to_TO reflect_VB the_DT true_JJ class_NN distribution_NN of_IN the_DT web-page_JJ population_NN ._.
+Our_PRP$ experimental_JJ results_NNS show_VBP that_IN using_VBG false_JJ positive_JJ rate_NN as_IN the_DT criterion_NN for_IN threshold_NN setting_NN results_VBZ in_IN lower-variance_JJ threshold_NN estimates_NNS than_IN using_VBG other_JJ widely_RB used_VBN accuracy_NN measures_NNS such_JJ as_IN F1_NN and_CC precision_NN ._.

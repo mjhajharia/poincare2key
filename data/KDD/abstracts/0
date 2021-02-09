@@ -1,0 +1,6 @@
+Variable_JJ latent_JJ semantic_JJ indexing_NN
+Latent_JJ Semantic_JJ Indexing_NN is_VBZ a_DT classical_JJ method_NN to_TO produce_VB optimal_JJ low-rank_JJ approximations_NNS of_IN a_DT term-document_JJ matrix_NN ._.
+However_RB ,_, in_IN the_DT context_NN of_IN a_DT particular_JJ query_NN distribution_NN ,_, the_DT approximation_NN thus_RB produced_VBN need_MD not_RB be_VB optimal_JJ ._.
+We_PRP propose_VBP VLSI_NNP ,_, a_DT new_JJ query-dependent_JJ -LRB-_-LRB- or_CC ``_`` variable_JJ ''_'' -RRB-_-RRB- low-rank_JJ approximation_NN that_WDT minimizes_VBZ approximation_NN error_NN for_IN any_DT specified_VBN query_NN distribution_NN ._.
+With_IN this_DT tool_NN ,_, it_PRP is_VBZ possible_JJ to_TO tailor_VB the_DT LSI_NNP technique_NN to_TO particular_JJ settings_NNS ,_, often_RB resulting_VBG in_IN vastly_RB improved_VBN approximations_NNS at_IN much_RB lower_JJR dimensionality_NN ._.
+We_PRP validate_VBP this_DT method_NN via_IN a_DT series_NN of_IN experiments_NNS on_IN classical_JJ corpora_NN ,_, showing_VBG that_IN VLSI_NNP typically_RB performs_VBZ similarly_RB to_TO LSI_NNP with_IN an_DT order_NN of_IN magnitude_NN fewer_JJR dimensions_NNS ._.

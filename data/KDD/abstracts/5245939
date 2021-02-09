@@ -1,0 +1,10 @@
+Practical_NNP learning_VBG from_IN one-sided_JJ feedback_NN
+In_IN many_JJ data_NNS mining_NN applications_NNS ,_, online_JJ labeling_NN feedback_NN is_VBZ only_RB available_JJ for_IN examples_NNS which_WDT were_VBD predicted_VBN to_TO belong_VB to_TO the_DT positive_JJ class_NN ._.
+Such_JJ applications_NNS includespam_NN filtering_VBG in_IN the_DT case_NN where_WRB users_NNS never_RB checkemails_NNS marked_VBD ``_`` spam_NN ''_'' ,_, document_NN retrieval_NN where_WRB users_NNS cannotgive_VBP relevance_NN feedback_NN on_IN unretrieved_JJ documents_NNS ,_, and_CC online_NN advertising_NN where_WRB user_NN behavior_NN can_MD not_RB beobserved_VBN for_IN unshown_JJ advertisements_NNS ._.
+One-sided_JJ feedback_NN can_MD cripple_VB the_DT performance_NN of_IN classical_JJ mistake-driven_JJ online_NN learners_NNS such_JJ as_IN Perceptron_NNP ._.
+Previous_JJ work_NN under_IN the_DT Apple_NNP Tasting_NNP framework_NN showed_VBD how_WRB to_TO transform_VB standard_JJ online_NN learners_NNS into_IN successful_JJ learners_NNS from_IN one_CD sided_VBN feedback_NN ._.
+However_RB ,_, we_PRP find_VBP in_IN practice_NN that_IN this_DT transformation_NN may_MD request_VB more_JJR labels_NNS than_IN necessary_JJ to_TO achieve_VB strong_JJ performance_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP employ_VBP two_CD active_JJ learning_NN methods_NNS which_WDT reduce_VBP the_DT number_NN of_IN labels_NNS requested_VBN in_IN practice_NN ._.
+One_CD method_NN is_VBZ the_DT use_NN of_IN Label_NN Efficient_JJ active_JJ learning_NN ._.
+The_DT other_JJ method_NN ,_, somewhat_RB surprisingly_RB ,_, is_VBZ the_DT use_NN of_IN margin-based_JJ learners_NNS without_IN modification_NN ,_, which_WDT we_PRP show_VBP combines_NNS implicit_JJ active_JJ learning_NN and_CC a_DT greedy_JJ strategy_NN to_TO managing_VBG the_DT exploration_NN exploitation_NN tradeoff_NN ._.
+Experimental_JJ results_NNS show_VBP that_IN these_DT methods_NNS can_MD be_VB significantly_RB more_RBR effective_JJ in_IN practice_NN than_IN those_DT using_VBG the_DT Apple_NNP Tasting_NNP transformation_NN ,_, even_RB on_IN minority_NN class_NN problems_NNS ._.

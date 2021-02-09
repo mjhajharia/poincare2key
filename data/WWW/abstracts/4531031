@@ -1,0 +1,9 @@
+Visualizing_VBG tags_NNS over_IN time_NN
+We_PRP consider_VBP the_DT problem_NN of_IN visualizing_VBG the_DT evolution_NN of_IN tags_NNS within_IN the_DT Flickr_NNP -LRB-_-LRB- flickr.com_NNP -RRB-_-RRB- online_JJ image_NN sharing_NN community_NN ._.
+Any_DT user_NN of_IN the_DT Flickr_NNP service_NN may_MD append_VB a_DT tag_NN to_TO any_DT photo_NN in_IN the_DT system_NN ._.
+Over_IN the_DT past_JJ year_NN ,_, users_NNS have_VBP on_IN average_NN added_VBD over_IN a_DT million_CD tags_NNS each_DT week_NN ._.
+Understanding_VBG the_DT evolution_NN of_IN these_DT tags_NNS over_IN time_NN is_VBZ therefore_RB a_DT challenging_JJ task_NN ._.
+We_PRP present_VBP a_DT new_JJ approach_NN based_VBN on_IN a_DT characterization_NN of_IN the_DT most_RBS interesting_JJ tags_NNS associated_VBN with_IN a_DT sliding_VBG interval_NN of_IN time_NN ._.
+An_DT animation_NN provided_VBD via_IN Flash_NNP in_IN a_DT web_NN browser_NN allows_VBZ the_DT user_NN to_TO observe_VB and_CC interact_VB with_IN the_DT interesting_JJ tags_NNS as_IN they_PRP evolve_VBP over_IN time_NN ._.
+New_JJ algorithms_NNS and_CC data_NNS structures_NNS are_VBP required_VBN to_TO support_VB the_DT efficient_JJ generation_NN of_IN this_DT visualization_NN ._.
+We_PRP combine_VBP a_DT novel_JJ solution_NN to_TO an_DT interval_JJ covering_NN problem_NN with_IN extensions_NNS to_TO previous_JJ work_NN on_IN score_NN aggregation_NN in_IN order_NN to_TO create_VB an_DT efficient_JJ backend_NN system_NN capable_JJ of_IN producing_VBG visualizations_NNS at_IN arbitrary_JJ scales_NNS on_IN this_DT large_JJ dataset_NN in_IN real_JJ time_NN ._.

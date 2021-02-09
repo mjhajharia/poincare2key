@@ -1,0 +1,6 @@
+Finding_VBG surprising_JJ patterns_NNS in_IN a_DT time_NN series_NN database_NN in_IN linear_JJ time_NN and_CC space_NN
+The_DT problem_NN of_IN finding_VBG a_DT specified_JJ pattern_NN in_IN a_DT time_NN series_NN database_NN -LRB-_-LRB- i.e._FW query_NN by_IN content_NN -RRB-_-RRB- has_VBZ received_VBN much_JJ attention_NN and_CC is_VBZ now_RB a_DT relatively_RB mature_JJ field_NN ._.
+In_IN contrast_NN ,_, the_DT important_JJ problem_NN of_IN enumerating_VBG all_DT surprising_JJ or_CC interesting_JJ patterns_NNS has_VBZ received_VBN far_RB less_JJR attention_NN ._.
+This_DT problem_NN requires_VBZ a_DT meaningful_JJ definition_NN of_IN ``_`` surprise_NN ''_'' ,_, and_CC an_DT efficient_JJ search_NN technique_NN ._.
+All_DT previous_JJ attempts_NNS at_IN finding_VBG surprising_JJ patterns_NNS in_IN time_NN series_NNS use_VBP a_DT very_RB limited_JJ notion_NN of_IN surprise_NN ,_, and\/or_CC do_VBP not_RB scale_VB to_TO massive_JJ datasets_NNS ._.
+To_TO overcome_VB these_DT limitations_NNS we_PRP introduce_VBP a_DT novel_JJ technique_NN that_WDT defines_VBZ a_DT pattern_NN surprising_JJ if_IN the_DT frequency_NN of_IN its_PRP$ occurrence_NN differs_VBZ substantially_RB from_IN that_DT expected_VBN by_IN chance_NN ,_, given_VBN some_DT previously_RB seen_VBN data_NNS ._.

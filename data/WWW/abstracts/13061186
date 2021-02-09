@@ -1,0 +1,4 @@
+Detecting_VBG group_NN review_NN spam_NN
+It_PRP is_VBZ well-known_JJ that_IN many_JJ online_JJ reviews_NNS are_VBP not_RB written_VBN by_IN genuine_JJ users_NNS of_IN products_NNS ,_, but_CC by_IN spammers_NNS who_WP write_VBP fake_JJ reviews_NNS to_TO promote_VB or_CC demote_VB some_DT target_NN products_NNS ._.
+Although_IN some_DT existing_VBG works_NNS have_VBP been_VBN done_VBN to_TO detect_VB fake_JJ reviews_NNS and_CC individual_JJ spammers_NNS ,_, to_TO our_PRP$ knowledge_NN ,_, no_DT work_NN has_VBZ been_VBN done_VBN on_IN detecting_VBG spammer_NN groups_NNS ._.
+This_DT paper_NN focuses_VBZ on_IN this_DT task_NN and_CC proposes_VBZ an_DT effective_JJ technique_NN to_TO detect_VB such_JJ groups_NNS ._.

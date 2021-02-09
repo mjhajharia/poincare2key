@@ -1,0 +1,10 @@
+Towards_IN network-aware_JJ service_NN composition_NN in_IN the_DT cloud_NN
+Service-Oriented_NNP Computing_NNP -LRB-_-LRB- SOC_NNP -RRB-_-RRB- enables_VBZ the_DT composition_NN of_IN loosely_RB coupled_VBN services_NNS provided_VBN with_IN varying_VBG Quality_NNP of_IN Service_NNP -LRB-_-LRB- QoS_NN -RRB-_-RRB- levels_NNS ._.
+Selecting_VBG a_DT -LRB-_-LRB- near_IN -_: -RRB-_-RRB- optimal_JJ set_NN of_IN services_NNS for_IN a_DT composition_NN in_IN terms_NNS of_IN QoS_NN is_VBZ crucial_JJ when_WRB many_JJ functionally_RB equivalent_JJ services_NNS are_VBP available_JJ ._.
+With_IN the_DT advent_NN of_IN Cloud_NNP Computing_NNP ,_, both_CC the_DT number_NN of_IN such_JJ services_NNS and_CC their_PRP$ distribution_NN across_IN the_DT network_NN are_VBP rising_VBG rapidly_RB ,_, increasing_VBG the_DT impact_NN of_IN the_DT network_NN on_IN the_DT QoS_NN of_IN such_JJ compositions_NNS ._.
+Despite_IN this_DT ,_, current_JJ approaches_NNS do_VBP not_RB differentiate_VB between_IN the_DT QoS_NN of_IN services_NNS themselves_PRP and_CC the_DT QoS_NN of_IN the_DT network_NN ._.
+Therefore_RB ,_, the_DT computed_JJ latency_NN differs_VBZ substantially_RB from_IN the_DT actual_JJ latency_NN ,_, resulting_VBG in_IN suboptimal_JJ QoS_NN for_IN service_NN compositions_NNS in_IN the_DT cloud_NN ._.
+Thus_RB ,_, we_PRP propose_VBP a_DT network-aware_JJ approach_NN that_WDT handles_VBZ the_DT QoS_NN of_IN services_NNS and_CC the_DT QoS_NN of_IN the_DT network_NN independently_RB ._.
+First_RB ,_, we_PRP build_VBP a_DT network_NN model_NN in_IN order_NN to_TO estimate_VB the_DT network_NN latency_NN between_IN arbitrary_JJ services_NNS and_CC potential_JJ users_NNS ._.
+Our_PRP$ selection_NN algorithm_NN then_RB leverages_VBZ this_DT model_NN to_TO find_VB compositions_NNS that_WDT will_MD result_VB in_IN a_DT low_JJ latency_NN given_VBN an_DT employed_VBN execution_NN policy_NN ._.
+In_IN our_PRP$ evaluation_NN ,_, we_PRP show_VBP that_IN our_PRP$ approach_NN efficiently_RB computes_VBZ compositions_NNS with_IN much_RB lower_JJR latency_NN than_IN current_JJ approaches_NNS ._.

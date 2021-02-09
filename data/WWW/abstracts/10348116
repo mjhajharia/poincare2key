@@ -1,0 +1,5 @@
+Preserving_VBG XML_NN queries_NNS during_IN schema_NN evolution_NN
+In_IN XML_NN databases_NNS ,_, new_JJ schema_NN versions_NNS may_MD be_VB released_VBN as_RB frequently_RB as_IN once_RB every_DT two_CD weeks_NNS ._.
+This_DT poster_NN describes_VBZ a_DT taxonomy_NN of_IN changes_NNS for_IN XML_NN schema_NN evolution_NN ._.
+It_PRP examines_VBZ the_DT impact_NN of_IN those_DT changes_NNS on_IN schema_NN validation_NN and_CC query_NN evaluation_NN ._.
+Based_VBN on_IN that_DT study_NN ,_, it_PRP proposes_VBZ guidelines_NNS for_IN XML_NN schema_NN evolution_NN and_CC for_IN writing_VBG queries_NNS in_IN such_PDT a_DT way_NN that_IN they_PRP continue_VBP to_TO operate_VB as_IN expected_VBN across_IN evolving_VBG schemas_NNS ._.

@@ -1,0 +1,5 @@
+SRing_NN :_: a_DT structured_JJ non_JJ dht_NN p2p_NN overlay_NN supporting_VBG string_NN range_NN queries_NNS
+This_DT paper_NN presents_VBZ SRing_NN ,_, a_DT structured_JJ non_JJ DHT_NN P2P_NN overlay_NN that_WDT efficiently_RB supports_VBZ exact_NN and_CC range_NN queries_NNS on_IN multiple_JJ attribute_NN values_NNS ._.
+In_IN SRing_NN ,_, all_DT attribute_NN values_NNS are_VBP interpreted_VBN as_IN strings_NNS formed_VBN by_IN a_DT base_NN alphabet_NN and_CC are_VBP published_VBN in_IN the_DT lexicographical_JJ order_NN ._.
+Two_CD virtual_JJ rings_NNS are_VBP built_VBN :_: N-ring_NN is_VBZ built_VBN in_IN a_DT skip-list_JJ way_NN for_IN range_NN partition_NN and_CC queries_NNS ;_: D-ring_NN is_VBZ built_VBN in_IN a_DT small-world_JJ way_NN for_IN the_DT construction_NN of_IN N-ring_NN ._.
+A_DT leave-and-join_JJ based_JJ load_NN balancing_NN method_NN is_VBZ used_VBN to_TO balance_VB range_NN overload_NN in_IN the_DT network_NN with_IN heterogeneous_JJ nodes_NNS ._.

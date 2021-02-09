@@ -1,0 +1,8 @@
+A_DT human-computer_JJ cooperative_JJ system_NN for_IN effective_JJ high_JJ dimensional_JJ clustering_NN
+High_JJ dimensional_JJ data_NNS has_VBZ always_RB been_VBN a_DT challenge_NN for_IN clustering_NN algorithms_NNS because_IN of_IN the_DT inherent_JJ sparsity_NN of_IN the_DT points_NNS ._.
+Therefore_RB ,_, techniques_NNS have_VBP recently_RB been_VBN proposed_VBN to_TO find_VB clusters_NNS in_IN hidden_JJ subspaces_NNS of_IN the_DT data_NNS ._.
+However_RB ,_, since_IN the_DT behavior_NN of_IN the_DT data_NNS may_MD vary_VB considerably_RB in_IN different_JJ subspaces_NNS ,_, it_PRP is_VBZ often_RB difficult_JJ to_TO define_VB the_DT notion_NN of_IN a_DT cluster_NN with_IN the_DT use_NN of_IN simple_JJ mathematical_JJ formalizations_NNS ._.
+In_IN fact_NN ,_, the_DT meaningfulness_NN and_CC definition_NN of_IN a_DT cluster_NN is_VBZ best_RB characterized_VBN with_IN the_DT use_NN of_IN human_JJ intuition_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT system_NN which_WDT performs_VBZ high_JJ dimensional_JJ clustering_NN by_IN effective_JJ cooperation_NN between_IN the_DT human_JJ and_CC the_DT computer_NN ._.
+The_DT complex_JJ task_NN of_IN cluster_NN creation_NN is_VBZ accomplished_VBN by_IN a_DT combination_NN of_IN human_JJ intuition_NN and_CC the_DT computational_JJ support_NN provided_VBN by_IN the_DT computer_NN ._.
+The_DT result_NN is_VBZ a_DT system_NN which_WDT leverages_VBZ the_DT best_JJS abilities_NNS of_IN both_CC the_DT human_JJ and_CC the_DT computer_NN in_IN order_NN to_TO create_VB very_RB meaningful_JJ sets_NNS of_IN clusters_NNS in_IN high_JJ dimensionality_NN ._.

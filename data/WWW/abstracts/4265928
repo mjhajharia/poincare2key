@@ -1,0 +1,9 @@
+Efficient_JJ search_NN engine_NN measurements_NNS
+We_PRP address_VBP the_DT problem_NN of_IN measuring_VBG global_JJ quality_NN met-rics_NNS of_IN search_NN engines_NNS ,_, like_IN corpus_NN size_NN ,_, index_NN freshness_NN ,_, anddensity_NN of_IN duplicates_NNS in_IN the_DT corpus_NN ._.
+The_DT recently_RB proposedestimators_NNS for_IN such_JJ metrics_NNS -LRB-_-LRB- 2_CD ,_, 6_CD -RRB-_-RRB- suffer_VBP from_IN significant_JJ biasand\/or_JJ poor_JJ performance_NN ,_, due_JJ to_TO inaccurate_JJ approximationof_NN the_DT so_RB called_VBN ._.
+document_NN degrees_NNS ._. ._.
+We_PRP present_VBP two_CD new_JJ estimators_NNS that_WDT are_VBP able_JJ to_TO overcomethe_VB bias_NN introduced_VBN by_IN approximate_JJ degrees_NNS ._.
+Our_PRP$ estimatorsare_NN based_VBN on_IN a_DT careful_JJ implementation_NN of_IN an_DT approximateimportance_NN sampling_NN procedure_NN ._.
+Comprehensive_JJ theoreti-cal_JJ and_CC empirical_JJ analysis_NN of_IN the_DT estimators_NNS demonstratesthat_VBP they_PRP have_VBP essentially_RB no_DT bias_NN even_RB in_IN situations_NNS wheredocument_NN degrees_NNS are_VBP poorly_RB approximated_VBN ._.
+Building_NN on_IN an_DT idea_NN from_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, we_PRP discuss_VBP Rao_NNP Blackwelliza-tion_NN as_IN a_DT generic_JJ method_NN for_IN reducing_VBG variance_NN in_IN searchengine_NN estimators_NNS ._.
+We_PRP show_VBP that_IN Rao-Blackwellizing_JJ ourestimators_NNS results_VBZ in_IN significant_JJ performance_NN improvements_NNS ,_, while_IN not_RB compromising_VBG accuracy_NN ._.

@@ -1,0 +1,5 @@
+Template_NN detection_NN via_IN data_NNS mining_NN and_CC its_PRP$ applications_NNS
+We_PRP formulate_VBP and_CC propose_VBP the_DT template_NN detection_NN problem_NN ,_, and_CC suggest_VBP a_DT practical_JJ solution_NN for_IN it_PRP based_VBN on_IN counting_VBG frequent_JJ item_NN sets_NNS ._.
+We_PRP show_VBP that_IN the_DT use_NN of_IN templates_NNS is_VBZ pervasive_JJ on_IN the_DT web_NN ._.
+We_PRP describe_VBP three_CD principles_NNS ,_, which_WDT characterize_VBP the_DT assumptions_NNS made_VBN by_IN hypertext_NN information_NN retrieval_NN -LRB-_-LRB- IR_NN -RRB-_-RRB- and_CC data_NN mining_NN -LRB-_-LRB- DM_NN -RRB-_-RRB- systems_NNS ,_, and_CC show_VBP that_IN templates_NNS are_VBP a_DT major_JJ source_NN of_IN violation_NN of_IN these_DT principles_NNS ._.
+As_IN a_DT consequence_NN ,_, basic_JJ ``_`` pure_JJ ''_'' implementations_NNS of_IN simple_JJ search_NN algorithms_NNS coupled_VBN with_IN template_NN detection_NN and_CC elimination_NN show_VBP surprising_JJ increases_NNS in_IN precision_NN at_IN all_DT levels_NNS of_IN recall_NN ._.

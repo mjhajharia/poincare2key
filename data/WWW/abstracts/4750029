@@ -1,0 +1,9 @@
+The_DT powerrank_NN web_NN link_NN analysis_NN algorithm_NN
+The_DT web_NN graph_NN follows_VBZ the_DT power_NN law_NN distribution_NN and_CC has_VBZ a_DT hierarchy_NN structure_NN ._.
+But_CC neither_CC the_DT PageRank_NNP algorithm_NN nor_CC any_DT of_IN its_PRP$ improvements_NNS leverage_NN these_DT attributes_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ link_NN analysis_NN algorithm_NN ``_`` the_DT PowerRank_NNP algorithm_NN ''_'' ,_, which_WDT makes_VBZ use_NN of_IN the_DT power_NN law_NN distribution_NN attribute_NN and_CC the_DT hierarchy_NN structure_NN of_IN the_DT web_NN graph_NN ._.
+The_DT algorithm_NN consists_VBZ two_CD parts_NNS ._.
+In_IN the_DT first_JJ part_NN ,_, special_JJ treatment_NN is_VBZ applied_VBN to_TO the_DT web_NN pages_NNS with_IN low_JJ ``_`` importance_NN ''_'' score_NN ._.
+In_IN the_DT second_JJ part_NN ,_, the_DT global_JJ ``_`` importance_NN ''_'' score_NN for_IN each_DT web_NN page_NN is_VBZ obtained_VBN by_IN combining_VBG those_DT scores_NNS together_RB ._.
+Our_PRP$ experimental_JJ results_NNS show_VBP that_IN :_: 1_LS -RRB-_-RRB- The_DT PowerRank_NN algorithm_NN computes_VBZ 10_CD %_NN -30_CD %_NN faster_RBR than_IN PageRank_NNP algorithm_NN ._.
+2_LS -RRB-_-RRB- Top_JJ web_NN pages_NNS in_IN PowerRank_NNP algorithm_NN remain_VBP similar_JJ to_TO that_DT of_IN the_DT PageRank_NNP algorithm_NN ._.

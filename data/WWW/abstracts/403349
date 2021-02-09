@@ -1,0 +1,7 @@
+Using_VBG urls_NNS and_CC table_NN layout_NN for_IN web_NN classification_NN tasks_NNS
+We_PRP propose_VBP new_JJ features_NNS and_CC algorithms_NNS for_IN automating_VBG Web-page_JJ classification_NN tasks_NNS such_JJ as_IN content_NN recommendation_NN and_CC ad_NN blocking_NN ._.
+We_PRP show_VBP that_IN the_DT automated_JJ classification_NN of_IN Web_NN pages_NNS can_MD be_VB much_RB improved_VBN if_IN ,_, instead_RB of_IN looking_VBG at_IN their_PRP$ textual_JJ content_NN ,_, we_PRP consider_VBP each_DT links_NN 's_POS URL_NN and_CC the_DT visual_JJ placement_NN of_IN those_DT links_NNS on_IN a_DT referring_VBG page_NN ._.
+These_DT features_NNS are_VBP unusual_JJ :_: rather_RB than_IN being_VBG scalar_JJ measurements_NNS like_IN word_NN counts_NNS they_PRP are_VBP tree_NN structured_JJ --_: describing_VBG the_DT position_NN of_IN the_DT item_NN in_IN a_DT tree_NN ._.
+We_PRP develop_VBP a_DT model_NN and_CC algorithm_NN for_IN machine_NN learning_NN using_VBG such_JJ tree-structured_JJ features_NNS ._.
+We_PRP apply_VBP our_PRP$ methods_NNS in_IN automated_JJ tools_NNS for_IN recognizing_VBG and_CC blocking_VBG Web_NN advertisements_NNS and_CC for_IN recommending_VBG ``_`` interesting_JJ ''_'' news_NN stories_NNS to_TO a_DT reader_NN ._.
+Experiments_NNS show_VBP that_IN our_PRP$ algorithms_NNS are_VBP both_DT faster_JJR and_CC more_RBR accurate_JJ than_IN those_DT based_VBN on_IN the_DT text_NN content_NN of_IN Web_NN documents_NNS ._.

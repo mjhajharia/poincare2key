@@ -1,0 +1,6 @@
+Understanding_VBG the_DT function_NN of_IN web_NN elements_NNS for_IN mobile_JJ content_NN delivery_NN using_VBG random_JJ walk_NN models_NNS
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP a_DT method_NN for_IN understanding_VBG the_DT function_NN of_IN web_NN elements_NNS ._.
+It_PRP classifies_VBZ web_NN elements_NNS into_IN five_CD functional_JJ categories_NNS :_: Content_NN -LRB-_-LRB- C_NN -RRB-_-RRB- ,_, Related_NNP Links_NNP -LRB-_-LRB- R_NN -RRB-_-RRB- ,_, Navigation_NNP and_CC Support_NN -LRB-_-LRB- N_NN -RRB-_-RRB- ,_, Advertisement_NN -LRB-_-LRB- A_NN -RRB-_-RRB- and_CC Form_NN -LRB-_-LRB- F_NN -RRB-_-RRB- ._.
+We_PRP construct_VBP five_CD graphs_NNS for_IN a_DT web_NN page_NN ,_, and_CC each_DT graph_NN is_VBZ designed_VBN such_JJ that_IN most_JJS of_IN the_DT probability_NN mass_NN of_IN the_DT stationary_JJ distribution_NN is_VBZ concentrated_VBN in_IN nodes_NNS belong_VBP to_TO its_PRP$ corresponding_JJ category_NN ._.
+We_PRP perform_VBP random_JJ walks_VBZ on_IN these_DT graphs_NNS until_IN convergence_NN and_CC classify_VB based_VBN on_IN its_PRP$ rank_NN value_NN in_IN different_JJ graphs_NNS ._.
+Our_PRP$ experiment_NN shows_VBZ that_IN the_DT new_JJ method_NN performed_VBN very_RB well_RB comparing_VBG to_TO basic_JJ machine_NN learning_NN methods_NNS ._.

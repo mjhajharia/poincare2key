@@ -1,0 +1,11 @@
+Model_NNP order_NN selection_NN for_IN boolean_JJ matrix_NN factorization_NN
+Matrix_NNP factorizations_NNS --_: where_WRB a_DT given_VBN data_NN matrix_NN is_VBZ approximated_VBN by_IN a_DT product_NN of_IN two_CD or_CC more_JJR factor_NN matrices_NNS --_: are_VBP powerful_JJ data_NNS mining_NN tools_NNS ._.
+Among_IN other_JJ tasks_NNS ,_, matrix_NN factorizations_NNS are_VBP often_RB used_VBN to_TO separate_VB global_JJ structure_NN from_IN noise_NN ._.
+This_DT ,_, however_RB ,_, requires_VBZ solving_VBG the_DT `_`` model_NN order_NN selection_NN problem_NN '_'' of_IN determining_VBG where_WRB fine-grained_JJ structure_NN stops_NNS ,_, and_CC noise_NN starts_NNS ,_, i.e._FW ,_, what_WP is_VBZ the_DT proper_JJ size_NN of_IN the_DT factor_NN matrices_NNS ._.
+Boolean_JJ matrix_NN factorization_NN -LRB-_-LRB- BMF_NN -RRB-_-RRB- --_: where_WRB data_NNS ,_, factors_NNS ,_, and_CC matrix_NN product_NN are_VBP Boolean_NNP --_: has_VBZ received_VBN increased_VBN attention_NN from_IN the_DT data_NNS mining_NN community_NN in_IN recent_JJ years_NNS ._.
+The_DT technique_NN has_VBZ desirable_JJ properties_NNS ,_, such_JJ as_IN high_JJ interpretability_NN and_CC natural_JJ sparsity_NN ._.
+But_CC so_RB far_RB no_DT method_NN for_IN selecting_VBG the_DT correct_JJ model_NN order_NN for_IN BMF_NNP has_VBZ been_VBN available_JJ ._.
+In_IN this_DT paper_NN we_PRP propose_VBP to_TO use_VB the_DT Minimum_NNP Description_NN Length_NN -LRB-_-LRB- MDL_NN -RRB-_-RRB- principle_NN for_IN this_DT task_NN ._.
+Besides_IN solving_VBG the_DT problem_NN ,_, this_DT well-founded_JJ approach_NN has_VBZ numerous_JJ benefits_NNS ,_, e.g._FW ,_, it_PRP is_VBZ automatic_JJ ,_, does_VBZ not_RB require_VB a_DT likelihood_NN function_NN ,_, is_VBZ fast_JJ ,_, and_CC ,_, as_IN experiments_NNS show_VBP ,_, is_VBZ highly_RB accurate_JJ ._.
+We_PRP formulate_VBP the_DT description_NN length_NN function_NN for_IN BMF_NN in_IN general_JJ --_: making_VBG it_PRP applicable_JJ for_IN any_DT BMF_NNP algorithm_NN ._.
+We_PRP extend_VBP an_DT existing_VBG algorithm_NN for_IN BMF_NNP to_TO use_VB MDL_NNP to_TO identify_VB the_DT best_JJS Boolean_JJ matrix_NN factorization_NN ,_, analyze_VBP the_DT complexity_NN of_IN the_DT problem_NN ,_, and_CC perform_VB an_DT extensive_JJ experimental_JJ evaluation_NN to_TO study_VB its_PRP$ behavior_NN ._.

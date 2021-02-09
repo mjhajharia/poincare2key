@@ -1,0 +1,6 @@
+Ontalk_NNP :_: ontology-based_JJ personal_JJ document_NN management_NN system_NN
+In_IN this_DT paper_NN ,_, we_PRP present_VBP our_PRP$ development_NN of_IN a_DT document_NN management_NN and_CC retrieval_NN tool_NN ,_, which_WDT is_VBZ named_VBN Ontalk_NNP ._.
+Our_PRP$ system_NN provides_VBZ a_DT semi-automatic_JJ metadata_NN generator_NN and_CC an_DT ontology-based_JJ search_NN engine_NN for_IN electronic_JJ documents_NNS ._.
+Ontalk_NNP can_MD create_VB or_CC import_VB various_JJ ontologies_NNS in_IN RDFS_NN or_CC OWL_NN for_IN describing_VBG the_DT metadata_NN ._.
+Our_PRP$ system_NN that_WDT is_VBZ built_VBN upon_IN ._.
+NET_NN technology_NN is_VBZ easily_RB communicated_VBN with_IN or_CC flexibly_RB plugged_VBN into_IN many_JJ different_JJ programs_NNS ._.

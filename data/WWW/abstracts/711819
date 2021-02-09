@@ -1,0 +1,5 @@
+Distribution_NN of_IN relevant_JJ documents_NNS in_IN domain-level_JJ aggregates_NNS for_IN topic_NN distillation_NN
+In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT distribution_NN of_IN relevant_JJ documents_NNS in_IN aggregates_NNS ,_, formed_VBN by_IN grouping_VBG the_DT retrieved_VBN documents_NNS according_VBG to_TO their_PRP$ domain_NN ._.
+For_IN each_DT aggregate_NN ,_, we_PRP take_VBP into_IN account_NN its_PRP$ size_NN ,_, and_CC a_DT measure_NN of_IN the_DT correlation_NN between_IN its_PRP$ incoming_JJ and_CC outgoing_JJ hyperlinks_NNS ._.
+We_PRP report_VBP on_IN a_DT preliminary_JJ experiment_NN with_IN two_CD TREC_NN topic_NN distillation_NN tasks_NNS ,_, where_WRB we_PRP find_VBP that_IN larger_JJR aggregates_NNS ,_, or_CC those_DT aggregates_NNS with_IN correlated_JJ hyperlinks_NNS ,_, are_VBP more_RBR likely_JJ to_TO contain_VB relevant_JJ documents_NNS ._.
+This_DT result_NN shows_VBZ that_IN the_DT distribution_NN of_IN domain-level_JJ aggregates_NNS is_VBZ potentially_RB useful_JJ for_IN finding_VBG relevant_JJ documents_NNS ._.

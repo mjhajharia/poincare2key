@@ -1,0 +1,6 @@
+Harnessing_VBG the_DT wisdom_NN of_IN crowds_NNS :_: video_NN event_NN detection_NN based_VBN on_IN synchronous_JJ comments_NNS
+With_IN the_DT recent_JJ explosive_JJ growth_NN of_IN the_DT number_NN of_IN videos_NNS on_IN the_DT Web_NN ,_, it_PRP becomes_VBZ more_RBR important_JJ to_TO facilitate_VB users_NNS '_POS demand_NN for_IN locating_VBG their_PRP$ preferred_JJ event_NN clips_NNS in_IN the_DT lengthy_JJ and_CC voluminous_JJ programs_NNS ._.
+Although_IN there_EX has_VBZ been_VBN a_DT great_JJ deal_NN of_IN study_NN on_IN generic_JJ event_NN detection_NN in_IN recent_JJ years_NNS ,_, the_DT performance_NN of_IN existing_VBG approaches_NNS is_VBZ still_RB far_RB from_IN satisfactory_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT integrated_JJ framework_NN for_IN general_JJ event_NN detection_NN ._.
+The_DT key_JJ idea_NN is_VBZ that_IN we_PRP utilize_VBP the_DT synchronous_JJ comments_NNS to_TO segment_NN the_DT video_NN into_IN clips_NNS with_IN semantic_JJ text_NN analysis_NN ,_, while_IN taking_VBG into_IN account_NN the_DT relationship_NN between_IN the_DT users_NNS who_WP write_VBP the_DT comments_NNS ._.
+By_IN borrowing_VBG the_DT power_NN of_IN ``_`` the_DT wisdom_NN of_IN crowds_NNS ''_'' ,_, we_PRP experimentally_RB demonstrate_VBP that_IN our_PRP$ approach_NN can_MD effectively_RB detect_VB video_JJ events_NNS ._.

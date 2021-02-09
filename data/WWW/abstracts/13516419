@@ -1,0 +1,6 @@
+Bucefalo_NNP :_: a_DT tool_NN for_IN intelligent_JJ search_NN and_CC filtering_VBG for_IN web-based_JJ personal_JJ health_NN records_NNS
+In_IN this_DT poster_NN ,_, a_DT tool_NN named_VBN BUCEFALO_NNP is_VBZ presented_VBN ._.
+This_DT tool_NN is_VBZ specially_RB designed_VBN to_TO improve_VB the_DT information_NN retrieval_NN tasks_NNS in_IN web-based_JJ Personal_NNP Health_NNP Records_NNP -LRB-_-LRB- PHR_NNP -RRB-_-RRB- ._.
+This_DT tool_NN implements_VBZ semantic_JJ and_CC multilingual_JJ query_JJ expansion_NN techniques_NNS and_CC information_NN filtering_VBG algorithms_NNS in_IN order_NN to_TO help_VB users_NNS find_VB the_DT most_RBS valuable_JJ information_NN about_IN a_DT specific_JJ clinical_JJ case_NN ._.
+The_DT filtering_VBG model_NN is_VBZ based_VBN on_IN fuzzy_JJ prototypes_NNS based_VBN filtering_VBG ,_, data_NNS quality_NN measures_NNS ,_, user_NN profiles_NNS and_CC healthcare_NN ontologies_NNS ._.
+The_DT first_JJ experimental_JJ results_NNS illustrate_VBP the_DT feasibility_NN of_IN this_DT tool_NN ._.

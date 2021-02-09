@@ -1,0 +1,14 @@
+Improving_NN web_NN performance_NN by_IN client_NN characterization_NN driven_JJ server_NN adaptation_NN
+We_PRP categorize_VBP the_DT set_NN of_IN clients_NNS communicating_VBG with_IN a_DT server_NN on_IN the_DT Web_NN based_VBN on_IN information_NN that_WDT can_MD be_VB determined_VBN by_IN the_DT server_NN ._.
+The_DT Web_NN server_NN uses_VBZ the_DT information_NN to_TO direct_VB tailored_VBN actions_NNS ._.
+Users_NNS with_IN poor_JJ connectivity_NN may_MD choose_VB not_RB to_TO stay_VB at_IN a_DT Web_NN site_NN if_IN it_PRP takes_VBZ a_DT long_JJ time_NN to_TO receive_VB a_DT page_NN ,_, even_RB if_IN the_DT Web_NN server_NN at_IN the_DT site_NN is_VBZ not_RB the_DT bottleneck_NN ._.
+Retaining_VBG such_JJ clients_NNS may_MD be_VB of_IN interest_NN to_TO a_DT Web_NN site_NN ._.
+Better_NNP connected_VBD clients_NNS can_MD receive_VB enhanced_JJ representations_NNS of_IN Web_NN pages_NNS ,_, such_JJ as_IN with_IN higher_JJR quality_NN images_NNS ._.
+We_PRP explore_VBP a_DT variety_NN of_IN considerations_NNS that_WDT could_MD be_VB used_VBN by_IN a_DT Web_NN server_NN in_IN characterizing_VBG a_DT client_NN ._.
+Once_RB a_DT client_NN is_VBZ characterized_VBN as_IN poor_JJ or_CC rich_JJ ,_, the_DT server_NN can_MD deliver_VB altered_JJ content_NN ,_, alter_VB how_WRB content_NN is_VBZ delivered_VBN ,_, alter_VB policy_NN and_CC caching_NN decisions_NNS ,_, or_CC decide_VB when_WRB to_TO redirect_VB the_DT client_NN to_TO a_DT mirror_NN site_NN ._.
+We_PRP also_RB use_VBP network-aware_JJ client_NN clustering_NN techniques_NNS to_TO provide_VB a_DT coarser_JJR level_NN of_IN client_NN categorization_NN and_CC use_VB it_PRP to_TO categorize_VB subsequent_JJ clients_NNS from_IN that_DT cluster_NN for_IN which_WDT a_DT client-specific_JJ categorization_NN is_VBZ not_RB available_JJ ._.
+Our_PRP$ results_NNS for_IN client_NN characterization_NN and_CC applicable_JJ server_NN actions_NNS are_VBP derived_VBN from_IN real_JJ ,_, recent_JJ ,_, and_CC diverse_JJ set_NN of_IN Web_NN server_NN logs_NNS ._.
+Our_PRP$ experiments_NNS demonstrate_VBP that_IN a_DT relatively_RB simple_JJ characterization_NN policy_NN can_MD classify_VB poor_JJ clients_NNS such_JJ that_IN these_DT clients_NNS subsequently_RB make_VBP the_DT majority_NN of_IN badly_RB performing_VBG requests_NNS to_TO a_DT Web_NN server_NN ._.
+This_DT policy_NN is_VBZ also_RB stable_JJ in_IN terms_NNS of_IN clients_NNS staying_VBG in_IN the_DT same_JJ class_NN for_IN a_DT large_JJ portion_NN of_IN the_DT analysis_NN period_NN ._.
+Client_NN clustering_NN can_MD significantly_RB help_VB in_IN initially_RB classifying_VBG clients_NNS for_IN which_WDT no_DT previous_JJ information_NN about_IN the_DT client_NN is_VBZ known_VBN ._.
+We_PRP also_RB show_VBP that_IN different_JJ server_NN actions_NNS can_MD be_VB applied_VBN to_TO a_DT significant_JJ number_NN of_IN request_NN sequences_NNS with_IN poor_JJ performance_NN ._.

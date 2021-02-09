@@ -1,0 +1,7 @@
+Combining_VBG anchor_NN text_NN categorization_NN and_CC graph_NN analysis_NN for_IN paid_VBN link_NN detection_NN
+In_IN order_NN to_TO artificially_RB boost_VB the_DT rank_NN of_IN commercial_JJ pages_NNS in_IN search_NN engine_NN results_NNS ,_, search_NN engine_NN optimizers_NNS pay_VBP for_IN links_NNS to_TO these_DT pages_NNS on_IN other_JJ websites_NNS ._.
+Identifying_VBG paid_VBN links_NNS is_VBZ important_JJ for_IN a_DT web_NN search_NN engine_NN to_TO produce_VB highly_RB relevant_JJ results_NNS ._.
+In_IN this_DT paper_NN we_PRP introduce_VBP a_DT novel_JJ method_NN of_IN identifying_VBG such_JJ links_NNS ._.
+We_PRP start_VBP with_IN training_NN a_DT classifier_NN of_IN anchor_NN text_NN topics_NNS and_CC analyzing_VBG web_NN pages_NNS for_IN diversity_NN of_IN their_PRP$ outgoing_JJ commercial_JJ links_NNS ._.
+Then_RB we_PRP use_VBP this_DT information_NN and_CC analyze_VB link_NN graph_NN of_IN the_DT Russian_JJ Web_NN to_TO find_VB pages_NNS that_WDT sell_VBP links_NNS and_CC sites_NNS that_WDT buy_VBP links_NNS and_CC to_TO identify_VB the_DT paid_VBN links_NNS ._.
+Testing_VBG on_IN manually_RB marked_JJ samples_NNS showed_VBD high_JJ efficiency_NN of_IN the_DT algorithm_NN ._.

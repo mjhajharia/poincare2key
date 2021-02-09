@@ -1,0 +1,7 @@
+Algorithms_NNS for_IN time_NN series_NN knowledge_NN mining_NN
+Temporal_JJ patterns_NNS composed_VBN of_IN symbolic_JJ intervals_NNS are_VBP commonly_RB formulated_VBN with_IN Allen_NNP 's_POS interval_JJ relations_NNS originating_VBG in_IN temporal_JJ reasoning_NN ._.
+This_DT representation_NN has_VBZ severe_JJ disadvantages_NNS for_IN knowledge_NN discovery_NN ._.
+The_DT Time_NNP Series_NNP Knowledge_NNP Representation_NN -LRB-_-LRB- TSKR_NN -RRB-_-RRB- is_VBZ a_DT new_JJ hierarchical_JJ language_NN for_IN interval_JJ patterns_NNS expressing_VBG the_DT temporal_JJ concepts_NNS of_IN coincidence_NN and_CC partial_JJ order_NN ._.
+We_PRP present_VBP effective_JJ and_CC efficient_JJ mining_NN algorithms_NNS for_IN such_JJ patterns_NNS based_VBN on_IN itemset_NN techniques_NNS ._.
+A_DT novel_JJ form_NN of_IN search_NN space_NN pruning_NN effectively_RB reduces_VBZ the_DT size_NN of_IN the_DT mining_NN result_NN to_TO ease_VB interpretation_NN and_CC speed_VB up_RP the_DT algorithms_NNS ._.
+On_IN a_DT real_JJ data_NN set_VBD a_DT concise_JJ set_NN of_IN TSKR_NN patterns_NNS can_MD explain_VB the_DT underlying_VBG temporal_JJ phenomena_NNS ,_, whereas_IN the_DT patterns_NNS found_VBN with_IN Allen_NNP 's_POS relations_NNS are_VBP far_RB more_RBR numerous_JJ yet_RB only_RB explain_VB fragments_NNS of_IN the_DT data_NNS ._.

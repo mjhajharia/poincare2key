@@ -1,0 +1,6 @@
+A_DT framework_NN for_IN XML_NN data_NNS streams_NNS history_NN checking_NN and_CC monitoring_NN
+The_DT need_NN of_IN formal_JJ verification_NN is_VBZ a_DT problem_NN that_WDT involves_VBZ all_PDT the_DT fields_NNS in_IN which_WDT sensible_JJ data_NNS are_VBP managed_VBN ._.
+In_IN this_DT context_NN the_DT verification_NN of_IN data_NNS streams_NNS became_VBD a_DT fundamental_JJ task_NN ._.
+The_DT purpose_NN of_IN this_DT paper_NN is_VBZ to_TO present_VB a_DT framework_NN ,_, based_VBN on_IN the_DT model_NN checker_NN SPIN_NN ,_, for_IN the_DT verification_NN of_IN data_NNS streams_NNS ._.
+The_DT proposed_VBN method_NN uses_VBZ a_DT linear_JJ temporal_JJ logic_NN ,_, called_VBN TRIO_NN ,_, to_TO describe_VB data_NNS constraints_NNS and_CC properties_NNS ._.
+Constraints_NNS are_VBP automatically_RB translated_VBN into_IN Promela_NNP ,_, the_DT input_NN language_NN of_IN the_DT model_NN checker_NN SPIN_NN in_IN order_NN to_TO verify_VB them_PRP ._.

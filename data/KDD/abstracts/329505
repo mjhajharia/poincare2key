@@ -1,0 +1,10 @@
+Mining_NN quantitative_JJ correlated_JJ patterns_NNS using_VBG an_DT information-theoretic_JJ approach_NN
+Existing_VBG research_NN on_IN mining_NN quantitative_JJ databases_NNS mainly_RB focuses_VBZ on_IN mining_NN associations_NNS ._.
+However_RB ,_, mining_NN associations_NNS is_VBZ too_RB expensive_JJ to_TO be_VB practical_JJ in_IN many_JJ cases_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD mining_NN correlations_NNS from_IN quantitative_JJ databases_NNS and_CC show_VBP that_IN it_PRP is_VBZ a_DT more_RBR effective_JJ approach_NN than_IN mining_NN associations_NNS ._.
+We_PRP propose_VBP a_DT new_JJ notion_NN of_IN Quantitative_JJ Correlated_JJ Patterns_NN -LRB-_-LRB- QCPs_NNS -RRB-_-RRB- ,_, which_WDT is_VBZ founded_VBN on_IN two_CD formal_JJ concepts_NNS ,_, mutual_JJ information_NN and_CC all-confidence_NN ._.
+We_PRP first_RB devise_VBP a_DT normalization_NN on_IN mutual_JJ information_NN and_CC apply_VB it_PRP to_TO QCP_NNP mining_NN to_TO capture_VB the_DT dependency_NN between_IN the_DT attributes_NNS ._.
+We_PRP further_RB adopt_VBP all-confidence_NN as_IN a_DT quality_NN measure_NN to_TO control_NN ,_, at_IN a_DT finer_NN granularity_NN ,_, the_DT dependency_NN between_IN the_DT attributes_NNS with_IN specific_JJ quantitative_JJ intervals_NNS ._.
+We_PRP also_RB propose_VBP a_DT supervised_JJ method_NN to_TO combine_VB the_DT consecutive_JJ intervals_NNS of_IN the_DT quantitative_JJ attributes_NNS based_VBN on_IN mutual_JJ information_NN ,_, such_JJ that_IN the_DT interval_NN combining_VBG is_VBZ guided_VBN by_IN the_DT dependency_NN between_IN the_DT attributes_NNS ._.
+We_PRP develop_VBP an_DT algorithm_NN ,_, QCoMine_NN ,_, to_TO efficiently_RB mine_VB QCPs_NNS by_IN utilizing_VBG normalized_VBN mutual_JJ information_NN and_CC all-confidence_NN to_TO perform_VB a_DT two-level_JJ pruning_NN ._.
+Our_PRP$ experiments_NNS verify_VBP the_DT efficiency_NN of_IN QCoMine_NN and_CC the_DT quality_NN of_IN the_DT QCPs_NNS ._.

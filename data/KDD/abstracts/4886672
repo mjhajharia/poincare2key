@@ -1,0 +1,11 @@
+Mining_NN for_IN misconfigured_VBN machines_NNS in_IN grid_NN systems_NNS
+Grid_NNP systems_NNS are_VBP proving_VBG increasingly_RB useful_JJ for_IN managing_VBG the_DT batch_NN computing_NN jobs_NNS of_IN organizations_NNS ._.
+One_CD well-known_JJ example_NN is_VBZ Intel_NNP ,_, whose_WP$ internally_RB developed_VBN NetBatch_NNP system_NN manages_VBZ tens_NNS of_IN thousands_NNS of_IN machines_NNS ._.
+The_DT size_NN ,_, heterogeneity_NN ,_, and_CC complexity_NN of_IN grid_NN systems_NNS make_VBP them_PRP very_RB difficult_JJ ,_, however_RB ,_, to_TO configure_VB ._.
+This_DT often_RB results_VBZ in_IN misconfigured_JJ machines_NNS ,_, which_WDT may_MD adversely_RB affect_VB the_DT entire_JJ system_NN ._.
+We_PRP investigate_VBP a_DT distributed_VBN data_NN mining_NN approach_NN for_IN detection_NN of_IN misconfigured_JJ machines_NNS ._.
+Our_PRP$ Grid_NNP Monitoring_NN System_NN -LRB-_-LRB- GMS_NN -RRB-_-RRB- non-intrusively_RB collects_VBZ data_NNS from_IN all_DT sources_NNS -LRB-_-LRB- log_NN files_NNS ,_, system_NN services_NNS ,_, etc._FW -RRB-_-RRB- available_JJ throughout_IN the_DT grid_NN system_NN ._.
+It_PRP converts_VBZ raw_JJ data_NNS to_TO semantically_RB meaningful_JJ data_NNS and_CC stores_NNS this_DT data_NN on_IN the_DT machine_NN it_PRP was_VBD obtained_VBN from_IN ,_, limiting_VBG incurred_VBN overhead_NN and_CC allowing_VBG scalability_NN ._.
+Afterwards_RB ,_, when_WRB analysis_NN is_VBZ requested_VBN ,_, a_DT distributed_VBN outliers_NNS detection_NN algorithm_NN is_VBZ employed_VBN to_TO identify_VB misconfigured_JJ machines_NNS ._.
+The_DT algorithm_NN itself_PRP is_VBZ implemented_VBN as_IN a_DT recursive_JJ workflow_NN of_IN grid_NN jobs_NNS ._.
+It_PRP is_VBZ especially_RB suited_VBN to_TO grid_NN systems_NNS ,_, in_IN which_WDT the_DT machines_NNS might_MD be_VB unavailable_JJ most_JJS of_IN the_DT time_NN and_CC often_RB fail_VBP altogether_RB ._.

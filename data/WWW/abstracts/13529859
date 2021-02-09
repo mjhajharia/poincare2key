@@ -1,0 +1,6 @@
+Automatically_RB filling_VBG form-based_JJ web_NN interfaces_NNS with_IN free_JJ text_NN inputs_NNS
+On_IN the_DT web_NN of_IN today_NN the_DT most_RBS prevalent_JJ solution_NN for_IN users_NNS to_TO interact_VB with_IN data-intensive_JJ applications_NNS is_VBZ the_DT use_NN of_IN form-based_JJ interfaces_NNS composed_VBN by_IN several_JJ data_NNS input_NN fields_NNS ,_, such_JJ as_IN text_NN boxes_NNS ,_, radio_NN buttons_NNS ,_, pull-down_JJ lists_NNS ,_, check_NN boxes_NNS ,_, etc._FW ._.
+Although_IN these_DT interfaces_NNS are_VBP popular_JJ and_CC effective_JJ ,_, in_IN many_JJ cases_NNS ,_, free_JJ text_NN interfaces_NNS are_VBP preferred_VBN over_IN form-based_JJ ones_NNS ._.
+In_IN this_DT paper_NN we_PRP discuss_VBP the_DT proposal_NN and_CC the_DT implementation_NN of_IN a_DT novel_JJ IR-based_JJ method_NN for_IN using_VBG data_NNS rich_JJ free_JJ text_NN to_TO interact_VB with_IN form-based_JJ interfaces_NNS ._.
+Our_PRP$ solution_NN takes_VBZ a_DT free_JJ text_NN as_IN input_NN ,_, extracts_NNS implicitly_RB data_NNS values_NNS from_IN it_PRP and_CC fills_VBZ appropriate_JJ fields_NNS using_VBG them_PRP ._.
+For_IN this_DT task_NN ,_, we_PRP rely_VBP on_IN values_NNS of_IN previous_JJ submissions_NNS for_IN each_DT field_NN ,_, which_WDT are_VBP freely_RB obtained_VBN from_IN the_DT usage_NN of_IN form-based_JJ interfaces_NNS

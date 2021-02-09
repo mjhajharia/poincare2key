@@ -1,0 +1,10 @@
+Understandable_JJ models_NNS Of_IN music_NN collections_NNS based_VBN on_IN exhaustive_JJ feature_NN generation_NN with_IN temporal_JJ statistics_NNS
+Data_NN mining_NN in_IN large_JJ collections_NNS of_IN polyphonic_JJ music_NN has_VBZ recently_RB received_VBN increasing_VBG interest_NN by_IN companies_NNS along_IN with_IN the_DT advent_NN of_IN commercial_JJ online_JJ distribution_NN of_IN music_NN ._.
+Important_JJ applications_NNS include_VBP the_DT categorization_NN of_IN songs_NNS into_IN genres_NNS and_CC the_DT recommendation_NN of_IN songs_NNS according_VBG to_TO musical_JJ similarity_NN and_CC the_DT customer_NN 's_POS musical_JJ preferences_NNS ._.
+Modeling_NN genre_NN or_CC timbre_NN of_IN polyphonic_JJ music_NN is_VBZ at_IN the_DT core_NN of_IN these_DT tasks_NNS and_CC has_VBZ been_VBN recognized_VBN as_IN a_DT difficult_JJ problem_NN ._.
+Many_JJ audio_JJ features_NNS have_VBP been_VBN proposed_VBN ,_, but_CC they_PRP do_VBP not_RB provide_VB easily_RB understandable_JJ descriptions_NNS of_IN music_NN ._.
+They_PRP do_VBP not_RB explain_VB why_WRB a_DT genre_NN was_VBD chosen_VBN or_CC in_IN which_WDT way_NN one_CD song_NN is_VBZ similar_JJ to_TO another_DT ._.
+We_PRP present_VBP an_DT approach_NN that_WDT combines_VBZ large_JJ scale_NN feature_NN generation_NN with_IN meta_NN learning_VBG techniques_NNS to_TO obtain_VB meaningful_JJ features_NNS for_IN musical_JJ similarity_NN ._.
+We_PRP perform_VBP exhaustive_JJ feature_NN generation_NN based_VBN on_IN temporal_JJ statistics_NNS and_CC train_NN regression_NN models_NNS to_TO summarize_VB a_DT subset_NN of_IN these_DT features_NNS into_IN a_DT single_JJ descriptor_NN of_IN a_DT particular_JJ notion_NN of_IN music_NN ._.
+Using_VBG several_JJ such_JJ models_NNS we_PRP produce_VBP a_DT concise_JJ semantic_JJ description_NN of_IN each_DT song_NN ._.
+Genre_NN classification_NN models_NNS based_VBN on_IN these_DT semantic_JJ features_NNS are_VBP shown_VBN to_TO be_VB better_JJR understandable_JJ and_CC almost_RB as_RB accurate_JJ as_IN traditional_JJ methods_NNS ._.

@@ -1,0 +1,5 @@
+Providing_VBG ranked_VBN relevant_JJ results_NNS for_IN web_NN database_NN queries_NNS
+Often_RB Web_NN database_NN users_NNS experience_NN difficulty_NN in_IN articulating_VBG their_PRP$ needs_NNS using_VBG a_DT precise_JJ query_NN ._.
+Providing_VBG ranked_VBN set_NN of_IN possible_JJ answers_NNS would_MD benefit_VB such_JJ users_NNS ._.
+We_PRP propose_VBP to_TO provide_VB ranked_VBN answers_NNS to_TO user_NN queries_NNS by_IN identifying_VBG a_DT set_NN of_IN queries_NNS from_IN the_DT query_NN log_NN whose_WP$ answers_NNS are_VBP relevant_JJ to_TO the_DT given_VBN user_NN query_NN ._.
+The_DT relevance_NN detection_NN is_VBZ done_VBN using_VBG a_DT domain_NN and_CC end-user_JJ independent_JJ content_NN similarity_NN estimation_NN technique_NN ._.

@@ -1,0 +1,12 @@
+Mining_NN heterogeneous_JJ gene_NN expression_NN data_NNS with_IN time_NN lagged_VBD recurrent_JJ neural_JJ networks_NNS
+Heterogeneous_JJ types_NNS of_IN gene_NN expressions_NNS may_MD provide_VB a_DT better_JJR insight_NN into_IN the_DT biological_JJ role_NN of_IN gene_NN interaction_NN with_IN the_DT environment_NN ,_, disease_NN development_NN and_CC drug_NN effect_NN at_IN the_DT molecular_JJ level_NN ._.
+In_IN this_DT paper_NN for_IN both_DT exploring_VBG and_CC prediction_NN purposes_NNS a_DT Time_NNP Lagged_NNP Recurrent_NNP Neural_NNP Network_NNP with_IN trajectory_JJ learning_NN is_VBZ proposed_VBN for_IN identifying_VBG and_CC classifying_VBG the_DT gene_NN functional_JJ patterns_NNS from_IN the_DT heterogeneous_JJ nonlinear_JJ time_NN series_NN microarray_NN experiments_NNS ._.
+The_DT proposed_VBN procedures_NNS identify_VBP gene_NN functional_JJ patterns_NNS from_IN the_DT dynamics_NNS of_IN a_DT state-trajectory_NN learned_VBN in_IN the_DT heterogeneous_JJ time_NN series_NN and_CC the_DT gradient_NN information_NN over_IN time_NN ._.
+Also_RB ,_, the_DT trajectory_JJ learning_NN with_IN Back-propagation_NN through_IN time_NN algorithm_NN can_MD recognize_VB gene_NN expression_NN patterns_NNS vary_VBP over_IN time_NN ._.
+This_DT may_MD reveal_VB much_RB more_JJR information_NN about_IN the_DT regulatory_JJ network_NN underlying_VBG gene_NN expressions_NNS ._.
+The_DT analyzed_VBN data_NNS were_VBD extracted_VBN from_IN spotted_JJ DNA_NN microarrays_NNS in_IN the_DT budding_JJ yeast_NN expression_NN measurements_NNS ,_, produced_VBN by_IN Eisen_NNP et_FW al._FW ._.
+The_DT gene_NN matrix_NN contained_VBD 79_CD experiments_NNS over_IN a_DT variety_NN of_IN heterogeneous_JJ experiment_NN conditions_NNS ._.
+The_DT number_NN of_IN recognized_VBN gene_NN patterns_NNS in_IN our_PRP$ study_NN ranged_VBD from_IN two_CD to_TO ten_CD and_CC were_VBD divided_VBN into_IN three_CD cases_NNS ._.
+Optimal_JJ network_NN architectures_NNS with_IN different_JJ memory_NN structures_NNS were_VBD selected_VBN based_VBN on_IN Akaike_NNP and_CC Bayesian_JJ information_NN statistical_JJ criteria_NNS using_VBG two-way_JJ factorial_JJ design_NN ._.
+The_DT optimal_JJ model_NN performance_NN was_VBD compared_VBN to_TO other_JJ popular_JJ gene_NN classification_NN algorithms_NNS such_JJ as_IN Nearest_NNP Neighbor_NNP ,_, Support_NN Vector_NNP Machine_NNP ,_, and_CC Self-Organized_NNP Map_NNP ._.
+The_DT reliability_NN of_IN the_DT performance_NN was_VBD verified_VBN with_IN multiple_JJ iterated_JJ runs_NNS ._.

@@ -1,0 +1,6 @@
+Mining_NN reference_NN tables_NNS for_IN automatic_JJ text_NN segmentation_NN
+Automatically_RB segmenting_VBG unstructured_JJ text_NN strings_NNS into_IN structured_JJ records_NNS is_VBZ necessary_JJ for_IN importing_VBG the_DT information_NN contained_VBN in_IN legacy_NN sources_NNS and_CC text_NN collections_NNS into_IN a_DT data_NN warehouse_NN for_IN subsequent_JJ querying_NN ,_, analysis_NN ,_, mining_NN and_CC integration_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP mine_VBP tables_NNS present_JJ in_IN data_NN warehouses_NNS and_CC relational_JJ databases_NNS to_TO develop_VB an_DT automatic_JJ segmentation_NN system_NN ._.
+Thus_RB ,_, we_PRP overcome_VBD limitations_NNS of_IN existing_VBG supervised_JJ text_NN segmentation_NN approaches_NNS ,_, which_WDT require_VBP comprehensive_JJ manually_RB labeled_VBN training_NN data_NNS ._.
+Our_PRP$ segmentation_NN system_NN is_VBZ robust_JJ ,_, accurate_JJ ,_, and_CC efficient_JJ ,_, and_CC requires_VBZ no_DT additional_JJ manual_JJ effort_NN ._.
+Thorough_JJ evaluation_NN on_IN real_JJ datasets_NNS demonstrates_VBZ the_DT robustness_NN and_CC accuracy_NN of_IN our_PRP$ system_NN ,_, with_IN segmentation_NN accuracy_NN exceeding_VBG state_NN of_IN the_DT art_NN supervised_JJ approaches_NNS ._.

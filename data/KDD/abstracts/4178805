@@ -1,0 +1,9 @@
+Dimension_NN induced_VBD clustering_NN
+It_PRP is_VBZ commonly_RB assumed_VBN that_IN high-dimensional_JJ datasets_NNS contain_VBP points_NNS most_JJS of_IN which_WDT are_VBP located_JJ in_IN low-dimensional_JJ manifolds_NNS ._.
+Detection_NN of_IN low-dimensional_JJ clusters_NNS is_VBZ an_DT extremely_RB useful_JJ task_NN for_IN performing_VBG operations_NNS such_JJ as_IN clustering_NN and_CC classification_NN ,_, however_RB ,_, it_PRP is_VBZ a_DT challenging_JJ computational_JJ problem_NN ._.
+In_IN this_DT paper_NN we_PRP study_VBD the_DT problem_NN of_IN finding_VBG subsets_NNS of_IN points_NNS with_IN low_JJ intrinsic_JJ dimensionality_NN ._.
+Our_PRP$ main_JJ contribution_NN is_VBZ to_TO extend_VB the_DT definition_NN of_IN fractal_JJ correlation_NN dimension_NN ,_, which_WDT measures_VBZ average_JJ volume_NN growth_NN rate_NN ,_, in_IN order_NN to_TO estimate_VB the_DT intrinsic_JJ dimensionality_NN of_IN the_DT data_NNS in_IN local_JJ neighborhoods_NNS ._.
+We_PRP provide_VBP a_DT careful_JJ analysis_NN of_IN several_JJ key_JJ examples_NNS in_IN order_NN to_TO demonstrate_VB the_DT properties_NNS of_IN our_PRP$ measure_NN ._.
+Based_VBN on_IN our_PRP$ proposed_VBN measure_NN ,_, we_PRP introduce_VBP a_DT novel_JJ approach_NN to_TO discover_VB clusters_NNS with_IN low_JJ dimensionality_NN ._.
+The_DT resulting_VBG algorithms_NNS extend_VBP previous_JJ density_NN based_VBN measures_NNS ,_, which_WDT have_VBP been_VBN successfully_RB used_VBN for_IN clustering_NN ._.
+We_PRP demonstrate_VBP the_DT effectiveness_NN of_IN our_PRP$ algorithms_NNS for_IN discovering_VBG low-dimensional_JJ m-flats_NNS embedded_VBN in_IN high_JJ dimensional_JJ spaces_NNS ,_, and_CC for_IN detecting_VBG low-rank_JJ sub-matrices_NNS ._.

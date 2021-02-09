@@ -1,0 +1,9 @@
+Mirror_NNP site_NN maintenance_NN based_VBN on_IN evolution_NN associations_NNS of_IN web_NN directories_NNS
+Mirroring_VBG Web_NN sites_NNS is_VBZ a_DT well-known_JJ technique_NN commonly_RB used_VBN in_IN the_DT Web_NN community_NN ._.
+A_DT mirror_NN site_NN should_MD be_VB updated_VBN frequently_RB to_TO ensure_VB that_IN it_PRP reflects_VBZ the_DT content_NN of_IN the_DT original_JJ site_NN ._.
+Existing_VBG mirroring_NN tools_NNS apply_VBP page-level_JJ strategies_NNS to_TO check_VB each_DT page_NN of_IN a_DT site_NN ,_, which_WDT is_VBZ inefficient_JJ and_CC expensive_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ site-level_JJ mirror_NN maintenance_NN strategy_NN ._.
+Our_PRP$ approach_NN studies_NNS the_DT evolution_NN of_IN Web_NN directorystructures_NNS and_CC mines_NNS association_NN rules_NNS between_IN ancestor-descendant_JJ Web_NN directories_NNS ._.
+Discovered_JJ rules_NNS indicate_VBP the_DT evolution_NN correlations_NNS between_IN Web_NN directories_NNS ._.
+Thus_RB ,_, when_WRB maintaining_VBG the_DT mirror_NN of_IN a_DT Web_NN site_NN -LRB-_-LRB- directory_NN -RRB-_-RRB- ,_, we_PRP can_MD optimally_RB skipsubdirectories_NNS which_WDT are_VBP negatively_RB correlated_VBN with_IN it_PRP in_IN undergoing_VBG significant_JJ changes_NNS ._.
+The_DT preliminary_JJ experimental_JJ results_NNS show_VBP that_IN our_PRP$ approach_NN improves_VBZ the_DT efficiency_NN of_IN the_DT mirror_NN maintenance_NN process_NN significantly_RB while_IN sacrificing_VBG slightly_RB in_IN keeping_VBG the_DT ``_`` freshness_NN ''_'' of_IN the_DT mirrors_VBZ ._.

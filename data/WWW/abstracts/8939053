@@ -1,0 +1,10 @@
+Time-based_JJ contextualized-news_JJ browser_NN -LRB-_-LRB- t-cnb_NN -RRB-_-RRB-
+We_PRP propose_VBP a_DT new_JJ way_NN of_IN browsing_VBG contextualized-news_JJ articles_NNS ._.
+Our_PRP$ prototype_NN browser_NN system_NN is_VBZ called_VBN a_DT Time-based_JJ Contextualized-News_JJ Browser_NN -LRB-_-LRB- T-CNB_NN -RRB-_-RRB- ._.
+The_DT T-CNB_NN concurrently_RB and_CC automatically_RB presents_VBZ a_DT series_NN of_IN related_JJ pages_NNS for_IN one_CD news_NN source_NN while_IN browsing_VBG the_DT user-specified_JJ page_NN ._.
+It_PRP extracts_VBZ the_DT past_JJ related_JJ pages_NNS from_IN a_DT user-specified_JJ news_NN articles_NNS on_IN the_DT web_NN ._.
+The_DT related_JJ pages_NNS outline_VBP the_DT progress_NN of_IN user-specified_JJ news_NN articles_NNS ._.
+We_PRP call_VBP the_DT related_JJ pages_NNS `_`` contextual_JJ pages_NNS '_POS ._.
+Using_VBG the_DT T-CNB_NN ,_, a_DT user_NN only_RB needs_VBZ to_TO specify_VB one_CD news_NN article_NN on_IN the_DT web_NN ._.
+The_DT user_NN then_RB automatically_RB receives_VBZ past_JJ related_JJ news_NN articles_NNS ,_, which_WDT provide_VBP a_DT wider_JJR understanding_NN of_IN the_DT topic_NN ._.
+The_DT T-CNB_NN automatically_RB generates_VBZ and_CC presents_VBZ contextualized_VBN news_NN articles_NNS ._.

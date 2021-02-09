@@ -1,0 +1,5 @@
+Gossip_NN based_JJ streaming_NN
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ multicast_JJ streaming_NN protocol_NN foroverlay_NN networks_NNS ,_, called_VBN Gossip_NNP Based_VBN Streaming_NN -LRB-_-LRB- GBS_NN -RRB-_-RRB- ._.
+In_IN GBS_NN ,_, streaming_NN contents_NNS are_VBP not_RB come_VBN from_IN a_DT single_JJ upstream_JJ source_NN ,_, but_CC delivered_VBN from_IN several_JJ sources_NNS to_TO a_DT client_NN ._.
+Though_IN being_VBG similarto_JJ existing_VBG gossip_NN protocols_NNS ,_, the_DT unique_JJ requirements_NNS forstreaming_VBG ,_, such_JJ as_IN continuous_JJ playback_NN ,_, are_VBP addressed_VBN in_IN our_PRP$ design_NN ._.
+Preliminary_JJ results_NNS show_VBP that_IN GBS_NN performs_VBZ much_RB better_JJR indynamic_JJ user_NN environments_NNS ._.

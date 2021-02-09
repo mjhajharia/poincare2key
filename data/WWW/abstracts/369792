@@ -1,0 +1,9 @@
+Decentralized_JJ orchestration_NN of_IN composite_JJ web_NN services_NNS
+Web_NN services_NNS make_VBP information_NN and_CC software_NN available_JJ programmatically_RB via_IN the_DT Internet_NN and_CC may_MD be_VB used_VBN as_IN building_NN blocks_NNS for_IN applications_NNS ._.
+A_DT composite_JJ web_NN service_NN is_VBZ one_CD that_WDT is_VBZ built_VBN using_VBG multiple_JJ component_NN web_NN services_NNS and_CC is_VBZ typically_RB specified_VBN using_VBG a_DT language_NN such_JJ as_IN BPEL4WS_NN or_CC WSIPL_NN ._.
+Once_RB its_PRP$ specification_NN has_VBZ been_VBN developed_VBN ,_, the_DT composite_JJ service_NN may_MD be_VB orchestrated_VBN either_CC in_IN a_DT centralized_VBN or_CC in_IN a_DT decentralized_JJ fashion_NN ._.
+Decentralized_JJ orchestration_NN offers_VBZ performance_NN improvements_NNS in_IN terms_NNS of_IN increased_VBN throughput_NN and_CC scalability_NN and_CC lower_JJR response_NN time_NN ._.
+However_RB ,_, decentralized_JJ orchestration_NN also_RB brings_VBZ additional_JJ complexity_NN to_TO the_DT system_NN in_IN terms_NNS of_IN error_NN recovery_NN and_CC fault_NN handling_NN ._.
+Further_RB ,_, incorrect_JJ design_NN of_IN a_DT decentralized_JJ system_NN can_MD lead_VB to_TO potential_JJ deadlock_NN or_CC non-optimal_JJ usage_NN of_IN system_NN resources_NNS ._.
+This_DT paper_NN investigates_VBZ build_VB time_NN and_CC runtime_NN issues_NNS related_VBN to_TO decentralized_VBN orchestration_NN of_IN composite_JJ web_NN services_NNS ._.
+We_PRP support_VBP our_PRP$ design_NN decisions_NNS with_IN performance_NN results_NNS obtained_VBN on_IN a_DT decentralized_VBN setup_NN using_VBG BPEL4WS_NN to_TO describe_VB the_DT composite_JJ web_NN services_NNS and_CC BPWS4J_NN as_IN the_DT underlying_VBG runtime_NN environment_NN to_TO orchestrate_VB them_PRP ._.

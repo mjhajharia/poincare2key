@@ -1,0 +1,6 @@
+Learning_NNP spatially_RB variant_JJ dissimilarity_NN -LRB-_-LRB- SVaD_NN -RRB-_-RRB- measures_NNS
+Clustering_NN algorithms_NNS typically_RB operate_VBP on_IN a_DT feature_NN vector_NN representation_NN of_IN the_DT data_NNS and_CC find_VB clusters_NNS that_WDT are_VBP compact_JJ with_IN respect_NN to_TO an_DT assumed_JJ -LRB-_-LRB- dis_NN -RRB-_-RRB- similarity_NN measure_NN between_IN the_DT data_NNS points_NNS in_IN feature_NN space_NN ._.
+This_DT makes_VBZ the_DT type_NN of_IN clusters_NNS identified_VBN highly_RB dependent_JJ on_IN the_DT assumed_JJ similarity_NN measure_NN ._.
+Building_NN on_IN recent_JJ work_NN in_IN this_DT area_NN ,_, we_PRP formally_RB define_VBP a_DT class_NN of_IN spatially_RB varying_VBG dissimilarity_NN measures_NNS and_CC propose_VBP algorithms_NNS to_TO learn_VB the_DT dissimilarity_NN measure_NN automatically_RB from_IN the_DT data_NNS ._.
+The_DT idea_NN is_VBZ to_TO identify_VB clusters_NNS that_WDT are_VBP compact_JJ with_IN respect_NN to_TO the_DT unknown_NN spatially_RB varying_VBG dissimilarity_NN measure_NN ._.
+Our_PRP$ experiments_NNS show_VBP that_IN the_DT proposed_VBN algorithms_NNS are_VBP more_RBR stable_JJ and_CC achieve_VB better_JJR accuracy_NN on_IN various_JJ textual_JJ data_NNS sets_NNS when_WRB compared_VBN with_IN similar_JJ algorithms_NNS proposed_VBN in_IN the_DT literature_NN ._.

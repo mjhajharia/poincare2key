@@ -1,0 +1,11 @@
+SyMP_NN :_: an_DT efficient_JJ clustering_NN approach_NN to_TO identify_VB clusters_NNS of_IN arbitrary_JJ shapes_NNS in_IN large_JJ data_NNS sets_NNS
+We_PRP propose_VBP a_DT new_JJ clustering_NN algorithm_NN ,_, called_VBN SyMP_NN ,_, which_WDT is_VBZ based_VBN on_IN synchronization_NN of_IN pulse-coupled_JJ oscillators_NNS ._.
+SyMP_NN represents_VBZ each_DT data_NN point_NN by_IN an_DT Integrate-and-Fire_JJ oscillator_NN and_CC uses_VBZ the_DT relative_JJ similarity_NN between_IN the_DT points_NNS to_TO model_VB the_DT interaction_NN between_IN the_DT oscillators_NNS ._.
+SyMP_NN is_VBZ robust_JJ to_TO noise_NN and_CC outliers_NNS ,_, determines_VBZ the_DT number_NN of_IN clusters_NNS in_IN an_DT unsupervised_JJ manner_NN ,_, identifies_VBZ clusters_NNS of_IN arbitrary_JJ shapes_NNS ,_, and_CC can_MD handle_VB very_RB large_JJ data_NNS sets_NNS ._.
+The_DT robustness_NN of_IN SyMP_NN is_VBZ an_DT intrinsic_JJ property_NN of_IN the_DT synchronization_NN mechanism_NN ._.
+To_TO determine_VB the_DT optimum_JJ number_NN of_IN clusters_NNS ,_, SyMP_NN uses_VBZ a_DT dynamic_JJ resolution_NN parameter_NN ._.
+To_TO identify_VB clusters_NNS of_IN various_JJ shapes_NNS ,_, SyMP_NN models_NNS each_DT cluster_NN by_IN multiple_JJ Gaussian_JJ components_NNS ._.
+The_DT number_NN of_IN components_NNS is_VBZ automatically_RB determined_VBN using_VBG a_DT dynamic_JJ intra-cluster_JJ resolution_NN parameter_NN ._.
+Clusters_NNS with_IN simple_JJ shapes_NNS would_MD be_VB modeled_VBN by_IN few_JJ components_NNS while_IN clusters_NNS with_IN more_RBR complex_JJ shapes_NNS would_MD require_VB a_DT larger_JJR number_NN of_IN components_NNS ._.
+The_DT scalable_JJ version_NN of_IN SyMP_NN uses_VBZ an_DT efficient_JJ incremental_JJ approach_NN that_WDT requires_VBZ a_DT simple_JJ pass_NN through_IN the_DT data_NNS set_NN ._.
+The_DT proposed_VBN clustering_NN approach_NN is_VBZ empirically_RB evaluated_VBN with_IN several_JJ synthetic_JJ and_CC real_JJ data_NNS sets_NNS ,_, and_CC its_PRP$ performance_NN is_VBZ compared_VBN with_IN CURE_NN ._.

@@ -1,0 +1,4 @@
+SPath_NN :_: a_DT path_NN language_NN for_IN XML_NN schema_NN
+XML_NN is_VBZ increasingly_RB being_VBG used_VBN as_IN a_DT typed_VBN data_NN format_NN ,_, and_CC therefore_RB it_PRP becomes_VBZ more_RBR important_JJ to_TO gain_VB access_NN to_TO the_DT type_NN system_NN ;_: very_RB often_RB this_DT is_VBZ an_DT XML_NN Schema_NN ._.
+The_DT XML_NN Schema_NN Path_NN Language_NN -LRB-_-LRB- SPath_NN -RRB-_-RRB- presented_VBN in_IN this_DT paper_NN provides_VBZ access_NN to_TO XML_NN Schema_NN components_NNS by_IN extending_VBG the_DT well-known_JJ XPath_NN language_NN to_TO also_RB include_VB the_DT domain_NN of_IN XML_NN Schemas_NNS ._.
+Using_VBG SPath_NN ,_, XML_NN developers_NNS gain_VBP access_NN to_TO XML_NN Schemas_NNS and_CC thus_RB can_MD more_RBR easily_RB develop_VB software_NN which_WDT is_VBZ type_NN -_: or_CC schema-aware_JJ ,_, and_CC thus_RB more_RBR robust_JJ ._.

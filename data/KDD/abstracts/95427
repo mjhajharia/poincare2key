@@ -1,0 +1,6 @@
+A_DT streaming_NN ensemble_NN algorithm_NN -LRB-_-LRB- SEA_NN -RRB-_-RRB- for_IN large-scale_JJ classification_NN
+Ensemble_NN methods_NNS have_VBP recently_RB garnered_VBN a_DT great_JJ deal_NN of_IN attention_NN in_IN the_DT machine_NN learning_NN community_NN ._.
+Techniques_NNS such_JJ as_IN Boosting_NNP and_CC Bagging_NNP have_VBP proven_VBN to_TO be_VB highly_RB effective_JJ but_CC require_VBP repeated_JJ resampling_NN of_IN the_DT training_NN data_NNS ,_, making_VBG them_PRP inappropriate_JJ in_IN a_DT data_NN mining_NN context_NN ._.
+The_DT methods_NNS presented_VBN in_IN this_DT paper_NN take_VBP advantage_NN of_IN plentiful_JJ data_NNS ,_, building_VBG separate_JJ classifiers_NNS on_IN sequential_JJ chunks_NNS of_IN training_NN points_NNS ._.
+These_DT classifiers_NNS are_VBP combined_VBN into_IN a_DT fixed-size_JJ ensemble_NN using_VBG a_DT heuristic_NN replacement_NN strategy_NN ._.
+The_DT result_NN is_VBZ a_DT fast_JJ algorithm_NN for_IN large-scale_JJ or_CC streaming_NN data_NNS that_WDT classifies_VBZ as_RB well_RB as_IN a_DT single_JJ decision_NN tree_NN built_VBN on_IN all_PDT the_DT data_NNS ,_, requires_VBZ approximately_RB constant_JJ memory_NN ,_, and_CC adjusts_VBZ quickly_RB to_TO concept_NN drift_NN ._.

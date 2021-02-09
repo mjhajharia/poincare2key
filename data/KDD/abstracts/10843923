@@ -1,0 +1,10 @@
+Exploring_VBG social_JJ tagging_NN graph_NN for_IN web_NN object_NN classification_NN
+This_DT paper_NN studies_VBZ web_NN object_NN classification_NN problem_NN with_IN the_DT novel_JJ exploration_NN of_IN social_JJ tags_NNS ._.
+Automatically_RB classifying_VBG web_NN objects_NNS into_IN manageable_JJ semantic_JJ categories_NNS has_VBZ long_RB been_VBN a_DT fundamental_JJ preprocess_NN for_IN indexing_NN ,_, browsing_VBG ,_, searching_VBG ,_, and_CC mining_VBG these_DT objects_NNS ._.
+The_DT explosive_JJ growth_NN of_IN heterogeneous_JJ web_NN objects_NNS ,_, especially_RB non-textual_JJ objects_NNS such_JJ as_IN products_NNS ,_, pictures_NNS ,_, and_CC videos_NNS ,_, has_VBZ made_VBN the_DT problem_NN of_IN web_NN classification_NN increasingly_RB challenging_JJ ._.
+Such_JJ objects_NNS often_RB suffer_VBP from_IN a_DT lack_NN of_IN easy-extractable_JJ features_NNS with_IN semantic_JJ information_NN ,_, interconnections_NNS between_IN each_DT other_JJ ,_, as_RB well_RB as_IN training_NN examples_NNS with_IN category_NN labels_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP explore_VBP the_DT social_JJ tagging_VBG data_NNS to_TO bridge_VB this_DT gap_NN ._.
+We_PRP cast_VBD web_NN object_NN classification_NN problem_NN as_IN an_DT optimization_NN problem_NN on_IN a_DT graph_NN of_IN objects_NNS and_CC tags_NNS ._.
+We_PRP then_RB propose_VBP an_DT efficient_JJ algorithm_NN which_WDT not_RB only_RB utilizes_VBZ social_JJ tags_NNS as_IN enriched_JJ semantic_JJ features_NNS for_IN the_DT objects_NNS ,_, but_CC also_RB infers_VBZ the_DT categories_NNS of_IN unlabeled_JJ objects_NNS from_IN both_CC homogeneous_JJ and_CC heterogeneous_JJ labeled_JJ objects_NNS ,_, through_IN the_DT implicit_JJ connection_NN of_IN social_JJ tags_NNS ._.
+Experiment_NN results_NNS show_VBP that_IN the_DT exploration_NN of_IN social_JJ tags_NNS effectively_RB boosts_VBZ web_NN object_NN classification_NN ._.
+Our_PRP$ algorithm_NN significantly_RB outperforms_VBZ the_DT state-of-the-art_JJ of_IN general_JJ classification_NN methods_NNS ._.

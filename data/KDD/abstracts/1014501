@@ -1,0 +1,5 @@
+Customer_NN lifetime_NN value_NN modeling_NN and_CC its_PRP$ use_NN for_IN customer_NN retention_NN planning_VBG
+We_PRP present_VBP and_CC discuss_VBP the_DT important_JJ business_NN problem_NN of_IN estimating_VBG the_DT effect_NN of_IN retention_NN efforts_NNS on_IN the_DT Lifetime_NNP Value_NNP of_IN a_DT customer_NN in_IN the_DT Telecommunications_NNP industry_NN ._.
+We_PRP discuss_VBP the_DT components_NNS of_IN this_DT problem_NN ,_, in_IN particular_JJ customer_NN value_NN and_CC length_NN of_IN service_NN -LRB-_-LRB- or_CC tenure_NN -RRB-_-RRB- modeling_NN ,_, and_CC present_VB a_DT novel_JJ segment-based_JJ approach_NN ,_, motivated_VBN by_IN the_DT segment-level_JJ view_NN marketing_NN analysts_NNS usually_RB employ_VBP ._.
+We_PRP then_RB describe_VBP how_WRB we_PRP build_VBP on_IN this_DT approach_NN to_TO estimate_VB the_DT effects_NNS of_IN retention_NN on_IN Lifetime_NNP Value_NNP ._.
+Our_PRP$ solution_NN has_VBZ been_VBN successfully_RB implemented_VBN in_IN Amdocs_NNP '_POS Business_NNP Insight_NNP -LRB-_-LRB- BI_NNP -RRB-_-RRB- platform_NN ,_, and_CC we_PRP illustrate_VBP its_PRP$ usefulness_NN in_IN real-world_JJ scenarios_NNS ._.

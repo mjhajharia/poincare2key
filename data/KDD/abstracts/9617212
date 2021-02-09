@@ -1,0 +1,9 @@
+Fast_JJ collapsed_JJ gibbs_NNS sampling_NN for_IN latent_JJ dirichlet_NN allocation_NN
+In_IN this_DT paper_NN we_PRP introduce_VBP a_DT novel_JJ collapsed_JJ Gibbs_NNP sampling_NN method_NN for_IN the_DT widely_RB used_VBN latent_JJ Dirichlet_NNP allocation_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- model_NN ._.
+Our_PRP$ new_JJ method_NN results_VBZ in_IN significant_JJ speedups_NNS on_IN real_JJ world_NN text_NN corpora_NN ._.
+Conventional_JJ Gibbs_NNP sampling_NN schemes_NNS for_IN LDA_NNP require_VB O_NN -LRB-_-LRB- K_NN -RRB-_-RRB- operations_NNS per_IN sample_NN where_WRB K_NN is_VBZ the_DT number_NN of_IN topics_NNS in_IN the_DT model_NN ._.
+Our_PRP$ proposed_VBN method_NN draws_VBZ equivalent_JJ samples_NNS but_CC requires_VBZ on_IN average_NN significantly_RB less_RBR then_RB K_NN operations_NNS per_IN sample_NN ._.
+On_IN real-word_JJ corpora_NN FastLDA_NN can_MD be_VB as_RB much_JJ as_IN 8_CD times_NNS faster_RBR than_IN the_DT standard_JJ collapsed_JJ Gibbs_NNP sampler_NN for_IN LDA_NNP ._.
+No_DT approximations_NNS are_VBP necessary_JJ ,_, and_CC we_PRP show_VBP that_IN our_PRP$ fast_JJ sampling_NN scheme_NN produces_VBZ exactly_RB the_DT same_JJ results_NNS as_IN the_DT standard_JJ -LRB-_-LRB- but_CC slower_JJR -RRB-_-RRB- sampling_NN scheme_NN ._.
+Experiments_NNS on_IN four_CD real_JJ world_NN data_NNS sets_NNS demonstrate_VBP speedups_NNS for_IN a_DT wide_JJ range_NN of_IN collection_NN sizes_NNS ._.
+For_IN the_DT PubMed_NNP collection_NN of_IN over_IN 8_CD million_CD documents_NNS with_IN a_DT required_JJ computation_NN time_NN of_IN 6_CD CPU_NNP months_NNS for_IN LDA_NNP ,_, our_PRP$ speedup_NN of_IN 5.7_CD can_MD save_VB 5_CD CPU_NNP months_NNS of_IN computation_NN ._.

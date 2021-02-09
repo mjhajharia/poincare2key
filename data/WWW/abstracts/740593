@@ -1,0 +1,12 @@
+Off_IN the_DT beaten_JJ tracks_NNS :_: exploring_VBG three_CD aspects_NNS of_IN web_NN navigation_NN
+This_DT paper_NN presents_VBZ results_NNS of_IN a_DT long-term_JJ client-side_JJ Web_NN usage_NN study_NN ,_, updating_VBG previous_JJ studies_NNS that_WDT range_VBP in_IN age_NN from_IN five_CD to_TO ten_CD years_NNS ._.
+We_PRP focus_VBP on_IN three_CD aspects_NNS of_IN Web_NN navigation_NN :_: changes_NNS in_IN the_DT distribution_NN of_IN navigation_NN actions_NNS ,_, speed_NN of_IN navigation_NN and_CC within-page_NN navigation_NN ._.
+``_`` Navigation_NNP actionsö_NN corresponding_VBG to_TO users_NNS '_POS individual_JJ page_NN requests_NNS are_VBP discussed_VBN by_IN type_NN ._.
+We_PRP reconfirm_VBP links_NNS to_TO be_VB the_DT most_RBS important_JJ navigation_NN element_NN ,_, while_IN backtracking_VBG has_VBZ lost_VBN more_JJR than_IN half_NN of_IN its_PRP$ previously_RB reported_VBN share_NN and_CC form_NN submission_NN has_VBZ become_VBN far_RB more_RBR common_JJ ._.
+Changes_NNS of_IN the_DT Web_NN and_CC the_DT browser_NN interfaces_NNS are_VBP candidates_NNS for_IN causing_VBG these_DT changes_NNS ._.
+Analyzing_VBG the_DT time_NN users_NNS stayed_VBD on_IN pages_NNS ,_, we_PRP confirm_VBP Web_NN navigation_NN to_TO be_VB a_DT rapidly_RB interactive_JJ activity_NN ._.
+A_DT breakdown_NN of_IN page_NN characteristics_NNS shows_VBZ that_IN users_NNS often_RB do_VBP not_RB take_VB the_DT time_NN to_TO read_VB the_DT available_JJ text_NN or_CC consider_VB all_DT links_NNS ._.
+The_DT performance_NN of_IN the_DT Web_NN is_VBZ analyzed_VBN and_CC reassessed_VBN against_IN the_DT resulting_VBG requirements_NNS ._.
+Finally_RB ,_, habits_NNS of_IN within-page_JJ navigation_NN are_VBP presented_VBN ._.
+Although_IN most_JJS selected_VBN hyperlinks_NNS are_VBP located_JJ in_IN the_DT top_NN left_VBD corner_NN of_IN the_DT =_JJ screen_NN ,_, in_IN nearly_RB a_DT quarter_NN of_IN all_DT cases_NNS people_NNS choose_VBP links_NNS that_WDT require_VBP scrolling_NN ._.
+We_PRP analyzed_VBD the_DT available_JJ browser_NN real_JJ estate_NN to_TO gain_VB insights_NNS for_IN the_DT design_NN of_IN non-scrolling_JJ Web_NN pages_NNS ._.

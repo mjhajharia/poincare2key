@@ -1,0 +1,5 @@
+Modeling_NN user_NN behavior_NN in_IN recommender_NN systems_NNS based_VBN on_IN maximum_NN entropy_NN
+We_PRP propose_VBP a_DT model_NN for_IN user_NN purchase_NN behavior_NN in_IN online_NN stores_NNS that_WDT provide_VBP recommendation_NN services_NNS ._.
+We_PRP model_VBP the_DT purchase_NN probability_NN given_VBN recommendations_NNS for_IN each_DT user_NN based_VBN on_IN the_DT maximum_NN entropy_NN principle_NN using_VBG features_NNS that_WDT deal_VBP with_IN recommendations_NNS and_CC user_NN interests_NNS ._.
+The_DT proposed_VBN model_NN enable_VBP us_PRP to_TO measure_VB the_DT effect_NN of_IN recommendations_NNS on_IN user_NN purchase_NN behavior_NN ,_, and_CC the_DT effect_NN can_MD be_VB used_VBN to_TO evaluate_VB recommender_NN systems_NNS ._.
+We_PRP show_VBP the_DT validity_NN of_IN our_PRP$ model_NN using_VBG the_DT log_NN data_NNS of_IN an_DT online_JJ cartoon_NN distribution_NN service_NN ,_, and_CC measure_VB the_DT recommendation_NN effects_NNS for_IN evaluating_VBG the_DT recommender_NN system_NN ._.

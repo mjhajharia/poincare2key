@@ -1,0 +1,16 @@
+A_DT large-scale_JJ study_NN of_IN the_DT evolution_NN of_IN web_NN pages_NNS
+How_WRB fast_JJ does_VBZ the_DT web_NN change_NN ?_.
+Does_VBZ most_JJS of_IN the_DT content_NN remain_VBP unchanged_JJ once_IN it_PRP has_VBZ been_VBN authored_VBN ,_, or_CC are_VBP the_DT documents_NNS continuously_RB updated_VBN ?_.
+Do_VBP pages_NNS change_VB a_DT little_JJ or_CC a_DT lot_NN ?_.
+Is_VBZ the_DT extent_NN of_IN change_NN correlated_VBD to_TO any_DT other_JJ property_NN of_IN the_DT page_NN ?_.
+All_DT of_IN these_DT questions_NNS are_VBP of_IN interest_NN to_TO those_DT who_WP mine_VBP the_DT web_NN ,_, including_VBG all_PDT the_DT popular_JJ search_NN engines_NNS ,_, but_CC few_JJ studies_NNS have_VBP been_VBN performed_VBN to_TO date_NN to_TO answer_VB them_PRP ._.
+One_CD notable_JJ exception_NN is_VBZ a_DT study_NN by_IN Cho_NNP and_CC Garcia-Molina_NNP ,_, who_WP crawled_VBD a_DT set_NN of_IN 720,000_CD pages_NNS on_IN a_DT daily_JJ basis_NN over_IN four_CD months_NNS ,_, and_CC counted_VBN pages_NNS as_IN having_VBG changed_VBN if_IN their_PRP$ MD5_NN checksum_NN changed_VBD ._.
+They_PRP found_VBD that_IN 40_CD %_NN of_IN all_DT web_NN pages_NNS in_IN their_PRP$ set_NN changed_VBD within_IN a_DT week_NN ,_, and_CC 23_CD %_NN of_IN those_DT pages_NNS that_WDT fell_VBD into_IN the_DT ._.
+com_NN domain_NN changed_VBD daily_RB ._.
+This_DT paper_NN expands_VBZ on_IN Cho_NNP and_CC Garcia-Molina_NNP 's_POS study_NN ,_, both_CC in_IN terms_NNS of_IN coverage_NN and_CC in_IN terms_NNS of_IN sensitivity_NN to_TO change_VB ._.
+We_PRP crawled_VBD a_DT set_NN of_IN 150,836,209_CD HTML_NNP pages_NNS once_RB every_DT week_NN ,_, over_IN a_DT span_NN of_IN 11_CD weeks_NNS ._.
+For_IN each_DT page_NN ,_, we_PRP recorded_VBD a_DT checksum_NN of_IN the_DT page_NN ,_, and_CC a_DT feature_NN vector_NN of_IN the_DT words_NNS on_IN the_DT page_NN ,_, plus_CC various_JJ other_JJ data_NNS such_JJ as_IN the_DT page_NN length_NN ,_, the_DT HTTP_NNP status_NN code_NN ,_, etc._NN ._.
+Moreover_RB ,_, we_PRP pseudo-randomly_RB selected_VBD 0.1_CD %_NN of_IN all_DT of_IN our_PRP$ URLs_NNS ,_, and_CC saved_VBD the_DT full_JJ text_NN of_IN each_DT download_NN of_IN the_DT corresponding_JJ pages_NNS ._.
+After_IN completion_NN of_IN the_DT crawl_NN ,_, we_PRP analyzed_VBD the_DT degree_NN of_IN change_NN of_IN each_DT page_NN ,_, and_CC investigated_VBN which_WDT factors_NNS are_VBP correlated_VBN with_IN change_NN intensity_NN ._.
+We_PRP found_VBD that_IN the_DT average_JJ degree_NN of_IN change_NN varies_VBZ widely_RB across_IN top-level_JJ domains_NNS ,_, and_CC that_IN larger_JJR pages_NNS change_VBP more_RBR often_RB and_CC more_RBR severely_RB than_IN smaller_JJR ones_NNS ._.
+This_DT paper_NN describes_VBZ the_DT crawl_NN and_CC the_DT data_NNS transformations_NNS we_PRP performed_VBD on_IN the_DT logs_NNS ,_, and_CC presents_VBZ some_DT statistical_JJ observations_NNS on_IN the_DT degree_NN of_IN change_NN of_IN different_JJ classes_NNS of_IN pages_NNS ._.

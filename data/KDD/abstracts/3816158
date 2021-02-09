@@ -1,0 +1,7 @@
+A_DT scalable_JJ modular_JJ convex_NN solver_NN for_IN regularized_VBN risk_NN minimization_NN
+A_DT wide_JJ variety_NN of_IN machine_NN learning_NN problems_NNS can_MD be_VB described_VBN as_IN minimizing_VBG a_DT regularized_VBN risk_NN functional_JJ ,_, with_IN different_JJ algorithms_NNS using_VBG different_JJ notions_NNS of_IN risk_NN and_CC different_JJ regularizers_NNS ._.
+Examples_NNS include_VBP linear_JJ Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- ,_, Logistic_JJ Regression_NN ,_, Conditional_JJ Random_NNP Fields_NNP -LRB-_-LRB- CRFs_NNS -RRB-_-RRB- ,_, and_CC Lasso_NNP amongst_IN others_NNS ._.
+This_DT paper_NN describes_VBZ the_DT theory_NN and_CC implementation_NN of_IN a_DT highly_RB scalable_JJ and_CC modular_JJ convex_NN solver_NN which_WDT solves_VBZ all_PDT these_DT estimation_NN problems_NNS ._.
+It_PRP can_MD be_VB parallelized_VBN on_IN a_DT cluster_NN of_IN workstations_NNS ,_, allows_VBZ for_IN data-locality_NN ,_, and_CC can_MD deal_VB with_IN regularizers_NNS such_JJ as_IN l1_NN and_CC l2_NN penalties_NNS ._.
+At_IN present_NN ,_, our_PRP$ solver_NN implements_VBZ 20_CD different_JJ estimation_NN problems_NNS ,_, can_MD be_VB easily_RB extended_VBN ,_, scales_NNS to_TO millions_NNS of_IN observations_NNS ,_, and_CC is_VBZ up_IN to_TO 10_CD times_NNS faster_RBR than_IN specialized_VBN solvers_NNS for_IN many_JJ applications_NNS ._.
+The_DT open_JJ source_NN code_NN is_VBZ freely_RB available_JJ as_IN part_NN of_IN the_DT ELEFANT_NNP toolbox_NN ._.

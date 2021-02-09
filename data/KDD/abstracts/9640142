@@ -1,0 +1,11 @@
+SNARE_VB :_: a_DT link_NN analytic_JJ system_NN for_IN graph_NN labeling_NN and_CC risk_NN detection_NN
+Classifying_VBG nodes_NNS in_IN networks_NNS is_VBZ a_DT task_NN with_IN a_DT wide_JJ range_NN of_IN applications_NNS ._.
+It_PRP can_MD be_VB particularly_RB useful_JJ in_IN anomaly_NN and_CC fraud_NN detection_NN ._.
+Many_JJ resources_NNS are_VBP invested_VBN in_IN the_DT task_NN of_IN fraud_NN detection_NN due_JJ to_TO the_DT high_JJ cost_NN of_IN fraud_NN ,_, and_CC being_VBG able_JJ to_TO automatically_RB detect_VB potential_JJ fraud_NN quickly_RB and_CC precisely_RB allows_VBZ human_JJ investigators_NNS to_TO work_VB more_RBR efficiently_RB ._.
+Many_JJ data_NNS analytic_JJ schemes_NNS have_VBP been_VBN put_VBN into_IN use_NN ;_: however_RB ,_, schemes_NNS that_WDT bolster_VBP link_NN analysis_NN prove_VBP promising_JJ ._.
+This_DT work_NN builds_VBZ upon_IN the_DT belief_NN propagation_NN algorithm_NN for_IN use_NN in_IN detecting_VBG collusion_NN and_CC other_JJ fraud_NN schemes_NNS ._.
+We_PRP propose_VBP an_DT algorithm_NN called_VBN SNARE_NNP -LRB-_-LRB- Social_NNP Network_NNP Analysis_NNP for_IN Risk_NNP Evaluation_NN -RRB-_-RRB- ._.
+By_IN allowing_VBG one_CD to_TO use_VB domain_NN knowledge_NN as_RB well_RB as_IN link_NN knowledge_NN ,_, the_DT method_NN was_VBD very_RB successful_JJ for_IN pinpointing_VBG misstated_VBN accounts_NNS in_IN our_PRP$ sample_NN of_IN general_JJ ledger_NN data_NNS ,_, with_IN a_DT significant_JJ improvement_NN over_IN the_DT default_NN heuristic_NN in_IN true_JJ positive_JJ rates_NNS ,_, and_CC a_DT lift_NN factor_NN of_IN up_IN to_TO 6.5_CD -LRB-_-LRB- more_JJR than_IN twice_RB that_DT of_IN the_DT default_NN heuristic_NN -RRB-_-RRB- ._.
+We_PRP also_RB apply_VBP SNARE_NN to_TO the_DT task_NN of_IN graph_NN labeling_NN in_IN general_JJ on_IN publicly-available_JJ datasets_NNS ._.
+We_PRP show_VBP that_IN with_IN only_RB some_DT information_NN about_IN the_DT nodes_NNS themselves_PRP in_IN a_DT network_NN ,_, we_PRP get_VBP surprisingly_RB high_JJ accuracy_NN of_IN labels_NNS ._.
+Not_RB only_RB is_VBZ SNARE_NN applicable_JJ in_IN a_DT wide_JJ variety_NN of_IN domains_NNS ,_, but_CC it_PRP is_VBZ also_RB robust_JJ to_TO the_DT choice_NN of_IN parameters_NNS and_CC highly_RB scalable-linearly_JJ with_IN the_DT number_NN of_IN edges_NNS in_IN a_DT graph_NN ._.

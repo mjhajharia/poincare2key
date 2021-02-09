@@ -1,0 +1,10 @@
+A_DT comparison_NN of_IN case-based_JJ reasoning_NN approaches_NNS
+Over_IN the_DT years_NNS software_NN engineering_NN researchers_NNS have_VBP suggested_VBN numerous_JJ techniques_NNS for_IN estimating_VBG development_NN effort_NN ._.
+These_DT techniques_NNS have_VBP been_VBN classified_VBN mainly_RB as_IN algorithmic_JJ ,_, machine_NN learning_NN and_CC expert_NN judgement_NN ._.
+Several_JJ studies_NNS have_VBP compared_VBN the_DT prediction_NN accuracy_NN of_IN those_DT techniques_NNS ,_, with_IN emphasis_NN placed_VBN on_IN linear_JJ regression_NN ,_, stepwise_JJ regression_NN ,_, and_CC Case-based_JJ Reasoning_NN -LRB-_-LRB- CBR_NN -RRB-_-RRB- ._.
+To_TO date_VB no_DT converging_VBG results_NNS have_VBP been_VBN obtained_VBN and_CC we_PRP believe_VBP they_PRP may_MD be_VB influenced_VBN by_IN the_DT use_NN of_IN the_DT same_JJ CBR_NNP configuration_NN ._.
+The_DT objective_NN of_IN this_DT paper_NN is_VBZ twofold_JJ ._.
+First_RB ,_, to_TO describe_VB the_DT application_NN of_IN case-based_JJ reasoning_NN for_IN estimating_VBG the_DT effort_NN for_IN developing_VBG Web_NN hypermedia_NN applications_NNS ._.
+Second_RB ,_, comparing_VBG the_DT prediction_NN accuracy_NN of_IN different_JJ CBR_NN configurations_NNS ,_, using_VBG two_CD Web_NN hypermedia_NN datasets_NNS ._.
+Results_NNS show_VBP that_IN for_IN both_DT datasets_NNS the_DT best_JJS estimations_NNS were_VBD obtained_VBN with_IN weighted_JJ Euclidean_JJ distance_NN ,_, using_VBG either_CC one_CD analogy_NN -LRB-_-LRB- dataset_NN 1_CD -RRB-_-RRB- or_CC 3_CD analogies_NNS -LRB-_-LRB- dataset_NN 2_CD -RRB-_-RRB- ._.
+We_PRP suggest_VBP therefore_RB that_IN case-based_JJ reasoning_NN is_VBZ a_DT candidate_NN technique_NN for_IN effort_NN estimation_NN and_CC ,_, with_IN the_DT aid_NN of_IN an_DT automated_JJ environment_NN ,_, can_MD be_VB applied_VBN to_TO Web_NN hypermedia_NN development_NN effort_NN prediction_NN ._.

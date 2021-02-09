@@ -1,0 +1,12 @@
+Discovering_VBG the_DT set_NN of_IN fundamental_JJ rule_NN changes_NNS
+The_DT world_NN around_IN us_PRP changes_VBZ constantly_RB ._.
+Knowing_VBG what_WP has_VBZ changed_VBN is_VBZ an_DT important_JJ part_NN of_IN our_PRP$ lives_NNS ._.
+For_IN businesses_NNS ,_, recognizing_VBG changes_NNS is_VBZ also_RB crucial_JJ ._.
+It_PRP allows_VBZ businesses_NNS to_TO adapt_VB themselves_PRP to_TO the_DT changing_VBG market_NN needs_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD changes_NNS of_IN association_NN rules_NNS from_IN one_CD time_NN period_NN to_TO another_DT ._.
+One_CD approach_NN is_VBZ to_TO compare_VB the_DT supports_NNS and\/or_CC confidences_NNS of_IN each_DT rule_NN in_IN the_DT two_CD time_NN periods_NNS and_CC report_VBP the_DT differences_NNS ._.
+This_DT technique_NN ,_, however_RB ,_, is_VBZ too_RB simplistic_JJ as_IN it_PRP tends_VBZ to_TO report_VB a_DT huge_JJ number_NN of_IN rule_NN changes_NNS ,_, and_CC many_JJ of_IN them_PRP are_VBP ,_, in_IN fact_NN ,_, simply_RB the_DT snowball_NN effect_NN of_IN a_DT small_JJ subset_NN of_IN fundamental_JJ changes_NNS ._.
+Here_RB ,_, we_PRP present_VBP a_DT technique_NN to_TO highlight_VB the_DT small_JJ subset_NN of_IN fundamental_JJ changes_NNS ._.
+A_DT change_NN is_VBZ fundamental_JJ if_IN it_PRP can_MD not_RB be_VB explained_VBN by_IN some_DT other_JJ changes_NNS ._.
+The_DT proposed_VBN technique_NN has_VBZ been_VBN applied_VBN to_TO a_DT number_NN of_IN real-life_JJ datasets_NNS ._.
+Experiments_NNS results_NNS show_VBP that_IN the_DT number_NN of_IN rules_NNS whose_WP$ changes_NNS are_VBP unexplainable_JJ is_VBZ quite_RB small_JJ -LRB-_-LRB- about_RB 20_CD %_NN of_IN the_DT total_JJ number_NN of_IN changes_NNS discovered_VBN -RRB-_-RRB- ,_, and_CC many_JJ of_IN these_DT unexplainable_JJ changes_NNS reflect_VBP some_DT fundamental_JJ shifts_NNS in_IN the_DT application_NN domain_NN ._.

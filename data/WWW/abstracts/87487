@@ -1,0 +1,7 @@
+XL_NNP :_: an_DT XML_NN programming_NN language_NN for_IN web_NN service_NN specification_NN and_CC composition_NN
+We_PRP present_VBP an_DT XML_NN programming_NN language_NN specially_RB designed_VBN for_IN the_DT implementation_NN of_IN Web_NN services_NNS ._.
+XL_NNP is_VBZ portable_JJ and_CC fully_RB compliant_JJ with_IN W3C_NN standards_NNS such_JJ as_IN XQuery_NN ,_, XML_NN Protocol_NNP ,_, and_CC XML_NN Schema_NN ._.
+One_CD of_IN the_DT key_JJ features_NNS of_IN XL_NNP is_VBZ that_IN it_PRP allows_VBZ programmers_NNS to_TO concentrate_VB on_IN the_DT logic_NN of_IN their_PRP$ application_NN ._.
+XL_NNP provides_VBZ high-level_JJ and_CC declarative_JJ constructs_NNS for_IN actions_NNS which_WDT are_VBP typically_RB carried_VBN out_RP in_IN the_DT implementation_NN of_IN a_DT Web_NN service_NN ;_: e.g._FW ,_, logging_VBG ,_, error_NN handling_NN ,_, retry_VB of_IN actions_NNS ,_, workload_NN management_NN ,_, events_NNS ,_, etc._FW ._.
+Issues_NNS such_JJ as_IN performance_NN tuning_NN -LRB-_-LRB- e.g._FW ,_, caching_NN ,_, horizontal_JJ partitioning_NN ,_, etc._NN -RRB-_-RRB- should_MD be_VB carried_VBN out_RP automatically_RB by_IN an_DT implementation_NN of_IN the_DT language_NN ._.
+This_DT way_NN ,_, the_DT productivity_NN of_IN the_DT programmers_NNS ,_, the_DT ability_NN of_IN evolution_NN of_IN the_DT programs_NNS ,_, and_CC the_DT chances_NNS to_TO achieve_VB good_JJ performance_NN are_VBP substantially_RB enhanced_VBN ._.

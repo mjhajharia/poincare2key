@@ -1,0 +1,8 @@
+Flickr_NNP tag_NN recommendation_NN based_VBN on_IN collective_JJ knowledge_NN
+Online_JJ photo_NN services_NNS such_JJ as_IN Flickr_NNP and_CC Zooomr_NNP allow_VBP users_NNS to_TO share_VB their_PRP$ photos_NNS with_IN family_NN ,_, friends_NNS ,_, and_CC the_DT online_JJ community_NN at_IN large_JJ ._.
+An_DT important_JJ facet_NN of_IN these_DT services_NNS is_VBZ that_IN users_NNS manually_RB annotate_VBP their_PRP$ photos_NNS using_VBG so_RB called_VBN tags_NNS ,_, which_WDT describe_VBP the_DT contents_NNS of_IN the_DT photo_NN or_CC provide_VB additional_JJ contextual_JJ and_CC semantical_JJ information_NN ._.
+In_IN this_DT paper_NN we_PRP investigate_VBP how_WRB we_PRP can_MD assist_VB users_NNS in_IN the_DT tagging_VBG phase_NN ._.
+The_DT contribution_NN of_IN our_PRP$ research_NN is_VBZ twofold_JJ ._.
+We_PRP analyze_VBP a_DT representative_JJ snapshot_NN of_IN Flickr_NNP and_CC present_VB the_DT results_NNS by_IN means_NNS of_IN a_DT tag_NN characterisation_NN focussing_VBG on_IN how_WRB users_NNS tags_NNS photos_NNS and_CC what_WDT information_NN is_VBZ contained_VBN in_IN the_DT tagging_NN ._.
+Based_VBN on_IN this_DT analysis_NN ,_, we_PRP present_VBP and_CC evaluate_VBP tag_NN recommendation_NN strategies_NNS to_TO support_VB the_DT user_NN in_IN the_DT photo_JJ annotation_NN task_NN by_IN recommending_VBG a_DT set_NN of_IN tags_NNS that_WDT can_MD be_VB added_VBN to_TO the_DT photo_NN ._.
+The_DT results_NNS of_IN the_DT empirical_JJ evaluation_NN show_VBP that_IN we_PRP can_MD effectively_RB recommend_VB relevant_JJ tags_NNS for_IN a_DT variety_NN of_IN photos_NNS with_IN different_JJ levels_NNS of_IN exhaustiveness_NN of_IN original_JJ tagging_NN ._.

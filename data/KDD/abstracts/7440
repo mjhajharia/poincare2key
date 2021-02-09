@@ -1,0 +1,6 @@
+Privacy-preserving_JJ k-means_NN clustering_NN over_IN vertically_RB partitioned_VBN data_NNS
+Privacy_NN and_CC security_NN concerns_NNS can_MD prevent_VB sharing_NN of_IN data_NNS ,_, derailing_VBG data_NNS mining_NN projects_NNS ._.
+Distributed_VBN knowledge_NN discovery_NN ,_, if_IN done_VBN correctly_RB ,_, can_MD alleviate_VB this_DT problem_NN ._.
+The_DT key_NN is_VBZ to_TO obtain_VB valid_JJ results_NNS ,_, while_IN providing_VBG guarantees_NNS on_IN the_DT -LRB-_-LRB- non_JJ -RRB-_-RRB- disclosure_NN of_IN data_NNS ._.
+We_PRP present_VBP a_DT method_NN for_IN k-means_NN clustering_NN when_WRB different_JJ sites_NNS contain_VBP different_JJ attributes_NNS for_IN a_DT common_JJ set_NN of_IN entities_NNS ._.
+Each_DT site_NN learns_VBZ the_DT cluster_NN of_IN each_DT entity_NN ,_, but_CC learns_VBZ nothing_NN about_IN the_DT attributes_NNS at_IN other_JJ sites_NNS ._.

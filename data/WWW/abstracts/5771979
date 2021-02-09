@@ -1,0 +1,5 @@
+A_DT graph-theoretic_JJ approach_NN to_TO webpage_NN segmentation_NN
+We_PRP consider_VBP the_DT problem_NN of_IN segmenting_VBG a_DT webpage_NN into_IN visually_RB and_CC semantically_RB cohesive_JJ pieces_NNS ._.
+Our_PRP$ approach_NN is_VBZ based_VBN on_IN formulating_VBG an_DT appropriate_JJ optimization_NN problem_NN on_IN weighted_JJ graphs_NNS ,_, where_WRB the_DT weights_NNS capture_VBP if_IN two_CD nodes_NNS in_IN the_DT DOM_NNP tree_NN should_MD be_VB placed_VBN together_RB or_CC apart_RB in_IN the_DT segmentation_NN ;_: we_PRP present_VBP a_DT learning_NN framework_NN to_TO learn_VB these_DT weights_NNS from_IN manually_RB labeled_VBN data_NNS in_IN a_DT principled_JJ manner_NN ._.
+Our_PRP$ work_NN is_VBZ a_DT significant_JJ departure_NN from_IN previous_JJ heuristic_NN and_CC rule-based_JJ solutions_NNS to_TO the_DT segmentation_NN problem_NN ._.
+The_DT results_NNS of_IN our_PRP$ empirical_JJ analysis_NN bring_VBP out_RP interesting_JJ aspects_NNS of_IN our_PRP$ framework_NN ,_, including_VBG variants_NNS of_IN the_DT optimization_NN problem_NN and_CC the_DT role_NN of_IN learning_NN ._.

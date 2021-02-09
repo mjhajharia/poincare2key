@@ -1,0 +1,5 @@
+Semantic_JJ link_NN based_VBN top-K_NN join_VB queries_NNS in_IN P2P_NN networks_NNS
+An_DT important_JJ issue_NN arising_VBG from_IN Peer-to-Peer_NNP applications_NNS is_VBZ how_WRB to_TO accurately_RB and_CC efficiently_RB retrieve_VB a_DT set_NN of_IN K_NN best_RBS matching_JJ data_NN objects_NNS from_IN different_JJ sources_NNS while_IN minimizing_VBG the_DT number_NN of_IN objects_NNS that_WDT have_VBP to_TO be_VB accessed_VBN ._.
+This_DT paper_NN resolves_VBZ this_DT issue_NN by_IN organizing_VBG peers_NNS in_IN a_DT Semantic_NNP Link_NNP Network_NNP Overlay_NNP ,_, where_WRB semantic_JJ links_NNS are_VBP established_VBN to_TO denote_VB the_DT semantic_JJ relationship_NN between_IN peers_NNS '_POS data_NNS schemas_NNS ._.
+A_DT query_JJ request_NN will_MD be_VB routed_VBN to_TO appropriate_JJ peers_NNS according_VBG to_TO the_DT semantic_JJ link_NN type_NN and_CC a_DT lower_JJR bound_VBN of_IN rank_NN function_NN ._.
+Optimization_NN strategies_NNS are_VBP proposed_VBN to_TO reduce_VB the_DT total_JJ amount_NN of_IN data_NNS transmitted_VBN ._.

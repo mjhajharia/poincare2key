@@ -1,0 +1,11 @@
+A_DT unified_JJ approach_NN to_TO learning_VBG task-specific_JJ bit_NN vector_NN representations_NNS for_IN fast_RB nearest_JJS neighbor_NN search_NN
+Fast_JJ nearest_JJS neighbor_NN search_NN is_VBZ necessary_JJ for_IN a_DT variety_NN of_IN large_JJ scale_NN web_NN applications_NNS such_JJ as_IN information_NN retrieval_NN ,_, nearest_IN neighbor_NN classification_NN and_CC nearest_JJS neighbor_NN regression_NN ._.
+Recently_RB a_DT number_NN of_IN machine_NN learning_NN algorithms_NNS have_VBP been_VBN proposed_VBN for_IN representing_VBG the_DT data_NNS to_TO be_VB searched_VBN as_IN -LRB-_-LRB- short_JJ -RRB-_-RRB- bit_NN vectors_NNS and_CC then_RB using_VBG hashing_VBG to_TO do_VB rapid_JJ search_NN ._.
+These_DT algorithms_NNS have_VBP been_VBN limited_VBN in_IN their_PRP$ applicability_NN in_IN that_IN they_PRP are_VBP suited_VBN for_IN only_RB one_CD type_NN of_IN task_NN --_: e.g._NNP Spectral_NNP Hashing_NNP learns_VBZ bit_NN vector_NN representations_NNS for_IN retrieval_NN ,_, but_CC not_RB say_VB ,_, classification_NN ._.
+In_IN this_DT paper_NN we_PRP present_VBP a_DT unified_JJ approach_NN to_TO learning_VBG bit_NN vector_NN representations_NNS for_IN many_JJ applications_NNS that_WDT use_VBP nearest_JJS neighbor_NN search_NN ._.
+The_DT main_JJ contribution_NN is_VBZ a_DT single_JJ learning_NN algorithm_NN that_WDT can_MD be_VB customized_VBN to_TO learn_VB a_DT bit_NN vector_NN representation_NN suited_VBN for_IN the_DT task_NN at_IN hand_NN ._.
+This_DT broadens_VBZ the_DT usefulness_NN of_IN bit_NN vector_NN representations_NNS to_TO tasks_NNS beyond_IN just_RB conventional_JJ retrieval_NN ._.
+We_PRP propose_VBP a_DT learning-to-rank_JJ formulation_NN to_TO learn_VB the_DT bit_NN vector_NN representation_NN of_IN the_DT data_NNS ._.
+LambdaRank_NN algorithm_NN is_VBZ used_VBN for_IN learning_VBG a_DT function_NN that_WDT computes_VBZ a_DT task-specific_JJ bit_NN vector_NN from_IN an_DT input_NN data_NN vector_NN ._.
+Our_PRP$ approach_NN outperforms_VBZ state-of-the-art_JJ nearest_JJS neighbor_NN methods_NNS on_IN a_DT number_NN of_IN real_JJ world_NN text_NN and_CC image_NN classification_NN and_CC retrieval_NN datasets_NNS ._.
+It_PRP is_VBZ scalable_JJ and_CC learns_VBZ a_DT 32-bit_JJ representation_NN on_IN 1.46_CD million_CD training_NN cases_NNS in_IN two_CD days_NNS ._.

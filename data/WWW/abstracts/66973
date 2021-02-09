@@ -1,0 +1,9 @@
+Web_NN browsing_VBG performance_NN of_IN wireless_JJ thin-client_JJ computing_NN
+Web_NN applications_NNS are_VBP becoming_VBG increasingly_RB popular_JJ for_IN mobile_JJ wireless_JJ systems_NNS ._.
+However_RB ,_, wireless_JJ networks_NNS can_MD have_VB high_JJ packet_NN loss_NN rates_NNS ,_, which_WDT can_MD degrade_VB web_NN browsing_VBG performance_NN on_IN wireless_JJ systems_NNS ._.
+An_DT alternative_JJ approach_NN is_VBZ wireless_JJ thin-client_JJ computing_NN ,_, in_IN which_WDT the_DT web_NN browser_NN runs_VBZ on_IN a_DT remote_JJ thin_JJ server_NN with_IN a_DT more_RBR reliable_JJ wired_VBN connection_NN to_TO the_DT Internet_NN ._.
+A_DT mobile_JJ client_NN then_RB maintains_VBZ a_DT connection_NN to_TO the_DT thin_JJ server_NN to_TO receive_VB display_NN updates_NNS over_IN the_DT lossy_JJ wireless_JJ network_NN ._.
+To_TO assess_VB the_DT viability_NN of_IN this_DT thin-client_JJ approach_NN ,_, we_PRP compare_VBP the_DT web_NN browsing_VBG performance_NN of_IN thin_JJ clients_NNS against_IN fat_JJ clients_NNS that_WDT run_VBP the_DT web_NN browser_NN locally_RB in_IN lossy_JJ wireless_JJ networks_NNS ._.
+Our_PRP$ results_NNS show_VBP that_IN thin_JJ clients_NNS can_MD operate_VB quite_RB effectively_RB over_IN lossy_JJ networks_NNS ._.
+Compared_VBN to_TO fat_JJ clients_NNS running_VBG web_NN browsers_NNS locally_RB ,_, our_PRP$ results_NNS show_VBP surprisingly_RB that_IN thin_JJ clients_NNS can_MD be_VB faster_JJR and_CC more_RBR resilient_JJ on_IN web_NN applications_NNS over_IN lossy_JJ wireless_JJ LANs_NNS despite_IN having_VBG to_TO send_VB more_JJR data_NNS over_IN the_DT network_NN ._.
+We_PRP characterize_VBP and_CC analyze_VBP different_JJ design_NN choices_NNS in_IN various_JJ thin-client_JJ systems_NNS and_CC explain_VB why_WRB these_DT approaches_NNS can_MD yield_VB superior_JJ web_NN browsing_VBG performance_NN in_IN lossy_JJ wireless_JJ networks_NNS ._.

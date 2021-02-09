@@ -1,0 +1,4 @@
+Distributed_VBN location_NN aware_JJ web_NN crawling_VBG
+Distributed_VBN crawling_NN has_VBZ shown_VBN that_IN it_PRP can_MD overcome_VB important_JJ limitations_NNS of_IN the_DT today_NN 's_POS crawling_VBG paradigm_NN ._.
+However_RB ,_, the_DT optimal_JJ benefits_NNS of_IN this_DT approach_NN are_VBP usually_RB limited_VBN to_TO the_DT sites_NNS hosting_VBG the_DT crawler_NN ._.
+In_IN this_DT work_NN ,_, we_PRP propose_VBP a_DT location-aware_JJ method_NN ,_, called_VBN IPMicra_NN ,_, that_WDT utilizes_VBZ an_DT IP_NNP address_NN hierarchy_NN ,_, and_CC allows_VBZ crawling_VBG of_IN links_NNS in_IN a_DT near_JJ optimal_JJ location_NN aware_JJ manner_NN ._.

@@ -1,0 +1,7 @@
+An_DT application_NN server_NN for_IN the_DT semantic_JJ web_NN
+The_DT Semantic_JJ Web_NN relies_VBZ on_IN the_DT complex_JJ interaction_NN of_IN several_JJ technologies_NNS involving_VBG ontologies_NNS ._.
+Therefore_RB ,_, sophisticated_JJ Semantic_JJ Web_NN applications_NNS typically_RB comprise_VBP more_JJR than_IN one_CD software_NN module_NN ._.
+Instead_RB of_IN coming_VBG up_RP with_IN proprietary_JJ solutions_NNS ,_, developers_NNS should_MD be_VB able_JJ to_TO rely_VB on_IN a_DT generic_JJ infrastructure_NN for_IN application_NN development_NN in_IN this_DT context_NN ._.
+We_PRP call_VBP such_JJ an_DT infrastructure_NN Application_NN Server_NN for_IN the_DT Semantic_JJ Web_NN whose_WP$ design_NN and_CC development_NN are_VBP based_VBN on_IN existing_VBG Application_NN Servers_NNS ._.
+However_RB ,_, we_PRP apply_VBP and_CC augment_VBP their_PRP$ underlying_JJ concepts_NNS for_IN use_NN in_IN the_DT Semantic_JJ Web_NN and_CC integrate_VB semantic_JJ technology_NN within_IN the_DT server_NN itself_PRP ._.
+We_PRP provide_VBP a_DT short_JJ overview_NN of_IN requirements_NNS and_CC design_NN issues_NNS of_IN such_PDT a_DT server_NN and_CC present_VB our_PRP$ implementation_NN and_CC ongoing_JJ work_NN KAON_NNP SERVER_NNP ._.

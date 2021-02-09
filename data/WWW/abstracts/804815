@@ -1,0 +1,11 @@
+Web_NN data_NNS integration_NN using_VBG approximate_JJ string_NN join_VB
+Web_NN data_NNS integration_NN is_VBZ an_DT important_JJ preprocessing_VBG step_NN for_IN web_NN mining_NN ._.
+It_PRP is_VBZ highly_RB likely_JJ that_IN several_JJ records_NNS on_IN the_DT web_NN whose_WP$ textual_JJ representations_NNS differ_VBP may_MD represent_VB the_DT same_JJ real_JJ world_NN entity_NN ._.
+These_DT records_NNS are_VBP called_VBN approximate_JJ duplicates_NNS ._.
+Data_NN integration_NN seeks_VBZ to_TO identify_VB such_JJ approximate_JJ duplicates_NNS and_CC merge_VB them_PRP into_IN integrated_VBN records_NNS ._.
+Many_JJ existing_VBG data_NNS integration_NN algorithms_NNS make_VBP use_NN of_IN approximate_JJ string_NN join_VB ,_, which_WDT seeks_VBZ to_TO -LRB-_-LRB- approximately_RB -RRB-_-RRB- find_VB all_DT pairs_NNS of_IN strings_NNS whose_WP$ distances_NNS are_VBP less_JJR than_IN a_DT certain_JJ threshold_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ mapping_NN method_NN to_TO detect_VB pairs_NNS of_IN strings_NNS with_IN similarity_NN above_IN a_DT certain_JJ threshold_NN ._.
+In_IN our_PRP$ method_NN ,_, each_DT string_NN is_VBZ first_RB mapped_VBN to_TO a_DT point_NN in_IN a_DT high_JJ dimensional_JJ grid_NN space_NN ,_, then_RB pairs_NNS of_IN points_NNS whose_WP$ distances_NNS are_VBP 1_CD are_VBP identified_VBN ._.
+We_PRP implement_VBP it_PRP using_VBG Oracle_NNP SQL_NNP and_CC PL\/SQL_NNP ._.
+Finally_RB ,_, we_PRP evaluate_VBP this_DT method_NN using_VBG real_JJ data_NNS sets_NNS ._.
+Experimental_JJ results_NNS suggest_VBP that_IN our_PRP$ method_NN is_VBZ both_CC accurate_JJ and_CC efficient_JJ ._.

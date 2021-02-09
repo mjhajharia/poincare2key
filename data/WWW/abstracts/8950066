@@ -1,0 +1,11 @@
+The_DT semantic_JJ webscape_NN :_: a_DT view_NN of_IN the_DT semantic_JJ web_NN
+It_PRP has_VBZ been_VBN a_DT few_JJ years_NNS since_IN the_DT semantic_JJ Web_NN was_VBD initiated_VBN by_IN W3C_NN ,_, but_CC its_PRP$ status_NN has_VBZ not_RB been_VBN quantitatively_RB measured_VBN ._.
+It_PRP is_VBZ crucial_JJ to_TO understand_VB the_DT status_NN at_IN this_DT early_JJ stage_NN ,_, for_IN researchers_NNS ,_, developers_NNS and_CC administrators_NNS to_TO gain_VB insight_NN into_IN what_WP will_MD come_VB in_IN this_DT field_NN ._.
+The_DT objective_NN of_IN our_PRP$ work_NN is_VBZ to_TO quantitatively_RB measure_VB and_CC present_VB the_DT status_NN of_IN the_DT semantic_JJ Web_NN ._.
+We_PRP conduct_VBP a_DT longitudinal_JJ study_NN on_IN the_DT semantic_JJ Web_NN pages_NNS to_TO track_VB trends_NNS in_IN the_DT use_NN of_IN semantic_JJ markup_NN languages_NNS ._.
+This_DT paper_NN presents_VBZ early_JJ results_NNS of_IN this_DT study_NN with_IN two_CD historical_JJ data_NNS sets_NNS from_IN October_NNP 2003_CD and_CC October_NNP 2004_CD ._.
+Our_PRP$ results_NNS show_VBP that_IN while_IN it_PRP is_VBZ very_RB early_JJ stage_NN of_IN semantic_JJ Web_NN adoption_NN ,_, its_PRP$ growth_NN outpaces_VBZ that_DT of_IN the_DT entire_JJ Web_NN for_IN the_DT period_NN ._.
+Also_RB ,_, RDF_NNP -LRB-_-LRB- Resource_NNP Description_NN Framework_NN -RRB-_-RRB- has_VBZ dominated_VBN among_IN semantic_JJ markup_NN languages_NNS ,_, taking_VBG about_RB 98_CD %_NN of_IN all_DT semantic_JJ pages_NNS on_IN the_DT Web_NN ._.
+It_PRP has_VBZ been_VBN used_VBN in_IN a_DT variety_NN of_IN metadata_JJ annotation_NN applications_NNS ._.
+This_DT study_NN shows_VBZ that_IN the_DT most_RBS popular_JJ application_NN is_VBZ RSS_NN -LRB-_-LRB- RDF_NN Site_NN Summary_NN -RRB-_-RRB- for_IN syndicating_VBG news_NN and_CC blogs_NNS ,_, which_WDT takes_VBZ more_JJR than_IN 60_CD %_NN of_IN all_DT semantic_JJ Web_NN pages_NNS ._.
+It_PRP also_RB shows_VBZ that_IN the_DT use_NN of_IN OWL_NN -LRB-_-LRB- Web_NN Ontology_NN Language_NN -RRB-_-RRB- which_WDT was_VBD recommended_VBN by_IN W3C_NN in_IN early_JJ 2004_CD has_VBZ been_VBN increased_VBN 900_CD %_NN for_IN the_DT period_NN ._.

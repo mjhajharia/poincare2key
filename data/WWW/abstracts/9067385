@@ -1,0 +1,6 @@
+Parallel_JJ crawlers_NNS
+In_IN this_DT paper_NN we_PRP study_VBD how_WRB we_PRP can_MD design_VB an_DT effective_JJ parallel_JJ crawler_NN ._.
+As_IN the_DT size_NN of_IN the_DT Web_NN grows_VBZ ,_, it_PRP becomes_VBZ imperative_JJ to_TO parallelize_VB a_DT crawling_VBG process_NN ,_, in_IN order_NN to_TO finish_VB downloading_VBG pages_NNS in_IN a_DT reasonable_JJ amount_NN of_IN time_NN ._.
+We_PRP first_RB propose_VBP multiple_JJ architectures_NNS for_IN a_DT parallel_JJ crawler_NN and_CC identify_VB fundamental_JJ issues_NNS related_VBN to_TO parallel_VB crawling_VBG ._.
+Based_VBN on_IN this_DT understanding_NN ,_, we_PRP then_RB propose_VBP metrics_NNS to_TO evaluate_VB a_DT parallel_JJ crawler_NN ,_, and_CC compare_VB the_DT proposed_VBN architectures_NNS using_VBG 40_CD million_CD pages_NNS collected_VBN from_IN the_DT Web_NN ._.
+Our_PRP$ results_NNS clarify_VBP the_DT relative_JJ merits_NNS of_IN each_DT architecture_NN and_CC provide_VBP a_DT good_JJ guideline_NN on_IN when_WRB to_TO adopt_VB which_WDT architecture_NN ._.

@@ -1,0 +1,7 @@
+Using_VBG symbolic_JJ objects_NNS to_TO cluster_VB web_NN documents_NNS
+Web_NN Clustering_NN is_VBZ useful_JJ for_IN several_JJ activities_NNS in_IN the_DT WWW_NNP ,_, from_IN automatically_RB building_VBG web_NN directories_NNS to_TO improve_VB retrieval_NN performance_NN ._.
+Nevertheless_RB ,_, due_JJ to_TO the_DT huge_JJ size_NN of_IN the_DT web_NN ,_, a_DT linear_JJ mechanism_NN must_MD be_VB employed_VBN to_TO cluster_VB web_NN documents_NNS ._.
+The_DT k-means_NN is_VBZ one_CD classic_JJ algorithm_NN used_VBN in_IN this_DT problem_NN ._.
+We_PRP present_VBP a_DT variant_NN of_IN the_DT vector_NN model_NN to_TO be_VB used_VBN with_IN the_DT k-means_NN algorithm_NN ._.
+Our_PRP$ representation_NN uses_VBZ symbolic_JJ objects_NNS for_IN clustering_NN web_NN documents_NNS ._.
+Some_DT experiments_NNS were_VBD done_VBN with_IN positive_JJ results_NNS and_CC future_JJ work_NN is_VBZ optimistic_JJ ._.

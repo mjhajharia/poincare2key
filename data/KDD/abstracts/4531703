@@ -1,0 +1,8 @@
+Local_JJ decomposition_NN for_IN rare_JJ class_NN analysis_NN
+Given_VBN its_PRP$ importance_NN ,_, the_DT problem_NN of_IN predicting_VBG rare_JJ classes_NNS in_IN large-scale_JJ multi-labeled_JJ data_NN sets_NNS has_VBZ attracted_VBN great_JJ attentions_NNS in_IN the_DT literature_NN ._.
+However_RB ,_, the_DT rare-class_JJ problem_NN remains_VBZ a_DT critical_JJ challenge_NN ,_, because_IN there_EX is_VBZ no_DT natural_JJ way_NN developed_VBN for_IN handling_VBG imbalanced_JJ class_NN distributions_NNS ._.
+This_DT paper_NN thus_RB fills_VBZ this_DT crucial_JJ void_NN by_IN developing_VBG a_DT method_NN for_IN Classification_NN using_VBG lOcal_JJ clusterinG_NN -LRB-_-LRB- COG_NN -RRB-_-RRB- ._.
+Specifically_RB ,_, for_IN a_DT data_NNS set_VBN with_IN an_DT imbalanced_JJ class_NN distribution_NN ,_, we_PRP perform_VBP clustering_NN within_IN each_DT large_JJ class_NN and_CC produce_NN sub-classes_NNS with_IN relatively_RB balanced_JJ sizes_NNS ._.
+Then_RB ,_, we_PRP apply_VBP traditional_JJ supervised_JJ learning_NN algorithms_NNS ,_, such_JJ as_IN Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- ,_, for_IN classification_NN ._.
+Indeed_RB ,_, our_PRP$ experimental_JJ results_NNS on_IN various_JJ real-world_JJ data_NNS sets_NNS show_VBP that_IN our_PRP$ method_NN produces_VBZ significantly_RB higher_JJR prediction_NN accuracies_NNS on_IN rare_JJ classes_NNS than_IN state-of-the-art_JJ methods_NNS ._.
+Furthermore_RB ,_, we_PRP show_VBP that_IN COG_NN can_MD also_RB improve_VB the_DT performance_NN of_IN traditional_JJ supervised_JJ learning_NN algorithms_NNS on_IN data_NNS sets_NNS with_IN balanced_JJ class_NN distributions_NNS ._.

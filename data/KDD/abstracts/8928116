@@ -1,0 +1,17 @@
+On_IN interactive_JJ visualization_NN of_IN high-dimensional_JJ data_NNS using_VBG the_DT hyperbolic_JJ plane_NN
+We_PRP propose_VBP a_DT novel_JJ projection_NN based_JJ visualization_NN method_NN for_IN high-dimensional_JJ datasets_NNS by_IN combining_VBG concepts_NNS from_IN MDS_NN and_CC the_DT geometry_NN of_IN the_DT hyperbolic_JJ spaces_NNS ._.
+Our_PRP$ approach_NN Hyperbolic_JJ Multi-Dimensional_JJ Scaling_NN -LRB-_-LRB- H-MDS_NN -RRB-_-RRB- extends_VBZ earlier_JJR work_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- using_VBG hyperbolic_JJ spaces_NNS for_IN visualization_NN of_IN tree_NN structures_NNS data_NNS -LRB-_-LRB- ``_`` hyperbolic_JJ tree_NN browser_NN ''_'' -RRB-_-RRB- ._.
+By_IN borrowing_VBG concepts_NNS from_IN multi-dimensional_JJ scaling_NN we_PRP map_VBP proximity_NN data_NNS directly_RB into_IN the_DT 2-dimensional_JJ hyperbolic_JJ space_NN -LRB-_-LRB- H2_NN -RRB-_-RRB- ._.
+This_DT removes_VBZ the_DT restriction_NN to_TO ``_`` quasihierarchical_JJ ''_'' ,_, graph-based_JJ data_NNS --_: limiting_VBG previous_JJ work_NN ._.
+Since_IN a_DT suitable_JJ distance_NN function_NN can_MD convert_VB all_DT kinds_NNS of_IN data_NNS to_TO proximity_NN -LRB-_-LRB- or_CC distance-based_JJ -RRB-_-RRB- data_NNS this_DT type_NN of_IN data_NNS can_MD be_VB considered_VBN the_DT most_RBS general_JJ ._.
+We_PRP used_VBD the_DT circular_JJ Poincaré_NNP model_NN of_IN the_DT H2_NN which_WDT allows_VBZ effective_JJ human-computer_JJ interaction_NN :_: by_IN moving_VBG the_DT ``_`` focus_NN ''_'' via_IN mouse_NN the_DT user_NN can_MD navigate_VB in_IN the_DT data_NNS without_IN loosing_VBG the_DT ``_`` context_NN ''_'' ._.
+In_IN H2_NN the_DT ``_`` fish-eye_JJ ''_'' behavior_NN originates_VBZ not_RB simply_RB by_IN a_DT non-linear_JJ view_NN transformation_NN but_CC rather_RB by_IN extraordinary_JJ ,_, non-Euclidean_JJ properties_NNS of_IN the_DT H2_NN ._.
+Especially_RB ,_, the_DT exponential_JJ growth_NN of_IN length_NN and_CC area_NN of_IN the_DT underlying_JJ space_NN makes_VBZ the_DT H2_NN a_DT prime_JJ target_NN for_IN mapping_NN hierarchical_JJ and_CC -LRB-_-LRB- now_RB also_RB -RRB-_-RRB- high-dimensional_JJ data_NNS ._.
+We_PRP present_VBP several_JJ high-dimensional_JJ mapping_NN examples_NNS including_VBG synthetic_JJ and_CC real_JJ world_NN data_NNS and_CC a_DT successful_JJ application_NN for_IN unstructured_JJ text_NN ._.
+By_IN analyzing_VBG and_CC integrating_VBG multiple_JJ film_NN critiques_NNS from_IN news_NN :_: rec_NN ._.
+art_NN ._.
+movies_NNS ._.
+reviews_NNS and_CC the_DT internet_NN movie_NN database_NN ,_, each_DT movie_NN becomes_VBZ placed_VBN within_IN the_DT H2_NN ._.
+Here_RB the_DT idea_NN is_VBZ ,_, that_IN related_JJ films_NNS share_VBP more_JJR words_NNS in_IN their_PRP$ reviews_NNS than_IN unrelated_JJ ._.
+Their_PRP$ semantic_JJ proximity_NN leads_VBZ to_TO a_DT closer_JJR arrangement_NN ._.
+The_DT result_NN is_VBZ a_DT kind_NN of_IN high-level_JJ content_NN structured_JJ display_NN allowing_VBG the_DT user_NN to_TO explore_VB the_DT ``_`` space_NN of_IN movies_NNS ''_'' ._.

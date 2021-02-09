@@ -1,0 +1,7 @@
+Modeling_NN relationship_NN strength_NN in_IN online_JJ social_JJ networks_NNS
+Previous_JJ work_NN analyzing_VBG social_JJ networks_NNS has_VBZ mainly_RB focused_VBN on_IN binary_JJ friendship_NN relations_NNS ._.
+However_RB ,_, in_IN online_JJ social_JJ networks_NNS the_DT low_JJ cost_NN of_IN link_NN formation_NN can_MD lead_VB to_TO networks_NNS with_IN heterogeneous_JJ relationship_NN strengths_NNS -LRB-_-LRB- e.g._FW ,_, acquaintances_NNS and_CC best_JJS friends_NNS mixed_VBN together_RB -RRB-_-RRB- ._.
+In_IN this_DT case_NN ,_, the_DT binary_JJ friendship_NN indicator_NN provides_VBZ only_RB a_DT coarse_JJ representation_NN of_IN relationship_NN information_NN ._.
+In_IN this_DT work_NN ,_, we_PRP develop_VBP an_DT unsupervised_JJ model_NN to_TO estimate_VB relationship_NN strength_NN from_IN interaction_NN activity_NN -LRB-_-LRB- e.g._FW ,_, communication_NN ,_, tagging_VBG -RRB-_-RRB- and_CC user_NN similarity_NN ._.
+More_RBR specifically_RB ,_, we_PRP formulate_VBP a_DT link-based_JJ latent_JJ variable_JJ model_NN ,_, along_IN with_IN a_DT coordinate_JJ ascent_NN optimization_NN procedure_NN for_IN the_DT inference_NN ._.
+We_PRP evaluate_VBP our_PRP$ approach_NN on_IN real-world_JJ data_NNS from_IN Facebook_NNP and_CC LinkedIn_NNP ,_, showing_VBG that_IN the_DT estimated_VBN link_NN weights_NNS result_VBP in_IN higher_JJR autocorrelation_NN and_CC lead_VB to_TO improved_VBN classification_NN accuracy_NN ._.

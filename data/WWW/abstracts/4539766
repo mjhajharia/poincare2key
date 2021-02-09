@@ -1,0 +1,6 @@
+Online_JJ mining_NN of_IN frequent_JJ query_NN trees_NNS over_IN XML_NN data_NNS streams_NNS
+In_IN this_DT paper_NN ,_, we_PRP proposed_VBD an_DT online_JJ algorithm_NN ,_, called_VBN FQT-Stream_JJ -LRB-_-LRB- Frequent_JJ Query_NNP Trees_NNP of_IN Streams_NNP -RRB-_-RRB- ,_, to_TO mine_VB the_DT set_NN of_IN all_DT frequent_JJ tree_NN patterns_NNS over_IN a_DT continuous_JJ XML_NN data_NNS stream_NN ._.
+A_DT new_JJ numbering_NN method_NN is_VBZ proposed_VBN to_TO represent_VB the_DT tree_NN structure_NN of_IN a_DT XML_NN query_NN tree_NN ._.
+An_DT effective_JJ sub-tree_JJ numeration_NN approach_NN is_VBZ developed_VBN to_TO extract_VB the_DT essential_JJ information_NN from_IN the_DT XML_NN data_NNS stream_NN ._.
+The_DT extracted_VBN information_NN is_VBZ stored_VBN in_IN an_DT effective_JJ summary_NN data_NNS structure_NN ._.
+Frequent_JJ query_NN trees_NNS are_VBP mined_VBN from_IN the_DT current_JJ summary_NN data_NNS structure_NN by_IN a_DT depth-first-search_JJ manner_NN ._.

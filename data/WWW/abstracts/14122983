@@ -1,0 +1,11 @@
+Trains_NNS of_IN thought_NN :_: generating_VBG information_NN maps_NNS
+When_WRB information_NN is_VBZ abundant_JJ ,_, it_PRP becomes_VBZ increasingly_RB difficult_JJ to_TO fit_VB nuggets_NNS of_IN knowledge_NN into_IN a_DT single_JJ coherent_JJ picture_NN ._.
+Complex_NN stories_NNS spaghetti_NNS into_IN branches_NNS ,_, side_NN stories_NNS ,_, and_CC intertwining_VBG narratives_NNS ._.
+In_IN order_NN to_TO explore_VB these_DT stories_NNS ,_, one_CD needs_VBZ a_DT map_NN to_TO navigate_VB unfamiliar_JJ territory_NN ._.
+We_PRP propose_VBP a_DT methodology_NN for_IN creating_VBG structured_JJ summaries_NNS of_IN information_NN ,_, which_WDT we_PRP call_VBP metro_NN maps_NNS ._.
+Our_PRP$ proposed_VBN algorithm_NN generates_VBZ a_DT concise_JJ structured_JJ set_NN of_IN documents_NNS maximizing_VBG coverage_NN of_IN salient_JJ pieces_NNS of_IN information_NN ._.
+Most_RBS importantly_RB ,_, metro_NN maps_NNS explicitly_RB show_VBP the_DT relations_NNS among_IN retrieved_VBN pieces_NNS in_IN a_DT way_NN that_WDT captures_VBZ story_NN development_NN ._.
+We_PRP first_RB formalize_VBP characteristics_NNS of_IN good_JJ maps_NNS and_CC formulate_VB their_PRP$ construction_NN as_IN an_DT optimization_NN problem_NN ._.
+Then_RB we_PRP provide_VBP efficient_JJ methods_NNS with_IN theoretical_JJ guarantees_NNS for_IN generating_VBG maps_NNS ._.
+Finally_RB ,_, we_PRP integrate_VBP user_NN interaction_NN into_IN our_PRP$ framework_NN ,_, allowing_VBG users_NNS to_TO alter_VB the_DT maps_NNS to_TO better_RBR reflect_VB their_PRP$ interests_NNS ._.
+Pilot_NN user_NN studies_NNS with_IN a_DT real-world_JJ dataset_NN demonstrate_VBP that_IN the_DT method_NN is_VBZ able_JJ to_TO produce_VB maps_NNS which_WDT help_VBP users_NNS acquire_VB knowledge_NN efficiently_RB ._.

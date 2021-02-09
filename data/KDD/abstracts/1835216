@@ -1,0 +1,10 @@
+Efficient_JJ decision_NN tree_NN construction_NN on_IN streaming_NN data_NNS
+Decision_NN tree_NN construction_NN is_VBZ a_DT well_RB studied_VBN problem_NN in_IN data_NNS mining_NN ._.
+Recently_RB ,_, there_EX has_VBZ been_VBN much_JJ interest_NN in_IN mining_NN streaming_NN data_NNS ._.
+Domingos_NNP and_CC Hulten_NNP have_VBP presented_VBN a_DT one-pass_JJ algorithm_NN for_IN decision_NN tree_NN construction_NN ._.
+Their_PRP$ work_NN uses_VBZ Hoeffding_JJ inequality_NN to_TO achieve_VB a_DT probabilistic_NN bound_VBN on_IN the_DT accuracy_NN of_IN the_DT tree_NN constructed_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP revisit_VBP this_DT problem_NN ._.
+We_PRP make_VBP the_DT following_JJ two_CD contributions_NNS :_: 1_LS -RRB-_-RRB- We_PRP present_VBP a_DT numerical_JJ interval_NN pruning_NN -LRB-_-LRB- NIP_NN -RRB-_-RRB- approach_NN for_IN efficiently_RB processing_VBG numerical_JJ attributes_NNS ._.
+Our_PRP$ results_NNS show_VBP an_DT average_NN of_IN 39_CD %_NN reduction_NN in_IN execution_NN times_NNS ._.
+2_LS -RRB-_-RRB- We_PRP exploit_VBP the_DT properties_NNS of_IN the_DT gain_NN function_NN entropy_NN -LRB-_-LRB- and_CC gini_NNS -RRB-_-RRB- to_TO reduce_VB the_DT sample_NN size_NN required_VBN for_IN obtaining_VBG a_DT given_VBN bound_VBN on_IN the_DT accuracy_NN ._.
+Our_PRP$ experimental_JJ results_NNS show_VBP a_DT 37_CD %_NN reduction_NN in_IN the_DT number_NN of_IN data_NNS instances_NNS required_VBN ._.

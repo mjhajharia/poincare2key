@@ -1,0 +1,13 @@
+Eliminating_VBG noisy_JJ information_NN in_IN Web_NN pages_NNS for_IN data_NNS mining_NN
+A_DT commercial_JJ Web_NN page_NN typically_RB contains_VBZ many_JJ information_NN blocks_NNS ._.
+Apart_RB from_IN the_DT main_JJ content_NN blocks_NNS ,_, it_PRP usually_RB has_VBZ such_JJ blocks_NNS as_IN navigation_NN panels_NNS ,_, copyright_NN and_CC privacy_NN notices_NNS ,_, and_CC advertisements_NNS -LRB-_-LRB- for_IN business_NN purposes_NNS and_CC for_IN easy_JJ user_NN access_NN -RRB-_-RRB- ._.
+We_PRP call_VBP these_DT blocks_NNS that_WDT are_VBP not_RB the_DT main_JJ content_NN blocks_NNS of_IN the_DT page_NN the_DT noisy_JJ blocks_NNS ._.
+We_PRP show_VBP that_IN the_DT information_NN contained_VBN in_IN these_DT noisy_JJ blocks_NNS can_MD seriously_RB harm_VB Web_NN data_NNS mining_NN ._.
+Eliminating_VBG these_DT noises_NNS is_VBZ thus_RB of_IN great_JJ importance_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT noise_NN elimination_NN technique_NN based_VBN on_IN the_DT following_JJ observation_NN :_: In_IN a_DT given_VBN Web_NN site_NN ,_, noisy_JJ blocks_NNS usually_RB share_VBP some_DT common_JJ contents_NNS and_CC presentation_NN styles_NNS ,_, while_IN the_DT main_JJ content_NN blocks_NNS of_IN the_DT pages_NNS are_VBP often_RB diverse_JJ in_IN their_PRP$ actual_JJ contents_NNS and\/or_CC presentation_NN styles_NNS ._.
+Based_VBN on_IN this_DT observation_NN ,_, we_PRP propose_VBP a_DT tree_NN structure_NN ,_, called_VBN Style_NNP Tree_NNP ,_, to_TO capture_VB the_DT common_JJ presentation_NN styles_NNS and_CC the_DT actual_JJ contents_NNS of_IN the_DT pages_NNS in_IN a_DT given_VBN Web_NN site_NN ._.
+By_IN sampling_NN the_DT pages_NNS of_IN the_DT site_NN ,_, a_DT Style_NN Tree_NN can_MD be_VB built_VBN for_IN the_DT site_NN ,_, which_WDT we_PRP call_VBP the_DT Site_NN Style_NN Tree_NN -LRB-_-LRB- SST_NN -RRB-_-RRB- ._.
+We_PRP then_RB introduce_VBP an_DT information_NN based_JJ measure_NN to_TO determine_VB which_WDT parts_NNS of_IN the_DT SST_NNP represent_VBP noises_NNS and_CC which_WDT parts_NNS represent_VBP the_DT main_JJ contents_NNS of_IN the_DT site_NN ._.
+The_DT SST_NNP is_VBZ employed_VBN to_TO detect_VB and_CC eliminate_VB noises_NNS in_IN any_DT Web_NN page_NN of_IN the_DT site_NN by_IN mapping_VBG this_DT page_NN to_TO the_DT SST_NNP ._.
+The_DT proposed_VBN technique_NN is_VBZ evaluated_VBN with_IN two_CD data_NNS mining_NN tasks_NNS ,_, Web_NN page_NN clustering_NN and_CC classification_NN ._.
+Experimental_JJ results_NNS show_VBP that_IN our_PRP$ noise_NN elimination_NN technique_NN is_VBZ able_JJ to_TO improve_VB the_DT mining_NN results_NNS significantly_RB ._.

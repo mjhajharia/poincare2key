@@ -1,0 +1,5 @@
+Adaptive_JJ query_NN routing_VBG in_IN peer_VB web_NN search_NN
+An_DT unstructured_JJ peer_VBP network_NN application_NN was_VBD proposed_VBN to_TO address_VB the_DT query_NN forwarding_NN problem_NN of_IN distributed_VBN search_NN engines_NNS and_CC scalability_NN limitations_NNS of_IN centralized_JJ search_NN engines_NNS ._.
+Here_RB we_PRP present_VBP novel_JJ techniques_NNS to_TO improve_VB local_JJ adaptive_JJ routing_VBG ,_, showing_VBG they_PRP perform_VBP significantly_RB better_JJR than_IN a_DT simple_JJ learning_NN scheme_NN driven_VBN by_IN query_NN response_NN interactions_NNS among_IN neighbors_NNS ._.
+We_PRP validate_VBP prototypes_NNS of_IN our_PRP$ peer_VB network_NN application_NN via_IN simulations_NNS with_IN 500_CD model_NN users_NNS based_VBN on_IN actual_JJ Web_NN crawls_VBZ ._.
+We_PRP finally_RB compare_VBP the_DT quality_NN of_IN the_DT results_NNS with_IN those_DT obtained_VBN by_IN centralized_JJ search_NN engines_NNS ,_, suggesting_VBG that_IN our_PRP$ application_NN can_MD draw_VB advantages_NNS from_IN the_DT context_NN and_CC coverage_NN of_IN the_DT peer_VBP collective_JJ ._.

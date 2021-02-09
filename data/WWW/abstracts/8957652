@@ -1,0 +1,4 @@
+A_DT more_RBR precise_JJ model_NN for_IN web_NN retrieval_NN
+Most_JJS research_NN works_VBZ on_IN web_NN retrieval_NN latency_NN are_VBP object-level_JJ based_VBN ,_, which_WDT we_PRP think_VBP is_VBZ insufficient_JJ and_CC sometimes_RB inaccurate_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT fine_JJ grained_JJ operation-level_JJ Web_NN Retrieval_NNP Dependency_NNP Model_NNP -LRB-_-LRB- WRDM_NNP -RRB-_-RRB- to_TO provide_VB more_RBR precise_JJ capture_NN of_IN web_NN retrieval_NN process_NN ._.
+Our_PRP$ model_NN reveals_VBZ some_DT new_JJ factors_NNS in_IN web_NN retrieval_NN which_WDT can_MD not_RB be_VB seen_VBN at_IN object_NN level_NN but_CC are_VBP very_RB important_JJ to_TO studies_NNS in_IN the_DT web_NN retrieval_NN area_NN ._.

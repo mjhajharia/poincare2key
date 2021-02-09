@@ -1,0 +1,6 @@
+k-NN_NN as_IN an_DT implementation_NN of_IN situation_NN testing_NN for_IN discrimination_NN discovery_NN and_CC prevention_NN
+With_IN the_DT support_NN of_IN the_DT legally-grounded_JJ methodology_NN of_IN situation_NN testing_NN ,_, we_PRP tackle_VBP the_DT problems_NNS of_IN discrimination_NN discovery_NN and_CC prevention_NN from_IN a_DT dataset_NN of_IN historical_JJ decisions_NNS by_IN adopting_VBG a_DT variant_NN of_IN k-NN_NN classification_NN ._.
+A_DT tuple_NN is_VBZ labeled_VBN as_IN discriminated_VBN if_IN we_PRP can_MD observe_VB a_DT significant_JJ difference_NN of_IN treatment_NN among_IN its_PRP$ neighbors_NNS belonging_VBG to_TO a_DT protected-by-law_NN group_NN and_CC its_PRP$ neighbors_NNS not_RB belonging_VBG to_TO it_PRP ._.
+Discrimination_NN discovery_NN boils_VBZ down_RP to_TO extracting_VBG a_DT classification_NN model_NN from_IN the_DT labeled_JJ tuples_NNS ._.
+Discrimination_NN prevention_NN is_VBZ tackled_VBN by_IN changing_VBG the_DT decision_NN value_NN for_IN tuples_NNS labeled_VBN as_IN discriminated_VBN before_IN training_VBG a_DT classifier_NN ._.
+The_DT approach_NN of_IN this_DT paper_NN overcomes_VBZ legal_JJ weaknesses_NNS and_CC technical_JJ limitations_NNS of_IN existing_VBG proposals_NNS ._.

@@ -1,0 +1,6 @@
+Inferring_VBG private_JJ information_NN using_VBG social_JJ network_NN data_NNS
+On-line_JJ social_JJ networks_NNS ,_, such_JJ as_IN Facebook_NNP ,_, are_VBP increasingly_RB utilized_VBN by_IN many_JJ users_NNS ._.
+These_DT networks_NNS allow_VBP people_NNS to_TO publish_VB details_NNS about_IN themselves_PRP and_CC connect_VB to_TO their_PRP$ friends_NNS ._.
+Some_DT of_IN the_DT information_NN revealed_VBD inside_IN these_DT networks_NNS is_VBZ private_JJ and_CC it_PRP is_VBZ possible_JJ that_IN corporations_NNS could_MD use_VB learning_VBG algorithms_NNS on_IN the_DT released_VBN data_NNS to_TO predict_VB undisclosed_JJ private_JJ information_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP explore_VBP how_WRB to_TO launch_VB inference_NN attacks_NNS using_VBG released_VBN social_JJ networking_VBG data_NNS to_TO predict_VB undisclosed_JJ private_JJ information_NN about_IN individuals_NNS ._.
+We_PRP then_RB explore_VBP the_DT effectiveness_NN of_IN possible_JJ sanitization_NN techniques_NNS that_WDT can_MD be_VB used_VBN to_TO combat_VB such_JJ inference_NN attacks_NNS under_IN different_JJ scenarios_NNS ._.

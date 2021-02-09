@@ -1,0 +1,7 @@
+Price_NN modeling_NN in_IN standards_NNS for_IN electronic_JJ product_NN catalogs_NNS based_VBN on_IN XML_NN
+The_DT fast_JJ spreading_NN of_IN electronic_JJ business-to-business_NN procurement_NN systems_NNS has_VBZ led_VBN to_TO the_DT development_NN of_IN new_JJ standards_NNS for_IN the_DT exchange_NN of_IN electronic_JJ product_NN catalogs_NNS -LRB-_-LRB- e-catalogs_NNS -RRB-_-RRB- ._.
+E-catalogs_NNS contain_VBP various_JJ information_NN about_IN products_NNS ,_, essential_JJ is_VBZ price_NN information_NN ._.
+Prices_NNS are_VBP used_VBN for_IN buying_VBG decisions_NNS and_CC following_VBG order_NN transactions_NNS ._.
+While_IN simple_JJ price_NN models_NNS are_VBP often_RB sufficient_JJ for_IN the_DT description_NN of_IN indirect_JJ goods_NNS -LRB-_-LRB- e.g._FW office_NN supplies_NNS -RRB-_-RRB- ,_, other_JJ goods_NNS and_CC lines_NNS of_IN business_NN make_VBP higher_JJR demands_NNS ._.
+In_IN this_DT paper_NN we_PRP examine_VBP what_WDT price_NN information_NN is_VBZ contained_VBN in_IN commercial_JJ XML_NN standards_NNS for_IN the_DT exchange_NN of_IN product_NN catalog_NN data_NNS ._.
+For_IN that_DT purpose_NN we_PRP bring_VBP the_DT different_JJ implicit_JJ price_NN models_NNS of_IN the_DT examined_VBN catalog_NN standards_NNS together_RB and_CC provide_VB a_DT generalized_JJ model_NN ._.

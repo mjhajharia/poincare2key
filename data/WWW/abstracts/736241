@@ -1,0 +1,10 @@
+G-ToPSS_NN :_: fast_RB filtering_VBG of_IN graph-based_JJ metadata_NN
+RDF_NNP is_VBZ increasingly_RB being_VBG used_VBN to_TO represent_VB metadata_NN ._.
+RDF_NN Site_NN Summary_NN -LRB-_-LRB- RSS_NN -RRB-_-RRB- is_VBZ an_DT application_NN of_IN RDF_NNP on_IN the_DT Web_NN that_WDT has_VBZ considerably_RB grown_VBN in_IN popularity_NN ._.
+However_RB ,_, the_DT way_NN RSS_NN systems_NNS operate_VBP today_NN does_VBZ not_RB scale_VB well_RB ._.
+In_IN this_DT paper_NN we_PRP introduce_VBP G-ToPSS_NN ,_, a_DT scalable_JJ publish\/subscribe_NN system_NN for_IN selective_JJ information_NN dissemination_NN ._.
+G-ToPSS_NN is_VBZ particularly_RB well_RB suited_VBN for_IN applications_NNS that_WDT deal_VBP with_IN large-volume_JJ content_NN distribution_NN from_IN diverse_JJ sources_NNS ._.
+RSS_NN is_VBZ an_DT instance_NN of_IN the_DT content_NN distribution_NN problem_NN ._.
+G-ToPSS_NN allows_VBZ use_NN of_IN ontology_NN as_IN a_DT way_NN to_TO provide_VB additional_JJ information_NN about_IN the_DT data_NNS ._.
+Furthermore_RB ,_, in_IN this_DT paper_NN we_PRP show_VBP how_WRB G-ToPSS_NN can_MD support_VB RDFS_NN class_NN taxonomies_NNS ._.
+We_PRP have_VBP implemented_VBN and_CC experimentally_RB evaluated_VBN G-ToPSS_NN and_CC we_PRP provide_VBP results_NNS in_IN the_DT paper_NN demonstrating_VBG its_PRP$ scalability_NN compared_VBN to_TO alternatives_NNS ._.

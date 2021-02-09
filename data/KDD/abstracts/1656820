@@ -1,0 +1,8 @@
+Learning_NNP to_TO predict_VB train_NN wheel_NN failures_NNS
+This_DT paper_NN describes_VBZ a_DT successful_JJ but_CC challenging_JJ application_NN of_IN data_NNS mining_NN in_IN the_DT railway_NN industry_NN ._.
+The_DT objective_NN is_VBZ to_TO optimize_VB maintenance_NN and_CC operation_NN of_IN trains_NNS through_IN prognostics_NNS of_IN wheel_NN failures_NNS ._.
+In_IN addition_NN to_TO reducing_VBG maintenance_NN costs_NNS ,_, the_DT proposed_VBN technology_NN will_MD help_VB improve_VB railway_NN safety_NN and_CC augment_VB throughput_NN ._.
+Building_NN on_IN established_JJ techniques_NNS from_IN data_NNS mining_NN and_CC machine_NN learning_NN ,_, we_PRP present_VBP a_DT methodology_NN to_TO learn_VB models_NNS to_TO predict_VB train_NN wheel_NN failures_NNS from_IN readily_RB available_JJ operational_JJ and_CC maintenance_NN data_NNS ._.
+This_DT methodology_NN addresses_VBZ various_JJ data_NNS mining_NN tasks_NNS such_JJ as_IN automatic_JJ labeling_NN ,_, feature_NN extraction_NN ,_, model_NN building_NN ,_, model_NN fusion_NN ,_, and_CC evaluation_NN ._.
+After_IN a_DT detailed_JJ description_NN of_IN the_DT methodology_NN ,_, we_PRP report_VBP results_NNS from_IN large-scale_JJ experiments_NNS ._.
+These_DT results_NNS clearly_RB show_VBP the_DT great_JJ potential_NN of_IN this_DT innovative_JJ application_NN of_IN data_NNS mining_NN in_IN the_DT railway_NN industry_NN ._.

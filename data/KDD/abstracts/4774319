@@ -1,0 +1,10 @@
+Parallel_JJ mining_NN of_IN closed_JJ sequential_JJ patterns_NNS
+Discovery_NNP of_IN sequential_JJ patterns_NNS is_VBZ an_DT essential_JJ data_NN mining_NN task_NN with_IN broad_JJ applications_NNS ._.
+Among_IN several_JJ variations_NNS of_IN sequential_JJ patterns_NNS ,_, closed_VBD sequential_JJ pattern_NN is_VBZ the_DT most_RBS useful_JJ one_CD since_IN it_PRP retains_VBZ all_PDT the_DT information_NN of_IN the_DT complete_JJ pattern_NN set_NN but_CC is_VBZ often_RB much_RB more_RBR compact_JJ than_IN it_PRP ._.
+Unfortunately_RB ,_, there_EX is_VBZ no_DT parallel_NN closed_VBD sequential_JJ pattern_NN mining_NN method_NN proposed_VBN yet_RB ._.
+In_IN this_DT paper_NN we_PRP develop_VBP an_DT algorithm_NN ,_, called_VBN Par-CSP_NN -LRB-_-LRB- Parallel_JJ Closed_JJ Sequential_JJ Pattern_NN mining_NN -RRB-_-RRB- ,_, to_TO conduct_VB parallel_JJ mining_NN of_IN closed_JJ sequential_JJ patterns_NNS on_IN a_DT distributed_VBN memory_NN system_NN ._.
+Par-CSP_NN partitions_NNS the_DT work_NN among_IN the_DT processors_NNS by_IN exploiting_VBG the_DT divide-and-conquer_JJ property_NN so_IN that_IN the_DT overhead_NN of_IN interprocessor_NN communication_NN is_VBZ minimized_VBN ._.
+Par-CSP_NN applies_VBZ dynamic_JJ scheduling_NN to_TO avoid_VB processor_NN idling_VBG ._.
+Moreover_RB ,_, it_PRP employs_VBZ a_DT technique_NN ,_, called_VBN selective_JJ sampling_NN to_TO address_VB the_DT load_NN imbalance_NN problem_NN ._.
+We_PRP implement_VBP Par-CSP_NN using_VBG MPI_NNP on_IN a_DT 64-node_JJ Linux_NNP cluster_NN ._.
+Our_PRP$ experimental_JJ results_NNS show_VBP that_IN Par-CSP_NN attains_VBZ good_JJ parallelization_NN efficiencies_NNS on_IN various_JJ input_NN datasets_NNS ._.

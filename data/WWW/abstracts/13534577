@@ -1,0 +1,8 @@
+Crosslanguage_FW blog_FW mining_NN and_CC trend_NN visualisation_NN
+People_NNS use_VBP weblogs_NNS to_TO express_VB thoughts_NNS ,_, present_JJ ideas_NNS and_CC share_NN knowledge_NN ,_, therefore_RB weblogs_NNS are_VBP extraordinarily_RB valuable_JJ resources_NNS ,_, amongs_NNS others_NNS ,_, for_IN trend_NN analysis_NN ._.
+Trends_NNS are_VBP derived_VBN from_IN the_DT chronological_JJ sequence_NN of_IN blog_NN post_NN count_NN per_IN topic_NN ._.
+The_DT comparison_NN with_IN a_DT reference_NN corpus_NN allows_VBZ qualitative_JJ statements_NNS over_IN identified_VBN trends_NNS ._.
+We_PRP propose_VBP a_DT crosslanguage_NN blog_NN mining_NN and_CC trend_NN visualisation_NN system_NN to_TO analyze_VB blogs_NNS across_IN languages_NNS and_CC topics_NNS ._.
+The_DT trend_NN visualisation_NN facilitates_VBZ the_DT identification_NN of_IN trends_NNS and_CC the_DT comparison_NN with_IN the_DT reference_NN news_NN article_NN corpus_NN ._.
+To_TO prove_VB the_DT correctness_NN of_IN our_PRP$ system_NN we_PRP computed_VBD the_DT correlation_NN between_IN trends_NNS in_IN blogs_NNS and_CC news_NN articles_NNS for_IN a_DT subset_NN of_IN blogs_NNS and_CC topics_NNS ._.
+The_DT evaluation_NN corroborated_VBD our_PRP$ hypothesis_NN of_IN a_DT high_JJ correlation_NN coefficient_NN for_IN these_DT subsets_NNS and_CC therefore_RB the_DT correctness_NN of_IN our_PRP$ system_NN for_IN different_JJ languages_NNS and_CC topics_NNS is_VBZ proven_VBN ._.

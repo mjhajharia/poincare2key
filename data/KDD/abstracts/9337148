@@ -1,0 +1,8 @@
+Community_NN evolution_NN in_IN dynamic_JJ multi-mode_JJ networks_NNS
+A_DT multi-mode_JJ network_NN typically_RB consists_VBZ of_IN multiple_JJ heterogeneous_JJ social_JJ actors_NNS among_IN which_WDT various_JJ types_NNS of_IN interactions_NNS could_MD occur_VB ._.
+Identifying_VBG communities_NNS in_IN a_DT multi-mode_JJ network_NN can_MD help_VB understand_VB the_DT structural_JJ properties_NNS of_IN the_DT network_NN ,_, address_VBP the_DT data_NNS shortage_NN and_CC unbalanced_JJ problems_NNS ,_, and_CC assist_VB tasks_NNS like_IN targeted_VBN marketing_NN and_CC finding_VBG influential_JJ actors_NNS within_IN or_CC between_IN groups_NNS ._.
+In_IN general_JJ ,_, a_DT network_NN and_CC the_DT membership_NN of_IN groups_NNS often_RB evolve_VBP gradually_RB ._.
+In_IN a_DT dynamic_JJ multi-mode_JJ network_NN ,_, both_CC actor_NN membership_NN and_CC interactions_NNS can_MD evolve_VB ,_, which_WDT poses_VBZ a_DT challenging_JJ problem_NN of_IN identifying_VBG community_NN evolution_NN ._.
+In_IN this_DT work_NN ,_, we_PRP try_VBP to_TO address_VB this_DT issue_NN by_IN employing_VBG the_DT temporal_JJ information_NN to_TO analyze_VB a_DT multi-mode_JJ network_NN ._.
+A_DT spectral_JJ framework_NN and_CC its_PRP$ scalability_NN issue_NN are_VBP carefully_RB studied_VBN ._.
+Experiments_NNS on_IN both_DT synthetic_JJ data_NNS and_CC real-world_JJ large_JJ scale_NN networks_NNS demonstrate_VBP the_DT efficacy_NN of_IN our_PRP$ algorithm_NN and_CC suggest_VBP its_PRP$ generality_NN in_IN solving_VBG problems_NNS with_IN complex_JJ relationships_NNS ._.

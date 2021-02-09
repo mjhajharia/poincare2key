@@ -1,0 +1,9 @@
+Automatically_RB refining_VBG the_DT wikipedia_NN infobox_NN ontology_NN
+The_DT combined_JJ efforts_NNS of_IN human_JJ volunteers_NNS have_VBP recently_RB extracted_VBN numerous_JJ facts_NNS from_IN Wikipedia_NNP ,_, storing_VBG them_PRP as_IN machine-harvestable_JJ object-attribute-value_JJ triples_NNS in_IN Wikipedia_NNP infoboxes_NNS ._.
+Machine_NN learning_NN systems_NNS ,_, such_JJ as_IN Kylin_NNP ,_, use_VBP these_DT infoboxes_NNS as_IN training_NN data_NNS ,_, accurately_RB extracting_VBG even_RB more_RBR semantic_JJ knowledge_NN from_IN natural_JJ language_NN text_NN ._.
+But_CC in_IN order_NN to_TO realize_VB the_DT full_JJ power_NN of_IN this_DT information_NN ,_, it_PRP must_MD be_VB situated_VBN in_IN a_DT cleanly-structured_JJ ontology_NN ._.
+This_DT paper_NN introduces_VBZ KOG_NNP ,_, an_DT autonomous_JJ system_NN for_IN refining_VBG Wikipedia_NNP 's_POS infobox-class_JJ ontology_NN towards_IN this_DT end_NN ._.
+We_PRP cast_VBD the_DT problem_NN of_IN ontology_NN refinement_NN as_IN a_DT machine_NN learning_NN problem_NN and_CC solve_VB it_PRP using_VBG both_DT SVMs_NNS and_CC a_DT more_RBR powerful_JJ joint-inference_NN approach_NN expressed_VBN in_IN Markov_NNP Logic_NNP Networks_NNP ._.
+We_PRP present_VBP experiments_NNS demonstrating_VBG the_DT superiority_NN of_IN the_DT joint-inference_NN approach_NN and_CC evaluating_VBG other_JJ aspects_NNS of_IN our_PRP$ system_NN ._.
+Using_VBG these_DT techniques_NNS ,_, we_PRP build_VBP a_DT rich_JJ ontology_NN ,_, integrating_VBG Wikipedia_NNP 's_POS infobox-class_JJ schemata_NN with_IN WordNet_NNP ._.
+We_PRP demonstrate_VBP how_WRB the_DT resulting_VBG ontology_NN may_MD be_VB used_VBN to_TO enhance_VB Wikipedia_NNP with_IN improved_VBN query_NN processing_NN and_CC other_JJ features_NNS ._.

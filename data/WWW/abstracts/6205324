@@ -1,0 +1,10 @@
+Optimal_JJ marketing_NN strategies_NNS over_IN social_JJ networks_NNS
+We_PRP discuss_VBP the_DT use_NN of_IN social_JJ networks_NNS in_IN implementing_VBG viral_JJ marketing_NN strategies_NNS ._.
+While_IN influence_NN maximization_NN has_VBZ been_VBN studied_VBN in_IN this_DT context_NN -LRB-_-LRB- see_VB Chapter_NNP 24_CD of_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- ,_, we_PRP study_VBD revenue_NN maximization_NN ,_, arguably_RB ,_, a_DT more_RBR natural_JJ objective_NN ._.
+In_IN our_PRP$ model_NN ,_, a_DT buyer_NN 's_POS decision_NN to_TO buy_VB an_DT item_NN is_VBZ influenced_VBN by_IN the_DT set_NN of_IN other_JJ buyers_NNS that_WDT own_VBP the_DT item_NN and_CC the_DT price_NN at_IN which_WDT the_DT item_NN is_VBZ offered_VBN ._.
+We_PRP focus_VBP on_IN algorithmic_JJ question_NN of_IN finding_NN revenue_NN maximizing_VBG marketing_NN strategies_NNS ._.
+When_WRB the_DT buyers_NNS are_VBP completely_RB symmetric_JJ ,_, we_PRP can_MD find_VB the_DT optimal_JJ marketing_NN strategy_NN in_IN polynomial_JJ time_NN ._.
+In_IN the_DT general_JJ case_NN ,_, motivated_VBN by_IN hardness_NN results_NNS ,_, we_PRP investigate_VBP approximation_NN algorithms_NNS for_IN this_DT problem_NN ._.
+We_PRP identify_VBP a_DT family_NN of_IN strategies_NNS called_VBN influence-and-exploit_JJ strategies_NNS that_WDT are_VBP based_VBN on_IN the_DT following_JJ idea_NN :_: Initially_RB influence_VB the_DT population_NN by_IN giving_VBG the_DT item_NN for_IN free_JJ to_TO carefully_RB a_DT chosen_JJ set_NN of_IN buyers_NNS ._.
+Then_RB extract_NN revenue_NN from_IN the_DT remaining_VBG buyers_NNS using_VBG a_DT `_`` greedy_JJ '_'' pricing_NN strategy_NN ._.
+We_PRP first_RB argue_VBP why_WRB such_JJ strategies_NNS are_VBP reasonable_JJ and_CC then_RB show_VB how_WRB to_TO use_VB recently_RB developed_VBD set-function_JJ maximization_NN techniques_NNS to_TO find_VB the_DT right_JJ set_NN of_IN buyers_NNS to_TO influence_VB ._.

@@ -1,0 +1,7 @@
+To_TO randomize_VB or_CC not_RB to_TO randomize_VB :_: space_NN optimal_JJ summaries_NNS for_IN hyperlink_NN analysis_NN
+Personalized_VBN PageRank_NN expresses_VBZ link-based_JJ page_NN quality_NN around_IN user_NN selected_VBN pages_NNS ._.
+The_DT only_JJ previous_JJ personalized_JJ PageRank_NN algorithm_NN that_WDT can_MD serve_VB on-line_JJ queries_NNS for_IN an_DT unrestricted_JJ choice_NN of_IN pages_NNS on_IN large_JJ graphs_NNS is_VBZ our_PRP$ Monte_NNP Carlo_NNP algorithm_NN -LRB-_-LRB- WAW_NN 2004_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP achieve_VBP unrestricted_JJ personalization_NN by_IN combining_VBG rounding_NN and_CC randomized_VBD sketching_VBG techniques_NNS in_IN the_DT dynamic_JJ programming_NN algorithm_NN of_IN Jeh_NNP and_CC Widom_NNP -LRB-_-LRB- WWW_NNP 2003_CD -RRB-_-RRB- ._.
+We_PRP evaluate_VBP the_DT precision_NN of_IN approximation_NN experimentally_RB on_IN large_JJ scale_NN real-world_JJ data_NNS and_CC find_VB significant_JJ improvement_NN over_IN previous_JJ results_NNS ._.
+As_IN a_DT key_JJ theoretical_JJ contribution_NN we_PRP show_VBP that_IN our_PRP$ algorithms_NNS use_VBP an_DT optimal_JJ amount_NN of_IN space_NN by_IN also_RB improving_VBG earlier_RBR asymptotic_JJ worst-case_JJ lower_JJR bounds_NNS ._.
+Our_PRP$ lower_JJR bounds_NNS and_CC algorithms_NNS apply_VBP to_TO the_DT SimRank_NNP as_RB well_RB ;_: of_IN independent_JJ interest_NN is_VBZ the_DT reduction_NN of_IN the_DT SimRank_NNP computation_NN to_TO personalized_JJ PageRank_NN ._.

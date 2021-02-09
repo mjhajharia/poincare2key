@@ -1,0 +1,15 @@
+A_DT matrix_NN density_NN based_VBN algorithm_NN to_TO hierarchically_RB co-cluster_JJ documents_NNS and_CC words_NNS
+This_DT paper_NN proposes_VBZ an_DT algorithm_NN to_TO hierarchically_RB cluster_VB documents_NNS ._.
+Each_DT cluster_NN is_VBZ actually_RB a_DT cluster_NN of_IN documents_NNS and_CC an_DT associated_VBN cluster_NN of_IN words_NNS ,_, thus_RB a_DT document-word_JJ co-cluster_NN ._.
+Note_VB that_DT ,_, the_DT vector_NN model_NN for_IN documents_NNS creates_VBZ the_DT document-word_JJ matrix_NN ,_, of_IN which_WDT every_DT co-cluster_NN is_VBZ a_DT submatrix_NN ._.
+One_CD would_MD intuitively_RB expect_VB a_DT submatrix_NN made_VBN up_RP of_IN high_JJ values_NNS to_TO be_VB a_DT good_JJ document_NN cluster_NN ,_, with_IN the_DT corresponding_JJ word_NN cluster_NN containing_VBG its_PRP$ most_RBS distinctive_JJ features_NNS ._.
+Our_PRP$ algorithm_NN looks_VBZ to_TO exploit_VB this_DT ._.
+We_PRP have_VBP defined_VBN matrix_NN density_NN ,_, and_CC our_PRP$ algorithm_NN basically_RB uses_VBZ matrix_NN density_NN considerations_NNS in_IN its_PRP$ working_NN ._.
+The_DT algorithm_NN is_VBZ a_DT partitional-agglomerative_JJ algorithm_NN ._.
+The_DT partitioning_VBG step_NN involves_VBZ the_DT identification_NN of_IN dense_JJ submatrices_NNS so_IN that_IN the_DT respective_JJ row_NN sets_VBZ partition_NN the_DT row_NN set_NN of_IN the_DT complete_JJ matrix_NN ._.
+The_DT hierarchical_JJ agglomerative_JJ step_NN involves_VBZ merging_VBG the_DT most_JJS ``_`` similar_JJ ''_'' submatrices_NNS until_IN we_PRP are_VBP down_RB to_TO the_DT required_JJ number_NN of_IN clusters_NNS -LRB-_-LRB- if_IN we_PRP want_VBP a_DT flat_JJ clustering_NN -RRB-_-RRB- or_CC until_IN we_PRP have_VBP just_RB the_DT single_JJ complete_JJ matrix_NN left_NN -LRB-_-LRB- if_IN we_PRP are_VBP interested_JJ in_IN a_DT hierarchical_JJ arrangement_NN of_IN documents_NNS -RRB-_-RRB- ._.
+It_PRP also_RB generates_VBZ apt_JJ labels_NNS for_IN each_DT cluster_NN or_CC hierarchy_NN node_NN ._.
+The_DT similarity_NN measure_NN between_IN clusters_NNS that_IN we_PRP use_VBP here_RB for_IN the_DT merging_VBG cleverly_RB uses_VBZ the_DT fact_NN that_IN the_DT clusters_NNS here_RB are_VBP co-clusters_NNS ,_, and_CC is_VBZ a_DT key_JJ point_NN of_IN difference_NN from_IN existing_VBG agglomerative_JJ algorithms_NNS ._.
+We_PRP will_MD refer_VB to_TO the_DT proposed_VBN algorithm_NN as_IN RPSA_NNP -LRB-_-LRB- Rowset_NNP Partitioning_NN and_CC Submatrix_NNP Agglomeration_NNP -RRB-_-RRB- ._.
+We_PRP have_VBP compared_VBN it_PRP as_IN a_DT clustering_NN algorithm_NN with_IN Spherical_JJ K-Means_NNS and_CC Spectral_JJ Graph_NN Partitioning_NN ._.
+We_PRP have_VBP also_RB evaluated_VBN some_DT hierarchies_NNS generated_VBN by_IN the_DT algorithm_NN ._.

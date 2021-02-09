@@ -1,0 +1,8 @@
+Discrimination-aware_JJ data_NNS mining_NN
+In_IN the_DT context_NN of_IN civil_JJ rights_NNS law_NN ,_, discrimination_NN refers_VBZ to_TO unfair_JJ or_CC unequal_JJ treatment_NN of_IN people_NNS based_VBN on_IN membership_NN to_TO a_DT category_NN or_CC a_DT minority_NN ,_, without_IN regard_NN to_TO individual_JJ merit_NN ._.
+Rules_NNS extracted_VBN from_IN databases_NNS by_IN data_NN mining_NN techniques_NNS ,_, such_JJ as_IN classification_NN or_CC association_NN rules_NNS ,_, when_WRB used_VBN for_IN decision_NN tasks_NNS such_JJ as_IN benefit_NN or_CC credit_NN approval_NN ,_, can_MD be_VB discriminatory_JJ in_IN the_DT above_JJ sense_NN ._.
+In_IN this_DT paper_NN ,_, the_DT notion_NN of_IN discriminatory_JJ classification_NN rules_NNS is_VBZ introduced_VBN and_CC studied_VBN ._.
+Providing_VBG a_DT guarantee_NN of_IN non-discrimination_NN is_VBZ shown_VBN to_TO be_VB a_DT non_JJ trivial_JJ task_NN ._.
+A_DT naive_JJ approach_NN ,_, like_IN taking_VBG away_RP all_DT discriminatory_JJ attributes_NNS ,_, is_VBZ shown_VBN to_TO be_VB not_RB enough_RB when_WRB other_JJ background_NN knowledge_NN is_VBZ available_JJ ._.
+Our_PRP$ approach_NN leads_VBZ to_TO a_DT precise_JJ formulation_NN of_IN the_DT redlining_VBG problem_NN along_IN with_IN a_DT formal_JJ result_NN relating_VBG discriminatory_JJ rules_NNS with_IN apparently_RB safe_JJ ones_NNS by_IN means_NNS of_IN background_NN knowledge_NN ._.
+An_DT empirical_JJ assessment_NN of_IN the_DT results_NNS on_IN the_DT German_JJ credit_NN dataset_NN is_VBZ also_RB provided_VBN ._.

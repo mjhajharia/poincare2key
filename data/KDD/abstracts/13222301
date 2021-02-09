@@ -1,0 +1,10 @@
+Diversified_NNP ranking_NN on_IN large_JJ graphs_NNS :_: an_DT optimization_NN viewpoint_NN
+Diversified_NNP ranking_NN on_IN graphs_NNS is_VBZ a_DT fundamental_JJ mining_NN task_NN and_CC has_VBZ a_DT variety_NN of_IN high-impact_JJ applications_NNS ._.
+There_EX are_VBP two_CD important_JJ open_JJ questions_NNS here_RB ._.
+The_DT first_JJ challenge_NN is_VBZ the_DT measure_NN -_: how_WRB to_TO quantify_VB the_DT goodness_NN of_IN a_DT given_VBN top-k_NN ranking_NN list_NN that_WDT captures_VBZ both_DT the_DT relevance_NN and_CC the_DT diversity_NN ?_.
+The_DT second_JJ challenge_NN lies_VBZ in_IN the_DT algorithmic_JJ aspect_NN -_: how_WRB to_TO find_VB an_DT optimal_JJ ,_, or_CC near-optimal_JJ ,_, top-k_JJ ranking_JJ list_NN that_WDT maximizes_VBZ the_DT measure_NN we_PRP defined_VBD in_IN a_DT scalable_JJ way_NN ?_.
+In_IN this_DT paper_NN ,_, we_PRP address_VBP these_DT challenges_NNS from_IN an_DT optimization_NN point_NN of_IN view_NN ._.
+Firstly_RB ,_, we_PRP propose_VBP a_DT goodness_NN measure_NN for_IN a_DT given_VBN top-k_NN ranking_NN list_NN ._.
+The_DT proposed_VBN goodness_NN measure_NN intuitively_RB captures_VBZ both_DT -LRB-_-LRB- a_LS -RRB-_-RRB- the_DT relevance_NN between_IN each_DT individual_JJ node_NN in_IN the_DT ranking_JJ list_NN and_CC the_DT query_NN ;_: and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- the_DT diversity_NN among_IN different_JJ nodes_NNS in_IN the_DT ranking_JJ list_NN ._.
+Moreover_RB ,_, we_PRP propose_VBP a_DT scalable_JJ algorithm_NN -LRB-_-LRB- linear_JJ wrt_NN the_DT size_NN of_IN the_DT graph_NN -RRB-_-RRB- that_WDT generates_VBZ a_DT provably_RB near-optimal_JJ solution_NN ._.
+The_DT experimental_JJ evaluations_NNS on_IN real_JJ graphs_NNS demonstrate_VBP its_PRP$ effectiveness_NN and_CC efficiency_NN ._.

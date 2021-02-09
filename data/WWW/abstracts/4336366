@@ -1,0 +1,6 @@
+Finding_VBG specification_NN pages_NNS according_VBG to_TO attributes_NNS
+This_DT paper_NN presents_VBZ a_DT method_NN for_IN finding_VBG a_DT specification_NN page_NN on_IN the_DT web_NN for_IN a_DT given_VBN object_NN -LRB-_-LRB- e.g._FW ``_`` Titanic_NNP ö_NN -RRB-_-RRB- and_CC its_PRP$ class_NN label_NN -LRB-_-LRB- e.g._FW ``_`` film_NN ö_NN -RRB-_-RRB- ._.
+A_DT specification_NN page_NN for_IN an_DT object_NN is_VBZ a_DT web_NN page_NN which_WDT gives_VBZ concise_JJ attribute-value_JJ information_NN about_IN the_DT object_NN -LRB-_-LRB- e.g._FW ``_`` director_NN ö_SYM -_: ``_`` James_NNP Cameron_NNP öfor_NN ``_`` Titanic_NNP ö_NN -RRB-_-RRB- ._.
+A_DT simple_JJ unsupervised_JJ method_NN using_VBG layout_NN and_CC symbolic_JJ decoration_NN cues_NNS was_VBD applied_VBN to_TO a_DT large_JJ number_NN of_IN web_NN pages_NNS to_TO acquire_VB the_DT class_NN attributes_NNS ._.
+We_PRP used_VBD these_DT acquired_VBN attributes_NNS to_TO select_VB a_DT representative_JJ specification_NN page_NN for_IN a_DT given_VBN object_NN from_IN the_DT web_NN pages_NNS retrieved_VBN by_IN a_DT normal_JJ search_NN engine_NN ._.
+Experimental_JJ results_NNS revealed_VBD that_IN our_PRP$ method_NN greatly_RB outperformed_VBD the_DT normal_JJ search_NN engine_NN in_IN terms_NNS of_IN specification_NN retrieval_NN ._.

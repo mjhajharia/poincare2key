@@ -1,0 +1,11 @@
+Semi-supervised_JJ time_NN series_NN classification_NN
+The_DT problem_NN of_IN time_NN series_NN classification_NN has_VBZ attracted_VBN great_JJ interest_NN in_IN the_DT last_JJ decade_NN ._.
+However_RB current_JJ research_NN assumes_VBZ the_DT existence_NN of_IN large_JJ amounts_NNS of_IN labeled_JJ training_NN data_NNS ._.
+In_IN reality_NN ,_, such_JJ data_NNS may_MD be_VB very_RB difficult_JJ or_CC expensive_JJ to_TO obtain_VB ._.
+For_IN example_NN ,_, it_PRP may_MD require_VB the_DT time_NN and_CC expertise_NN of_IN cardiologists_NNS ,_, space_NN launch_NN technicians_NNS ,_, or_CC other_JJ domain_NN specialists_NNS ._.
+As_IN in_IN many_JJ other_JJ domains_NNS ,_, there_EX are_VBP often_RB copious_JJ amounts_NNS of_IN unlabeled_JJ data_NNS available_JJ ._.
+For_IN example_NN ,_, the_DT PhysioBank_NNP archive_NN contains_VBZ gigabytes_NNS of_IN ECG_NN data_NNS ._.
+In_IN this_DT work_NN we_PRP propose_VBP a_DT semi-supervised_JJ technique_NN for_IN building_NN time_NN series_NN classifiers_NNS ._.
+While_IN such_JJ algorithms_NNS are_VBP well_RB known_VBN in_IN text_NN domains_NNS ,_, we_PRP will_MD show_VB that_IN special_JJ considerations_NNS must_MD be_VB made_VBN to_TO make_VB them_PRP both_CC efficient_JJ and_CC effective_JJ for_IN the_DT time_NN series_NN domain_NN ._.
+We_PRP evaluate_VBP our_PRP$ work_NN with_IN a_DT comprehensive_JJ set_NN of_IN experiments_NNS on_IN diverse_JJ data_NNS sources_NNS including_VBG electrocardiograms_NNS ,_, handwritten_JJ documents_NNS ,_, and_CC video_NN datasets_NNS ._.
+The_DT experimental_JJ results_NNS demonstrate_VBP that_IN our_PRP$ approach_NN requires_VBZ only_RB a_DT handful_NN of_IN labeled_JJ examples_NNS to_TO construct_VB accurate_JJ classifiers_NNS ._.

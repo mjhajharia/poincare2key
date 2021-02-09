@@ -1,0 +1,12 @@
+IDR\/QR_NN :_: an_DT incremental_JJ dimension_NN reduction_NN algorithm_NN via_IN QR_NN decomposition_NN
+Dimension_NN reduction_NN is_VBZ critical_JJ for_IN many_JJ database_NN and_CC data_NN mining_NN applications_NNS ,_, such_JJ as_IN efficient_JJ storage_NN and_CC retrieval_NN of_IN high-dimensional_JJ data_NNS ._.
+In_IN the_DT literature_NN ,_, a_DT well-known_JJ dimension_NN reduction_NN scheme_NN is_VBZ Linear_NNP Discriminant_NNP Analysis_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- ._.
+The_DT common_JJ aspect_NN of_IN previously_RB proposed_VBN LDA_NNP based_VBN algorithms_NNS is_VBZ the_DT use_NN of_IN Singular_JJ Value_NN Decomposition_NN -LRB-_-LRB- SVD_NN -RRB-_-RRB- ._.
+Due_JJ to_TO the_DT difficulty_NN of_IN designing_VBG an_DT incremental_JJ solution_NN for_IN the_DT eigenvalue_NN problem_NN on_IN the_DT product_NN of_IN scatter_NN matrices_NNS in_IN LDA_NNP ,_, there_EX is_VBZ little_JJ work_NN on_IN designing_VBG incremental_JJ LDA_NNP algorithms_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT LDA_NN based_VBN incremental_JJ dimension_NN reduction_NN algorithm_NN ,_, called_VBN IDR\/QR_NN ,_, which_WDT applies_VBZ QR_NN Decomposition_NN rather_RB than_IN SVD_NNP ._.
+Unlike_IN other_JJ LDA_NNP based_VBN algorithms_NNS ,_, this_DT algorithm_NN does_VBZ not_RB require_VB the_DT whole_JJ data_NNS matrix_NN in_IN main_JJ memory_NN ._.
+This_DT is_VBZ desirable_JJ for_IN large_JJ data_NNS sets_NNS ._.
+More_RBR importantly_RB ,_, with_IN the_DT insertion_NN of_IN new_JJ data_NNS items_NNS ,_, the_DT IDR\/QR_NN algorithm_NN can_MD constrain_VB the_DT computational_JJ cost_NN by_IN applying_VBG efficient_JJ QR-updating_JJ techniques_NNS ._.
+Finally_RB ,_, we_PRP evaluate_VBP the_DT effectiveness_NN of_IN the_DT IDR\/QR_NN algorithm_NN in_IN terms_NNS of_IN classification_NN accuracy_NN on_IN the_DT reduced_VBN dimensional_JJ space_NN ._.
+Our_PRP$ experiments_NNS on_IN several_JJ real-world_JJ data_NNS sets_NNS reveal_VBP that_IN the_DT accuracy_NN achieved_VBN by_IN the_DT IDR\/QR_NN algorithm_NN is_VBZ very_RB close_JJ to_TO the_DT best_JJS possible_JJ accuracy_NN achieved_VBN by_IN other_JJ LDA_NNP based_VBN algorithms_NNS ._.
+However_RB ,_, the_DT IDR\/QR_NN algorithm_NN has_VBZ much_RB less_RBR computational_JJ cost_NN ,_, especially_RB when_WRB new_JJ data_NNS items_NNS are_VBP dynamically_RB inserted_VBN ._.

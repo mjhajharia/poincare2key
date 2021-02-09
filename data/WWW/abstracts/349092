@@ -1,0 +1,7 @@
+Incremental_JJ maintenance_NN for_IN materialized_VBN XPath\/XSLT_NN views_NNS
+This_DT paper_NN proposes_VBZ an_DT incremental_JJ maintenance_NN algorithm_NN that_WDT efficiently_RB updates_NNS the_DT materialized_VBN XPath\/XSLT_NN views_NNS defined_VBN using_VBG XPath_NN expressions_NNS in_IN XP_NN -LRB-_-LRB- -LRB-_-LRB- -RRB-_-RRB- ,_, \*_NN ,_, \/_: \/_: ,_, vars_NNS -RRB-_-RRB- ._.
+The_DT algorithm_NN consists_VBZ of_IN two_CD processes_NNS ._.
+1_LS -RRB-_-RRB- The_DT dynamic_JJ execution_NN flow_NN of_IN an_DT XSLT_NN program_NN is_VBZ stored_VBN as_IN an_DT XT_NN -LRB-_-LRB- XML_NN Transformation_NN -RRB-_-RRB- tree_NN during_IN the_DT full_JJ transformation_NN ._.
+2_LS -RRB-_-RRB- In_IN response_NN to_TO a_DT source_NN XML_NN data_NNS update_VBP ,_, the_DT impacted_VBN portions_NNS of_IN the_DT XT-tree_NN are_VBP identified_VBN and_CC maintained_VBN by_IN partially_RB re-evaluating_VBG the_DT XSLT_NNP program_NN ._.
+This_DT paper_NN discusses_VBZ the_DT XPath\/XSLT_NN features_NNS of_IN incremental_JJ view_NN maintenance_NN for_IN subtree_NN insertion\/deletion_NN and_CC applies_VBZ them_PRP to_TO the_DT maintenance_NN algorithm_NN ._.
+Experiments_NNS show_VBP that_IN the_DT incremental_JJ maintenance_NN algorithm_NN outperforms_VBZ full_JJ XML_NN transformation_NN algorithms_NNS by_IN factors_NNS of_IN up_IN to_TO 500_CD ._.

@@ -1,0 +1,8 @@
+Semantic_JJ WS-agreement_JJ partner_NN selection_NN
+In_IN a_DT dynamic_JJ service_NN oriented_JJ environment_NN it_PRP is_VBZ desirable_JJ for_IN service_NN consumers_NNS and_CC providers_NNS to_TO offer_VB and_CC obtain_VB guarantees_NNS regarding_VBG their_PRP$ capabilities_NNS and_CC requirements_NNS ._.
+WS-Agreement_NN defines_VBZ a_DT language_NN and_CC protocol_NN for_IN establishing_VBG agreements_NNS between_IN two_CD parties_NNS ._.
+The_DT agreements_NNS are_VBP complex_JJ and_CC expressive_JJ to_TO the_DT extent_NN that_IN the_DT manual_JJ matching_NN of_IN these_DT agreements_NNS would_MD be_VB expensive_JJ both_CC in_IN time_NN and_CC resources_NNS ._.
+It_PRP is_VBZ essential_JJ to_TO develop_VB a_DT method_NN for_IN matching_VBG agreements_NNS automatically_RB ._.
+This_DT work_NN presents_VBZ the_DT framework_NN and_CC implementation_NN of_IN an_DT innovative_JJ tool_NN for_IN the_DT matching_JJ providers_NNS and_CC consumers_NNS based_VBN on_IN WS-Agreements_NNS ._.
+The_DT approach_NN utilizes_VBZ Semantic_JJ Web_NN technologies_NNS to_TO achieve_VB rich_JJ and_CC accurate_JJ matches_NNS ._.
+A_DT key_JJ feature_NN is_VBZ the_DT novel_JJ and_CC flexible_JJ approach_NN for_IN achieving_VBG user_NN personalized_JJ matches_NNS ._.

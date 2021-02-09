@@ -1,0 +1,7 @@
+MedSearch_NNP :_: a_DT specialized_JJ search_NN engine_NN for_IN medical_JJ information_NN
+People_NNS are_VBP thirsty_JJ for_IN medical_JJ information_NN ._.
+Existing_VBG Web_NN search_NN engines_NNS can_MD not_RB handle_VB medical_JJ search_NN well_RB because_IN they_PRP do_VBP not_RB consider_VB its_PRP$ special_JJ requirements_NNS ._.
+Often_RB a_DT medical_JJ information_NN searcher_NN is_VBZ uncertain_JJ about_IN his_PRP$ exact_JJ questions_NNS and_CC unfamiliar_JJ with_IN medical_JJ terminology_NN ._.
+Therefore_RB ,_, he_PRP prefers_VBZ to_TO pose_VB long_JJ queries_NNS ,_, describing_VBG his_PRP$ symptoms_NNS and_CC situation_NN in_IN plain_JJ English_NNP ,_, and_CC receive_VBP comprehensive_JJ ,_, relevant_JJ information_NN from_IN search_NN results_NNS ._.
+This_DT paper_NN presents_VBZ MedSearch_NNP ,_, a_DT specialized_JJ medical_JJ Web_NN search_NN engine_NN ,_, to_TO address_VB these_DT challenges_NNS ._.
+MedSearch_NNP can_MD assist_VB ordinary_JJ Internet_NNP users_NNS to_TO search_VB for_IN medical_JJ information_NN ,_, by_IN accepting_VBG queries_NNS of_IN extended_VBN length_NN ,_, providing_VBG diversified_JJ search_NN results_NNS ,_, and_CC suggesting_VBG related_JJ medical_JJ phrases_NNS ._.

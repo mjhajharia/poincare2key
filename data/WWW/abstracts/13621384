@@ -1,0 +1,5 @@
+Social_NN and_CC semantics_NNS analysis_NN via_IN non-negative_JJ matrix_NN factorization_NN
+Social_NN media_NNS such_JJ as_IN Web_NN forum_NN often_RB have_VBP dense_JJ interactions_NNS between_IN user_NN and_CC content_NN where_WRB network_NN models_NNS are_VBP often_RB appropriate_JJ for_IN analysis_NN ._.
+Joint_JJ non-negative_JJ matrix_NN factorization_NN model_NN of_IN participation_NN and_CC content_NN data_NNS can_MD be_VB viewed_VBN as_IN a_DT bipartite_JJ graph_NN model_NN between_IN users_NNS and_CC media_NNS and_CC is_VBZ proposed_VBN for_IN analysis_NN social_JJ media_NNS ._.
+The_DT factorizations_NNS allow_VBP simultaneous_JJ automatic_JJ discovery_NN of_IN leaders_NNS and_CC sub-communities_NNS in_IN the_DT Web_NN forum_NN as_RB well_RB as_IN the_DT core_NN latent_JJ topics_NNS in_IN the_DT forum_NN ._.
+Results_NNS on_IN topic_NN detection_NN of_IN Web_NN forums_NNS and_CC cluster_NN analysis_NN show_VBP that_IN social_JJ features_NNS are_VBP highly_RB effective_JJ for_IN forum_NN analysis_NN ._.

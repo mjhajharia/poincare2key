@@ -1,0 +1,8 @@
+Unsupervised_JJ learning_NN on_IN k-partite_NN graphs_NNS
+Various_JJ data_NNS mining_NN applications_NNS involve_VBP data_NNS objects_NNS of_IN multiple_JJ types_NNS that_WDT are_VBP related_JJ to_TO each_DT other_JJ ,_, which_WDT can_MD be_VB naturally_RB formulated_VBN as_IN a_DT k-partite_NN graph_NN ._.
+However_RB ,_, the_DT research_NN on_IN mining_NN the_DT hidden_JJ structures_NNS from_IN a_DT k-partite_NN graph_NN is_VBZ still_RB limited_JJ and_CC preliminary_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT general_JJ model_NN ,_, the_DT relation_NN summary_NN network_NN ,_, to_TO find_VB the_DT hidden_JJ structures_NNS -LRB-_-LRB- the_DT local_JJ cluster_NN structures_NNS and_CC the_DT global_JJ community_NN structures_NNS -RRB-_-RRB- from_IN a_DT k-partite_NN graph_NN ._.
+The_DT model_NN provides_VBZ a_DT principal_JJ framework_NN for_IN unsupervised_JJ learning_NN on_IN k-partite_NN graphs_NNS of_IN various_JJ structures_NNS ._.
+Under_IN this_DT model_NN ,_, we_PRP derive_VBP a_DT novel_JJ algorithm_NN to_TO identify_VB the_DT hidden_JJ structures_NNS of_IN a_DT k-partite_NN graph_NN by_IN constructing_VBG a_DT relation_NN summary_NN network_NN to_TO approximate_JJ the_DT original_JJ k-partite_NN graph_NN under_IN a_DT broad_JJ range_NN of_IN distortion_NN measures_NNS ._.
+Experiments_NNS on_IN both_CC synthetic_JJ and_CC real_JJ datasets_NNS demonstrate_VBP the_DT promise_NN and_CC effectiveness_NN of_IN the_DT proposed_VBN model_NN and_CC algorithm_NN ._.
+We_PRP also_RB establish_VBP the_DT connections_NNS between_IN existing_VBG clustering_NN approaches_NNS and_CC the_DT proposed_VBN model_NN to_TO provide_VB a_DT unified_JJ view_NN to_TO the_DT clustering_NN approaches_NNS ._.

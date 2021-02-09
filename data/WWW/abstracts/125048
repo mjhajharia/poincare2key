@@ -1,0 +1,7 @@
+Named_VBN graphs_NNS ,_, provenance_NN and_CC trust_NN
+The_DT Semantic_JJ Web_NN consists_VBZ of_IN many_JJ RDF_NNP graphs_NNS nameable_JJ by_IN URIs_NNS ._.
+This_DT paper_NN extends_VBZ the_DT syntax_NN and_CC semantics_NNS of_IN RDF_NNP to_TO cover_VB such_JJ Named_VBN Graphs_NNS ._.
+This_DT enables_VBZ RDF_NNP statements_NNS that_WDT describe_VBP graphs_NNS ,_, which_WDT is_VBZ beneficial_JJ in_IN many_JJ Semantic_JJ Web_NN application_NN areas_NNS ._.
+As_IN a_DT case_NN study_NN ,_, we_PRP explore_VBP the_DT application_NN area_NN of_IN Semantic_JJ Web_NN publishing_NN :_: Named_VBN Graphs_NNS allow_VBP publishers_NNS to_TO communicate_VB assertional_JJ intent_NN ,_, and_CC to_TO sign_VB their_PRP$ graphs_NNS ;_: information_NN consumers_NNS can_MD evaluate_VB specific_JJ graphs_NNS using_VBG task-specific_JJ trust_NN policies_NNS ,_, and_CC act_VBP on_IN information_NN from_IN those_DT Named_VBN Graphs_NNS that_IN they_PRP accept_VBP ._.
+Graphs_NNS are_VBP trusted_VBN depending_VBG on_IN :_: their_PRP$ content_NN ;_: information_NN about_IN the_DT graph_NN ;_: and_CC the_DT task_NN the_DT user_NN is_VBZ performing_VBG ._.
+The_DT extension_NN of_IN RDF_NN to_TO Named_VBN Graphs_NNP provides_VBZ a_DT formally_RB defined_VBN framework_NN to_TO be_VB a_DT foundation_NN for_IN the_DT Semantic_JJ Web_NN trust_NN layer_NN ._.

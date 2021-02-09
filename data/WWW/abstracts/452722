@@ -1,0 +1,4 @@
+Certified_JJ email_NN with_IN a_DT light_JJ on-line_JJ trusted_VBN third_JJ party_NN :_: design_NN and_CC implementation_NN
+This_DT paper_NN presents_VBZ a_DT new_JJ protocol_NN for_IN certified_VBN email_NN ._.
+The_DT protocol_NN aims_VBZ to_TO combine_VB security_NN ,_, scalability_NN ,_, easy_JJ implementation_NN ,_, and_CC viable_JJ deployment_NN ._.
+The_DT protocol_NN relies_VBZ on_IN a_DT light_JJ on-line_JJ trusted_VBN third_JJ party_NN ;_: it_PRP can_MD be_VB implemented_VBN without_IN any_DT special_JJ software_NN for_IN the_DT receiver_NN beyond_IN a_DT standard_JJ email_NN reader_NN and_CC web_NN browser_NN ,_, and_CC does_VBZ not_RB require_VB any_DT public-key_JJ infrastructure_NN ._.

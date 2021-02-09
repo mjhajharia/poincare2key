@@ -1,0 +1,4 @@
+Automatic_NNP web_NN service_NN composition_NN with_IN abstraction_NN and_CC refinement_NN
+The_DT behavioral_JJ description_NN based_VBN Web_NN Service_NNP Composition_NNP -LRB-_-LRB- WSC_NNP -RRB-_-RRB- problem_NN aims_VBZ at_IN the_DT automatic_JJ construction_NN of_IN a_DT coordinator_NN web_NN service_NN that_WDT controls_VBZ a_DT set_NN of_IN web_NN services_NNS to_TO reach_VB a_DT goal_NN state_NN ._.
+However_RB ,_, solving_VBG the_DT WSC_NNP problem_NN exactly_RB with_IN a_DT realistic_JJ model_NN is_VBZ doubly-exponential_JJ in_IN the_DT number_NN of_IN variables_NNS in_IN web_NN service_NN descriptions_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ efficient_JJ approximation-based_JJ algorithm_NN using_VBG automatic_JJ abstraction_NN and_CC refinement_NN to_TO dramatically_RB reduce_VB the_DT number_NN of_IN variables_NNS needed_VBN to_TO solve_VB the_DT problem_NN ._.

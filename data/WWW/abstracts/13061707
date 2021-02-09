@@ -1,0 +1,8 @@
+Information_NN credibility_NN on_IN twitter_NN
+We_PRP analyze_VBP the_DT information_NN credibility_NN of_IN news_NN propagated_VBN through_IN Twitter_NNP ,_, a_DT popular_JJ microblogging_NN service_NN ._.
+Previous_JJ research_NN has_VBZ shown_VBN that_IN most_JJS of_IN the_DT messages_NNS posted_VBD on_IN Twitter_NNP are_VBP truthful_JJ ,_, but_CC the_DT service_NN is_VBZ also_RB used_VBN to_TO spread_VB misinformation_NN and_CC false_JJ rumors_NNS ,_, often_RB unintentionally_RB ._.
+On_IN this_DT paper_NN we_PRP focus_VBP on_IN automatic_JJ methods_NNS for_IN assessing_VBG the_DT credibility_NN of_IN a_DT given_VBN set_NN of_IN tweets_NNS ._.
+Specifically_RB ,_, we_PRP analyze_VBP microblog_NN postings_NNS related_VBN to_TO ``_`` trending_VBG ''_'' topics_NNS ,_, and_CC classify_VB them_PRP as_IN credible_JJ or_CC not_RB credible_JJ ,_, based_VBN on_IN features_NNS extracted_VBN from_IN them_PRP ._.
+We_PRP use_VBP features_NNS from_IN users_NNS '_POS posting_VBG and_CC re-posting_JJ -LRB-_-LRB- ``_`` re-tweeting_JJ ''_'' -RRB-_-RRB- behavior_NN ,_, from_IN the_DT text_NN of_IN the_DT posts_NNS ,_, and_CC from_IN citations_NNS to_TO external_JJ sources_NNS ._.
+We_PRP evaluate_VBP our_PRP$ methods_NNS using_VBG a_DT significant_JJ number_NN of_IN human_JJ assessments_NNS about_IN the_DT credibility_NN of_IN items_NNS on_IN a_DT recent_JJ sample_NN of_IN Twitter_NNP postings_NNS ._.
+Our_PRP$ results_NNS shows_VBZ that_IN there_EX are_VBP measurable_JJ differences_NNS in_IN the_DT way_NN messages_NNS propagate_VBP ,_, that_WDT can_MD be_VB used_VBN to_TO classify_VB them_PRP automatically_RB as_IN credible_JJ or_CC not_RB credible_JJ ,_, with_IN precision_NN and_CC recall_NN in_IN the_DT range_NN of_IN 70_CD %_NN to_TO 80_CD %_NN ._.

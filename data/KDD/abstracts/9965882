@@ -1,0 +1,17 @@
+Issues_NNS in_IN evaluation_NN of_IN stream_NN learning_NN algorithms_NNS
+Learning_VBG from_IN data_NNS streams_NNS is_VBZ a_DT research_NN area_NN of_IN increasing_VBG importance_NN ._.
+Nowadays_RB ,_, several_JJ stream_NN learning_NN algorithms_NNS have_VBP been_VBN developed_VBN ._.
+Most_JJS of_IN them_PRP learn_VBP decision_NN models_NNS that_WDT continuously_RB evolve_VBP over_IN time_NN ,_, run_VBN in_IN resource-aware_JJ environments_NNS ,_, detect_VB and_CC react_VB to_TO changes_NNS in_IN the_DT environment_NN generating_NN data_NNS ._.
+One_CD important_JJ issue_NN ,_, not_RB yet_RB conveniently_RB addressed_VBN ,_, is_VBZ the_DT design_NN of_IN experimental_JJ work_NN to_TO evaluate_VB and_CC compare_VB decision_NN models_NNS that_WDT evolve_VBP over_IN time_NN ._.
+There_EX are_VBP no_DT golden_JJ standards_NNS for_IN assessing_VBG performance_NN in_IN non-stationary_JJ environments_NNS ._.
+This_DT paper_NN proposes_VBZ a_DT general_JJ framework_NN for_IN assessing_VBG predictive_JJ stream_NN learning_NN algorithms_NNS ._.
+We_PRP defend_VBP the_DT use_NN of_IN Predictive_JJ Sequential_JJ methods_NNS for_IN error_NN estimate_NN -_: the_DT prequential_JJ error_NN ._.
+The_DT prequential_JJ error_NN allows_VBZ us_PRP to_TO monitor_VB the_DT evolution_NN of_IN the_DT performance_NN of_IN models_NNS that_WDT evolve_VBP over_IN time_NN ._.
+Nevertheless_RB ,_, it_PRP is_VBZ known_VBN to_TO be_VB a_DT pessimistic_JJ estimator_NN in_IN comparison_NN to_TO holdout_NN estimates_NNS ._.
+To_TO obtain_VB more_RBR reliable_JJ estimators_NNS we_PRP need_VBP some_DT forgetting_VBG mechanism_NN ._.
+Two_CD viable_JJ alternatives_NNS are_VBP :_: sliding_VBG windows_NNS and_CC fading_JJ factors_NNS ._.
+We_PRP observe_VBP that_IN the_DT prequential_JJ error_NN converges_VBZ to_TO an_DT holdout_NN estimator_NN when_WRB estimated_VBN over_IN a_DT sliding_VBG window_NN or_CC using_VBG fading_JJ factors_NNS ._.
+We_PRP present_VBP illustrative_JJ examples_NNS of_IN the_DT use_NN of_IN prequential_JJ error_NN estimators_NNS ,_, using_VBG fading_JJ factors_NNS ,_, for_IN the_DT tasks_NNS of_IN :_: i_LS -RRB-_-RRB- assessing_VBG performance_NN of_IN a_DT learning_NN algorithm_NN ;_: ii_LS -RRB-_-RRB- comparing_VBG learning_NN algorithms_NNS ;_: iii_LS -RRB-_-RRB- hypothesis_NN testing_NN using_VBG McNemar_NNP test_NN ;_: and_CC iv_LS -RRB-_-RRB- change_NN detection_NN using_VBG Page-Hinkley_NNP test_NN ._.
+In_IN these_DT tasks_NNS ,_, the_DT prequential_JJ error_NN estimated_VBN using_VBG fading_JJ factors_NNS provide_VBP reliable_JJ estimators_NNS ._.
+In_IN comparison_NN to_TO sliding_VBG windows_NNS ,_, fading_JJ factors_NNS are_VBP faster_JJR and_CC memory-less_JJ ,_, a_DT requirement_NN for_IN streaming_NN applications_NNS ._.
+This_DT paper_NN is_VBZ a_DT contribution_NN to_TO a_DT discussion_NN in_IN the_DT good-practices_NNS on_IN performance_NN assessment_NN when_WRB learning_VBG dynamic_JJ models_NNS that_WDT evolve_VBP over_IN time_NN ._.

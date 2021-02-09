@@ -1,0 +1,7 @@
+Generalized_NNP clustering_NN ,_, supervised_JJ learning_NN ,_, and_CC data_NNS assignment_NN
+Clustering_NN algorithms_NNS have_VBP become_VBN increasingly_RB important_JJ in_IN handling_VBG and_CC analyzing_VBG data_NNS ._.
+Considerable_JJ work_NN has_VBZ been_VBN done_VBN in_IN devising_VBG effective_JJ but_CC increasingly_RB specific_JJ clustering_NN algorithms_NNS ._.
+In_IN contrast_NN ,_, we_PRP have_VBP developed_VBN a_DT generalized_JJ framework_NN that_WDT accommodates_VBZ diverse_JJ clustering_NN algorithms_NNS in_IN a_DT systematic_JJ way_NN ._.
+This_DT framework_NN views_VBZ clustering_NN as_IN a_DT general_JJ process_NN of_IN iterative_JJ optimization_NN that_WDT includes_VBZ modules_NNS for_IN supervised_JJ learning_NN and_CC instance_NN assignment_NN ._.
+The_DT framework_NN has_VBZ also_RB suggested_VBN several_JJ novel_JJ clustering_NN methods_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP investigate_VBP experimentally_RB the_DT efficacy_NN of_IN these_DT algorithms_NNS and_CC test_VB some_DT hypotheses_NNS about_IN the_DT relation_NN between_IN such_JJ unsupervised_JJ techniques_NNS and_CC the_DT supervised_JJ methods_NNS embedded_VBN in_IN them_PRP ._.

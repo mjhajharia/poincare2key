@@ -1,0 +1,7 @@
+Using_VBG d-gap_NN patterns_NNS for_IN index_NN compression_NN
+Sequential_JJ patterns_NNS of_IN d-gaps_NNS exist_VBP pervasively_RB in_IN inverted_JJ lists_NNS of_IN Web_NN document_NN collection_NN indices_NNS due_JJ to_TO the_DT cluster_NN property_NN ._.
+In_IN this_DT paper_NN the_DT information_NN of_IN d-gap_NN sequential_JJ patterns_NNS is_VBZ used_VBN as_IN a_DT new_JJ dimension_NN for_IN improving_VBG inverted_JJ index_NN compression_NN ._.
+We_PRP first_RB detect_VB d-gap_NN sequential_JJ patterns_NNS using_VBG a_DT novel_JJ data_NN structure_NN ,_, UpDown_NNP Tree_NNP ._.
+Based_VBN on_IN the_DT detected_VBN patterns_NNS ,_, we_PRP further_RB substitute_VBP each_DT pattern_NN with_IN its_PRP$ pattern_NN Id_NN in_IN the_DT inverted_JJ lists_NNS that_WDT contain_VBP it_PRP ._.
+The_DT resulted_VBD inverted_JJ lists_NNS are_VBP then_RB coded_VBN with_IN an_DT existing_VBG coding_NN scheme_NN ._.
+Experiments_NNS show_VBP that_IN this_DT approach_NN can_MD effectively_RB improve_VB the_DT compression_NN ratio_NN of_IN existing_VBG codes_NNS ._.

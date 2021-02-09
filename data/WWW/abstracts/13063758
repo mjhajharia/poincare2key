@@ -1,0 +1,7 @@
+Summarization_NN of_IN archived_JJ and_CC shared_JJ personal_JJ photo_NN collections_NNS
+The_DT volume_NN of_IN personal_JJ photos_NNS hosted_VBN on_IN photo_NN archives_NNS and_CC social_JJ sharing_NN platforms_NNS has_VBZ been_VBN increasing_VBG exponentially_RB ._.
+It_PRP is_VBZ difficult_JJ to_TO get_VB an_DT overview_NN of_IN a_DT large_JJ collection_NN of_IN personal_JJ photos_NNS without_IN browsing_VBG though_IN the_DT entire_JJ database_NN manually_RB ._.
+In_IN this_DT research_NN ,_, we_PRP propose_VBP a_DT framework_NN to_TO generate_VB representative_JJ subset_NN summaries_NNS from_IN photo_JJ collections_NNS hosted_VBN on_IN web_NN archives_NNS or_CC social_JJ networks_NNS ._.
+We_PRP define_VBP salient_JJ properties_NNS of_IN an_DT effective_JJ photo_NN summary_NN and_CC model_NN summarization_NN as_IN an_DT optimization_NN of_IN these_DT properties_NNS ,_, given_VBN the_DT size_NN constraints_NNS ._.
+We_PRP also_RB introduce_VBP metrics_NNS for_IN evaluating_VBG photo_JJ summaries_NNS based_VBN on_IN their_PRP$ information_NN content_NN and_CC the_DT ability_NN to_TO satisfy_VB user_NN 's_POS information_NN needs_NNS ._.
+Our_PRP$ experiments_NNS show_VBP that_IN our_PRP$ summarization_NN framework_NN performs_VBZ better_JJR than_IN baseline_NN algorithms_NNS ._.

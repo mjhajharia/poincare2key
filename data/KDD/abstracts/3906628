@@ -1,0 +1,11 @@
+Deriving_VBG quantitative_JJ models_NNS for_IN correlation_NN clusters_NNS
+Correlation_NN clustering_NN aims_VBZ at_IN grouping_VBG the_DT data_NNS set_VBN into_IN correlation_NN clusters_NNS such_JJ that_IN the_DT objects_NNS in_IN the_DT same_JJ cluster_NN exhibit_VBP a_DT certain_JJ density_NN and_CC are_VBP all_DT associated_VBN to_TO a_DT common_JJ arbitrarily_RB oriented_JJ hyperplane_NN of_IN arbitrary_JJ dimensionality_NN ._.
+Several_JJ algorithms_NNS for_IN this_DT task_NN have_VBP been_VBN proposed_VBN recently_RB ._.
+However_RB ,_, all_DT algorithms_NNS only_RB compute_VBP the_DT partitioning_NN of_IN the_DT data_NNS into_IN clusters_NNS ._.
+This_DT is_VBZ only_RB a_DT first_JJ step_NN in_IN the_DT pipeline_NN of_IN advanced_JJ data_NNS analysis_NN and_CC system_NN modelling_NN ._.
+The_DT second_JJ -LRB-_-LRB- post-clustering_JJ -RRB-_-RRB- step_NN of_IN deriving_VBG a_DT quantitative_JJ model_NN for_IN each_DT correlation_NN cluster_NN has_VBZ not_RB been_VBN addressed_VBN so_RB far_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP an_DT original_JJ approach_NN to_TO handle_VB this_DT second_JJ step_NN ._.
+We_PRP introduce_VBP a_DT general_JJ method_NN that_WDT can_MD extract_VB quantitative_JJ information_NN on_IN the_DT linear_JJ dependencies_NNS within_IN a_DT correlation_NN clustering_NN ._.
+Our_PRP$ concepts_NNS are_VBP independent_JJ of_IN the_DT clustering_NN model_NN and_CC can_MD thus_RB be_VB applied_VBN as_IN a_DT post-processing_JJ step_NN to_TO any_DT correlation_NN clustering_NN algorithm_NN ._.
+Furthermore_RB ,_, we_PRP show_VBP how_WRB these_DT quantitative_JJ models_NNS can_MD be_VB used_VBN to_TO predict_VB the_DT probability_NN distribution_NN that_IN an_DT object_NN is_VBZ created_VBN by_IN these_DT models_NNS ._.
+Our_PRP$ broad_JJ experimental_JJ evaluation_NN demonstrates_VBZ the_DT beneficial_JJ impact_NN of_IN our_PRP$ method_NN on_IN several_JJ applications_NNS of_IN significant_JJ practical_JJ importance_NN ._.

@@ -1,0 +1,10 @@
+Modeling_NN and_CC predicting_VBG behavioral_JJ dynamics_NNS on_IN the_DT web_NN
+User_NN behavior_NN on_IN the_DT Web_NN changes_NNS over_IN time_NN ._.
+For_IN example_NN ,_, the_DT queries_NNS that_IN people_NNS issue_VBP to_TO search_VB engines_NNS ,_, and_CC the_DT underlying_VBG informational_JJ goals_NNS behind_IN the_DT queries_NNS vary_VBP over_IN time_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP examine_VBP how_WRB to_TO model_VB and_CC predict_VB this_DT temporal_JJ user_NN behavior_NN ._.
+We_PRP develop_VBP a_DT temporal_JJ modeling_NN framework_NN adapted_VBN from_IN physics_NNS and_CC signal_NN processing_NN that_WDT can_MD be_VB used_VBN to_TO predict_VB time-varying_JJ user_NN behavior_NN using_VBG smoothing_NN and_CC trends_NNS ._.
+We_PRP also_RB explore_VBP other_JJ dynamics_NNS of_IN Web_NN behaviors_NNS ,_, such_JJ as_IN the_DT detection_NN of_IN periodicities_NNS and_CC surprises_NNS ._.
+We_PRP develop_VBP a_DT learning_NN procedure_NN that_WDT can_MD be_VB used_VBN to_TO construct_VB models_NNS of_IN users_NNS '_POS activities_NNS based_VBN on_IN features_NNS of_IN current_JJ and_CC historical_JJ behaviors_NNS ._.
+The_DT results_NNS of_IN experiments_NNS indicate_VBP that_IN by_IN using_VBG our_PRP$ framework_NN to_TO predict_VB user_NN behavior_NN ,_, we_PRP can_MD achieve_VB significant_JJ improvements_NNS in_IN prediction_NN compared_VBN to_TO baseline_NN models_NNS that_WDT weight_VBP historical_JJ evidence_NN the_DT same_JJ for_IN all_DT queries_NNS ._.
+We_PRP also_RB develop_VBP a_DT novel_JJ learning_NN algorithm_NN that_WDT explicitly_RB learns_VBZ when_WRB to_TO apply_VB a_DT given_VBN prediction_NN model_NN among_IN a_DT set_NN of_IN such_JJ models_NNS ._.
+Our_PRP$ improved_JJ temporal_JJ modeling_NN of_IN user_NN behavior_NN can_MD be_VB used_VBN to_TO enhance_VB query_NN suggestions_NNS ,_, crawling_VBG policies_NNS ,_, and_CC result_NN ranking_NN ._.

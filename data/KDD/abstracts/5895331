@@ -1,0 +1,7 @@
+k-TTP_NN :_: a_DT new_JJ privacy_NN model_NN for_IN large-scale_JJ distributed_VBN environments_NNS
+Secure_VB multiparty_JJ computation_NN allows_VBZ parties_NNS to_TO jointly_RB compute_VB a_DT function_NN of_IN their_PRP$ private_JJ inputs_NNS without_IN revealing_VBG anything_NN but_CC the_DT output_NN ._.
+Theoretical_JJ results_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- provide_VBP a_DT general_JJ construction_NN of_IN such_JJ protocols_NNS for_IN any_DT function_NN ._.
+Protocols_NNS obtained_VBN in_IN this_DT way_NN are_VBP ,_, however_RB ,_, inefficient_JJ ,_, and_CC thus_RB ,_, practically_RB speaking_VBG ,_, useless_JJ when_WRB a_DT large_JJ number_NN of_IN participants_NNS are_VBP involved_VBN ._.
+The_DT contribution_NN of_IN this_DT paper_NN is_VBZ to_TO define_VB a_DT new_JJ privacy_NN model_NN --_: k-privacy_NN --_: by_IN means_NNS of_IN an_DT innovative_JJ ,_, yet_RB natural_JJ generalization_NN of_IN the_DT accepted_VBN trusted_VBD third_JJ party_NN model_NN ._.
+This_DT allows_VBZ implementing_VBG cryptographically_RB secure_JJ efficient_JJ primitives_NNS for_IN real-world_JJ large-scale_JJ distributed_VBN systems_NNS ._.
+As_IN an_DT example_NN for_IN the_DT usefulness_NN of_IN the_DT proposed_VBN model_NN ,_, we_PRP employ_VBP k-privacy_NN to_TO introduce_VB a_DT technique_NN for_IN obtaining_VBG knowledge_NN --_: by_IN way_NN of_IN an_DT association-rule_JJ mining_NN algorithm_NN --_: from_IN large-scale_JJ Data_NNP Grids_NNP ,_, while_IN ensuring_VBG that_IN the_DT privacy_NN is_VBZ cryptographically_RB secure_JJ ._.

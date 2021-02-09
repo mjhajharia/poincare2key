@@ -1,0 +1,16 @@
+Entity_NN discovery_NN and_CC assignment_NN for_IN opinion_NN mining_NN applications_NNS
+Opinion_NN mining_NN became_VBD an_DT important_JJ topic_NN of_IN study_NN in_IN recent_JJ years_NNS due_JJ to_TO its_PRP$ wide_JJ range_NN of_IN applications_NNS ._.
+There_EX are_VBP also_RB many_JJ companies_NNS offering_VBG opinion_NN mining_NN services_NNS ._.
+One_CD problem_NN that_WDT has_VBZ not_RB been_VBN studied_VBN so_RB far_RB is_VBZ the_DT assignment_NN of_IN entities_NNS that_WDT have_VBP been_VBN talked_VBN about_IN in_IN each_DT sentence_NN ._.
+Let_VB us_PRP use_VB forum_NN discussions_NNS about_IN products_NNS as_IN an_DT example_NN to_TO make_VB the_DT problem_NN concrete_NN ._.
+In_IN a_DT typical_JJ discussion_NN post_NN ,_, the_DT author_NN may_MD give_VB opinions_NNS on_IN multiple_JJ products_NNS and_CC also_RB compare_VB them_PRP ._.
+The_DT issue_NN is_VBZ how_WRB to_TO detect_VB what_WP products_NNS have_VBP been_VBN talked_VBN about_IN in_IN each_DT sentence_NN ._.
+If_IN the_DT sentence_NN contains_VBZ the_DT product_NN names_NNS ,_, they_PRP need_VBP to_TO be_VB identified_VBN ._.
+We_PRP call_VBP this_DT problem_NN entity_NN discovery_NN ._.
+If_IN the_DT product_NN names_NNS are_VBP not_RB explicitly_RB mentioned_VBN in_IN the_DT sentence_NN but_CC are_VBP implied_VBN due_JJ to_TO the_DT use_NN of_IN pronouns_NNS and_CC language_NN conventions_NNS ,_, we_PRP need_VBP to_TO infer_VB the_DT products_NNS ._.
+We_PRP call_VBP this_DT problem_NN entity_NN assignment_NN ._.
+These_DT problems_NNS are_VBP important_JJ because_IN without_IN knowing_VBG what_WP products_NNS each_DT sentence_NN talks_NNS about_IN the_DT opinion_NN mined_VBN from_IN the_DT sentence_NN is_VBZ of_IN little_JJ use_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD these_DT problems_NNS and_CC propose_VBP two_CD effective_JJ methods_NNS to_TO solve_VB the_DT problems_NNS ._.
+Entity_NN discovery_NN is_VBZ based_VBN on_IN pattern_NN discovery_NN and_CC entity_NN assignment_NN is_VBZ based_VBN on_IN mining_NN of_IN comparative_JJ sentences_NNS ._.
+Experimental_JJ results_NNS using_VBG a_DT large_JJ number_NN of_IN forum_NN posts_NNS demonstrate_VBP the_DT effectiveness_NN of_IN the_DT technique_NN ._.
+Our_PRP$ system_NN has_VBZ also_RB been_VBN successfully_RB tested_VBN in_IN a_DT commercial_JJ setting_NN ._.

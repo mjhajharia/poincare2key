@@ -1,0 +1,10 @@
+Generative_JJ model-based_JJ clustering_NN of_IN directional_JJ data_NNS
+High_JJ dimensional_JJ directional_JJ data_NNS is_VBZ becoming_VBG increasingly_RB important_JJ in_IN contemporary_JJ applications_NNS such_JJ as_IN analysis_NN of_IN text_NN and_CC gene-expression_NN data_NNS ._.
+A_DT natural_JJ model_NN for_IN multi-variate_JJ directional_JJ data_NNS is_VBZ provided_VBN by_IN the_DT von_NN Mises-Fisher_NN -LRB-_-LRB- vMF_NN -RRB-_-RRB- distribution_NN on_IN the_DT unit_NN hypersphere_NN that_WDT is_VBZ analogous_JJ to_TO the_DT multi-variate_JJ Gaussian_JJ distribution_NN in_IN Rd._NNP ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP modeling_NN complex_NN directional_JJ data_NNS as_IN a_DT mixture_NN of_IN vMF_NN distributions_NNS ._.
+We_PRP derive_VBP and_CC analyze_VBP two_CD variants_NNS of_IN the_DT Expectation_NN Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- framework_NN for_IN estimating_VBG the_DT parameters_NNS of_IN this_DT mixture_NN ._.
+We_PRP also_RB propose_VBP two_CD clustering_NN algorithms_NNS corresponding_VBG to_TO these_DT variants_NNS ._.
+An_DT interesting_JJ aspect_NN of_IN our_PRP$ methodology_NN is_VBZ that_IN the_DT spherical_JJ kmeans_NNS algorithm_NN -LRB-_-LRB- kmeans_NNS with_IN cosine_NN similarity_NN -RRB-_-RRB- can_MD be_VB shown_VBN to_TO be_VB a_DT special_JJ case_NN of_IN both_CC our_PRP$ algorithms_NNS ._.
+Thus_RB ,_, modeling_NN text_NN data_NNS by_IN vMF_NN distributions_NNS lends_VBZ theoretical_JJ validity_NN to_TO the_DT use_NN of_IN cosine_NN similarity_NN which_WDT has_VBZ been_VBN widely_RB used_VBN by_IN the_DT information_NN retrieval_NN community_NN ._.
+As_IN part_NN of_IN experimental_JJ validation_NN ,_, we_PRP present_VBP results_NNS on_IN modeling_NN high-dimensional_JJ text_NN and_CC gene-expression_NN data_NNS as_IN a_DT mixture_NN of_IN vMF_NN distributions_NNS ._.
+The_DT results_NNS indicate_VBP that_IN our_PRP$ approach_NN yields_VBZ superior_JJ clusterings_NNS especially_RB for_IN difficult_JJ clustering_NN tasks_NNS in_IN high-dimensional_JJ spaces_NNS ._.

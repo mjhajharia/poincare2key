@@ -1,0 +1,11 @@
+Value-based_JJ web_NN caching_NN
+Despite_IN traditional_JJ web_NN caching_NN techniques_NNS ,_, redundant_JJ data_NNS is_VBZ often_RB transferred_VBN over_IN HTTP_NN links_NNS ._.
+These_DT redundant_JJ transfers_NNS result_VBP from_IN both_CC resource_NN modification_NN and_CC aliasing_NN ._.
+Resource_NNP modification_NN causes_VBZ the_DT data_NNS represented_VBN by_IN a_DT single_JJ URI_NNP to_TO change_VB ;_: often_RB ,_, in_IN transferring_VBG the_DT new_JJ data_NNS ,_, some_DT old_JJ data_NNS is_VBZ retransmitted_VBN ._.
+Aliasing_NNP ,_, in_IN contrast_NN ,_, occurs_VBZ when_WRB the_DT same_JJ data_NNS is_VBZ named_VBN by_IN multiple_JJ URIs_NNS ,_, often_RB in_IN the_DT context_NN of_IN dynamic_NN or_CC advertising_NN content_NN ._.
+Traditional_JJ web_NN caching_NN techniques_NNS index_NN data_NNS by_IN its_PRP$ name_NN and_CC thus_RB often_RB fail_VBP to_TO recognize_VB and_CC take_VB advantage_NN of_IN aliasing_NN ._.
+Despite_IN traditional_JJ web_NN caching_NN techniques_NNS ,_, redundant_JJ data_NNS is_VBZ often_RB transferred_VBN over_IN HTTP_NN links_NNS ._.
+These_DT redundant_JJ transfers_NNS result_VBP from_IN both_CC resource_NN modification_NN and_CC aliasing_NN ._.
+Resource_NNP modification_NN causes_VBZ the_DT data_NNS represented_VBN by_IN a_DT single_JJ URI_NNP to_TO change_VB ;_: often_RB ,_, in_IN transferring_VBG the_DT new_JJ data_NNS ,_, some_DT old_JJ data_NNS is_VBZ retransmitted_VBN ._.
+Aliasing_NNP ,_, in_IN contrast_NN ,_, occurs_VBZ when_WRB the_DT same_JJ data_NNS is_VBZ named_VBN by_IN multiple_JJ URIs_NNS ,_, often_RB in_IN the_DT context_NN of_IN dynamic_NN or_CC advertising_NN content_NN ._.
+Traditional_JJ web_NN caching_NN techniques_NNS index_NN data_NNS by_IN its_PRP$ name_NN and_CC thus_RB often_RB fail_VBP to_TO recognize_VB and_CC take_VB advantage_NN of_IN aliasing_NN ._.

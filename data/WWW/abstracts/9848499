@@ -1,0 +1,9 @@
+Privacy_NN diffusion_NN on_IN the_DT web_NN :_: a_DT longitudinal_JJ perspective_NN
+For_IN the_DT last_JJ few_JJ years_NNS we_PRP have_VBP been_VBN studying_VBG the_DT diffusion_NN of_IN private_JJ information_NN for_IN users_NNS as_IN they_PRP visit_VBP various_JJ Web_NN sites_NNS triggering_VBG data_NNS gathering_NN aggregation_NN by_IN third_JJ parties_NNS ._.
+This_DT paper_NN reports_VBZ on_IN our_PRP$ longitudinal_JJ study_NN consisting_VBG of_IN multiple_JJ snapshots_NNS of_IN our_PRP$ examination_NN of_IN such_JJ diffusion_NN over_IN four_CD years_NNS ._.
+We_PRP examine_VBP the_DT various_JJ technical_JJ ways_NNS by_IN which_WDT third-party_JJ aggregators_NNS acquire_VBP data_NNS and_CC the_DT depth_NN of_IN user-related_JJ information_NN acquired_VBN ._.
+We_PRP study_VBD techniques_NNS for_IN protecting_VBG privacy_NN diffusion_NN as_RB well_RB as_IN limitations_NNS of_IN such_JJ techniques_NNS ._.
+We_PRP introduce_VBP the_DT concept_NN of_IN secondary_JJ privacy_NN damage_NN ._.
+Our_PRP$ results_NNS show_VBP increasing_VBG aggregation_NN of_IN user-related_JJ data_NNS by_IN a_DT steadily_RB decreasing_VBG number_NN of_IN entities_NNS ._.
+A_DT handful_NN of_IN companies_NNS are_VBP able_JJ to_TO track_VB users_NNS '_POS movement_NN across_IN almost_RB all_DT of_IN the_DT popular_JJ Web_NN sites_NNS ._.
+Virtually_RB all_PDT the_DT protection_NN techniques_NNS have_VBP significant_JJ limitations_NNS highlighting_VBG the_DT seriousness_NN of_IN the_DT problem_NN and_CC the_DT need_NN for_IN alternate_JJ solutions_NNS ._.

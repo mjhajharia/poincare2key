@@ -1,0 +1,9 @@
+TreeDT_NN :_: gene_NN mapping_NN by_IN tree_NN disequilibrium_NN test_NN
+We_PRP introduce_VBP and_CC evaluate_VBP TreeDT_NN ,_, a_DT novel_JJ gene_NN mapping_NN method_NN which_WDT is_VBZ based_VBN on_IN discovering_VBG and_CC assessing_VBG tree-like_JJ patterns_NNS in_IN genetic_JJ marker_NN data_NNS ._.
+Gene_NN mapping_NN aims_VBZ at_IN discovering_VBG a_DT statistical_JJ connection_NN from_IN a_DT particular_JJ disease_NN or_CC trait_NN to_TO a_DT narrow_JJ region_NN in_IN the_DT genome_NN ._.
+In_IN a_DT typical_JJ case-control_JJ setting_NN ,_, data_NN consists_VBZ of_IN genetic_JJ markers_NNS typed_VBN for_IN a_DT set_NN of_IN disease-associated_JJ chromosomes_NNS and_CC a_DT set_NN of_IN control_NN chromosomes_NNS ._.
+A_DT computer_NN scientist_NN would_MD view_VB this_DT data_NNS as_IN a_DT set_NN of_IN strings_NNS ._.
+TreeDT_NN extracts_NNS ,_, essentially_RB in_IN the_DT form_NN of_IN substrings_NNS and_CC prefix_NN trees_NNS ,_, information_NN about_IN the_DT historical_JJ recombinations_NNS in_IN the_DT population_NN ._.
+This_DT information_NN is_VBZ used_VBN to_TO locate_VB fragments_NNS potentially_RB inherited_VBN from_IN a_DT common_JJ diseased_JJ founder_NN ,_, and_CC to_TO map_VB the_DT disease_NN gene_NN into_IN the_DT most_RBS likely_JJ such_JJ fragment_NN ._.
+The_DT method_NN measures_NNS for_IN each_DT chromosomal_JJ location_NN the_DT disequilibrium_NN of_IN the_DT prefix_NN tree_NN of_IN marker_NN strings_NNS starting_VBG from_IN the_DT location_NN ,_, to_TO assess_VB the_DT distribution_NN of_IN disease-associated_JJ chromosomes_NNS ._.
+We_PRP evaluate_VBP experimentally_RB the_DT performance_NN of_IN TreeDT_NN on_IN realistic_JJ ,_, simulated_JJ data_NNS sets_NNS ,_, and_CC comparisons_NNS to_TO state_NN of_IN the_DT art_NN methods_NNS -LRB-_-LRB- TDT_NNP ,_, HPM_NNP -RRB-_-RRB- show_VBP that_IN TreeDT_NN is_VBZ very_RB competitive_JJ ._.

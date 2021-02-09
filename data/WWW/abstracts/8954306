@@ -1,0 +1,4 @@
+Boosting_VBG SVM_NN classifiers_NNS by_IN ensemble_NN
+By_IN far_RB ,_, the_DT support_NN vector_NN machines_NNS -LRB-_-LRB- SVM_NN -RRB-_-RRB- achieve_VBP the_DT state-of-the-art_JJ performance_NN for_IN the_DT text_NN classification_NN -LRB-_-LRB- TC_NN -RRB-_-RRB- tasks_NNS ._.
+Due_JJ to_TO the_DT complexity_NN of_IN the_DT TC_NN problems_NNS ,_, it_PRP becomes_VBZ a_DT challenge_NN to_TO systematically_RB develop_VB classifiers_NNS with_IN better_JJR performance_NN ._.
+We_PRP try_VBP to_TO attack_VB this_DT problem_NN by_IN ensemble_NN methods_NNS ,_, which_WDT are_VBP often_RB used_VBN for_IN boosting_VBG weak_JJ classifiers_NNS ,_, such_JJ as_IN decision_NN tree_NN ,_, neural_JJ networks_NNS ,_, etc._NN ,_, and_CC whether_IN they_PRP are_VBP effective_JJ for_IN strong_JJ classifiers_NNS is_VBZ not_RB clear_JJ ._.

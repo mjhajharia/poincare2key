@@ -1,0 +1,8 @@
+Extracting_VBG temporal_JJ signatures_NNS for_IN comprehending_VBG systems_NNS biology_NN models_NNS
+Systems_NNP biology_NN has_VBZ made_VBN massive_JJ strides_NNS in_IN recent_JJ years_NNS ,_, with_IN capabilities_NNS to_TO model_VB complex_JJ systems_NNS including_VBG cell_NN division_NN ,_, stress_NN response_NN ,_, energy_NN metabolism_NN ,_, and_CC signaling_NN pathways_NNS ._.
+Concomitant_JJ with_IN their_PRP$ improved_VBN modeling_NN capabilities_NNS ,_, however_RB ,_, such_JJ biochemical_JJ network_NN models_NNS have_VBP also_RB become_VBN notoriously_RB complex_JJ for_IN humans_NNS to_TO comprehend_VB ._.
+We_PRP propose_VBP network_NN comprehension_NN as_IN a_DT key_JJ problem_NN for_IN the_DT KDD_NNP community_NN ,_, where_WRB the_DT goal_NN is_VBZ to_TO create_VB explainable_JJ representations_NNS of_IN complex_JJ biological_JJ networks_NNS ._.
+We_PRP formulate_VBP this_DT problem_NN as_IN one_CD of_IN extracting_VBG temporal_JJ signatures_NNS from_IN multi-variate_JJ time_NN series_NN data_NNS ,_, where_WRB the_DT signatures_NNS are_VBP composed_VBN of_IN ordinal_JJ comparisons_NNS between_IN time_NN series_NN components_NNS ._.
+We_PRP show_VBP how_WRB such_JJ signatures_NNS can_MD be_VB inferred_VBN by_IN formulating_VBG the_DT data_NNS mining_NN problem_NN as_IN one_CD of_IN feature_NN selection_NN in_IN rank-order_NN space_NN ._.
+We_PRP propose_VBP five_CD new_JJ feature_NN selection_NN strategies_NNS for_IN rank-order_NN space_NN and_CC assess_VB their_PRP$ selective_JJ superiorities_NNS ._.
+Experimental_JJ results_NNS on_IN budding_JJ yeast_NN cell_NN cycle_NN models_NNS demonstrate_VBP compelling_JJ results_NNS comparable_JJ to_TO human_JJ interpretations_NNS of_IN the_DT cell_NN cycle_NN ._.

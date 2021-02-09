@@ -1,0 +1,9 @@
+The_DT Yin\/Yang_NNP web_NN :_: XML_NN syntax_NN and_CC RDF_NN semantics_NNS
+XML_NN is_VBZ the_DT W3C_NN standard_JJ document_NN format_NN for_IN writing_VBG and_CC exchanging_VBG information_NN on_IN the_DT Web_NN ._.
+RDF_NNP is_VBZ the_DT W3C_NN standard_JJ model_NN for_IN describing_VBG the_DT semantics_NNS and_CC reasoning_NN about_IN information_NN on_IN the_DT Web_NN ._.
+Unfortunately_RB ,_, RDF_NN and_CC XML_NN --_: although_IN very_RB close_JJ to_TO each_DT other_JJ --_: are_VBP based_VBN on_IN two_CD different_JJ paradigms_NNS ._.
+We_PRP argue_VBP that_IN in_IN order_NN to_TO lead_VB the_DT Semantic_JJ Web_NN to_TO its_PRP$ full_JJ potential_NN ,_, the_DT syntax_NN and_CC the_DT semantics_NNS of_IN information_NN needs_VBZ to_TO work_VB together_RB ._.
+To_TO this_DT end_NN ,_, we_PRP develop_VBP a_DT model-theoretic_JJ semantics_NNS for_IN the_DT XML_NN XQuery_NN 1.0_CD and_CC XPath_NN 2.0_CD Data_NNP Model_NNP ,_, which_WDT provides_VBZ a_DT unified_JJ model_NN for_IN both_CC XML_NN and_CC RDF_NN ._.
+This_DT unified_JJ model_NN can_MD serve_VB as_IN the_DT basis_NN for_IN Web_NN applications_NNS that_WDT deal_VBP with_IN both_DT data_NNS and_CC semantics_NNS ._.
+We_PRP illustrate_VBP the_DT use_NN of_IN this_DT model_NN on_IN a_DT concrete_JJ information_NN integration_NN scenario_NN ._.
+Our_PRP$ approach_NN enables_VBZ each_DT side_NN of_IN the_DT fence_NN to_TO benefit_VB from_IN the_DT other_JJ ,_, notably_RB ,_, we_PRP show_VBP how_WRB the_DT RDF_NNP world_NN can_MD take_VB advantage_NN of_IN XML_NN query_NN languages_NNS ,_, and_CC how_WRB the_DT XML_NN world_NN can_MD take_VB advantage_NN of_IN the_DT reasoning_NN capabilities_NNS available_JJ for_IN RDF_NNP ._.

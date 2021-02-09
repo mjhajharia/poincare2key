@@ -1,0 +1,14 @@
+Transforming_VBG data_NNS to_TO satisfy_VB privacy_NN constraints_NNS
+Data_NNS on_IN individuals_NNS and_CC entities_NNS are_VBP being_VBG collected_VBN widely_RB ._.
+These_DT data_NNS can_MD contain_VB information_NN that_WDT explicitly_RB identifies_VBZ the_DT individual_JJ -LRB-_-LRB- e.g._FW ,_, social_JJ security_NN number_NN -RRB-_-RRB- ._.
+Data_NNS can_MD also_RB contain_VB other_JJ kinds_NNS of_IN personal_JJ information_NN -LRB-_-LRB- e.g._FW ,_, date_NN of_IN birth_NN ,_, zip_NN code_NN ,_, gender_NN -RRB-_-RRB- that_WDT are_VBP potentially_RB identifying_VBG when_WRB linked_VBN with_IN other_JJ available_JJ data_NNS sets_NNS ._.
+Data_NNS are_VBP often_RB shared_VBN for_IN business_NN or_CC legal_JJ reasons_NNS ._.
+This_DT paper_NN addresses_VBZ the_DT important_JJ issue_NN of_IN preserving_VBG the_DT anonymity_NN of_IN the_DT individuals_NNS or_CC entities_NNS during_IN the_DT data_NNS dissemination_NN process_NN ._.
+We_PRP explore_VBP preserving_VBG the_DT anonymity_NN by_IN the_DT use_NN of_IN generalizations_NNS and_CC suppressions_NNS on_IN the_DT potentially_RB identifying_VBG portions_NNS of_IN the_DT data_NNS ._.
+We_PRP extend_VBP earlier_JJR works_NNS in_IN this_DT area_NN along_IN various_JJ dimensions_NNS ._.
+First_JJ ,_, satisfying_JJ privacy_NN constraints_NNS is_VBZ considered_VBN in_IN conjunction_NN with_IN the_DT usage_NN for_IN the_DT data_NNS being_VBG disseminated_VBN ._.
+This_DT allows_VBZ us_PRP to_TO optimize_VB the_DT process_NN of_IN preserving_VBG privacy_NN for_IN the_DT specified_VBN usage_NN ._.
+In_IN particular_JJ ,_, we_PRP investigate_VBP the_DT privacy_NN transformation_NN in_IN the_DT context_NN of_IN data_NN mining_NN applications_NNS like_IN building_NN classification_NN and_CC regression_NN models_NNS ._.
+Second_RB ,_, our_PRP$ work_NN improves_VBZ on_IN previous_JJ approaches_NNS by_IN allowing_VBG more_RBR flexible_JJ generalizations_NNS for_IN the_DT data_NNS ._.
+Lastly_RB ,_, this_DT is_VBZ combined_VBN with_IN a_DT more_RBR thorough_JJ exploration_NN of_IN the_DT solution_NN space_NN using_VBG the_DT genetic_JJ algorithm_NN framework_NN ._.
+These_DT extensions_NNS allow_VBP us_PRP to_TO transform_VB the_DT data_NNS so_IN that_IN they_PRP are_VBP more_RBR useful_JJ for_IN their_PRP$ intended_JJ purpose_NN while_IN satisfying_VBG the_DT privacy_NN constraints_NNS ._.

@@ -1,0 +1,11 @@
+CS_NNP AKTive_NNP space_NN :_: representing_VBG computer_NN science_NN in_IN the_DT semantic_JJ web_NN
+We_PRP present_VBP a_DT Semantic_JJ Web_NN application_NN that_IN we_PRP callCS_FW AKTive_FW Space_NNP ._.
+The_DT application_NN exploits_VBZ a_DT wide_JJ range_NN of_IN semantically_RB heterogeneousand_JJ distributed_VBN content_NN relating_VBG to_TO Computer_NNP Science_NNP research_NN in_IN theUK_NN ._.
+This_DT content_NN is_VBZ gathered_VBN on_IN a_DT continuous_JJ basis_NN using_VBG a_DT variety_NN of_IN methods_NNS including_VBG harvesting_VBG and_CC scraping_VBG as_RB well_RB as_IN adopting_VBG a_DT range_NN models_NNS for_IN content_NN acquisition_NN ._.
+The_DT content_NN currently_RB comprises_VBZ aroundten_NN million_CD RDF_NNP triples_NNS and_CC we_PRP have_VBP developed_VBN storage_NN ,_, retrieval_NN andmaintenance_NN methods_NNS to_TO support_VB its_PRP$ management_NN ._.
+The_DT content_NN is_VBZ mediated_VBN through_IN an_DT ontology_NN constructed_VBN for_IN the_DT application_NN domainand_NN incorporates_VBZ components_NNS from_IN other_JJ published_VBN ontologies_NNS ._.
+CS_NNP AKTive_NNP Spacesupports_NNP the_DT exploration_NN of_IN patterns_NNS and_CC implications_NNS inherent_JJ in_IN the_DT content_NN and_CC exploits_VBZ a_DT variety_NN of_IN visualisations_NNS and_CC multi_JJ dimensional_JJ representations_NNS ._.
+Knowledge_NN services_NNS supported_VBN in_IN the_DT applicationinclude_NN investigating_VBG communities_NNS of_IN practice_NN :_: who_WP is_VBZ working_VBG ,_, researching_VBG or_CC publishing_VBG with_IN whom_WP ._.
+This_DT work_NN illustrates_VBZ a_DT number_NN ofsubstantial_JJ challenges_NNS for_IN the_DT Semantic_JJ Web_NN ._.
+These_DT include_VBP problems_NNS of_IN referential_JJ integrity_NN ,_, tractable_JJ inference_NN and_CC interaction_NN support_NN ._.
+Wereview_NNP our_PRP$ approaches_NNS to_TO these_DT issues_NNS and_CC discuss_VBP relevant_JJ related_JJ work_NN ._.

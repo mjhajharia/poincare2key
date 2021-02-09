@@ -1,0 +1,10 @@
+Data_NN quality_NN in_IN web_NN archiving_NN
+Web_NN archives_NNS preserve_VBP the_DT history_NN of_IN Web_NN sites_NNS and_CC have_VBP high_JJ long-term_JJ value_NN for_IN media_NNS and_CC business_NN analysts_NNS ._.
+Such_JJ archives_NNS are_VBP maintained_VBN by_IN periodically_RB re-crawling_JJ entire_JJ Web_NN sites_NNS of_IN interest_NN ._.
+From_IN an_DT archivist_NN 's_POS point_NN of_IN view_NN ,_, the_DT ideal_JJ case_NN to_TO ensure_VB highest_JJS possible_JJ data_NNS quality_NN of_IN the_DT archive_NN would_MD be_VB to_TO ``_`` freeze_VB ''_'' the_DT complete_JJ contents_NNS of_IN an_DT entire_JJ Web_NN site_NN during_IN the_DT time_NN span_NN of_IN crawling_VBG and_CC capturing_VBG the_DT site_NN ._.
+Of_IN course_NN ,_, this_DT is_VBZ practically_RB infeasible_JJ ._.
+To_TO comply_VB with_IN the_DT politeness_NN specification_NN of_IN a_DT Web_NN site_NN ,_, the_DT crawler_NN needs_VBZ to_TO pause_VB between_IN subsequent_JJ http_NN requests_NNS in_IN order_NN to_TO avoid_VB unduly_RB high_JJ load_NN on_IN the_DT site_NN 's_POS http_JJ server_NN ._.
+As_IN a_DT consequence_NN ,_, capturing_VBG a_DT large_JJ Web_NN site_NN may_MD span_VB hours_NNS or_CC even_RB days_NNS ,_, which_WDT increases_VBZ the_DT risk_NN that_IN contents_NNS collected_VBN so_RB far_RB are_VBP incoherent_JJ with_IN the_DT parts_NNS that_WDT are_VBP still_RB to_TO be_VB crawled_VBN ._.
+This_DT paper_NN introduces_VBZ a_DT model_NN for_IN identifying_VBG coherent_JJ sections_NNS of_IN an_DT archive_NN and_CC ,_, thus_RB ,_, measuring_VBG the_DT data_NNS quality_NN in_IN Web_NN archiving_NN ._.
+Additionally_RB ,_, we_PRP present_VBP a_DT crawling_VBG strategy_NN that_WDT aims_VBZ to_TO ensure_VB archive_NN coherence_NN by_IN minimizing_VBG the_DT diffusion_NN of_IN Web_NN site_NN captures_VBZ ._.
+Preliminary_JJ experiments_NNS demonstrate_VBP the_DT usefulness_NN of_IN the_DT model_NN and_CC the_DT effectiveness_NN of_IN the_DT strategy_NN ._.

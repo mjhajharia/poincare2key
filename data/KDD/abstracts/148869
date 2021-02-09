@@ -1,0 +1,6 @@
+DualMiner_NNP :_: a_DT dual-pruning_JJ algorithm_NN for_IN itemsets_NNS with_IN constraints_NNS
+Constraint-based_JJ mining_NN of_IN itemsets_NNS for_IN questions_NNS such_JJ as_IN ``_`` find_VB all_DT frequent_JJ itemsets_NNS where_WRB the_DT total_JJ price_NN is_VBZ at_IN least_JJS $_$ 50_CD ''_'' has_VBZ received_VBN much_JJ attention_NN recently_RB ._.
+Two_CD classes_NNS of_IN constraints_NNS ,_, monotone_NN and_CC antimonotone_NN ,_, have_VBP been_VBN identified_VBN as_RB very_RB useful_JJ ._.
+There_EX are_VBP algorithms_NNS that_WDT efficiently_RB take_VBP advantage_NN of_IN either_DT one_CD of_IN these_DT two_CD classes_NNS ,_, but_CC no_DT previous_JJ algorithms_NNS can_MD efficiently_RB handle_VB both_DT types_NNS of_IN constraints_NNS simultaneously_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP the_DT first_JJ algorithm_NN -LRB-_-LRB- called_VBN DualMiner_NNP -RRB-_-RRB- that_WDT uses_VBZ both_DT monotone_NN and_CC antimonotone_NN constraints_NNS to_TO prune_VB its_PRP$ search_NN space_NN ._.
+We_PRP complement_VBP a_DT theoretical_JJ analysis_NN and_CC proof_NN of_IN correctness_NN of_IN DualMiner_NNP with_IN an_DT experimental_JJ study_NN that_WDT shows_VBZ the_DT efficacy_NN of_IN DualMiner_NNP compared_VBN to_TO previous_JJ work_NN ._.

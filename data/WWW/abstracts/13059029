@@ -1,0 +1,9 @@
+The_DT web_NN of_IN topics_NNS :_: discovering_VBG the_DT topology_NN of_IN topic_NN evolution_NN in_IN a_DT corpus_NN
+In_IN this_DT paper_NN we_PRP study_VBD how_WRB to_TO discover_VB the_DT evolution_NN of_IN topics_NNS over_IN time_NN in_IN a_DT time-stamped_JJ document_NN collection_NN ._.
+Our_PRP$ approach_NN is_VBZ uniquely_RB designed_VBN to_TO capture_VB the_DT rich_JJ topology_NN of_IN topic_NN evolution_NN inherent_JJ in_IN the_DT corpus_NN ._.
+Instead_RB of_IN characterizing_VBG the_DT evolving_VBG topics_NNS at_IN fixed_JJ time_NN points_NNS ,_, we_PRP conceptually_RB define_VBP a_DT topic_NN as_IN a_DT quantized_VBN unit_NN of_IN evolutionary_JJ change_NN in_IN content_NN and_CC discover_VB topics_NNS with_IN the_DT time_NN of_IN their_PRP$ appearance_NN in_IN the_DT corpus_NN ._.
+Discovered_JJ topics_NNS are_VBP then_RB connected_VBN to_TO form_VB a_DT topic_NN evolution_NN graph_NN using_VBG a_DT measure_NN derived_VBN from_IN the_DT underlying_VBG document_NN network_NN ._.
+Our_PRP$ approach_NN allows_VBZ inhomogeneous_JJ distribution_NN of_IN topics_NNS over_IN time_NN and_CC does_VBZ not_RB impose_VB any_DT topological_JJ restriction_NN in_IN topic_NN evolution_NN graphs_NNS ._.
+We_PRP evaluate_VBP our_PRP$ algorithm_NN on_IN the_DT ACM_NNP corpus_NN ._.
+The_DT topic_NN evolution_NN graphs_NNS obtained_VBN from_IN the_DT ACM_NNP corpus_NN provide_VBP an_DT effective_JJ and_CC concrete_JJ summary_NN of_IN the_DT corpus_NN with_IN remarkably_RB rich_JJ topology_NN that_WDT are_VBP congruent_JJ to_TO our_PRP$ background_NN knowledge_NN ._.
+In_IN a_DT finer_NN resolution_NN ,_, the_DT graphs_NNS reveal_VBP concrete_JJ information_NN about_IN the_DT corpus_NN that_WDT were_VBD previously_RB unknown_JJ to_TO us_PRP ,_, suggesting_VBG the_DT utility_NN of_IN our_PRP$ approach_NN as_IN a_DT navigational_JJ tool_NN for_IN the_DT corpus_NN ._.

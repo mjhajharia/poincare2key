@@ -1,0 +1,6 @@
+Multi-factor_JJ clustering_NN for_IN a_DT marketplace_NN search_NN interface_NN
+Search_VB engines_NNS provide_VBP a_DT small_JJ window_NN to_TO the_DT vast_JJ repository_NN of_IN data_NNS they_PRP index_NN and_CC against_IN which_WDT they_PRP search_VBP ._.
+They_PRP try_VBP their_PRP$ best_JJS to_TO return_VB the_DT documents_NNS that_WDT are_VBP of_IN relevance_NN to_TO the_DT user_NN but_CC often_RB a_DT large_JJ number_NN of_IN results_NNS may_MD be_VB returned_VBN ._.
+Users_NNS struggle_VBP to_TO manage_VB this_DT vast_JJ result_NN set_NN looking_VBG for_IN the_DT items_NNS of_IN interest_NN ._.
+Clustering_NN search_NN results_NNS is_VBZ one_CD way_NN of_IN alleviating_VBG this_DT navigational_JJ pain_NN ._.
+In_IN this_DT paper_NN we_PRP describe_VBP a_DT clustering_NN system_NN that_WDT enables_VBZ clustering_NN search_NN results_VBZ in_IN an_DT online_JJ marketplace_NN search_NN system_NN ._.

@@ -1,0 +1,12 @@
+Anonymity-preserving_JJ data_NNS collection_NN
+Protection_NN of_IN privacy_NN has_VBZ become_VBN an_DT important_JJ problem_NN in_IN data_NNS mining_NN ._.
+In_IN particular_JJ ,_, individuals_NNS have_VBP become_VBN increasingly_RB unwilling_JJ to_TO share_VB their_PRP$ data_NNS ,_, frequently_RB resulting_VBG in_IN individuals_NNS either_CC refusing_VBG to_TO share_VB their_PRP$ data_NNS or_CC providing_VBG incorrect_JJ data_NNS ._.
+In_IN turn_NN ,_, such_JJ problems_NNS in_IN data_NN collection_NN can_MD affect_VB the_DT success_NN of_IN data_NNS mining_NN ,_, which_WDT relies_VBZ on_IN sufficient_JJ amounts_NNS of_IN accurate_JJ data_NNS in_IN order_NN to_TO produce_VB meaningful_JJ results_NNS ._.
+Random_JJ perturbation_NN and_CC randomized_VBN response_NN techniques_NNS can_MD provide_VB some_DT level_NN of_IN privacy_NN in_IN data_NNS collection_NN ,_, but_CC they_PRP have_VBP an_DT associated_VBN cost_NN in_IN accuracy_NN ._.
+Cryptographic_JJ privacy-preserving_JJ data_NNS mining_NN methods_NNS provide_VBP good_JJ privacy_NN and_CC accuracy_NN properties_NNS ._.
+However_RB ,_, in_IN order_NN to_TO be_VB efficient_JJ ,_, those_DT solutions_NNS must_MD be_VB tailored_VBN to_TO specific_JJ mining_NN tasks_NNS ,_, thereby_RB losing_VBG generality_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP efficient_JJ cryptographic_JJ techniques_NNS for_IN online_JJ data_NNS collection_NN in_IN which_WDT data_NNS from_IN a_DT large_JJ number_NN of_IN respondents_NNS is_VBZ collected_VBN anonymously_RB ,_, without_IN the_DT help_NN of_IN a_DT trusted_VBN third_JJ party_NN ._.
+That_DT is_VBZ ,_, our_PRP$ solution_NN allows_VBZ the_DT miner_NN to_TO collect_VB the_DT original_JJ data_NNS from_IN each_DT respondent_NN ,_, but_CC in_IN such_PDT a_DT way_NN that_IN the_DT miner_NN can_MD not_RB link_VB a_DT respondent_NN 's_POS data_NNS to_TO the_DT respondent_NN ._.
+An_DT advantage_NN of_IN such_PDT a_DT solution_NN is_VBZ that_IN ,_, because_IN it_PRP does_VBZ not_RB change_VB the_DT actual_JJ data_NNS ,_, its_PRP$ success_NN does_VBZ not_RB depend_VB on_IN the_DT underlying_VBG data_NNS mining_NN problem_NN ._.
+We_PRP provide_VBP proofs_NNS of_IN the_DT correctness_NN and_CC privacy_NN of_IN our_PRP$ solution_NN ,_, as_RB well_RB as_IN experimental_JJ data_NNS that_WDT demonstrates_VBZ its_PRP$ efficiency_NN ._.
+We_PRP also_RB extend_VBP our_PRP$ solution_NN to_TO tolerate_VB certain_JJ kinds_NNS of_IN malicious_JJ behavior_NN of_IN the_DT participants_NNS ._.

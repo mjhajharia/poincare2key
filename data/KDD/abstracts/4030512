@@ -1,0 +1,8 @@
+Mining_NNP ,_, indexing_NN ,_, and_CC querying_VBG historical_JJ spatiotemporal_JJ data_NNS
+In_IN many_JJ applications_NNS that_WDT track_VBP and_CC analyze_VBP spatiotemporal_JJ data_NNS ,_, movements_NNS obey_VBP periodic_JJ patterns_NNS ;_: the_DT objects_NNS follow_VBP the_DT same_JJ routes_NNS -LRB-_-LRB- approximately_RB -RRB-_-RRB- over_IN regular_JJ time_NN intervals_NNS ._.
+For_IN example_NN ,_, people_NNS wake_VBP up_RP at_IN the_DT same_JJ time_NN and_CC follow_VB more_JJR or_CC less_JJR the_DT same_JJ route_NN to_TO their_PRP$ work_NN everyday_NN ._.
+The_DT discovery_NN of_IN hidden_JJ periodic_JJ patterns_NNS in_IN spatiotemporal_JJ data_NNS ,_, apart_RB from_IN unveiling_VBG important_JJ information_NN to_TO the_DT data_NNS analyst_NN ,_, can_MD facilitate_VB data_NNS management_NN substantially_RB ._.
+Based_VBN on_IN this_DT observation_NN ,_, we_PRP propose_VBP a_DT framework_NN that_WDT analyzes_VBZ ,_, manages_VBZ ,_, and_CC queries_NNS object_VBP movements_NNS that_WDT follow_VBP such_JJ patterns_NNS ._.
+We_PRP define_VBP the_DT spatiotemporal_JJ periodic_JJ pattern_NN mining_NN problem_NN and_CC propose_VBP an_DT effective_JJ and_CC fast_JJ mining_NN algorithm_NN for_IN retrieving_VBG maximal_JJ periodic_JJ patterns_NNS ._.
+We_PRP also_RB devise_VBP a_DT novel_JJ ,_, specialized_JJ index_NN structure_NN that_WDT can_MD benefit_VB from_IN the_DT discovered_VBN patterns_NNS to_TO support_VB more_RBR efficient_JJ execution_NN of_IN spatiotemporal_JJ queries_NNS ._.
+We_PRP evaluate_VBP our_PRP$ methods_NNS experimentally_RB using_VBG datasets_NNS with_IN object_NN trajectories_NNS that_WDT exhibit_VBP periodicity_NN ._.

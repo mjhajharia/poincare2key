@@ -1,0 +1,4 @@
+Rapid_JJ prototyping_NN of_IN web_NN applications_NNS combining_VBG domain_NN specific_JJ languages_NNS and_CC model_NN driven_JJ design_NN
+There_EX have_VBP been_VBN several_JJ authoring_VBG methods_NNS proposed_VBN in_IN the_DT literature_NN that_WDT are_VBP model_NN based_VBN ,_, essentially_RB following_VBG the_DT Model_NNP Driven_NNP Design_NNP philosophy_NN ._.
+While_IN useful_JJ ,_, such_JJ methods_NNS need_VBP an_DT effective_JJ way_NN to_TO allow_VB the_DT application_NN designer_NN to_TO somehow_RB synthesize_VB the_DT actual_JJ running_VBG application_NN from_IN the_DT specification_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP HyperDE_NN ,_, an_DT environment_NN that_WDT combines_VBZ Model_NNP Driven_NNP Design_NNP and_CC Domain_NN Specific_JJ Languages_NNS to_TO enable_VB rapid_JJ prototyping_NN of_IN Web_NN applications_NNS ._.

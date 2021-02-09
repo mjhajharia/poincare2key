@@ -1,0 +1,9 @@
+Discovering_VBG additive_JJ structure_NN in_IN black_JJ box_NN functions_NNS
+Many_JJ automated_JJ learning_NN procedures_NNS lack_VBP interpretability_NN ,_, operating_VBG effectively_RB as_IN a_DT black_JJ box_NN :_: providing_VBG a_DT prediction_NN tool_NN but_CC no_DT explanation_NN of_IN the_DT underlying_VBG dynamics_NNS that_WDT drive_VBP it_PRP ._.
+A_DT common_JJ approach_NN to_TO interpretation_NN is_VBZ to_TO plot_VB the_DT dependence_NN of_IN a_DT learned_VBN function_NN on_IN one_CD or_CC two_CD predictors_NNS ._.
+We_PRP present_VBP a_DT method_NN that_WDT seeks_VBZ not_RB to_TO display_VB the_DT behavior_NN of_IN a_DT function_NN ,_, but_CC to_TO evaluate_VB the_DT importance_NN of_IN non-additive_JJ interactions_NNS within_IN any_DT set_NN of_IN variables_NNS ._.
+Should_MD the_DT function_NN be_VB close_RB to_TO a_DT sum_NN of_IN low_JJ dimensional_JJ components_NNS ,_, these_DT components_NNS can_MD be_VB viewed_VBN and_CC even_RB modeled_VBD parametrically_RB ._.
+Alternatively_RB ,_, the_DT work_NN here_RB provides_VBZ an_DT indication_NN of_IN where_WRB intrinsically_RB high-dimensional_JJ behavior_NN takes_VBZ place_NN ._.
+The_DT calculations_NNS used_VBN in_IN this_DT paper_NN correspond_VBP closely_RB with_IN the_DT functional_JJ ANOVA_NNP decomposition_NN ;_: a_DT well-developed_JJ construction_NN in_IN Statistics_NNP ._.
+In_IN particular_JJ ,_, the_DT proposed_VBN score_NN of_IN interaction_NN importance_NN measures_VBZ the_DT loss_NN associated_VBN with_IN the_DT projection_NN of_IN the_DT prediction_NN function_NN onto_IN a_DT space_NN of_IN additive_JJ models_NNS ._.
+The_DT algorithm_NN runs_VBZ in_IN linear_JJ time_NN and_CC we_PRP present_VBP displays_NNS of_IN the_DT output_NN as_IN a_DT graphical_JJ model_NN of_IN the_DT function_NN for_IN interpretation_NN purposes_NNS ._.

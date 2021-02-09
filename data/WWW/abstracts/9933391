@@ -1,0 +1,10 @@
+Using_VBG graphics_NNS processors_NNS for_IN high_JJ performance_NN IR_NN query_NN processing_NN
+Web_NN search_NN engines_NNS are_VBP facing_VBG formidable_JJ performance_NN challenges_NNS due_JJ to_TO data_NN sizes_NNS and_CC query_NN loads_NNS ._.
+The_DT major_JJ engines_NNS have_VBP to_TO process_VB tens_NNS of_IN thousands_NNS of_IN queries_NNS per_IN second_NN over_IN tens_NNS of_IN billions_NNS of_IN documents_NNS ._.
+To_TO deal_VB with_IN this_DT heavy_JJ workload_NN ,_, such_JJ engines_NNS employ_VBP massively_RB parallel_JJ systems_NNS consisting_VBG of_IN thousands_NNS of_IN machines_NNS ._.
+The_DT significant_JJ cost_NN of_IN operating_VBG these_DT systems_NNS has_VBZ motivated_VBN a_DT lot_NN of_IN recent_JJ research_NN into_IN more_RBR efficient_JJ query_NN processing_NN mechanisms_NNS ._.
+We_PRP investigate_VBP a_DT new_JJ way_NN to_TO build_VB such_JJ high_JJ performance_NN IR_NN systems_NNS using_VBG graphical_JJ processing_NN units_NNS -LRB-_-LRB- GPUs_NNS -RRB-_-RRB- ._.
+GPUs_NNS were_VBD originally_RB designed_VBN to_TO accelerate_VB computer_NN graphics_NNS applications_NNS through_IN massive_JJ on-chip_JJ parallelism_NN ._.
+Recently_RB a_DT number_NN of_IN researchers_NNS have_VBP studied_VBN how_WRB to_TO use_VB GPUs_NNS for_IN other_JJ problem_NN domains_NNS such_JJ as_IN databases_NNS and_CC scientific_JJ computing_NN ._.
+Our_PRP$ contribution_NN here_RB is_VBZ to_TO design_VB a_DT basic_JJ system_NN architecture_NN for_IN GPU-based_JJ high-performance_JJ IR_NN ,_, to_TO develop_VB suitable_JJ algorithms_NNS for_IN subtasks_NNS such_JJ as_IN inverted_JJ list_NN compression_NN ,_, list_NN intersection_NN ,_, and_CC top_JJ -_: $_$ k_NN $_$ scoring_VBG ,_, and_CC to_TO show_VB how_WRB to_TO achieve_VB highly_RB efficient_JJ query_NN processing_NN on_IN GPU-based_JJ systems_NNS ._.
+Our_PRP$ experimental_JJ results_NNS for_IN a_DT prototype_NN GPU-based_JJ system_NN on_IN $_$ 25.2_CD $_$ million_CD web_NN pages_NNS indicate_VBP that_IN significant_JJ gains_NNS in_IN query_NN processing_NN performance_NN can_MD be_VB obtained_VBN ._.

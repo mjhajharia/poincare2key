@@ -1,0 +1,5 @@
+Focused_VBN crawling_VBG by_IN exploiting_VBG anchor_NN text_NN using_VBG decision_NN tree_NN
+Focused_VBN crawlers_NNS are_VBP considered_VBN as_IN a_DT promising_JJ way_NN to_TO tackle_VB the_DT scalability_NN problem_NN of_IN topic-oriented_JJ or_CC personalized_JJ search_NN engines_NNS ._.
+To_TO design_VB a_DT focused_JJ crawler_NN ,_, the_DT choice_NN of_IN strategy_NN for_IN prioritizing_VBG unvisited_JJ URLs_NNS is_VBZ crucial_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT method_NN using_VBG a_DT decision_NN tree_NN on_IN anchor_NN texts_NNS of_IN hyperlinks_NNS ._.
+We_PRP conducted_VBD experiments_NNS on_IN the_DT real_JJ data_NN sets_NNS of_IN four_CD Japanese_JJ universities_NNS and_CC verified_VBD our_PRP$ approach_NN ._.

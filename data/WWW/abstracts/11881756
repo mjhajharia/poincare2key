@@ -1,0 +1,5 @@
+Visualization_NN of_IN Geo-annotated_JJ pictures_NNS in_IN mobile_JJ phones_NNS
+In_IN this_DT work_NN ,_, a_DT novel_JJ mobile_JJ browser_NN for_IN geo-referenced_JJ pictures_NNS is_VBZ introduced_VBN and_CC described_VBN ._.
+We_PRP use_VBP the_DT term_NN browser_NN to_TO denote_VB a_DT system_NN aimed_VBN at_IN browsing_VBG pictures_NNS selected_VBN from_IN a_DT large_JJ set_NN like_IN Internet_NN photo_NN sharing_NN services_NNS ._.
+The_DT criteria_NNS to_TO filter_NN a_DT subset_NN of_IN pictures_NNS to_TO browse_VB are_VBP three_CD :_: the_DT user_NN 's_POS actual_JJ position_NN ,_, the_DT user_NN 's_POS actual_JJ heading_VBG ,_, and_CC the_DT user_NN 's_POS preferences_NNS ._.
+In_IN this_DT work_NN we_PRP only_RB focus_VB on_IN the_DT first_JJ two_CD criteria_NNS leaving_VBG the_DT integration_NN of_IN user_NN 's_POS preferences_NNS for_IN future_JJ developments_NNS ._.

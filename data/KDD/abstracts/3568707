@@ -1,0 +1,7 @@
+Efficiently_RB handling_VBG feature_NN redundancy_NN in_IN high-dimensional_JJ data_NNS
+High-dimensional_JJ data_NNS poses_VBZ a_DT severe_JJ challenge_NN for_IN data_NN mining_NN ._.
+Feature_NN selection_NN is_VBZ a_DT frequently_RB used_VBN technique_NN in_IN pre-processing_JJ high-dimensional_JJ data_NNS for_IN successful_JJ data_NNS mining_NN ._.
+Traditionally_RB ,_, feature_NN selection_NN is_VBZ focused_VBN on_IN removing_VBG irrelevant_JJ features_NNS ._.
+However_RB ,_, for_IN high-dimensional_JJ data_NNS ,_, removing_VBG redundant_JJ features_NNS is_VBZ equally_RB critical_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP provide_VBP a_DT study_NN of_IN feature_NN redundancy_NN in_IN high-dimensional_JJ data_NNS and_CC propose_VBP a_DT novel_JJ correlation-based_JJ approach_NN to_TO feature_VB selection_NN within_IN the_DT filter_NN model_NN ._.
+The_DT extensive_JJ empirical_JJ study_NN using_VBG real-world_JJ data_NNS shows_VBZ that_IN the_DT proposed_VBN approach_NN is_VBZ efficient_JJ and_CC effective_JJ in_IN removing_VBG redundant_JJ and_CC irrelevant_JJ features_NNS ._.

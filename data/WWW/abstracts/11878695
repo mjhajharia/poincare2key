@@ -1,0 +1,14 @@
+Estimating_VBG sizes_NNS of_IN social_JJ networks_NNS via_IN biased_VBN sampling_NN
+Online_JJ social_JJ networks_NNS have_VBP become_VBN very_RB popular_JJ in_IN recent_JJ years_NNS and_CC their_PRP$ number_NN of_IN users_NNS is_VBZ already_RB measured_VBN in_IN many_JJ hundreds_NNS of_IN millions_NNS ._.
+For_IN various_JJ commercial_JJ and_CC sociological_JJ purposes_NNS ,_, an_DT independent_JJ estimate_NN of_IN their_PRP$ sizes_NNS is_VBZ important_JJ ._.
+In_IN this_DT work_NN ,_, algorithms_NNS for_IN estimating_VBG the_DT number_NN of_IN users_NNS in_IN such_JJ networks_NNS are_VBP considered_VBN ._.
+The_DT proposed_VBN schemes_NNS are_VBP also_RB applicable_JJ for_IN estimating_VBG the_DT sizes_NNS of_IN networks_NNS '_POS sub-populations_NNS ._.
+The_DT suggested_JJ algorithms_NNS interact_VBP with_IN the_DT social_JJ networks_NNS via_IN their_PRP$ public_JJ APIs_NNS only_RB ,_, and_CC rely_VB on_IN no_DT other_JJ external_JJ information_NN ._.
+Due_JJ to_TO obvious_JJ traffic_NN and_CC privacy_NN concerns_NNS ,_, the_DT number_NN of_IN such_JJ interactions_NNS is_VBZ severely_RB limited_JJ ._.
+We_PRP therefore_RB focus_VB on_IN minimizing_VBG the_DT number_NN of_IN API_NN interactions_NNS needed_VBN for_IN producing_VBG good_JJ size_NN estimates_NNS ._.
+We_PRP adopt_VBP the_DT abstraction_NN of_IN social_JJ networks_NNS as_IN undirected_JJ graphs_NNS and_CC use_VB random_JJ node_NN sampling_NN ._.
+By_IN counting_VBG the_DT number_NN of_IN collisions_NNS or_CC non-unique_JJ nodes_NNS in_IN the_DT sample_NN ,_, we_PRP produce_VBP a_DT size_NN estimate_NN ._.
+Then_RB ,_, we_PRP show_VBP analytically_RB that_IN the_DT estimate_NN error_NN vanishes_VBZ with_IN high_JJ probability_NN for_IN smaller_JJR number_NN of_IN samples_NNS than_IN those_DT required_VBN by_IN prior-art_JJ algorithms_NNS ._.
+Moreover_RB ,_, although_IN our_PRP$ algorithms_NNS are_VBP provably_RB correct_JJ for_IN any_DT graph_NN ,_, they_PRP excel_VBP when_WRB applied_VBN to_TO social_JJ network-like_JJ graphs_NNS ._.
+The_DT proposed_VBN algorithms_NNS were_VBD evaluated_VBN on_IN synthetic_NN as_RB well_RB real_JJ social_JJ networks_NNS such_JJ as_IN Facebook_NNP ,_, IMDB_NNP ,_, and_CC DBLP_NN ._.
+Our_PRP$ experiments_NNS corroborated_VBD the_DT theoretical_JJ results_NNS ,_, and_CC demonstrated_VBD the_DT effectiveness_NN of_IN the_DT algorithms_NNS ._.

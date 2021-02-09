@@ -1,0 +1,5 @@
+Web-scale_JJ entity-relation_NN search_NN architecture_NN
+Enabling_VBG entity_NN search_NN and_CC ranking_NN at_IN Web-scale_NN is_VBZ fraught_JJ with_IN many_JJ challenges_NNS :_: annotating_VBG the_DT corpus_NN with_IN entities_NNS and_CC types_NNS ,_, query_JJ language_NN design_NN ,_, index_NN design_NN ,_, query_NN processing_NN logic_NN ,_, and_CC answer_NN consolidation_NN ._.
+We_PRP describe_VBP a_DT Web-scale_JJ entity_NN search_NN engine_NN we_PRP are_VBP building_VBG to_TO handle_VB over_IN a_DT billion_CD Web_NN pages_NNS ,_, over_IN 200,000_CD types_NNS ,_, over_IN 1,500,000_CD entities_NNS ,_, and_CC hundreds_NNS of_IN entity_NN annotations_NNS per_IN page_NN ._.
+We_PRP describe_VBP the_DT design_NN of_IN compressed_VBN ,_, token_JJ span_NN oriented_JJ indices_NNS for_IN entity_NN and_CC type_NN annotations_NNS ._.
+Our_PRP$ prototype_NN demonstrates_VBZ the_DT practicality_NN of_IN Web-scale_JJ entity-relation_NN search_NN ._.

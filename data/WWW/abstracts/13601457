@@ -1,0 +1,7 @@
+Mining_NN for_IN personal_JJ name_NN aliases_NNS on_IN the_DT web_NN
+We_PRP propose_VBP a_DT novel_JJ approach_NN to_TO find_VB aliases_NNS of_IN a_DT given_VBN name_NN from_IN the_DT web_NN ._.
+We_PRP exploit_VBP a_DT set_NN of_IN known_JJ names_NNS and_CC their_PRP$ aliases_NNS as_IN training_NN data_NNS and_CC extract_NN lexical_JJ patterns_NNS that_WDT convey_VBP information_NN related_JJ to_TO aliases_NNS of_IN names_NNS from_IN text_NN snippets_NNS returned_VBN by_IN a_DT web_NN search_NN engine_NN ._.
+The_DT patterns_NNS are_VBP then_RB used_VBN to_TO find_VB candidate_NN aliases_NNS of_IN a_DT given_VBN name_NN ._.
+We_PRP use_VBP anchor_NN texts_NNS and_CC hyperlinks_NNS to_TO design_VB a_DT word_NN co-occurrence_NN model_NN and_CC define_VB numerous_JJ ranking_NN scores_NNS to_TO evaluate_VB the_DT association_NN between_IN a_DT name_NN and_CC its_PRP$ candidate_NN aliases_NNS ._.
+The_DT proposed_VBN method_NN outperforms_VBZ numerous_JJ baselines_NNS and_CC previous_JJ work_NN on_IN alias_NNS extraction_NN on_IN a_DT dataset_NN of_IN personal_JJ names_NNS ,_, achieving_VBG a_DT statistically_RB significant_JJ mean_JJ reciprocal_JJ rank_NN of_IN 0.6718_CD ._.
+Moreover_RB ,_, the_DT aliases_NNS extracted_VBN using_VBG the_DT proposed_VBN method_NN improve_VB recall_NN by_IN 20_CD %_NN in_IN a_DT relation-detection_JJ task_NN ._.

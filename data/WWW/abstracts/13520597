@@ -1,0 +1,7 @@
+Unsupervised_JJ query_NN categorization_NN using_VBG automatically-built_JJ concept_NN graphs_NNS
+Automatic_NNP categorization_NN of_IN user_NN queries_NNS is_VBZ an_DT important_JJ component_NN of_IN general_JJ purpose_NN -LRB-_-LRB- Web_NN -RRB-_-RRB- search_NN engines_NNS ,_, particularly_RB for_IN triggering_VBG rich_JJ ,_, query-specific_JJ content_NN and_CC sponsored_VBN links_NNS ._.
+We_PRP propose_VBP an_DT unsupervised_JJ learning_NN scheme_NN that_WDT reduces_VBZ dramatically_RB the_DT cost_NN of_IN setting_VBG up_RP and_CC maintaining_VBG such_JJ a_DT categorizer_NN ,_, while_IN retaining_VBG good_JJ categorization_NN power_NN ._.
+The_DT model_NN is_VBZ stored_VBN as_IN a_DT graph_NN of_IN concepts_NNS where_WRB graph_NN edges_NNS represent_VBP the_DT cross-reference_NN between_IN the_DT concepts_NNS ._.
+Concepts_NNS and_CC relations_NNS are_VBP extracted_VBN from_IN query_JJ logs_NNS by_IN an_DT offline_JJ Web_NN mining_NN process_NN ,_, which_WDT uses_VBZ a_DT search_NN engine_NN as_IN a_DT powerful_JJ summarizer_NN for_IN building_VBG a_DT concept_NN graph_NN ._.
+Empirical_JJ evaluation_NN indicates_VBZ that_IN the_DT system_NN compares_VBZ favorably_RB on_IN publicly_RB available_JJ data_NNS sets_NNS -LRB-_-LRB- such_JJ as_IN KDD_NNP Cup_NNP 2005_CD -RRB-_-RRB- as_RB well_RB as_IN on_IN portions_NNS of_IN the_DT current_JJ query_NN stream_NN of_IN Yahoo_NNP !_.
+Search_VB ,_, where_WRB it_PRP is_VBZ already_RB changing_VBG the_DT experience_NN of_IN millions_NNS of_IN Web_NN search_NN users_NNS ._.

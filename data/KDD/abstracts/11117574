@@ -1,0 +1,9 @@
+Transfer_NN metric_JJ learning_NN by_IN learning_VBG task_NN relationships_NNS
+Distance_NNP metric_JJ learning_NN plays_VBZ a_DT very_RB crucial_JJ role_NN in_IN many_JJ data_NNS mining_NN algorithms_NNS because_IN the_DT performance_NN of_IN an_DT algorithm_NN relies_VBZ heavily_RB on_IN choosing_VBG a_DT good_JJ metric_NN ._.
+However_RB ,_, the_DT labeled_JJ data_NNS available_JJ in_IN many_JJ applications_NNS is_VBZ scarce_JJ and_CC hence_RB the_DT metrics_NNS learned_VBN are_VBP often_RB unsatisfactory_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP consider_VBP a_DT transfer_NN learning_VBG setting_NN in_IN which_WDT some_DT related_JJ source_NN tasks_NNS with_IN labeled_JJ data_NNS are_VBP available_JJ to_TO help_VB the_DT learning_NN of_IN the_DT target_NN task_NN ._.
+We_PRP first_RB propose_VBP a_DT convex_NN formulation_NN for_IN multi-task_JJ metric_JJ learning_NN by_IN modeling_NN the_DT task_NN relationships_NNS in_IN the_DT form_NN of_IN a_DT task_NN covariance_NN matrix_NN ._.
+Then_RB we_PRP regard_VBP transfer_NN learning_NN as_IN a_DT special_JJ case_NN of_IN multi-task_JJ learning_NN and_CC adapt_VB the_DT formulation_NN of_IN multi-task_JJ metric_JJ learning_NN to_TO the_DT transfer_NN learning_NN setting_VBG for_IN our_PRP$ method_NN ,_, called_VBN transfer_NN metric_NN learning_NN -LRB-_-LRB- TML_NN -RRB-_-RRB- ._.
+In_IN TML_NNP ,_, we_PRP learn_VBP the_DT metric_NN and_CC the_DT task_NN covariances_NNS between_IN the_DT source_NN tasks_NNS and_CC the_DT target_NN task_NN under_IN a_DT unified_JJ convex_NN formulation_NN ._.
+To_TO solve_VB the_DT convex_NN optimization_NN problem_NN ,_, we_PRP use_VBP an_DT alternating_VBG method_NN in_IN which_WDT each_DT subproblem_NN has_VBZ an_DT efficient_JJ solution_NN ._.
+Experimental_JJ results_NNS on_IN some_DT commonly_RB used_VBN transfer_NN learning_NN applications_NNS demonstrate_VBP the_DT effectiveness_NN of_IN our_PRP$ method_NN ._.

@@ -1,0 +1,3 @@
+Automatic_NNP extraction_NN of_IN web_NN search_NN interfaces_NNS for_IN interface_NN schema_NN integration_NN
+This_DT paper_NN provides_VBZ an_DT overview_NN of_IN a_DT technique_NN for_IN extracting_VBG information_NN from_IN the_DT Web_NN search_NN interfaces_NNS of_IN e-commerce_NN search_NN engines_NNS that_WDT is_VBZ useful_JJ for_IN supporting_VBG automatic_JJ search_NN interface_NN integration_NN ._.
+In_IN particular_JJ ,_, we_PRP discuss_VBP how_WRB to_TO group_NN elements_NNS and_CC labels_NNS on_IN a_DT search_NN interface_NN into_IN attributes_NNS and_CC how_WRB to_TO derive_VB certain_JJ meta-information_NN for_IN each_DT attribute_NN ._.

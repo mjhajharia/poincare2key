@@ -1,0 +1,5 @@
+Evolutionary_JJ clustering_NN
+We_PRP consider_VBP the_DT problem_NN of_IN clustering_NN data_NNS over_IN time_NN ._.
+An_DT evolutionary_JJ clustering_NN should_MD simultaneously_RB optimize_VB two_CD potentially_RB conflicting_JJ criteria_NNS :_: first_RB ,_, the_DT clustering_NN at_IN any_DT point_NN in_IN time_NN should_MD remain_VB faithful_JJ to_TO the_DT current_JJ data_NNS as_RB much_RB as_IN possible_JJ ;_: and_CC second_JJ ,_, the_DT clustering_NN should_MD not_RB shift_VB dramatically_RB from_IN one_CD timestep_NN to_TO the_DT next_JJ ._.
+We_PRP present_VBP a_DT generic_JJ framework_NN for_IN this_DT problem_NN ,_, and_CC discuss_VBP evolutionary_JJ versions_NNS of_IN two_CD widely-used_JJ clustering_NN algorithms_NNS within_IN this_DT framework_NN :_: k-means_NNS and_CC agglomerative_JJ hierarchical_JJ clustering_NN ._.
+We_PRP extensively_RB evaluate_VBP these_DT algorithms_NNS on_IN real_JJ data_NNS sets_NNS and_CC show_VBP that_IN our_PRP$ algorithms_NNS can_MD simultaneously_RB attain_VB both_DT high_JJ accuracy_NN in_IN capturing_VBG today_NN 's_POS data_NNS ,_, and_CC high_JJ fidelity_NN in_IN reflecting_VBG yesterday_NN 's_POS clustering_NN ._.

@@ -1,0 +1,9 @@
+Single-pass_JJ online_JJ learning_NN :_: performance_NN ,_, voting_VBG schemes_NNS and_CC online_JJ feature_NN selection_NN
+To_TO learn_VB concepts_NNS over_IN massive_JJ data_NNS streams_NNS ,_, it_PRP is_VBZ essential_JJ to_TO design_NN inference_NN and_CC learning_NN methods_NNS that_WDT operate_VBP in_IN real_JJ time_NN with_IN limited_JJ memory_NN ._.
+Online_JJ learning_NN methods_NNS such_JJ as_IN perceptron_NN or_CC Winnow_NNP are_VBP naturally_RB suited_VBN to_TO stream_NN processing_NN ;_: however_RB ,_, in_IN practice_NN multiple_JJ passes_NNS over_IN the_DT same_JJ training_NN data_NNS are_VBP required_VBN to_TO achieve_VB accuracy_NN comparable_JJ to_TO state-of-the-art_JJ batch_NN learners_NNS ._.
+In_IN the_DT current_JJ work_NN we_PRP address_VBP the_DT problem_NN of_IN training_VBG an_DT on-line_JJ learner_NN with_IN a_DT single_JJ passover_NN the_DT data_NNS ._.
+We_PRP evaluate_VBP several_JJ existing_VBG methods_NNS ,_, and_CC also_RB propose_VBP a_DT new_JJ modification_NN of_IN Margin_NN Balanced_NNP Winnow_NNP ,_, which_WDT has_VBZ performance_NN comparable_JJ to_TO linear_JJ SVM_NN ._.
+We_PRP also_RB explore_VBP the_DT effect_NN of_IN averaging_NN ,_, a.k.a._NN voting_NN ,_, on_IN online_JJ learning_NN ._.
+Finally_RB ,_, we_PRP describe_VBP how_WRB the_DT new_JJ Modified_JJ Margin_NN Balanced_FW Winnow_FW algorithm_NN can_MD be_VB naturally_RB adapted_VBN to_TO perform_VB feature_NN selection_NN ._.
+This_DT scheme_NN performs_VBZ comparably_RB to_TO widely-used_JJ batch_NN feature_NN selection_NN methods_NNS like_IN information_NN gain_NN or_CC Chi-square_NN ,_, with_IN the_DT advantage_NN of_IN being_VBG able_JJ to_TO select_VB features_NNS on-the-fly_JJ ._.
+Taken_VBN together_RB ,_, these_DT techniques_NNS allow_VBP single-pass_JJ online_JJ learning_NN to_TO be_VB competitive_JJ with_IN batch_NN techniques_NNS ,_, and_CC still_RB maintain_VB the_DT advantages_NNS of_IN on-line_JJ learning_NN ._.

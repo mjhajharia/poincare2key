@@ -1,0 +1,11 @@
+An_DT environment_NN for_IN collaborative_JJ content_NN acquisition_NN and_CC editing_NN by_IN coordinated_VBN ubiquitous_JJ devices_NNS
+Digital_NN content_NN is_VBZ not_RB only_RB stored_VBN by_IN servers_NNS on_IN the_DT Internet_NN ,_, but_CC also_RB on_IN various_JJ embedded_JJ devices_NNS belonging_VBG to_TO ubiquitous_JJ networks_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT content_NN processing_NN mechanism_NN for_IN use_NN in_IN an_DT environment_NN enabling_VBG collaborative_JJ acquisition_NN of_IN embedded_JJ digital_JJ content_NN in_IN real-world_JJ situations_NNS ._.
+We_PRP have_VBP developed_VBN a_DT network_NN management_NN device_NN that_WDT makes_VBZ it_PRP possible_JJ to_TO acquire_VB embedded_JJ content_NN using_VBG coordinated_VBN ubiquitous_JJ devices_NNS ._.
+The_DT management_NN device_NN actively_RB configures_VBZ a_DT network_NN that_WDT includes_VBZ content-providing_JJ devices_NNS and_CC browsing_VBG devices_NNS to_TO permit_VB sharing_NN of_IN various_JJ items_NNS with_IN digital_JJ content_NN ._.
+We_PRP also_RB developed_VBD a_DT Functional_JJ web_NN mechanism_NN for_IN processing_VBG embedded_JJ web_NN content_NN in_IN the_DT real-world_NN without_IN a_DT keyboard_NN ._.
+This_DT mechanism_NN adds_VBZ various_JJ functions_NNS to_TO conventional_JJ web_NN content_NN ._.
+These_DT functions_NNS are_VBP activated_VBN by_IN messages_NNS from_IN a_DT Field_NNP in_IN a_DT content_NN processing_NN device_NN ._.
+We_PRP construct_VBP a_DT practical_JJ prototype_NN system_NN ,_, which_WDT is_VBZ simple_JJ enough_RB for_IN children_NNS to_TO use_VB ,_, that_IN we_PRP called_VBD the_DT ``_`` Virtual_NNP Insect_NNP Catcher_NNP ''_'' ._.
+Through_IN a_DT test_NN with_IN 48_CD children_NNS ,_, we_PRP demonstrated_VBD that_IN this_DT system_NN can_MD be_VB used_VBN to_TO acquire_VB embedded_JJ web_NN content_NN ,_, retrieve_VBP related_JJ content_NN from_IN the_DT Internet_NN ,_, and_CC then_RB create_VB new_JJ web_NN content_NN ._.
+We_PRP will_MD also_RB describe_VB the_DT proposed_VBN mechanism_NN and_CC the_DT system_NN testing_NN ._.

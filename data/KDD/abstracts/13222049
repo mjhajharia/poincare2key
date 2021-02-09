@@ -1,0 +1,6 @@
+Apolo_NNP :_: interactive_JJ large_JJ graph_NN sensemaking_NN by_IN combining_VBG machine_NN learning_NN and_CC visualization_NN
+We_PRP present_VBP APOLO_NNP ,_, a_DT system_NN that_WDT uses_VBZ a_DT mixed-initiative_JJ approach_NN to_TO help_VB people_NNS interactively_RB explore_VB and_CC make_VB sense_NN of_IN large_JJ network_NN datasets_NNS ._.
+It_PRP combines_VBZ visualization_NN ,_, rich_JJ user_NN interaction_NN and_CC machine_NN learning_NN to_TO engage_VB the_DT user_NN in_IN bottom-up_JJ sensemaking_NN to_TO gradually_RB build_VB up_RP an_DT understanding_NN over_IN time_NN by_IN starting_VBG small_JJ ,_, rather_RB than_IN starting_VBG big_JJ and_CC drilling_VBG down_RP ._.
+APOLO_NNP helps_VBZ users_NNS find_VB relevant_JJ information_NN by_IN specifying_VBG exemplars_NNS ,_, and_CC then_RB using_VBG a_DT machine_NN learning_NN method_NN called_VBN Belief_NNP Propagation_NN to_TO infer_VB which_WDT other_JJ nodes_NNS may_MD be_VB of_IN interest_NN ._.
+We_PRP demonstrate_VBP APOLO_NNP 's_POS usage_NN and_CC benefits_NNS using_VBG a_DT Google_NNP Scholar_NNP citation_NN graph_NN ,_, consisting_VBG of_IN 83,000_CD articles_NNS -LRB-_-LRB- nodes_NNS -RRB-_-RRB- and_CC 150,000_CD citations_NNS relationships_NNS ._.
+A_DT demo_NN video_NN of_IN APOLO_NN is_VBZ available_JJ at_IN http:\/\/www.cs.cmu.edu\/~dchau\/apolo\/apolo.mp4_NN ._.

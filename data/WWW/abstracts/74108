@@ -1,0 +1,8 @@
+Towards_IN context-aware_JJ adaptable_JJ web_NN services_NNS
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT context_NN framework_NN that_WDT facilitates_VBZ the_DT development_NN and_CC deployment_NN of_IN context-aware_JJ adaptable_JJ Web_NN services_NNS ._.
+Web_NN services_NNS are_VBP provided_VBN with_IN context_NN information_NN about_IN clients_NNS that_WDT may_MD be_VB utilized_VBN to_TO provide_VB a_DT personalized_JJ behavior_NN ._.
+Context_NN is_VBZ extensible_JJ with_IN new_JJ types_NNS of_IN information_NN at_IN any_DT time_NN without_IN any_DT changes_NNS to_TO the_DT underlying_JJ infrastructure_NN ._.
+Context_NN processing_NN is_VBZ done_VBN by_IN Web_NN services_NNS ,_, context_NN plugins_NNS ,_, or_CC context_NN services_NNS ._.
+Context_NN plugins_NNS and_CC context_NN services_NNS pre_JJ -_: and_CC post-process_JJ Web_NN service_NN messages_NNS based_VBN on_IN the_DT available_JJ contextinformation_NN ._.
+Both_DT are_VBP essential_JJ for_IN automatic_JJ context_NN processing_NN and_CC automatic_JJ adaption_NN of_IN Web_NN services_NNS to_TO new_JJ context_NN types_NNS without_IN the_DT necessity_NN to_TO adjust_VB the_DT Web_NN services_NNS themselves_PRP ._.
+We_PRP implemented_VBD the_DT context_NN framework_NN within_IN the_DT ServiceGlobe_NN system_NN ,_, our_PRP$ open_JJ and_CC distributed_VBN Web_NN service_NN platform_NN ._.

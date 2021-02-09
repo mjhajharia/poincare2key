@@ -1,0 +1,7 @@
+Fast_JJ vertical_JJ mining_NN using_VBG diffsets_NNS
+A_DT number_NN of_IN vertical_JJ mining_NN algorithms_NNS have_VBP been_VBN proposed_VBN recently_RB for_IN association_NN mining_NN ,_, which_WDT have_VBP shown_VBN to_TO be_VB very_RB effective_JJ and_CC usually_RB outperform_VBP horizontal_JJ approaches_NNS ._.
+The_DT main_JJ advantage_NN of_IN the_DT vertical_JJ format_NN is_VBZ support_NN for_IN fast_JJ frequency_NN counting_NN via_IN intersection_NN operations_NNS on_IN transaction_NN ids_NNS -LRB-_-LRB- tids_NNS -RRB-_-RRB- and_CC automatic_JJ pruning_NN of_IN irrelevant_JJ data_NNS ._.
+The_DT main_JJ problem_NN with_IN these_DT approaches_NNS is_VBZ when_WRB intermediate_JJ results_NNS of_IN vertical_JJ tid_NN lists_NNS become_VBP too_RB large_JJ for_IN memory_NN ,_, thus_RB affecting_VBG the_DT algorithm_NN scalability_NN ._.
+In_IN this_DT paper_NN we_PRP present_VBP a_DT novel_JJ vertical_JJ data_NNS representation_NN called_VBN Diffset_NNP ,_, that_WDT only_RB keeps_VBZ track_NN of_IN differences_NNS in_IN the_DT tids_NNS of_IN a_DT candidate_NN pattern_NN from_IN its_PRP$ generating_VBG frequent_JJ patterns_NNS ._.
+We_PRP show_VBP that_IN diffsets_NNS drastically_RB cut_VBD down_RP the_DT size_NN of_IN memory_NN required_VBN to_TO store_VB intermediate_JJ results_NNS ._.
+We_PRP show_VBP how_WRB diffsets_NNS ,_, when_WRB incorporated_VBN into_IN previous_JJ vertical_JJ mining_NN methods_NNS ,_, increase_VBP the_DT performance_NN significantly_RB ._.

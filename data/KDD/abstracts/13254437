@@ -1,0 +1,7 @@
+Multiple_JJ domain_NN user_NN personalization_NN
+Content_NN personalization_NN is_VBZ a_DT key_JJ tool_NN in_IN creating_VBG attractive_JJ websites_NNS ._.
+Synergies_NNS can_MD be_VB obtained_VBN by_IN integrating_VBG personalization_NN between_IN several_JJ Internet_NNP properties_NNS ._.
+In_IN this_DT paper_NN we_PRP propose_VBP a_DT hierarchical_JJ Bayesian_JJ model_NN to_TO address_VB these_DT issues_NNS ._.
+Our_PRP$ model_NN allows_VBZ the_DT integration_NN of_IN multiple_JJ properties_NNS without_IN changing_VBG the_DT overall_JJ structure_NN ,_, which_WDT makes_VBZ it_PRP easily_RB extensible_JJ across_IN large_JJ Internet_NNP portals_NNS ._.
+It_PRP relies_VBZ at_IN its_PRP$ lowest_JJS level_NN on_IN Latent_JJ Dirichlet_NNP Allocation_NNP ,_, while_IN making_VBG use_NN of_IN latent_JJ side_NN features_NNS for_IN cross-property_JJ integration_NN ._.
+We_PRP demonstrate_VBP the_DT efficiency_NN of_IN our_PRP$ approach_NN by_IN analyzing_VBG data_NNS from_IN several_JJ properties_NNS of_IN a_DT major_JJ Internet_NN portal_NN ._.

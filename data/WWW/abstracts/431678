@@ -1,0 +1,8 @@
+Clarifying_VBG the_DT fundamentals_NNS of_IN HTTP_NN
+The_DT simplicity_NN of_IN HTTP_NN was_VBD a_DT major_JJ factor_NN in_IN the_DT success_NN of_IN the_DT Web_NN ._.
+However_RB ,_, as_IN both_CC the_DT protocol_NN and_CC its_PRP$ uses_NNS have_VBP evolved_VBN ,_, HTTP_NNP has_VBZ grown_VBN complex_NN ._.
+This_DT complexity_NN results_VBZ in_IN numerous_JJ problems_NNS ,_, including_VBG confused_JJ implementors_NNS ,_, interoperability_NN failures_NNS ,_, difficulty_NN in_IN extending_VBG the_DT protocol_NN ,_, and_CC a_DT long_JJ specification_NN without_IN much_JJ documented_JJ rationale_NN ._.
+Many_JJ of_IN the_DT problems_NNS with_IN HTTP_NN can_MD be_VB traced_VBN to_TO unfortunate_JJ choices_NNS about_IN fundamental_JJ definitions_NNS and_CC models_NNS ._.
+This_DT paper_NN analyzes_VBZ the_DT current_JJ -LRB-_-LRB- HTTP\/1_NN .1_NN -RRB-_-RRB- protocol_NN design_NN ,_, showing_VBG how_WRB it_PRP fails_VBZ in_IN certain_JJ cases_NNS ,_, and_CC how_WRB to_TO improve_VB these_DT fundamentals_NNS ._.
+Some_DT problems_NNS with_IN HTTP_NN can_MD be_VB fixed_VBN simply_RB by_IN adopting_VBG new_JJ models_NNS and_CC terminology_NN ,_, allowing_VBG us_PRP to_TO think_VB more_RBR clearly_RB about_IN implementations_NNS and_CC extensions_NNS ._.
+Other_JJ problems_NNS require_VBP explicit_JJ -LRB-_-LRB- but_CC compatible_JJ -RRB-_-RRB- protocol_NN changes_NNS ._.

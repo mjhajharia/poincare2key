@@ -1,0 +1,9 @@
+Building_NN adaptable_JJ and_CC reusable_JJ XML_NN applications_NNS with_IN model_NN transformations_NNS
+We_PRP present_VBP an_DT approach_NN in_IN which_WDT the_DT semantics_NNS of_IN an_DT XML_NN language_NN is_VBZ defined_VBN by_IN means_NNS of_IN a_DT transformation_NN from_IN an_DT XML_NN document_NN model_NN -LRB-_-LRB- an_DT XML_NN schema_NN -RRB-_-RRB- to_TO an_DT application_NN specific_JJ model_NN ._.
+The_DT application_NN specific_JJ model_NN implements_VBZ the_DT intended_JJ behavior_NN of_IN documents_NNS written_VBN in_IN the_DT language_NN ._.
+A_DT transformation_NN is_VBZ specified_VBN in_IN a_DT model_NN transformation_NN language_NN used_VBN in_IN the_DT Model_NNP Driven_NNP Architecture_NNP -LRB-_-LRB- MDA_NNP -RRB-_-RRB- approach_NN for_IN software_NN development_NN ._.
+Our_PRP$ approach_NN provides_VBZ a_DT better_JJR separation_NN of_IN three_CD concerns_NNS found_VBN in_IN XML_NN applications_NNS :_: syntax_NN ,_, syntax_NN processing_NN logic_NN and_CC intended_JJ meaning_NN of_IN the_DT syntax_NN ._.
+It_PRP frees_VBZ the_DT developer_NN of_IN low-level_JJ syntactical_JJ details_NNS and_CC improves_VBZ the_DT adaptability_NN and_CC reusability_NN of_IN XML_NN applications_NNS ._.
+Declarative_JJ transformation_NN rules_NNS and_CC the_DT explicit_JJ application_NN model_NN provide_VBP a_DT finer_JJR control_NN over_IN the_DT application_NN parts_NNS affected_VBN by_IN adaptations_NNS ._.
+Transformation_NN rules_NNS and_CC the_DT application_NN model_NN for_IN an_DT XML_NN language_NN may_MD be_VB composed_VBN with_IN the_DT corresponding_JJ rules_NNS and_CC application_NN models_NNS defined_VBN for_IN other_JJ XML_NN languages_NNS ._.
+In_IN that_DT way_NN we_PRP achieve_VBP reuse_NN and_CC composition_NN of_IN XML_NN applications_NNS ._.

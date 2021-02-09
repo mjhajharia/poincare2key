@@ -1,0 +1,7 @@
+Visual_JJ diversification_NN of_IN image_NN search_NN results_NNS
+Due_JJ to_TO the_DT reliance_NN on_IN the_DT textual_JJ information_NN associated_VBN with_IN an_DT image_NN ,_, image_NN search_NN engines_NNS on_IN the_DT Web_NN lack_VBP the_DT discriminative_JJ power_NN to_TO deliver_VB visually_RB diverse_JJ search_NN results_NNS ._.
+The_DT textual_JJ descriptions_NNS are_VBP key_JJ to_TO retrieve_VB relevant_JJ results_NNS for_IN a_DT given_VBN user_NN query_NN ,_, but_CC at_IN the_DT same_JJ time_NN provide_VBP little_JJ information_NN about_IN the_DT rich_JJ image_NN content_NN ._.
+In_IN this_DT paper_NN we_PRP investigate_VBP three_CD methods_NNS for_IN visual_JJ diversification_NN of_IN image_NN search_NN results_NNS ._.
+The_DT methods_NNS deploy_VBP lightweight_JJ clustering_NN techniques_NNS in_IN combination_NN with_IN a_DT dynamic_JJ weighting_NN function_NN of_IN the_DT visual_JJ features_NNS ,_, to_TO best_RB capture_VB the_DT discriminative_JJ aspects_NNS of_IN the_DT resulting_VBG set_NN of_IN images_NNS that_WDT is_VBZ retrieved_VBN ._.
+A_DT representative_JJ image_NN is_VBZ selected_VBN from_IN each_DT cluster_NN ,_, which_WDT together_RB form_VBP a_DT diverse_JJ result_NN set_NN ._.
+Based_VBN on_IN a_DT performance_NN evaluation_NN we_PRP find_VBP that_IN the_DT outcome_NN of_IN the_DT methods_NNS closely_RB resembles_VBZ human_JJ perception_NN of_IN diversity_NN ,_, which_WDT was_VBD established_VBN in_IN an_DT extensive_JJ clustering_NN experiment_NN carried_VBD out_RP by_IN human_JJ assessors_NNS ._.

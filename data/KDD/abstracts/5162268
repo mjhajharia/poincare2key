@@ -1,0 +1,6 @@
+When_WRB do_VBP data_NNS mining_NN results_NNS violate_VBP privacy_NN ?_.
+Privacy-preserving_JJ data_NNS mining_NN has_VBZ concentrated_VBN on_IN obtaining_VBG valid_JJ results_NNS when_WRB the_DT input_NN data_NNS is_VBZ private_JJ ._.
+An_DT extreme_JJ example_NN is_VBZ Secure_NNP Multiparty_NNP Computation-based_JJ methods_NNS ,_, where_WRB only_RB the_DT results_NNS are_VBP revealed_VBN ._.
+However_RB ,_, this_DT still_RB leaves_VBZ a_DT potential_JJ privacy_NN breach_NN :_: Do_VBP the_DT results_NNS themselves_PRP violate_VBP privacy_NN ?_.
+This_DT paper_NN explores_VBZ this_DT issue_NN ,_, developing_VBG a_DT framework_NN under_IN which_WDT this_DT question_NN can_MD be_VB addressed_VBN ._.
+Metrics_NNS are_VBP proposed_VBN ,_, along_IN with_IN analysis_NN that_IN those_DT metrics_NNS are_VBP consistent_JJ in_IN the_DT face_NN of_IN apparent_JJ problems_NNS ._.

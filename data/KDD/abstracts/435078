@@ -1,0 +1,6 @@
+A_DT hybrid_JJ unsupervised_JJ approach_NN for_IN document_NN clustering_NN
+We_PRP propose_VBP a_DT hybrid_NN ,_, unsupervised_JJ document_NN clustering_NN approach_NN that_WDT combines_VBZ a_DT hierarchical_JJ clustering_NN algorithm_NN with_IN Expectation_NN Maximization_NN ._.
+We_PRP developed_VBD several_JJ heuristics_NNS to_TO automatically_RB select_VB a_DT subset_NN of_IN the_DT clusters_NNS generated_VBN by_IN the_DT first_JJ algorithm_NN as_IN the_DT initial_JJ points_NNS of_IN the_DT second_JJ one_CD ._.
+Furthermore_RB ,_, our_PRP$ initialization_NN algorithm_NN generates_VBZ not_RB only_RB an_DT initial_JJ model_NN for_IN the_DT iterative_JJ refinement_NN algorithm_NN but_CC also_RB an_DT estimate_NN of_IN the_DT model_NN dimension_NN ,_, thus_RB eliminating_VBG another_DT important_JJ element_NN of_IN human_JJ supervision_NN ._.
+We_PRP have_VBP evaluated_VBN the_DT proposed_VBN system_NN on_IN five_CD real-world_JJ document_NN collections_NNS ._.
+The_DT results_NNS show_VBP that_IN our_PRP$ approach_NN generates_VBZ clustering_NN solutions_NNS of_IN higher_JJR quality_NN than_IN both_DT its_PRP$ individual_JJ components_NNS ._.

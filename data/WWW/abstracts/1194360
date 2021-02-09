@@ -1,0 +1,8 @@
+Evaluating_VBG a_DT new_JJ approach_NN to_TO strong_JJ web_NN cache_NN consistency_NN with_IN snapshots_NNS of_IN collected_VBN content_NN
+The_DT problem_NN of_IN Web_NN cache_NN consistency_NN continues_VBZ to_TO be_VB an_DT important_JJ one_CD ._.
+Current_JJ Web_NN caches_NNS use_VBP heuristic-based_JJ policies_NNS for_IN determining_VBG the_DT freshness_NN of_IN cached_JJ objects_NNS ,_, often_RB forcing_VBG content_JJ providers_NNS to_TO unnecessarily_RB mark_VB their_PRP$ content_NN as_IN uncacheable_JJ simply_RB to_TO retain_VB control_NN over_IN it_PRP ._.
+Server-driven_JJ invalidation_NN has_VBZ been_VBN proposed_VBN as_IN a_DT mechanism_NN for_IN providing_VBG strong_JJ cache_NN consistency_NN for_IN Web_NN objects_NNS ,_, but_CC it_PRP requires_VBZ servers_NNS to_TO maintain_VB per-client_JJ state_NN even_RB for_IN infrequently_RB changing_VBG objects_NNS ._.
+We_PRP propose_VBP an_DT alternative_JJ approach_NN to_TO strong_JJ cache_NN consistency_NN ,_, called_VBN MONARCH_NN ,_, which_WDT does_VBZ not_RB require_VB servers_NNS to_TO maintain_VB per-client_JJ state_NN ._.
+In_IN this_DT work_NN we_PRP focus_VBP on_IN a_DT new_JJ approach_NN for_IN evaluation_NN of_IN MONARCH_NN in_IN comparison_NN with_IN current_JJ practice_NN and_CC other_JJ cache_NN consistency_NN policies_NNS ._.
+This_DT approach_NN uses_VBZ snapshots_NNS of_IN content_NN collected_VBN from_IN real_JJ Web_NN sites_NNS as_IN input_NN to_TO a_DT simulator_NN ._.
+Results_NNS of_IN the_DT evaluation_NN show_NN MONARCH_NN generates_VBZ little_RB more_JJR request_NN traffic_NN than_IN an_DT optimal_JJ cache_NN coherency_NN policy_NN ._.

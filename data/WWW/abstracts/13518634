@@ -1,0 +1,12 @@
+A_DT game_NN based_VBN approach_NN to_TO assign_VB geographical_JJ relevance_NN to_TO web_NN images_NNS
+Geographical_JJ context_NN is_VBZ very_RB important_JJ for_IN images_NNS ._.
+Millions_NNS of_IN images_NNS on_IN the_DT Web_NN have_VBP been_VBN already_RB assigned_VBN latitude_NN and_CC longitude_NN information_NN ._.
+Due_JJ to_TO the_DT rapid_JJ proliferation_NN of_IN such_JJ images_NNS with_IN geographical_JJ context_NN ,_, it_PRP is_VBZ still_RB difficult_JJ to_TO effectively_RB search_VB and_CC browse_VB them_PRP ,_, since_IN we_PRP do_VBP not_RB have_VB ways_NNS to_TO decide_VB their_PRP$ relevance_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN the_DT geographical_JJ relevance_NN of_IN images_NNS ,_, which_WDT is_VBZ defined_VBN as_IN to_TO what_WDT extent_NN the_DT main_JJ objects_NNS in_IN an_DT image_NN match_NN landmarks_NNS at_IN the_DT location_NN where_WRB the_DT image_NN was_VBD taken_VBN ._.
+Recently_RB ,_, researchers_NNS have_VBP proposed_VBN to_TO use_VB game_NN based_JJ approaches_NNS to_TO label_VB large_JJ scale_NN data_NNS such_JJ as_IN Web_NN images_NNS ._.
+However_RB ,_, previous_JJ works_NNS have_VBP not_RB shown_VBN the_DT quality_NN of_IN collected_VBN game_NN logs_NNS in_IN detail_NN and_CC how_WRB the_DT logs_NNS can_MD improve_VB existing_VBG applications_NNS ._.
+To_TO answer_VB these_DT questions_NNS ,_, we_PRP design_VBP and_CC implement_VBP a_DT Web-based_JJ and_CC multi-player_JJ game_NN to_TO collect_VB human_JJ knowledge_NN while_IN people_NNS are_VBP enjoying_VBG the_DT game_NN ._.
+Then_RB we_PRP thoroughly_RB analyze_VBP the_DT game_NN logs_NNS obtained_VBN during_IN a_DT three_CD week_NN study_NN with_IN 147_CD participants_NNS and_CC propose_VBP methods_NNS to_TO determine_VB the_DT image_NN geographical_JJ relevance_NN ._.
+In_IN addition_NN ,_, we_PRP conduct_VBP an_DT experiment_NN to_TO compare_VB our_PRP$ methods_NNS with_IN a_DT commercial_JJ search_NN engine_NN ._.
+Experimental_JJ results_NNS show_VBP that_IN our_PRP$ methods_NNS dramatically_RB improve_VBP image_NN search_NN relevance_NN ._.
+Furthermore_RB ,_, we_PRP show_VBP that_IN we_PRP can_MD derive_VB geographically_RB relevant_JJ objects_NNS and_CC their_PRP$ salient_JJ portion_NN in_IN images_NNS ,_, which_WDT is_VBZ valuable_JJ for_IN a_DT number_NN of_IN applications_NNS such_JJ as_IN image_NN location_NN recognition_NN ._.

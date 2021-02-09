@@ -1,0 +1,4 @@
+Building_VBG an_DT open_JJ source_NN meta-search_JJ engine_NN
+In_IN this_DT short_JJ paper_NN we_PRP introduce_VBP Helios_NNP ,_, a_DT flexible_JJ and_CC efficient_JJ open_JJ source_NN meta-search_JJ engine_NN ._.
+Helios_NNP currently_RB runs_VBZ on_IN the_DT top_NN of_IN 18_CD search_NN engines_NNS -LRB-_-LRB- in_IN Web_NN ,_, Books_NNS ,_, News_NNP ,_, and_CC Academic_NNP publication_NN domains_NNS -RRB-_-RRB- ,_, but_CC additional_JJ search_NN engines_NNS can_MD be_VB easily_RB plugged_VBN in_IN ._.
+We_PRP also_RB report_VBP some_DT performance_NN mesured_VBN during_IN its_PRP$ development_NN ._.

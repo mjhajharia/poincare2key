@@ -1,0 +1,10 @@
+Sequential_JJ cost-sensitive_JJ decision_NN making_VBG with_IN reinforcement_NN learning_VBG
+Recently_RB ,_, there_EX has_VBZ been_VBN increasing_VBG interest_NN in_IN the_DT issues_NNS of_IN cost-sensitive_JJ learning_NN and_CC decision_NN making_NN in_IN a_DT variety_NN of_IN applications_NNS of_IN data_NN mining_NN ._.
+A_DT number_NN of_IN approaches_NNS have_VBP been_VBN developed_VBN that_WDT are_VBP effective_JJ at_IN optimizing_VBG cost-sensitive_JJ decisions_NNS when_WRB each_DT decision_NN is_VBZ considered_VBN in_IN isolation_NN ._.
+However_RB ,_, the_DT issue_NN of_IN sequential_JJ decision_NN making_NN ,_, with_IN the_DT goal_NN of_IN maximizing_VBG total_JJ benefits_NNS accrued_VBN over_IN a_DT period_NN of_IN time_NN instead_RB of_IN immediate_JJ benefits_NNS ,_, has_VBZ rarely_RB been_VBN addressed_VBN ._.
+In_IN the_DT present_JJ paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ approach_NN to_TO sequential_JJ decision_NN making_NN based_VBN on_IN the_DT reinforcement_NN learning_NN framework_NN ._.
+Our_PRP$ approach_NN attempts_VBZ to_TO learn_VB decision_NN rules_NNS that_WDT optimize_VBP a_DT sequence_NN of_IN cost-sensitive_JJ decisions_NNS so_RB as_IN to_TO maximize_VB the_DT total_JJ benefits_NNS accrued_VBN over_IN time_NN ._.
+We_PRP use_VBP the_DT domain_NN of_IN targeted_VBN '_POS marketing_NN as_IN a_DT testbed_NN for_IN empirical_JJ evaluation_NN of_IN the_DT proposed_VBN method_NN ._.
+We_PRP conducted_VBD experiments_NNS using_VBG approximately_RB two_CD years_NNS of_IN monthly_JJ promotion_NN data_NNS derived_VBN from_IN the_DT well-known_JJ KDD_NNP Cup_NNP 1998_CD donation_NN data_NNS set_VBN ._.
+The_DT experimental_JJ results_NNS show_VBP that_IN the_DT proposed_VBN method_NN for_IN optimizing_VBG total_JJ accrued_JJ benefits_NNS out_RP performs_VBZ the_DT usual_JJ targeted-marketing_JJ methodology_NN of_IN optimizing_VBG each_DT promotion_NN in_IN isolation_NN ._.
+We_PRP also_RB analyze_VBP the_DT behavior_NN of_IN the_DT targeting_VBG rules_NNS that_WDT were_VBD obtained_VBN and_CC discuss_VBP their_PRP$ appropriateness_NN to_TO the_DT application_NN domain_NN ._.

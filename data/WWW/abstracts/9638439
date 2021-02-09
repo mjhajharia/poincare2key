@@ -1,0 +1,5 @@
+Towards_IN intent-driven_JJ bidterm_NN suggestion_NN
+In_IN online_NN advertising_NN ,_, pervasive_JJ in_IN commercial_JJ search_NN engines_NNS ,_, advertisers_NNS typically_RB bid_VBP on_IN few_JJ terms_NNS ,_, and_CC the_DT scarcity_NN of_IN data_NNS makes_VBZ ad_NN matching_NN difficult_JJ ._.
+Suggesting_VBG additional_JJ bidterms_NNS can_MD significantly_RB improve_VB ad_NN clickability_NN and_CC conversion_NN rates_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT large-scale_JJ bidterm_NN suggestion_NN system_NN that_IN models_NNS an_DT advertiser_NN 's_POS intent_NN and_CC finds_VBZ new_JJ bidterms_NNS consistent_JJ with_IN that_DT intent_NN ._.
+Preliminary_JJ experiments_NNS show_VBP that_IN our_PRP$ system_NN significantly_RB increases_VBZ the_DT coverage_NN of_IN a_DT state_NN of_IN the_DT art_NN production_NN system_NN used_VBN at_IN Yahoo_NNP while_IN maintaining_VBG comparable_JJ precision_NN ._.

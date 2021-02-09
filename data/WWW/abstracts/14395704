@@ -1,0 +1,8 @@
+A_DT dual-mode_JJ user_NN interface_NN for_IN accessing_VBG 3D_NN content_NN on_IN the_DT world_NN wide_JJ web_NN
+The_DT Web_NN evolved_VBD from_IN a_DT text-based_JJ system_NN to_TO the_DT current_JJ rich_JJ and_CC interactive_JJ medium_NN that_WDT supports_VBZ images_NNS ,_, 2D_NN graphics_NNS ,_, audio_NN and_CC video_NN ._.
+The_DT major_JJ media_NNS type_NN that_WDT is_VBZ still_RB missing_VBG is_VBZ 3D_NN graphics_NNS ._.
+Although_IN various_JJ approaches_NNS have_VBP been_VBN proposed_VBN -LRB-_-LRB- most_RBS notably_RB VRML\/X3D_NN -RRB-_-RRB- ,_, they_PRP have_VBP not_RB been_VBN widely_RB adopted_VBN ._.
+One_CD reason_NN for_IN the_DT limited_JJ acceptance_NN is_VBZ the_DT lack_NN of_IN 3D_NN interaction_NN techniques_NNS that_WDT are_VBP optimal_JJ for_IN the_DT hypertext-based_JJ Web_NN interface_NN ._.
+We_PRP present_VBP a_DT novel_JJ strategy_NN for_IN accessing_VBG integrated_VBN information_NN spaces_NNS ,_, where_WRB hypertext_NN and_CC 3D_NN graphics_NNS data_NNS are_VBP simultaneously_RB available_JJ and_CC linked_JJ ._.
+We_PRP introduce_VBP a_DT user_NN interface_NN that_WDT has_VBZ two_CD modes_NNS between_IN which_WDT a_DT user_NN can_MD switch_VB anytime_RB :_: the_DT driven_VBN by_IN simple_JJ hypertext-based_JJ interactions_NNS ``_`` do_VBP n't_RB -_: make-me-think_JJ ''_'' mode_NN ,_, where_WRB a_DT 3D_NN scene_NN is_VBZ embedded_VBN in_IN hypertext_NN and_CC the_DT more_RBR immersive_JJ 3D_NN ``_`` take-me-to-the-Wonderland_JJ ''_'' mode_NN ,_, which_WDT immerses_VBZ the_DT hypertextual_JJ annotations_NNS into_IN the_DT 3D_NN scene_NN ._.
+A_DT user_NN study_NN is_VBZ presented_VBN ,_, which_WDT characterizes_VBZ the_DT user_NN interface_NN in_IN terms_NNS of_IN its_PRP$ efficiency_NN and_CC usability_NN ._.

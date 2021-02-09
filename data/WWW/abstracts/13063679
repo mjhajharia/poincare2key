@@ -1,0 +1,9 @@
+Einstein_NNP :_: physicist_NN or_CC vegetarian_NN ?_.
+summarizing_VBG semantic_JJ type_NN graphs_NNS for_IN knowledge_NN discovery_NN
+The_DT Web_NN and_CC ,_, in_IN particular_JJ ,_, knowledge-sharing_JJ communities_NNS such_JJ as_IN Wikipedia_NNP contain_VBP a_DT huge_JJ amount_NN of_IN information_NN encompassing_VBG disparate_JJ and_CC diverse_JJ fields_NNS ._.
+Knowledge_NN bases_NNS such_JJ as_IN DBpedia_NN or_CC Yago_NNP represent_VBP the_DT data_NNS in_IN a_DT concise_JJ and_CC more_RBR structured_JJ way_NN bearing_VBG the_DT potential_NN of_IN bringing_VBG database_NN tools_NNS to_TO Web_NN Search_VB ._.
+The_DT wealth_NN of_IN data_NNS ,_, however_RB ,_, poses_VBZ the_DT challenge_NN of_IN how_WRB to_TO retrieve_VB important_JJ and_CC valuable_JJ information_NN ,_, which_WDT is_VBZ often_RB intertwined_VBN with_IN trivial_JJ and_CC less_RBR important_JJ details_NNS ._.
+This_DT calls_VBZ for_IN an_DT efficient_JJ and_CC automatic_JJ summarization_NN method_NN ._.
+In_IN this_DT demonstration_NN proposal_NN ,_, we_PRP consider_VBP the_DT novel_JJ problem_NN of_IN summarizing_VBG the_DT information_NN related_VBN to_TO a_DT given_VBN entity_NN ,_, like_IN a_DT person_NN or_CC an_DT organization_NN ._.
+To_TO this_DT end_NN ,_, we_PRP utilize_VBP the_DT rich_JJ type_NN graph_NN that_IN knowledge_NN bases_NNS provide_VBP for_IN each_DT entity_NN ,_, and_CC define_VB the_DT problem_NN of_IN selecting_VBG the_DT best_JJS cost-restricted_JJ subset_NN of_IN types_NNS as_IN summary_NN with_IN good_JJ coverage_NN of_IN salient_JJ properties_NNS ._.
+We_PRP propose_VBP a_DT demonstration_NN of_IN our_PRP$ system_NN which_WDT allows_VBZ the_DT user_NN to_TO specify_VB the_DT entity_NN to_TO summarize_VB ,_, an_DT upper_JJ bound_VBN on_IN the_DT cost_NN of_IN the_DT resulting_VBG summary_NN ,_, as_RB well_RB as_IN to_TO browse_VB the_DT knowledge_NN base_NN in_IN a_DT more_RBR simple_JJ and_CC intuitive_JJ manner_NN ._.

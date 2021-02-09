@@ -1,0 +1,6 @@
+Searching_NN the_DT workplace_NN web_NN
+The_DT social_JJ impact_NN from_IN the_DT World_NNP Wide_NN Web_NN can_MD not_RB be_VB underestimated_VBN ,_, but_CC technologies_NNS used_VBN to_TO build_VB the_DT Web_NN are_VBP also_RB revolutionizing_VBG the_DT sharing_NN of_IN business_NN and_CC government_NN information_NN within_IN intranets_NNS ._.
+In_IN many_JJ ways_NNS the_DT lessons_NNS learned_VBD from_IN the_DT Internet_NNP carry_VB over_RP directly_RB to_TO intranets_NNS ,_, but_CC others_NNS do_VBP not_RB apply_VB ._.
+In_IN particular_JJ ,_, the_DT social_JJ forces_NNS that_WDT guide_VBP the_DT development_NN of_IN intranets_NNS are_VBP quite_RB different_JJ ,_, and_CC the_DT determination_NN of_IN a_DT ``_`` good_JJ answer_NN ''_'' for_IN intranet_NN search_NN is_VBZ quite_RB different_JJ than_IN on_IN the_DT Internet_NN ._.
+In_IN this_DT paper_NN we_PRP study_VBD the_DT problem_NN of_IN intranet_NN search_NN ._.
+Our_PRP$ approach_NN focuses_VBZ on_IN the_DT use_NN of_IN rank_NN aggregation_NN ,_, and_CC allows_VBZ us_PRP to_TO examine_VB the_DT effects_NNS of_IN different_JJ heuristics_NNS on_IN ranking_NN of_IN search_NN results_NNS ._.

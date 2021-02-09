@@ -1,0 +1,6 @@
+Experiments_NNS with_IN random_JJ projections_NNS for_IN machine_NN learning_NN
+Dimensionality_NN reduction_NN via_IN Random_NNP Projections_NNPS has_VBZ attracted_VBN considerable_JJ attention_NN in_IN recent_JJ years_NNS ._.
+The_DT approach_NN has_VBZ interesting_JJ theoretical_JJ underpinnings_NNS and_CC offers_VBZ computational_JJ advantages_NNS ._.
+In_IN this_DT paper_NN we_PRP report_VBP a_DT number_NN of_IN experiments_NNS to_TO evaluate_VB Random_NNP Projections_NNPS in_IN the_DT context_NN of_IN inductive_JJ supervised_JJ learning_NN ._.
+In_IN particular_JJ ,_, we_PRP compare_VBP Random_NNP Projections_NNPS and_CC PCA_NNP on_IN a_DT number_NN of_IN different_JJ datasets_NNS and_CC using_VBG different_JJ machine_NN learning_NN methods_NNS ._.
+While_IN we_PRP find_VBP that_IN the_DT random_JJ projection_NN approach_NN predictively_RB underperforms_VBZ PCA_NNP ,_, its_PRP$ computational_JJ advantages_NNS may_MD make_VB it_PRP attractive_JJ for_IN certain_JJ applications_NNS ._.

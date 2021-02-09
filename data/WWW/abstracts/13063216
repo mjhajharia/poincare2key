@@ -1,0 +1,7 @@
+A_DT study_NN on_IN the_DT impact_NN of_IN product_NN images_NNS on_IN user_NN clicks_NNS for_IN online_JJ shopping_NN
+In_IN this_DT paper_NN we_PRP study_VBD the_DT importance_NN of_IN image_NN based_VBN features_NNS on_IN the_DT click-through_JJ rate_NN -LRB-_-LRB- CTR_NN -RRB-_-RRB- in_IN the_DT context_NN of_IN a_DT large_JJ scale_NN product_NN search_NN engine_NN ._.
+Typically_RB product_NN search_NN engines_NNS use_VBP text_NN based_JJ features_NNS in_IN their_PRP$ ranking_JJ function_NN ._.
+We_PRP present_VBP a_DT novel_JJ idea_NN of_IN using_VBG image_NN based_JJ features_NNS ,_, common_JJ in_IN the_DT photography_NN literature_NN ,_, in_IN addition_NN to_TO text_NN based_JJ features_NNS ._.
+We_PRP used_VBD a_DT stochastic_JJ gradient_NN boosting_VBG based_VBN regression_NN model_NN to_TO learn_VB relationships_NNS between_IN features_NNS and_CC CTR_NN ._.
+Our_PRP$ results_NNS indicate_VBP statistically_RB significant_JJ correlations_NNS between_IN the_DT image_NN features_NNS and_CC CTR_NN ._.
+We_PRP also_RB see_VBP improvements_NNS to_TO NDCG_NNP and_CC mean_VB standard_JJ regression_NN ._.

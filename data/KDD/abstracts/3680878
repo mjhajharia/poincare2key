@@ -1,0 +1,10 @@
+Selection_NN ,_, combination_NN ,_, and_CC evaluation_NN of_IN effective_JJ software_NN sensors_NNS for_IN detecting_VBG abnormal_JJ computer_NN usage_NN
+We_PRP present_VBP and_CC empirically_RB analyze_VB a_DT machine-learning_JJ approach_NN for_IN detecting_VBG intrusions_NNS on_IN individual_JJ computers_NNS ._.
+Our_PRP$ Winnow-based_JJ algorithm_NN continually_RB monitors_VBZ user_NN and_CC system_NN behavior_NN ,_, recording_VBG such_JJ properties_NNS as_IN the_DT number_NN of_IN bytes_NNS transferred_VBN over_IN the_DT last_JJ 10_CD seconds_NNS ,_, the_DT programs_NNS that_WDT currently_RB are_VBP running_VBG ,_, and_CC the_DT load_NN on_IN the_DT CPU_NNP ._.
+In_IN all_DT ,_, hundreds_NNS of_IN measurements_NNS are_VBP made_VBN and_CC analyzed_VBN each_DT second_NN ._.
+Using_VBG this_DT data_NN ,_, our_PRP$ algorithm_NN creates_VBZ a_DT model_NN that_WDT represents_VBZ each_DT particular_JJ computer_NN 's_POS range_NN of_IN normal_JJ behavior_NN ._.
+Parameters_NNS that_WDT determine_VBP when_WRB an_DT alarm_NN should_MD be_VB raised_VBN ,_, due_JJ to_TO abnormal_JJ activity_NN ,_, are_VBP set_VBN on_IN a_DT per-computer_JJ basis_NN ,_, based_VBN on_IN an_DT analysis_NN of_IN training_NN data_NNS ._.
+A_DT major_JJ issue_NN in_IN intrusion-detection_JJ systems_NNS is_VBZ the_DT need_NN for_IN very_RB low_JJ false-alarm_JJ rates_NNS ._.
+Our_PRP$ empirical_JJ results_NNS suggest_VBP that_IN it_PRP is_VBZ possible_JJ to_TO obtain_VB high_JJ intrusion-detection_JJ rates_NNS -LRB-_-LRB- 95_CD %_NN -RRB-_-RRB- and_CC low_JJ false-alarm_JJ rates_NNS -LRB-_-LRB- less_JJR than_IN one_CD per_IN day_NN per_IN computer_NN -RRB-_-RRB- ,_, without_IN ``_`` stealing_VBG ''_'' too_RB many_JJ CPU_NNP cycles_NNS -LRB-_-LRB- less_JJR than_IN 1_CD %_NN -RRB-_-RRB- ._.
+We_PRP also_RB report_VBP which_WDT system_NN measurements_NNS are_VBP the_DT most_RBS valuable_JJ in_IN terms_NNS of_IN detecting_VBG intrusions_NNS ._.
+A_DT surprisingly_RB large_JJ number_NN of_IN different_JJ measurements_NNS prove_VBP significantly_RB useful_JJ ._.

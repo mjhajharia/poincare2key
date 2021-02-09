@@ -1,0 +1,7 @@
+Building_NNP connected_VBD neighborhood_NN graphs_NNS for_IN isometric_JJ data_NNS embedding_VBG
+Neighborhood_NN graph_NN construction_NN is_VBZ usually_RB the_DT first_JJ step_NN in_IN algorithms_NNS for_IN isometric_JJ data_NNS embedding_NN and_CC manifold_NN learning_NN that_WDT cope_VBP with_IN the_DT problem_NN of_IN projecting_VBG high_JJ dimensional_JJ data_NNS to_TO a_DT low_JJ space_NN ._.
+This_DT paper_NN begins_VBZ by_IN explaining_VBG the_DT algorithmic_JJ fundamentals_NNS of_IN techniques_NNS for_IN isometric_JJ data_NNS embedding_VBG and_CC derives_VBZ a_DT general_JJ classification_NN of_IN these_DT techniques_NNS ._.
+We_PRP will_MD see_VB that_IN the_DT nearest_JJS neighbor_NN approaches_NNS commonly_RB used_VBN to_TO construct_VB neighborhood_NN graphs_NNS do_VBP not_RB guarantee_VB connectedness_NN of_IN the_DT constructed_VBN neighborhood_NN graphs_NNS and_CC ,_, consequently_RB ,_, may_MD cause_VB an_DT algorithm_NN fail_VBP to_TO project_VB data_NNS to_TO a_DT single_JJ low_JJ dimensional_JJ coordinate_JJ system_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP review_VBP three_CD existing_VBG methods_NNS to_TO construct_VB k-edge-connected_JJ neighborhood_NN graphs_NNS and_CC propose_VBP a_DT new_JJ method_NN to_TO construct_VB k-connected_JJ neighborhood_NN graphs_NNS ._.
+These_DT methods_NNS are_VBP applicable_JJ to_TO a_DT wide_JJ range_NN of_IN data_NNS including_VBG data_NNS distributed_VBN among_IN clusters_NNS ._.
+Their_PRP$ features_NNS are_VBP discussed_VBN and_CC compared_VBN through_IN experiments_NNS ._.

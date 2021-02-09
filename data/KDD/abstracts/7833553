@@ -1,0 +1,8 @@
+Fast_JJ direction-aware_JJ proximity_NN for_IN graph_NN mining_NN
+In_IN this_DT paper_NN we_PRP study_VBD asymmetric_JJ proximity_NN measures_NNS on_IN directed_JJ graphs_NNS ,_, which_WDT quantify_VBP the_DT relationships_NNS between_IN two_CD nodes_NNS or_CC two_CD groups_NNS of_IN nodes_NNS ._.
+The_DT measures_NNS are_VBP useful_JJ in_IN several_JJ graph_NN mining_NN tasks_NNS ,_, including_VBG clustering_NN ,_, link_NN prediction_NN and_CC connection_NN subgraph_NN discovery_NN ._.
+Our_PRP$ proximity_NN measure_NN is_VBZ based_VBN on_IN the_DT conceptof_NN escape_NN probability_NN ._.
+This_DT way_NN ,_, we_PRP strive_VBP to_TO summarize_VB the_DT multiple_JJ facets_NNS of_IN nodes-proximity_NN ,_, while_IN avoiding_VBG some_DT of_IN the_DT pitfalls_NNS to_TO which_WDT alternative_JJ proximity_NN measures_NNS are_VBP susceptible_JJ ._.
+A_DT unique_JJ feature_NN of_IN the_DT measures_NNS is_VBZ accounting_VBG for_IN the_DT underlying_VBG directional_JJ information_NN ._.
+We_PRP put_VBD a_DT special_JJ emphasis_NN on_IN computational_JJ efficiency_NN ,_, and_CC develop_VB fast_JJ solutions_NNS that_WDT are_VBP applicable_JJ in_IN several_JJ settings_NNS ._.
+Our_PRP$ experimental_JJ study_NN shows_VBZ the_DT usefulness_NN of_IN our_PRP$ proposed_VBN direction-aware_NN proximity_NN method_NN for_IN several_JJ applications_NNS ,_, and_CC that_IN our_PRP$ algorithms_NNS achieve_VBP a_DT significant_JJ speedup_NN -LRB-_-LRB- up_RB to_TO 50,000_CD x_NN -RRB-_-RRB- over_IN straight_JJ forward_JJ implementations_NNS ._.

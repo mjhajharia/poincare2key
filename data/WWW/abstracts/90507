@@ -1,0 +1,6 @@
+Hybrid_NN multicasting_VBG in_IN large-scale_JJ service_NN networks_NNS
+The_DT importance_NN of_IN service_NN composition_NN has_VBZ been_VBN widely_RB recognized_VBN in_IN the_DT Internet_NN research_NN community_NN due_JJ to_TO its_PRP$ high_JJ flexibility_NN in_IN allowing_VBG development_NN of_IN customized_VBN applications_NNS ._.
+So_RB far_RB little_JJ attention_NN has_VBZ been_VBN paid_VBN to_TO composite_JJ services_NNS '_POS runtime_JJ performance-related_JJ aspects_NNS ,_, which_WDT are_VBP of_IN great_JJ importance_NN to_TO wide-area_JJ applications_NNS ._.
+Service_NN composition_NN in_IN the_DT wide_JJ area_NN actually_RB creates_VBZ a_DT new_JJ type_NN of_IN routing_VBG problem_NN which_WDT we_PRP call_VBP QoS_NN service_NN routing_VBG ._.
+We_PRP study_VBP this_DT problem_NN in_IN large_JJ networks_NNS -LRB-_-LRB- e.g._FW ,_, the_DT Web_NN -RRB-_-RRB- and_CC provide_VB distributed_VBN and_CC scalable_JJ routing_VBG solutions_NNS with_IN various_JJ optimization_NN goals_NNS ._.
+Most_RBS importantly_RB ,_, we_PRP propose_VBP ways_NNS to_TO reduce_VB redundancies_NNS of_IN data_NNS delivery_NN and_CC service_NN execution_NN through_IN explorations_NNS of_IN different_JJ types_NNS of_IN multicast_NN -LRB-_-LRB- service_NN multicast_NNS and_CC data_NNS multicast_NNS -RRB-_-RRB- in_IN one-to-many_JJ application_NN scenarios_NNS ._.

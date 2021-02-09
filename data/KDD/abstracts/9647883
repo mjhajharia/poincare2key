@@ -1,0 +1,8 @@
+Query_JJ result_NN clustering_NN for_IN object-level_JJ search_NN
+Query_JJ result_NN clustering_NN has_VBZ recently_RB attracted_VBN a_DT lot_NN of_IN attention_NN to_TO provide_VB users_NNS with_IN a_DT succinct_JJ overview_NN of_IN relevant_JJ results_NNS ._.
+However_RB ,_, little_JJ work_NN has_VBZ been_VBN done_VBN on_IN organizing_VBG the_DT query_NN results_VBZ for_IN object-level_JJ search_NN ._.
+Object-level_JJ search_NN result_NN clustering_NN is_VBZ challenging_JJ because_IN we_PRP need_VBP to_TO support_VB diverse_JJ similarity_NN notions_NNS over_IN object-specific_JJ features_NNS -LRB-_-LRB- such_JJ as_IN the_DT price_NN and_CC weight_NN of_IN a_DT product_NN -RRB-_-RRB- of_IN heterogeneous_JJ domains_NNS ._.
+To_TO address_VB this_DT challenge_NN ,_, we_PRP propose_VBP a_DT hybrid_NN subspace_NN clustering_NN algorithm_NN called_VBN Hydra_NNP ._.
+Algorithm_NNP Hydra_NNP captures_VBZ the_DT user_NN perception_NN of_IN diverse_JJ similarity_NN notions_NNS from_IN millions_NNS of_IN Web_NN pages_NNS and_CC disambiguates_VBZ different_JJ senses_NNS using_VBG feature-based_JJ subspace_NN locality_NN measures_NNS ._.
+Our_PRP$ proposed_VBN solution_NN ,_, by_IN combining_VBG wisdom_NN of_IN crowds_NNS and_CC wisdom_NN of_IN data_NNS ,_, achieves_VBZ robustness_NN and_CC efficiency_NN over_IN existing_VBG approaches_NNS ._.
+We_PRP extensively_RB evaluate_VBP our_PRP$ proposed_VBN framework_NN and_CC demonstrate_VB how_WRB to_TO enrich_VB user_NN experiences_NNS in_IN object-level_JJ search_NN using_VBG a_DT real-world_JJ product_NN search_NN scenarios_NNS ._.

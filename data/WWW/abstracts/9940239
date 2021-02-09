@@ -1,0 +1,12 @@
+A_DT contextual-bandit_JJ approach_NN to_TO personalized_JJ news_NN article_NN recommendation_NN
+Personalized_VBN web_NN services_NNS strive_VBP to_TO adapt_VB their_PRP$ services_NNS -LRB-_-LRB- advertisements_NNS ,_, news_NN articles_NNS ,_, etc._NN -RRB-_-RRB- to_TO individual_JJ users_NNS by_IN making_VBG use_NN of_IN both_CC content_NN and_CC user_NN information_NN ._.
+Despite_IN a_DT few_JJ recent_JJ advances_NNS ,_, this_DT problem_NN remains_VBZ challenging_JJ for_IN at_IN least_JJS two_CD reasons_NNS ._.
+First_RB ,_, web_NN service_NN is_VBZ featured_VBN with_IN dynamically_RB changing_VBG pools_NNS of_IN content_NN ,_, rendering_VBG traditional_JJ collaborative_JJ filtering_VBG methods_NNS inapplicable_JJ ._.
+Second_RB ,_, the_DT scale_NN of_IN most_JJS web_NN services_NNS of_IN practical_JJ interest_NN calls_VBZ for_IN solutions_NNS that_WDT are_VBP both_DT fast_JJ in_IN learning_NN and_CC computation_NN ._.
+In_IN this_DT work_NN ,_, we_PRP model_VBP personalized_JJ recommendation_NN of_IN news_NN articles_NNS as_IN a_DT contextual_JJ bandit_NN problem_NN ,_, a_DT principled_JJ approach_NN in_IN which_WDT a_DT learning_NN algorithm_NN sequentially_RB selects_VBZ articles_NNS to_TO serve_VB users_NNS based_VBN on_IN contextual_JJ information_NN about_IN the_DT users_NNS and_CC articles_NNS ,_, while_IN simultaneously_RB adapting_VBG its_PRP$ article-selection_JJ strategy_NN based_VBN on_IN user-click_JJ feedback_NN to_TO maximize_VB total_JJ user_NN clicks_NNS ._.
+The_DT contributions_NNS of_IN this_DT work_NN are_VBP three-fold_JJ ._.
+First_RB ,_, we_PRP propose_VBP a_DT new_JJ ,_, general_JJ contextual_JJ bandit_NN algorithm_NN that_WDT is_VBZ computationally_RB efficient_JJ and_CC well_RB motivated_VBN from_IN learning_VBG theory_NN ._.
+Second_RB ,_, we_PRP argue_VBP that_IN any_DT bandit_NN algorithm_NN can_MD be_VB reliably_RB evaluated_VBN offline_NN using_VBG previously_RB recorded_VBN random_JJ traffic_NN ._.
+Finally_RB ,_, using_VBG this_DT offline_JJ evaluation_NN method_NN ,_, we_PRP successfully_RB applied_VBD our_PRP$ new_JJ algorithm_NN to_TO a_DT Yahoo_NNP !_.
+Front_NN Page_NNP Today_NNP Module_NNP dataset_NN containing_VBG over_IN 33_CD million_CD events_NNS ._.
+Results_NNS showed_VBD a_DT 12.5_CD %_NN click_VBP lift_NN compared_VBN to_TO a_DT standard_JJ context-free_JJ bandit_NN algorithm_NN ,_, and_CC the_DT advantage_NN becomes_VBZ even_RB greater_JJR when_WRB data_NNS gets_VBZ more_RBR scarce_JJ ._.

@@ -1,0 +1,11 @@
+News_NN article_NN extraction_NN with_IN template-independent_JJ wrapper_NN
+We_PRP consider_VBP the_DT problem_NN of_IN template-independent_JJ news_NN extraction_NN ._.
+The_DT state-of-the-art_JJ news_NN extraction_NN method_NN is_VBZ based_VBN on_IN template-level_JJ wrapper_NN induction_NN ,_, which_WDT has_VBZ two_CD serious_JJ limitations_NNS ._.
+1_LS -RRB-_-RRB- It_PRP can_MD not_RB correctly_RB extract_VB pages_NNS belonging_VBG to_TO an_DT unseen_JJ template_NN until_IN the_DT wrapper_NN for_IN that_DT template_NN has_VBZ been_VBN generated_VBN ._.
+2_LS -RRB-_-RRB- It_PRP is_VBZ costly_JJ to_TO maintain_VB up-to-date_JJ wrappers_NNS for_IN hundreds_NNS of_IN websites_NNS ,_, because_IN any_DT change_NN of_IN a_DT template_NN may_MD lead_VB to_TO the_DT invalidation_NN of_IN the_DT corresponding_JJ wrapper_NN ._.
+In_IN this_DT paper_NN we_PRP formalize_VBP news_NN extraction_NN as_IN a_DT machine_NN learning_NN problem_NN and_CC learn_VB a_DT template-independent_JJ wrapper_NN using_VBG a_DT very_RB small_JJ number_NN of_IN labeled_JJ news_NN pages_NNS from_IN a_DT single_JJ site_NN ._.
+Novel_JJ features_NNS dedicated_VBN to_TO news_NN titles_NNS and_CC bodies_NNS are_VBP developed_VBN respectively_RB ._.
+Correlations_NNS between_IN the_DT news_NN title_NN and_CC the_DT news_NN body_NN are_VBP exploited_VBN ._.
+Our_PRP$ template-independent_JJ wrapper_NN can_MD extract_VB news_NN pages_NNS from_IN different_JJ sites_NNS regardless_RB of_IN templates_NNS ._.
+In_IN experiments_NNS ,_, a_DT wrapper_NN is_VBZ learned_VBN from_IN 40_CD pages_NNS from_IN a_DT single_JJ news_NN site_NN ._.
+It_PRP achieved_VBD 98.1_CD %_NN accuracy_NN over_IN 3,973_CD news_NN pages_NNS from_IN 12_CD news_NN sites_NNS ._.

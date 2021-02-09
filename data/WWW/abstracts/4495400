@@ -1,0 +1,7 @@
+Effective_JJ web-scale_JJ crawling_NN through_IN website_NN analysis_NN
+The_DT web_NN crawler_NN space_NN is_VBZ often_RB delimited_VBN into_IN two_CD general_JJ areas_NNS :_: full-web_JJ crawling_NN and_CC focused_JJ crawling_NN ._.
+We_PRP present_VBP netSifter_NN ,_, a_DT crawler_NN system_NN which_WDT integrates_VBZ features_NNS from_IN these_DT two_CD areas_NNS to_TO provide_VB an_DT effective_JJ mechanism_NN for_IN web-scale_JJ crawling_NN ._.
+netSifter_NN utilizes_VBZ a_DT combination_NN of_IN page-level_JJ analytics_NNS and_CC heuristics_NNS which_WDT are_VBP applied_VBN to_TO a_DT sample_NN of_IN web_NN pages_NNS from_IN a_DT given_VBN website_NN ._.
+These_DT algorithms_NNS score_VBP individual_JJ web_NN pages_NNS to_TO determine_VB the_DT general_JJ utility_NN of_IN the_DT overall_JJ website_NN ._.
+In_IN doing_VBG so_RB ,_, netSifter_NN can_MD formulate_VB an_DT in-depth_JJ opinion_NN of_IN a_DT website_NN -LRB-_-LRB- and_CC the_DT entirety_NN of_IN its_PRP$ web_NN pages_NNS -RRB-_-RRB- with_IN a_DT relative_JJ minimum_NN of_IN work_NN ._.
+netSifter_NN is_VBZ then_RB able_JJ to_TO bias_NN the_DT future_JJ efforts_NNS of_IN its_PRP$ crawl_NN towards_IN higher_JJR quality_NN websites_NNS ,_, and_CC away_RB from_IN the_DT myriad_JJ of_IN low_JJ quality_NN websites_NNS and_CC crawler_NN traps_NNS that_IN litter_NN the_DT World_NNP Wide_NN Web_NN ._.

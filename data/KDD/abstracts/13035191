@@ -1,0 +1,13 @@
+Can_MD we_PRP learn_VB a_DT template-independent_JJ wrapper_NN for_IN news_NN article_NN extraction_NN from_IN a_DT single_JJ training_NN site_NN ?_.
+Automatic_NNP news_NN extraction_NN from_IN news_NN pages_NNS is_VBZ important_JJ in_IN many_JJ Web_NN applications_NNS such_JJ as_IN news_NN aggregation_NN ._.
+However_RB ,_, the_DT existing_VBG news_NN extraction_NN methods_NNS based_VBN on_IN template-level_JJ wrapper_NN induction_NN have_VBP three_CD serious_JJ limitations_NNS ._.
+First_RB ,_, the_DT existing_VBG methods_NNS can_MD not_RB correctly_RB extract_VB pages_NNS belonging_VBG to_TO an_DT unseen_JJ template_NN ._.
+Second_RB ,_, it_PRP is_VBZ costly_JJ to_TO maintain_VB up-to-date_JJ wrappers_NNS for_IN a_DT large_JJ amount_NN of_IN news_NN websites_NNS ,_, because_IN any_DT change_NN of_IN a_DT template_NN may_MD invalidate_VB the_DT corresponding_JJ wrapper_NN ._.
+Last_JJ ,_, the_DT existing_VBG methods_NNS can_MD merely_RB extract_VB unformatted_JJ plain_JJ texts_NNS ,_, and_CC thus_RB are_VBP not_RB user_NN friendly_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP tackle_VBP the_DT problem_NN of_IN template-independent_JJ Web_NN news_NN extraction_NN in_IN a_DT user-friendly_JJ way_NN ._.
+We_PRP formalize_VBP Web_NN news_NN extraction_NN as_IN a_DT machine_NN learning_NN problem_NN and_CC learn_VB a_DT template-independent_JJ wrapper_NN using_VBG a_DT very_RB small_JJ number_NN of_IN labeled_JJ news_NN pages_NNS from_IN a_DT single_JJ site_NN ._.
+Novel_JJ features_NNS dedicated_VBN to_TO news_NN titles_NNS and_CC bodies_NNS are_VBP developed_VBN ._.
+Correlations_NNS between_IN news_NN titles_NNS and_CC news_NN bodies_NNS are_VBP exploited_VBN ._.
+Our_PRP$ template-independent_JJ wrapper_NN can_MD extract_VB news_NN pages_NNS from_IN different_JJ sites_NNS regardless_RB of_IN templates_NNS ._.
+Moreover_RB ,_, our_PRP$ approach_NN can_MD extract_VB not_RB only_RB texts_NNS ,_, but_CC also_RB images_NNS and_CC animates_VBZ within_IN the_DT news_NN bodies_NNS and_CC the_DT extracted_VBN news_NN articles_NNS are_VBP in_IN the_DT same_JJ visual_JJ style_NN as_IN in_IN the_DT original_JJ pages_NNS ._.
+In_IN our_PRP$ experiments_NNS ,_, a_DT wrapper_NN learned_VBN from_IN 40_CD pages_NNS from_IN a_DT single_JJ news_NN site_NN achieved_VBD an_DT accuracy_NN of_IN 98.1_CD %_NN on_IN 3,973_CD news_NN pages_NNS from_IN 12_CD news_NN sites_NNS ._.

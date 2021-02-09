@@ -1,0 +1,4 @@
+WCAG_NN formalization_NN with_IN W3C_NN standards_NNS
+Web_NN accessibility_NN consists_VBZ on_IN a_DT set_NN of_IN checkpoints_NNS which_WDT are_VBP rather_RB expensive_JJ to_TO evaluate_VB or_CC to_TO spot_VB ._.
+However_RB ,_, using_VBG W3C_NN technologies_NNS ,_, this_DT cost_NN can_MD be_VB clearly_RB minimized_VBN ._.
+This_DT article_NN presents_VBZ a_DT W3C_NN formalized_VBN rule-set_JJ version_NN for_IN automatable_JJ checkpoints_NNS from_IN WCAG_NN 1.0_CD ._.

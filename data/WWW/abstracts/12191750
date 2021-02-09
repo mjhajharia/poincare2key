@@ -1,0 +1,5 @@
+YAGO2_NN :_: exploring_VBG and_CC querying_VBG world_NN knowledge_NN in_IN time_NN ,_, space_NN ,_, context_NN ,_, and_CC many_JJ languages_NNS
+We_PRP present_VBP YAGO2_NN ,_, an_DT extension_NN of_IN the_DT YAGO_NN knowledge_NN base_NN with_IN focus_NN on_IN temporal_JJ and_CC spatial_JJ knowledge_NN ._.
+It_PRP is_VBZ automatically_RB built_VBN from_IN Wikipedia_NNP ,_, GeoNames_NNP ,_, and_CC WordNet_NNP ,_, and_CC contains_VBZ nearly_RB 10_CD million_CD entities_NNS and_CC events_NNS ,_, as_RB well_RB as_IN 80_CD million_CD facts_NNS representing_VBG general_JJ world_NN knowledge_NN ._.
+An_DT enhanced_VBN data_NN representation_NN introduces_VBZ time_NN and_CC location_NN as_IN first-class_JJ citizens_NNS ._.
+The_DT wealth_NN of_IN spatio-temporal_JJ information_NN in_IN YAGO_NN can_MD be_VB explored_VBN either_CC graphically_RB or_CC through_IN a_DT special_JJ time_NN -_: and_CC space-aware_JJ query_NN language_NN ._.

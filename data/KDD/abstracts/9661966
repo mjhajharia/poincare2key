@@ -1,0 +1,13 @@
+Mining_NNP discrete_JJ patterns_NNS via_IN binary_JJ matrix_NN factorization_NN
+Mining_NNP discrete_JJ patterns_NNS in_IN binary_JJ data_NNS is_VBZ important_JJ for_IN subsampling_NN ,_, compression_NN ,_, and_CC clustering_NN ._.
+We_PRP consider_VBP rank-one_JJ binary_JJ matrix_NN approximations_NNS that_WDT identify_VBP the_DT dominant_JJ patterns_NNS of_IN the_DT data_NNS ,_, while_IN preserving_VBG its_PRP$ discrete_JJ property_NN ._.
+A_DT best_JJS approximation_NN on_IN such_JJ data_NNS has_VBZ a_DT minimum_JJ set_NN of_IN inconsistent_JJ entries_NNS ,_, i.e._FW ,_, mismatches_NNS between_IN the_DT given_VBN binary_JJ data_NNS and_CC the_DT approximate_JJ matrix_NN ._.
+Due_JJ to_TO the_DT hardness_NN of_IN the_DT problem_NN ,_, previous_JJ accounts_NNS of_IN such_JJ problems_NNS employ_VBP heuristics_NNS and_CC the_DT resulting_VBG approximation_NN may_MD be_VB far_RB away_RB from_IN the_DT optimal_JJ one_CD ._.
+In_IN this_DT paper_NN ,_, we_PRP show_VBP that_IN the_DT rank-one_JJ binary_JJ matrix_NN approximation_NN can_MD be_VB reformulated_VBN as_IN a_DT 0-1_CD integer_NN linear_NN program_NN -LRB-_-LRB- ILP_NN -RRB-_-RRB- ._.
+However_RB ,_, the_DT ILP_NNP formulation_NN is_VBZ computationally_RB expensive_JJ even_RB for_IN small-size_JJ matrices_NNS ._.
+We_PRP propose_VBP a_DT linear_JJ program_NN -LRB-_-LRB- LP_NN -RRB-_-RRB- relaxation_NN ,_, which_WDT is_VBZ shown_VBN to_TO achieve_VB a_DT guaranteed_JJ approximation_NN error_NN bound_VBD ._.
+We_PRP further_RB extend_VBP the_DT proposed_VBN formulations_NNS using_VBG the_DT regularization_NN technique_NN ,_, which_WDT is_VBZ commonly_RB employed_VBN to_TO address_VB overfitting_NN ._.
+The_DT LP_NN formulation_NN is_VBZ restricted_JJ to_TO medium-size_JJ matrices_NNS ,_, due_JJ to_TO the_DT large_JJ number_NN of_IN variables_NNS involved_VBN for_IN large_JJ matrices_NNS ._.
+Interestingly_RB ,_, we_PRP show_VBP that_IN the_DT proposed_JJ approximate_JJ formulation_NN can_MD be_VB transformed_VBN into_IN an_DT instance_NN of_IN the_DT minimum_JJ s-t_JJ cut_NN problem_NN ,_, which_WDT can_MD be_VB solved_VBN efficiently_RB by_IN finding_VBG maximum_JJ flows_NNS ._.
+Our_PRP$ empirical_JJ study_NN shows_VBZ the_DT efficiency_NN of_IN the_DT proposed_VBN algorithm_NN based_VBN on_IN the_DT maximum_NN flow_NN ._.
+Results_NNS also_RB confirm_VBP the_DT established_JJ theoretical_JJ bounds_NNS ._.

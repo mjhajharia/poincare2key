@@ -1,0 +1,8 @@
+LINKREC_NNP :_: a_DT unified_JJ framework_NN for_IN link_NN recommendation_NN with_IN user_NN attributes_NNS and_CC graph_NN structure_NN
+With_IN the_DT phenomenal_JJ success_NN of_IN networking_VBG sites_NNS -LRB-_-LRB- e.g._FW ,_, Facebook_NNP ,_, Twitter_NNP and_CC LinkedIn_NNP -RRB-_-RRB- ,_, social_JJ networks_NNS have_VBP drawn_VBN substantial_JJ attention_NN ._.
+On_IN online_JJ social_JJ networking_NN sites_NNS ,_, link_NN recommendation_NN is_VBZ a_DT critical_JJ task_NN that_IN not_RB only_RB helps_VBZ improve_VB user_NN experience_NN but_CC also_RB plays_VBZ an_DT essential_JJ role_NN in_IN network_NN growth_NN ._.
+In_IN this_DT paper_NN we_PRP propose_VBP several_JJ link_NN recommendation_NN criteria_NNS ,_, based_VBN on_IN both_DT user_NN attributes_NNS and_CC graph_NN structure_NN ._.
+To_TO discover_VB the_DT candidates_NNS that_WDT satisfy_VBP these_DT criteria_NNS ,_, link_NN relevance_NN is_VBZ estimated_VBN using_VBG a_DT random_JJ walk_NN algorithm_NN on_IN an_DT augmented_JJ social_JJ graph_NN with_IN both_CC attribute_NN and_CC structure_NN information_NN ._.
+The_DT global_JJ and_CC local_JJ influence_NN of_IN the_DT attributes_NNS is_VBZ leveraged_VBN in_IN the_DT framework_NN as_RB well_RB ._.
+Besides_IN link_NN recommendation_NN ,_, our_PRP$ framework_NN can_MD also_RB rank_VB attributes_NNS in_IN a_DT social_JJ network_NN ._.
+Experiments_NNS on_IN DBLP_NNP and_CC IMDB_NNP data_NNS sets_NNS demonstrate_VBP that_IN our_PRP$ method_NN outperforms_VBZ state-of-the-art_JJ methods_NNS based_VBN on_IN network_NN structure_NN and_CC node_NN attribute_NN information_NN for_IN link_NN recommendation_NN ._.

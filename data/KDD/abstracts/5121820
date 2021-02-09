@@ -1,0 +1,9 @@
+Efficient_JJ incremental_JJ constrained_VBN clustering_NN
+Clustering_VBG with_IN constraints_NNS is_VBZ an_DT emerging_VBG area_NN of_IN data_NNS mining_NN research_NN ._.
+However_RB ,_, most_JJS work_NN assumes_VBZ that_IN the_DT constraints_NNS are_VBP given_VBN as_IN one_CD large_JJ batch_NN ._.
+In_IN this_DT paper_NN we_PRP explore_VBP the_DT situation_NN where_WRB the_DT constraints_NNS are_VBP incrementally_RB given_VBN ._.
+In_IN this_DT way_NN the_DT user_NN after_IN seeing_VBG a_DT clustering_NN can_MD provide_VB positive_JJ and_CC negative_JJ feedback_NN via_IN constraints_NNS to_TO critique_NN a_DT clustering_NN solution_NN ._.
+We_PRP consider_VBP the_DT problem_NN of_IN efficiently_RB updating_VBG a_DT clustering_NN to_TO satisfy_VB the_DT new_JJ and_CC old_JJ constraints_NNS rather_RB than_IN reclustering_VBG the_DT entire_JJ data_NN set_NN ._.
+We_PRP show_VBP that_IN the_DT problem_NN of_IN incremental_JJ clustering_NN under_IN constraints_NNS is_VBZ NP-hard_JJ in_IN general_JJ ,_, but_CC identify_VBP several_JJ sufficient_JJ conditions_NNS which_WDT lead_VBP to_TO efficiently_RB solvable_JJ versions_NNS ._.
+These_DT translate_VBP into_IN a_DT set_NN of_IN rules_NNS on_IN the_DT types_NNS of_IN constraints_NNS thatcan_NN be_VB added_VBN and_CC constraint_NN set_NN properties_NNS that_WDT must_MD be_VB maintained_VBN ._.
+We_PRP demonstrate_VBP that_IN this_DT approach_NN is_VBZ more_RBR efficient_JJ than_IN re-clustering_VBG the_DT entire_JJ data_NNS set_NN and_CC has_VBZ several_JJ other_JJ advantages_NNS ._.

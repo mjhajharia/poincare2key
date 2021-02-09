@@ -1,0 +1,8 @@
+Learning_NNP information_NN diffusion_NN process_NN on_IN the_DT web_NN
+Many_JJ text_NN documents_NNS on_IN the_DT Web_NN are_VBP not_RB originally_RB created_VBN but_CC forwarded_VBN or_CC copied_VBN from_IN other_JJ source_NN documents_NNS ._.
+The_DT phenomenon_NN of_IN document_NN forwarding_NN or_CC transmission_NN between_IN various_JJ web_NN sites_NNS is_VBZ denoted_VBN as_IN Web_NN information_NN diffusion_NN ._.
+This_DT paper_NN focuses_VBZ on_IN mining_NN information_NN diffusion_NN processes_NNS for_IN specific_JJ topics_NNS on_IN the_DT Web_NN ._.
+A_DT novel_JJ system_NN called_VBN LIDPW_NNP is_VBZ proposed_VBN to_TO address_VB this_DT problem_NN using_VBG matching_JJ learning_NN techniques_NNS ._.
+The_DT source_NN site_NN and_CC source_NN document_NN of_IN each_DT document_NN are_VBP identified_VBN and_CC the_DT diffusion_NN process_NN composed_VBN of_IN a_DT sequence_NN of_IN diffusion_NN relationships_NNS is_VBZ visually_RB presented_VBN to_TO users_NNS ._.
+The_DT effectiveness_NN of_IN LIDPW_NN is_VBZ validated_VBN on_IN a_DT real_JJ data_NN set_NN ._.
+A_DT preliminary_JJ user_NN study_NN is_VBZ performed_VBN and_CC the_DT results_NNS show_VBP that_IN LIDPW_NN does_VBZ benefit_NN users_NNS to_TO monitor_VB the_DT information_NN diffusion_NN process_NN of_IN a_DT specific_JJ topic_NN ,_, and_CC aid_VB them_PRP to_TO discover_VB the_DT diffusion_NN start_NN and_CC diffusion_NN center_NN of_IN the_DT topic_NN ._.

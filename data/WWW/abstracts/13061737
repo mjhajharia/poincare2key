@@ -1,0 +1,9 @@
+On_IN the_DT informativeness_NN of_IN cascade_NN and_CC intent-aware_JJ effectiveness_NN measures_NNS
+The_DT Maximum_NNP Entropy_NNP Method_NNP provides_VBZ one_CD technique_NN for_IN validating_VBG search_NN engine_NN effectiveness_NN measures_NNS ._.
+Under_IN this_DT method_NN ,_, the_DT value_NN of_IN an_DT effectiveness_NN measure_NN is_VBZ used_VBN as_IN a_DT constraint_NN to_TO estimate_VB the_DT most_RBS likely_JJ distribution_NN of_IN relevant_JJ documents_NNS under_IN a_DT maximum_NN entropy_NN assumption_NN ._.
+This_DT inferred_VBN distribution_NN may_MD then_RB be_VB compared_VBN to_TO the_DT actual_JJ distribution_NN to_TO quantify_VB the_DT ``_`` informativeness_NN ''_'' of_IN the_DT measure_NN ._.
+The_DT inferred_VBN distribution_NN may_MD also_RB be_VB used_VBN to_TO estimate_VB values_NNS for_IN other_JJ effectiveness_NN measures_NNS ._.
+Previous_JJ work_NN focused_VBN on_IN traditional_JJ effectiveness_NN measures_NNS ,_, such_JJ as_IN average_JJ precision_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP extend_VBP the_DT Maximum_NNP Entropy_NNP Method_NNP to_TO the_DT newer_JJR cascade_NN and_CC intent-aware_JJ effectiveness_NN measures_NNS by_IN considering_VBG the_DT dependency_NN of_IN the_DT documents_NNS ranked_VBD in_IN a_DT results_NNS list_NN ._.
+These_DT measures_NNS are_VBP intended_VBN to_TO reflect_VB the_DT novelty_NN and_CC diversity_NN of_IN search_NN results_VBZ in_IN addition_NN to_TO the_DT traditional_JJ relevance_NN ._.
+Our_PRP$ results_NNS indicate_VBP that_IN intent-aware_JJ measures_NNS based_VBN on_IN the_DT cascade_NN model_NN are_VBP informative_JJ in_IN terms_NNS of_IN both_DT inferring_VBG actual_JJ distribution_NN and_CC predicting_VBG the_DT values_NNS of_IN other_JJ retrieval_NN measures_NNS ._.

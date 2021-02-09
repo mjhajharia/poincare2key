@@ -1,0 +1,5 @@
+Wireless_NNP SOAP_NNP :_: optimizations_NNS for_IN mobile_JJ wireless_JJ web_NN services_NNS
+We_PRP propose_VBP a_DT set_NN of_IN optimization_NN techniques_NNS ,_, collectively_RB called_VBN Wireless_NNP SOAP_NN -LRB-_-LRB- WSOAP_NN -RRB-_-RRB- ,_, to_TO compress_VB SOAP_NN messages_NNS transmitted_VBN across_IN a_DT wireless_JJ link_NN ._.
+The_DT Name_NN Space_NN Equivalency_NN technique_NN rests_VBZ on_IN the_DT observation_NN that_IN exact_JJ recovery_NN of_IN compressed_VBN messages_NNS is_VBZ not_RB required_VBN at_IN the_DT receiver_NN ;_: an_DT equivalent_JJ form_NN suffices_VBZ ._.
+The_DT WSDL_NNP Aware_NNP Encoding_NNP technique_NN obtains_VBZ further_JJ savings_NNS by_IN utilizing_VBG knowledge_NN of_IN the_DT underlying_JJ WSDL_NN by_IN means_NNS of_IN an_DT offline_JJ protocol_NN we_PRP define_VBP ._.
+We_PRP summarize_VBP the_DT design_NN ,_, implementation_NN and_CC performance_NN of_IN our_PRP$ Wireless_NNP SOAP_NNP prototype_NN ,_, and_CC show_VBP that_IN Wireless_NNP SOAP_NNP can_MD reduce_VB message_NN sizes_NNS by_IN 3x-12x_NN compared_VBN to_TO SOAP_NN ._.

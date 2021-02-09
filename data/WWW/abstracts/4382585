@@ -1,0 +1,5 @@
+Generating_NNP maps_NNS of_IN web_NN pages_NNS using_VBG cellular_JJ automata_NN
+The_DT aim_NN of_IN web_NN pages_NNS visualization_NN is_VBZ to_TO present_JJ in_IN a_DT very_RB informative_JJ and_CC interactive_JJ way_NN a_DT set_NN of_IN web_NN documents_NNS to_TO the_DT user_NN in_IN order_NN to_TO let_VB him_PRP or_CC her_PRP$ navigate_VB through_IN these_DT documents_NNS ._.
+In_IN the_DT web_NN context_NN ,_, this_DT may_MD correspond_VB to_TO several_JJ user_NN 's_POS tasks_NNS :_: displaying_VBG the_DT results_NNS of_IN a_DT search_NN engine_NN ,_, or_CC visualizing_VBG a_DT graph_NN of_IN pages_NNS such_JJ as_IN a_DT hypertext_NN or_CC a_DT surf_NN map_NN ._.
+In_IN addition_NN to_TO web_NN pages_NNS visualization_NN ,_, web_NN pages_NNS clustering_VBG also_RB greatly_RB improves_VBZ the_DT amount_NN of_IN information_NN presented_VBN to_TO the_DT user_NN by_IN highlighting_VBG the_DT similarities_NNS between_IN the_DT documents_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP explore_VBP the_DT use_NN of_IN a_DT cellular_JJ automata_NN -LRB-_-LRB- CA_NNP -RRB-_-RRB- to_TO generate_VB such_JJ maps_NNS of_IN web_NN pages_NNS ._.

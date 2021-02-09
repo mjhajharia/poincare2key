@@ -1,0 +1,9 @@
+Matching_VBG web_NN site_NN structure_NN and_CC content_NN
+To_TO keep_VB an_DT overview_NN of_IN a_DT complex_JJ corporate_JJ web_NN sites_NNS ,_, it_PRP is_VBZ crucial_JJ to_TO understand_VB the_DT relationship_NN of_IN contents_NNS ,_, structure_NN and_CC the_DT user_NN 's_POS behavior_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP an_DT approach_NN which_WDT is_VBZ allowing_VBG us_PRP to_TO compare_VB web_NN page_NN content_NN with_IN the_DT information_NN implictly_RB defined_VBN by_IN the_DT structure_NN of_IN the_DT web_NN site_NN ._.
+We_PRP start_VBP by_IN describing_VBG each_DT web_NN page_NN with_IN a_DT set_NN of_IN key_JJ words_NNS ._.
+We_PRP combine_VBP this_DT information_NN with_IN the_DT link_NN structure_NN in_IN an_DT algorithm_NN generating_VBG a_DT context_NN based_JJ description_NN ._.
+By_IN comparing_VBG both_DT descriptions_NNS ,_, we_PRP draw_VBP conclusions_NNS about_IN the_DT semantic_JJ relationship_NN of_IN a_DT web_NN page_NN and_CC its_PRP$ neighborhood_NN ._.
+In_IN this_DT way_NN ,_, we_PRP indicate_VBP whether_IN a_DT page_NN fits_VBZ in_IN the_DT content_NN of_IN its_PRP$ neighborhood_NN ._.
+Doing_VBG this_DT ,_, we_PRP implicitly_RB identify_VBP topics_NNS which_WDT span_VBP over_IN several_JJ connected_JJ web_NN pages_NNS ._.
+With_IN our_PRP$ approach_NN we_PRP support_VBP redesign_NN processes_NNS by_IN assessing_VBG the_DT actual_JJ structure_NN and_CC content_NN of_IN a_DT web_NN site_NN with_IN designer_NN 's_POS concepts_NNS ._.

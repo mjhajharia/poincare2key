@@ -1,0 +1,2 @@
+A_DT storage_NN and_CC indexing_NN framework_NN for_IN p2p_NN systems_NNS
+We_PRP present_VBP a_DT modularized_JJ storage_NN and_CC indexing_NN framework_NN that_WDT cleanly_RB separates_VBZ the_DT functional_JJ components_NNS of_IN a_DT P2P_NN system_NN ,_, enabling_VBG us_PRP to_TO tailor_VB the_DT P2P_NN infrastructure_NN to_TO the_DT specific_JJ needs_NNS of_IN various_JJ Internet_NNP applications_NNS eat_VBP ,_, without_IN having_VBG to_TO devise_VB completely_RB new_JJ storage_NN management_NN and_CC index_NN structures_NNS for_IN each_DT application_NN ._.

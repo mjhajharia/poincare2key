@@ -1,0 +1,6 @@
+On_IN business_NN activity_NN modeling_NN using_VBG grammars_NNS
+Web_NN based_VBN applications_NNS offer_VBP a_DT mainstream_JJ channel_NN for_IN businesses_NNS to_TO manage_VB their_PRP$ activities_NNS ._.
+We_PRP model_VBP such_JJ business_NN activity_NN in_IN a_DT grammar-based_JJ framework_NN ._.
+The_DT Backus_NNP Naur_NNP form_NN notation_NN is_VBZ used_VBN to_TO represent_VB the_DT syntax_NN of_IN a_DT regular_JJ grammar_NN corresponding_VBG to_TO Web_NN log_NN patterns_NNS of_IN interest_NN ._.
+Then_RB ,_, a_DT deterministic_JJ finite_JJ state_NN machine_NN is_VBZ used_VBN to_TO parse_VB Web_NN logs_NNS against_IN the_DT grammar_NN ._.
+Detected_VBN tasks_NNS are_VBP associated_VBN with_IN metadata_NN such_JJ as_IN time_NN taken_VBN to_TO perform_VB the_DT activity_NN ,_, and_CC aggregated_VBD along_RB relevant_JJ corporate_JJ dimensions_NNS ._.

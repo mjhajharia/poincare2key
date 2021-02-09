@@ -1,0 +1,6 @@
+GlobeDB_NN :_: autonomic_JJ data_NNS replication_NN for_IN web_NN applications_NNS
+We_PRP present_VBP GlobeDB_NN ,_, a_DT system_NN for_IN hosting_VBG Web_NN applications_NNS that_WDT performs_VBZ autonomic_JJ replication_NN of_IN application_NN data_NNS ._.
+GlobeDB_NN offers_VBZ data-intensive_JJ Web_NN applications_NNS the_DT benefits_NNS of_IN low_JJ access_NN latencies_NNS and_CC reduced_VBN update_VBP traffic_NN ._.
+The_DT major_JJ distinction_NN in_IN our_PRP$ system_NN compared_VBN to_TO existing_VBG edge_NN computing_NN infrastructures_NNS is_VBZ that_IN the_DT process_NN of_IN distribution_NN and_CC replication_NN of_IN application_NN data_NNS is_VBZ handled_VBN by_IN the_DT system_NN automatically_RB with_IN very_RB little_JJ manual_JJ administration_NN ._.
+We_PRP show_VBP that_IN significant_JJ performance_NN gains_NNS can_MD be_VB obtained_VBN this_DT way_NN ._.
+Performance_NNP evaluations_NNS with_IN the_DT TPC-W_NN benchmark_NN over_IN an_DT emulated_VBN wide-area_NN network_NN show_VBP that_IN GlobeDB_NN reduces_VBZ latencies_NNS by_IN a_DT factor_NN of_IN 4_CD compared_VBN to_TO non-replicated_JJ systems_NNS and_CC reduces_VBZ update_VB traffic_NN by_IN a_DT factor_NN of_IN 6_CD compared_VBN to_TO fully_RB replicated_VBN systems_NNS ._.

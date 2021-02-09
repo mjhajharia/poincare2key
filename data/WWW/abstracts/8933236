@@ -1,0 +1,6 @@
+HPG_NN :_: a_DT tool_NN for_IN presentation_NN generation_NN in_IN WIS_NN
+Web_NN Information_NNP Systems_NNP -LRB-_-LRB- WIS_NNP -RRB-_-RRB- support_VBP the_DT process_NN of_IN retrieving_VBG information_NN from_IN sources_NNS on_IN the_DT Web_NN and_CC of_IN presenting_VBG them_PRP as_IN a_DT hypermedia_NN presentation_NN ._.
+Most_JJS WIS_NNS design_VBP methodologies_NNS focus_VB on_IN the_DT engineering_NN of_IN the_DT abstract_JJ navigation_NN -LRB-_-LRB- hyperlinks_NNS -RRB-_-RRB- ._.
+The_DT actual_JJ presentation_NN generation_NN is_VBZ less_RBR supported_VBN ._.
+Hera_NNP is_VBZ one_CD of_IN the_DT few_JJ WIS_NNP methodologies_NNS that_WDT offer_VBP a_DT tool_NN for_IN presentation_NN generation_NN -LRB-_-LRB- HPG_NN -RRB-_-RRB- ._.
+The_DT HPG_NNP transforms_VBZ RDF_NNP data_NNS obtained_VBN as_IN the_DT result_NN of_IN a_DT query_NN into_IN a_DT Web_NN presentation_NN suited_VBN to_TO the_DT user_NN -LRB-_-LRB- in_IN HTML_NNP or_CC WML_NNP -RRB-_-RRB- ._.

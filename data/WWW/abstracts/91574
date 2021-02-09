@@ -1,0 +1,8 @@
+Using_VBG web_NN structure_NN for_IN classifying_VBG and_CC describing_VBG web_NN pages_NNS
+The_DT structure_NN of_IN the_DT web_NN is_VBZ increasingly_RB being_VBG used_VBN to_TO improve_VB organization_NN ,_, search_NN ,_, and_CC analysis_NN of_IN information_NN on_IN the_DT web_NN ._.
+For_IN example_NN ,_, Google_NNP uses_VBZ the_DT text_NN in_IN citing_VBG documents_NNS -LRB-_-LRB- documents_NNS that_WDT link_VBP to_TO the_DT target_NN document_NN -RRB-_-RRB- for_IN search_NN ._.
+We_PRP analyze_VBP the_DT relative_JJ utility_NN of_IN document_NN text_NN ,_, and_CC the_DT text_NN in_IN citing_VBG documents_NNS near_IN the_DT citation_NN ,_, for_IN classification_NN and_CC description_NN ._.
+Results_NNS show_VBP that_IN the_DT text_NN in_IN citing_VBG documents_NNS ,_, when_WRB available_JJ ,_, often_RB has_VBZ greater_JJR discriminative_JJ and_CC descriptive_JJ power_NN than_IN the_DT text_NN in_IN the_DT target_NN document_NN itself_PRP ._.
+The_DT combination_NN of_IN evidence_NN from_IN a_DT document_NN and_CC citing_VBG documents_NNS can_MD improve_VB on_IN either_CC information_NN source_NN alone_RB ._.
+Moreover_RB ,_, by_IN ranking_JJ words_NNS and_CC phrases_NNS in_IN the_DT citing_VBG documents_NNS according_VBG to_TO expected_VBN entropy_NN loss_NN ,_, we_PRP are_VBP able_JJ to_TO accurately_RB name_VB clusters_NNS of_IN web_NN pages_NNS ,_, even_RB with_IN very_RB few_JJ positive_JJ examples_NNS ._.
+Our_PRP$ results_NNS confirm_VBP ,_, quantify_VBP ,_, and_CC extend_VB previous_JJ research_NN using_VBG web_NN structure_NN in_IN these_DT areas_NNS ,_, introducing_VBG new_JJ methods_NNS for_IN classification_NN and_CC description_NN of_IN pages_NNS ._.

@@ -1,0 +1,5 @@
+Mining_NNP multilingual_JJ topics_NNS from_IN wikipedia_NN
+In_IN this_DT paper_NN ,_, we_PRP try_VBP to_TO leverage_NN a_DT large-scale_JJ and_CC multilingual_JJ knowledge_NN base_NN ,_, Wikipedia_NNP ,_, to_TO help_VB effectively_RB analyze_VB and_CC organize_VB Web_NN information_NN written_VBN in_IN different_JJ languages_NNS ._.
+Based_VBN on_IN the_DT observation_NN that_IN one_CD Wikipedia_NNP concept_NN may_MD be_VB described_VBN by_IN articles_NNS in_IN different_JJ languages_NNS ,_, we_PRP adapt_VBP existing_VBG topic_NN modeling_NN algorithm_NN for_IN mining_NN multilingual_JJ topics_NNS from_IN this_DT knowledge_NN base_NN ._.
+The_DT extracted_VBN `_`` universal_JJ '_'' topics_NNS have_VBP multiple_JJ types_NNS of_IN representations_NNS ,_, with_IN each_DT type_NN corresponding_VBG to_TO one_CD language_NN ._.
+Accordingly_RB ,_, new_JJ documents_NNS of_IN different_JJ languages_NNS can_MD be_VB represented_VBN in_IN a_DT space_NN using_VBG a_DT group_NN of_IN universal_JJ topics_NNS ,_, which_WDT makes_VBZ various_JJ multilingual_JJ Web_NN applications_NNS feasible_JJ ._.

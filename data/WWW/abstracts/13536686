@@ -1,0 +1,14 @@
+XQuery_NN in_IN the_DT browser_NN
+Since_IN the_DT invention_NN of_IN the_DT Web_NN ,_, the_DT browser_NN has_VBZ become_VBN more_RBR and_CC more_RBR powerful_JJ ._.
+By_IN now_RB ,_, it_PRP is_VBZ a_DT programming_NN and_CC execution_NN environment_NN in_IN itself_PRP ._.
+The_DT predominant_JJ language_NN to_TO program_NN applications_NNS in_IN the_DT browser_NN today_NN is_VBZ JavaScript_NNP ._.
+With_IN browsers_NNS becoming_VBG more_RBR powerful_JJ ,_, JavaScript_NNP has_VBZ been_VBN extended_VBN and_CC new_JJ layers_NNS have_VBP been_VBN added_VBN -LRB-_-LRB- e.g._FW ,_, DOM-Support_NN and_CC XPath_NN -RRB-_-RRB- ._.
+Today_NN ,_, JavaScript_NNP is_VBZ very_RB successful_JJ and_CC applications_NNS and_CC GUI_NN features_NNS implemented_VBN in_IN the_DT browser_NN have_VBP become_VBN increasingly_RB complex_JJ ._.
+The_DT purpose_NN of_IN this_DT paper_NN is_VBZ to_TO improve_VB the_DT programmability_NN of_IN Web_NN browsers_NNS by_IN enabling_VBG the_DT execution_NN of_IN XQuery_NN programs_NNS in_IN the_DT browser_NN ._.
+Although_IN it_PRP has_VBZ the_DT potential_NN to_TO ideally_RB replace_VB JavaScript_NNP ,_, it_PRP is_VBZ possible_JJ to_TO run_VB it_PRP in_IN addition_NN to_TO JavaScript_NNP for_IN more_JJR flexibility_NN ._.
+Furthermore_RB ,_, it_PRP allows_VBZ instant_JJ code_NN migration_NN from_IN the_DT server_NN to_TO the_DT client_NN and_CC vice-versa_NN ._.
+This_DT enables_VBZ a_DT significant_JJ simplification_NN of_IN the_DT technology_NN stack_VB ._.
+The_DT intuition_NN is_VBZ that_IN programming_VBG the_DT browser_NN involves_VBZ mostly_RB XML_NN -LRB-_-LRB- i.e._FW ,_, DOM_NNP -RRB-_-RRB- navigation_NN and_CC manipulation_NN ,_, and_CC the_DT XQuery_NN family_NN of_IN W3C_NN standards_NNS were_VBD designed_VBN exactly_RB for_IN that_DT purpose_NN ._.
+The_DT paper_NN proposes_VBZ extensions_NNS to_TO XQuery_NN for_IN Web_NN browsers_NNS and_CC gives_VBZ a_DT number_NN of_IN examples_NNS that_WDT demonstrate_VBP the_DT usefulness_NN of_IN XQuery_NN for_IN the_DT development_NN of_IN AJAX-style_JJ applications_NNS ._.
+Furthermore_RB ,_, the_DT paper_NN presents_VBZ the_DT design_NN of_IN an_DT XQuery_NN plug-in_JJ for_IN Microsoft_NNP 's_POS Internet_NNP Explorer_NNP ._.
+The_DT paper_NN also_RB gives_VBZ examples_NNS of_IN applications_NNS which_WDT were_VBD developed_VBN with_IN the_DT help_NN of_IN this_DT plug-in_JJ ._.

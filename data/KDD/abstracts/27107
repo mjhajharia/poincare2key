@@ -1,0 +1,10 @@
+Probabilistic_JJ modeling_NN of_IN transaction_NN data_NNS with_IN applications_NNS to_TO profiling_NN ,_, visualization_NN ,_, and_CC prediction_NN
+Transaction_NN data_NNS is_VBZ ubiquitous_JJ in_IN data_NN mining_NN applications_NNS ._.
+Examples_NNS include_VBP market_NN basket_NN data_NNS in_IN retail_JJ commerce_NN ,_, telephone_NN call_NN records_NNS in_IN telecommunications_NNS ,_, and_CC Web_NN logs_NNS of_IN individual_JJ page-requests_NNS at_IN Web_NN sites_NNS ._.
+Profiling_NNP consists_VBZ of_IN using_VBG historical_JJ transaction_NN data_NNS on_IN individuals_NNS to_TO construct_VB a_DT model_NN of_IN each_DT individual_NN 's_POS behavior_NN ._.
+Simple_JJ profiling_NN techniques_NNS such_JJ as_IN histograms_NNS do_VBP not_RB generalize_VB well_RB from_IN sparse_JJ transaction_NN data_NNS ._.
+In_IN this_DT paper_NN we_PRP investigate_VBP the_DT application_NN of_IN probabilistic_JJ mixture_NN models_NNS to_TO automatically_RB generate_VB profiles_NNS from_IN large_JJ volumes_NNS of_IN transaction_NN data_NNS ._.
+In_IN effect_NN ,_, the_DT mixture_NN model_NN represents_VBZ each_DT individual_NN 's_POS behavior_NN as_IN a_DT linear_JJ combination_NN of_IN ``_`` basis_NN transactions_NNS ._. ''_''
+We_PRP evaluate_VBP several_JJ variations_NNS of_IN the_DT model_NN on_IN a_DT large_JJ retail_JJ transaction_NN data_NNS set_VBP and_CC show_VBP that_IN the_DT proposed_VBN model_NN provides_VBZ improved_VBN predictive_JJ power_NN over_IN simpler_JJR histogram-based_JJ techniques_NNS ,_, as_RB well_RB as_IN being_VBG relatively_RB scalable_JJ ,_, interpretable_JJ ,_, and_CC flexible_JJ ._.
+In_IN addition_NN we_PRP point_VBP to_TO applications_NNS in_IN outlier_NN detection_NN ,_, customer_NN ranking_NN ,_, interactive_JJ visualization_NN ,_, and_CC so_RB forth_RB ._.
+The_DT paper_NN concludes_VBZ by_IN comparing_VBG and_CC relating_VBG the_DT proposed_VBN framework_NN to_TO other_JJ transaction-data_JJ modeling_NN techniques_NNS such_JJ as_IN association_NN rules_NNS ._.

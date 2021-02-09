@@ -1,0 +1,7 @@
+Probabilistic_JJ discovery_NN of_IN time_NN series_NN motifs_NNS
+Several_JJ important_JJ time_NN series_NN data_NNS mining_NN problems_NNS reduce_VBP to_TO the_DT core_NN task_NN of_IN finding_VBG approximately_RB repeated_VBN subsequences_NNS in_IN a_DT longer_JJR time_NN series_NN ._.
+In_IN an_DT earlier_JJR work_NN ,_, we_PRP formalized_VBD the_DT idea_NN of_IN approximately_RB repeated_VBN subsequences_NNS by_IN introducing_VBG the_DT notion_NN of_IN time_NN series_NN motifs_NNS ._.
+Two_CD limitations_NNS of_IN this_DT work_NN were_VBD the_DT poor_JJ scalability_NN of_IN the_DT motif_NN discovery_NN algorithm_NN ,_, and_CC the_DT inability_NN to_TO discover_VB motifs_NNS in_IN the_DT presence_NN of_IN noise_NN ._.
+Here_RB we_PRP address_VBP these_DT limitations_NNS by_IN introducing_VBG a_DT novel_JJ algorithm_NN inspired_VBN by_IN recent_JJ advances_NNS in_IN the_DT problem_NN of_IN pattern_NN discovery_NN in_IN biosequences_NNS ._.
+Our_PRP$ algorithm_NN is_VBZ probabilistic_JJ in_IN nature_NN ,_, but_CC as_IN we_PRP show_VBP empirically_RB and_CC theoretically_RB ,_, it_PRP can_MD find_VB time_NN series_NN motifs_NNS with_IN very_RB high_JJ probability_NN even_RB in_IN the_DT presence_NN of_IN noise_NN or_CC ``_`` do_VBP n't_RB care_VB ''_'' symbols_NNS ._.
+Not_RB only_RB is_VBZ the_DT algorithm_NN fast_RB ,_, but_CC it_PRP is_VBZ an_DT anytime_RB algorithm_NN ,_, producing_VBG likely_JJ candidate_NN motifs_NNS almost_RB immediately_RB ,_, and_CC gradually_RB improving_VBG the_DT quality_NN of_IN results_NNS over_IN time_NN ._.

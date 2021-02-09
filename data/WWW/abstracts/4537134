@@ -1,0 +1,9 @@
+Finding_VBG group_NN shilling_NN in_IN recommendation_NN system_NN
+In_IN the_DT age_NN of_IN information_NN explosion_NN ,_, recommendation_NN system_NN has_VBZ been_VBN proved_VBN effective_JJ to_TO cope_VB with_IN information_NN overload_NN in_IN e-commerce_NN area_NN ._.
+However_RB ,_, unscrupulous_JJ producers_NNS shill_VBP the_DT systems_NNS in_IN many_JJ ways_NNS to_TO make_VB profit_NN ,_, and_CC it_PRP makes_VBZ the_DT system_NN imprecise_JJ and_CC unreliable_JJ in_IN a_DT long_JJ term_NN ._.
+Among_IN many_JJ shilling_VBG behaviors_NNS ,_, a_DT new_JJ form_NN of_IN attack_NN ,_, called_VBN group_NN shilling_NN ,_, appears_VBZ and_CC does_VBZ great_JJ harm_NN to_TO the_DT system_NN ._.
+Because_IN group_NN shilling_NN users_NNS are_VBP now_RB well_RB organized_VBN and_CC become_VBN more_RBR hidden_JJ among_IN various_JJ normal_JJ users_NNS ,_, it_PRP is_VBZ hard_JJ to_TO find_VB them_PRP by_IN traditional_JJ methods_NNS ._.
+However_RB ,_, these_DT group_NN shilling_NN users_NNS are_VBP similar_JJ to_TO some_DT extent_NN ,_, for_IN they_PRP both_DT shill_VBP the_DT target_NN items_NNS ._.
+We_PRP bring_VBP out_RP a_DT similarity_NN spreading_NN algorithm_NN to_TO find_VB these_DT group_NN shilling_VBG users_NNS and_CC protect_VB recommendation_NN system_NN from_IN unfair_JJ ratings_NNS ._.
+In_IN our_PRP$ algorithm_NN ,_, we_PRP try_VBP to_TO find_VB these_DT cunning_JJ group_NN shilling_VBG users_NNS through_IN propagating_VBG similarities_NNS from_IN items_NNS to_TO users_NNS iteratively_RB ._.
+The_DT experiment_NN shows_VBZ our_PRP$ similarity_NN spreading_NN algorithm_NN improves_VBZ the_DT precision_NN of_IN the_DT system_NN and_CC provides_VBZ the_DT system_NN a_DT reliable_JJ protection_NN ._.

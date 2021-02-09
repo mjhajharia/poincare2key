@@ -1,0 +1,9 @@
+SLA_NN based_JJ profit_NN optimization_NN in_IN web_NN systems_NNS
+With_IN the_DT rapid_JJ growth_NN of_IN eBusiness_NN ,_, the_DT Web_NN services_NNS are_VBP becoming_VBG a_DT commodity_NN ._.
+To_TO reduce_VB the_DT management_NN cost_NN for_IN the_DT IT_NNP infrastructure_NN ,_, companies_NNS often_RB outsource_VBP their_PRP$ IT_NNP services_NNS to_TO third_JJ party_NN service_NN providers_NNS ._.
+Large_JJ service_NN centers_NNS have_VBP been_VBN setup_NN to_TO provide_VB services_NNS to_TO many_JJ customers_NNS by_IN sharing_VBG the_DT IT_NNP resources_NNS ._.
+This_DT leads_VBZ to_TO the_DT efficient_JJ use_NN of_IN resources_NNS and_CC a_DT reduction_NN of_IN the_DT operating_NN cost_NN ._.
+The_DT service_NN provider_NN and_CC their_PRP$ customers_NNS often_RB negotiate_VBP utility_NN based_VBN Service_NNP Level_NNP Agreements_NNP -LRB-_-LRB- SLAs_NNS -RRB-_-RRB- to_TO determine_VB the_DT cost_NN and_CC penalty_NN based_VBN on_IN the_DT achieved_VBN performance_NN level_NN ._.
+The_DT system_NN is_VBZ based_VBN on_IN a_DT centralized_JJ controller_NN which_WDT can_MD control_VB the_DT request_NN volumes_NNS at_IN various_JJ servers_NNS and_CC the_DT scheduling_NN policy_NN at_IN each_DT server_NN ._.
+The_DT controller_NN can_MD also_RB decide_VB to_TO turn_VB ON_NNP or_CC OFF_NNP servers_NNS depending_VBG on_IN the_DT system_NN load_NN ._.
+This_DT paper_NN designs_VBZ a_DT resource_NN allocation_NN scheduler_NN for_IN such_JJ web_NN environments_NNS so_RB as_IN to_TO maximize_VB the_DT profits_NNS associated_VBN with_IN multiple_JJ class_NN SLAs_NNS ._.

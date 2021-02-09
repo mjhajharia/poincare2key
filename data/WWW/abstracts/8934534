@@ -1,0 +1,7 @@
+A_DT hybrid_NN approach_NN for_IN searching_VBG in_IN the_DT semantic_JJ web_NN
+This_DT paper_NN presents_VBZ a_DT search_NN architecture_NN that_WDT combines_VBZ classical_JJ search_NN techniques_NNS with_IN spread_NN activation_NN techniques_NNS applied_VBN to_TO a_DT semantic_JJ model_NN of_IN a_DT given_VBN domain_NN ._.
+Given_VBN an_DT ontology_NN ,_, weights_NNS are_VBP assigned_VBN to_TO links_NNS based_VBN on_IN certain_JJ properties_NNS of_IN the_DT ontology_NN ,_, so_IN that_IN they_PRP measure_VBP the_DT strength_NN of_IN the_DT relation_NN ._.
+Spread_NN activation_NN techniques_NNS are_VBP used_VBN to_TO find_VB related_JJ concepts_NNS in_IN the_DT ontology_NN given_VBN an_DT initial_JJ set_NN of_IN concepts_NNS and_CC corresponding_VBG initial_JJ activation_NN values_NNS ._.
+These_DT initial_JJ values_NNS are_VBP obtained_VBN from_IN the_DT results_NNS of_IN classical_JJ search_NN applied_VBN to_TO the_DT data_NNS associated_VBN with_IN the_DT concepts_NNS in_IN the_DT ontology_NN ._.
+Two_CD test_NN cases_NNS were_VBD implemented_VBN ,_, with_IN very_RB positive_JJ results_NNS ._.
+It_PRP was_VBD also_RB observed_VBN that_IN the_DT proposed_VBN hybrid_NN spread_NN activation_NN ,_, combining_VBG the_DT symbolic_JJ and_CC the_DT sub-symbolic_JJ approaches_NNS ,_, achieved_VBD better_JJR results_NNS when_WRB compared_VBN to_TO each_DT of_IN the_DT approaches_NNS alone_RB ._.

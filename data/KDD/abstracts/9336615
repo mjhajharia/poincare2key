@@ -1,0 +1,10 @@
+Extracting_VBG shared_JJ subspace_NN for_IN multi-label_JJ classification_NN
+Multi-label_JJ problems_NNS arise_VBP in_IN various_JJ domains_NNS such_JJ as_IN multi-topic_JJ document_NN categorization_NN and_CC protein_NN function_NN prediction_NN ._.
+One_CD natural_JJ way_NN to_TO deal_VB with_IN such_JJ problems_NNS is_VBZ to_TO construct_VB a_DT binary_JJ classifier_NN for_IN each_DT label_NN ,_, resulting_VBG in_IN a_DT set_NN of_IN independent_JJ binary_JJ classification_NN problems_NNS ._.
+Since_IN the_DT multiple_JJ labels_NNS share_VBP the_DT same_JJ input_NN space_NN ,_, and_CC the_DT semantics_NNS conveyed_VBN by_IN different_JJ labels_NNS are_VBP usually_RB correlated_VBN ,_, it_PRP is_VBZ essential_JJ to_TO exploit_VB the_DT correlation_NN information_NN contained_VBN in_IN different_JJ labels_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP consider_VBP a_DT general_JJ framework_NN for_IN extracting_VBG shared_JJ structures_NNS in_IN multi-label_JJ classification_NN ._.
+In_IN this_DT framework_NN ,_, a_DT common_JJ subspace_NN is_VBZ assumed_VBN to_TO be_VB shared_VBN among_IN multiple_JJ labels_NNS ._.
+We_PRP show_VBP that_IN the_DT optimal_JJ solution_NN to_TO the_DT proposed_VBN formulation_NN can_MD be_VB obtained_VBN by_IN solving_VBG a_DT generalized_JJ eigenvalue_NN problem_NN ,_, though_IN the_DT problem_NN is_VBZ non-convex_JJ ._.
+For_IN high-dimensional_JJ problems_NNS ,_, direct_JJ computation_NN of_IN the_DT solution_NN is_VBZ expensive_JJ ,_, and_CC we_PRP develop_VBP an_DT efficient_JJ algorithm_NN for_IN this_DT case_NN ._.
+One_CD appealing_JJ feature_NN of_IN the_DT proposed_VBN framework_NN is_VBZ that_IN it_PRP includes_VBZ several_JJ well-known_JJ algorithms_NNS as_IN special_JJ cases_NNS ,_, thus_RB elucidating_VBG their_PRP$ intrinsic_JJ relationships_NNS ._.
+We_PRP have_VBP conducted_VBN extensive_JJ experiments_NNS on_IN eleven_NNS multi-topic_JJ web_NN page_NN categorization_NN tasks_NNS ,_, and_CC results_NNS demonstrate_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN formulation_NN in_IN comparison_NN with_IN several_JJ representative_JJ algorithms_NNS ._.

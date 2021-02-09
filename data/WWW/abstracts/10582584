@@ -1,0 +1,7 @@
+Highlighting_VBG disputed_JJ claims_NNS on_IN the_DT web_NN
+We_PRP describe_VBP Dispute_NNP Finder_NNP ,_, a_DT browser_NN extension_NN that_WDT alerts_VBZ a_DT user_NN when_WRB information_NN they_PRP read_VBP online_NN is_VBZ disputed_VBN by_IN a_DT source_NN that_IN they_PRP might_MD trust_VB ._.
+Dispute_NNP Finder_NNP examines_VBZ the_DT text_NN on_IN the_DT page_NN that_IN the_DT user_NN is_VBZ browsing_VBG and_CC highlights_VBZ any_DT phrases_NNS that_WDT resemble_VBP known_JJ disputed_JJ claims_NNS ._.
+If_IN a_DT user_NN clicks_VBZ on_IN a_DT highlighted_VBN phrase_NN then_RB Dispute_NNP Finder_NNP shows_VBZ them_PRP a_DT list_NN of_IN articles_NNS that_WDT support_VBP other_JJ points_NNS of_IN view_NN ._.
+Dispute_NNP Finder_NNP builds_VBZ a_DT database_NN of_IN known_JJ disputed_JJ claims_NNS by_IN crawling_VBG web_NN sites_NNS that_WDT already_RB maintain_VBP lists_NNS of_IN disputed_JJ claims_NNS ,_, and_CC by_IN allowing_VBG users_NNS to_TO enter_VB claims_NNS that_IN they_PRP believe_VBP are_VBP disputed_VBN ._.
+Dispute_NNP Finder_NNP identifies_VBZ snippets_NNS that_WDT make_VBP known_JJ disputed_JJ claims_NNS by_IN running_VBG a_DT simple_JJ textual_JJ entailment_NN algorithm_NN inside_IN the_DT browser_NN extension_NN ,_, referring_VBG to_TO a_DT cached_JJ local_JJ copy_NN of_IN the_DT claim_NN database_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP explain_VBP the_DT design_NN of_IN Dispute_NNP Finder_NNP ,_, and_CC the_DT trade-offs_NNS between_IN the_DT various_JJ design_NN decisions_NNS that_IN we_PRP explored_VBD ._.

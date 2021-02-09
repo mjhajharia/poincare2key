@@ -1,0 +1,10 @@
+Learning_NNP to_TO rank_VB networked_JJ entities_NNS
+Several_JJ algorithms_NNS have_VBP been_VBN proposed_VBN to_TO learn_VB to_TO rank_VB entities_NNS modeled_VBN as_IN feature_NN vectors_NNS ,_, based_VBN on_IN relevance_NN feedback_NN ._.
+However_RB ,_, these_DT algorithms_NNS do_VBP not_RB model_VB network_NN connections_NNS or_CC relations_NNS between_IN entities_NNS ._.
+Meanwhile_RB ,_, Pagerank_NN and_CC variants_NNS find_VBP the_DT stationary_JJ distribution_NN of_IN a_DT reasonable_JJ but_CC arbitrary_JJ Markov_NNP walk_NN over_IN a_DT network_NN ,_, but_CC do_VBP not_RB learn_VB from_IN relevance_NN feedback_NN ._.
+We_PRP present_VBP a_DT framework_NN for_IN ranking_JJ networked_JJ entities_NNS based_VBN on_IN Markov_NNP walks_VBZ with_IN parameterized_JJ conductance_NN values_NNS associated_VBN with_IN the_DT network_NN edges_NNS ._.
+We_PRP propose_VBP two_CD flavors_NNS of_IN conductance_NN learning_NN problems_NNS in_IN our_PRP$ framework_NN ._.
+In_IN the_DT first_JJ setting_NN ,_, relevance_NN feedback_NN comparing_VBG node-pairs_JJ hints_NNS that_IN the_DT user_NN has_VBZ one_CD or_CC more_RBR hidden_JJ preferred_JJ communities_NNS with_IN large_JJ edge_NN conductance_NN ,_, and_CC the_DT algorithm_NN must_MD discover_VB these_DT communities_NNS ._.
+We_PRP present_VBP a_DT constrained_VBN maximum_NN entropy_NN network_NN flow_NN formulation_NN whose_WP$ dual_JJ can_MD be_VB solved_VBN efficiently_RB using_VBG a_DT cutting-plane_JJ approach_NN and_CC a_DT quasi-Newton_JJ optimizer_NN ._.
+In_IN the_DT second_JJ setting_NN ,_, edges_NNS have_VBP types_NNS ,_, and_CC relevance_NN feedback_NN hints_VBZ that_IN each_DT edge_NN type_NN has_VBZ a_DT potentially_RB different_JJ conductance_NN ,_, but_CC this_DT is_VBZ fixed_VBN across_IN the_DT whole_JJ network_NN ._.
+Our_PRP$ algorithm_NN learns_VBZ the_DT conductances_NNS using_VBG an_DT approximate_JJ Newton_NNP method_NN ._.

@@ -1,0 +1,8 @@
+Supervised_VBN probabilistic_JJ principal_JJ component_NN analysis_NN
+Principal_NN component_NN analysis_NN -LRB-_-LRB- PCA_NN -RRB-_-RRB- has_VBZ been_VBN extensively_RB applied_VBN in_IN data_NNS mining_NN ,_, pattern_NN recognition_NN and_CC information_NN retrieval_NN for_IN unsupervised_JJ dimensionality_NN reduction_NN ._.
+When_WRB labels_NNS of_IN data_NNS are_VBP available_JJ ,_, e.g._FW ,_, in_IN a_DT classification_NN or_CC regression_NN task_NN ,_, PCA_NN is_VBZ however_RB not_RB able_JJ to_TO use_VB this_DT information_NN ._.
+The_DT problem_NN is_VBZ more_RBR interesting_JJ if_IN only_JJ part_NN of_IN the_DT input_NN data_NNS are_VBP labeled_VBN ,_, i.e._FW ,_, in_IN a_DT semi-supervised_JJ setting_NN ._.
+In_IN this_DT paper_NN we_PRP propose_VBP a_DT supervised_JJ PCA_NN model_NN called_VBN SPPCA_NNP and_CC a_DT semi-supervised_JJ PCA_NN model_NN called_VBN S2PPCA_NNP ,_, both_DT of_IN which_WDT are_VBP extensions_NNS of_IN a_DT probabilistic_JJ PCA_NN model_NN ._.
+The_DT proposed_VBN models_NNS are_VBP able_JJ to_TO incorporate_VB the_DT label_NN information_NN into_IN the_DT projection_NN phase_NN ,_, and_CC can_MD naturally_RB handle_VB multiple_JJ outputs_NNS -LRB-_-LRB- i.e._FW ,_, in_IN multi-task_JJ learning_NN problems_NNS -RRB-_-RRB- ._.
+We_PRP derive_VBP an_DT efficient_JJ EM_NN learning_NN algorithm_NN for_IN both_DT models_NNS ,_, and_CC also_RB provide_VBP theoretical_JJ justifications_NNS of_IN the_DT model_NN behaviors_NNS ._.
+SPPCA_NN and_CC S2PPCA_NN are_VBP compared_VBN with_IN other_JJ supervised_JJ projection_NN methods_NNS on_IN various_JJ learning_VBG tasks_NNS ,_, and_CC show_VBP not_RB only_RB promising_JJ performance_NN but_CC also_RB good_JJ scalability_NN ._.

@@ -1,0 +1,9 @@
+Scalable_JJ discovery_NN of_IN hidden_JJ emails_NNS from_IN large_JJ folders_NNS
+The_DT popularity_NN of_IN email_NN has_VBZ triggered_VBN researchers_NNS to_TO look_VB for_IN ways_NNS to_TO help_VB users_NNS better_RBR organize_VB the_DT enormous_JJ amount_NN of_IN information_NN stored_VBN in_IN their_PRP$ email_NN folders_NNS ._.
+One_CD challenge_NN that_WDT has_VBZ not_RB been_VBN studied_VBN extensively_RB in_IN text_NN mining_NN is_VBZ the_DT identification_NN and_CC reconstruction_NN of_IN hidden_JJ emails_NNS ._.
+A_DT hidden_JJ email_NN is_VBZ an_DT original_JJ email_NN that_WDT has_VBZ been_VBN quoted_VBN in_IN at_IN least_JJS one_CD email_NN in_IN a_DT folder_NN ,_, but_CC does_VBZ not_RB present_VB itself_PRP in_IN the_DT same_JJ folder_NN ._.
+It_PRP may_MD have_VB been_VBN -LRB-_-LRB- un_NN -RRB-_-RRB- intentionally_RB deleted_VBN or_CC may_MD never_RB have_VB been_VBN received_VBN ._.
+The_DT discovery_NN and_CC reconstruction_NN of_IN hidden_JJ emails_NNS is_VBZ critical_JJ for_IN many_JJ applications_NNS including_VBG email_NN classification_NN ,_, summarization_NN and_CC forensics_NNS ._.
+This_DT paper_NN proposes_VBZ a_DT framework_NN for_IN reconstructing_VBG hidden_JJ emails_NNS using_VBG the_DT embedded_JJ quotations_NNS found_VBN in_IN messages_NNS further_RBR down_IN the_DT thread_NN hierarchy_NN ._.
+We_PRP evaluate_VBP the_DT robustness_NN and_CC scalability_NN of_IN our_PRP$ framework_NN by_IN using_VBG the_DT Enron_NNP public_JJ email_NN corpus_NN ._.
+Our_PRP$ experiments_NNS show_VBP that_IN hidden_JJ emails_NNS exist_VBP widely_RB in_IN that_DT corpus_NN and_CC also_RB that_IN our_PRP$ optimization_NN techniques_NNS are_VBP effective_JJ in_IN processing_VBG large_JJ email_NN folders_NNS ._.

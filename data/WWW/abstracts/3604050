@@ -1,0 +1,6 @@
+Duplicate_VB detection_NN in_IN click_VB streams_NNS
+We_PRP consider_VBP the_DT problem_NN of_IN finding_VBG duplicates_NNS in_IN data_NNS streams_NNS ._.
+Duplicate_VB detection_NN in_IN data_NNS streams_NNS is_VBZ utilized_VBN in_IN various_JJ applications_NNS including_VBG fraud_NN detection_NN ._.
+We_PRP develop_VBP a_DT solution_NN based_VBN on_IN Bloom_NNP Filters_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, and_CC discuss_VBP the_DT space_NN and_CC time_NN requirements_NNS for_IN running_VBG the_DT proposed_VBN algorithm_NN in_IN both_CC the_DT contexts_NNS of_IN sliding_VBG ,_, and_CC landmark_NN stream_NN windows_NNS ._.
+We_PRP run_VBP a_DT comprehensive_JJ set_NN of_IN experiments_NNS ,_, using_VBG both_CC real_JJ and_CC synthetic_JJ click_VBP streams_NNS ,_, to_TO evaluate_VB the_DT performance_NN of_IN the_DT proposed_VBN solution_NN ._.
+The_DT results_NNS demonstrate_VBP that_IN the_DT proposed_VBN solution_NN yields_NNS extremely_RB low_JJ error_NN rates_NNS ._.

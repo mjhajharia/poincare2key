@@ -1,0 +1,9 @@
+A_DT method_NN for_IN transparent_JJ admission_NN control_NN and_CC request_NN scheduling_NN in_IN e-commerce_NN web_NN sites_NNS
+This_DT paper_NN presents_VBZ a_DT method_NN for_IN admission_NN control_NN and_CC request_NN scheduling_NN for_IN multiply-tiered_JJ e-commerce_NN Web_NN sites_NNS ,_, achieving_VBG both_CC stable_JJ behavior_NN during_IN overload_NN and_CC improved_VBN response_NN times_NNS ._.
+Our_PRP$ method_NN externally_RB observes_VBZ execution_NN costs_NNS of_IN requests_NNS online_NN ,_, distinguishing_VBG different_JJ request_NN types_NNS ,_, and_CC performs_VBZ overload_NN protection_NN and_CC preferential_JJ scheduling_NN using_VBG relatively_RB simple_JJ measurements_NNS and_CC a_DT straight_JJ forward_JJ control_NN mechanism_NN ._.
+Unlike_IN previous_JJ proposals_NNS ,_, which_WDT require_VBP extensive_JJ changes_NNS to_TO the_DT server_NN or_CC operating_NN system_NN ,_, our_PRP$ method_NN requires_VBZ no_DT modifications_NNS to_TO the_DT host_NN O.S._NNP ,_, Web_NN server_NN ,_, application_NN server_NN or_CC database_NN ._.
+Since_IN our_PRP$ method_NN is_VBZ external_JJ ,_, it_PRP can_MD be_VB implemented_VBN in_IN a_DT proxy_NN ._.
+We_PRP present_VBP such_JJ an_DT implementation_NN ,_, called_VBN Gatekeeper_NNP ,_, using_VBG it_PRP with_IN standard_JJ software_NN components_NNS on_IN the_DT Linux_NNP operating_NN system_NN ._.
+We_PRP evaluate_VBP the_DT proxy_NN using_VBG the_DT industry_NN standard_JJ TPC-W_NN workload_NN generator_NN in_IN a_DT typical_JJ three-tiered_JJ e-commerce_NN environment_NN ._.
+We_PRP show_VBP consistent_JJ performance_NN during_IN overload_NN and_CC throughput_NN increases_NNS of_IN up_IN to_TO 10_CD percent_NN ._.
+Response_NN time_NN improves_VBZ by_IN up_IN to_TO a_DT factor_NN of_IN 14_CD ,_, with_IN only_RB a_DT 15_CD percent_NN penalty_NN to_TO large_JJ jobs_NNS ._.

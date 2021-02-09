@@ -1,0 +1,6 @@
+A_DT content_NN and_CC structure_NN website_NN mining_NN model_NN
+We_PRP present_VBP a_DT novel_JJ model_NN for_IN validating_VBG and_CC improving_VBG the_DT content_NN and_CC structure_NN organization_NN of_IN a_DT website_NN ._.
+This_DT model_NN studies_VBZ the_DT website_NN as_IN a_DT graph_NN and_CC evaluates_VBZ its_PRP$ interconnectivity_NN in_IN relation_NN to_TO the_DT similarity_NN of_IN its_PRP$ documents_NNS ._.
+The_DT aim_NN of_IN this_DT model_NN is_VBZ to_TO provide_VB a_DT simple_JJ way_NN for_IN improving_VBG the_DT overall_JJ structure_NN ,_, contents_NNS and_CC interconnectivity_NN of_IN a_DT website_NN ._.
+This_DT model_NN has_VBZ been_VBN implemented_VBN as_IN a_DT prototype_NN and_CC applied_VBN to_TO several_JJ websites_NNS ,_, showing_VBG very_RB interesting_JJ results_NNS ._.
+Our_PRP$ model_NN is_VBZ complementary_JJ to_TO other_JJ methods_NNS of_IN website_NN personalization_NN and_CC improvement_NN ._.

@@ -1,0 +1,8 @@
+Constructing_VBG folksonomies_NNS from_IN user-specified_JJ relations_NNS on_IN flickr_NN
+Automatic_NNP folksonomy_NN construction_NN from_IN tags_NNS has_VBZ attracted_VBN much_JJ attention_NN recently_RB ._.
+However_RB ,_, inferring_VBG hierarchical_JJ relations_NNS between_IN concepts_NNS from_IN tags_NNS has_VBZ a_DT drawback_NN in_IN that_IN it_PRP is_VBZ difficult_JJ to_TO distinguish_VB between_IN more_RBR popular_JJ and_CC more_RBR general_JJ concepts_NNS ._.
+Instead_RB of_IN tags_NNS we_PRP propose_VBP to_TO use_VB user-specified_JJ relations_NNS for_IN learning_VBG folksonomy_NN ._.
+We_PRP explore_VBP two_CD statistical_JJ frameworks_NNS for_IN aggregating_VBG many_JJ shallow_JJ individual_JJ hierarchies_NNS ,_, expressed_VBN through_IN the_DT collection\/set_NN relations_NNS on_IN the_DT social_JJ photosharing_NN site_NN Flickr_NNP ,_, into_IN a_DT common_JJ deeper_JJR folksonomy_NN that_WDT reflects_VBZ how_WRB a_DT community_NN organizes_VBZ knowledge_NN ._.
+Our_PRP$ approach_NN addresses_VBZ a_DT number_NN of_IN challenges_NNS that_WDT arise_VBP while_IN aggregating_VBG information_NN from_IN diverse_JJ users_NNS ,_, namely_RB noisy_JJ vocabulary_NN ,_, and_CC variations_NNS in_IN the_DT granularity_NN level_NN of_IN the_DT concepts_NNS expressed_VBN ._.
+Our_PRP$ second_JJ contribution_NN is_VBZ a_DT method_NN for_IN automatically_RB evaluating_VBG learned_VBN folksonomy_NN by_IN comparing_VBG it_PRP to_TO a_DT reference_NN taxonomy_NN ,_, e.g._FW ,_, the_DT Web_NN directory_NN created_VBN by_IN the_DT Open_NNP Directory_NNP Project_NNP ._.
+Our_PRP$ empirical_JJ results_NNS suggest_VBP that_IN user-specified_JJ relations_NNS are_VBP a_DT good_JJ source_NN of_IN evidence_NN for_IN learning_VBG folksonomies_NNS ._.

@@ -1,0 +1,14 @@
+Data_NN mining_NN with_IN sparse_JJ grids_NNS using_VBG simplicial_JJ basis_NN functions_NNS
+Recently_RB we_PRP presented_VBD a_DT new_JJ approach_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- to_TO the_DT classification_NN problem_NN arising_VBG in_IN data_NNS mining_NN ._.
+It_PRP is_VBZ based_VBN on_IN the_DT regularization_NN network_NN approach_NN but_CC ,_, in_IN contrast_NN to_TO other_JJ methods_NNS which_WDT employ_VBP ansatz_NN functions_NNS associated_VBN to_TO data_NNS points_NNS ,_, we_PRP use_VBP a_DT grid_NN in_IN the_DT usually_RB high-dimensional_JJ feature_NN space_NN for_IN the_DT minimization_NN process_NN ._.
+To_TO cope_VB with_IN the_DT curse_NN of_IN dimensionality_NN ,_, we_PRP employ_VBP sparse_JJ grids_NNS -LRB-_-LRB- 49_CD -RRB-_-RRB- ._.
+Thus_RB ,_, only_RB O_NN -LRB-_-LRB- hn-1nd-1_NN -RRB-_-RRB- instead_RB of_IN O_NN -LRB-_-LRB- hn-d_NN -RRB-_-RRB- grid_NN points_NNS and_CC unknowns_NNS are_VBP involved_VBN ._.
+Here_RB d_NN denotes_VBZ the_DT dimension_NN of_IN the_DT feature_NN space_NN and_CC hn_NN =_JJ 2-n_NN gives_VBZ the_DT mesh_NN size_NN ._.
+We_PRP use_VBP the_DT sparse_JJ grid_NN combination_NN technique_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- where_WRB the_DT classification_NN problem_NN is_VBZ discretized_VBN and_CC solved_VBN on_IN a_DT sequence_NN of_IN conventional_JJ grids_NNS with_IN uniform_JJ mesh_NN sizes_NNS in_IN each_DT dimension_NN ._.
+The_DT sparse_JJ grid_NN solution_NN is_VBZ then_RB obtained_VBN by_IN linear_JJ combination_NN ._.
+In_IN contrast_NN to_TO our_PRP$ former_JJ work_NN ,_, where_WRB d-linear_NN functions_NNS were_VBD used_VBN ,_, we_PRP now_RB apply_VBP linear_JJ basis_NN functions_NNS based_VBN on_IN a_DT simplicial_JJ discretization_NN ._.
+This_DT allows_VBZ to_TO handle_VB more_JJR dimensions_NNS and_CC the_DT algorithm_NN needs_VBZ less_JJR operations_NNS per_IN data_NN point_NN ._.
+We_PRP describe_VBP the_DT sparse_JJ grid_NN combination_NN technique_NN for_IN the_DT classification_NN problem_NN ,_, give_VBP implementational_JJ details_NNS and_CC discuss_VBP the_DT complexity_NN of_IN the_DT algorithm_NN ._.
+It_PRP turns_VBZ out_RP that_IN the_DT method_NN scales_NNS linearly_RB with_IN the_DT number_NN of_IN given_VBN data_NNS points_NNS ._.
+Finally_RB we_PRP report_VBP on_IN the_DT quality_NN of_IN the_DT classifier_NN built_VBN by_IN our_PRP$ new_JJ method_NN on_IN data_NNS sets_NNS with_IN up_IN to_TO 10_CD dimensions_NNS ._.
+It_PRP turns_VBZ out_RP that_IN our_PRP$ new_JJ method_NN achieves_VBZ correctness_NN rates_NNS which_WDT are_VBP competitive_JJ to_TO that_DT of_IN the_DT best_JJS existing_VBG methods_NNS ._.

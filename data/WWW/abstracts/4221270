@@ -1,0 +1,8 @@
+Finding_VBG advertising_NN keywords_NNS on_IN web_NN pages_NNS
+A_DT large_JJ and_CC growing_VBG number_NN of_IN web_NN pages_NNS display_VBP contextual_JJ advertising_NN based_VBN on_IN keywords_NNS automatically_RB extracted_VBN from_IN the_DT text_NN of_IN the_DT page_NN ,_, and_CC this_DT is_VBZ a_DT substantial_JJ source_NN of_IN revenue_NN supporting_VBG the_DT web_NN today_NN ._.
+Despite_IN the_DT importance_NN of_IN this_DT area_NN ,_, little_JJ formal_JJ ,_, published_VBN research_NN exists_VBZ ._.
+We_PRP describe_VBP a_DT system_NN that_WDT learns_VBZ how_WRB to_TO extract_VB keywords_NNS from_IN web_NN pages_NNS for_IN advertisement_NN targeting_NN ._.
+The_DT system_NN uses_VBZ a_DT number_NN of_IN features_NNS ,_, such_JJ as_IN term_NN frequency_NN of_IN each_DT potential_JJ keyword_JJ ,_, inverse_JJ document_NN frequency_NN ,_, presence_NN in_FW meta-data_FW ,_, and_CC how_WRB often_RB the_DT term_NN occurs_VBZ in_IN search_NN query_NN logs_NNS ._.
+The_DT system_NN is_VBZ trained_VBN with_IN a_DT set_NN of_IN example_NN pages_NNS that_WDT have_VBP been_VBN hand-labeled_JJ with_IN ``_`` relevant_JJ ''_'' keywords_NNS ._.
+Based_VBN on_IN this_DT training_NN ,_, it_PRP can_MD then_RB extract_VB new_JJ keywords_NNS from_IN previously_RB unseen_JJ pages_NNS ._.
+Accuracy_NN is_VBZ substantially_RB better_JJR than_IN several_JJ baseline_NN systems_NNS ._.

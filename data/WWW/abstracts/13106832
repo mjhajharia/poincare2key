@@ -1,0 +1,13 @@
+Piazza_NNP :_: data_NNS management_NN infrastructure_NN for_IN semantic_JJ web_NN applications_NNS
+The_DT Semantic_JJ Web_NN envisions_VBZ a_DT World_NNP Wide_NN Web_NN in_IN which_WDT data_NN is_VBZ described_VBN with_IN rich_JJ semantics_NNS and_CC applications_NNS can_MD pose_VB complex_JJ queries_NNS ._.
+To_TO this_DT point_NN ,_, researchers_NNS have_VBP defined_VBN new_JJ languages_NNS for_IN specifying_VBG meanings_NNS for_IN concepts_NNS and_CC developed_VBD techniques_NNS for_IN reasoning_NN about_IN them_PRP ,_, using_VBG RDF_NNP as_IN the_DT data_NNS model_NN ._.
+To_TO flourish_VB ,_, the_DT Semantic_JJ Web_NN needs_VBZ to_TO be_VB able_JJ to_TO accommodate_VB the_DT huge_JJ amounts_NNS of_IN existing_VBG data_NNS and_CC the_DT applications_NNS operating_VBG on_IN them_PRP ._.
+To_TO achieve_VB this_DT ,_, we_PRP are_VBP faced_VBN with_IN two_CD problems_NNS ._.
+First_RB ,_, most_JJS of_IN the_DT world_NN 's_POS data_NNS is_VBZ available_JJ not_RB in_IN RDF_NNP but_CC in_IN XML_NN ;_: XML_NN and_CC the_DT applications_NNS consuming_VBG it_PRP rely_VB not_RB only_RB on_IN the_DT domain_NN structure_NN of_IN the_DT data_NNS ,_, but_CC also_RB on_IN its_PRP$ document_NN structure_NN ._.
+Hence_RB ,_, to_TO provide_VB interoperability_NN between_IN such_JJ sources_NNS ,_, we_PRP must_MD map_VB between_IN both_DT their_PRP$ domain_NN structures_NNS and_CC their_PRP$ document_NN structures_NNS ._.
+Second_JJ ,_, data_NN management_NN practitioners_NNS often_RB prefer_VBP to_TO exchange_NN data_NNS through_IN local_JJ point-to-point_JJ data_NNS translations_NNS ,_, rather_RB than_IN mapping_NN to_TO common_JJ mediated_JJ schemas_NNS or_CC ontologies_NNS ._.
+This_DT paper_NN describes_VBZ the_DT Piazza_NNP system_NN ,_, which_WDT addresses_VBZ these_DT challenges_NNS ._.
+Piazza_NNP offers_VBZ a_DT language_NN for_IN mediating_VBG between_IN data_NNS sources_NNS on_IN the_DT Semantic_JJ Web_NN ,_, which_WDT maps_VBZ both_CC the_DT domain_NN structure_NN and_CC document_NN structure_NN ._.
+Piazza_NNP also_RB enables_VBZ interoperation_NN of_IN XML_NN data_NNS with_IN RDF_NN data_NNS that_WDT is_VBZ accompanied_VBN by_IN rich_JJ OWL_NN ontologies_NNS ._.
+Mappings_NNS in_IN Piazza_NNP are_VBP provided_VBN at_IN a_DT local_JJ scale_NN between_IN small_JJ sets_NNS of_IN nodes_NNS ,_, and_CC our_PRP$ query_NN answering_VBG algorithm_NN is_VBZ able_JJ to_TO chain_NN sets_VBZ mappings_NNS together_RB to_TO obtain_VB relevant_JJ data_NNS from_IN across_IN the_DT Piazza_NNP network_NN ._.
+We_PRP also_RB describe_VBP an_DT implemented_VBN scenario_NN in_IN Piazza_NNP and_CC the_DT lessons_NNS we_PRP learned_VBD from_IN it_PRP ._.

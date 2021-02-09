@@ -1,0 +1,5 @@
+Determining_VBG user_NN interests_NNS about_IN museum_NN collections_NNS
+Currently_RB ,_, there_EX is_VBZ an_DT increasing_VBG effort_NN to_TO provide_VB various_JJ personalized_JJ services_NNS on_IN museum_NN web_NN sites_NNS ._.
+This_DT paper_NN presents_VBZ an_DT approach_NN for_IN determining_VBG user_NN interests_NNS in_IN a_DT museum_NN collection_NN with_IN the_DT help_NN of_IN an_DT interactive_JJ dialog_NN ._.
+It_PRP uses_VBZ a_DT semantically_RB annotated_JJ collection_NN of_IN the_DT Rijksmuseum_NNP Amsterdam_NNP to_TO elicit_VB specific_JJ user_NN 's_POS interests_NNS in_IN artists_NNS ,_, periods_NNS ,_, genres_NNS and_CC themes_NNS and_CC uses_VBZ these_DT values_NNS to_TO recommend_VB relevant_JJ artefacts_NNS and_CC related_JJ concepts_NNS from_IN the_DT museum_NN collection_NN ._.
+In_IN the_DT presented_VBN prototype_NN ,_, we_PRP show_VBP how_WRB constructing_VBG a_DT user_NN profile_NN and_CC applying_VBG recommender_NN strategies_NNS in_IN this_DT way_NN enable_VB dynamical_JJ generation_NN personalized_JJ museum_NN tours_NNS for_IN different_JJ users_NNS ._.

@@ -1,0 +1,10 @@
+Joint_JJ latent_JJ topic_NN models_NNS for_IN text_NN and_CC citations_NNS
+In_IN this_DT work_NN ,_, we_PRP address_VBP the_DT problem_NN of_IN joint_JJ modeling_NN of_IN text_NN and_CC citations_NNS in_IN the_DT topic_NN modeling_NN framework_NN ._.
+We_PRP present_VBP two_CD different_JJ models_NNS called_VBN the_DT Pairwise-Link-LDA_NN and_CC the_DT Link-PLSA-LDA_JJ models_NNS ._.
+The_DT Pairwise-Link-LDA_NN model_NN combines_VBZ the_DT ideas_NNS of_IN LDA_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC Mixed_JJ Membership_NN Block_NNP Stochastic_NNP Models_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- and_CC allows_VBZ modeling_NN arbitrary_JJ link_NN structure_NN ._.
+However_RB ,_, the_DT model_NN is_VBZ computationally_RB expensive_JJ ,_, since_IN it_PRP involves_VBZ modeling_NN the_DT presence_NN or_CC absence_NN of_IN a_DT citation_NN -LRB-_-LRB- link_NN -RRB-_-RRB- between_IN every_DT pair_NN of_IN documents_NNS ._.
+The_DT second_JJ model_NN solves_VBZ this_DT problem_NN by_IN assuming_VBG that_IN the_DT link_NN structure_NN is_VBZ a_DT bipartite_JJ graph_NN ._.
+As_IN the_DT name_NN indicates_VBZ ,_, Link-PLSA-LDA_JJ model_NN combines_VBZ the_DT LDA_NNP and_CC PLSA_NNP models_NNS into_IN a_DT single_JJ graphical_JJ model_NN ._.
+Our_PRP$ experiments_NNS on_IN a_DT subset_NN of_IN Citeseer_NNP data_NNS show_VBP that_IN both_DT these_DT models_NNS are_VBP able_JJ to_TO predict_VB unseen_JJ data_NNS better_JJR than_IN the_DT baseline_NN model_NN of_IN Erosheva_NNP and_CC Lafferty_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, by_IN capturing_VBG the_DT notion_NN of_IN topical_JJ similarity_NN between_IN the_DT contents_NNS of_IN the_DT cited_VBN and_CC citing_VBG documents_NNS ._.
+Our_PRP$ experiments_NNS on_IN two_CD different_JJ data_NNS sets_NNS on_IN the_DT link_NN prediction_NN task_NN show_VBP that_IN the_DT Link-PLSA-LDA_JJ model_NN performs_VBZ the_DT best_JJS on_IN the_DT citation_NN prediction_NN task_NN ,_, while_IN also_RB remaining_VBG highly_RB scalable_JJ ._.
+In_IN addition_NN ,_, we_PRP also_RB present_VBP some_DT interesting_JJ visualizations_NNS generated_VBN by_IN each_DT of_IN the_DT models_NNS ._.

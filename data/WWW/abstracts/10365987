@@ -1,0 +1,9 @@
+Homepage_NNP live_VB :_: automatic_JJ block_NN tracing_VBG for_IN web_NN personalization_NN
+The_DT emergence_NN of_IN personalized_JJ homepage_NN services_NNS ,_, e.g._FW personalized_VBD Google_NNP Homepage_NNP and_CC Microsoft_NNP Windows_NNP Live_NNP ,_, has_VBZ enabled_VBN Web_NN users_NNS to_TO select_VB Web_NN contents_NNS of_IN interest_NN and_CC to_TO aggregate_JJ them_PRP in_IN a_DT single_JJ Web_NN page_NN ._.
+The_DT web_NN contents_NNS are_VBP often_RB predefined_VBN content_NN blocks_NNS provided_VBN by_IN the_DT service_NN providers_NNS ._.
+However_RB ,_, it_PRP involves_VBZ intensive_JJ manual_JJ efforts_NNS to_TO define_VB the_DT content_NN blocks_NNS and_CC maintain_VB the_DT information_NN in_IN it_PRP ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ personalized_JJ homepage_NN system_NN ,_, called_VBN ._.
+Homepage_NNP Live._NNP ,_, to_TO allow_VB end_NN users_NNS to_TO use_VB drag-and-drop_JJ actions_NNS to_TO collect_VB their_PRP$ favorite_JJ Web_NN content_NN blocks_VBZ from_IN existing_VBG Web_NN pages_NNS and_CC organize_VB them_PRP in_IN a_DT single_JJ page_NN ._.
+Moreover_RB ,_, Homepage_NNP Live_NNP automatically_RB traces_NNS the_DT changes_NNS of_IN blocks_NNS with_IN the_DT evolvement_NN of_IN the_DT container_NN pages_NNS by_IN measuring_VBG the_DT tree_NN edit_NN distance_NN of_IN the_DT selected_VBN blocks_NNS ._.
+By_IN exploiting_VBG the_DT immutable_JJ elements_NNS of_IN Web_NN pages_NNS ,_, the_DT tracing_VBG algorithm_NN performance_NN is_VBZ significantly_RB improved_VBN ._.
+The_DT experimental_JJ results_NNS demonstrate_VBP the_DT effectiveness_NN and_CC efficiency_NN of_IN our_PRP$ algorithm_NN ._.

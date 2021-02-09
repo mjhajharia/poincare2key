@@ -1,0 +1,11 @@
+Randomization_NN tests_NNS for_IN distinguishing_VBG social_JJ influence_NN and_CC homophily_JJ effects_NNS
+Relational_JJ autocorrelation_NN is_VBZ ubiquitous_JJ in_IN relational_JJ domains_NNS ._.
+This_DT observed_VBN correlation_NN between_IN class_NN labels_NNS of_IN linked_VBN instances_NNS in_IN a_DT network_NN -LRB-_-LRB- e.g._FW ,_, two_CD friends_NNS are_VBP more_RBR likely_JJ to_TO share_VB political_JJ beliefs_NNS than_IN two_CD randomly_RB selected_VBN people_NNS -RRB-_-RRB- can_MD be_VB due_JJ to_TO the_DT effects_NNS of_IN two_CD different_JJ social_JJ processes_NNS ._.
+If_IN social_JJ influence_NN effects_NNS are_VBP present_JJ ,_, instances_NNS are_VBP likely_JJ to_TO change_VB their_PRP$ attributes_NNS to_TO conform_VB to_TO their_PRP$ neighbor_NN values_NNS ._.
+If_IN homophily_JJ effects_NNS are_VBP present_JJ ,_, instances_NNS are_VBP likely_JJ to_TO link_VB to_TO other_JJ individuals_NNS with_IN similar_JJ attribute_NN values_NNS ._.
+Both_DT these_DT effects_NNS will_MD result_VB in_IN autocorrelated_JJ attribute_NN values_NNS ._.
+When_WRB analyzing_VBG static_JJ relational_JJ networks_NNS it_PRP is_VBZ impossible_JJ to_TO determine_VB how_WRB much_JJ of_IN the_DT observed_VBN correlation_NN is_VBZ due_JJ each_DT of_IN these_DT factors_NNS ._.
+However_RB ,_, the_DT recent_JJ surge_NN of_IN interest_NN in_IN social_JJ networks_NNS has_VBZ increased_VBN the_DT availability_NN of_IN dynamic_JJ network_NN data_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT randomization_NN technique_NN for_IN temporal_JJ network_NN data_NNS where_WRB the_DT attributes_NNS and_CC links_NNS change_VBP over_IN time_NN ._.
+Given_VBN data_NNS from_IN two_CD time_NN steps_NNS ,_, we_PRP measure_VBP the_DT gain_NN in_IN correlation_NN and_CC assess_VB whether_IN a_DT significant_JJ portion_NN of_IN this_DT gain_NN is_VBZ due_JJ to_TO influence_NN and\/or_CC homophily_NN ._.
+We_PRP demonstrate_VBP the_DT efficacy_NN of_IN our_PRP$ method_NN on_IN semi-synthetic_JJ data_NNS and_CC then_RB apply_VB the_DT method_NN to_TO a_DT real-world_JJ social_JJ networks_NNS dataset_NN ,_, showing_VBG the_DT impact_NN of_IN both_CC influence_NN and_CC homophily_JJ effects_NNS ._.

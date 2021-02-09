@@ -1,0 +1,9 @@
+Recommendations_NNS for_IN the_DT long_JJ tail_NN by_IN term-query_JJ graph_NN
+We_PRP define_VBP a_DT new_JJ approach_NN to_TO the_DT query_JJ recommendation_NN problem_NN ._.
+In_IN particular_JJ ,_, our_PRP$ main_JJ goal_NN is_VBZ to_TO design_VB a_DT model_NN enabling_VBG the_DT generation_NN of_IN query_NN suggestions_NNS also_RB for_IN rare_JJ and_CC previously_RB unseen_JJ queries_NNS ._.
+In_IN other_JJ words_NNS we_PRP are_VBP targeting_VBG queries_NNS in_IN the_DT long_JJ tail_NN ._.
+The_DT model_NN is_VBZ based_VBN on_IN a_DT graph_NN having_VBG two_CD sets_NNS of_IN nodes_NNS :_: Term_NN nodes_NNS ,_, and_CC Query_NNP nodes_NNS ._.
+The_DT graph_NN induces_VBZ a_DT Markov_NNP chain_NN on_IN which_WDT a_DT generic_JJ random_JJ walker_NN starts_VBZ from_IN a_DT subset_NN of_IN Term_NN nodes_NNS ,_, moves_NNS along_IN Query_NNP nodes_NNS ,_, and_CC restarts_NNS -LRB-_-LRB- with_IN a_DT given_VBN probability_NN -RRB-_-RRB- only_RB from_IN the_DT same_JJ initial_JJ subset_NN of_IN Term_NN nodes_NNS ._.
+Computing_NNP the_DT stationary_JJ distribution_NN of_IN such_PDT a_DT Markov_NNP chain_NN is_VBZ equivalent_JJ to_TO extracting_VBG the_DT so-called_JJ Center-piece_JJ Subgraph_NN from_IN the_DT graph_NN associated_VBN with_IN the_DT Markov_NNP chain_NN itself_PRP ._.
+Given_VBN a_DT query_NN ,_, we_PRP extract_VBP its_PRP$ terms_NNS and_CC we_PRP set_VBD the_DT restart_VB subset_NN to_TO this_DT term_NN set_NN ._.
+Therefore_RB ,_, we_PRP do_VBP not_RB require_VB a_DT query_NN to_TO have_VB been_VBN previously_RB observed_VBN for_IN the_DT recommending_VBG model_NN to_TO be_VB able_JJ to_TO generate_VB suggestions_NNS ._.

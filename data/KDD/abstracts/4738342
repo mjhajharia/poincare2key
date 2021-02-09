@@ -1,0 +1,7 @@
+Quantifying_VBG trends_NNS accurately_RB despite_IN classifier_NN error_NN and_CC class_NN imbalance_NN
+This_DT paper_NN promotes_VBZ a_DT new_JJ task_NN for_IN supervised_JJ machine_NN learning_NN research_NN :_: quantification_NN -_: the_DT pursuit_NN of_IN learning_VBG methods_NNS for_IN accurately_RB estimating_VBG the_DT class_NN distribution_NN of_IN a_DT test_NN set_NN ,_, with_IN no_DT concern_NN for_IN predictions_NNS on_IN individual_JJ cases_NNS ._.
+A_DT variant_NN for_IN cost_NN quantification_NN addresses_VBZ the_DT need_NN to_TO total_VB up_RP costs_NNS according_VBG to_TO categories_NNS predicted_VBN by_IN imperfect_JJ classifiers_NNS ._.
+These_DT tasks_NNS cover_VBP a_DT large_JJ and_CC important_JJ family_NN of_IN applications_NNS that_IN measure_NN trends_NNS over_IN time_NN ._.
+The_DT paper_NN establishes_VBZ a_DT research_NN methodology_NN ,_, and_CC uses_VBZ it_PRP to_TO evaluate_VB several_JJ proposed_VBN methods_NNS that_WDT involve_VBP selecting_VBG the_DT classification_NN threshold_NN in_IN a_DT way_NN that_WDT would_MD spoil_VB the_DT accuracy_NN of_IN individual_JJ classifications_NNS ._.
+In_IN empirical_JJ tests_NNS ,_, Median_JJ Sweep_NN methods_NNS show_VBP outstanding_JJ ability_NN to_TO estimate_VB the_DT class_NN distribution_NN ,_, despite_IN wide_JJ disparity_NN in_IN testing_NN and_CC training_NN conditions_NNS ._.
+The_DT paper_NN addresses_NNS shifting_VBG class_NN priors_NNS and_CC costs_NNS ,_, but_CC not_RB concept_NN drift_NN in_IN general_JJ ._.

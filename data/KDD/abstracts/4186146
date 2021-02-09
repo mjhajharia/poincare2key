@@ -1,0 +1,11 @@
+Scalable_JJ mining_NN of_IN large_JJ disk-based_JJ graph_NN databases_NNS
+Mining_NN frequent_JJ structural_JJ patterns_NNS from_IN graph_NN databases_NNS is_VBZ an_DT interesting_JJ problem_NN with_IN broad_JJ applications_NNS ._.
+Most_JJS of_IN the_DT previous_JJ studies_NNS focus_VBP on_IN pruning_NN unfruitful_JJ search_NN subspaces_NNS effectively_RB ,_, but_CC few_JJ of_IN them_PRP address_VBP the_DT mining_NN on_IN large_JJ ,_, disk-based_JJ databases_NNS ._.
+As_IN many_JJ graph_NN databases_NNS in_IN applications_NNS can_MD not_RB be_VB held_VBN into_IN main_JJ memory_NN ,_, scalable_JJ mining_NN of_IN large_JJ ,_, disk-based_JJ graph_NN databases_NNS remains_VBZ a_DT challenging_JJ problem_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP develop_VBP an_DT effective_JJ index_NN structure_NN ,_, ADI_NN -LRB-_-LRB- for_IN -LRB-_-LRB- u_NN -RRB-_-RRB- ad_NN -LRB-_-LRB- \/_: u_NN -RRB-_-RRB- jacency_NN -LRB-_-LRB- u_NN -RRB-_-RRB- i_LS -LRB-_-LRB- \/_: u_NN -RRB-_-RRB- ndex_NN -RRB-_-RRB- ,_, to_TO support_VB mining_NN various_JJ graph_NN patterns_NNS over_IN large_JJ databases_NNS that_WDT can_MD not_RB be_VB held_VBN into_IN main_JJ memory_NN ._.
+The_DT index_NN is_VBZ simple_JJ and_CC efficient_JJ to_TO build_VB ._.
+Moreover_RB ,_, the_DT new_JJ index_NN structure_NN can_MD be_VB easily_RB adopted_VBN in_IN various_JJ existing_VBG graph_NN pattern_NN mining_NN algorithms_NNS ._.
+As_IN an_DT example_NN ,_, we_PRP adapt_VBP the_DT well-known_JJ gSpan_NN algorithm_NN by_IN using_VBG the_DT ADI_NNP structure_NN ._.
+The_DT experimental_JJ results_NNS show_VBP that_IN the_DT new_JJ index_NN structure_NN enables_VBZ the_DT scalable_JJ graph_NN pattern_NN mining_NN over_IN large_JJ databases_NNS ._.
+In_IN one_CD set_NN of_IN the_DT experiments_NNS ,_, the_DT new_JJ disk-based_JJ method_NN can_MD mine_VB graph_NN databases_NNS with_IN one_CD million_CD graphs_NNS ,_, while_IN the_DT original_JJ gSpan_NN algorithm_NN can_MD only_RB handle_VB databases_NNS of_IN up_IN to_TO 300_CD thousand_CD graphs_NNS ._.
+Moreover_RB ,_, our_PRP$ new_JJ method_NN is_VBZ faster_RBR than_IN gSpan_NN when_WRB both_DT can_MD run_VB in_IN main_JJ memory_NN ._.

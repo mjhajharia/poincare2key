@@ -1,0 +1,9 @@
+Design_NN and_CC implementation_NN of_IN contextual_JJ information_NN portals_NNS
+This_DT paper_NN presents_VBZ a_DT system_NN for_IN enabling_VBG offline_JJ web_NN use_NN to_TO satisfy_VB the_DT information_NN needs_NNS of_IN disconnected_VBN communities_NNS ._.
+We_PRP describe_VBP the_DT design_NN ,_, implementation_NN ,_, evaluation_NN ,_, and_CC pilot_NN deployment_NN of_IN an_DT automated_JJ mechanism_NN to_TO construct_VB Contextual_JJ Information_NN Portals_NNS -LRB-_-LRB- CIPs_NNS -RRB-_-RRB- ._.
+CIPs_NNS are_VBP large_JJ searchable_JJ information_NN repositories_NNS of_IN web_NN pages_NNS tailored_VBN to_TO the_DT information_NN needs_NNS of_IN a_DT target_NN population_NN ._.
+We_PRP combine_VBP an_DT efficient_JJ classifier_NN with_IN a_DT focused_JJ crawler_NN to_TO gather_VB the_DT web_NN pages_NNS for_IN the_DT portal_NN for_IN any_DT given_VBN topic_NN ._.
+Given_VBN a_DT set_NN of_IN topics_NNS of_IN interest_NN ,_, our_PRP$ system_NN constructs_NNS a_DT CIP_NN containing_VBG the_DT most_RBS relevant_JJ pages_NNS from_IN the_DT web_NN across_IN these_DT topics_NNS ._.
+Using_VBG several_JJ secondary_JJ school_NN course_NN syllabi_NNS ,_, we_PRP demonstrate_VBP the_DT effectiveness_NN of_IN our_PRP$ system_NN for_IN constructing_VBG CIPs_NNS for_IN use_NN as_IN an_DT education_NN resource_NN ._.
+We_PRP evaluate_VBP our_PRP$ system_NN across_IN several_JJ metrics_NNS :_: classification_NN accuracy_NN ,_, crawl_NN scalability_NN ,_, crawl_NN accuracy_NN and_CC harvest_NN rate_NN ._.
+We_PRP describe_VBP the_DT utility_NN and_CC usability_NN of_IN our_PRP$ system_NN based_VBN on_IN a_DT preliminary_JJ deployment_NN study_NN at_IN an_DT after-school_JJ program_NN in_IN India_NNP ,_, and_CC also_RB outline_VB our_PRP$ ongoing_JJ larger-scale_JJ pilot_NN deployment_NN at_IN five_CD schools_NNS in_IN Kenya_NNP ._.

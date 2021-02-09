@@ -1,0 +1,8 @@
+Representing_VBG personal_JJ web_NN information_NN using_VBG a_DT topic-oriented_JJ interface_NN
+Nowadays_RB ,_, Web_NN activities_NNS have_VBP become_VBN daily_JJ practice_NN for_IN people_NNS ._.
+It_PRP is_VBZ therefore_RB essential_JJ to_TO organize_VB and_CC present_VB this_DT continuously_RB increasing_VBG Web_NN information_NN in_IN a_DT more_RBR usable_JJ manner_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP developed_VBD a_DT novel_JJ approach_NN to_TO reorganize_VB personal_JJ Web_NN information_NN as_IN a_DT topic-oriented_JJ interface_NN ._.
+In_IN our_PRP$ approach_NN ,_, we_PRP proposed_VBD to_TO utilize_VB anchor_NN ,_, title_NN and_CC URL_NN information_NN to_TO represent_VB content_JJ information_NN for_IN the_DT browsed_VBN Web_NN pages_NNS rather_RB than_IN the_DT content_NN body_NN ._.
+Furthermore_RB ,_, we_PRP explored_VBD three_CD methods_NNS to_TO organize_VB personal_JJ Web_NN information_NN :_: 1_LS -RRB-_-RRB- top-down_JJ statistical_JJ clustering_NN ;_: 2_LS -RRB-_-RRB- salience_NN phrase_NN based_JJ clustering_NN ;_: and_CC 3_LS -RRB-_-RRB- support_NN vector_NN machine_NN -LRB-_-LRB- SVM_NN -RRB-_-RRB- based_JJ classification_NN ._.
+Finally_RB ,_, we_PRP conducted_VBD a_DT usability_NN study_NN to_TO verify_VB the_DT effectiveness_NN of_IN our_PRP$ proposed_VBN solution_NN ._.
+The_DT experimental_JJ results_NNS demonstrated_VBD that_IN users_NNS could_MD visit_VB the_DT pages_NNS that_WDT have_VBP been_VBN browsed_VBN previously_RB more_RBR easily_RB with_IN our_PRP$ approach_NN than_IN existing_VBG solutions_NNS ._.

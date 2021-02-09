@@ -1,0 +1,6 @@
+Unifying_JJ dependent_JJ clustering_NN and_CC disparate_JJ clustering_NN for_IN non-homogeneous_JJ data_NNS
+Modern_NNP data_NNS mining_NN settings_NNS involve_VBP a_DT combination_NN of_IN attribute-valued_JJ descriptors_NNS over_IN entities_NNS as_RB well_RB as_IN specified_VBN relationships_NNS between_IN these_DT entities_NNS ._.
+We_PRP present_VBP an_DT approach_NN to_TO cluster_VB such_JJ non-homogeneous_JJ datasets_NNS by_IN using_VBG the_DT relationships_NNS to_TO impose_VB either_CC dependent_JJ clustering_NN or_CC disparate_JJ clustering_NN constraints_NNS ._.
+Unlike_IN prior_JJ work_NN that_WDT views_VBZ constraints_NNS as_IN boolean_JJ criteria_NNS ,_, we_PRP present_VBP a_DT formulation_NN that_WDT allows_VBZ constraints_NNS to_TO be_VB satisfied_VBN or_CC violated_VBN in_IN a_DT smooth_JJ manner_NN ._.
+This_DT enables_VBZ us_PRP to_TO achieve_VB dependent_JJ clustering_NN and_CC disparate_JJ clustering_NN using_VBG the_DT same_JJ optimization_NN framework_NN by_IN merely_RB maximizing_VBG versus_CC minimizing_VBG the_DT objective_JJ function_NN ._.
+We_PRP present_VBP results_NNS on_IN both_CC synthetic_JJ data_NNS as_RB well_RB as_IN several_JJ real-world_JJ datasets_NNS ._.

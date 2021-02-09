@@ -1,0 +1,8 @@
+New_NNP EM_NNP derived_VBN from_IN Kullback-Leibler_NN divergence_NN
+We_PRP introduce_VBP a_DT new_JJ EM_NNP framework_NN in_IN which_WDT it_PRP is_VBZ possible_JJ not_RB only_RB to_TO optimize_VB the_DT model_NN parameters_NNS but_CC also_RB the_DT number_NN of_IN model_NN components_NNS ._.
+A_DT key_JJ feature_NN of_IN our_PRP$ approach_NN is_VBZ that_IN we_PRP use_VBP nonparametric_JJ density_NN estimation_NN to_TO improve_VB parametric_JJ density_NN estimation_NN in_IN the_DT EM_NN framework_NN ._.
+While_IN the_DT classical_JJ EM_NN algorithm_NN estimates_VBZ model_NN parameters_NNS empirically_RB using_VBG the_DT data_NNS points_NNS themselves_PRP ,_, we_PRP estimate_VBP them_PRP using_VBG nonparametric_JJ density_NN estimates_NNS ._.
+There_EX exist_VBP many_JJ possible_JJ applications_NNS that_WDT require_VBP optimal_JJ adjustment_NN of_IN model_NN components_NNS ._.
+We_PRP present_VBP experimental_JJ results_NNS in_IN two_CD domains_NNS ._.
+One_CD is_VBZ polygonal_JJ approximation_NN of_IN laser_NN range_NN data_NNS ,_, which_WDT is_VBZ an_DT active_JJ research_NN topic_NN in_IN robot_NN navigation_NN ._.
+The_DT other_JJ is_VBZ grouping_VBG of_IN edge_NN pixels_NNS to_TO contour_VB boundaries_NNS ,_, which_WDT still_RB belongs_VBZ to_TO unsolved_JJ problems_NNS in_IN computer_NN vision_NN ._.

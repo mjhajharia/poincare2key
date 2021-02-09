@@ -1,0 +1,7 @@
+Sequential_JJ PAttern_NN mining_NN using_VBG a_DT bitmap_NN representation_NN
+We_PRP introduce_VBP a_DT new_JJ algorithm_NN for_IN mining_NN sequential_JJ patterns_NNS ._.
+Our_PRP$ algorithm_NN is_VBZ especially_RB efficient_JJ when_WRB the_DT sequential_JJ patterns_NNS in_IN the_DT database_NN are_VBP very_RB long_JJ ._.
+We_PRP introduce_VBP a_DT novel_JJ depth-first_JJ search_NN strategy_NN that_WDT integrates_VBZ a_DT depth-first_JJ traversal_NN of_IN the_DT search_NN space_NN with_IN effective_JJ pruning_NN mechanisms_NNS ._.
+Our_PRP$ implementation_NN of_IN the_DT search_NN strategy_NN combines_VBZ a_DT vertical_JJ bitmap_NN representation_NN of_IN the_DT database_NN with_IN efficient_JJ support_NN counting_NN ._.
+A_DT salient_JJ feature_NN of_IN our_PRP$ algorithm_NN is_VBZ that_IN it_PRP incrementally_RB outputs_VBZ new_JJ frequent_JJ itemsets_NNS in_IN an_DT online_JJ fashion_NN ._.
+In_IN a_DT thorough_JJ experimental_JJ evaluation_NN of_IN our_PRP$ algorithm_NN on_IN standard_JJ benchmark_NN data_NNS from_IN the_DT literature_NN ,_, our_PRP$ algorithm_NN outperforms_VBZ previous_JJ work_NN up_IN to_TO an_DT order_NN of_IN magnitude_NN ._.

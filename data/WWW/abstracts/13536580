@@ -1,0 +1,7 @@
+Nearest-neighbor_JJ caching_NN for_IN content-match_JJ applications_NNS
+Motivated_VBN by_IN contextual_JJ advertising_NN systems_NNS and_CC other_JJ web_NN applications_NNS involving_VBG efficiency-accuracy_NN tradeoffs_NNS ,_, we_PRP study_VBD similarity_NN caching_NN ._.
+Here_RB ,_, a_DT cache_NN hit_NN is_VBZ said_VBN to_TO occur_VB if_IN the_DT requested_VBN item_NN is_VBZ similar_JJ but_CC not_RB necessarily_RB equal_JJ to_TO some_DT cached_VBN item_NN ._.
+We_PRP study_VBD two_CD objectives_NNS that_WDT dictate_VBP the_DT efficiency-accuracy_NN tradeoff_NN and_CC provide_VB our_PRP$ caching_VBG policies_NNS for_IN these_DT objectives_NNS ._.
+By_IN conducting_VBG extensive_JJ experiments_NNS on_IN real_JJ data_NNS we_PRP show_VBP similarity_NN caching_NN can_MD significantly_RB improve_VB the_DT efficiency_NN of_IN contextual_JJ advertising_NN systems_NNS ,_, with_IN minimal_JJ impact_NN on_IN accuracy_NN ._.
+Inspired_VBN by_IN the_DT above_JJ ,_, we_PRP propose_VBP a_DT simple_JJ generative_JJ model_NN that_WDT embodies_VBZ two_CD fundamental_JJ characteristics_NNS of_IN page_NN requests_NNS arriving_VBG to_TO advertising_NN systems_NNS ,_, namely_RB ,_, long-range_JJ dependences_NNS and_CC similarities_NNS ._.
+We_PRP provide_VBP theoretical_JJ bounds_NNS on_IN the_DT gains_NNS of_IN similarity_NN caching_NN in_IN this_DT model_NN and_CC demonstrate_VBP these_DT gains_NNS empirically_RB by_IN fitting_NN the_DT actual_JJ data_NNS to_TO the_DT model_NN ._.

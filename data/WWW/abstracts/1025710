@@ -1,0 +1,8 @@
+Making_VBG RDF_NN presentable_JJ :_: integrated_VBN global_JJ and_CC local_JJ semantic_JJ Web_NN browsing_VBG
+This_DT paper_NN discusses_VBZ generating_VBG document_NN structure_NN from_IN annotated_JJ media_NNS repositories_NNS in_IN a_DT domain-independent_JJ manner_NN ._.
+This_DT approaches_VBZ the_DT vision_NN of_IN a_DT universal_JJ RDF_NN browser_NN ._.
+We_PRP start_VBP by_IN applying_VBG the_DT search-and-browse_JJ paradigm_NN established_VBN for_IN the_DT WWW_NNP to_TO RDF_NNP presentation_NN ._.
+Furthermore_RB ,_, this_DT paper_NN adds_VBZ to_TO this_DT paradigm_NN the_DT clustering-based_JJ derivation_NN of_IN document_NN structure_NN from_IN search_NN returns_NNS ,_, providing_VBG simple_JJ but_CC domain-independent_JJ hypermedia_NN generation_NN from_IN RDF_NNP stores_NNS ._.
+While_IN such_JJ generated_VBN presentations_NNS hardly_RB meet_VBP the_DT standards_NNS of_IN those_DT written_VBN by_IN humans_NNS ,_, they_PRP provide_VBP quick_JJ access_NN to_TO media_NNS repositories_NNS when_WRB the_DT required_JJ document_NN has_VBZ not_RB yet_RB been_VBN written_VBN ._.
+The_DT resulting_VBG system_NN allows_VBZ a_DT user_NN to_TO specify_VB a_DT topic_NN for_IN which_WDT it_PRP generates_VBZ a_DT hypermedia_NN document_NN providing_VBG guided_VBN navigation_NN through_IN virtually_RB any_DT RDF_NNP repository_NN ._.
+The_DT impact_NN for_IN content_NN providers_NNS is_VBZ that_IN as_RB soon_RB as_IN one_CD adds_VBZ new_JJ media_NNS items_NNS and_CC their_PRP$ annotations_NNS to_TO a_DT repository_NN ,_, they_PRP become_VBP immediately_RB available_JJ for_IN automatic_JJ integration_NN into_IN subsequently_RB requested_VBN presentations_NNS ._.

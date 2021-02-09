@@ -1,0 +1,5 @@
+Understanding_VBG user_NN goals_NNS in_IN web_NN search_NN
+Previous_JJ work_NN on_IN understanding_VBG user_NN web_NN search_NN behavior_NN has_VBZ focused_VBN on_IN how_WRB people_NNS search_NN and_CC what_WP they_PRP are_VBP searching_VBG for_IN ,_, but_CC not_RB why_WRB they_PRP are_VBP searching_VBG ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP a_DT framework_NN for_IN understanding_VBG the_DT underlying_VBG goals_NNS of_IN user_NN searches_NNS ,_, and_CC our_PRP$ experience_NN in_IN using_VBG the_DT framework_NN to_TO manually_RB classify_VB queries_NNS from_IN a_DT web_NN search_NN engine_NN ._.
+Our_PRP$ analysis_NN suggests_VBZ that_IN so-called_JJ navigational_JJ ''_'' searches_NNS are_VBP less_RBR prevalent_JJ than_IN generally_RB believed_VBN while_IN a_DT previously_RB unexplored_JJ ``_`` resource-seeking_JJ ''_'' goal_NN may_MD account_VB for_IN a_DT large_JJ fraction_NN of_IN web_NN searches_NNS ._.
+We_PRP also_RB illustrate_VBP how_WRB this_DT knowledge_NN of_IN user_NN search_NN goals_NNS might_MD be_VB used_VBN to_TO improve_VB future_JJ web_NN search_NN engines_NNS ._.

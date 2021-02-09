@@ -1,0 +1,10 @@
+XML_NN design_NN for_IN relational_JJ storage_NN
+Design_NN principles_NNS for_IN XML_NN schemas_NNS that_WDT eliminate_VBP redundancies_NNS and_CC avoid_VB update_VBP anomalies_NNS have_VBP been_VBN studied_VBN recently_RB ._.
+Several_JJ normal_JJ forms_NNS ,_, generalizing_VBG those_DT for_IN relational_JJ databases_NNS ,_, have_VBP been_VBN proposed_VBN ._.
+All_DT of_IN them_PRP ,_, however_RB ,_, are_VBP based_VBN on_IN the_DT assumption_NN of_IN anative_JJ XML_NN storage_NN ,_, while_IN in_IN practice_NN most_JJS of_IN XML_NN data_NNS is_VBZ stored_VBN inrelational_JJ databases_NNS ._.
+In_IN this_DT paper_NN we_PRP study_VBD XML_NN design_NN and_CC normalization_NN for_IN relational_JJ storage_NN of_IN XML_NN documents_NNS ._.
+To_TO be_VB able_JJ to_TO relate_VB and_CC compare_VB XML_NN and_CC relational_JJ designs_NNS ,_, we_PRP use_VBP an_DT information-theoretic_JJ framework_NN that_WDT measures_VBZ information_NN content_NN in_IN relations_NNS and_CC documents_NNS ,_, with_IN higher_JJR values_NNS corresponding_VBG to_TO lower_JJR levels_NNS of_IN redundancy_NN ._.
+We_PRP show_VBP that_IN most_JJS common_JJ relational_JJ storage_NN schemes_NNS preserve_VBP the_DT notion_NN of_IN being_VBG well-designed_JJ -LRB-_-LRB- i.e._FW ,_, anomalies_NNS -_: and_CC redundancy-free_NN -RRB-_-RRB- ._.
+Thus_RB ,_, existing_VBG XML_NN normal_JJ forms_NNS guarantee_VBP well-designed_JJ relational_JJ storagesas_NNS well_RB ._.
+We_PRP further_RB show_VBP that_IN if_IN this_DT perfect_JJ option_NN is_VBZ not_RB achievable_JJ ,_, then_RB a_DT slight_JJ restriction_NN on_IN XML_NN constraints_NNS guarantees_VBZ a_DT ``_`` second-best_JJ ''_'' relational_JJ design_NN ,_, according_VBG to_TO possible_JJ values_NNS of_IN the_DT information-theoretic_JJ measure_NN ._.
+We_PRP finally_RB consider_VBP an_DT edge-based_JJ relational_JJ representation_NN of_IN XML_NN documents_NNS ,_, and_CC show_VBP that_IN while_IN it_PRP has_VBZ similar_JJ information-theoretic_JJ properties_NNS with_IN other_JJ relational_JJ representations_NNS ,_, it_PRP can_MD behave_VB significantly_RB worse_JJR in_IN terms_NNS of_IN enforcing_VBG integrity_NN constraints_NNS ._.

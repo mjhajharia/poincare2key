@@ -1,0 +1,16 @@
+Learning_NNP to_TO map_VB between_IN ontologies_NNS on_IN the_DT semantic_JJ web_NN
+Ontologies_NNS play_VBP a_DT prominent_JJ role_NN on_IN the_DT Semantic_JJ Web_NN ._.
+They_PRP make_VBP possible_JJ the_DT widespread_JJ publication_NN of_IN machine_NN understandable_JJ data_NNS ,_, opening_VBG myriad_JJ opportunities_NNS for_IN automated_JJ information_NN processing_NN ._.
+However_RB ,_, because_IN of_IN the_DT Semantic_JJ Web_NN 's_POS distributed_VBN nature_NN ,_, data_NNS on_IN it_PRP will_MD inevitably_RB come_VB from_IN many_JJ different_JJ ontologies_NNS ._.
+Information_NN processing_NN across_IN ontologies_NNS is_VBZ not_RB possible_JJ without_IN knowing_VBG the_DT semantic_JJ mappings_NNS between_IN their_PRP$ elements_NNS ._.
+Manually_RB finding_VBG such_JJ mappings_NNS is_VBZ tedious_JJ ,_, error-prone_JJ ,_, and_CC clearly_RB not_RB possible_JJ at_IN the_DT Web_NN scale_NN ._.
+Hence_RB ,_, the_DT development_NN of_IN tools_NNS to_TO assist_VB in_IN the_DT ontology_NN mapping_NN process_NN is_VBZ crucial_JJ to_TO the_DT success_NN of_IN the_DT Semantic_JJ Web_NN ._.
+We_PRP describe_VBP glue_NN ,_, a_DT system_NN that_WDT employs_VBZ machine_NN learning_NN techniques_NNS to_TO find_VB such_JJ mappings_NNS ._.
+Given_VBN two_CD ontologies_NNS ,_, for_IN each_DT concept_NN in_IN one_CD ontology_NN glue_NN finds_VBZ the_DT most_RBS similar_JJ concept_NN in_IN the_DT other_JJ ontology_NN ._.
+We_PRP give_VBP well-founded_JJ probabilistic_JJ definitions_NNS to_TO several_JJ practical_JJ similarity_NN measures_NNS ,_, and_CC show_VBP that_IN glue_NN can_MD work_VB with_IN all_DT of_IN them_PRP ._.
+This_DT is_VBZ in_IN contrast_NN to_TO most_RBS existing_JJ approaches_NNS ,_, which_WDT deal_VBP with_IN a_DT single_JJ similarity_NN measure_NN ._.
+Another_DT key_JJ feature_NN of_IN glue_NN is_VBZ that_IN it_PRP uses_VBZ multiple_JJ learning_NN strategies_NNS ,_, each_DT of_IN which_WDT exploits_VBZ a_DT different_JJ type_NN of_IN information_NN either_CC in_IN the_DT data_NN instances_NNS or_CC in_IN the_DT taxonomic_JJ structure_NN of_IN the_DT ontologies_NNS ._.
+To_TO further_RB improve_VB matching_NN accuracy_NN ,_, we_PRP extend_VBP glue_NN to_TO incorporate_VB commonsense_JJ knowledge_NN and_CC domain_NN constraints_NNS into_IN the_DT matching_JJ process_NN ._.
+For_IN this_DT purpose_NN ,_, we_PRP show_VBP that_IN relaxation_NN labeling_NN ,_, a_DT well-known_JJ constraint_NN optimization_NN technique_NN used_VBN in_IN computer_NN vision_NN and_CC other_JJ fields_NNS ,_, can_MD be_VB adapted_VBN to_TO work_VB efficiently_RB in_IN our_PRP$ context_NN ._.
+Our_PRP$ approach_NN is_VBZ thus_RB distinguished_VBN in_IN that_IN it_PRP works_VBZ with_IN a_DT variety_NN of_IN well-defined_JJ similarity_NN notions_NNS and_CC that_IN it_PRP efficiently_RB incorporates_VBZ multiple_JJ types_NNS of_IN knowledge_NN ._.
+We_PRP describe_VBP a_DT set_NN of_IN experiments_NNS on_IN several_JJ real-world_JJ domains_NNS ,_, and_CC show_VBP that_IN glue_NN proposes_VBZ highly_RB accurate_JJ semantic_JJ mappings_NNS ._.

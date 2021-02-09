@@ -1,0 +1,6 @@
+Compositional_JJ knowledge_NN management_NN for_IN medical_JJ services_NNS on_IN semantic_JJ web_NN
+The_DT vision_NN of_IN the_DT Semantic_JJ Web_NN is_VBZ to_TO reduce_VB manual_JJ discovery_NN and_CC usage_NN of_IN Web_NN resources_NNS -LRB-_-LRB- documents_NNS and_CC services_NNS -RRB-_-RRB- and_CC to_TO allow_VB software_NN agents_NNS to_TO automatically_RB identify_VB these_DT Web_NN resources_NNS ,_, integrate_VB them_PRP and_CC execute_VB them_PRP for_IN achieving_VBG the_DT intended_JJ goals_NNS of_IN the_DT user_NN ._.
+Such_JJ a_DT composed_VBN Web_NN service_NN may_MD be_VB represented_VBN as_IN a_DT workflow_NN ,_, called_VBN service_NN flow_NN ._.
+Current_JJ Web_NN service_NN standards_NNS are_VBP not_RB sufficient_JJ for_IN automatic_JJ composition_NN ._.
+This_DT paper_NN presents_VBZ different_JJ types_NNS of_IN compositional_JJ knowledge_NN required_VBN for_IN Web_NN service_NN discovery_NN and_CC composition_NN ._.
+As_IN a_DT proof_NN of_IN concept_NN ,_, we_PRP have_VBP implemented_VBN our_PRP$ framework_NN in_IN a_DT cardiovascular_JJ domain_NN which_WDT requires_VBZ advanced_JJ service_NN discovery_NN and_CC composition_NN across_IN heterogeneous_JJ platforms_NNS of_IN multiple_JJ organizations_NNS ._.

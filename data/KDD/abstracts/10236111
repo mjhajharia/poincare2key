@@ -1,0 +1,17 @@
+Fastanova_NNP :_: an_DT efficient_JJ algorithm_NN for_IN genome-wide_JJ association_NN study_NN
+Studying_VBG the_DT association_NN between_IN quantitative_JJ phenotype_NN -LRB-_-LRB- such_JJ as_IN height_NN or_CC weight_NN -RRB-_-RRB- and_CC single_JJ nucleotide_NN polymorphisms_NNS -LRB-_-LRB- SNPs_NNS -RRB-_-RRB- is_VBZ an_DT important_JJ problem_NN in_IN biology_NN ._.
+To_TO understand_VB underlying_JJ mechanisms_NNS of_IN complex_JJ phenotypes_NNS ,_, it_PRP is_VBZ often_RB necessary_JJ to_TO consider_VB joint_JJ genetic_JJ effects_NNS across_IN multiple_JJ SNPs_NNS ._.
+ANOVA_NN -LRB-_-LRB- analysis_NN of_IN variance_NN -RRB-_-RRB- test_NN is_VBZ routinely_RB used_VBN in_IN association_NN study_NN ._.
+Important_JJ findings_NNS from_IN studying_VBG gene-gene_JJ -LRB-_-LRB- SNP-pair_JJ -RRB-_-RRB- interactions_NNS are_VBP appearing_VBG in_IN the_DT literature_NN ._.
+However_RB ,_, the_DT number_NN of_IN SNPs_NNS can_MD be_VB up_RB to_TO millions_NNS ._.
+Evaluating_VBG joint_JJ effects_NNS of_IN SNPs_NNS is_VBZ a_DT challenging_JJ task_NN even_RB for_IN SNP-pairs_NNS ._.
+Moreover_RB ,_, with_IN large_JJ number_NN of_IN SNPs_NNS correlated_VBD ,_, permutation_NN procedure_NN is_VBZ preferred_VBN over_IN simple_JJ Bonferroni_NNP correction_NN for_IN properly_RB controlling_VBG family-wise_JJ error_NN rate_NN and_CC retaining_VBG mapping_NN power_NN ,_, which_WDT dramatically_RB increases_VBZ the_DT computational_JJ cost_NN of_IN association_NN study_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT problem_NN of_IN finding_VBG SNP-pairs_NNS that_WDT have_VBP significant_JJ associations_NNS with_IN a_DT given_VBN quantitative_JJ phenotype_NN ._.
+We_PRP propose_VBP an_DT efficient_JJ algorithm_NN ,_, FastANOVA_NN ,_, for_IN performing_VBG ANOVA_NNP tests_NNS on_IN SNP-pairs_NNS in_IN a_DT batch_NN mode_NN ,_, which_WDT also_RB supports_VBZ large_JJ permutation_NN test_NN ._.
+We_PRP derive_VBP an_DT upper_JJ bound_VBN of_IN SNP-pair_JJ ANOVA_NNP test_NN ,_, which_WDT can_MD be_VB expressed_VBN as_IN the_DT sum_NN of_IN two_CD terms_NNS ._.
+The_DT first_JJ term_NN is_VBZ based_VBN on_IN single-SNP_JJ ANOVA_NNP test_NN ._.
+The_DT second_JJ term_NN is_VBZ based_VBN on_IN the_DT SNPs_NNS and_CC independent_JJ of_IN any_DT phenotype_NN permutation_NN ._.
+Furthermore_RB ,_, SNP-pairs_NNS can_MD be_VB organized_VBN into_IN groups_NNS ,_, each_DT of_IN which_WDT shares_VBZ a_DT common_JJ upper_JJ bound_VBD ._.
+This_DT allows_VBZ for_IN maximum_NN reuse_NN of_IN intermediate_JJ computation_NN ,_, efficient_JJ upper_JJ bound_VBN estimation_NN ,_, and_CC effective_JJ SNP-pair_JJ pruning_NN ._.
+Consequently_RB ,_, FastANOVA_NN only_RB needs_VBZ to_TO perform_VB the_DT ANOVA_NNP test_NN on_IN a_DT small_JJ number_NN of_IN candidate_NN SNP-pairs_NNS without_IN the_DT risk_NN of_IN missing_VBG any_DT significant_JJ ones_NNS ._.
+Extensive_JJ experiments_NNS demonstrate_VBP that_IN FastANOVA_NN is_VBZ orders_NNS of_IN magnitude_NN faster_RBR than_IN the_DT brute-force_JJ implementation_NN of_IN ANOVA_NNP tests_NNS on_IN all_DT SNP_NN pairs_NNS ._.

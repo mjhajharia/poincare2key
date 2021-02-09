@@ -1,0 +1,6 @@
+Consensus_NN group_NN stable_JJ feature_NN selection_NN
+Stability_NN is_VBZ an_DT important_JJ yet_CC under-addressed_JJ issue_NN in_IN feature_NN selection_NN from_IN high-dimensional_JJ and_CC small_JJ sample_NN data_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP show_VBP that_IN stability_NN of_IN feature_NN selection_NN has_VBZ a_DT strong_JJ dependency_NN on_IN sample_NN size_NN ._.
+We_PRP propose_VBP a_DT novel_JJ framework_NN for_IN stable_JJ feature_NN selection_NN which_WDT first_RB identifies_VBZ consensus_NN feature_NN groups_NNS from_IN subsampling_NN of_IN training_NN samples_NNS ,_, and_CC then_RB performs_VBZ feature_NN selection_NN by_IN treating_VBG each_DT consensus_NN feature_NN group_NN as_IN a_DT single_JJ entity_NN ._.
+Experiments_NNS on_IN both_CC synthetic_JJ and_CC real-world_JJ data_NNS sets_NNS show_VBP that_IN an_DT algorithm_NN developed_VBN under_IN this_DT framework_NN is_VBZ effective_JJ at_IN alleviating_VBG the_DT problem_NN of_IN small_JJ sample_NN size_NN and_CC leads_VBZ to_TO more_RBR stable_JJ feature_NN selection_NN results_NNS and_CC comparable_JJ or_CC better_JJR generalization_NN performance_NN than_IN state-of-the-art_JJ feature_NN selection_NN algorithms_NNS ._.
+Synthetic_JJ data_NN sets_NNS and_CC algorithm_NN source_NN code_NN are_VBP available_JJ at_IN http:\/\/www.cs.binghamton.edu\/~lyu\/KDD09\/_NN ._.

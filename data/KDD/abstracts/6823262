@@ -1,0 +1,11 @@
+A_DT general_JJ model_NN for_IN clustering_VBG binary_JJ data_NNS
+Clustering_NN is_VBZ the_DT problem_NN of_IN identifying_VBG the_DT distribution_NN of_IN patterns_NNS and_CC intrinsic_JJ correlations_NNS in_IN large_JJ data_NNS sets_NNS by_IN partitioning_VBG the_DT data_NNS points_NNS into_IN similarity_NN classes_NNS ._.
+This_DT paper_NN studies_VBZ the_DT problem_NN of_IN clustering_VBG binary_JJ data_NNS ._.
+This_DT is_VBZ the_DT case_NN for_IN market_NN basket_NN datasets_NNS where_WRB the_DT transactions_NNS contain_VBP items_NNS and_CC for_IN document_NN datasets_NNS where_WRB the_DT documents_NNS contain_VBP ``_`` bag_NN of_IN words_NNS ''_'' ._.
+The_DT contribution_NN of_IN the_DT paper_NN is_VBZ three-fold_JJ ._.
+First_RB a_DT general_JJ binary_JJ data_NNS clustering_NN model_NN is_VBZ presented_VBN ._.
+The_DT model_NN treats_VBZ the_DT data_NNS and_CC features_NNS equally_RB ,_, based_VBN on_IN their_PRP$ symmetric_JJ association_NN relations_NNS ,_, and_CC explicitly_RB describes_VBZ the_DT data_NNS assignments_NNS as_RB well_RB as_IN feature_NN assignments_NNS ._.
+We_PRP characterize_VBP several_JJ variations_NNS with_IN different_JJ optimization_NN procedures_NNS for_IN the_DT general_JJ model_NN ._.
+Second_RB ,_, we_PRP also_RB establish_VBP the_DT connections_NNS between_IN our_PRP$ clustering_NN model_NN with_IN other_JJ existing_VBG clustering_NN methods_NNS ._.
+Third_RB ,_, we_PRP also_RB discuss_VBP the_DT problem_NN for_IN determining_VBG the_DT number_NN of_IN clusters_NNS for_IN binary_JJ clustering_NN ._.
+Experimental_JJ results_NNS show_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN clustering_NN model_NN ._.

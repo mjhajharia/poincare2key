@@ -1,0 +1,6 @@
+Towards_IN a_DT flash_NN search_NN engine_NN based_VBN on_IN expressive_JJ semantics_NNS
+Flash_NNP ,_, as_IN a_DT multimedia_NNS format_NN ,_, becomes_VBZ more_RBR and_CC more_RBR popular_JJ on_IN the_DT Web_NN ._.
+However_RB ,_, previous_JJ works_NNS on_IN Flash_NNP are_VBP totally_RB based_VBN on_IN low-level_JJ features_NNS ,_, which_WDT make_VBP it_PRP unpractical_JJ to_TO build_VB a_DT content-based_JJ Flash_NNP search_NN engine_NN ._.
+To_TO address_VB this_DT problem_NN ,_, our_PRP$ paper_NN proposes_VBZ expressive_JJ semantics_NNS for_IN bridging_VBG the_DT gap_NN between_IN low-level_JJ features_NNS and_CC user_NN queries_NNS ._.
+To_TO smoothly_RB incorporate_VB expressive_JJ semantics_NNS into_IN a_DT search_NN engine_NN ,_, an_DT eigenvector-based_JJ model_NN is_VBZ devised_VBN to_TO map_VB a_DT user_NN query_NN to_TO expressive_JJ semantics_NNS with_IN the_DT aid_NN of_IN link_NN analysis_NN method_NN ._.
+Our_PRP$ experiment_NN results_NNS confirm_VBP that_IN expressive_JJ semantics_NNS is_VBZ a_DT promising_JJ approach_NN to_TO understanding_NN and_CC hence_RB searching_VBG Flash_NNP movies_NNS more_RBR efficiently_RB ._.

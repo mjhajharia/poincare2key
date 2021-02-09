@@ -1,0 +1,6 @@
+An_DT adaptive_JJ ontology-based_JJ approach_NN to_TO identify_VB correlation_NN between_IN publications_NNS
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT adaptive_JJ ontology-based_JJ approach_NN for_IN related_JJ paper_NN identification_NN ,_, to_TO meet_VB most_JJS researchers_NNS '_POS practical_JJ needs_NNS ._.
+By_IN searching_VBG ontology_NN ,_, we_PRP can_MD return_VB a_DT diverse_JJ set_NN of_IN papers_NNS that_WDT are_VBP explicitly_RB and_CC implicitly_RB related_JJ to_TO an_DT input_NN paper_NN ._.
+Moreover_RB ,_, our_PRP$ approach_NN does_VBZ not_RB rely_VB on_IN known_JJ ontology_NN ._.
+Instead_RB ,_, we_PRP build_VBP and_CC update_VBP ontology_NN for_IN a_DT collection_NN with_IN any_DT domain_NN of_IN interest_NN ._.
+Being_VBG independent_JJ from_IN known_JJ ontology_NN ,_, our_PRP$ approach_NN is_VBZ much_RB more_RBR adaptive_JJ for_IN different_JJ domains_NNS ._.

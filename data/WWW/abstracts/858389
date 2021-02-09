@@ -1,0 +1,15 @@
+SecuBat_NNP :_: a_DT web_NN vulnerability_NN scanner_NN
+As_IN the_DT popularity_NN of_IN the_DT web_NN increases_NNS and_CC web_NN applications_NNS become_VBP tools_NNS of_IN everyday_JJ use_NN ,_, the_DT role_NN of_IN web_NN security_NN has_VBZ been_VBN gaining_VBG importance_NN as_RB well_RB ._.
+The_DT last_JJ years_NNS have_VBP shown_VBN a_DT significant_JJ increase_NN in_IN the_DT number_NN of_IN web-based_JJ attacks_NNS ._.
+For_IN example_NN ,_, there_EX has_VBZ been_VBN extensive_JJ press_NN coverage_NN of_IN recent_JJ security_NN incidences_NNS involving_VBG the_DT loss_NN of_IN sensitive_JJ credit_NN card_NN information_NN belonging_VBG to_TO millions_NNS of_IN customers_NNS ._.
+Many_JJ web_NN application_NN security_NN vulnerabilities_NNS result_VBP from_IN generic_JJ input_NN validation_NN problems_NNS ._.
+Examples_NNS of_IN such_JJ vulnerabilities_NNS are_VBP SQL_NN injection_NN and_CC Cross-Site_JJ Scripting_NN -LRB-_-LRB- XSS_NN -RRB-_-RRB- ._.
+Although_IN the_DT majority_NN of_IN web_NN vulnerabilities_NNS are_VBP easy_JJ to_TO understand_VB and_CC to_TO avoid_VB ,_, many_JJ web_NN developers_NNS are_VBP ,_, unfortunately_RB ,_, not_RB security-aware_JJ ._.
+As_IN a_DT result_NN ,_, there_EX exist_VBP many_JJ web_NN sites_NNS on_IN the_DT Internet_NN that_WDT are_VBP vulnerable_JJ ._.
+This_DT paper_NN demonstrates_VBZ how_WRB easy_JJ it_PRP is_VBZ for_IN attackers_NNS to_TO automatically_RB discover_VB and_CC exploit_VB application-level_JJ vulnerabilities_NNS in_IN a_DT large_JJ number_NN of_IN web_NN applications_NNS ._.
+To_TO this_DT end_NN ,_, we_PRP developed_VBD SecuBat_NNP ,_, a_DT generic_JJ and_CC modular_JJ web_NN vulnerability_NN scanner_NN that_IN ,_, similar_JJ to_TO a_DT port_NN scanner_NN ,_, automatically_RB analyzes_VBZ web_NN sites_NNS with_IN the_DT aim_NN of_IN finding_VBG exploitable_JJ SQL_NN injection_NN and_CC XSS_NN vulnerabilities_NNS ._.
+Using_VBG SecuBat_NNP ,_, we_PRP were_VBD able_JJ to_TO find_VB many_JJ potentially_RB vulnerable_JJ web_NN sites_NNS ._.
+To_TO verify_VB the_DT accuracy_NN of_IN SecuBat_NNP ,_, we_PRP picked_VBD one_CD hundred_CD interesting_JJ web_NN sites_NNS from_IN the_DT potential_JJ victim_NN list_NN for_IN further_JJ analysis_NN and_CC confirmed_VBD exploitable_JJ flaws_NNS in_IN the_DT identified_VBN web_NN pages_NNS ._.
+Among_IN our_PRP$ victims_NNS were_VBD well-known_JJ global_JJ companies_NNS and_CC a_DT finance_NN ministry_NN ._.
+Of_IN course_NN ,_, we_PRP notified_VBD the_DT administrators_NNS of_IN vulnerable_JJ sites_NNS about_IN potential_JJ security_NN problems_NNS ._.
+More_JJR than_IN fifty_CD responded_VBD to_TO request_VB additional_JJ information_NN or_CC to_TO report_VB that_IN the_DT security_NN hole_NN was_VBD closed_VBN ._.

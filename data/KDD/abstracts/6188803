@@ -1,0 +1,7 @@
+Active_JJ exploration_NN for_IN learning_VBG rankings_NNS from_IN clickthrough_JJ data_NNS
+We_PRP address_VBP the_DT task_NN of_IN learning_VBG rankings_NNS of_IN documents_NNS from_IN search_NN enginelogs_NNS of_IN user_NN behavior_NN ._.
+Previous_JJ work_NN on_IN this_DT problem_NN has_VBZ relied_VBN onpassively_RB collected_VBN clickthrough_JJ data_NNS ._.
+In_IN contrast_NN ,_, we_PRP show_VBP that_IN anactive_JJ exploration_NN strategy_NN can_MD provide_VB data_NNS that_WDT leads_VBZ to_TO much_JJ fasterlearning_NN ._.
+Specifically_RB ,_, we_PRP develop_VBP a_DT Bayesian_JJ approach_NN for_IN selectingrankings_NNS to_TO present_JJ users_NNS so_IN that_IN interactions_NNS result_VBP in_IN more_JJR informativetraining_NN data_NNS ._.
+Our_PRP$ results_NNS using_VBG the_DT TREC-10_NN Web_NN corpus_NN ,_, as_RB well_RB assynthetic_JJ data_NNS ,_, demonstrate_VBP that_IN a_DT directed_JJ exploration_NN strategy_NN quicklyleads_NNS to_TO users_NNS being_VBG presented_VBN improved_JJ rankings_NNS in_IN an_DT online_JJ learningsetting_NN ._.
+We_PRP find_VBP that_IN active_JJ exploration_NN substantially_RB outperformspassive_JJ observation_NN and_CC random_JJ exploration_NN ._.

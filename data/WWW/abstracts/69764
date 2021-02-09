@@ -1,0 +1,14 @@
+On_IN the_DT bursty_JJ evolution_NN of_IN blogspace_NN
+We_PRP propose_VBP two_CD new_JJ tools_NNS to_TO address_VB the_DT evolution_NN of_IN hyperlinked_JJ corpora_NN ._.
+First_RB ,_, we_PRP define_VBP time_NN graphs_NNS to_TO extend_VB the_DT traditional_JJ notion_NN of_IN an_DT evolving_VBG directed_JJ graph_NN ,_, capturing_VBG link_NN creation_NN as_IN a_DT point_NN phenomenon_NN in_IN time_NN ._.
+Second_RB ,_, we_PRP develop_VBP definitions_NNS and_CC algorithms_NNS for_IN time-dense_JJ community_NN tracking_NN ,_, to_TO crystallize_VB the_DT notion_NN of_IN community_NN evolution_NN ._.
+We_PRP develop_VBP these_DT tools_NNS in_IN the_DT context_NN of_IN Blogspace_NNP ,_, the_DT space_NN of_IN weblogs_NNS -LRB-_-LRB- or_CC blogs_NNS -RRB-_-RRB- ._.
+Our_PRP$ study_NN involves_VBZ approximately_RB 750K_CD links_NNS among_IN 25K_CD blogs_NNS ._.
+We_PRP create_VBP a_DT time_NN graph_NN on_IN these_DT blogs_NNS by_IN an_DT automatic_JJ analysis_NN of_IN their_PRP$ internal_JJ time_NN stamps_NNS ._.
+We_PRP then_RB study_VBD the_DT evolution_NN of_IN connected_JJ component_NN structure_NN and_CC microscopic_JJ community_NN structure_NN in_IN this_DT time_NN graph_NN ._.
+We_PRP show_VBP that_IN Blogspace_NNP underwent_VBD a_DT transition_NN behavior_NN around_IN the_DT end_NN of_IN 2001_CD ,_, and_CC has_VBZ been_VBN rapidly_RB expanding_VBG over_IN the_DT past_JJ year_NN ,_, not_RB just_RB in_IN metrics_NNS of_IN scale_NN ,_, but_CC also_RB in_IN metrics_NNS of_IN community_NN structure_NN and_CC connectedness_NN ._.
+This_DT expansion_NN shows_VBZ no_DT sign_NN of_IN abating_VBG ,_, although_IN measures_NNS of_IN connectedness_NN must_MD plateau_NN within_IN two_CD years_NNS ._.
+By_IN randomizing_VBG link_NN destinations_NNS in_IN Blogspace_NNP ,_, but_CC retaining_VBG sources_NNS and_CC timestamps_NNS ,_, we_PRP introduce_VBP a_DT concept_NN of_IN randomized_VBN Blogspace_NNP ._.
+Herein_RB ,_, we_PRP observe_VBP similar_JJ evolution_NN of_IN a_DT giant_JJ component_NN ,_, but_CC no_DT corresponding_JJ increase_NN in_IN community_NN structure_NN ._.
+Having_VBG demonstrated_VBN the_DT formation_NN of_IN micro-communities_NNS over_IN time_NN ,_, we_PRP then_RB turn_VB to_TO the_DT ongoing_JJ activity_NN within_IN active_JJ communities_NNS ._.
+We_PRP extend_VBP recent_JJ work_NN of_IN Kleinberg_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- to_TO discover_VB dense_JJ periods_NNS of_IN ``_`` bursty_JJ ''_'' intra-community_JJ link_NN creation_NN ._.

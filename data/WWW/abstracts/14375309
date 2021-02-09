@@ -1,0 +1,8 @@
+Vertex_NNP collocation_NN profiles_NNS :_: subgraph_JJ counting_NN for_IN link_NN analysis_NN and_CC prediction_NN
+We_PRP introduce_VBP the_DT concept_NN of_IN a_DT vertex_NN collocation_NN profile_NN -LRB-_-LRB- VCP_NN -RRB-_-RRB- for_IN the_DT purpose_NN of_IN topological_JJ link_NN analysis_NN and_CC prediction_NN ._.
+VCPs_NNS provide_VBP nearly_RB complete_JJ information_NN about_IN the_DT surrounding_JJ local_JJ structure_NN of_IN embedded_JJ vertex_NN pairs_NNS ._.
+The_DT VCP_NNP approach_NN offers_VBZ a_DT new_JJ tool_NN for_IN domain_NN experts_NNS to_TO understand_VB the_DT underlying_VBG growth_NN mechanisms_NNS in_IN their_PRP$ networks_NNS and_CC to_TO analyze_VB link_NN formation_NN mechanisms_NNS in_IN the_DT appropriate_JJ sociological_JJ ,_, biological_JJ ,_, physical_JJ ,_, or_CC other_JJ context_NN ._.
+The_DT same_JJ resolution_NN that_WDT gives_VBZ VCP_NNP its_PRP$ analytical_JJ power_NN also_RB enables_VBZ it_PRP to_TO perform_VB well_RB when_WRB used_VBN in_IN supervised_JJ models_NNS to_TO discriminate_VB potential_JJ new_JJ links_NNS ._.
+We_PRP first_RB develop_VBP the_DT theory_NN ,_, mathematics_NN ,_, and_CC algorithms_NNS underlying_VBG VCPs_NNS ._.
+Then_RB we_PRP demonstrate_VBP VCP_NN methods_NNS performing_VBG link_NN prediction_NN competitively_RB with_IN unsupervised_JJ and_CC supervised_JJ methods_NNS across_IN several_JJ different_JJ network_NN families_NNS ._.
+We_PRP conclude_VBP with_IN timing_NN results_NNS that_WDT introduce_VBP the_DT comparative_JJ performance_NN of_IN several_JJ existing_VBG algorithms_NNS and_CC the_DT practicability_NN of_IN VCP_NNP computations_NNS on_IN large_JJ networks_NNS ._.

@@ -1,0 +1,10 @@
+Algorithms_NNS for_IN discovering_VBG bucket_NN orders_NNS from_IN data_NNS
+Ordering_VBG and_CC ranking_VBG items_NNS of_IN different_JJ types_NNS are_VBP important_JJ tasks_NNS in_IN various_JJ applications_NNS ,_, such_JJ as_IN query_NN processing_NN and_CC scientific_JJ data_NNS mining_NN ._.
+A_DT total_JJ order_NN for_IN the_DT items_NNS can_MD be_VB misleading_JJ ,_, since_IN there_EX are_VBP groups_NNS of_IN items_NNS that_WDT have_VBP practically_RB equal_JJ ranks_NNS ._.
+We_PRP consider_VBP bucket_NN orders_NNS ,_, i.e._FW ,_, total_JJ orders_NNS with_IN ties_NNS ._.
+They_PRP can_MD be_VB used_VBN to_TO capture_VB the_DT essential_JJ order_NN information_NN without_IN overfitting_VBG the_DT data_NNS :_: they_PRP form_VBP a_DT useful_JJ concept_NN class_NN between_IN total_JJ orders_NNS and_CC arbitrary_JJ partial_JJ orders_NNS ._.
+We_PRP address_VBP the_DT question_NN of_IN finding_VBG a_DT bucket_NN order_NN for_IN a_DT set_NN of_IN items_NNS ,_, given_VBN pairwise_JJ precedence_NN information_NN between_IN the_DT items_NNS ._.
+We_PRP also_RB discuss_VBP methods_NNS for_IN computing_VBG the_DT pairwise_JJ precedence_NN data_NNS ._.
+We_PRP describe_VBP simple_JJ and_CC efficient_JJ algorithms_NNS for_IN finding_VBG good_JJ bucket_NN orders_NNS ._.
+Several_JJ of_IN the_DT algorithms_NNS have_VBP a_DT provable_JJ approximation_NN guarantee_NN ,_, and_CC they_PRP scale_VBP well_RB to_TO large_JJ datasets_NNS ._.
+We_PRP provide_VBP experimental_JJ results_NNS on_IN artificial_JJ and_CC a_DT real_JJ data_NNS that_WDT show_VBP the_DT usefulness_NN of_IN bucket_NN orders_NNS and_CC demonstrate_VB the_DT accuracy_NN and_CC efficiency_NN of_IN the_DT algorithms_NNS ._.

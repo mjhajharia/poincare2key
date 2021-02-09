@@ -1,0 +1,7 @@
+Efficient_JJ k-nearest_NN neighbor_NN graph_NN construction_NN for_IN generic_JJ similarity_NN measures_NNS
+K-Nearest_FW Neighbor_FW Graph_NN -LRB-_-LRB- K-NNG_NN -RRB-_-RRB- construction_NN is_VBZ an_DT important_JJ operation_NN with_IN many_JJ web_NN related_JJ applications_NNS ,_, including_VBG collaborative_JJ filtering_VBG ,_, similarity_NN search_NN ,_, and_CC many_JJ others_NNS in_IN data_NNS mining_NN and_CC machine_NN learning_NN ._.
+Existing_VBG methods_NNS for_IN K-NNG_NN construction_NN either_CC do_VBP not_RB scale_VB ,_, or_CC are_VBP specific_JJ to_TO certain_JJ similarity_NN measures_NNS ._.
+We_PRP present_VBP NN-Descent_JJ ,_, a_DT simple_NN yet_RB efficient_JJ algorithm_NN for_IN approximate_JJ K-NNG_NN construction_NN with_IN arbitrary_JJ similarity_NN measures_NNS ._.
+Our_PRP$ method_NN is_VBZ based_VBN on_IN local_JJ search_NN ,_, has_VBZ minimal_JJ space_NN overhead_NN and_CC does_VBZ not_RB rely_VB on_IN any_DT shared_JJ global_JJ index_NN ._.
+Hence_RB ,_, it_PRP is_VBZ especially_RB suitable_JJ for_IN large-scale_JJ applications_NNS where_WRB data_NNS structures_NNS need_VBP to_TO be_VB distributed_VBN over_IN the_DT network_NN ._.
+We_PRP have_VBP shown_VBN with_IN a_DT variety_NN of_IN datasets_NNS and_CC similarity_NN measures_NNS that_IN the_DT proposed_VBN method_NN typically_RB converges_VBZ to_TO above_IN 90_CD %_NN recall_NN with_IN each_DT point_NN comparing_VBG only_RB to_TO several_JJ percent_NN of_IN the_DT whole_JJ dataset_NN on_IN average_NN ._.

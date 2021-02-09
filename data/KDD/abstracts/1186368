@@ -1,0 +1,10 @@
+GPLAG_NN :_: detection_NN of_IN software_NN plagiarism_NN by_IN program_NN dependence_NN graph_NN analysis_NN
+Along_IN with_IN the_DT blossom_NN of_IN open_JJ source_NN projects_NNS comes_VBZ the_DT convenience_NN for_IN software_NN plagiarism_NN ._.
+A_DT company_NN ,_, if_IN less_RBR self-disciplined_JJ ,_, may_MD be_VB tempted_VBN to_TO plagiarize_VB some_DT open_JJ source_NN projects_NNS for_IN its_PRP$ own_JJ products_NNS ._.
+Although_IN current_JJ plagiarism_NN detection_NN tools_NNS appear_VBP sufficient_JJ for_IN academic_JJ use_NN ,_, they_PRP are_VBP nevertheless_RB short_JJ for_IN fighting_VBG against_IN serious_JJ plagiarists_NNS ._.
+For_IN example_NN ,_, disguises_NNS like_IN statement_NN reordering_NN and_CC code_NN insertion_NN can_MD effectively_RB confuse_VB these_DT tools_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP develop_VBP a_DT new_JJ plagiarism_NN detection_NN tool_NN ,_, called_VBN GPLAG_NNP ,_, which_WDT detects_VBZ plagiarism_NN by_IN mining_NN program_NN dependence_NN graphs_NNS -LRB-_-LRB- PDGs_NNS -RRB-_-RRB- ._.
+A_DT PDG_NN is_VBZ a_DT graphic_JJ representation_NN of_IN the_DT data_NNS and_CC control_NN dependencies_NNS within_IN a_DT procedure_NN ._.
+Because_IN PDGs_NNS are_VBP nearly_RB invariant_JJ during_IN plagiarism_NN ,_, GPLAG_NN is_VBZ more_RBR effective_JJ than_IN state-of-the-art_JJ tools_NNS for_IN plagiarism_NN detection_NN ._.
+In_IN order_NN to_TO make_VB GPLAG_NN scalable_JJ to_TO large_JJ programs_NNS ,_, a_DT statistical_JJ lossy_NN filter_NN is_VBZ proposed_VBN to_TO prune_VB the_DT plagiarism_NN search_NN space_NN ._.
+Experiment_NN study_NN shows_VBZ that_IN GPLAG_NN is_VBZ both_CC effective_JJ and_CC efficient_JJ :_: It_PRP detects_VBZ plagiarism_NN that_WDT easily_RB slips_VBZ over_IN existing_VBG tools_NNS ,_, and_CC it_PRP usually_RB takes_VBZ a_DT few_JJ seconds_NNS to_TO find_VB -LRB-_-LRB- simulated_JJ -RRB-_-RRB- plagiarism_NN in_IN programs_NNS having_VBG thousands_NNS of_IN lines_NNS of_IN code_NN ._.

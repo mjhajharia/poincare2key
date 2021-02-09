@@ -1,0 +1,7 @@
+A_DT framework_NN for_IN evaluating_VBG network_NN measures_NNS for_IN functional_JJ importance_NN
+Many_JJ metrics_NNS such_JJ as_IN degree_NN ,_, closeness_NN ,_, and_CC PageRank_NN have_VBP been_VBN introduced_VBN to_TO determine_VB the_DT relative_JJ importance_NN of_IN a_DT node_NN within_IN a_DT network_NN ._.
+The_DT desired_VBN function_NN of_IN a_DT network_NN ,_, however_RB ,_, is_VBZ domain-specific_JJ ._.
+For_IN example_NN ,_, the_DT robustness_NN can_MD be_VB crucial_JJ for_IN a_DT communication_NN network_NN ,_, while_IN efficiency_NN is_VBZ more_RBR preferred_JJ for_IN fast_JJ spreading_NN of_IN advertisements_NNS in_IN viral_JJ marketing_NN ._.
+The_DT information_NN provided_VBN by_IN some_DT widely_RB used_JJ measures_NNS are_VBP often_RB conflicting_VBG under_IN such_JJ varying_VBG demands_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT novel_JJ framework_NN for_IN evaluating_VBG network_NN metrics_NNS regarding_VBG typical_JJ functional_JJ requirements_NNS ._.
+We_PRP also_RB propose_VBP an_DT analysis_NN of_IN five_CD well_RB established_VBN measures_NNS to_TO compare_VB their_PRP$ performance_NN of_IN ranking_JJ nodes_NNS on_IN functional_JJ importance_NN in_IN a_DT real-life_JJ network_NN ._.

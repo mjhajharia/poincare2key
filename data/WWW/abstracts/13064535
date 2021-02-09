@@ -1,0 +1,12 @@
+Two-stream_JJ indexing_NN for_IN spoken_VBN web_NN search_NN
+This_DT paper_NN presents_VBZ two-stream_JJ processing_NN of_IN audio_NN to_TO index_NN the_DT audio_JJ content_NN for_IN Spoken_JJ Web_NN search_NN ._.
+The_DT first_JJ stream_NN indexes_NNS the_DT meta-data_NN associated_VBN with_IN a_DT particular_JJ audio_NN document_NN ._.
+The_DT meta-data_NN is_VBZ usually_RB very_RB sparse_JJ ,_, but_CC accurate_JJ ._.
+This_DT therefore_RB results_VBZ in_IN a_DT high-precision_JJ ,_, low-recall_JJ index_NN ._.
+The_DT second_JJ stream_NN uses_VBZ a_DT novel_JJ language-independent_JJ speech_NN recognition_NN to_TO generate_VB text_NN to_TO be_VB indexed_VBN ._.
+Owing_VBG to_TO the_DT multiple_JJ languages_NNS and_CC the_DT noise_NN in_IN user_NN generated_VBD content_NN on_IN the_DT Spoken_NNP Web_NN ,_, the_DT speech_NN recognition_NN accuracy_NN of_IN such_JJ systems_NNS is_VBZ not_RB high_JJ ,_, thus_RB they_PRP result_VBP in_IN a_DT low-precision_JJ ,_, high-recall_JJ index_NN ._.
+The_DT paper_NN attempts_VBZ to_TO use_VB these_DT two_CD complementary_JJ streams_NNS to_TO generate_VB a_DT combined_JJ index_NN to_TO increase_VB the_DT precision-recall_JJ performance_NN in_IN audio_JJ content_NN search_NN ._.
+The_DT problem_NN of_IN audio_JJ content_NN search_NN is_VBZ motivated_VBN by_IN the_DT real_JJ world_NN implication_NN of_IN the_DT Web_NN in_IN developing_VBG regions_NNS ,_, where_WRB due_JJ to_TO literacy_NN and_CC affordability_NN issues_NNS ,_, people_NNS use_VBP Spoken_NNP Web_NN which_WDT consists_VBZ of_IN interconnected_JJ VoiceSites_NNS ,_, which_WDT have_VBP content_NN in_IN audio_NN ._.
+The_DT experiments_NNS are_VBP based_VBN on_IN more_JJR than_IN 20,000_CD audio_JJ documents_NNS spanning_VBG over_IN seven_CD live_JJ VoiceSites_NNS and_CC four_CD different_JJ languages_NNS ._.
+The_DT results_NNS suggest_VBP significant_JJ improvement_NN over_IN a_DT meta-data-only_JJ or_CC a_DT speech-recognitiononly_JJ system_NN ,_, thus_RB justifying_VBG the_DT two-stream_JJ processing_NN approach_NN ._.
+Audio_JJ content_NN search_NN is_VBZ a_DT growing_VBG problem_NN area_NN and_CC this_DT paper_NN wishes_VBZ to_TO be_VB a_DT first_JJ step_NN to_TO solving_VBG this_DT at_IN a_DT large_JJ scale_NN ,_, across_IN languages_NNS ,_, in_IN a_DT Web_NN context_NN ._.

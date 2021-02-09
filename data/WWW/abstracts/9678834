@@ -1,0 +1,4 @@
+Feature_NN weighting_NN in_IN content_JJ based_VBN recommendation_NN system_NN using_VBG social_JJ network_NN analysis_NN
+We_PRP propose_VBP a_DT hybridization_NN of_IN collaborative_JJ filtering_VBG and_CC content_JJ based_VBN recommendation_NN system_NN ._.
+Attributes_NNS used_VBN for_IN content_JJ based_JJ recommendations_NNS are_VBP assigned_JJ weights_NNS depending_VBG on_IN their_PRP$ importance_NN to_TO users_NNS ._.
+The_DT weight_NN values_NNS are_VBP estimated_VBN from_IN a_DT set_NN of_IN linear_JJ regression_NN equations_NNS obtained_VBN from_IN a_DT social_JJ network_NN graph_NN which_WDT captures_VBZ human_JJ judgment_NN about_IN similarity_NN of_IN items_NNS ._.

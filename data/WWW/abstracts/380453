@@ -1,0 +1,5 @@
+XML_NN screamer_NN :_: an_DT integrated_JJ approach_NN to_TO high_JJ performance_NN XML_NN parsing_NN ,_, validation_NN and_CC deserialization_NN
+This_DT paper_NN describes_VBZ an_DT experimental_JJ system_NN in_IN which_WDT customized_VBD high_JJ performance_NN XML_NN parsers_NNS are_VBP prepared_VBN using_VBG parser_NN generation_NN and_CC compilation_NN techniques_NNS ._.
+Parsing_VBG is_VBZ integrated_VBN with_IN Schema-based_JJ validation_NN and_CC deserialization_NN ,_, and_CC the_DT resulting_VBG validating_VBG processors_NNS are_VBP shown_VBN to_TO be_VB as_RB fast_RB as_IN or_CC in_IN many_JJ cases_NNS significantly_RB faster_RBR than_IN traditional_JJ nonvalidating_JJ parsers_NNS ._.
+High_JJ performance_NN is_VBZ achieved_VBN by_IN integration_NN across_IN layers_NNS of_IN software_NN that_WDT are_VBP traditionally_RB separate_JJ ,_, by_IN avoiding_VBG unnecessary_JJ data_NNS copying_NN and_CC transformation_NN ,_, and_CC by_IN careful_JJ attention_NN to_TO detail_NN in_IN the_DT generated_VBN code_NN ._.
+The_DT effect_NN of_IN API_NN design_NN on_IN XML_NN performance_NN is_VBZ also_RB briefly_RB discussed_VBN ._. ._.

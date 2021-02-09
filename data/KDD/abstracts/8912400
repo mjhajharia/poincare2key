@@ -1,0 +1,9 @@
+Approximating_VBG a_DT collection_NN of_IN frequent_JJ sets_NNS
+One_CD of_IN the_DT most_RBS well-studied_JJ problems_NNS in_IN data_NN mining_NN is_VBZ computing_VBG the_DT collection_NN of_IN frequent_JJ item_NN sets_NNS in_IN large_JJ transactional_JJ databases_NNS ._.
+One_CD obstacle_NN for_IN the_DT applicability_NN of_IN frequent-set_JJ mining_NN is_VBZ that_IN the_DT size_NN of_IN the_DT output_NN collection_NN can_MD be_VB far_RB too_RB large_JJ to_TO be_VB carefully_RB examined_VBN and_CC understood_VBN by_IN the_DT users_NNS ._.
+Even_RB restricting_VBG the_DT output_NN to_TO the_DT border_NN of_IN the_DT frequent_JJ item-set_JJ collection_NN does_VBZ not_RB help_VB much_RB in_IN alleviating_VBG the_DT problem_NN ._.
+In_IN this_DT paper_NN we_PRP address_VBP the_DT issue_NN of_IN overwhelmingly_RB large_JJ output_NN size_NN by_IN introducing_VBG and_CC studying_VBG the_DT following_JJ problem_NN :_: What_WP are_VBP the_DT k_NN sets_VBZ that_IN best_RB approximate_JJ a_DT collection_NN of_IN frequent_JJ item_NN sets_NNS ?_.
+Our_PRP$ measure_NN of_IN approximating_VBG a_DT collection_NN of_IN sets_NNS by_IN k_NN sets_NNS is_VBZ defined_VBN to_TO be_VB the_DT size_NN of_IN the_DT collection_NN covered_VBN by_IN the_DT the_DT k_NN sets_VBZ ,_, i.e._FW ,_, the_DT part_NN of_IN the_DT collection_NN that_WDT is_VBZ included_VBN in_IN one_CD of_IN the_DT k_NN sets_VBZ ._.
+We_PRP also_RB specify_VBP a_DT bound_VBN on_IN the_DT number_NN of_IN extra_JJ sets_NNS that_WDT are_VBP allowed_VBN to_TO be_VB covered_VBN ._.
+We_PRP examine_VBP different_JJ problem_NN variants_NNS for_IN which_WDT we_PRP demonstrate_VBP the_DT hardness_NN of_IN the_DT corresponding_JJ problems_NNS and_CC we_PRP provide_VBP simple_JJ polynomial-time_JJ approximation_NN algorithms_NNS ._.
+We_PRP give_VBP empirical_JJ evidence_NN showing_VBG that_IN the_DT approximation_NN methods_NNS work_VBP well_RB in_IN practice_NN ._.

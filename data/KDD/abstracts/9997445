@@ -1,0 +1,9 @@
+Finding_VBG a_DT team_NN of_IN experts_NNS in_IN social_JJ networks_NNS
+Given_VBN a_DT task_NN T_NN ,_, a_DT pool_NN of_IN individuals_NNS X_NN with_IN different_JJ skills_NNS ,_, and_CC a_DT social_JJ network_NN G_NN that_WDT captures_VBZ the_DT compatibility_NN among_IN these_DT individuals_NNS ,_, we_PRP study_VBD the_DT problem_NN of_IN finding_NN X_NN ,_, a_DT subset_NN of_IN X_NN ,_, to_TO perform_VB the_DT task_NN ._.
+We_PRP call_VBP this_DT the_DT TEAM_NNP FORMATION_NNP problem_NN ._.
+We_PRP require_VBP that_IN members_NNS of_IN X_NN '_'' not_RB only_RB meet_VB the_DT skill_NN requirements_NNS of_IN the_DT task_NN ,_, but_CC can_MD also_RB work_VB effectively_RB together_RB as_IN a_DT team_NN ._.
+We_PRP measure_VBP effectiveness_NN using_VBG the_DT communication_NN cost_NN incurred_VBN by_IN the_DT subgraph_NN in_IN G_NN that_WDT only_RB involves_VBZ X_NN '_'' ._.
+We_PRP study_VBD two_CD variants_NNS of_IN the_DT problem_NN for_IN two_CD different_JJ communication-cost_JJ functions_NNS ,_, and_CC show_VBP that_IN both_DT variants_NNS are_VBP NP-hard_JJ ._.
+We_PRP explore_VBP their_PRP$ connections_NNS with_IN existing_VBG combinatorial_JJ problems_NNS and_CC give_VB novel_JJ algorithms_NNS for_IN their_PRP$ solution_NN ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, this_DT is_VBZ the_DT first_JJ work_NN to_TO consider_VB the_DT TEAM_NNP FORMATION_NNP problem_NN in_IN the_DT presence_NN of_IN a_DT social_JJ network_NN of_IN individuals_NNS ._.
+Experiments_NNS on_IN the_DT DBLP_NN dataset_NN show_VBP that_IN our_PRP$ framework_NN works_VBZ well_RB in_IN practice_NN and_CC gives_VBZ useful_JJ and_CC intuitive_JJ results_NNS ._.

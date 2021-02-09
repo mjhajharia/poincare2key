@@ -1,0 +1,7 @@
+Ranking_VBG the_DT web_NN frontier_NN
+The_DT celebrated_JJ PageRank_NN algorithm_NN has_VBZ proved_VBN to_TO be_VB a_DT very_RB effective_JJ paradigm_NN for_IN ranking_JJ results_NNS of_IN web_NN search_NN algorithms_NNS ._.
+In_IN this_DT paper_NN we_PRP refine_VBP this_DT basic_JJ paradigm_NN to_TO take_VB into_IN account_NN several_JJ evolving_VBG prominent_JJ features_NNS of_IN the_DT web_NN ,_, and_CC propose_VBP several_JJ algorithmic_JJ innovations_NNS ._.
+First_RB ,_, we_PRP analyze_VBP features_NNS of_IN the_DT rapidly_RB growing_VBG ``_`` frontier_NN ''_'' of_IN the_DT web_NN ,_, namely_RB the_DT part_NN of_IN the_DT web_NN that_IN crawlers_NNS are_VBP unable_JJ to_TO cover_VB for_IN one_CD reason_NN or_CC another_DT ._.
+We_PRP analyze_VBP the_DT effect_NN of_IN these_DT pages_NNS and_CC find_VB it_PRP to_TO be_VB significant_JJ ._.
+We_PRP suggest_VBP ways_NNS to_TO improve_VB the_DT quality_NN of_IN ranking_NN by_IN modeling_NN the_DT growing_VBG presence_NN of_IN ``_`` link_NN rot_NN ''_'' on_IN the_DT web_NN as_IN more_JJR sites_NNS and_CC pages_NNS fall_VBP out_IN of_IN maintenance_NN ._.
+Finally_RB we_PRP suggest_VBP new_JJ methods_NNS of_IN ranking_NN that_WDT are_VBP motivated_VBN by_IN the_DT hierarchical_JJ structure_NN of_IN the_DT web_NN ,_, are_VBP more_RBR efficient_JJ than_IN PageRank_NNP ,_, and_CC may_MD be_VB more_RBR resistant_JJ to_TO direct_JJ manipulation_NN ._.

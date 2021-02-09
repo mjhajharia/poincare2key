@@ -1,0 +1,9 @@
+Mining_NNP high_JJ dimensional_JJ data_NNS for_IN classifier_NN knowledge_NN
+We_PRP present_JJ in_IN this_DT paper_NN the_DT problem_NN of_IN discovering_VBG sets_NNS of_IN attribute-value_JJ pairs_NNS in_IN high_JJ dimensional_JJ data_NN sets_NNS that_WDT are_VBP of_IN interest_NN not_RB because_IN of_IN co-occurrence_NN alone_RB ,_, but_CC due_JJ to_TO their_PRP$ value_NN in_IN serving_VBG as_IN cores_NNS for_IN potential_JJ classifiers_NNS of_IN clusters_NNS ._.
+We_PRP present_VBP our_PRP$ algorithm_NN in_IN the_DT context_NN of_IN a_DT gene-expression_NN dataset_NN ._.
+Gene_NN expression_NN data_NNS ,_, in_IN most_JJS situations_NNS ,_, is_VBZ insufficient_JJ for_IN clustering_NN algorithms_NNS and_CC any_DT statistical_JJ inference_NN because_IN for_IN 6000_CD +_CC genes_NNS ,_, typically_RB only_RB 10s_CD and_CC at_IN most_JJS 100s_NNS of_IN data_NNS points_NNS become_VBP available_JJ ._.
+It_PRP is_VBZ difficult_JJ to_TO use_VB statistical_JJ techniques_NNS to_TO design_VB a_DT classifier_NN for_IN such_JJ immensely_RB under-specified_JJ data_NNS ._.
+The_DT observed_VBN data_NNS ,_, though_IN statistically_RB ,_, insufficient_JJ contains_VBZ some_DT information_NN about_IN the_DT domain_NN ._.
+Our_PRP$ goal_NN is_VBZ to_TO discover_VB as_IN much_JJ information_NN about_IN all_DT potential_JJ classifiers_NNS as_IN possible_JJ from_IN the_DT data_NNS and_CC then_RB summarize_VB this_DT knowledge_NN ._.
+This_DT summarization_NN provides_VBZ insights_NNS into_IN the_DT composition_NN of_IN potential_JJ classifiers_NNS ._.
+We_PRP present_VBP here_RB algorithms_NNS and_CC methods_NNS for_IN mining_VBG a_DT high_JJ dimensional_JJ data_NNS set_VBN ,_, exemplified_VBN by_IN a_DT gene_NN expression_NN data_NNS set_VBP ,_, for_IN mining_VBG such_JJ information_NN ._.

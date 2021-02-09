@@ -1,0 +1,9 @@
+Time_NN series_NN shapelets_NNS :_: a_DT new_JJ primitive_JJ for_IN data_NNS mining_NN
+Classification_NN of_IN time_NN series_NN has_VBZ been_VBN attracting_VBG great_JJ interest_NN over_IN the_DT past_JJ decade_NN ._.
+Recent_JJ empirical_JJ evidence_NN has_VBZ strongly_RB suggested_VBN that_IN the_DT simple_JJ nearest_JJS neighbor_NN algorithm_NN is_VBZ very_RB difficult_JJ to_TO beat_VB for_IN most_JJS time_NN series_NN problems_NNS ._.
+While_IN this_DT may_MD be_VB considered_VBN good_JJ news_NN ,_, given_VBN the_DT simplicity_NN of_IN implementing_VBG the_DT nearest_JJS neighbor_NN algorithm_NN ,_, there_EX are_VBP some_DT negative_JJ consequences_NNS of_IN this_DT ._.
+First_RB ,_, the_DT nearest_JJS neighbor_NN algorithm_NN requires_VBZ storing_VBG and_CC searching_VBG the_DT entire_JJ dataset_NN ,_, resulting_VBG in_IN a_DT time_NN and_CC space_NN complexity_NN that_WDT limits_VBZ its_PRP$ applicability_NN ,_, especially_RB on_IN resource-limited_JJ sensors_NNS ._.
+Second_JJ ,_, beyond_IN mere_JJ classification_NN accuracy_NN ,_, we_PRP often_RB wish_VBP to_TO gain_VB some_DT insight_NN into_IN the_DT data_NNS ._.
+In_IN this_DT work_NN we_PRP introduce_VBP a_DT new_JJ time_NN series_NN primitive_JJ ,_, time_NN series_NN shapelets_NNS ,_, which_WDT addresses_VBZ these_DT limitations_NNS ._.
+Informally_RB ,_, shapelets_NNS are_VBP time_NN series_NN subsequences_NNS which_WDT are_VBP in_IN some_DT sense_NN maximally_RB representative_JJ of_IN a_DT class_NN ._.
+As_IN we_PRP shall_MD show_VB with_IN extensive_JJ empirical_JJ evaluations_NNS in_IN diverse_JJ domains_NNS ,_, algorithms_NNS based_VBN on_IN the_DT time_NN series_NN shapelet_NN primitives_NNS can_MD be_VB interpretable_JJ ,_, more_RBR accurate_JJ and_CC significantly_RB faster_RBR than_IN state-of-the-art_JJ classifiers_NNS ._.

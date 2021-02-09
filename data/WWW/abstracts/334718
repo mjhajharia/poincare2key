@@ -1,0 +1,9 @@
+Unsupervised_JJ learning_NN of_IN soft_JJ patterns_NNS for_IN generating_VBG definitions_NNS from_IN online_JJ news_NN
+Breaking_VBG news_NN often_RB contains_VBZ timely_JJ definitions_NNS and_CC descriptions_NNS of_IN current_JJ terms_NNS ,_, organizations_NNS and_CC personalities_NNS ._.
+We_PRP utilize_VBP such_JJ web_NN sources_NNS to_TO construct_VB definitions_NNS for_IN such_JJ terms_NNS ._.
+Previous_JJ work_NN has_VBZ identified_VBN definitions_NNS using_VBG hand-crafted_JJ rules_NNS or_CC supervised_JJ learning_NN that_IN constructs_NNS rigid_JJ ,_, hard_JJ text_NN patterns_NNS ._.
+In_IN contrast_NN ,_, we_PRP demonstrate_VBP a_DT new_JJ approach_NN that_WDT uses_VBZ flexible_JJ ,_, soft_JJ matching_NN patterns_NNS to_TO characterize_VB definition_NN sentences_NNS ._.
+Our_PRP$ soft_JJ patterns_NNS are_VBP able_JJ to_TO effectively_RB accommodate_VB the_DT diversity_NN of_IN definition_NN sentence_NN structure_NN exhibited_VBD in_IN news_NN ._.
+We_PRP use_VBP pseudo-relevance_JJ feedback_NN to_TO automatically_RB label_VB sentences_NNS for_IN use_NN in_IN soft_JJ pattern_NN generation_NN ._.
+The_DT application_NN of_IN our_PRP$ unsupervised_JJ method_NN significantly_RB improves_VBZ baseline_NN systems_NNS on_IN both_CC the_DT standardized_JJ TREC_NN corpus_NN as_RB well_RB as_IN crawled_VBN online_JJ news_NN articles_NNS by_IN 27_CD %_NN and_CC 30_CD %_NN ,_, respectively_RB ,_, in_IN terms_NNS of_IN F_NN measure_NN ._.
+When_WRB applied_VBN to_TO a_DT state-of-art_JJ definition_NN generation_NN system_NN recently_RB fielded_VBD in_IN the_DT TREC_NN 2003_CD definitional_JJ question_NN answering_VBG task_NN ,_, it_PRP improves_VBZ the_DT performance_NN by_IN 14_CD %_NN ._.

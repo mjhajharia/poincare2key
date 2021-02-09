@@ -1,0 +1,5 @@
+Parsing_VBG owl_NN dl_NN :_: trees_NNS or_CC triples_NNS ?_.
+The_DT Web_NN Ontology_NN Language_NN -LRB-_-LRB- OWL_NN -RRB-_-RRB- defines_VBZ three_CD classes_NNS of_IN documents_NNS :_: Lite_NNP ,_, DL_NNP ,_, and_CC Full_JJ ._.
+All_DT RDF\/XML_NN documents_NNS are_VBP OWL_NN Full_JJ documents_NNS ,_, some_DT OWL_NN Full_JJ documents_NNS are_VBP also_RB OWL_NNP DL_NNP documents_NNS ,_, and_CC some_DT OWL_NN DL_NN documents_NNS are_VBP also_RB OWL_NNP Lite_NNP documents_NNS ._.
+This_DT paper_NN discusses_VBZ parsing_NN and_CC species_NN recognition_NN --_: that_DT is_VBZ the_DT process_NN of_IN determining_VBG whether_IN a_DT given_VBN document_NN falls_VBZ into_IN the_DT OWL_NNP Lite_NNP ,_, DL_NN or_CC Full_JJ class_NN ._.
+Wedescribe_NN two_CD alternative_JJ approaches_NNS to_TO this_DT task_NN ,_, one_CD based_VBN on_IN abstract_JJ syntax_NN trees_NNS ,_, the_DT other_JJ on_IN RDF_NNP triples_NNS ,_, and_CC compare_VBP their_PRP$ key_JJ characteristics_NNS ._.

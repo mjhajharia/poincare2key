@@ -1,0 +1,8 @@
+SCTP_NN :_: an_DT innovative_JJ transport_NN layer_NN protocol_NN for_IN the_DT web_NN
+We_PRP propose_VBP using_VBG the_DT Stream_NNP Control_NNP Transmission_NNP Protocol_NNP -LRB-_-LRB- SCTP_NN -RRB-_-RRB- ,_, a_DT recent_JJ IETF_NN transport_NN layer_NN protocol_NN ,_, for_IN reliable_JJ web_NN transport_NN ._.
+Although_IN TCP_NNP has_VBZ traditionally_RB been_VBN used_VBN ,_, we_PRP argue_VBP that_IN SCTP_NN better_RB matches_VBZ the_DT needs_NNS of_IN HTTP-based_JJ network_NN applications_NNS ._.
+This_DT position_NN paper_NN discusses_VBZ SCTP_NN features_NNS that_WDT address_VBP :_: -LRB-_-LRB- i_LS -RRB-_-RRB- head-of-line_JJ blocking_NN within_IN a_DT single_JJ TCP_NN connection_NN ,_, -LRB-_-LRB- ii_LS -RRB-_-RRB- vulnerability_NN to_TO network_NN failures_NNS ,_, and_CC -LRB-_-LRB- iii_LS -RRB-_-RRB- vulnerability_NN to_TO denial-of-service_JJ SYN_NN attacks_NNS ._.
+We_PRP discuss_VBP our_PRP$ experience_NN in_IN modifying_VBG the_DT Apache_NNP server_NN and_CC the_DT Firefox_NNP browser_NN to_TO benefit_VB from_IN SCTP_NNP ,_, and_CC demonstrate_VB our_PRP$ HTTP_NN over_IN SCTP_NN design_NN via_IN simple_JJ experiments_NNS ._.
+We_PRP also_RB discuss_VBP the_DT benefits_NNS of_IN using_VBG SCTP_NN in_IN other_JJ web_NN domains_NNS through_IN two_CD example_NN scenarios_NNS ?_.
+multiplexing_VBG user_NN requests_NNS ,_, and_CC multiplexing_VBG resource_NN access_NN ._.
+Finally_RB ,_, we_PRP highlight_VBP several_JJ SCTP_NN features_NNS that_WDT will_MD be_VB valuable_JJ to_TO the_DT design_NN and_CC implementation_NN of_IN current_JJ HTTP-based_JJ client-server_NN applications_NNS ._.

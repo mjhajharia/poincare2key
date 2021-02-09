@@ -1,0 +1,5 @@
+Design_NN of_IN a_DT crawler_NN with_IN bounded_VBN bandwidth_NN
+This_DT paper_NN presents_VBZ an_DT algorithm_NN to_TO bound_VBD the_DT bandwidth_NN of_IN a_DT Web_NN crawler_NN ._.
+The_DT crawler_NN collects_VBZ statistics_NNS on_IN the_DT transfer_NN rate_NN of_IN each_DT server_NN to_TO predict_VB the_DT expected_VBN bandwidth_NN use_NN for_IN future_JJ downloads_NNS ._.
+The_DT prediction_NN allows_VBZ us_PRP to_TO activate_VB the_DT optimal_JJ number_NN of_IN fetcher_NN threads_NNS in_IN order_NN to_TO exploit_VB the_DT assigned_JJ bandwidth_NN ._.
+The_DT experimental_JJ results_NNS show_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN technique_NN ._.

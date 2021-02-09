@@ -1,0 +1,6 @@
+Towards_IN NIC-based_JJ intrusion_NN detection_NN
+We_PRP present_VBP and_CC evaluate_VBP a_DT NIC-based_JJ network_NN intrusion_NN detection_NN system_NN ._.
+Intrusion_NN detection_NN at_IN the_DT NIC_NNP makes_VBZ the_DT system_NN potentially_RB tamper-proof_JJ and_CC is_VBZ naturally_RB extensible_JJ to_TO work_VB in_IN a_DT distributed_VBN setting_NN ._.
+Simple_JJ anomaly_JJ detection_NN and_CC signature_NN detection_NN based_VBN models_NNS have_VBP been_VBN implemented_VBN on_IN the_DT NIC_NNP firmware_NN ,_, which_WDT has_VBZ its_PRP$ own_JJ processor_NN and_CC memory_NN ._.
+We_PRP empirically_RB evaluate_VBP such_JJ systems_NNS from_IN the_DT perspective_NN of_IN quality_NN and_CC performance_NN -LRB-_-LRB- bandwidth_NN of_IN acceptable_JJ messages_NNS -RRB-_-RRB- under_IN varying_VBG conditions_NNS of_IN host_NN load_NN ._.
+The_DT preliminary_JJ results_NNS we_PRP obtain_VBP are_VBP very_RB encouraging_JJ and_CC lead_VB us_PRP to_TO believe_VB that_IN such_JJ NIC-based_JJ security_NN schemes_NNS could_MD very_RB well_RB be_VB a_DT crucial_JJ part_NN of_IN next_JJ generation_NN network_NN security_NN systems_NNS ._.

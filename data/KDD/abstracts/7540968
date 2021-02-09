@@ -1,0 +1,11 @@
+On_IN string_NN classification_NN in_IN data_NNS streams_NNS
+String_NNP data_NNS has_VBZ recently_RB become_VBN important_JJ because_IN of_IN its_PRP$ use_NN in_IN a_DT number_NN of_IN applications_NNS such_JJ as_IN computational_JJ and_CC molecular_JJ biology_NN ,_, protein_NN analysis_NN ,_, and_CC market_NN basket_NN data_NNS ._.
+In_IN many_JJ cases_NNS ,_, these_DT strings_NNS contain_VBP a_DT wide_JJ variety_NN of_IN substructures_NNS which_WDT may_MD have_VB physical_JJ significance_NN for_IN that_DT application_NN ._.
+For_IN example_NN ,_, such_JJ substructures_NNS could_MD represent_VB important_JJ fragments_NNS of_IN a_DT DNA_NN string_NN or_CC an_DT interesting_JJ portion_NN of_IN a_DT fraudulent_JJ transaction_NN ._.
+In_IN such_PDT a_DT case_NN ,_, it_PRP is_VBZ desirable_JJ to_TO determine_VB the_DT identity_NN ,_, location_NN ,_, and_CC extent_NN of_IN that_DT substructure_NN in_IN the_DT data_NNS ._.
+This_DT is_VBZ a_DT much_RB more_RBR difficult_JJ generalization_NN of_IN the_DT classification_NN problem_NN ,_, since_IN the_DT latter_JJ problem_NN labels_VBZ entire_JJ strings_NNS rather_RB than_IN deal_NN with_IN the_DT more_RBR complex_JJ task_NN of_IN determining_VBG string_NN fragments_NNS with_IN a_DT particular_JJ kind_NN of_IN behavior_NN ._.
+The_DT problem_NN becomes_VBZ even_RB more_RBR complicated_JJ when_WRB different_JJ kinds_NNS of_IN substrings_NNS show_VBP complicated_JJ nesting_JJ patterns_NNS ._.
+Therefore_RB ,_, we_PRP define_VBP a_DT somewhat_RB different_JJ problem_NN which_WDT we_PRP refer_VBP to_TO as_IN the_DT generalized_JJ classification_NN problem_NN ._.
+We_PRP propose_VBP a_DT scalable_JJ approach_NN based_VBN on_IN hidden_JJ markov_NN models_NNS for_IN this_DT problem_NN ._.
+We_PRP show_VBP how_WRB to_TO implement_VB the_DT generalized_JJ string_NN classification_NN procedure_NN for_IN very_RB large_JJ data_NNS bases_NNS and_CC data_NNS streams_NNS ._.
+We_PRP present_VBP experimental_JJ results_NNS over_IN a_DT number_NN of_IN large_JJ data_NNS sets_NNS and_CC data_NNS streams_NNS ._.

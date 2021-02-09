@@ -1,0 +1,11 @@
+Structured_VBN learning_NN for_IN non-smooth_JJ ranking_NN losses_NNS
+Learning_NNP to_TO rank_VB from_IN relevance_NN judgment_NN is_VBZ an_DT active_JJ research_NN area_NN ._.
+Itemwise_JJ score_NN regression_NN ,_, pairwise_JJ preference_NN satisfaction_NN ,_, and_CC listwise_NN structured_JJ learning_NN are_VBP the_DT major_JJ techniques_NNS in_IN use_NN ._.
+Listwise_JJ structured_JJ learning_NN has_VBZ been_VBN applied_VBN recently_RB to_TO optimize_VB important_JJ non-decomposable_JJ ranking_NN criteria_NNS like_IN AUC_NN -LRB-_-LRB- area_NN under_IN ROC_NN curve_NN -RRB-_-RRB- and_CC MAP_NN -LRB-_-LRB- mean_JJ average_JJ precision_NN -RRB-_-RRB- ._.
+We_PRP propose_VBP new_JJ ,_, almost-linear-time_JJ algorithms_NNS to_TO optimize_VB for_IN two_CD other_JJ criteria_NNS widely_RB used_VBN to_TO evaluate_VB search_NN systems_NNS :_: MRR_NN -LRB-_-LRB- mean_NN reciprocal_JJ rank_NN -RRB-_-RRB- and_CC NDCG_NN -LRB-_-LRB- normalized_VBN discounted_JJ cumulative_JJ gain_NN -RRB-_-RRB- in_IN the_DT max-margin_JJ structured_JJ learning_NN framework_NN ._.
+We_PRP also_RB demonstrate_VBP that_IN ,_, for_IN different_JJ ranking_JJ criteria_NNS ,_, one_PRP may_MD need_VB to_TO use_VB different_JJ feature_NN maps_NNS ._.
+Search_VB applications_NNS should_MD not_RB be_VB optimized_VBN in_IN favor_NN of_IN a_DT single_JJ criterion_NN ,_, because_IN they_PRP need_VBP to_TO cater_VB to_TO a_DT variety_NN of_IN queries_NNS ._.
+E.g._NN ,_, MRR_NN is_VBZ best_JJS for_IN navigational_JJ queries_NNS ,_, while_IN NDCG_NN is_VBZ best_JJS for_IN informational_JJ queries_NNS ._.
+A_DT key_JJ contribution_NN of_IN this_DT paper_NN is_VBZ to_TO fold_VB multiple_JJ ranking_JJ loss_NN functions_NNS into_IN a_DT multi-criteria_JJ max-margin_NN optimization_NN ._.
+The_DT result_NN is_VBZ a_DT single_JJ ,_, robust_JJ ranking_NN model_NN that_WDT is_VBZ close_JJ to_TO the_DT best_JJS accuracy_NN of_IN learners_NNS trained_VBN on_IN individual_JJ criteria_NNS ._.
+In_IN fact_NN ,_, experiments_NNS over_IN the_DT popular_JJ LETOR_NN and_CC TREC_NN data_NNS sets_NNS show_VBP that_IN ,_, contrary_JJ to_TO conventional_JJ wisdom_NN ,_, a_DT test_NN criterion_NN is_VBZ often_RB not_RB best_RBS served_VBN by_IN training_NN with_IN the_DT same_JJ individual_JJ criterion_NN ._.

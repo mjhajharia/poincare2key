@@ -1,0 +1,5 @@
+Automatic_NNP generation_NN of_IN web_NN portals_NNS using_VBG artificial_JJ ants_NNS
+We_PRP present_JJ in_IN this_DT work_NN a_DT new_JJ model_NN -LRB-_-LRB- named_VBN AntTree_NNP -RRB-_-RRB- based_VBN on_IN artificial_JJ ants_NNS for_IN document_NN hierarchical_JJ clustering_NN ._.
+This_DT model_NN is_VBZ inspired_VBN from_IN the_DT self-assembly_JJ behavior_NN of_IN real_JJ ants_NNS ._.
+We_PRP have_VBP simulated_JJ this_DT behavior_NN to_TO build_VB a_DT hierarchical_JJ tree-structured_JJ partitioning_NN of_IN a_DT set_NN of_IN documents_NNS ,_, according_VBG to_TO the_DT similarities_NNS between_IN these_DT documents_NNS ._.
+We_PRP have_VBP successfully_RB compared_VBN our_PRP$ results_NNS to_TO those_DT obtained_VBN by_IN ascending_VBG hierarchical_JJ clustering_NN ._.

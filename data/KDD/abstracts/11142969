@@ -1,0 +1,11 @@
+Connecting_VBG the_DT dots_NNS between_IN news_NN articles_NNS
+The_DT process_NN of_IN extracting_VBG useful_JJ knowledge_NN from_IN large_JJ datasets_NNS has_VBZ become_VBN one_CD of_IN the_DT most_RBS pressing_JJ problems_NNS in_IN today_NN 's_POS society_NN ._.
+The_DT problem_NN spans_VBZ entire_JJ sectors_NNS ,_, from_IN scientists_NNS to_TO intelligence_NN analysts_NNS and_CC web_NN users_NNS ,_, all_DT of_IN whom_WP are_VBP constantly_RB struggling_VBG to_TO keep_VB up_RP with_IN the_DT larger_JJR and_CC larger_JJR amounts_NNS of_IN content_NN published_VBN every_DT day_NN ._.
+With_IN this_DT much_JJ data_NN ,_, it_PRP is_VBZ often_RB easy_JJ to_TO miss_VB the_DT big_JJ picture_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP investigate_VBP methods_NNS for_IN automatically_RB connecting_VBG the_DT dots_NNS --_: providing_VBG a_DT structured_JJ ,_, easy_JJ way_NN to_TO navigate_VB within_IN a_DT new_JJ topic_NN and_CC discover_VB hidden_JJ connections_NNS ._.
+We_PRP focus_VBP on_IN the_DT news_NN domain_NN :_: given_VBN two_CD news_NN articles_NNS ,_, our_PRP$ system_NN automatically_RB finds_VBZ a_DT coherent_JJ chain_NN linking_VBG them_PRP together_RB ._.
+For_IN example_NN ,_, it_PRP can_MD recover_VB the_DT chain_NN of_IN events_NNS starting_VBG with_IN the_DT decline_NN of_IN home_NN prices_NNS -LRB-_-LRB- January_NNP 2007_CD -RRB-_-RRB- ,_, and_CC ending_VBG with_IN the_DT ongoing_JJ health-care_NN debate_NN ._.
+We_PRP formalize_VBP the_DT characteristics_NNS of_IN a_DT good_JJ chain_NN and_CC provide_VB an_DT efficient_JJ algorithm_NN -LRB-_-LRB- with_IN theoretical_JJ guarantees_NNS -RRB-_-RRB- to_TO connect_VB two_CD fixed_VBN endpoints_NNS ._.
+We_PRP incorporate_VBP user_NN feedback_NN into_IN our_PRP$ framework_NN ,_, allowing_VBG the_DT stories_NNS to_TO be_VB refined_VBN and_CC personalized_VBN ._.
+Finally_RB ,_, we_PRP evaluate_VBP our_PRP$ algorithm_NN over_IN real_JJ news_NN data_NNS ._.
+Our_PRP$ user_NN studies_NNS demonstrate_VBP the_DT algorithm_NN 's_POS effectiveness_NN in_IN helping_VBG users_NNS understanding_VBG the_DT news_NN ._.

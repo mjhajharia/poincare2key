@@ -1,0 +1,10 @@
+Factorization_NNP meets_VBZ the_DT neighborhood_NN :_: a_DT multifaceted_JJ collaborative_JJ filtering_VBG model_NN
+Recommender_NN systems_NNS provide_VBP users_NNS with_IN personalized_JJ suggestions_NNS for_IN products_NNS or_CC services_NNS ._.
+These_DT systems_NNS often_RB rely_VBP on_IN Collaborating_NNP Filtering_NNP -LRB-_-LRB- CF_NN -RRB-_-RRB- ,_, where_WRB past_JJ transactions_NNS are_VBP analyzed_VBN in_IN order_NN to_TO establish_VB connections_NNS between_IN users_NNS and_CC products_NNS ._.
+The_DT two_CD more_JJR successful_JJ approaches_NNS to_TO CF_NN are_VBP latent_JJ factor_NN models_NNS ,_, which_WDT directly_RB profile_VBP both_DT users_NNS and_CC products_NNS ,_, and_CC neighborhood_NN models_NNS ,_, which_WDT analyze_VBP similarities_NNS between_IN products_NNS or_CC users_NNS ._.
+In_IN this_DT work_NN we_PRP introduce_VBP some_DT innovations_NNS to_TO both_DT approaches_NNS ._.
+The_DT factor_NN and_CC neighborhood_NN models_NNS can_MD now_RB be_VB smoothly_RB merged_VBN ,_, thereby_RB building_VBG a_DT more_RBR accurate_JJ combined_JJ model_NN ._.
+Further_JJ accuracy_NN improvements_NNS are_VBP achieved_VBN by_IN extending_VBG the_DT models_NNS to_TO exploit_VB both_CC explicit_JJ and_CC implicit_JJ feedback_NN by_IN the_DT users_NNS ._.
+The_DT methods_NNS are_VBP tested_VBN on_IN the_DT Netflix_NNP data_NNS ._.
+Results_NNS are_VBP better_JJR than_IN those_DT previously_RB published_VBN on_IN that_DT dataset_NN ._.
+In_IN addition_NN ,_, we_PRP suggest_VBP a_DT new_JJ evaluation_NN metric_NN ,_, which_WDT highlights_VBZ the_DT differences_NNS among_IN methods_NNS ,_, based_VBN on_IN their_PRP$ performance_NN at_IN a_DT top-K_JJ recommendation_NN task_NN ._.

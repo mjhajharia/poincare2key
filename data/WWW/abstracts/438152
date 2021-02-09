@@ -1,0 +1,6 @@
+Background_NN knowledge_NN for_IN ontology_NN construction_NN
+In_IN this_DT paper_NN we_PRP describe_VBP a_DT solution_NN for_IN incorporating_VBG background_NN knowledge_NN into_IN the_DT OntoGen_NNP system_NN for_IN semi-automatic_JJ ontology_NN construction_NN ._.
+This_DT makes_VBZ it_PRP easier_JJR for_IN different_JJ users_NNS to_TO construct_VB different_JJ and_CC more_RBR personalized_JJ ontologies_NNS for_IN the_DT same_JJ domain_NN ._.
+To_TO achieve_VB this_DT we_PRP introduce_VBP a_DT word_NN weighting_NN schema_NN to_TO be_VB used_VBN in_IN the_DT document_NN representation_NN ._.
+The_DT weighting_NN schema_NN is_VBZ learned_VBN based_VBN on_IN the_DT background_NN knowledge_NN provided_VBN by_IN user_NN ._.
+It_PRP is_VBZ than_IN used_VBN by_IN OntoGen_NNP 's_POS machine_NN learning_NN and_CC text_NN mining_NN algorithms_NNS ._.

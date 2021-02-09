@@ -1,0 +1,10 @@
+Statically_RB locating_VBG web_NN application_NN bugs_NNS caused_VBN by_IN asynchronous_JJ calls_NNS
+Ajax_NNP becomes_VBZ more_RBR and_CC more_RBR important_JJ for_IN web_NN applications_NNS that_WDT care_VBP about_IN client_NN side_NN user_NN experience_NN ._.
+It_PRP allows_VBZ sending_VBG requests_NNS asynchronously_RB ,_, without_IN blocking_VBG clients_NNS from_IN continuing_VBG execution_NN ._.
+Callback_NN functions_NNS are_VBP only_RB executed_VBN upon_IN receiving_VBG the_DT responses_NNS ._.
+While_IN such_JJ mechanism_NN makes_VBZ browsing_VBG a_DT smooth_JJ experience_NN ,_, it_PRP may_MD cause_VB severe_JJ problems_NNS in_IN the_DT presence_NN of_IN unexpected_JJ network_NN latency_NN ,_, due_JJ to_TO the_DT non-determinism_NN of_IN asynchronism_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP demonstrate_VBP the_DT possible_JJ problems_NNS caused_VBN by_IN the_DT asynchronism_NN and_CC propose_VBP a_DT static_JJ program_NN analysis_NN to_TO automatically_RB detect_VB such_JJ bugs_NNS in_IN web_NN applications_NNS ._.
+As_IN client_NN side_NN Ajax_NN code_NN is_VBZ often_RB wrapped_VBN in_IN server-side_JJ scripts_NNS ,_, we_PRP also_RB develop_VBP a_DT technique_NN that_WDT extracts_VBZ client-side_JJ JavaScript_NNP code_NN from_IN server-side_JJ scripts_NNS ._.
+We_PRP evaluate_VBP our_PRP$ technique_NN on_IN a_DT number_NN of_IN real-world_JJ web_NN applications_NNS ._.
+Our_PRP$ results_NNS show_VBP that_IN it_PRP can_MD effectively_RB identify_VB real_JJ bugs_NNS ._.
+We_PRP also_RB discuss_VBP possible_JJ ways_NNS to_TO avoid_VB such_JJ bugs_NNS ._.

@@ -1,0 +1,8 @@
+Exception_NN handling_NN in_IN workflow-driven_JJ Web_NN applications_NNS
+As_IN the_DT Web_NN becomes_VBZ a_DT platform_NN for_IN implementing_VBG B2B_NN applications_NNS ,_, the_DT need_NN arises_VBZ of_IN Web_NN conceptual_JJ models_NNS for_IN describing_VBG Web_NN oriented_JJ workflow_NN applications_NNS implementing_VBG business_NN processes_NNS ._.
+In_IN this_DT context_NN ,_, new_JJ problems_NNS about_IN process_NN correctness_NNS arise_VBP ,_, due_JJ to_TO the_DT loose_JJ control_NN of_IN Web_NN applications_NNS upon_IN the_DT behavior_NN of_IN their_PRP$ Web_NN clients_NNS ._.
+Indeed_RB ,_, incoherent_JJ user_NN 's_POS behavior_NN can_MD lead_VB to_TO inconsistent_JJ processes_NNS ._.
+This_DT paper_NN presents_VBZ a_DT high_JJ level_NN approach_NN to_TO the_DT management_NN of_IN exceptions_NNS that_WDT occur_VBP during_IN the_DT execution_NN of_IN processes_NNS on_IN the_DT Web_NN ._.
+We_PRP present_VBP a_DT classification_NN of_IN exceptions_NNS that_WDT can_MD be_VB raised_VBN inside_IN workflow-driven_JJ Web_NN applications_NNS ,_, and_CC recovery_NN policies_NNS to_TO retrieve_VB coherent_JJ status_NN and_CC data_NNS after_IN an_DT exception_NN ._.
+We_PRP devise_VBP these_DT concepts_NNS at_IN high_JJ level_NN and_CC then_RB we_PRP exploit_VBP them_PRP using_VBG a_DT Web_NN modeling_NN language_NN -LRB-_-LRB- WebML_NN -RRB-_-RRB- that_IN in_IN turn_NN provides_VBZ development_NN facilities_NNS like_IN automatic_JJ code_NN generation_NN ,_, validation_NN of_IN hypertext_NN models_NNS ,_, and_CC so_RB on_RB ._.
+An_DT industrial_JJ implementation_NN experience_NN is_VBZ briefly_RB presented_VBN too_RB ._.

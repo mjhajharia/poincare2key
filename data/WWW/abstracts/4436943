@@ -1,0 +1,5 @@
+First-order_JJ focused_JJ crawling_NN
+This_DT paper_NN reports_VBZ a_DT new_JJ general_JJ framework_NN of_IN focused_JJ web_NN crawling_VBG based_VBN on_IN ``_`` relational_JJ subgroup_NN discovery_NN ''_'' ._.
+Predicates_NNS are_VBP used_VBN explicitly_RB to_TO represent_VB the_DT relevance_NN clues_NNS of_IN those_DT unvisited_JJ pages_NNS in_IN the_DT crawl_NN frontier_NN ,_, and_CC then_RB first-order_JJ classification_NN rules_NNS are_VBP induced_VBN using_VBG subgroup_NN discovery_NN technique_NN ._.
+The_DT learned_VBN relational_JJ rules_NNS with_IN sufficient_JJ support_NN and_CC confidence_NN will_MD guide_VB the_DT crawling_VBG process_NN afterwards_RB ._.
+We_PRP present_VBP the_DT many_JJ interesting_JJ features_NNS of_IN our_PRP$ proposed_VBN first-order_JJ focused_JJ crawler_NN ,_, together_RB with_IN preliminary_JJ promising_JJ experimental_JJ results_NNS ._.

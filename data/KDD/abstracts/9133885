@@ -1,0 +1,13 @@
+Relational_JJ learning_NN via_IN collective_JJ matrix_NN factorization_NN
+Relational_JJ learning_NN is_VBZ concerned_VBN with_IN predicting_VBG unknown_JJ values_NNS of_IN a_DT relation_NN ,_, given_VBN a_DT database_NN of_IN entities_NNS and_CC observed_VBN relations_NNS among_IN entities_NNS ._.
+An_DT example_NN of_IN relational_JJ learning_NN is_VBZ movie_NN rating_NN prediction_NN ,_, where_WRB entities_NNS could_MD include_VB users_NNS ,_, movies_NNS ,_, genres_NNS ,_, and_CC actors_NNS ._.
+Relations_NNS encode_VBP users_NNS '_POS ratings_NNS of_IN movies_NNS ,_, movies_NNS '_POS genres_NNS ,_, and_CC actors_NNS '_POS roles_NNS in_IN movies_NNS ._.
+A_DT common_JJ prediction_NN technique_NN given_VBN one_CD pairwise_JJ relation_NN ,_, for_IN example_NN a_DT #users_CD x_CC #movies_CD ratings_NNS matrix_NN ,_, is_VBZ low-rank_JJ matrix_NN factorization_NN ._.
+In_IN domains_NNS with_IN multiple_JJ relations_NNS ,_, represented_VBN as_IN multiple_JJ matrices_NNS ,_, we_PRP may_MD improve_VB predictive_JJ accuracy_NN by_IN exploiting_VBG information_NN from_IN one_CD relation_NN while_IN predicting_VBG another_DT ._.
+To_TO this_DT end_NN ,_, we_PRP propose_VBP a_DT collective_JJ matrix_NN factorization_NN model_NN :_: we_PRP simultaneously_RB factor_VBP several_JJ matrices_NNS ,_, sharing_VBG parameters_NNS among_IN factors_NNS when_WRB an_DT entity_NN participates_VBZ in_IN multiple_JJ relations_NNS ._.
+Each_DT relation_NN can_MD have_VB a_DT different_JJ value_NN type_NN and_CC error_NN distribution_NN ;_: so_RB ,_, we_PRP allow_VBP nonlinear_JJ relationships_NNS between_IN the_DT parameters_NNS and_CC outputs_NNS ,_, using_VBG Bregman_NNP divergences_NNS to_TO measure_VB error_NN ._.
+We_PRP extend_VBP standard_JJ alternating_VBG projection_NN algorithms_NNS to_TO our_PRP$ model_NN ,_, and_CC derive_VB an_DT efficient_JJ Newton_NNP update_VB for_IN the_DT projection_NN ._.
+Furthermore_RB ,_, we_PRP propose_VBP stochastic_JJ optimization_NN methods_NNS to_TO deal_VB with_IN large_JJ ,_, sparse_JJ matrices_NNS ._.
+Our_PRP$ model_NN generalizes_VBZ several_JJ existing_VBG matrix_NN factorization_NN methods_NNS ,_, and_CC therefore_RB yields_VBZ new_JJ large-scale_JJ optimization_NN algorithms_NNS for_IN these_DT problems_NNS ._.
+Our_PRP$ model_NN can_MD handle_VB any_DT pairwise_JJ relational_JJ schema_NN and_CC a_DT wide_JJ variety_NN of_IN error_NN models_NNS ._.
+We_PRP demonstrate_VBP its_PRP$ efficiency_NN ,_, as_RB well_RB as_IN the_DT benefit_NN of_IN sharing_VBG parameters_NNS among_IN relations_NNS ._.

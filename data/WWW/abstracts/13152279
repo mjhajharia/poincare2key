@@ -1,0 +1,5 @@
+Analysis_NN of_IN community_NN structure_NN in_IN Wikipedia_NNP
+We_PRP present_VBP the_DT results_NNS of_IN a_DT community_NN detection_NN analysis_NN of_IN the_DT Wikipedia_NNP graph_NN ._.
+Distinct_JJ communities_NNS in_IN Wikipedia_NNP contain_VBP semantically_RB closely_RB related_JJ articles_NNS ._.
+The_DT central_JJ topic_NN of_IN a_DT community_NN can_MD be_VB identified_VBN using_VBG PageRank_NN ._.
+Extracted_VBN communities_NNS can_MD be_VB organized_VBN hierarchically_RB similar_JJ to_TO manually_RB created_VBN Wikipedia_NNP category_NN structure_NN ._.

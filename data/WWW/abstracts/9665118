@@ -1,0 +1,10 @@
+Performing_VBG grouping_NN and_CC aggregate_NN functions_NNS in_IN XML_NN queries_NNS
+Since_IN more_JJR and_CC more_JJR business_NN data_NNS are_VBP represented_VBN in_IN XML_NN format_NN ,_, there_EX is_VBZ a_DT compelling_JJ need_NN of_IN supporting_VBG analytical_JJ operations_NNS in_IN XML_NN queries_NNS ._.
+Particularly_RB ,_, the_DT latest_JJS version_NN of_IN XQuery_NN proposed_VBN by_IN W3C_NN ,_, XQuery_NN 1.1_CD ,_, introduces_VBZ a_DT new_JJ construct_NN to_TO explicitly_RB express_VB grouping_VBG operation_NN in_IN FLWOR_NN expression_NN ._.
+Existing_VBG works_NNS in_IN XML_NN query_NN processing_NN mainly_RB focus_VB on_IN physically_RB matching_VBG query_NN structure_NN over_IN XML_NN document_NN ._.
+Given_VBN the_DT explicit_JJ grouping_VBG operation_NN in_IN a_DT query_NN ,_, how_WRB to_TO efficiently_RB compute_VB grouping_NN and_CC aggregate_NN functions_NNS over_IN XML_NN document_NN is_VBZ not_RB well_RB studied_VBN yet_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP extend_VBP our_PRP$ previous_JJ XML_NN query_NN processing_NN algorithm_NN ,_, VERT_NN ,_, to_TO efficiently_RB perform_VB grouping_NN and_CC aggregate_NN function_NN in_IN queries_NNS ._.
+The_DT main_JJ technique_NN of_IN our_PRP$ approach_NN is_VBZ introducing_VBG relational_JJ tables_NNS to_TO index_NN values_NNS ._.
+Query_JJ pattern_NN matching_NN and_CC aggregation_NN computing_NN are_VBP both_DT conducted_VBN with_IN table_NN indices_NNS ._.
+We_PRP also_RB propose_VBP two_CD semantic_JJ optimizations_NNS to_TO further_RB improve_VB the_DT query_NN performance_NN ._.
+Finally_RB we_PRP present_VBP experimental_JJ results_NNS to_TO validate_VB the_DT efficiency_NN of_IN our_PRP$ approach_NN ,_, over_IN other_JJ existing_VBG approaches_NNS ._.

@@ -1,0 +1,10 @@
+Robust_JJ space_NN transformations_NNS for_IN distance-based_JJ operations_NNS
+For_IN many_JJ KDD_NNP operations_NNS ,_, such_JJ as_IN nearest_JJS neighbor_NN search_NN ,_, distance-based_JJ clustering_NN ,_, and_CC outlier_NN detection_NN ,_, there_EX is_VBZ an_DT underlying_VBG &_CC kgr_FW ;-D_FW data_NNS space_NN in_IN which_WDT each_DT tuple\/object_NN is_VBZ represented_VBN as_IN a_DT point_NN in_IN the_DT space_NN ._.
+In_IN the_DT presence_NN of_IN differing_VBG scales_NNS ,_, variability_NN ,_, correlation_NN ,_, and\/or_CC outliers_NNS ,_, we_PRP may_MD get_VB unintuitive_JJ results_NNS if_IN an_DT inappropriate_JJ space_NN is_VBZ used_VBN ._.
+The_DT fundamental_JJ question_NN that_IN this_DT paper_NN addresses_NNS is_VBZ :_: ``_`` What_WP then_RB is_VBZ an_DT appropriate_JJ space_NN ?_. ''_''
+We_PRP propose_VBP using_VBG a_DT robust_JJ space_NN transformation_NN called_VBN the_DT Donoho-Stahel_NNP estimator_NN ._.
+In_IN the_DT first_JJ half_NN of_IN the_DT paper_NN ,_, we_PRP show_VBP the_DT key_JJ properties_NNS of_IN the_DT estimator_NN ._.
+Of_IN particular_JJ importance_NN to_TO KDD_NNP applications_NNS involving_VBG databases_NNS is_VBZ the_DT stability_NN property_NN ,_, which_WDT says_VBZ that_IN in_IN spite_NN of_IN frequent_JJ updates_NNS ,_, the_DT estimator_NN does_VBZ not_RB :_: -LRB-_-LRB- a_LS -RRB-_-RRB- change_NN much_RB ,_, -LRB-_-LRB- b_NN -RRB-_-RRB- lose_VBP its_PRP$ usefulness_NN ,_, or_CC -LRB-_-LRB- c_NN -RRB-_-RRB- require_VBP re-computation_NN ._.
+In_IN the_DT second_JJ half_NN ,_, we_PRP focus_VBP on_IN the_DT computation_NN of_IN the_DT estimator_NN for_IN high-dimensional_JJ databases_NNS ._.
+We_PRP develop_VBP randomized_VBN algorithms_NNS and_CC evaluate_VB how_WRB well_RB they_PRP perform_VBP empirically_RB ._.
+The_DT novel_JJ algorithm_NN we_PRP develop_VBP called_VBN the_DT Hybrid-random_JJ algorithm_NN is_VBZ ,_, in_IN most_JJS cases_NNS ,_, at_IN least_JJS an_DT order_NN of_IN magnitude_NN faster_RBR than_IN the_DT Fixed-angle_JJ and_CC Subsampling_JJ algorithms_NNS ._.

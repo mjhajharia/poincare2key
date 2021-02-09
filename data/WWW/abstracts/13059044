@@ -1,0 +1,4 @@
+Efficient_JJ diversification_NN of_IN search_NN results_NNS using_VBG query_JJ logs_NNS
+We_PRP study_VBD the_DT problem_NN of_IN diversifying_VBG search_NN results_NNS by_IN exploiting_VBG the_DT knowledge_NN mined_VBN from_IN query_JJ logs_NNS ._.
+Our_PRP$ proposal_NN exploits_VBZ the_DT presence_NN of_IN different_JJ ``_`` specializations_NNS ''_'' of_IN queries_NNS in_IN query_NN logs_NNS to_TO detect_VB the_DT submission_NN of_IN ambiguous\/faceted_JJ queries_NNS ,_, and_CC manage_VB them_PRP by_IN diversifying_VBG the_DT search_NN results_NNS returned_VBD in_IN order_NN to_TO cover_VB the_DT different_JJ possible_JJ interpretations_NNS of_IN the_DT query_NN ._.
+We_PRP present_VBP an_DT original_JJ formulation_NN of_IN the_DT results_NNS diversification_NN problem_NN in_IN terms_NNS of_IN an_DT objective_JJ function_NN to_TO be_VB maximized_VBN that_DT admits_VBZ the_DT finding_NN of_IN an_DT optimal_JJ solution_NN in_IN linear_JJ time_NN ._.

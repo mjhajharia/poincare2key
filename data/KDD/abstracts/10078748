@@ -1,0 +1,13 @@
+Social_NN influence_NN analysis_NN in_IN large-scale_JJ networks_NNS
+In_IN large_JJ social_JJ networks_NNS ,_, nodes_NNS -LRB-_-LRB- users_NNS ,_, entities_NNS -RRB-_-RRB- are_VBP influenced_VBN by_IN others_NNS for_IN various_JJ reasons_NNS ._.
+For_IN example_NN ,_, the_DT colleagues_NNS have_VBP strong_JJ influence_NN on_IN one_NN 's_POS work_NN ,_, while_IN the_DT friends_NNS have_VBP strong_JJ influence_NN on_IN one_NN 's_POS daily_JJ life_NN ._.
+How_WRB to_TO differentiate_VB the_DT social_JJ influences_NNS from_IN different_JJ angles_NNS -LRB-_-LRB- topics_NNS -RRB-_-RRB- ?_.
+How_WRB to_TO quantify_VB the_DT strength_NN of_IN those_DT social_JJ influences_NNS ?_.
+How_WRB to_TO estimate_VB the_DT model_NN on_IN real_JJ large_JJ networks_NNS ?_.
+To_TO address_VB these_DT fundamental_JJ questions_NNS ,_, we_PRP propose_VBP Topical_JJ Affinity_NN Propagation_NN -LRB-_-LRB- TAP_NN -RRB-_-RRB- to_TO model_VB the_DT topic-level_JJ social_JJ influence_NN on_IN large_JJ networks_NNS ._.
+In_IN particular_JJ ,_, TAP_NN can_MD take_VB results_NNS of_IN any_DT topic_NN modeling_NN and_CC the_DT existing_VBG network_NN structure_NN to_TO perform_VB topic-level_JJ influence_NN propagation_NN ._.
+With_IN the_DT help_NN of_IN the_DT influence_NN analysis_NN ,_, we_PRP present_VBP several_JJ important_JJ applications_NNS on_IN real_JJ data_NNS sets_NNS such_JJ as_IN 1_CD -RRB-_-RRB- what_WP are_VBP the_DT representative_JJ nodes_NNS on_IN a_DT given_VBN topic_NN ?_.
+2_LS -RRB-_-RRB- how_WRB to_TO identify_VB the_DT social_JJ influences_NNS of_IN neighboring_JJ nodes_NNS on_IN a_DT particular_JJ node_NN ?_.
+To_TO scale_VB to_TO real_JJ large_JJ networks_NNS ,_, TAP_NN is_VBZ designed_VBN with_IN efficient_JJ distributed_VBN learning_NN algorithms_NNS that_WDT is_VBZ implemented_VBN and_CC tested_VBN under_IN the_DT Map-Reduce_NNP framework_NN ._.
+We_PRP further_RB present_VBP the_DT common_JJ characteristics_NNS of_IN distributed_VBN learning_NN algorithms_NNS for_IN Map-Reduce_NNP ._.
+Finally_RB ,_, we_PRP demonstrate_VBP the_DT effectiveness_NN and_CC efficiency_NN of_IN TAP_NN on_IN real_JJ large_JJ data_NNS sets_NNS ._.

@@ -1,0 +1,14 @@
+Fast_JJ nonlinear_JJ regression_NN via_IN eigenimages_NNS applied_VBN to_TO galactic_JJ morphology_NN
+Astronomy_NNP increasingly_RB faces_VBZ the_DT issue_NN of_IN massive_JJ ,_, unwieldly_JJ data_NNS sets_NNS ._.
+The_DT Sloan_NNP Digital_NNP Sky_NNP Survey_NNP -LRB-_-LRB- SDSS_NNP -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- has_VBZ so_RB far_RB generated_VBN tens_NNS of_IN millions_NNS of_IN images_NNS of_IN distant_JJ galaxies_NNS ,_, of_IN which_WDT only_RB a_DT tiny_JJ fraction_NN have_VBP been_VBN morphologically_RB classified_VBN ._.
+Morphological_JJ classification_NN in_IN this_DT context_NN is_VBZ achieved_VBN by_IN fitting_NN a_DT parametric_JJ model_NN of_IN galaxy_NN shape_NN to_TO a_DT galaxy_NN image_NN ._.
+This_DT is_VBZ a_DT nonlinear_JJ regression_NN problem_NN ,_, whose_WP$ challenges_NNS are_VBP threefold_JJ ,_, 1_LS -RRB-_-RRB- blurring_VBG of_IN the_DT image_NN caused_VBN by_IN atmosphere_NN and_CC mirror_NN imperfections_NNS ,_, 2_LS -RRB-_-RRB- large_JJ numbers_NNS of_IN local_JJ minima_NN ,_, and_CC 3_LS -RRB-_-RRB- massive_JJ data_NN sets_NNS ._.
+Our_PRP$ strategy_NN is_VBZ to_TO use_VB the_DT eigenimages_NNS of_IN the_DT parametric_JJ model_NN to_TO form_VB a_DT new_JJ feature_NN space_NN ,_, and_CC then_RB to_TO map_VB both_DT target_NN image_NN and_CC the_DT model_NN parameters_NNS into_IN this_DT feature_NN space_NN ._.
+In_IN this_DT low-dimensional_JJ space_NN we_PRP search_VBP for_IN the_DT best_JJS image-to-parameter_NN match_NN ._.
+To_TO search_VB the_DT space_NN ,_, we_PRP sample_NN it_PRP by_IN creating_VBG a_DT database_NN of_IN many_JJ random_JJ parameter_NN vectors_NNS -LRB-_-LRB- prototypes_NNS -RRB-_-RRB- and_CC mapping_VBG them_PRP into_IN the_DT feature_NN space_NN ._.
+The_DT search_NN problem_NN then_RB becomes_VBZ one_CD of_IN finding_VBG the_DT best_JJS prototype_NN match_NN ,_, so_IN the_DT fitting_JJ process_NN a_DT nearest-neighbor_JJ search_NN ._.
+In_IN addition_NN to_TO the_DT savings_NNS realized_VBN by_IN decomposing_VBG the_DT original_JJ space_NN into_IN an_DT eigenspace_NN ,_, we_PRP can_MD use_VB the_DT fact_NN that_IN the_DT model_NN is_VBZ a_DT linear_JJ sum_NN of_IN functions_NNS to_TO reduce_VB the_DT prototypes_NNS further_RB :_: the_DT only_JJ prototypes_NNS stored_VBN are_VBP the_DT components_NNS of_IN the_DT model_NN function_NN ._.
+A_DT modified_JJ form_NN of_IN nearest_JJS neighbor_NN is_VBZ used_VBN to_TO search_VB among_IN them_PRP ._.
+Additional_JJ complications_NNS arise_VBP in_IN the_DT form_NN of_IN missing_VBG data_NNS and_CC heteroscedasticity_NN ,_, both_DT of_IN which_WDT are_VBP addressed_VBN with_IN weighted_JJ linear_JJ regression_NN ._.
+Compared_VBN to_TO existing_VBG techniques_NNS ,_, speed-ups_NNS ach-ieved_JJ are_VBP between_IN 2_CD and_CC 3_CD orders_NNS of_IN magnitude_NN ._.
+This_DT should_MD enable_VB the_DT analysis_NN of_IN the_DT entire_JJ SDSS_NN dataset_NN ._.

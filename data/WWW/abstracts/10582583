@@ -1,0 +1,5 @@
+What_WP is_VBZ disputed_VBN on_IN the_DT web_NN ?_.
+We_PRP present_VBP a_DT method_NN for_IN automatically_RB acquiring_VBG of_IN a_DT corpus_NN of_IN disputed_JJ claims_NNS from_IN the_DT web_NN ._.
+We_PRP consider_VBP a_DT factual_JJ claim_NN to_TO be_VB disputed_VBN if_IN a_DT page_NN on_IN the_DT web_NN suggests_VBZ both_DT that_IN the_DT claim_NN is_VBZ false_JJ and_CC also_RB that_IN other_JJ people_NNS say_VBP it_PRP is_VBZ true_JJ ._.
+Our_PRP$ tool_NN extracts_NNS disputed_VBD claims_NNS by_IN searching_VBG the_DT web_NN for_IN patterns_NNS such_JJ as_IN ``_`` falsely_RB claimed_VBD that_IN X_NN ''_'' and_CC then_RB using_VBG a_DT statistical_JJ classifier_NN to_TO select_JJ text_NN that_WDT appears_VBZ to_TO be_VB making_VBG a_DT disputed_JJ claim_NN ._.
+We_PRP argue_VBP that_IN such_PDT a_DT corpus_NN of_IN disputed_JJ claims_NNS is_VBZ useful_JJ for_IN a_DT wide_JJ range_NN of_IN applications_NNS related_VBN to_TO information_NN credibility_NN on_IN the_DT web_NN ,_, and_CC we_PRP report_VBP what_WP our_PRP$ current_JJ corpus_NN reveals_VBZ about_IN what_WP is_VBZ being_VBG disputed_VBN on_IN the_DT web_NN ._.

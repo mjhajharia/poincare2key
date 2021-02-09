@@ -1,0 +1,6 @@
+Growing_VBG parallel_JJ paths_NNS for_IN entity-page_JJ discovery_NN
+In_IN this_DT paper_NN ,_, we_PRP use_VBP the_DT structural_JJ and_CC relational_JJ information_NN on_IN the_DT Web_NN to_TO find_VB entity-pages_NNS ._.
+Specifically_RB ,_, given_VBN a_DT Web_NN site_NN and_CC an_DT entity-page_JJ -LRB-_-LRB- e.g._FW ,_, department_NN and_CC faculty_NN member_NN homepage_NN -RRB-_-RRB- we_PRP seek_VBP to_TO find_VB all_DT of_IN the_DT entity-pages_NNS of_IN the_DT same_JJ type_NN -LRB-_-LRB- e.g._FW ,_, all_DT faculty_NN members_NNS in_IN the_DT department_NN -RRB-_-RRB- ._.
+To_TO do_VB this_DT ,_, we_PRP propose_VBP a_DT web_NN structure_NN mining_NN method_NN which_WDT grows_VBZ parallel_JJ paths_NNS through_IN the_DT web_NN graph_NN and_CC DOM_NN trees_NNS ._.
+We_PRP show_VBP that_IN by_IN utilizing_VBG these_DT parallel_JJ paths_NNS we_PRP can_MD efficiently_RB discover_VB all_DT entity-pages_NNS of_IN the_DT same_JJ type_NN ._.
+Finally_RB ,_, we_PRP demonstrate_VBP the_DT accuracy_NN of_IN our_PRP$ method_NN with_IN a_DT case_NN study_NN on_IN various_JJ domains_NNS ._.

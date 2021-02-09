@@ -1,0 +1,7 @@
+Learning_NNP and_CC inferencing_VBG in_IN user_NN ontology_NN for_IN personalized_JJ semantic_JJ web_NN services_NNS
+Domain_NN ontology_NN has_VBZ been_VBN used_VBN in_IN many_JJ Semantic_JJ Web_NN applications_NNS ._.
+However_RB ,_, few_JJ applications_NNS explore_VBP the_DT use_NN of_IN ontology_NN for_IN personalized_JJ services_NNS ._.
+This_DT paper_NN proposes_VBZ an_DT ontology_JJ based_JJ user_NN model_NN consisting_VBG of_IN both_DT concepts_NNS and_CC semantic_JJ relations_NNS to_TO represent_VB users_NNS '_POS interests_NNS ._.
+Specifically_RB ,_, we_PRP adopt_VBP a_DT statistical_JJ approach_NN to_TO learning_VBG a_DT semantic-based_JJ user_NN ontology_NN model_NN from_IN domain_NN ontology_NN and_CC a_DT spreading_NN activation_NN procedure_NN for_IN inferencing_VBG in_IN the_DT user_NN ontology_NN model_NN ._.
+We_PRP apply_VBP the_DT methods_NNS of_IN learning_VBG and_CC exploiting_VBG user_NN ontology_NN to_TO a_DT semantic_JJ search_NN engine_NN for_IN finding_VBG academic_JJ publications_NNS ._.
+Our_PRP$ experimental_JJ results_NNS support_VBP the_DT efficacy_NN of_IN user_NN ontology_NN and_CC spreading_NN activation_NN theory_NN -LRB-_-LRB- SAT_NNP -RRB-_-RRB- for_IN providing_VBG personalized_JJ semantic_JJ services_NNS ._.

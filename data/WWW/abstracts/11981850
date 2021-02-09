@@ -1,0 +1,5 @@
+Mining_NN collective_JJ local_JJ knowledge_NN from_IN Google_NNP MyMaps_NNP
+The_DT emerging_VBG popularity_NN of_IN location-aware_JJ devices_NNS and_CC location-based_JJ services_NNS has_VBZ generated_VBN a_DT growing_VBG archive_NN of_IN digital_JJ traces_NNS of_IN people_NNS 's_POS activities_NNS and_CC opinions_NNS in_IN physical_JJ space_NN ._.
+In_IN this_DT study_NN ,_, we_PRP leverage_NN geo-referenced_JJ user-generated_JJ content_NN from_IN Google_NNP MyMaps_NNP to_TO discover_VB collective_JJ local_JJ knowledge_NN and_CC understand_VB the_DT differing_VBG perceptions_NNS of_IN urban_JJ space_NN ._.
+Working_VBG with_IN the_DT large_JJ collection_NN of_IN publicly_RB available_JJ ,_, annotation-rich_JJ MyMaps_NNP data_NNS ,_, we_PRP propose_VBP a_DT highly_RB parallelizable_JJ approach_NN in_IN order_NN to_TO merge_VB identical_JJ places_NNS ,_, discover_VBP landmarks_NNS ,_, and_CC recommend_VB places_NNS ._.
+Additionally_RB ,_, we_PRP conduct_VBP interviews_NNS with_IN New_NNP York_NNP City_NNP residents\/visitors_NNS to_TO validate_VB the_DT quantitative_JJ findings_NNS ._.

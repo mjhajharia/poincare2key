@@ -1,0 +1,13 @@
+Detectives_NNS :_: detecting_VBG coalition_NN hit_VBD inflation_NN attacks_NNS in_IN advertising_NN networks_NNS streams_NNS
+Click_VB fraud_NN is_VBZ jeopardizing_VBG the_DT industry_NN of_IN Internet_NNP advertising_NN ._.
+Internet_NN advertising_NN is_VBZ crucial_JJ for_IN the_DT thriving_JJ of_IN the_DT entire_JJ Internet_NNP ,_, since_IN it_PRP allows_VBZ producers_NNS to_TO advertise_VB their_PRP$ products_NNS ,_, and_CC hence_RB contributes_VBZ to_TO the_DT well_RB being_VBG of_IN e-commerce_NN ._.
+Moreover_RB ,_, advertising_NN supports_VBZ the_DT intellectual_JJ value_NN of_IN the_DT Internet_NN by_IN covering_VBG the_DT running_VBG expenses_NNS of_IN publishing_NN content_NN ._.
+Some_DT content_NN publishers_NNS are_VBP dishonest_JJ ,_, and_CC use_VB automation_NN to_TO generate_VB traffic_NN to_TO defraud_VB the_DT advertisers_NNS ._.
+Similarly_RB ,_, some_DT advertisers_NNS automate_VBP clicks_NNS on_IN the_DT advertisements_NNS of_IN their_PRP$ competitors_NNS to_TO deplete_VB their_PRP$ competitors_NNS '_POS advertising_NN budgets_NNS ._.
+This_DT paper_NN describes_VBZ the_DT advertising_NN network_NN model_NN ,_, and_CC focuses_VBZ on_IN the_DT most_RBS sophisticated_JJ type_NN of_IN fraud_NN ,_, which_WDT involves_VBZ coalitions_NNS among_IN fraudsters_NNS ._.
+We_PRP build_VBP on_IN several_JJ published_JJ theoretical_JJ results_NNS to_TO devise_VB the_DT Similarity-Seeker_NNP algorithm_NN that_WDT discovers_VBZ coalitions_NNS made_VBN by_IN pairs_NNS of_IN fraudsters_NNS ._.
+We_PRP then_RB generalize_VBP the_DT solution_NN to_TO coalitions_NNS of_IN arbitrary_JJ sizes_NNS ._.
+Before_IN deploying_VBG our_PRP$ system_NN on_IN a_DT real_JJ network_NN ,_, we_PRP conducted_VBD comprehensive_JJ experiments_NNS on_IN data_NNS samples_NNS for_IN proof_NN of_IN concept_NN ._.
+The_DT results_NNS were_VBD very_RB accurate_JJ ._.
+We_PRP detected_VBD several_JJ coalitions_NNS ,_, formed_VBN using_VBG various_JJ techniques_NNS ,_, and_CC spanning_VBG numerous_JJ sites_NNS ._.
+This_DT reveals_VBZ the_DT generality_NN of_IN our_PRP$ model_NN and_CC approach_NN ._.

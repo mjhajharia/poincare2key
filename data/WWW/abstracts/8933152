@@ -1,0 +1,5 @@
+A_DT scheme_NN of_IN service_NN discovery_NN and_CC control_NN on_IN ubiquitous_JJ devices_NNS
+We_PRP have_VBP developed_VBN a_DT set_NN of_IN hardware_NN and_CC software_NN components_NNS to_TO realize_VB ubiquitous_JJ computing_NN environments_NNS ,_, based_VBN on_IN two_CD keywords_NNS ,_, simple_JJ ''_'' -LRB-_-LRB- easy_JJ to_TO implement_VB -RRB-_-RRB- and_CC ``_`` open_JJ ''_'' -LRB-_-LRB- adopt_VB widely_RB publicized_VBN specifications_NNS -RRB-_-RRB- ._.
+Then_RB this_DT set_NN has_VBZ been_VBN resulted_VBN into_IN UBKit_NN -LRB-_-LRB- Ubiquity_NN Building_NN Toolkit_NN -RRB-_-RRB- ._.
+The_DT Micro-Server_NNP an_DT instance_NN of_IN UBKitenables_NNS existing_VBG consumer_NN electronics_NNS to_TO join_VB in_IN computer_NN networks_NNS ._.
+In_IN this_DT paperwe_NN propose_VBP a_DT scheme_NN for_IN discovery_NN and_CC control_NN of_IN deviecs_NNS attached_VBN to_TO micro-servers_NNS ._. ''_''

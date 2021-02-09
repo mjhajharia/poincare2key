@@ -1,0 +1,7 @@
+Using_VBG randomized_VBN response_NN techniques_NNS for_IN privacy-preserving_JJ data_NNS mining_NN
+Privacy_NN is_VBZ an_DT important_JJ issue_NN in_IN data_NNS mining_NN and_CC knowledge_NN discovery_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP to_TO use_VB the_DT randomized_VBN response_NN techniques_NNS to_TO conduct_VB the_DT data_NNS mining_NN computation_NN ._.
+Specially_RB ,_, we_PRP present_VBP a_DT method_NN to_TO build_VB decision_NN tree_NN classifiers_NNS from_IN the_DT disguised_JJ data_NNS ._.
+We_PRP conduct_VBP experiments_NNS to_TO compare_VB the_DT accuracy_NN of_IN our_PRP$ decision_NN tree_NN with_IN the_DT one_NN built_VBN from_IN the_DT original_JJ undisguised_JJ data_NNS ._.
+Our_PRP$ results_NNS show_VBP that_IN although_IN the_DT data_NNS are_VBP disguised_VBN ,_, our_PRP$ method_NN can_MD still_RB achieve_VB fairly_RB high_JJ accuracy_NN ._.
+We_PRP also_RB show_VBP how_WRB the_DT parameter_NN used_VBN in_IN the_DT randomized_VBN response_NN techniques_NNS affects_VBZ the_DT accuracy_NN of_IN the_DT results_NNS ._.

@@ -1,0 +1,9 @@
+Scaling_VBG multi-class_JJ support_NN vector_NN machines_NNS using_VBG inter-class_JJ confusion_NN
+Support_NN vector_NN machines_NNS -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- excel_VBP at_IN two-class_JJ discriminative_JJ learning_NN problems_NNS ._.
+They_PRP often_RB outperform_VBP generative_JJ classifiers_NNS ,_, especially_RB those_DT that_WDT use_VBP inaccurate_JJ generative_JJ models_NNS ,_, such_JJ as_IN the_DT naïve_JJ Bayes_NNS -LRB-_-LRB- NB_NN -RRB-_-RRB- classifier_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, generative_JJ classifiers_NNS have_VBP no_DT trouble_NN in_IN handling_VBG an_DT arbitrary_JJ number_NN of_IN classes_NNS efficiently_RB ,_, and_CC NB_NN classifiers_NNS train_VBP much_RB faster_RBR than_IN SVMs_NNS owing_VBG to_TO their_PRP$ extreme_JJ simplicity_NN ._.
+In_IN contrast_NN ,_, SVMs_NNS handle_VBP multi-class_JJ problems_NNS by_IN learning_VBG redundant_JJ yes\/no_NN -LRB-_-LRB- one-vs-others_NNS -RRB-_-RRB- classifiers_NNS for_IN each_DT class_NN ,_, further_RB worsening_VBG the_DT performance_NN gap_NN ._.
+We_PRP propose_VBP a_DT new_JJ technique_NN for_IN multi-way_JJ classification_NN which_WDT exploits_VBZ the_DT accuracy_NN of_IN SVMs_NNS and_CC the_DT speed_NN of_IN NB_NN classifiers_NNS ._.
+We_PRP first_RB use_VBP a_DT NB_NN classifier_NN to_TO quickly_RB compute_VB a_DT confusion_NN matrix_NN ,_, which_WDT is_VBZ used_VBN to_TO reduce_VB the_DT number_NN and_CC complexity_NN of_IN the_DT two-class_JJ SVMs_NNS that_WDT are_VBP built_VBN in_IN the_DT second_JJ stage_NN ._.
+During_IN testing_NN ,_, we_PRP first_RB get_VB the_DT prediction_NN of_IN a_DT NB_NN classifier_NN and_CC use_VB that_DT to_TO selectively_RB apply_VB only_RB a_DT subset_NN of_IN the_DT two-class_JJ SVMs_NNS ._.
+On_IN standard_JJ benchmarks_NNS ,_, our_PRP$ algorithm_NN is_VBZ 3_CD to_TO 6_CD times_NNS faster_RBR than_IN SVMs_NNS and_CC yet_RB matches_VBZ or_CC even_RB exceeds_VBZ their_PRP$ accuracy_NN ._.

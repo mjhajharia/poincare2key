@@ -1,0 +1,7 @@
+From_IN user-centric_JJ web_NN traffic_NN data_NNS to_TO usage_NN data_NNS
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP a_DT user-centric_JJ Internet_NN usage_NN data_NN processing_NN platform_NN ._.
+Raw_NN usage_NN data_NNS is_VBZ collected_VBN using_VBG a_DT software_NN probe_NN installed_VBN on_IN a_DT panel_NN of_IN Internet_NNP users_NNS '_POS workstations_NNS ._.
+It_PRP is_VBZ then_RB processed_VBN by_IN our_PRP$ platform_NN ._.
+The_DT transformation_NN of_IN raw_JJ usage_NN data_NNS into_IN qualified_JJ and_CC usable_JJ information_NN by_IN Internet_NN usage_NN sociology_NN researchers_NNS means_VBZ setting_VBG up_RP a_DT series_NN of_IN relatively_RB complex_JJ processes_NNS using_VBG quite_RB a_DT wide_JJ variety_NN of_IN resources_NNS ._.
+We_PRP use_VBP a_DT combination_NN of_IN ad_FW hoc_FW rule-based_JJ systems_NNS and_CC external_JJ resources_NNS to_TO qualify_VB the_DT visited_VBN Web_NN pages_NNS ._.
+We_PRP also_RB implemented_VBD topological_JJ and_CC temporal_JJ indicators_NNS in_IN order_NN to_TO describe_VB the_DT dynamics_NNS of_IN Web_NN sessions_NNS ._.

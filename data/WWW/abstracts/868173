@@ -1,0 +1,7 @@
+Type_NN based_VBD service_NN composition_NN
+Service_NN matchmaking_NN and_CC composition_NN has_VBZ recently_RB drawn_VBN increasing_VBG attention_NN in_IN the_DT research_NN community_NN ._.
+Most_JJS existing_VBG algorithms_NNS construct_NN chains_NNS of_IN services_NNS based_VBN on_IN exact_JJ matches_NNS of_IN input\/output_NN types_NNS ._.
+However_RB ,_, this_DT does_VBZ not_RB work_VB when_WRB the_DT available_JJ services_NNS only_RB cover_VBP a_DT part_NN of_IN the_DT range_NN of_IN the_DT input_NN type_NN ._.
+We_PRP present_VBP an_DT algorithm_NN that_WDT also_RB allows_VBZ partial_JJ matches_NNS and_CC composes_VBZ them_PRP using_VBG switches_NNS that_WDT decide_VBP on_IN the_DT required_JJ service_NN at_IN runtime_NN based_VBN on_IN the_DT actual_JJ data_NNS type_NN ._.
+We_PRP report_VBP experiments_NNS on_IN randomly_RB generated_VBN composition_NN problems_NNS that_WDT show_VBP that_IN using_VBG partial_JJ matches_NNS can_MD decrease_VB the_DT failure_NN rate_NN of_IN the_DT integration_NN algorithm_NN using_VBG only_JJ complete_JJ matches_NNS by_IN up_IN to_TO 7_CD times_NNS with_IN no_DT increase_NN in_IN the_DT number_NN of_IN directory_NN accesses_NNS required_VBN ._.
+This_DT shows_VBZ that_IN composition_NN with_IN partial_JJ matches_NNS is_VBZ an_DT essential_JJ and_CC useful_JJ element_NN of_IN web_NN service_NN composition_NN ._.

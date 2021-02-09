@@ -1,0 +1,10 @@
+DivRank_NNP :_: the_DT interplay_NN of_IN prestige_NN and_CC diversity_NN in_IN information_NN networks_NNS
+Information_NN networks_NNS are_VBP widely_RB used_VBN to_TO characterize_VB the_DT relationships_NNS between_IN data_NNS items_NNS such_JJ as_IN text_NN documents_NNS ._.
+Many_JJ important_JJ retrieval_NN and_CC mining_NN tasks_NNS rely_VBP on_IN ranking_VBG the_DT data_NNS items_NNS based_VBN on_IN their_PRP$ centrality_NN or_CC prestige_NN in_IN the_DT network_NN ._.
+Beyond_NNP prestige_NN ,_, diversity_NN has_VBZ been_VBN recognized_VBN as_IN a_DT crucial_JJ objective_NN in_IN ranking_NN ,_, aiming_VBG at_IN providing_VBG a_DT non-redundant_JJ and_CC high_JJ coverage_NN piece_NN of_IN information_NN in_IN the_DT top_NN ranked_VBD results_NNS ._.
+Nevertheless_RB ,_, existing_VBG network-based_JJ ranking_NN approaches_NNS either_CC disregard_VB the_DT concern_NN of_IN diversity_NN ,_, or_CC handle_VB it_PRP with_IN non-optimized_JJ heuristics_NNS ,_, usually_RB based_VBN on_IN greedy_JJ vertex_NN selection_NN ._.
+We_PRP propose_VBP a_DT novel_JJ ranking_NN algorithm_NN ,_, DivRank_NNP ,_, based_VBN on_IN a_DT reinforced_VBN random_JJ walk_NN in_IN an_DT information_NN network_NN ._.
+This_DT model_NN automatically_RB balances_VBZ the_DT prestige_NN and_CC the_DT diversity_NN of_IN the_DT top_NN ranked_VBD vertices_NNS in_IN a_DT principled_JJ way_NN ._.
+DivRank_NNP not_RB only_RB has_VBZ a_DT clear_JJ optimization_NN explanation_NN ,_, but_CC also_RB well_RB connects_VBZ to_TO classical_JJ models_NNS in_IN mathematics_NN and_CC network_NN science_NN ._.
+We_PRP evaluate_VBP DivRank_NNP using_VBG empirical_JJ experiments_NNS on_IN three_CD different_JJ networks_NNS as_RB well_RB as_IN a_DT text_NN summarization_NN task_NN ._.
+DivRank_NNP outperforms_VBZ existing_VBG network-based_JJ ranking_NN methods_NNS in_IN terms_NNS of_IN enhancing_VBG diversity_NN in_IN prestige_NN ._.

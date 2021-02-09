@@ -1,0 +1,8 @@
+Probabilistic_JJ question_NN recommendation_NN for_IN question_NN answering_NN communities_NNS
+User-Interactive_JJ Question_NN Answering_NN -LRB-_-LRB- QA_NN -RRB-_-RRB- communities_NNS such_JJ as_IN Yahoo_NNP !_.
+Answers_NNS are_VBP growing_VBG in_IN popularity_NN ._.
+However_RB ,_, as_IN these_DT QA_NNP sites_NNS always_RB have_VBP thousands_NNS of_IN new_JJ questions_NNS posted_VBD daily_RB ,_, it_PRP is_VBZ difficult_JJ for_IN users_NNS to_TO find_VB the_DT questions_NNS that_WDT are_VBP of_IN interest_NN to_TO them_PRP ._.
+Consequently_RB ,_, this_DT may_MD delay_VB the_DT answering_NN of_IN the_DT new_JJ questions_NNS ._.
+This_DT gives_VBZ rise_NN to_TO question_VB recommendation_NN techniques_NNS that_WDT help_VBP users_NNS locate_VB interesting_JJ questions_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP adopt_VBP the_DT Probabilistic_JJ Latent_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- model_NN for_IN question_NN recommendation_NN and_CC propose_VBP a_DT novel_JJ metric_NN to_TO evaluate_VB the_DT performance_NN of_IN our_PRP$ approach_NN ._.
+The_DT experimental_JJ results_NNS show_VBP our_PRP$ recommendation_NN approach_NN is_VBZ effective_JJ ._.

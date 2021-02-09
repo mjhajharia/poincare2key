@@ -1,0 +1,9 @@
+Graph-based_JJ anomaly_NN detection_NN
+Anomaly_RB detection_NN is_VBZ an_DT area_NN that_WDT has_VBZ received_VBN much_JJ attention_NN in_IN recent_JJ years_NNS ._.
+It_PRP has_VBZ a_DT wide_JJ variety_NN of_IN applications_NNS ,_, including_VBG fraud_NN detection_NN and_CC network_NN intrusion_NN detection_NN ._.
+A_DT good_JJ deal_NN of_IN research_NN has_VBZ been_VBN performed_VBN in_IN this_DT area_NN ,_, often_RB using_VBG strings_NNS or_CC attribute-value_JJ data_NNS as_IN the_DT medium_NN from_IN which_WDT anomalies_NNS are_VBP to_TO be_VB extracted_VBN ._.
+Little_JJ work_NN ,_, however_RB ,_, has_VBZ focused_VBN on_IN anomaly_JJ detection_NN in_IN graph-based_JJ data_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP two_CD techniques_NNS for_IN graph-based_JJ anomaly_NN detection_NN ._.
+In_IN addition_NN ,_, we_PRP introduce_VBP a_DT new_JJ method_NN for_IN calculating_VBG the_DT regularity_NN of_IN a_DT graph_NN ,_, with_IN applications_NNS to_TO anomaly_VB detection_NN ._.
+We_PRP hypothesize_VBP that_IN these_DT methods_NNS will_MD prove_VB useful_JJ both_CC for_IN finding_VBG anomalies_NNS ,_, and_CC for_IN determining_VBG the_DT likelihood_NN of_IN successful_JJ anomaly_JJ detection_NN within_IN graph-based_JJ data_NNS ._.
+We_PRP provide_VBP experimental_JJ results_NNS using_VBG both_CC real-world_JJ network_NN intrusion_NN data_NNS and_CC artificially-created_JJ data_NNS ._.

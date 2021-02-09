@@ -1,0 +1,6 @@
+Weighting_NN versus_CC pruning_NN in_IN rule_NN validation_NN for_IN detecting_VBG network_NN and_CC host_NN anomalies_NNS
+For_IN intrusion_NN detection_NN ,_, the_DT LERAD_NNP algorithm_NN learns_VBZ a_DT succinct_JJ set_NN of_IN comprehensible_JJ rules_NNS for_IN detecting_VBG anomalies_NNS ,_, which_WDT could_MD be_VB novel_JJ attacks_NNS ._.
+LERAD_NN validates_VBZ the_DT learned_VBN rules_NNS on_IN a_DT separate_JJ held-out_JJ validation_NN set_NN and_CC removes_VBZ rules_NNS that_WDT cause_VBP false_JJ alarms_NNS ._.
+However_RB ,_, removing_VBG rules_NNS with_IN possible_JJ high_JJ coverage_NN can_MD lead_VB to_TO missed_VBN detections_NNS ._.
+We_PRP propose_VBP to_TO retain_VB these_DT rules_NNS and_CC associate_JJ weights_NNS to_TO them_PRP ._.
+We_PRP present_VBP three_CD weighting_NN schemes_NNS and_CC our_PRP$ empirical_JJ results_NNS indicate_VBP that_IN ,_, for_IN LERAD_NNP ,_, rule_NN weighting_NN can_MD detect_VB more_JJR attacks_NNS than_IN pruning_NN with_IN minimal_JJ computational_JJ overhead_NN ._.

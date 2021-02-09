@@ -1,0 +1,5 @@
+FLUX_NN :_: fuzzy_JJ content_NN and_CC structure_NN matching_NN of_IN XML_NN range_NN queries_NNS
+An_DT XML_NN range_NN query_NN may_MD impose_VB predicates_NNS on_IN the_DT numerical_JJ or_CC textual_JJ contents_NNS of_IN the_DT elements_NNS and\/or_CC their_PRP$ respective_JJ path_NN structures_NNS ._.
+In_IN order_NN to_TO handle_VB content_NN and_CC structure_NN range_NN queries_NNS efficiently_RB ,_, an_DT XML_NN query_NN processing_NN engine_NN needs_VBZ to_TO incorporate_VB effective_JJ indexing_NN and_CC summarization_NN techniques_NNS to_TO efficiently_RB partition_NN the_DT XML_NN document_NN and_CC locate_VB the_DT results_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT dynamic_JJ summarization_NN and_CC indexing_NN method_NN ,_, FLUX_NN ,_, based_VBN on_IN Bloom_NNP filters_NNS and_CC B_NN +_CC -_: trees_NNS to_TO tackle_VB these_DT problems_NNS ._.
+The_DT results_NNS of_IN our_PRP$ extensive_JJ experimental_JJ evaluations_NNS indicated_VBD the_DT efficiency_NN of_IN the_DT proposed_VBN system_NN ._.

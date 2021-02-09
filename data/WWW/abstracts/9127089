@@ -1,0 +1,7 @@
+A_DT unified_JJ framework_NN for_IN name_NN disambiguation_NN
+Name_VB ambiguity_NN problem_NN has_VBZ been_VBN a_DT challenging_JJ issue_NN for_IN a_DT long_JJ history_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP intend_VBP to_TO make_VB a_DT thorough_JJ investigation_NN of_IN the_DT whole_JJ problem_NN ._.
+Specifically_RB ,_, we_PRP formalize_VBP the_DT name_NN disambiguation_NN problem_NN in_IN a_DT unified_JJ framework_NN ._.
+The_DT framework_NN can_MD incorporate_VB both_CC attribute_NN and_CC relationship_NN into_IN a_DT probabilistic_JJ model_NN ._.
+We_PRP explore_VBP a_DT dynamic_JJ approach_NN for_IN automatically_RB estimating_VBG the_DT person_NN number_NN K_NN and_CC employ_VB an_DT adaptive_JJ distance_NN measure_NN to_TO estimate_VB the_DT distance_NN between_IN objects_NNS ._.
+Experimental_JJ results_NNS show_VBP that_IN our_PRP$ proposed_VBN framework_NN can_MD significantly_RB outperform_VB the_DT baseline_NN method_NN ._.

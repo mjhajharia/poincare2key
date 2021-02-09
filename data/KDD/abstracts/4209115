@@ -1,0 +1,15 @@
+Cancer_NN genomics_NNS
+Throughout_IN life_NN ,_, the_DT cells_NNS in_IN every_DT individual_NN accumulate_VBP many_JJ changes_NNS in_IN the_DT DNA_NN inherited_VBN from_IN his_PRP$ or_CC her_PRP$ parents_NNS ._.
+Certain_JJ combinations_NNS of_IN changes_NNS lead_VBP to_TO cancer_NN ._.
+During_IN the_DT last_JJ decade_NN ,_, the_DT cost_NN of_IN DNA_NN sequencing_NN has_VBZ been_VBN dropping_VBG by_IN a_DT factor_NN of_IN 10_CD every_DT two_CD years_NNS ,_, making_VBG it_PRP now_RB possible_JJ to_TO read_VB most_JJS of_IN the_DT three_CD billion_CD base_NN genome_NN from_IN a_DT patient_NN 's_POS cancer_NN tumor_NN ,_, and_CC to_TO try_VB to_TO determine_VB all_DT of_IN the_DT thousands_NNS of_IN DNA_NN changes_NNS in_IN it_PRP ._.
+Under_IN the_DT auspices_NNS of_IN NCI_NNP 's_POS Cancer_NNP Genome_NNP Atlas_NNP Project_NNP ,_, 10,000_CD tumors_NNS will_MD be_VB sequenced_VBN in_IN this_DT manner_NN in_IN the_DT next_JJ few_JJ years_NNS ._.
+Soon_RB cancer_NN genome_NN sequencing_NN will_MD be_VB a_DT widespread_JJ clinical_JJ practice_NN ,_, and_CC millions_NNS of_IN tumors_NNS will_MD be_VB sequenced_VBN ._.
+A_DT massive_JJ computational_JJ problem_NN looms_VBZ in_IN interpreting_VBG these_DT data_NNS ._.
+First_RB ,_, because_IN we_PRP can_MD only_RB read_VB short_JJ pieces_NNS of_IN DNA_NN ,_, we_PRP have_VBP the_DT enormous_JJ problem_NN of_IN assembling_VBG a_DT coherent_JJ and_CC reliable_JJ representation_NN of_IN the_DT tumor_NN genome_NN from_IN massive_JJ amounts_NNS of_IN incomplete_JJ and_CC error-prone_JJ evidence_NN ._.
+This_DT is_VBZ the_DT first_JJ challenge_NN ._.
+Second_RB ,_, every_DT human_JJ genome_NN is_VBZ unique_JJ from_IN birth_NN ,_, and_CC every_DT tumor_NN a_DT unique_JJ variant_NN ._.
+There_EX is_VBZ no_DT single_JJ route_NN to_TO cancer_NN ._.
+We_PRP must_MD learn_VB to_TO read_VB the_DT varied_JJ signatures_NNS of_IN cancer_NN within_IN the_DT tumor_NN genome_NN and_CC associate_VB these_DT with_IN optimal_JJ treatments_NNS ._.
+Already_RB there_EX are_VBP hundreds_NNS of_IN molecularly_RB targeted_VBN treatments_NNS for_IN cancer_NN available_JJ ,_, each_DT known_VBN to_TO be_VB more_RBR or_CC less_RBR effective_JJ depending_VBG on_IN specific_JJ genetic_JJ variants_NNS ._.
+However_RB ,_, targeting_VBG a_DT single_JJ gene_NN with_IN one_CD treatment_NN rarely_RB works_VBZ ._.
+The_DT second_JJ challenge_NN is_VBZ to_TO tackle_VB the_DT combinatorics_NNS of_IN personalized_VBN ,_, targeted_VBN ,_, combination_NN therapy_NN in_IN cancer_NN ._.

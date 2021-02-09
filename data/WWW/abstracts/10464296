@@ -1,0 +1,10 @@
+Dtwiki_NNP :_: a_DT disconnection_NN and_CC intermittency_NN tolerant_JJ wiki_NNS
+Wikis_NNP have_VBP proven_VBN to_TO be_VB a_DT valuable_JJ tool_NN for_IN collaboration_NN and_CC content_NN generation_NN on_IN the_DT web_NN ._.
+Simple_JJ semantics_NNS and_CC ease-of-use_JJ make_NN wiki_NN systems_NNS well_RB suited_VBN for_IN meeting_VBG many_JJ emerging_VBG region_NN needs_NNS in_IN the_DT areas_NNS of_IN education_NN ,_, collaboration_NN and_CC local_JJ content_NN generation_NN ._.
+Despite_IN their_PRP$ usefulness_NN ,_, current_JJ wiki_NN software_NN does_VBZ not_RB work_VB well_RB in_IN the_DT network_NN environments_NNS found_VBN in_IN emerging_VBG regions_NNS ._.
+For_IN example_NN ,_, it_PRP is_VBZ common_JJ to_TO have_VB long-lasting_JJ network_NN partitions_NNS due_JJ to_TO cost_NN ,_, power_NN and_CC poor_JJ connectivity_NN ._.
+Network_NNP partitions_NNS make_VBP a_DT traditional_JJ centralized_JJ wiki_NN architecture_NN unusable_JJ due_JJ to_TO the_DT unavailability_NN of_IN the_DT central_JJ server_NN ._.
+Existing_VBG solutions_NNS towards_IN addressing_VBG connectivity_NN problems_NNS include_VBP web-caching_JJ proxies_NNS and_CC snapshot_NN distribution_NN ._.
+While_IN proxies_NNS and_CC snapshots_NNS allow_VBP wiki_NN data_NNS to_TO be_VB read_VBN while_IN disconnected_VBN ,_, they_PRP prevent_VBP users_NNS from_IN contributing_VBG updates_NNS back_RB to_TO the_DT wiki_NN ._.
+In_IN this_DT paper_NN we_PRP detail_NN the_DT design_NN and_CC implementation_NN of_IN DTWiki_NN ,_, a_DT wiki_NN system_NN which_WDT explicitly_RB addresses_VBZ the_DT problem_NN of_IN operating_VBG a_DT wiki_NN system_NN in_IN an_DT intermittent_JJ environment_NN ._.
+The_DT DTWiki_NN system_NN is_VBZ able_JJ to_TO cope_VB with_IN long-lasting_JJ partitions_NNS and_CC bad_JJ connectivity_NN while_IN providing_VBG the_DT functionality_NN of_IN popular_JJ wiki_NN software_NN such_JJ as_IN MediaWiki_NN and_CC TWiki_NN ._.

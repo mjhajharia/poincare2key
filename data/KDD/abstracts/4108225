@@ -1,0 +1,12 @@
+Naïve_JJ filterbots_NNS for_IN robust_JJ cold-start_JJ recommendations_NNS
+The_DT goal_NN of_IN a_DT recommender_NN system_NN is_VBZ to_TO suggest_VB items_NNS of_IN interest_NN to_TO a_DT user_NN based_VBN on_IN historical_JJ behavior_NN of_IN a_DT community_NN of_IN users_NNS ._.
+Given_VBN detailed_JJ enough_JJ history_NN ,_, item-based_JJ collaborative_NN filtering_VBG -LRB-_-LRB- CF_NN -RRB-_-RRB- often_RB performs_VBZ as_RB well_RB or_CC better_JJR than_IN almost_RB any_DT other_JJ recommendation_NN method_NN ._.
+However_RB ,_, in_IN cold-start_JJ situations_NNS -_: where_WRB a_DT user_NN ,_, an_DT item_NN ,_, or_CC the_DT entire_JJ system_NN is_VBZ new_JJ -_: simple_JJ non-personalized_JJ recommendations_NNS often_RB fare_VBP better_RBR ._.
+We_PRP improve_VBP the_DT scalability_NN and_CC performance_NN of_IN a_DT previous_JJ approach_NN to_TO handling_VBG cold-start_JJ situations_NNS that_WDT uses_VBZ filterbots_NNS ,_, or_CC surrogate_JJ users_NNS that_IN rate_NN items_NNS based_VBN only_RB on_IN user_NN or_CC item_NN attributes_NNS ._.
+We_PRP show_VBP that_IN introducing_VBG a_DT very_RB small_JJ number_NN of_IN simple_JJ filterbots_NNS helps_VBZ make_VB CF_NN algorithms_NNS more_RBR robust_JJ ._.
+In_IN particular_JJ ,_, adding_VBG just_RB seven_CD global_JJ filterbots_NNS improves_VBZ both_CC user-based_JJ and_CC item-based_JJ CF_NN in_IN cold-start_JJ user_NN ,_, cold-start_JJ item_NN ,_, and_CC cold-start_JJ system_NN settings_NNS ._.
+Performance_NNP is_VBZ better_JJR when_WRB data_NNS is_VBZ scarce_JJ ,_, performance_NN is_VBZ no_DT worse_JJR when_WRB data_NNS is_VBZ plentiful_JJ ,_, and_CC algorithm_NN efficiency_NN is_VBZ negligibly_RB affected_VBN ._.
+We_PRP systematically_RB compare_VBP a_DT non-personalized_JJ baseline_NN ,_, user-based_JJ CF_NN ,_, item-based_JJ CF_NN ,_, and_CC our_PRP$ bot-augmented_JJ user_NN -_: and_CC item-based_JJ CF_NN algorithms_NNS using_VBG three_CD data_NNS sets_NNS -LRB-_-LRB- Yahoo_NNP !_.
+Movies_NNS ,_, MovieLens_NNP ,_, and_CC EachMovie_NN -RRB-_-RRB- with_IN the_DT normalized_VBN MAE_NN metric_NN in_IN three_CD types_NNS of_IN cold-start_JJ situations_NNS ._.
+The_DT advantage_NN of_IN our_PRP$ ``_`` naïve_JJ filterbot_NN ''_'' approach_NN is_VBZ most_RBS pronounced_JJ for_IN the_DT Yahoo_NNP !_.
+data_NNS ,_, the_DT sparsest_JJS of_IN the_DT three_CD data_NNS sets_NNS ._.

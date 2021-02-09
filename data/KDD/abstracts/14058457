@@ -1,0 +1,11 @@
+Exploiting_VBG place_NN features_NNS in_IN link_NN prediction_NN on_IN location-based_JJ social_JJ networks_NNS
+Link_NN prediction_NN systems_NNS have_VBP been_VBN largely_RB adopted_VBN to_TO recommend_VB new_JJ friends_NNS in_IN online_JJ social_JJ networks_NNS using_VBG data_NNS about_IN social_JJ interactions_NNS ._.
+With_IN the_DT soaring_VBG adoption_NN of_IN location-based_JJ social_JJ services_NNS it_PRP becomes_VBZ possible_JJ to_TO take_VB advantage_NN of_IN an_DT additional_JJ source_NN of_IN information_NN :_: the_DT places_NNS people_NNS visit_NN ._.
+In_IN this_DT paper_NN we_PRP study_VBD the_DT problem_NN of_IN designing_VBG a_DT link_NN prediction_NN system_NN for_IN online_JJ location-based_JJ social_JJ networks_NNS ._.
+We_PRP have_VBP gathered_VBN extensive_JJ data_NNS about_IN one_CD of_IN these_DT services_NNS ,_, Gowalla_NNP ,_, with_IN periodic_JJ snapshots_NNS to_TO capture_VB its_PRP$ temporal_JJ evolution_NN ._.
+We_PRP study_VBD the_DT link_NN prediction_NN space_NN ,_, finding_VBG that_IN about_IN 30_CD %_NN of_IN new_JJ links_NNS are_VBP added_VBN among_IN ``_`` place-friends_NNS ''_'' ,_, i.e._FW ,_, among_IN users_NNS who_WP visit_VBP the_DT same_JJ places_NNS ._.
+We_PRP show_VBP how_WRB this_DT prediction_NN space_NN can_MD be_VB made_VBN 15_CD times_NNS smaller_JJR ,_, while_IN still_RB 66_CD %_NN of_IN future_JJ connections_NNS can_MD be_VB discovered_VBN ._.
+Thus_RB ,_, we_PRP define_VBP new_JJ prediction_NN features_NNS based_VBN on_IN the_DT properties_NNS of_IN the_DT places_NNS visited_VBN by_IN users_NNS which_WDT are_VBP able_JJ to_TO discriminate_VB potential_JJ future_JJ links_NNS among_IN them_PRP ._.
+Building_NN on_IN these_DT findings_NNS ,_, we_PRP describe_VBP a_DT supervised_JJ learning_NN framework_NN which_WDT exploits_VBZ these_DT prediction_NN features_VBZ to_TO predict_VB new_JJ links_NNS among_IN friends-of-friends_NNS and_CC place-friends_NNS ._.
+Our_PRP$ evaluation_NN shows_VBZ how_WRB the_DT inclusion_NN of_IN information_NN about_IN places_NNS and_CC related_JJ user_NN activity_NN offers_VBZ high_JJ link_NN prediction_NN performance_NN ._.
+These_DT results_NNS open_VBP new_JJ directions_NNS for_IN real-world_JJ link_NN recommendation_NN systems_NNS on_IN location-based_JJ social_JJ networks_NNS ._.

@@ -1,0 +1,4 @@
+A_DT pruning-based_JJ approach_NN for_IN supporting_VBG Top-K_NN join_VB queries_NNS
+An_DT important_JJ issue_NN arising_VBG from_IN large_JJ scale_NN data_NNS integration_NN is_VBZ how_WRB to_TO efficiently_RB select_VB the_DT top-K_JJ ranking_JJ answers_NNS from_IN multiple_JJ sources_NNS while_IN minimizing_VBG the_DT transmission_NN cost_NN ._.
+This_DT paper_NN resolves_VBZ this_DT issue_NN by_IN proposing_VBG an_DT efficient_JJ pruning-based_JJ approach_NN to_TO answer_VB top-K_NN join_VB queries_NNS ._.
+The_DT total_JJ amount_NN of_IN transmitted_JJ data_NNS can_MD be_VB greatly_RB reduced_VBN by_IN pruning_NN tuples_NNS that_WDT can_MD not_RB produce_VB the_DT desired_VBN join_VBP results_NNS with_IN a_DT rank_NN value_NN greater_JJR than_IN or_CC equal_JJ to_TO the_DT rank_NN value_NN generated_VBD so_RB far_RB ._.

@@ -1,0 +1,9 @@
+Testbed_VBN for_IN information_NN extraction_NN from_IN deep_JJ web_NN
+Search_VB results_NNS generated_VBN by_IN searchable_JJ databases_NNS are_VBP served_VBN dynamically_RB and_CC far_RB larger_JJR than_IN the_DT static_JJ documents_NNS on_IN the_DT Web_NN ._.
+These_DT results_NNS pages_NNS have_VBP been_VBN referred_VBN to_TO as_IN the_DT Deep_JJ Web_NN ._.
+We_PRP need_VBP to_TO extract_VB the_DT target_NN data_NNS in_IN results_NNS pages_NNS to_TO integrate_VB them_PRP on_IN different_JJ searchable_JJ databases_NNS ._.
+We_PRP propose_VBP a_DT test_NN bed_NN for_IN information_NN extraction_NN from_IN search_NN results_NNS ._.
+We_PRP chose_VBD 100_CD databases_NNS randomly_RB from_IN 114,540_CD pages_NNS with_IN search_NN forms_NNS ._.
+Therefore_RB ,_, these_DT databases_NNS have_VBP a_DT good_JJ variety_NN ._.
+We_PRP selected_VBD 51_CD databases_NNS which_WDT include_VBP URLs_NNS in_IN a_DT results_NNS pageand_NN manually_RB identify_VBP target_NN information_NN to_TO be_VB extracted_VBN ._.
+We_PRP also_RB suggest_VBP evaluation_NN measures_NNS for_IN comparing_VBG extraction_NN methods_NNS and_CC methods_NNS for_IN extending_VBG the_DT target_NN data_NNS ._.

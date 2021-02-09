@@ -1,0 +1,13 @@
+Fractal_JJ summarization_NN for_IN mobile_JJ devices_NNS to_TO access_VB large_JJ documents_NNS on_IN the_DT web_NN
+Wireless_NNP access_NN with_IN mobile_JJ -LRB-_-LRB- or_CC handheld_JJ -RRB-_-RRB- devices_NNS is_VBZ a_DT promising_JJ addition_NN to_TO the_DT WWW_NN and_CC traditional_JJ electronic_JJ business_NN ._.
+Mobile_NNP devices_NNS provide_VBP convenience_NN and_CC portable_JJ access_NN to_TO the_DT huge_JJ information_NN space_NN on_IN the_DT Internet_NN without_IN requiring_VBG users_NNS to_TO be_VB stationary_JJ with_IN network_NN connection_NN ._.
+However_RB ,_, the_DT limited_JJ screen_NN size_NN ,_, narrow_JJ network_NN bandwidth_NN ,_, small_JJ memory_NN capacity_NN and_CC low_JJ computing_NN power_NN are_VBP the_DT shortcomings_NNS of_IN handheld_JJ devices_NNS ._.
+Loading_VBG and_CC visualizing_VBG large_JJ documents_NNS on_IN handheld_JJ devices_NNS become_VBP impossible_JJ ._.
+The_DT limited_JJ resolution_NN restricts_VBZ the_DT amount_NN of_IN information_NN to_TO be_VB displayed_VBN ._.
+The_DT download_NN time_NN is_VBZ intolerably_RB long_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP the_DT fractal_JJ summarization_NN model_NN for_IN document_NN summarization_NN on_IN handheld_JJ devices_NNS ._.
+Fractal_JJ summarization_NN is_VBZ developed_VBN based_VBN on_IN the_DT fractal_JJ theory_NN ._.
+It_PRP generates_VBZ a_DT brief_JJ skeleton_NN of_IN summary_NN at_IN the_DT first_JJ stage_NN ,_, and_CC the_DT details_NNS of_IN the_DT summary_NN on_IN different_JJ levels_NNS of_IN the_DT document_NN are_VBP generated_VBN on_IN demands_NNS of_IN users_NNS ._.
+Such_JJ interactive_JJ summarization_NN reduces_VBZ the_DT computation_NN load_NN in_IN comparing_VBG with_IN the_DT generation_NN of_IN the_DT entire_JJ summary_NN in_IN one_CD batch_NN by_IN the_DT traditional_JJ automatic_JJ summarization_NN ,_, which_WDT is_VBZ ideal_JJ for_IN wireless_JJ access_NN ._.
+Three-tier_JJ architecture_NN with_IN the_DT middle-tier_JJ conducting_NN the_DT major_JJ computation_NN is_VBZ also_RB discussed_VBN ._.
+Visualization_NN of_IN summary_NN on_IN handheld_JJ devices_NNS is_VBZ also_RB investigated_VBN ._.

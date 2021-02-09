@@ -1,0 +1,14 @@
+Mining_NNP statistically_RB important_JJ equivalence_JJ classes_NNS and_CC delta-discriminative_JJ emerging_VBG patterns_NNS
+The_DT support-confidence_JJ framework_NN is_VBZ the_DT most_RBS common_JJ measure_NN used_VBN in_FW itemset_FW mining_NN algorithms_NNS ,_, for_IN its_PRP$ antimonotonicity_NN that_WDT effectively_RB simplifies_VBZ the_DT search_NN lattice_NN ._.
+This_DT computational_JJ convenience_NN brings_VBZ both_CC quality_NN and_CC statistical_JJ flaws_NNS to_TO the_DT results_NNS as_IN observed_VBN by_IN many_JJ previous_JJ studies_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP a_DT novel_JJ algorithm_NN that_WDT produces_VBZ itemsets_NNS with_IN ranked_VBN statistical_JJ merits_NNS under_IN sophisticated_JJ test_NN statistics_NNS such_JJ as_IN chi-square_NN ,_, risk_NN ratio_NN ,_, odds_NNS ratio_NN ,_, etc._NN ._.
+Our_PRP$ algorithm_NN is_VBZ based_VBN on_IN the_DT concept_NN of_IN equivalence_JJ classes_NNS ._.
+An_DT equivalence_JJ class_NN is_VBZ a_DT set_NN of_IN frequent_JJ itemsets_NNS that_WDT always_RB occur_VBP together_RB in_IN the_DT same_JJ set_NN of_IN transactions_NNS ._.
+Therefore_RB ,_, itemsets_NNS within_IN an_DT equivalence_JJ class_NN all_DT share_VBP the_DT same_JJ level_NN of_IN statistical_JJ significance_NN regardless_RB of_IN the_DT variety_NN of_IN test_NN statistics_NNS ._.
+As_IN an_DT equivalence_JJ class_NN can_MD be_VB uniquely_RB determined_VBN and_CC concisely_RB represented_VBN by_IN a_DT closed_JJ pattern_NN and_CC a_DT set_NN of_IN generators_NNS ,_, we_PRP just_RB mine_VBP closed_JJ patterns_NNS and_CC generators_NNS ,_, taking_VBG a_DT simultaneous_JJ depth-first_JJ search_NN scheme_NN ._.
+This_DT parallel_JJ approach_NN has_VBZ not_RB been_VBN exploited_VBN by_IN any_DT prior_JJ work_NN ._.
+We_PRP evaluate_VBP our_PRP$ algorithm_NN on_IN two_CD aspects_NNS ._.
+In_IN general_JJ ,_, we_PRP compare_VBP to_TO LCM_NN and_CC FPclose_NN which_WDT are_VBP the_DT best_JJS algorithms_NNS tailored_VBN for_IN mining_NN only_RB closed_VBD patterns_NNS ._.
+In_IN particular_JJ ,_, we_PRP compare_VBP to_TO epMiner_NN which_WDT is_VBZ the_DT most_RBS recent_JJ algorithm_NN for_IN mining_VBG a_DT type_NN of_IN relative_JJ risk_NN patterns_NNS ,_, known_VBN as_IN minimal_JJ emerging_VBG patterns_NNS ._.
+Experimental_JJ results_NNS show_VBP that_IN our_PRP$ algorithm_NN is_VBZ faster_RBR than_IN all_DT of_IN them_PRP ,_, sometimes_RB even_RB multiple_JJ orders_NNS of_IN magnitude_NN faster_RBR ._.
+These_DT statistically_RB ranked_VBN patterns_NNS and_CC the_DT efficiency_NN have_VBP a_DT high_JJ potential_NN for_IN real-life_JJ applications_NNS ,_, especially_RB in_IN biomedical_JJ and_CC financial_JJ fields_NNS where_WRB classical_JJ test_NN statistics_NNS are_VBP of_IN dominant_JJ interest_NN ._.

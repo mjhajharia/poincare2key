@@ -1,0 +1,9 @@
+Webpage_NN understanding_NN :_: an_DT integrated_JJ approach_NN
+Recent_JJ work_NN has_VBZ shown_VBN the_DT effectiveness_NN of_IN leveraging_VBG layout_NN and_CC tag-tree_JJ structure_NN for_IN segmenting_VBG webpages_NNS and_CC labeling_VBG HTML_NNP elements_NNS ._.
+However_RB ,_, how_WRB to_TO effectively_RB segment_NN and_CC label_VB the_DT text_NN contents_NNS inside_IN HTML_NNP elements_NNS is_VBZ still_RB an_DT open_JJ problem_NN ._.
+Since_IN many_JJ text_NN contents_NNS on_IN a_DT webpage_NN are_VBP often_RB text_NN fragments_NNS and_CC not_RB strictly_RB grammatical_JJ ,_, traditional_JJ natural_JJ language_NN processing_NN techniques_NNS ,_, that_WDT typically_RB expect_VBP grammatical_JJ sentences_NNS ,_, are_VBP no_RB longer_RBR directly_RB applicable_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP examine_VBP how_WRB to_TO use_VB layout_NN and_CC tag-tree_JJ structure_NN in_IN a_DT principled_JJ way_NN to_TO help_VB understand_VB text_NN contents_NNS on_IN webpages_NNS ._.
+We_PRP propose_VBP to_TO segment_NN and_CC label_VB the_DT page_NN structure_NN and_CC the_DT text_NN content_NN of_IN a_DT webpage_NN in_IN a_DT joint_JJ discriminative_JJ probabilistic_JJ model_NN ._.
+In_IN this_DT model_NN ,_, semantic_JJ labels_NNS of_IN page_NN structure_NN can_MD be_VB leveraged_VBN to_TO help_VB text_NN content_NN understanding_NN ,_, and_CC semantic_JJ labels_NNS ofthe_VBP text_NN phrases_NNS can_MD be_VB used_VBN in_IN page_NN structure_NN understanding_NN tasks_NNS such_JJ as_IN data_NNS record_NN detection_NN ._.
+Thus_RB ,_, integration_NN of_IN both_CC page_NN structure_NN and_CC text_NN content_NN understanding_NN leads_VBZ to_TO an_DT integrated_VBN solution_NN of_IN webpage_NN understanding_NN ._.
+Experimental_JJ results_NNS on_IN research_NN homepage_NN extraction_NN show_VBP the_DT feasibility_NN and_CC promise_NN of_IN our_PRP$ approach_NN ._.

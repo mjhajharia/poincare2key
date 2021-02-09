@@ -1,0 +1,8 @@
+Weighted_NNP Association_NNP Rule_NNP Mining_NNP using_VBG weighted_JJ support_NN and_CC significance_NN framework_NN
+We_PRP address_VBP the_DT issues_NNS of_IN discovering_VBG significant_JJ binary_JJ relationships_NNS in_IN transaction_NN datasets_NNS in_IN a_DT weighted_JJ setting_NN ._.
+Traditional_JJ model_NN of_IN association_NN rule_NN mining_NN is_VBZ adapted_VBN to_TO handle_VB weighted_JJ association_NN rule_NN mining_NN problems_NNS where_WRB each_DT item_NN is_VBZ allowed_VBN to_TO have_VB a_DT weight_NN ._.
+The_DT goal_NN is_VBZ to_TO steer_VB the_DT mining_NN focus_NN to_TO those_DT significant_JJ relationships_NNS involving_VBG items_NNS with_IN significant_JJ weights_NNS rather_RB than_IN being_VBG flooded_VBN in_IN the_DT combinatornal_JJ explosion_NN of_IN insignificant_JJ relationships_NNS ._.
+We_PRP identify_VBP the_DT challenge_NN of_IN using_VBG weights_NNS in_IN the_DT iterative_JJ process_NN of_IN generating_VBG large_JJ itemsets_NNS ._.
+The_DT problem_NN of_IN invalidation_NN of_IN the_DT ``_`` downward_JJ closure_NN property_NN ''_'' in_IN the_DT weighted_JJ setting_NN is_VBZ solved_VBN by_IN using_VBG an_DT improved_JJ model_NN of_IN weighted_JJ support_NN measurements_NNS and_CC exploiting_VBG a_DT ``_`` weighted_JJ downward_JJ closure_NN property_NN ''_'' ._.
+A_DT new_JJ algorithm_NN called_VBN WARM_NNP -LRB-_-LRB- Weighted_NNP Association_NNP Rule_NNP Mining_NNP -RRB-_-RRB- is_VBZ developed_VBN based_VBN on_IN the_DT improved_VBN model_NN ._.
+The_DT algorithm_NN is_VBZ both_CC scalable_JJ and_CC efficient_JJ in_IN discovering_VBG significant_JJ relationships_NNS in_IN weighted_JJ settings_NNS as_IN illustrated_VBN by_IN experiments_NNS performed_VBN on_IN simulated_JJ datasets_NNS ._.

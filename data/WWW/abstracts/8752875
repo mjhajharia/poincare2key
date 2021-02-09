@@ -1,0 +1,12 @@
+An_DT evaluation_NN of_IN TCP_NN splice_NN benefits_NNS in_IN web_NN proxy_NN servers_NNS
+This_DT study_NN is_VBZ the_DT first_JJ to_TO evaluate_VB the_DT performance_NN benefits_NNS of_IN using_VBG the_DT recently_RB proposed_VBN TCP_NNP Splice_NNP kernel_NN service_NN in_IN Web_NN proxy_NN servers_NNS ._.
+Previous_JJ studies_NNS show_VBP that_IN splicing_NN client_NN and_CC server_NN TCP_NN connections_NNS in_IN the_DT IP_NNP layer_NN improves_VBZ the_DT throughput_NN of_IN proxy_NN servers_NNS like_IN firewalls_NNS and_CC content_NN routers_NNS by_IN reducing_VBG the_DT data_NNS transfer_NN overheads_NNS ._.
+In_IN a_DT Web_NN proxy_NN server_NN ,_, data_NN transfer_NN overheads_NNS represent_VBP a_DT relatively_RB large_JJ fraction_NN of_IN the_DT request_NN processing_NN overheads_NNS ,_, in_IN particular_JJ when_WRB content_NN is_VBZ not_RB cacheable_JJ or_CC the_DT proxy_NN cache_NN is_VBZ memory-based_JJ ._.
+The_DT study_NN is_VBZ conducted_VBN with_IN a_DT socket-level_JJ implementation_NN of_IN TCP_NNP Splice_NNP ._.
+Compared_VBN to_TO IP-level_JJ implementations_NNS ,_, socket-level_JJ implementations_NNS make_VBP possible_JJ the_DT splicing_NN of_IN connections_NNS with_IN different_JJ TCP_NN characteristics_NNS ,_, and_CC improve_VB response_NN times_NNS by_IN reducing_VBG recovery_NN delay_NN after_IN a_DT packet_NN loss_NN ._.
+The_DT experimental_JJ evaluation_NN is_VBZ focused_VBN on_IN HTTP_NN request_NN types_NNS for_IN which_WDT the_DT proxy_NN can_MD fully_RB exploit_VB the_DT TCP_NNP Splice_NNP service_NN ,_, which_WDT are_VBP the_DT requests_NNS for_IN non-cacheabl_JJ ._.
+content_NN and_CC SSL_NN tunneling_NN ._.
+The_DT experimental_JJ testbed_NN includes_VBZ an_DT emulated_VBN WAN_NNP environment_NN and_CC benchmark_NN applications_NNS for_IN HTTP\/1_FW .0_FW Web_NN client_NN ,_, Web_NN server_NN ,_, and_CC Web_NN proxy_NN running_VBG on_IN AIX_NNP RS\/6000_NNP machines_NNS ._.
+Our_PRP$ experiments_NNS demonstrate_VBP that_IN TCP_NNP Splice_NNP enables_VBZ reductions_NNS in_IN CPU_NNP utilization_NN of_IN 10-43_CD %_NN of_IN the_DT CPU_NNP ,_, depending_VBG on_IN file_NN sizes_NNS and_CC request_NN rates_NNS ._.
+Larger_JJR relative_JJ reductions_NNS are_VBP observed_VBN when_WRB tunneling_VBG SSL_NNP connections_NNS ,_, in_IN particular_JJ for_IN small_JJ file_NN transfers_NNS ._.
+Response_NN times_NNS are_VBP also_RB reduced_VBN by_IN up_IN to_TO 1.8_CD sec_NN ._.

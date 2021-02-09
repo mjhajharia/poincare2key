@@ -1,0 +1,6 @@
+Unsupervised_JJ query_NN segmentation_NN using_VBG only_JJ query_NN logs_NNS
+We_PRP introduce_VBP an_DT unsupervised_JJ query_NN segmentation_NN scheme_NN that_WDT uses_VBZ query_NN logs_NNS as_IN the_DT only_JJ resource_NN and_CC can_MD effectively_RB capture_VB the_DT structural_JJ units_NNS in_IN queries_NNS ._.
+We_PRP believe_VBP that_IN Web_NN search_NN queries_NNS have_VBP a_DT unique_JJ syntactic_JJ structure_NN which_WDT is_VBZ distinct_JJ from_IN that_DT of_IN English_NNP or_CC a_DT bag-of-words_JJ model_NN ._.
+The_DT segments_NNS discovered_VBN by_IN our_PRP$ scheme_NN help_NN understand_VB this_DT underlying_VBG grammatical_JJ structure_NN ._.
+We_PRP apply_VBP a_DT statistical_JJ model_NN based_VBN on_IN Hoeffding_NNP 's_POS Inequality_NNP to_TO mine_VB significant_JJ word_NN n-grams_NN from_IN queries_NNS and_CC subsequently_RB use_VB them_PRP for_IN segmenting_VBG the_DT queries_NNS ._.
+Evaluation_NN against_IN manually_RB segmented_JJ queries_NNS shows_VBZ that_IN this_DT technique_NN can_MD detect_VB rare_JJ units_NNS that_WDT are_VBP missed_VBN by_IN our_PRP$ Pointwise_NNP Mutual_NNP Information_NNP -LRB-_-LRB- PMI_NNP -RRB-_-RRB- baseline_NN ._.

@@ -1,0 +1,9 @@
+An_DT efficient_JJ and_CC systematic_JJ method_NN to_TO generate_VB xslt_NN stylesheets_NNS for_IN different_JJ wireless_JJ pervasive_JJ devices_NNS
+It_PRP is_VBZ a_DT tedious_JJ and_CC cumbersome_JJ process_NN to_TO update_VB directly_RB a_DT WML_NNP document_NN for_IN the_DT wireless_JJ Web_NN because_IN its_PRP$ content_JJ composes_NNS of_IN both_DT data_NNS and_CC presentation_NN ._.
+Thus_RB ,_, XML_NN is_VBZ used_VBN to_TO handle_VB the_DT data_NNS while_IN its_PRP$ XSLT_NNP stylesheet_NN is_VBZ used_VBN to_TO extract_NN and_CC format_NN the_DT data_NNS for_IN presentation_NN ._.
+However_RB ,_, different_JJ stylesheets_NNS have_VBP to_TO be_VB used_VBN for_IN different_JJ devices_NNS ._.
+An_DT efficient_JJ and_CC systematic_JJ method_NN based_VBN on_IN the_DT idea_NN of_IN generating_VBG two_CD separate_JJ sets_NNS of_IN rules_NNS corresponding_VBG to_TO content_NN extracting_VBG and_CC formatting_VBG parts_NNS of_IN the_DT stylesheet_NN is_VBZ described_VBN in_IN this_DT paper_NN ._.
+The_DT data_NNS extraction_NN part_NN is_VBZ constructed_VBN from_IN content_JJ rules_NNS while_IN the_DT formatting_NN part_NN is_VBZ constructed_VBN from_IN presentation_NN rules_NNS ._.
+They_PRP are_VBP then_RB combined_VBN together_RB to_TO form_VB a_DT stylesheet_NN by_IN an_DT XSLT_NNP generator_NN ._.
+A_DT large_JJ number_NN of_IN stylesheets_NNS corresponding_VBG to_TO different_JJ devices_NNS and_CC a_DT number_NN of_IN standard_JJ DTD_NNP documents_NNS or_CC XML_NN schemas_NNS can_MD be_VB generated_VBN in_IN this_DT way_NN and_CC stored_VBN in_IN the_DT pool_NN during_IN application_NN setup_NN stage_NN ._.
+They_PRP will_MD be_VB individually_RB selected_VBN from_IN the_DT pool_NN by_IN an_DT XSLT_NNP engine_NN to_TO produce_VB different_JJ WML_NNP documents_NNS for_IN different_JJ devices_NNS during_IN run_NN time_NN ._.

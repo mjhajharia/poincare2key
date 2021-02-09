@@ -1,0 +1,9 @@
+Efficiently_RB querying_VBG rdf_NN data_NNS in_IN triple_JJ stores_NNS
+Efficiently_RB querying_VBG RDF_NNP data_NNS is_VBZ being_VBG an_DT important_JJ factor_NN in_IN applying_VBG Semantic_JJ Web_NN technologies_NNS to_TO real-world_JJ applications_NNS ._.
+In_IN this_DT context_NN ,_, many_JJ efforts_NNS have_VBP been_VBN made_VBN to_TO store_VB and_CC query_VB RDF_NNP data_NNS in_IN relational_JJ database_NN using_VBG particular_JJ schemas_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ scheme_NN to_TO store_NN ,_, index_NN ,_, and_CC query_NN RDF_NN data_NNS in_IN triple_JJ stores_NNS ._.
+Graph_NN feature_NN of_IN RDF_NNP data_NNS is_VBZ taken_VBN into_IN considerations_NNS which_WDT might_MD help_VB reduce_VB the_DT join_VB costs_NNS on_IN the_DT vertical_JJ database_NN structure_NN ._.
+We_PRP would_MD partition_NN RDF_NNP triples_NNS into_IN overlapped_JJ groups_NNS ,_, store_VBP them_PRP in_IN a_DT triple_JJ table_NN with_IN one_CD more_JJR column_NN of_IN group_NN identity_NN ,_, and_CC build_VB up_RP a_DT signature_NN tree_NN to_TO index_NN them_PRP ._.
+Based_VBN on_IN this_DT infrastructure_NN ,_, a_DT complex_JJ RDF_NN query_NN is_VBZ decomposed_VBN into_IN multiple_JJ pieces_NNS of_IN sub-queries_NNS which_WDT could_MD be_VB easily_RB filtered_VBN into_IN some_DT RDF_NN groups_NNS using_VBG signature_NN tree_NN index_NN ,_, and_CC finally_RB is_VBZ evaluated_VBN with_IN a_DT composed_VBN and_CC optimized_VBN SQL_NN with_IN specific_JJ constraints_NNS ._.
+We_PRP compare_VBP the_DT performance_NN of_IN our_PRP$ method_NN with_IN prior_JJ art_NN on_IN typical_JJ queries_NNS over_IN a_DT large_JJ scaled_VBN LUBM_NN and_CC UOBM_NN benchmark_NN data_NNS -LRB-_-LRB- more_JJR than_IN 10_CD million_CD triples_NNS -RRB-_-RRB- ._.
+For_IN some_DT extreme_JJ cases_NNS ,_, they_PRP can_MD promote_VB 3_CD to_TO 4_CD orders_NNS of_IN magnitude_NN ._.

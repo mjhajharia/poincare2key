@@ -1,0 +1,11 @@
+Human_JJ wayfinding_NN in_IN information_NN networks_NNS
+Navigating_VBG information_NN spaces_NNS is_VBZ an_DT essential_JJ part_NN of_IN our_PRP$ everyday_JJ lives_NNS ,_, and_CC in_IN order_NN to_TO design_VB efficient_JJ and_CC user-friendly_JJ information_NN systems_NNS ,_, it_PRP is_VBZ important_JJ to_TO understand_VB how_WRB humans_NNS navigate_VB and_CC find_VB the_DT information_NN they_PRP are_VBP looking_VBG for_IN ._.
+We_PRP perform_VBP a_DT large-scale_JJ study_NN of_IN human_JJ wayfinding_NN ,_, in_IN which_WDT ,_, given_VBN a_DT network_NN of_IN links_NNS between_IN the_DT concepts_NNS of_IN Wikipedia_NNP ,_, people_NNS play_VBP a_DT game_NN of_IN finding_VBG a_DT short_JJ path_NN from_IN a_DT given_VBN start_NN to_TO a_DT given_VBN target_NN concept_NN by_IN following_VBG hyperlinks_NNS ._.
+What_WP distinguishes_VBZ our_PRP$ setup_NN from_IN other_JJ studies_NNS of_IN human_JJ Web-browsing_JJ behavior_NN is_VBZ that_IN in_IN our_PRP$ case_NN people_NNS navigate_VBP a_DT graph_NN of_IN connections_NNS between_IN concepts_NNS ,_, and_CC that_IN the_DT exact_JJ goal_NN of_IN the_DT navigation_NN is_VBZ known_VBN ahead_RB of_IN time_NN ._.
+We_PRP study_VBD more_JJR than_IN 30,000_CD goal-directed_JJ human_JJ search_NN paths_NNS and_CC identify_VB strategies_NNS people_NNS use_VBP when_WRB navigating_VBG information_NN spaces_NNS ._.
+We_PRP find_VBP that_IN human_JJ wayfinding_NN ,_, while_IN mostly_RB very_RB efficient_JJ ,_, differs_VBZ from_IN shortest_JJS paths_NNS in_IN characteristic_JJ ways_NNS ._.
+Most_JJS subjects_NNS navigate_VBP through_IN high-degree_JJ hubs_NNS in_IN the_DT early_JJ phase_NN ,_, while_IN their_PRP$ search_NN is_VBZ guided_VBN by_IN content_NN features_NNS thereafter_RB ._.
+We_PRP also_RB observe_VBP a_DT trade-off_NN between_IN simplicity_NN and_CC efficiency_NN :_: conceptually_RB simple_JJ solutions_NNS are_VBP more_RBR common_JJ but_CC tend_VBP to_TO be_VB less_RBR efficient_JJ than_IN more_RBR complex_JJ ones_NNS ._.
+Finally_RB ,_, we_PRP consider_VBP the_DT task_NN of_IN predicting_VBG the_DT target_NN a_DT user_NN is_VBZ trying_VBG to_TO reach_VB ._.
+We_PRP design_VBP a_DT model_NN and_CC an_DT efficient_JJ learning_NN algorithm_NN ._.
+Such_JJ predictive_JJ models_NNS of_IN human_JJ wayfinding_NN can_MD be_VB applied_VBN in_IN intelligent_JJ browsing_VBG interfaces_NNS ._.

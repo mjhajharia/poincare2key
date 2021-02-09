@@ -1,0 +1,15 @@
+Parallel_JJ boosted_VBN regression_NN trees_NNS for_IN web_NN search_NN ranking_NN
+Gradient_NNP Boosted_NNP Regression_NN Trees_NNP -LRB-_-LRB- GBRT_NNP -RRB-_-RRB- are_VBP the_DT current_JJ state-of-the-art_JJ learning_NN paradigm_NN for_IN machine_NN learned_VBD web-search_JJ ranking_NN -_: a_DT domain_NN notorious_JJ for_IN very_RB large_JJ data_NNS sets_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ method_NN for_IN parallelizing_VBG the_DT training_NN of_IN GBRT_NN ._.
+Our_PRP$ technique_NN parallelizes_VBZ the_DT construction_NN of_IN the_DT individual_JJ regression_NN trees_NNS and_CC operates_VBZ using_VBG the_DT master-worker_JJ paradigm_NN as_IN follows_VBZ ._.
+The_DT data_NNS are_VBP partitioned_VBN among_IN the_DT workers_NNS ._.
+At_IN each_DT iteration_NN ,_, the_DT worker_NN summarizes_VBZ its_PRP$ data-partition_NN using_VBG histograms_NNS ._.
+The_DT master_NN processor_NN uses_VBZ these_DT to_TO build_VB one_CD layer_NN of_IN a_DT regression_NN tree_NN ,_, and_CC then_RB sends_VBZ this_DT layer_NN to_TO the_DT workers_NNS ,_, allowing_VBG the_DT workers_NNS to_TO build_VB histograms_NNS for_IN the_DT next_JJ layer_NN ._.
+Our_PRP$ algorithm_NN carefully_RB orchestrates_VBZ overlap_VB between_IN communication_NN and_CC computation_NN to_TO achieve_VB good_JJ performance_NN ._.
+Since_IN this_DT approach_NN is_VBZ based_VBN on_IN data_NNS partitioning_VBG ,_, and_CC requires_VBZ a_DT small_JJ amount_NN of_IN communication_NN ,_, it_PRP generalizes_VBZ to_TO distributed_VBN and_CC shared_VBN memory_NN machines_NNS ,_, as_RB well_RB as_IN clouds_NNS ._.
+We_PRP present_VBP experimental_JJ results_NNS on_IN both_DT shared_VBN memory_NN machines_NNS and_CC clusters_NNS for_IN two_CD large_JJ scale_NN web_NN search_NN ranking_NN data_NNS sets_NNS ._.
+We_PRP demonstrate_VBP that_IN the_DT loss_NN in_IN accuracy_NN induced_VBD due_JJ to_TO the_DT histogram_NN approximation_NN in_IN the_DT regression_NN tree_NN creation_NN can_MD be_VB compensated_VBN for_IN through_IN slightly_RB deeper_JJR trees_NNS ._.
+As_IN a_DT result_NN ,_, we_PRP see_VBP no_DT significant_JJ loss_NN in_IN accuracy_NN on_IN the_DT Yahoo_NNP data_NN sets_NNS and_CC a_DT very_RB small_JJ reduction_NN in_IN accuracy_NN for_IN the_DT Microsoft_NNP LETOR_NNP data_NNS ._.
+In_IN addition_NN ,_, on_IN shared_VBN memory_NN machines_NNS ,_, we_PRP obtain_VBP almost_RB perfect_JJ linear_JJ speed-up_NN with_IN up_IN to_TO about_IN 48_CD cores_NNS on_IN the_DT large_JJ data_NN sets_NNS ._.
+On_IN distributed_VBN memory_NN machines_NNS ,_, we_PRP get_VBP a_DT speedup_NN of_IN 25_CD with_IN 32_CD processors_NNS ._.
+Due_JJ to_TO data_NNS partitioning_VBG our_PRP$ approach_NN can_MD scale_VB to_TO even_VB larger_JJR data_NNS sets_NNS ,_, on_IN which_WDT one_PRP can_MD reasonably_RB expect_VB even_RB higher_JJR speedups_NNS ._.

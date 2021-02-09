@@ -1,0 +1,13 @@
+An_DT energy-efficient_JJ mobile_JJ recommender_NN system_NN
+The_DT increasing_VBG availability_NN of_IN large-scale_JJ location_NN traces_NNS creates_VBZ unprecedent_JJ opportunities_NNS to_TO change_VB the_DT paradigm_NN for_IN knowledge_NN discovery_NN in_IN transportation_NN systems_NNS ._.
+A_DT particularly_RB promising_JJ area_NN is_VBZ to_TO extract_VB energy-efficient_JJ transportation_NN patterns_NNS -LRB-_-LRB- green_JJ knowledge_NN -RRB-_-RRB- ,_, which_WDT can_MD be_VB used_VBN as_IN guidance_NN for_IN reducing_VBG inefficiencies_NNS in_IN energy_NN consumption_NN of_IN transportation_NN sectors_NNS ._.
+However_RB ,_, extracting_VBG green_JJ knowledge_NN from_IN location_NN traces_NNS is_VBZ not_RB a_DT trivial_JJ task_NN ._.
+Conventional_JJ data_NN analysis_NN tools_NNS are_VBP usually_RB not_RB customized_VBN for_IN handling_VBG the_DT massive_JJ quantity_NN ,_, complex_NN ,_, dynamic_NN ,_, and_CC distributed_VBN nature_NN of_IN location_NN traces_NNS ._.
+To_TO that_DT end_NN ,_, in_IN this_DT paper_NN ,_, we_PRP provide_VBP a_DT focused_JJ study_NN of_IN extracting_VBG energy-efficient_JJ transportation_NN patterns_NNS from_IN location_NN traces_NNS ._.
+Specifically_RB ,_, we_PRP have_VBP the_DT initial_JJ focus_NN on_IN a_DT sequence_NN of_IN mobile_JJ recommendations_NNS ._.
+As_IN a_DT case_NN study_NN ,_, we_PRP develop_VBP a_DT mobile_JJ recommender_NN system_NN which_WDT has_VBZ the_DT ability_NN in_IN recommending_VBG a_DT sequence_NN of_IN pick-up_JJ points_NNS for_IN taxi_NN drivers_NNS or_CC a_DT sequence_NN of_IN potential_JJ parking_NN positions_NNS ._.
+The_DT goal_NN of_IN this_DT mobile_JJ recommendation_NN system_NN is_VBZ to_TO maximize_VB the_DT probability_NN of_IN business_NN success_NN ._.
+Along_IN this_DT line_NN ,_, we_PRP provide_VBP a_DT Potential_JJ Travel_NNP Distance_NNP -LRB-_-LRB- PTD_NNP -RRB-_-RRB- function_NN for_IN evaluating_VBG each_DT candidate_NN sequence_NN ._.
+This_DT PTD_NN function_NN possesses_VBZ a_DT monotone_NN property_NN which_WDT can_MD be_VB used_VBN to_TO effectively_RB prune_VB the_DT search_NN space_NN ._.
+Based_VBN on_IN this_DT PTD_NN function_NN ,_, we_PRP develop_VBP two_CD algorithms_NNS ,_, LCP_NNP and_CC SkyRoute_NNP ,_, for_IN finding_VBG the_DT recommended_VBN routes_NNS ._.
+Finally_RB ,_, experimental_JJ results_NNS show_VBP that_IN the_DT proposed_VBN system_NN can_MD provide_VB effective_JJ mobile_JJ sequential_JJ recommendation_NN and_CC the_DT knowledge_NN extracted_VBN from_IN location_NN traces_NNS can_MD be_VB used_VBN for_IN coaching_NN drivers_NNS and_CC leading_VBG to_TO the_DT efficient_JJ use_NN of_IN energy_NN ._.

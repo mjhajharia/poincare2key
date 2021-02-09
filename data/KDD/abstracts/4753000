@@ -1,0 +1,10 @@
+Scalable_JJ look-ahead_JJ linear_JJ regression_NN trees_NNS
+Most_JJS decision_NN tree_NN algorithms_NNS base_VBP their_PRP$ splitting_JJ decisions_NNS on_IN a_DT piecewise_JJ constant_JJ model_NN ._.
+Often_RB these_DT splitting_JJ algorithms_NNS are_VBP extrapolated_VBN to_TO trees_NNS with_IN non-constant_JJ models_NNS at_IN the_DT leaf_NN nodes_NNS ._.
+The_DT motivation_NN behind_IN Look-ahead_JJ Linear_JJ Regression_NN Trees_NNP -LRB-_-LRB- LLRT_NNP -RRB-_-RRB- is_VBZ that_IN out_IN of_IN all_PDT the_DT methods_NNS proposed_VBN to_TO date_NN ,_, there_EX has_VBZ been_VBN no_DT scalable_JJ approach_NN to_TO exhaustively_RB evaluate_VB all_DT possible_JJ models_NNS in_IN the_DT leaf_NN nodes_NNS in_IN order_NN to_TO obtain_VB an_DT optimal_JJ split_NN ._.
+Using_VBG several_JJ optimizations_NNS ,_, LLRT_NN is_VBZ able_JJ to_TO generate_VB and_CC evaluate_VB thousands_NNS of_IN linear_JJ regression_NN models_NNS per_IN second_NN ._.
+This_DT allows_VBZ for_IN a_DT near-exhaustive_JJ evaluation_NN of_IN all_DT possible_JJ splits_VBZ in_IN a_DT node_NN ,_, based_VBN on_IN the_DT quality_NN of_IN fit_NN of_IN linear_JJ regression_NN models_NNS in_IN the_DT resulting_VBG branches_NNS ._.
+We_PRP decompose_VBP the_DT calculation_NN of_IN the_DT Residual_JJ Sum_NN of_IN Squares_NNS in_IN such_PDT a_DT way_NN that_IN a_DT large_JJ part_NN of_IN it_PRP is_VBZ pre-computed_JJ ._.
+The_DT resulting_VBG method_NN is_VBZ highly_RB scalable_JJ ._.
+We_PRP observe_VBP it_PRP to_TO obtain_VB high_JJ predictive_JJ accuracy_NN for_IN problems_NNS with_IN strong_JJ mutual_JJ dependencies_NNS between_IN attributes_NNS ._.
+We_PRP report_VBP on_IN experiments_NNS with_IN two_CD simulated_JJ and_CC seven_CD real_JJ data_NNS sets_NNS ._.

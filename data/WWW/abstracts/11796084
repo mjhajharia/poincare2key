@@ -1,0 +1,16 @@
+SourceRank_NNP :_: relevance_NN and_CC trust_NN assessment_NN for_IN deep_JJ web_NN sources_NNS based_VBN on_IN inter-source_JJ agreement_NN
+One_CD immediate_JJ challenge_NN in_IN searching_VBG the_DT deep_JJ web_NN databases_NNS is_VBZ source_NN selection_NN -_: i.e._FW selecting_VBG the_DT most_RBS relevant_JJ web_NN databases_NNS for_IN answering_VBG a_DT given_VBN query_NN ._.
+The_DT existing_VBG database_NN selection_NN methods_NNS -LRB-_-LRB- both_CC text_NN and_CC relational_NN -RRB-_-RRB- assess_VBP the_DT source_NN quality_NN based_VBN on_IN the_DT query-similarity-based_JJ relevance_NN assessment_NN ._.
+When_WRB applied_VBN to_TO the_DT deep_JJ web_NN these_DT methods_NNS have_VBP two_CD deficiencies_NNS ._.
+First_NNP is_VBZ that_IN the_DT methods_NNS are_VBP agnostic_JJ to_TO the_DT correctness_NN -LRB-_-LRB- trustworthiness_NN -RRB-_-RRB- of_IN the_DT sources_NNS ._.
+Secondly_RB ,_, the_DT query_NN based_VBN relevance_NN does_VBZ not_RB consider_VB the_DT importance_NN of_IN the_DT results_NNS ._.
+These_DT two_CD considerations_NNS are_VBP essential_JJ for_IN the_DT open_JJ collections_NNS like_IN the_DT deep_JJ web_NN ._.
+Since_IN a_DT number_NN of_IN sources_NNS provide_VBP answers_NNS to_TO any_DT query_NN ,_, we_PRP conjuncture_VBP that_IN the_DT agreements_NNS between_IN these_DT answers_NNS are_VBP likely_JJ to_TO be_VB helpful_JJ in_IN assessing_VBG the_DT importance_NN and_CC the_DT trustworthiness_NN of_IN the_DT sources_NNS ._.
+We_PRP compute_VBP the_DT agreement_NN between_IN the_DT sources_NNS as_IN the_DT agreement_NN of_IN the_DT answers_NNS returned_VBD ._.
+While_IN computing_VBG the_DT agreement_NN ,_, we_PRP also_RB measure_VB and_CC compensate_VB for_IN possible_JJ collusion_NN between_IN the_DT sources_NNS ._.
+This_DT adjusted_JJ agreement_NN is_VBZ modeled_VBN as_IN a_DT graph_NN with_IN sources_NNS at_IN the_DT vertices_NNS ._.
+On_IN this_DT agreement_NN graph_NN ,_, a_DT quality_NN score_NN of_IN a_DT source_NN that_IN we_PRP call_VBP SourceRank_NNP ,_, is_VBZ calculated_VBN as_IN the_DT stationary_JJ visit_NN probability_NN of_IN a_DT random_JJ walk_NN ._.
+We_PRP evaluate_VBP SourceRank_NNP in_IN multiple_JJ domains_NNS ,_, including_VBG sources_NNS in_IN Google_NNP Base_NNP ,_, with_IN sizes_NNS up_IN to_TO 675_CD sources_NNS ._.
+We_PRP demonstrate_VBP that_IN the_DT SourceRank_NNP tracks_VBZ source_NN corruption_NN ._.
+Further_RB ,_, our_PRP$ relevance_NN evaluations_NNS show_VBP that_IN SourceRank_NN improves_VBZ precision_NN by_IN 22-60_CD %_NN over_IN the_DT Google_NNP Base_NNP and_CC the_DT other_JJ baseline_NN methods_NNS ._.
+SourceRank_NNP has_VBZ been_VBN implemented_VBN in_IN a_DT system_NN called_VBN Factal_NNP ._.

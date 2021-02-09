@@ -1,0 +1,10 @@
+An_DT axiomatic_JJ approach_NN for_IN result_NN diversification_NN
+Understanding_VBG user_NN intent_NN is_VBZ key_JJ to_TO designing_VBG an_DT effective_JJ ranking_NN system_NN in_IN a_DT search_NN engine_NN ._.
+In_IN the_DT absence_NN of_IN any_DT explicit_JJ knowledge_NN of_IN user_NN intent_NN ,_, search_NN engines_NNS want_VBP to_TO diversify_VB results_NNS to_TO improve_VB user_NN satisfaction_NN ._.
+In_IN such_PDT a_DT setting_NN ,_, the_DT probability_NN ranking_JJ principle-based_JJ approach_NN of_IN presenting_VBG the_DT most_RBS relevant_JJ results_NNS on_IN top_NN can_MD be_VB sub-optimal_JJ ,_, and_CC hence_RB the_DT search_NN engine_NN would_MD like_VB to_TO trade-off_NN relevance_NN for_IN diversity_NN in_IN the_DT results_NNS ._.
+In_IN analogy_NN to_TO prior_JJ work_NN on_IN ranking_NN and_CC clustering_NN systems_NNS ,_, we_PRP use_VBP the_DT axiomatic_JJ approach_NN to_TO characterize_VB and_CC design_VB diversification_NN systems_NNS ._.
+We_PRP develop_VBP a_DT set_NN of_IN natural_JJ axioms_NNS that_IN a_DT diversification_NN system_NN is_VBZ expected_VBN to_TO satisfy_VB ,_, and_CC show_VBP that_IN no_DT diversification_NN function_NN can_MD satisfy_VB all_PDT the_DT axioms_NNS simultaneously_RB ._.
+We_PRP illustrate_VBP the_DT use_NN of_IN the_DT axiomatic_JJ framework_NN by_IN providing_VBG three_CD example_NN diversification_NN objectives_NNS that_WDT satisfy_VBP different_JJ subsets_NNS of_IN the_DT axioms_NNS ._.
+We_PRP also_RB uncover_VBP a_DT rich_JJ link_NN to_TO the_DT facility_NN dispersion_NN problem_NN that_WDT results_VBZ in_IN algorithms_NNS for_IN a_DT number_NN of_IN diversification_NN objectives_NNS ._.
+Finally_RB ,_, we_PRP propose_VBP an_DT evaluation_NN methodology_NN to_TO characterize_VB the_DT objectives_NNS and_CC the_DT underlying_VBG axioms_NNS ._.
+We_PRP conduct_VBP a_DT large_JJ scale_NN evaluation_NN of_IN our_PRP$ objectives_NNS based_VBN on_IN two_CD data_NNS sets_NNS :_: a_DT data_NN set_NN derived_VBN from_IN the_DT Wikipedia_NNP disambiguation_NN pages_NNS and_CC a_DT product_NN database_NN ._.

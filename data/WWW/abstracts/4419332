@@ -1,0 +1,6 @@
+An_DT audio\/video_NN analysis_NN mechanism_NN for_IN web_NN indexing_NN
+The_DT high_JJ availability_NN of_IN video_NN streams_NNS is_VBZ making_VBG necessary_JJ mechanisms_NNS for_IN indexing_NN such_JJ contents_NNS in_IN the_DT Web_NN world_NN ._.
+In_IN this_DT paper_NN we_PRP focus_VBP on_IN news_NN programs_NNS and_CC we_PRP propose_VBP a_DT mechanism_NN that_WDT integrates_VBZ low_JJ and_CC high_JJ level_NN video_NN features_VBZ to_TO provide_VB a_DT high_JJ level_NN semantic_JJ description_NN ._.
+A_DT color\/luminance_NN analysis_NN is_VBZ coupled_VBN with_IN audio_JJ analysis_NN to_TO provide_VB a_DT better_JJR identification_NN of_IN all_PDT the_DT video_NN segments_NNS that_WDT compose_VBP the_DT video_NN stream_NN ._.
+Each_DT video_NN segment_NN is_VBZ subject_JJ to_TO speech_NN detection_NN and_CC is_VBZ described_VBN through_IN MPEG7_NN so_IN that_IN the_DT resulting_VBG metadata_NN description_NN can_MD be_VB used_VBN to_TO index_NN the_DT video_NN stream_NN ._.
+An_DT experimental_JJ evaluation_NN shows_VBZ the_DT benefits_NNS of_IN integrating_VBG audio_NN and_CC video_NN analysis_NN ._.

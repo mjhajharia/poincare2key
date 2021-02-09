@@ -1,0 +1,11 @@
+Privacy-enhancing_JJ personalized_JJ web_NN search_NN
+Personalized_VBN web_NN search_NN is_VBZ a_DT promising_JJ way_NN to_TO improve_VB search_NN quality_NN by_IN customizing_VBG search_NN results_NNS for_IN people_NNS with_IN individual_JJ information_NN goals_NNS ._.
+However_RB ,_, users_NNS are_VBP uncomfortable_JJ with_IN exposing_VBG private_JJ preference_NN information_NN to_TO search_VB engines_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, privacy_NN is_VBZ not_RB absolute_JJ ,_, and_CC often_RB can_MD be_VB compromised_VBN if_IN there_EX is_VBZ a_DT gain_NN in_IN service_NN or_CC profitability_NN to_TO the_DT user_NN ._.
+Thus_RB ,_, a_DT balance_NN must_MD be_VB struck_VBN between_IN search_NN quality_NN and_CC privacy_NN protection_NN ._.
+This_DT paper_NN presents_VBZ a_DT scalable_JJ way_NN for_IN users_NNS to_TO automatically_RB build_VB rich_JJ user_NN profiles_NNS ._.
+These_DT profiles_NNS summarize_VBP a_DT user_NN ._.
+s_NN interests_NNS into_IN a_DT hierarchical_JJ organization_NN according_VBG to_TO specific_JJ interests_NNS ._.
+Two_CD parameters_NNS for_IN specifying_VBG privacy_NN requirements_NNS are_VBP proposed_VBN to_TO help_VB the_DT user_NN to_TO choose_VB the_DT content_NN and_CC degree_NN of_IN detail_NN of_IN the_DT profile_NN information_NN that_WDT is_VBZ exposed_VBN to_TO the_DT search_NN engine_NN ._.
+Experiments_NNS showed_VBD that_IN the_DT user_NN profile_NN improved_VBD search_NN quality_NN when_WRB compared_VBN to_TO standard_JJ MSN_NNP rankings_NNS ._.
+More_RBR importantly_RB ,_, results_NNS verified_VBD our_PRP$ hypothesis_NN that_IN a_DT significant_JJ improvement_NN on_IN search_NN quality_NN can_MD be_VB achieved_VBN by_IN only_RB sharing_VBG some_DT higher-level_JJ user_NN profile_NN information_NN ,_, which_WDT is_VBZ potentially_RB less_RBR sensitive_JJ than_IN detailed_JJ personal_JJ information_NN ._.

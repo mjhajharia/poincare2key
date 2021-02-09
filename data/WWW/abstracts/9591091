@@ -1,0 +1,8 @@
+Investigating_VBG web_NN services_NNS on_IN the_DT world_NN wide_JJ web_NN
+Searching_NN for_IN Web_NN service_NN access_NN points_NNS is_VBZ no_RB longer_RB attached_VBN to_TO service_NN registries_NNS as_IN Web_NN search_NN engines_NNS have_VBP become_VBN a_DT new_JJ major_JJ source_NN for_IN discovering_VBG Web_NN services_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP conduct_VBP a_DT thorough_JJ analytical_JJ investigation_NN on_IN the_DT plurality_NN of_IN Web_NN service_NN interfaces_NNS that_WDT exist_VBP on_IN the_DT Web_NN today_NN ._.
+Using_VBG our_PRP$ Web_NN Service_NNP Crawler_NNP Engine_NNP -LRB-_-LRB- WSCE_NNP -RRB-_-RRB- ,_, we_PRP collect_VBP metadata_JJ service_NN information_NN on_IN retrieved_VBN interfaces_NNS through_IN accessible_JJ UBRs_NNS ,_, service_NN portals_NNS and_CC search_NN engines_NNS ._.
+We_PRP use_VBP this_DT data_NNS to_TO determine_VB Web_NN service_NN statistics_NNS and_CC distribution_NN based_VBN on_IN object_NN sizes_NNS ,_, types_NNS of_IN technologies_NNS employed_VBN ,_, and_CC the_DT number_NN of_IN functioning_VBG services_NNS ._.
+This_DT statistical_JJ data_NNS can_MD be_VB used_VBN to_TO help_VB determine_VB the_DT current_JJ status_NN of_IN Web_NN services_NNS ._.
+We_PRP determine_VBP an_DT intriguing_JJ result_NN that_IN 63_CD %_NN of_IN the_DT available_JJ Web_NN services_NNS on_IN the_DT Web_NN are_VBP considered_VBN to_TO be_VB active_JJ ._.
+We_PRP further_RB use_VBP our_PRP$ findings_NNS to_TO provide_VB insights_NNS on_IN improving_VBG the_DT service_NN retrieval_NN process_NN ._.

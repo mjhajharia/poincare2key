@@ -1,0 +1,8 @@
+Clustering_VBG pair-wise_JJ dissimilarity_NN data_NNS into_IN partially_RB ordered_VBN sets_NNS
+Ontologies_NNS represent_VBP data_NNS relationships_NNS as_IN hierarchies_NNS of_IN possibly_RB overlapping_VBG classes_NNS ._.
+Ontologies_NNS are_VBP closely_RB related_JJ to_TO clustering_NN hierarchies_NNS ,_, and_CC in_IN this_DT article_NN we_PRP explore_VBP this_DT relationship_NN in_IN depth_NN ._.
+In_IN particular_JJ ,_, we_PRP examine_VBP the_DT space_NN of_IN ontologies_NNS that_WDT can_MD be_VB generated_VBN by_IN pairwise_JJ dissimilarity_NN matrices_NNS ._.
+We_PRP demonstrate_VBP that_IN classical_JJ clustering_NN algorithms_NNS ,_, which_WDT take_VBP dissimilarity_NN matrices_NNS as_IN inputs_NNS ,_, do_VBP not_RB incorporate_VB all_DT available_JJ information_NN ._.
+In_IN fact_NN ,_, only_RB special_JJ types_NNS of_IN dissimilarity_NN matrices_NNS can_MD be_VB exactly_RB preserved_VBN by_IN previous_JJ clustering_NN methods_NNS ._.
+We_PRP model_VBP ontologies_NNS as_IN a_DT partially_RB ordered_VBN set_NN -LRB-_-LRB- poset_NN -RRB-_-RRB- over_IN the_DT subset_NN relation_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ clustering_NN algorithm_NN ,_, that_WDT generates_VBZ a_DT partially_RB ordered_VBN set_NN of_IN clusters_NNS from_IN a_DT dissimilarity_NN matrix_NN ._.

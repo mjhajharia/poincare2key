@@ -1,0 +1,6 @@
+CoSi_NN :_: context-sensitive_JJ keyword_JJ query_NN interpretation_NN on_IN RDF_NNP databases_NNS
+The_DT demo_NN will_MD present_VB CoSi_NNP ,_, a_DT system_NN that_WDT enables_VBZ context-sensitive_JJ interpretation_NN of_IN keyword_JJ queries_NNS on_IN RDF_NNP databases_NNS ._.
+The_DT techniques_NNS for_IN representing_VBG ,_, managing_VBG and_CC exploiting_VBG query_JJ history_NN are_VBP central_JJ to_TO achieving_VBG this_DT objective_NN ._.
+The_DT demonstration_NN will_MD show_VB the_DT effectiveness_NN of_IN our_PRP$ approach_NN for_IN capturing_VBG a_DT user_NN 's_POS querying_VBG context_NN from_IN their_PRP$ query_JJ history_NN ._.
+Further_RB ,_, it_PRP will_MD show_VB how_WRB context_NN is_VBZ utilized_VBN to_TO influence_VB the_DT interpretation_NN of_IN a_DT new_JJ query_NN ._.
+The_DT demonstration_NN is_VBZ based_VBN on_IN DBPedia_NN ,_, the_DT RDF_NNP representation_NN of_IN Wikipedia_NNP ._.

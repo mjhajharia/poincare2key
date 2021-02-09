@@ -1,0 +1,7 @@
+SOFIE_NNP :_: a_DT self-organizing_JJ framework_NN for_IN information_NN extraction_NN
+This_DT paper_NN presents_VBZ SOFIE_NNP ,_, a_DT system_NN for_IN automated_JJ ontology_NN extension_NN ._.
+SOFIE_NNP can_MD parse_VB natural_JJ language_NN documents_NNS ,_, extract_NN ontological_JJ facts_NNS from_IN them_PRP and_CC link_VB the_DT facts_NNS into_IN an_DT ontology_NN ._.
+SOFIE_NNP uses_VBZ logical_JJ reasoning_NN on_IN the_DT existing_VBG knowledge_NN and_CC on_IN the_DT new_JJ knowledge_NN in_IN order_NN to_TO disambiguate_VB words_NNS to_TO their_PRP$ most_RBS probable_JJ meaning_NN ,_, to_TO reason_VB on_IN the_DT meaning_NN of_IN text_NN patterns_NNS and_CC to_TO take_VB into_IN account_NN world_NN knowledge_NN axioms_NNS ._.
+This_DT allows_VBZ SOFIE_NNP to_TO check_VB the_DT plausibility_NN of_IN hypotheses_NNS and_CC to_TO avoid_VB inconsistencies_NNS with_IN the_DT ontology_NN ._.
+The_DT framework_NN of_IN SOFIE_NNP unites_VBZ the_DT paradigms_NNS of_IN pattern_NN matching_NN ,_, word_NN sense_NN disambiguation_NN and_CC ontological_JJ reasoning_NN in_IN one_CD unified_JJ model_NN ._.
+Our_PRP$ experiments_NNS show_VBP that_IN SOFIE_NNP delivers_VBZ high-quality_JJ output_NN ,_, even_RB from_IN unstructured_JJ Internet_NNP documents_NNS ._.

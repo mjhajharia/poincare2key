@@ -1,0 +1,5 @@
+Enhancing_NN the_DT privacy_NN of_IN web-based_JJ communication_NN
+A_DT profiling_JJ adversary_NN is_VBZ an_DT adversary_NN whose_WP$ goal_NN is_VBZ to_TO classify_VB a_DT population_NN of_IN users_NNS into_IN categories_NNS according_VBG to_TO messages_NNS they_PRP exchange_VBP ._.
+This_DT adversary_NN models_NNS the_DT most_RBS common_JJ privacy_NN threat_NN against_IN web_NN based_JJ communication_NN ._.
+We_PRP propose_VBP a_DT new_JJ encryption_NN scheme_NN ,_, called_VBN stealth_NN encryption_NN ,_, that_WDT protects_VBZ users_NNS from_IN profiling_VBG attacks_NNS by_IN concealing_VBG the_DT semantic_JJ content_NN of_IN plaintext_NN while_IN preserving_VBG its_PRP$ grammatical_JJ structure_NN and_CC other_JJ non-semantic_JJ linguistic_JJ features_NNS ,_, such_JJ as_IN word_NN frequency_NN distribution_NN ._.
+Given_VBN English_JJ plaintext_NN ,_, stealth_NN encryption_NN produces_VBZ ciphertext_NN that_WDT can_MD not_RB efficiently_RB be_VB distinguished_VBN from_IN normal_JJ English_JJ text_NN -LRB-_-LRB- our_PRP$ techniques_NNS apply_VBP to_TO other_JJ languages_NNS as_RB well_RB -RRB-_-RRB- ._.

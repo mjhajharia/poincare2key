@@ -1,0 +1,9 @@
+Distributed_VBN web_NN retrieval_NN
+In_IN the_DT ocean_NN of_IN Web_NN data_NNS ,_, Web_NN search_NN engines_NNS are_VBP the_DT primary_JJ way_NN to_TO access_NN content_NN ._.
+As_IN the_DT data_NN is_VBZ on_IN the_DT order_NN of_IN petabytes_NNS ,_, current_JJ search_NN engines_NNS are_VBP very_RB large_JJ centralized_JJ systems_NNS based_VBN on_IN replicated_VBN clusters_NNS ._.
+Web_NN data_NNS ,_, however_RB ,_, is_VBZ always_RB evolving_VBG ._.
+The_DT number_NN of_IN Web_NN sites_NNS continues_VBZ to_TO grow_VB rapidly_RB -LRB-_-LRB- over_IN 270_CD millions_NNS at_IN the_DT beginning_NN of_IN 2011_CD -RRB-_-RRB- and_CC there_EX are_VBP currently_RB more_JJR than_IN 20_CD billion_CD indexed_VBN pages_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, Internet_NNP users_NNS are_VBP above_IN one_CD billion_CD and_CC hundreds_NNS of_IN million_CD of_IN queries_NNS are_VBP issued_VBN each_DT day_NN ._.
+In_IN the_DT near_JJ future_NN ,_, centralized_VBN systems_NNS are_VBP likely_JJ to_TO become_VB less_RBR effective_JJ against_IN such_PDT a_DT data-query_JJ load_NN ,_, thus_RB suggesting_VBG the_DT need_NN of_IN fully_RB distributed_VBN search_NN engines_NNS ._.
+Such_JJ engines_NNS need_VBP to_TO maintain_VB high_JJ quality_NN answers_NNS ,_, fast_JJ response_NN time_NN ,_, high_JJ query_NN throughput_NN ,_, high_JJ availability_NN and_CC scalability_NN ;_: in_IN spite_NN of_IN network_NN latency_NN and_CC scattered_JJ data_NNS ._.
+In_IN this_DT tutorial_NN we_PRP present_VBP the_DT architecture_NN of_IN current_JJ search_NN engines_NNS and_CC we_PRP explore_VBP the_DT main_JJ challenges_NNS behind_IN the_DT design_NN of_IN all_PDT the_DT processes_NNS of_IN a_DT distributed_VBN Web_NN retrieval_NN system_NN crawling_VBG ,_, indexing_NN ,_, and_CC query_NN processing_NN ._.

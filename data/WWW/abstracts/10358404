@@ -1,0 +1,8 @@
+Open_NNP user_NN profiles_NNS for_IN adaptive_JJ news_NN systems_NNS :_: help_VB or_CC harm_VB ?_.
+Over_IN the_DT last_JJ five_CD years_NNS ,_, a_DT range_NN of_IN projects_NNS have_VBP focused_VBN on_IN progressively_RB more_JJR elaborated_VBD techniques_NNS for_IN adaptive_JJ news_NN delivery_NN ._.
+However_RB ,_, the_DT adaptation_NN process_NN in_IN these_DT systems_NNS has_VBZ become_VBN more_RBR complicated_JJ and_CC thus_RB less_RBR transparent_JJ to_TO the_DT users_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP concentrate_VBP on_IN the_DT application_NN of_IN open_JJ user_NN models_NNS in_IN adding_VBG transparency_NN and_CC controllability_NN to_TO adaptive_JJ news_NN systems_NNS ._.
+We_PRP present_VBP a_DT personalized_JJ news_NN system_NN ,_, YourNews_NNP ,_, which_WDT allows_VBZ users_NNS to_TO view_VB and_CC edit_VB their_PRP$ interest_NN profiles_NNS ,_, and_CC report_VBP a_DT user_NN study_NN on_IN the_DT system_NN ._.
+Our_PRP$ results_NNS confirm_VBP that_IN users_NNS prefer_VBP transparency_NN and_CC control_NN in_IN their_PRP$ systems_NNS ,_, and_CC generate_VB more_JJR trust_NN to_TO such_JJ systems_NNS ._.
+However_RB ,_, similar_JJ to_TO previous_JJ studies_NNS ,_, our_PRP$ study_NN demonstrate_VBP that_IN this_DT ability_NN to_TO edit_VB user_NN profiles_NNS may_MD also_RB harm_VB the_DT system_NN ._.
+s_NN performance_NN and_CC has_VBZ to_TO be_VB used_VBN with_IN caution_NN ._.

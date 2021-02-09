@@ -1,0 +1,13 @@
+Turning_VBG down_RP the_DT noise_NN in_IN the_DT blogosphere_NN
+In_IN recent_JJ years_NNS ,_, the_DT blogosphere_NN has_VBZ experienced_VBN a_DT substantial_JJ increase_NN in_IN the_DT number_NN of_IN posts_NNS published_VBN daily_RB ,_, forcing_VBG users_NNS to_TO cope_VB with_IN information_NN overload_NN ._.
+The_DT task_NN of_IN guiding_VBG users_NNS through_IN this_DT flood_NN of_IN information_NN has_VBZ thus_RB become_VBN critical_JJ ._.
+To_TO address_VB this_DT issue_NN ,_, we_PRP present_VBP a_DT principled_JJ approach_NN for_IN picking_VBG a_DT set_NN of_IN posts_NNS that_WDT best_RB covers_VBZ the_DT important_JJ stories_NNS in_IN the_DT blogosphere_NN ._.
+We_PRP define_VBP a_DT simple_JJ and_CC elegant_JJ notion_NN of_IN coverage_NN and_CC formalize_VB it_PRP as_IN a_DT submodular_JJ optimization_NN problem_NN ,_, for_IN which_WDT we_PRP can_MD efficiently_RB compute_VB a_DT near-optimal_JJ solution_NN ._.
+In_IN addition_NN ,_, since_IN people_NNS have_VBP varied_VBN interests_NNS ,_, the_DT ideal_JJ coverage_NN algorithm_NN should_MD incorporate_VB user_NN preferences_NNS in_IN order_NN to_TO tailor_VB the_DT selected_VBN posts_NNS to_TO individual_JJ tastes_NNS ._.
+We_PRP define_VBP the_DT problem_NN of_IN learning_VBG a_DT personalized_JJ coverage_NN function_NN by_IN providing_VBG an_DT appropriate_JJ user-interaction_JJ model_NN and_CC formalizing_VBG an_DT online_JJ learning_NN framework_NN for_IN this_DT task_NN ._.
+We_PRP then_RB provide_VBP a_DT no-regret_JJ algorithm_NN which_WDT can_MD quickly_RB learn_VB a_DT user_NN 's_POS preferences_NNS from_IN limited_JJ feedback_NN ._.
+We_PRP evaluate_VBP our_PRP$ coverage_NN and_CC personalization_NN algorithms_NNS extensively_RB over_IN real_JJ blog_NN data_NNS ._.
+Results_NNS from_IN a_DT user_NN study_NN show_VBP that_IN our_PRP$ simple_JJ coverage_NN algorithm_NN does_VBZ as_RB well_RB as_IN most_JJS popular_JJ blog_NN aggregation_NN sites_NNS ,_, including_VBG Google_NNP Blog_NNP Search_VB ,_, Yahoo_NNP !_.
+Buzz_NNP ,_, and_CC Digg_NNP ._.
+Furthermore_RB ,_, we_PRP demonstrate_VBP empirically_RB that_IN our_PRP$ algorithm_NN can_MD successfully_RB adapt_VB to_TO user_NN preferences_NNS ._.
+We_PRP believe_VBP that_IN our_PRP$ technique_NN ,_, especially_RB with_IN personalization_NN ,_, can_MD dramatically_RB reduce_VB information_NN overload_NN ._.

@@ -1,0 +1,11 @@
+Density-based_JJ clustering_NN for_IN real-time_JJ stream_NN data_NNS
+Existing_VBG data-stream_JJ clustering_NN algorithms_NNS such_JJ as_IN CluStream_FW arebased_FW on_IN k-means_NN ._.
+These_DT clustering_NN algorithms_NNS are_VBP incompetent_JJ tofind_JJ clusters_NNS of_IN arbitrary_JJ shapes_NNS and_CC can_MD not_RB handle_VB outliers_NNS ._.
+Further_RB ,_, they_PRP require_VBP the_DT knowledge_NN of_IN k_NN and_CC user-specified_JJ time_NN window_NN ._.
+To_TO address_VB these_DT issues_NNS ,_, this_DT paper_NN proposes_VBZ D-Stream_NN ,_, a_DT framework_NN for_IN clustering_NN stream_NN data_NNS using_VBG adensity-based_JJ approach_NN ._.
+The_DT algorithm_NN uses_VBZ an_DT online_JJ component_NN which_WDT maps_VBZ each_DT input_NN data_NN record_NN into_IN a_DT grid_NN and_CC an_DT offline_JJ component_NN which_WDT computes_VBZ the_DT grid_NN density_NN and_CC clusters_NNS the_DT grids_NNS based_VBN on_IN the_DT density_NN ._.
+The_DT algorithm_NN adopts_VBZ a_DT density_NN decaying_VBG technique_NN to_TO capture_VB the_DT dynamic_JJ changes_NNS of_IN a_DT data_NN stream_NN ._.
+Exploiting_VBG the_DT intricate_JJ relationships_NNS between_IN the_DT decay_NN factor_NN ,_, data_NNS density_NN and_CC cluster_NN structure_NN ,_, our_PRP$ algorithm_NN can_MD efficiently_RB and_CC effectively_RB generate_VB and_CC adjust_VB the_DT clusters_NNS in_IN real_JJ time_NN ._.
+Further_RB ,_, a_DT theoretically_RB sound_JJ technique_NN is_VBZ developed_VBN to_TO detect_VB and_CC remove_VB sporadic_JJ grids_NNS mapped_VBN to_TO by_IN outliers_NNS in_IN order_NN to_TO dramatically_RB improve_VB the_DT space_NN and_CC time_NN efficiency_NN of_IN the_DT system_NN ._.
+The_DT technique_NN makes_VBZ high-speed_JJ data_NNS stream_NN clustering_NN feasible_JJ without_IN degrading_VBG the_DT clustering_NN quality_NN ._.
+The_DT experimental_JJ results_NNS show_VBP that_IN our_PRP$ algorithm_NN has_VBZ superior_JJ quality_NN and_CC efficiency_NN ,_, can_MD find_VB clusters_NNS of_IN arbitrary_JJ shapes_NNS ,_, and_CC can_MD accurately_RB recognize_VB the_DT evolving_VBG behaviors_NNS of_IN real-time_JJ data_NNS streams_NNS ._.

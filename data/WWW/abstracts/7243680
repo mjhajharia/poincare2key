@@ -1,0 +1,13 @@
+Learning_NNP information_NN intent_NN via_IN observation_NN
+Users_NNS in_IN an_DT organization_NN frequently_RB request_NN help_NN by_IN sending_VBG request_NN messages_NNS to_TO assistants_NNS that_WDT express_VBP information_NN intent_NN :_: an_DT intention_NN to_TO update_VB data_NNS in_IN an_DT information_NN system_NN ._.
+Human_JJ assistants_NNS spend_VBP a_DT significant_JJ amount_NN of_IN time_NN and_CC effort_NN processing_NN these_DT requests_NNS ._.
+For_IN example_NN ,_, human_JJ resource_NN assistants_NNS process_VBP requests_NNS to_TO update_VB personnel_NNS records_NNS ,_, and_CC executive_NN assistants_NNS process_VBP requests_NNS to_TO schedule_VB conference_NN rooms_NNS or_CC to_TO make_VB travel_NN reservations_NNS ._.
+To_TO process_VB the_DT intent_NN of_IN a_DT request_NN ,_, assistants_NNS read_VBP the_DT request_NN and_CC then_RB locate_VB ,_, complete_JJ ,_, and_CC submit_VB a_DT form_NN that_WDT corresponds_VBZ to_TO the_DT expressed_VBN intent_NN ._.
+Automatically_RB or_CC semi-automatically_RB processing_VBG the_DT intent_NN expressed_VBN in_IN a_DT request_NN on_IN behalf_NN of_IN an_DT assistant_NN would_MD ease_VB the_DT mundane_JJ and_CC repetitive_JJ nature_NN of_IN this_DT kind_NN of_IN work_NN ._.
+For_IN a_DT well-understood_JJ domain_NN ,_, a_DT straightforward_JJ application_NN of_IN natural_JJ language_NN processing_NN techniques_NNS can_MD be_VB used_VBN to_TO build_VB an_DT intelligent_JJ form_NN interface_NN to_TO semi-automatically_JJ process_NN information_NN intent_NN request_NN messages_NNS ._.
+However_RB ,_, high_JJ performance_NN parsers_NNS are_VBP based_VBN on_IN machine_NN learning_NN algorithms_NNS that_WDT require_VBP a_DT large_JJ corpus_NN of_IN examples_NNS that_WDT have_VBP been_VBN labeled_VBN by_IN an_DT expert_NN ._.
+The_DT generation_NN of_IN a_DT labeled_JJ corpus_NN of_IN requests_NNS is_VBZ a_DT major_JJ barrier_NN to_TO the_DT construction_NN of_IN a_DT parser_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP investigate_VBP the_DT construction_NN of_IN a_DT natural_JJ language_NN processing_NN system_NN and_CC an_DT intelligent_JJ form_NN system_NN that_WDT observes_VBZ an_DT assistant_JJ processing_NN requests_NNS ._.
+The_DT intelligent_JJ form_NN system_NN then_RB generates_VBZ a_DT labeled_JJ training_NN corpus_NN by_IN interpreting_VBG the_DT observations_NNS ._.
+This_DT paper_NN reports_VBZ on_IN the_DT measurement_NN of_IN the_DT performance_NN of_IN the_DT machine_NN learning_VBG algorithms_NNS based_VBN on_IN real_JJ data_NNS ._.
+The_DT combination_NN of_IN observations_NNS ,_, machine_NN learning_NN and_CC interaction_NN design_NN produces_VBZ an_DT effective_JJ intelligent_JJ form_NN interface_NN based_VBN on_IN natural_JJ language_NN processing_NN ._.

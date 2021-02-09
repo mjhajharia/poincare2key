@@ -1,0 +1,6 @@
+Extracting_VBG query_NN modifications_NNS from_IN nonlinear_JJ SVMs_NNS
+When_WRB searching_VBG the_DT WWW_NNP ,_, users_NNS often_RB desire_VBP results_NNS restricted_JJ to_TO a_DT particular_JJ document_NN category_NN ._.
+Ideally_RB ,_, a_DT user_NN would_MD be_VB able_JJ to_TO filter_NN results_NNS with_IN a_DT text_NN classifier_NN to_TO minimize_VB false_JJ positive_JJ results_NNS ;_: however_RB ,_, current_JJ search_NN engines_NNS allow_VBP only_RB simple_JJ query_NN modifications_NNS ._.
+To_TO automate_VB the_DT process_NN of_IN generating_VBG effective_JJ query_NN modifications_NNS ,_, we_PRP introduce_VBP a_DT sensitivity_NN analysis-based_JJ method_NN for_IN extracting_VBG rules_NNS from_IN nonlinear_JJ support_NN vector_NN machines_NNS ._.
+The_DT proposed_VBN method_NN allows_VBZ the_DT user_NN to_TO specify_VB a_DT desired_VBN precision_NN while_IN attempting_VBG to_TO maximize_VB the_DT recall_NN ._.
+Our_PRP$ method_NN performs_VBZ several_JJ levels_NNS of_IN dimensionality_NN reduction_NN and_CC is_VBZ vastly_RB faster_RBR than_IN searching_VBG the_DT combination_NN feature_NN space_NN ;_: moreover_RB ,_, it_PRP is_VBZ very_RB effective_JJ on_IN real-world_JJ data_NNS ._.

@@ -1,0 +1,6 @@
+Designing_NNP efficient_JJ cascaded_JJ classifiers_NNS :_: tradeoff_NN between_IN accuracy_NN and_CC cost_NN
+We_PRP propose_VBP a_DT method_NN to_TO train_VB a_DT cascade_NN of_IN classifiers_NNS by_IN simultaneously_RB optimizing_VBG all_PDT its_PRP$ stages_NNS ._.
+The_DT approach_NN relies_VBZ on_IN the_DT idea_NN of_IN optimizing_VBG soft_JJ cascades_NNS ._.
+In_IN particular_JJ ,_, instead_RB of_IN optimizing_VBG a_DT deterministic_JJ hard_JJ cascade_NN ,_, we_PRP optimize_VBP a_DT stochastic_JJ soft_JJ cascade_NN where_WRB each_DT stage_NN accepts_VBZ or_CC rejects_VBZ samples_NNS according_VBG to_TO a_DT probability_NN distribution_NN induced_VBN by_IN the_DT previous_JJ stage-specific_JJ classifier_NN ._.
+The_DT overall_JJ system_NN accuracy_NN is_VBZ maximized_VBN while_IN explicitly_RB controlling_VBG the_DT expected_VBN cost_NN for_IN feature_NN acquisition_NN ._.
+Experimental_JJ results_NNS on_IN three_CD clinically_RB relevant_JJ problems_NNS show_VBP the_DT effectiveness_NN of_IN our_PRP$ proposed_VBN approach_NN in_IN achieving_VBG the_DT desired_VBN tradeoff_NN between_IN accuracy_NN and_CC feature_NN acquisition_NN cost_NN ._.

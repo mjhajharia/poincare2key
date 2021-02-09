@@ -1,0 +1,12 @@
+Text_NN joins_VBZ in_IN an_DT RDBMS_NN for_IN web_NN data_NNS integration_NN
+The_DT integration_NN of_IN data_NNS produced_VBN and_CC collected_VBN across_IN autonomous_JJ ,_, heterogeneous_JJ web_NN services_NNS is_VBZ an_DT increasingly_RB important_JJ and_CC challenging_JJ problem_NN ._.
+Due_JJ to_TO the_DT lack_NN of_IN global_JJ identifiers_NNS ,_, the_DT same_JJ entity_NN -LRB-_-LRB- e.g._FW ,_, a_DT product_NN -RRB-_-RRB- might_MD have_VB different_JJ textual_JJ representations_NNS across_IN databases_NNS ._.
+Textual_JJ data_NNS is_VBZ also_RB often_RB noisy_JJ because_IN of_IN transcription_NN errors_NNS ,_, incomplete_JJ information_NN ,_, and_CC lack_NN of_IN standard_JJ formats_NNS ._.
+A_DT fundamental_JJ task_NN during_IN data_NN integration_NN is_VBZ matching_VBG of_IN strings_NNS that_WDT refer_VBP to_TO the_DT same_JJ entity_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP adopt_VBP the_DT widely_RB used_VBN and_CC established_VBN cosine_NN similarity_NN metric_NN from_IN the_DT information_NN retrieval_NN field_NN in_IN order_NN to_TO identify_VB potential_JJ string_NN matches_NNS across_IN web_NN sources_NNS ._.
+We_PRP then_RB use_VBP this_DT similarity_NN metric_NN to_TO characterize_VB this_DT key_JJ aspect_NN of_IN data_NNS integration_NN as_IN a_DT join_VBP between_IN relations_NNS on_IN textual_JJ attributes_NNS ,_, where_WRB the_DT similarity_NN of_IN matches_NNS exceeds_VBZ a_DT specified_JJ threshold_NN ._.
+Computing_NNP an_DT exact_JJ answer_NN to_TO the_DT text_NN join_VB can_MD be_VB expensive_JJ ._.
+For_IN query_NN processing_NN efficiency_NN ,_, we_PRP propose_VBP a_DT sampling-based_JJ join_VB approximation_NN strategy_NN for_IN execution_NN in_IN a_DT standard_JJ ,_, unmodified_JJ relational_JJ database_NN management_NN system_NN -LRB-_-LRB- RDBMS_NN -RRB-_-RRB- ,_, since_IN more_JJR and_CC more_JJR web_NN sites_NNS are_VBP powered_VBN by_IN RDBMSs_NNS with_IN a_DT web-based_JJ front_JJ end_NN ._.
+We_PRP implement_VBP the_DT join_VB inside_IN an_DT RDBMS_NN ,_, using_VBG SQL_NN queries_NNS ,_, for_IN scalability_NN and_CC robustness_NN reasons_NNS ._.
+Finally_RB ,_, we_PRP present_VBP a_DT detailed_JJ performance_NN evaluation_NN of_IN an_DT implementation_NN of_IN our_PRP$ algorithm_NN within_IN a_DT commercial_JJ RDBMS_NN ,_, using_VBG real-life_JJ data_NNS sets_NNS ._.
+Our_PRP$ experimental_JJ results_NNS demonstrate_VBP the_DT efficiency_NN and_CC accuracy_NN of_IN our_PRP$ techniques_NNS ._.

@@ -1,0 +1,5 @@
+Adaptive_JJ page_NN ranking_NN with_IN neural_JJ networks_NNS
+Recent_JJ developments_NNS in_IN the_DT area_NN of_IN neural_JJ networks_NNS provided_VBD new_JJ models_NNS which_WDT are_VBP capable_JJ of_IN processing_VBG general_JJ types_NNS of_IN graph_NN structures_NNS ._.
+Neural_JJ networks_NNS are_VBP well-known_JJ for_IN their_PRP$ generalization_NN capabilities_NNS ._.
+This_DT paper_NN explores_VBZ the_DT idea_NN of_IN applying_VBG a_DT novel_JJ neural_JJ network_NN model_NN to_TO a_DT web_NN graph_NN to_TO compute_VB an_DT adaptive_JJ ranking_NN of_IN pages_NNS ._.
+Some_DT early_JJ experimental_JJ results_NNS indicate_VBP that_IN the_DT new_JJ neural_JJ network_NN models_NNS generalize_VBP exceptionally_RB well_RB when_WRB trained_VBN on_IN a_DT relatively_RB small_JJ number_NN of_IN pages_NNS ._.

@@ -1,0 +1,4 @@
+Comparative_JJ study_NN of_IN clustering_NN techniques_NNS for_IN short_JJ text_NN documents_NNS
+We_PRP compare_VBP various_JJ document_NN clustering_NN techniques_NNS including_VBG K-means_NNS ,_, SVD-based_JJ method_NN and_CC a_DT graph-based_JJ approach_NN and_CC their_PRP$ performance_NN on_IN short_JJ text_NN data_NNS collected_VBN from_IN Twitter_NNP ._.
+We_PRP define_VBP a_DT measure_NN for_IN evaluating_VBG the_DT cluster_NN error_NN with_IN these_DT techniques_NNS ._.
+Observations_NNS show_VBP that_IN graph-based_JJ approach_NN using_VBG affinity_NN propagation_NN performs_VBZ best_JJS in_IN clustering_VBG short_JJ text_NN data_NNS with_IN minimal_JJ cluster_NN error_NN ._.

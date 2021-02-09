@@ -1,0 +1,5 @@
+Retrieving_VBG multimedia_NNS web_NN objects_NNS based_VBN on_IN PageRank_NN algorithm_NN
+Hyperlink_NN analysis_NN has_VBZ been_VBN widely_RB investigated_VBN to_TO support_VB the_DT retrieval_NN of_IN Web_NN documents_NNS in_IN Internet_NNP search_NN engines_NNS ._.
+It_PRP has_VBZ been_VBN proven_VBN that_IN the_DT hyperlink_NN analysis_NN significantly_RB improves_VBZ the_DT relevance_NN of_IN the_DT search_NN results_NNS and_CC these_DT techniques_NNS have_VBP been_VBN adopted_VBN in_IN many_JJ commercial_JJ search_NN engines_NNS ,_, e.g._FW Google_NNP ._.
+However_RB ,_, hyperlink_NN analysis_NN is_VBZ mostly_RB utilized_VBN in_IN the_DT ranking_JJ mechanism_NN of_IN Web_NN pages_NNS only_RB but_CC not_RB including_VBG other_JJ multimedia_NNS objects_NNS ,_, such_JJ as_IN images_NNS and_CC video_NN ._.
+In_IN this_DT project_NN ,_, we_PRP propose_VBP a_DT modified_VBN Multimedia_NNP PageRank_NNP algorithm_NN to_TO support_VB the_DT searching_VBG of_IN multimedia_NNS objects_NNS in_IN the_DT Web_NN ._.

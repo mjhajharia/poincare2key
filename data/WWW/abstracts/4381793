@@ -1,0 +1,5 @@
+Discovering_VBG event_NN evolution_NN graphs_NNS from_IN newswires_NNS
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT approach_NN to_TO automatically_RB mine_VB event_NN evolution_NN graphs_NNS from_IN newswires_NNS on_IN the_DT Web_NN ._.
+Event_NN evolution_NN graph_NN is_VBZ a_DT directed_JJ graph_NN in_IN which_WDT the_DT vertices_NNS and_CC edges_NNS denote_VBP news_NN events_NNS and_CC the_DT evolutions_NNS between_IN events_NNS respectively_RB ,_, in_IN a_DT news_NN affair_NN ._.
+Our_PRP$ model_NN utilizes_VBZ the_DT content_JJ similarity_NN between_IN events_NNS and_CC incorporates_VBZ temporal_JJ proximity_NN and_CC document_NN distributional_JJ proximity_NN as_IN decaying_JJ functions_NNS ._.
+Our_PRP$ approach_NN is_VBZ effective_JJ in_IN presenting_VBG the_DT inside_JJ developments_NNS of_IN news_NN affairs_NNS along_IN the_DT timeline_NN ,_, which_WDT can_MD facilitate_VB users_NNS '_POS information_NN browsing_VBG tasks_NNS ._.

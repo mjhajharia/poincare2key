@@ -1,0 +1,8 @@
+The_DT ``_`` DGX_NNP ''_'' distribution_NN for_IN mining_NN massive_JJ ,_, skewed_JJ data_NNS
+Skewed_JJ distributions_NNS appear_VBP very_RB often_RB in_IN practice_NN ._.
+Unfortunately_RB ,_, the_DT traditional_JJ Zipf_NNP distribution_NN often_RB fails_VBZ to_TO model_VB them_PRP well_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ probability_NN distribution_NN ,_, the_DT Discrete_NNP Gaussian_NNP Exponential_NNP -LRB-_-LRB- DGX_NNP -RRB-_-RRB- ,_, to_TO achieve_VB excellent_JJ fits_NNS in_IN a_DT wide_JJ variety_NN of_IN settings_NNS ;_: our_PRP$ new_JJ distribution_NN includes_VBZ the_DT Zipf_NNP distribution_NN as_IN a_DT special_JJ case_NN ._.
+We_PRP present_VBP a_DT statistically_RB sound_JJ method_NN for_IN estimating_VBG the_DT DGX_NNP parameters_NNS based_VBN on_IN maximum_NN likelihood_NN estimation_NN -LRB-_-LRB- MLE_NN -RRB-_-RRB- ._.
+We_PRP applied_VBD DGX_NNP to_TO a_DT wide_JJ variety_NN of_IN real_JJ world_NN data_NNS sets_NNS ,_, such_JJ as_IN sales_NNS data_NNS from_IN a_DT large_JJ retailer_NN chain_NN ,_, us-age_JJ data_NNS from_IN AT&T_NNP ,_, and_CC Internet_NN clickstream_NN data_NNS ;_: in_IN all_DT cases_NNS ,_, DGX_NN fits_VBZ these_DT distributions_NNS very_RB well_RB ,_, with_IN almost_RB a_DT 99_CD %_NN correlation_NN coefficient_NN in_IN quantile-quantile_JJ plots_NNS ._.
+Our_PRP$ algorithm_NN also_RB scales_NNS very_RB well_RB because_IN it_PRP requires_VBZ only_RB a_DT single_JJ pass_NN over_IN the_DT data_NNS ._.
+Finally_RB ,_, we_PRP illustrate_VBP the_DT power_NN of_IN DGX_NNP as_IN a_DT new_JJ tool_NN for_IN data_NN mining_NN tasks_NNS ,_, such_JJ as_IN outlier_NN detection_NN ._.

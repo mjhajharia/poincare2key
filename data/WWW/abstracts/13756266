@@ -1,0 +1,9 @@
+Trust_NNP analysis_NN with_IN clustering_NN
+Web_NN provides_VBZ rich_JJ information_NN about_IN a_DT variety_NN of_IN objects_NNS ._.
+Trustability_NN is_VBZ a_DT major_JJ concern_NN on_IN the_DT web_NN ._.
+Truth_NN establishment_NN is_VBZ an_DT important_JJ task_NN so_RB as_IN to_TO provide_VB the_DT right_JJ information_NN to_TO the_DT user_NN from_IN the_DT most_RBS trustworthy_JJ source_NN ._.
+Trustworthiness_NN of_IN information_NN provider_NN and_CC the_DT confidence_NN of_IN the_DT facts_NNS it_PRP provides_VBZ are_VBP inter-dependent_JJ on_IN each_DT other_JJ and_CC hence_RB can_MD be_VB expressed_VBN iteratively_RB in_IN terms_NNS of_IN each_DT other_JJ ._.
+However_RB ,_, a_DT single_JJ information_NN provider_NN may_MD not_RB be_VB the_DT most_RBS trustworthy_JJ for_IN all_DT kinds_NNS of_IN information_NN ._.
+Every_DT information_NN provider_NN has_VBZ its_PRP$ own_JJ area_NN of_IN competence_NN where_WRB it_PRP can_MD perform_VB better_JJR than_IN others_NNS ._.
+We_PRP derive_VBP a_DT model_NN that_WDT can_MD evaluate_VB trustability_NN on_IN objects_NNS and_CC information_NN providers_NNS based_VBN on_IN clusters_NNS -LRB-_-LRB- groups_NNS -RRB-_-RRB- ._.
+We_PRP propose_VBP a_DT method_NN which_WDT groups_NNS the_DT set_NN of_IN objects_NNS for_IN which_WDT similar_JJ set_NN of_IN providers_NNS provide_VBP ``_`` good_JJ ''_'' facts_NNS ,_, and_CC provides_VBZ better_JJR accuracy_NN in_IN addition_NN to_TO high_JJ quality_NN object_NN clusters_NNS ._.

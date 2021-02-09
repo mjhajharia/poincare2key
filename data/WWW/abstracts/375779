@@ -1,0 +1,13 @@
+Ranking_JJ definitions_NNS with_IN supervised_JJ learning_NN methods_NNS
+This_DT paper_NN is_VBZ concerned_VBN with_IN the_DT problem_NN of_IN definition_NN search_NN ._.
+Specifically_RB ,_, given_VBN a_DT term_NN ,_, we_PRP are_VBP to_TO retrieve_VB definitional_JJ excerpts_NNS of_IN the_DT term_NN and_CC rank_VB the_DT extracted_VBN excerpts_NNS according_VBG to_TO their_PRP$ likelihood_NN of_IN being_VBG good_JJ definitions_NNS ._.
+This_DT is_VBZ in_IN contrast_NN to_TO the_DT traditional_JJ approaches_NNS of_IN either_CC generating_VBG a_DT single_JJ combined_JJ definition_NN or_CC simply_RB outputting_VBG all_DT retrieved_VBN definitions_NNS ._.
+Definition_NN ranking_NN is_VBZ essential_JJ for_IN the_DT task_NN ._.
+Methods_NNS for_IN performing_VBG definition_NN ranking_NN are_VBP proposed_VBN in_IN this_DT paper_NN ,_, which_WDT formalize_VBP the_DT problem_NN as_IN either_CC classification_NN or_CC ordinal_JJ regression_NN ._.
+A_DT specification_NN for_IN judging_VBG the_DT goodness_NN of_IN a_DT definition_NN is_VBZ given_VBN ._.
+We_PRP employ_VBP SVM_NN as_IN the_DT classification_NN model_NN and_CC Ranking_NN SVM_NN as_IN the_DT ordinal_JJ regression_NN model_NN respectively_RB ,_, such_JJ that_IN they_PRP rank_VBP definition_NN candidates_NNS according_VBG to_TO their_PRP$ likelihood_NN of_IN being_VBG good_JJ definitions_NNS ._.
+Features_NNS for_IN constructing_VBG the_DT SVM_NNP and_CC Ranking_NNP SVM_NNP models_NNS are_VBP defined_VBN ._.
+An_DT enterprise_NN search_NN system_NN based_VBN on_IN this_DT method_NN has_VBZ been_VBN developed_VBN and_CC has_VBZ been_VBN put_VBN into_IN practical_JJ use_NN ._.
+Experimental_JJ results_NNS indicate_VBP that_IN the_DT use_NN of_IN SVM_NNP and_CC Ranking_NNP SVM_NNP can_MD significantly_RB outperform_VB the_DT baseline_NN methods_NNS of_IN using_VBG heuristic_NN rules_NNS or_CC employing_VBG the_DT conventional_JJ information_NN retrieval_NN method_NN of_IN Okapi_NNP ._.
+This_DT is_VBZ true_JJ both_DT when_WRB the_DT answers_NNS are_VBP paragraphs_NNS and_CC when_WRB they_PRP are_VBP sentences_NNS ._.
+Experimental_JJ results_NNS also_RB show_VBP that_IN SVM_NNP or_CC Ranking_NNP SVM_NNP models_NNS trained_VBN in_IN one_CD domain_NN can_MD be_VB adapted_VBN to_TO another_DT domain_NN ,_, indicating_VBG that_IN generic_JJ models_NNS for_IN definition_NN ranking_NN can_MD be_VB constructed_VBN ._.

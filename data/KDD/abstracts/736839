@@ -1,0 +1,9 @@
+Mining_NN coherent_JJ gene_NN clusters_NNS from_IN gene-sample-time_JJ microarray_NN data_NNS
+Extensive_JJ studies_NNS have_VBP shown_VBN that_IN mining_NN microarray_NN data_NN sets_NNS is_VBZ important_JJ in_IN bioinformatics_NNS research_NN and_CC biomedical_JJ applications_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP explore_VBP a_DT novel_JJ type_NN of_IN gene-sample-time_JJ microarray_NN data_NNS sets_NNS ,_, which_WDT records_VBZ the_DT expression_NN levels_NNS of_IN various_JJ genes_NNS under_IN a_DT set_NN of_IN samples_NNS during_IN a_DT series_NN of_IN time_NN points_NNS ._.
+In_IN particular_JJ ,_, we_PRP propose_VBP the_DT mining_NN of_IN coherent_JJ gene_NN clusters_NNS from_IN such_JJ data_NNS sets_NNS ._.
+Each_DT cluster_NN contains_VBZ a_DT subset_NN of_IN genes_NNS and_CC a_DT subset_NN of_IN samples_NNS such_JJ that_IN the_DT genes_NNS are_VBP coherent_JJ on_IN the_DT samples_NNS along_IN the_DT time_NN series_NN ._.
+The_DT coherent_JJ gene_NN clusters_NNS may_MD identify_VB the_DT samples_NNS corresponding_VBG to_TO some_DT phenotypes_NNS -LRB-_-LRB- e.g._FW ,_, diseases_NNS -RRB-_-RRB- ,_, and_CC suggest_VBP the_DT candidate_NN genes_NNS correlated_VBD to_TO the_DT phenotypes_NNS ._.
+We_PRP present_VBP two_CD efficient_JJ algorithms_NNS ,_, namely_RB the_DT Sample-Gene_NNP Search_VB and_CC the_DT Gene-Sample_NNP Search_VB ,_, to_TO mine_VB the_DT complete_JJ set_NN of_IN coherent_JJ gene_NN clusters_NNS ._.
+We_PRP empirically_RB evaluate_VBP the_DT performance_NN of_IN our_PRP$ approaches_NNS on_IN both_CC a_DT real_JJ microarray_NN data_NNS set_VBN and_CC synthetic_JJ data_NNS sets_NNS ._.
+The_DT test_NN results_NNS have_VBP shown_VBN that_IN our_PRP$ approaches_NNS are_VBP both_CC efficient_JJ and_CC effective_JJ to_TO find_VB meaningful_JJ coherent_JJ gene_NN clusters_NNS ._.

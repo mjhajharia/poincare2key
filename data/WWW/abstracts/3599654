@@ -1,0 +1,4 @@
+Answering_VBG order-based_JJ queries_NNS over_IN XML_NN data_NNS
+Order-based_JJ queries_NNS over_IN XML_NN data_NNS include_VBP XPath_NN navigation_NN axes_NNS such_JJ as_IN following-sibling_NN and_CC following_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP holistic_JJ algorithms_NNS that_WDT evaluate_VBP such_JJ order-based_JJ queries_NNS ._.
+An_DT experimental_JJ comparison_NN with_IN previous_JJ approaches_NNS shows_VBZ the_DT performance_NN benefits_NNS of_IN our_PRP$ algorithms_NNS ._.

@@ -1,0 +1,10 @@
+Quality_JJ driven_JJ web_NN services_NNS composition_NN
+The_DT process-driven_JJ composition_NN of_IN Web_NN services_NNS is_VBZ emerging_VBG as_IN a_DT promising_JJ approach_NN to_TO integrate_VB business_NN applications_NNS within_IN and_CC across_IN organizational_JJ boundaries_NNS ._.
+In_IN this_DT approach_NN ,_, individual_JJ Web_NN services_NNS are_VBP federated_VBN into_IN composite_JJ Web_NN services_NNS whose_WP$ business_NN logic_NN is_VBZ expressed_VBN as_IN a_DT process_NN model_NN ._.
+The_DT tasks_NNS of_IN this_DT process_NN model_NN are_VBP essentially_RB invocations_NNS to_TO functionalities_NNS offered_VBN by_IN the_DT underlying_VBG component_NN services_NNS ._.
+Usually_RB ,_, several_JJ component_NN services_NNS are_VBP able_JJ to_TO execute_VB a_DT given_VBN task_NN ,_, although_IN with_IN different_JJ levels_NNS of_IN pricing_NN and_CC quality_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP advocate_VBP that_IN the_DT selection_NN of_IN component_NN services_NNS should_MD be_VB carried_VBN out_RP during_IN the_DT execution_NN of_IN a_DT composite_JJ service_NN ,_, rather_RB than_IN at_IN design-time_NN ._.
+In_IN addition_NN ,_, this_DT selection_NN should_MD consider_VB multiple_JJ criteria_NNS -LRB-_-LRB- e.g._FW ,_, price_NN ,_, duration_NN ,_, reliability_NN -RRB-_-RRB- ,_, and_CC it_PRP should_MD take_VB into_IN account_NN global_JJ constraints_NNS and_CC preferences_NNS set_VBN by_IN the_DT user_NN -LRB-_-LRB- e.g._FW ,_, budget_NN constraints_NNS -RRB-_-RRB- ._.
+Accordingly_RB ,_, the_DT paper_NN proposes_VBZ a_DT global_JJ planning_NN approach_NN to_TO optimally_RB select_VB component_NN services_NNS during_IN the_DT execution_NN of_IN a_DT composite_JJ service_NN ._.
+Service_NN selection_NN is_VBZ formulated_VBN as_IN an_DT optimization_NN problem_NN which_WDT can_MD be_VB solved_VBN using_VBG efficient_JJ linear_JJ programming_NN methods_NNS ._.
+Experimental_JJ results_NNS show_VBP that_IN this_DT global_JJ planning_NN approach_NN outperforms_VBZ approaches_NNS in_IN which_WDT the_DT component_NN services_NNS are_VBP selected_VBN individually_RB for_IN each_DT task_NN in_IN a_DT composite_JJ service_NN ._.

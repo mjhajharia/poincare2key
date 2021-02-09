@@ -1,0 +1,7 @@
+Adaptive_JJ web_NN sites_NNS :_: user_NN studies_NNS and_CC simulation_NN
+Adaptive_JJ web_NN sites_NNS have_VBP been_VBN proposed_VBN to_TO enhance_VB ease_NN of_IN navigation_NN and_CC information_NN retrieval_NN ._.
+A_DT variety_NN of_IN approaches_NNS are_VBP described_VBN in_IN the_DT literature_NN ,_, but_CC consideration_NN of_IN interface_NN presentation_NN issues_NNS and_CC realistic_JJ user_NN studies_NNS are_VBP generally_RB lacking_VBG ._.
+We_PRP report_VBP here_RB a_DT large-scale_JJ study_NN of_IN sites_NNS with_IN dynamic_JJ information_NN collections_NNS and_CC user_NN interests_NNS ,_, where_WRB adaptation_NN is_VBZ based_VBN on_IN an_DT Ant_NNP Colony_NNP Optimization_NNP technique_NN ._.
+We_PRP find_VBP that_IN most_JJS users_NNS were_VBD able_JJ to_TO locate_VB information_NN effectively_RB without_IN needing_VBG to_TO perform_VB explicit_JJ searches_NNS ._.
+The_DT behavior_NN of_IN users_NNS who_WP did_VBD search_NN was_VBD similar_JJ to_TO that_DT on_IN Internet_NN search_NN engines_NNS ._.
+Simulations_NNS based_VBN on_IN site_NN and_CC user_NN models_NNS give_VBP insight_NN into_IN the_DT adaptive_JJ behavior_NN and_CC correspond_VBP to_TO observations_NNS ._.

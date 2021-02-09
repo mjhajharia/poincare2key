@@ -1,0 +1,12 @@
+Not_RB so_RB creepy_JJ crawler_NN :_: easy_JJ crawler_NN generation_NN with_IN standard_JJ xml_NN queries_NNS
+Web_NN crawlers_NNS are_VBP increasingly_RB used_VBN for_IN focused_JJ tasks_NNS such_JJ as_IN the_DT extraction_NN of_IN data_NNS from_IN Wikipedia_NNP or_CC the_DT analysis_NN of_IN social_JJ networks_NNS like_IN last_JJ ._.
+fm_NN ._.
+In_IN these_DT cases_NNS ,_, pages_NNS are_VBP far_RB more_RBR uniformly_RB structured_VBN than_IN in_IN the_DT general_JJ Web_NN and_CC thus_RB crawlers_NNS can_MD use_VB the_DT structure_NN of_IN Web_NN pages_NNS for_IN more_JJR precise_JJ data_NNS extraction_NN and_CC more_RBR expressive_JJ analysis_NN ._.
+In_IN this_DT demonstration_NN ,_, we_PRP present_VBP a_DT focused_JJ ,_, structure-based_JJ crawler_NN generator_NN ,_, the_DT ``_`` Not_RB so_RB Creepy_JJ Crawler_NN ''_'' -LRB-_-LRB- nc2_NN -RRB-_-RRB- ._.
+What_WP sets_VBZ nc2_NN apart_RB ,_, is_VBZ that_IN all_DT analysis_NN and_CC decision_NN tasks_NNS of_IN the_DT crawling_VBG process_NN are_VBP delegated_VBN to_TO an_DT -LRB-_-LRB- arbitrary_JJ -RRB-_-RRB- XML_NN query_NN engine_NN such_JJ as_IN XQuery_NN or_CC Xcerpt_NN ._.
+Customizing_VBG crawlers_NNS just_RB means_VBZ writing_NN -LRB-_-LRB- declarative_JJ -RRB-_-RRB- XML_NN queries_NNS that_WDT can_MD access_VB the_DT currently_RB crawled_VBN document_NN as_RB well_RB as_IN the_DT metadata_NN of_IN the_DT crawl_NN process_NN ._.
+We_PRP identify_VBP four_CD types_NNS of_IN queries_NNS that_WDT together_RB sufice_VBP to_TO realize_VB a_DT wide_JJ variety_NN of_IN focused_JJ crawlers_NNS ._.
+We_PRP demonstrate_VBP nc2_NN with_IN two_CD applications_NNS :_: The_DT first_JJ extracts_NNS data_NNS about_IN cities_NNS from_IN Wikipedia_NNP with_IN a_DT customizable_JJ set_NN of_IN attributes_NNS for_IN selecting_VBG and_CC reporting_VBG these_DT cities_NNS ._.
+It_PRP illustrates_VBZ the_DT power_NN of_IN nc2_NN where_WRB data_NNS extraction_NN from_IN Wiki-style_JJ ,_, fairly_RB homogeneous_JJ knowledge_NN sites_NNS is_VBZ required_VBN ._.
+In_IN contrast_NN ,_, the_DT second_JJ use_NN case_NN demonstrates_VBZ how_WRB easy_JJ nc2_NN makes_VBZ even_RB complex_JJ analysis_NN tasks_NNS on_IN social_JJ networking_NN sites_NNS ,_, here_RB exemplified_VBN by_IN last_JJ ._.
+fm_NN ._.

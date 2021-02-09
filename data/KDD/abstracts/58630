@@ -1,0 +1,6 @@
+Hierarchical_JJ model-based_JJ clustering_NN of_IN large_JJ datasets_NNS through_IN fractionation_NN and_CC refractionation_NN
+The_DT goal_NN of_IN clustering_NN is_VBZ to_TO identify_VB distinct_JJ groups_NNS in_IN a_DT dataset_NN ._.
+Compared_VBN to_TO non-parametric_JJ clustering_NN methods_NNS like_IN complete_JJ linkage_NN ,_, hierarchical_JJ model-based_JJ clustering_NN has_VBZ the_DT advantage_NN of_IN offering_VBG a_DT way_NN to_TO estimate_VB the_DT number_NN of_IN groups_NNS present_JJ in_IN the_DT data_NNS ._.
+However_RB ,_, its_PRP$ computational_JJ cost_NN is_VBZ quadratic_JJ in_IN the_DT number_NN of_IN items_NNS to_TO be_VB clustered_VBN ,_, and_CC it_PRP is_VBZ therefore_RB not_RB applicable_JJ to_TO large_JJ problems_NNS ._.
+We_PRP review_VBP an_DT idea_NN called_VBN Fractionation_NNP ,_, originally_RB conceived_VBN by_IN Cutting_VBG ,_, Karger_NNP ,_, Pedersen_NNP and_CC Tukey_NNP for_IN non-parametric_JJ hierarchical_JJ clustering_NN of_IN large_JJ datasets_NNS ,_, and_CC describe_VBP an_DT adaptation_NN of_IN Fractionation_NN to_TO model-based_JJ clustering_NN ._.
+A_DT further_JJ extension_NN ,_, called_VBN Refractionation_NNP ,_, leads_VBZ to_TO a_DT procedure_NN that_WDT can_MD be_VB successful_JJ even_RB in_IN the_DT difficult_JJ situation_NN where_WRB there_EX are_VBP large_JJ numbers_NNS of_IN small_JJ groups_NNS ._.

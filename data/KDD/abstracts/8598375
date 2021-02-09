@@ -1,0 +1,11 @@
+Clustering_NN seasonality_NN patterns_NNS in_IN the_DT presence_NN of_IN errors_NNS
+Clustering_NN is_VBZ a_DT very_RB well_RB studied_VBN problem_NN that_WDT attempts_VBZ to_TO group_VB similar_JJ data_NNS points_NNS ._.
+Most_RBS traditional_JJ clustering_NN algorithms_NNS assume_VBP that_IN the_DT data_NNS is_VBZ provided_VBN without_IN measurement_NN error_NN ._.
+Often_RB ,_, however_RB ,_, real_JJ world_NN data_NNS sets_NNS have_VBP such_JJ errors_NNS and_CC one_PRP can_MD obtain_VB estimates_NNS of_IN these_DT errors_NNS ._.
+We_PRP present_VBP a_DT clustering_NN method_NN that_WDT incorporates_VBZ information_NN contained_VBN in_IN these_DT error_NN estimates_NNS ._.
+We_PRP present_VBP a_DT new_JJ distance_NN function_NN that_WDT is_VBZ based_VBN on_IN the_DT distribution_NN of_IN errors_NNS in_IN data_NNS ._.
+Using_VBG a_DT Gaussian_JJ model_NN for_IN errors_NNS ,_, the_DT distance_NN function_NN follows_VBZ a_DT Chi-Square_JJ distribution_NN and_CC is_VBZ easy_JJ to_TO compute_VB ._.
+This_DT distance_NN function_NN is_VBZ used_VBN in_IN hierarchical_JJ clustering_NN to_TO discover_VB meaningful_JJ clusters_NNS ._.
+The_DT distance_NN function_NN is_VBZ scale-invariant_JJ so_IN that_IN clustering_NN results_NNS are_VBP independent_JJ of_IN units_NNS of_IN measuring_VBG data_NNS ._.
+In_IN the_DT special_JJ case_NN when_WRB the_DT error_NN distribution_NN is_VBZ the_DT same_JJ for_IN each_DT attribute_NN of_IN data_NNS points_NNS ,_, the_DT rank_NN order_NN of_IN pair-wise_JJ distances_NNS is_VBZ the_DT same_JJ for_IN our_PRP$ distance_NN function_NN and_CC the_DT Euclidean_JJ distance_NN function_NN ._.
+The_DT clustering_NN method_NN is_VBZ applied_VBN to_TO the_DT seasonality_NN estimation_NN problem_NN and_CC experimental_JJ results_NNS are_VBP presented_VBN for_IN the_DT retail_JJ industry_NN data_NNS as_RB well_RB as_IN for_IN simulated_JJ data_NNS ,_, where_WRB it_PRP outperforms_VBZ classical_JJ clustering_NN methods_NNS ._.

@@ -1,0 +1,5 @@
+Combining_VBG link_NN and_CC content_NN analysis_NN to_TO estimate_VB semantic_JJ similarity_NN
+Search_VB engines_NNS use_VBP content_NN and_CC link_NN information_NN to_TO crawl_VB ,_, index_NN ,_, retrieve_VB ,_, and_CC rank_JJ Web_NN pages_NNS ._.
+The_DT correlations_NNS between_IN similarity_NN measures_NNS based_VBN on_IN these_DT cues_NNS and_CC on_IN semantic_JJ associations_NNS between_IN pages_NNS therefore_RB crucially_RB affects_VBZ the_DT performance_NN of_IN any_DT search_NN tool_NN ._.
+Here_RB I_PRP begin_VBP to_TO quantitatively_RB analyze_VB the_DT relationship_NN between_IN content_NN ,_, link_NN ,_, and_CC semantic_JJ similarity_NN measures_NNS across_IN a_DT massive_JJ number_NN of_IN Web_NN page_NN pairs_NNS ._.
+Maps_NNS of_IN semantic_JJ similarity_NN across_IN textual_NN and_CC link_NN similarity_NN highlight_VBP the_DT potential_NN and_CC limitations_NNS of_IN lexical_JJ and_CC link_NN analysis_NN for_IN relevance_NN approximation_NN ,_, and_CC provide_VB us_PRP with_IN a_DT way_NN to_TO study_VB whether_IN and_CC how_WRB text_NN and_CC link_NN based_JJ measures_NNS should_MD be_VB combined_VBN ._.

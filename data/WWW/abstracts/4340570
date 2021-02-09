@@ -1,0 +1,4 @@
+Adaptive_JJ record_NN extraction_NN from_IN web_NN pages_NNS
+We_PRP describe_VBP an_DT adaptive_JJ method_NN for_IN extracting_VBG records_NNS from_IN web_NN pages_NNS ._.
+Our_PRP$ algorithm_NN combines_VBZ a_DT weighted_JJ tree_NN matching_NN metric_NN with_IN clustering_NN for_IN obtaining_VBG data_NNS extraction_NN patterns_NNS ._.
+We_PRP compare_VBP our_PRP$ method_NN experimentally_RB to_TO the_DT state-of-the-art_JJ ,_, and_CC show_VBP that_IN our_PRP$ approach_NN is_VBZ very_RB competitive_JJ for_IN rigidly-structured_JJ records_NNS -LRB-_-LRB- such_JJ as_IN product_NN descriptions_NNS -RRB-_-RRB- and_CC far_RB superior_JJ for_IN loosely-structured_JJ records_NNS -LRB-_-LRB- such_JJ as_IN entrieson_NN blogs_NNS -RRB-_-RRB- ._.

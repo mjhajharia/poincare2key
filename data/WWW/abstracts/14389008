@@ -1,0 +1,9 @@
+Mr._NNP LDA_NNP :_: a_DT flexible_JJ large_JJ scale_NN topic_NN modeling_NN package_NN using_VBG variational_JJ inference_NN in_IN MapReduce_NNP
+Latent_JJ Dirichlet_NNP Allocation_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- is_VBZ a_DT popular_JJ topic_NN modeling_NN technique_NN for_IN exploring_VBG document_NN collections_NNS ._.
+Because_IN of_IN the_DT increasing_VBG prevalence_NN of_IN large_JJ datasets_NNS ,_, there_EX is_VBZ a_DT need_NN to_TO improve_VB the_DT scalability_NN of_IN inference_NN for_IN LDA_NNP ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP a_DT novel_JJ and_CC flexible_JJ large_JJ scale_NN topic_NN modeling_NN package_NN in_IN MapReduce_NNP -LRB-_-LRB- Mr._NNP LDA_NNP -RRB-_-RRB- ._.
+As_IN opposed_VBN to_TO other_JJ techniques_NNS which_WDT use_VBP Gibbs_NNP sampling_NN ,_, our_PRP$ proposed_VBN framework_NN uses_VBZ variational_JJ inference_NN ,_, which_WDT easily_RB fits_VBZ into_IN a_DT distributed_VBN environment_NN ._.
+More_RBR importantly_RB ,_, this_DT variational_JJ implementation_NN ,_, unlike_IN highly_RB tuned_VBN and_CC specialized_VBN implementations_NNS based_VBN on_IN Gibbs_NNP sampling_NN ,_, is_VBZ easily_RB extensible_JJ ._.
+We_PRP demonstrate_VBP two_CD extensions_NNS of_IN the_DT models_NNS possible_JJ with_IN this_DT scalable_JJ framework_NN :_: informed_VBN priors_NNS to_TO guide_VB topic_NN discovery_NN and_CC extracting_VBG topics_NNS from_IN a_DT multilingual_JJ corpus_NN ._.
+We_PRP compare_VBP the_DT scalability_NN of_IN Mr._NNP LDA_NNP against_IN Mahout_NNP ,_, an_DT existing_VBG large_JJ scale_NN topic_NN modeling_NN package_NN ._.
+Mr._NNP LDA_NNP out-performs_NNS Mahout_NNP both_CC in_IN execution_NN speed_NN and_CC held-out_JJ likelihood_NN ._.

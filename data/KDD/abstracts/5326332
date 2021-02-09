@@ -1,0 +1,8 @@
+iLink_NN :_: search_NN and_CC routing_VBG in_IN social_JJ networks_NNS
+The_DT growth_NN of_IN Web_NN 2.0_CD and_CC fundamental_JJ theoretical_JJ breakthroughs_NNS have_VBP led_VBN to_TO an_DT avalanche_NN of_IN interest_NN in_IN social_JJ networks_NNS ._.
+This_DT paper_NN focuses_VBZ on_IN the_DT problem_NN of_IN modeling_NN how_WRB social_JJ networks_NNS accomplish_VBP tasks_NNS through_IN peer_VBP production_NN style_NN collaboration_NN ._.
+We_PRP propose_VBP a_DT general_JJ interaction_NN model_NN for_IN the_DT underlying_VBG social_JJ networks_NNS and_CC then_RB a_DT specific_JJ model_NN -LRB-_-LRB- iLink_NN for_IN social_JJ search_NN and_CC message_NN routing_VBG ._.
+A_DT key_JJ contribution_NN here_RB is_VBZ the_DT development_NN of_IN a_DT general_JJ learning_NN framework_NN for_IN making_VBG such_JJ online_NN peer_VBP production_NN systems_NNS work_VBP at_IN scale_NN ._.
+The_DT iLink_NNP model_NN has_VBZ been_VBN used_VBN to_TO develop_VB a_DT system_NN for_IN FAQ_NN generation_NN in_IN a_DT social_JJ network_NN -LRB-_-LRB- FAQtory_NN -RRB-_-RRB- ,_, and_CC experience_NN with_IN its_PRP$ application_NN in_IN the_DT context_NN of_IN a_DT full-scale_JJ learning-driven_JJ workflow_NN application_NN -LRB-_-LRB- CALO_NN -RRB-_-RRB- is_VBZ reported_VBN ._.
+We_PRP also_RB discuss_VBP methods_NNS of_IN adapting_VBG iLink_NNP technology_NN for_IN use_NN in_IN military_JJ knowledge_NN sharing_NN portals_NNS and_CC other_JJ message_NN routing_VBG systems_NNS ._.
+Finally_RB ,_, the_DT paper_NN shows_VBZ the_DT connection_NN of_IN iLink_NN to_TO SQM_NNP ,_, a_DT theoretical_JJ model_NN for_IN social_JJ search_NN that_WDT is_VBZ a_DT generalization_NN of_IN Markov_NNP Decision_NNP Processes_NNPS and_CC the_DT popular_JJ Pagerank_NNP model_NN ._.

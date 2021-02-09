@@ -1,0 +1,11 @@
+Unsupervised_JJ feature_NN selection_NN for_IN multi-cluster_JJ data_NNS
+In_IN many_JJ data_NNS analysis_NN tasks_NNS ,_, one_CD is_VBZ often_RB confronted_VBN with_IN very_RB high_JJ dimensional_JJ data_NNS ._.
+Feature_NN selection_NN techniques_NNS are_VBP designed_VBN to_TO find_VB the_DT relevant_JJ feature_NN subset_NN of_IN the_DT original_JJ features_NNS which_WDT can_MD facilitate_VB clustering_NN ,_, classification_NN and_CC retrieval_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP consider_VBP the_DT feature_NN selection_NN problem_NN in_IN unsupervised_JJ learning_NN scenario_NN ,_, which_WDT is_VBZ particularly_RB difficult_JJ due_JJ to_TO the_DT absence_NN of_IN class_NN labels_NNS that_WDT would_MD guide_VB the_DT search_NN for_IN relevant_JJ information_NN ._.
+The_DT feature_NN selection_NN problem_NN is_VBZ essentially_RB a_DT combinatorial_JJ optimization_NN problem_NN which_WDT is_VBZ computationally_RB expensive_JJ ._.
+Traditional_JJ unsupervised_JJ feature_NN selection_NN methods_NNS address_VBP this_DT issue_NN by_IN selecting_VBG the_DT top_NN ranked_VBD features_NNS based_VBN on_IN certain_JJ scores_NNS computed_VBN independently_RB for_IN each_DT feature_NN ._.
+These_DT approaches_NNS neglect_NN the_DT possible_JJ correlation_NN between_IN different_JJ features_NNS and_CC thus_RB can_MD not_RB produce_VB an_DT optimal_JJ feature_NN subset_NN ._.
+Inspired_VBN from_IN the_DT recent_JJ developments_NNS on_IN manifold_NN learning_NN and_CC L1-regularized_JJ models_NNS for_IN subset_NN selection_NN ,_, we_PRP propose_VBP in_IN this_DT paper_NN a_DT new_JJ approach_NN ,_, called_VBN Multi-Cluster_JJ Feature_NN Selection_NN -LRB-_-LRB- MCFS_NN -RRB-_-RRB- ,_, for_IN unsupervised_JJ feature_NN selection_NN ._.
+Specifically_RB ,_, we_PRP select_VBP those_DT features_NNS such_JJ that_IN the_DT multi-cluster_JJ structure_NN of_IN the_DT data_NNS can_MD be_VB best_RB preserved_VBN ._.
+The_DT corresponding_JJ optimization_NN problem_NN can_MD be_VB efficiently_RB solved_VBN since_IN it_PRP only_RB involves_VBZ a_DT sparse_JJ eigen-problem_NN and_CC a_DT L1-regularized_JJ least_JJS squares_NNS problem_NN ._.
+Extensive_JJ experimental_JJ results_NNS over_IN various_JJ real-life_JJ data_NNS sets_NNS have_VBP demonstrated_VBN the_DT superiority_NN of_IN the_DT proposed_VBN algorithm_NN ._.

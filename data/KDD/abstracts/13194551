@@ -1,0 +1,9 @@
+Interpretable_JJ nonnegative_JJ matrix_NN decompositions_NNS
+A_DT matrix_NN decomposition_NN expresses_VBZ a_DT matrix_NN as_IN a_DT product_NN of_IN at_IN least_JJS two_CD factor_NN matrices_NNS ._.
+Equivalently_RB ,_, it_PRP expresses_VBZ each_DT column_NN of_IN the_DT input_NN matrix_NN as_IN a_DT linear_JJ combination_NN of_IN the_DT columns_NNS in_IN the_DT first_JJ factor_NN matrix_NN ._.
+The_DT interpretability_NN of_IN the_DT decompositions_NNS is_VBZ a_DT key_JJ issue_NN in_IN many_JJ data-analysis_JJ tasks_NNS ._.
+We_PRP propose_VBP two_CD new_JJ matrix-decomposition_JJ problems_NNS :_: the_DT nonnegative_JJ CX_NN and_CC nonnegative_JJ CUR_NN problems_NNS ,_, that_WDT give_VBP naturally_RB interpretable_JJ factors_NNS ._.
+They_PRP extend_VBP the_DT recently-proposed_JJ column_NN and_CC column-row_JJ based_JJ decompositions_NNS ,_, and_CC are_VBP aimed_VBN to_TO be_VB used_VBN with_IN nonnegative_JJ matrices_NNS ._.
+Our_PRP$ decompositions_NNS represent_VBP the_DT input_NN matrix_NN as_IN a_DT nonnegative_JJ linear_JJ combination_NN of_IN a_DT subset_NN of_IN its_PRP$ columns_NNS -LRB-_-LRB- or_CC columns_NNS and_CC rows_NNS -RRB-_-RRB- ._.
+We_PRP present_VBP two_CD algorithms_NNS to_TO solve_VB these_DT problems_NNS and_CC provide_VB an_DT extensive_JJ experimental_JJ evaluation_NN where_WRB we_PRP assess_VBP the_DT quality_NN of_IN our_PRP$ algorithms_NNS '_POS results_NNS as_RB well_RB as_IN the_DT intuitiveness_NN of_IN nonnegative_JJ CX_NN and_CC CUR_NN decompositions_NNS ._.
+We_PRP show_VBP that_IN our_PRP$ algorithms_NNS return_VBP intuitive_JJ answers_NNS with_IN smaller_JJR reconstruction_NN errors_NNS than_IN the_DT previously-proposed_JJ methods_NNS for_IN column_NN and_CC column-row_NN decompositions_NNS ._.

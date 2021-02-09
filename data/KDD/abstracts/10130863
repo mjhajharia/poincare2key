@@ -1,0 +1,10 @@
+Active_JJ learning_NN with_IN direct_JJ query_NN construction_NN
+Active_JJ learning_NN may_MD hold_VB the_DT key_NN for_IN solving_VBG the_DT data_NNS scarcity_NN problem_NN in_IN supervised_JJ learning_NN ,_, i.e._FW ,_, the_DT lack_NN of_IN labeled_JJ data_NNS ._.
+Indeed_RB ,_, labeling_NN data_NNS is_VBZ a_DT costly_JJ process_NN ,_, yet_CC an_DT active_JJ learner_NN may_MD request_VB labels_NNS of_IN only_RB selected_VBN instances_NNS ,_, thus_RB reducing_VBG labeling_NN work_NN dramatically_RB ._.
+Most_JJS previous_JJ works_NNS of_IN active_JJ learning_NN are_VBP ,_, however_RB ,_, pool-based_JJ ;_: that_DT is_VBZ ,_, a_DT pool_NN of_IN unlabeled_JJ examples_NNS is_VBZ given_VBN and_CC the_DT learner_NN can_MD only_RB select_VB examples_NNS from_IN the_DT pool_NN to_TO query_VB for_IN their_PRP$ labels_NNS ._.
+This_DT type_NN of_IN active_JJ learning_NN has_VBZ several_JJ weaknesses_NNS ._.
+In_IN this_DT paper_NN we_PRP propose_VBP novel_JJ active_JJ learning_NN algorithms_NNS that_WDT construct_VBP examples_NNS directly_RB to_TO query_VB for_IN labels_NNS ._.
+We_PRP study_VBD both_CC a_DT specific_JJ active_JJ learner_NN based_VBN on_IN the_DT decision_NN tree_NN algorithm_NN ,_, and_CC a_DT general_JJ active_JJ learner_NN that_WDT can_MD work_VB with_IN any_DT base_NN learning_NN algorithm_NN ._.
+As_IN there_EX is_VBZ no_DT restriction_NN on_IN what_WP examples_NNS to_TO be_VB queried_VBN ,_, our_PRP$ methods_NNS are_VBP shown_VBN to_TO often_RB query_VB fewer_JJR examples_NNS to_TO reduce_VB the_DT predictive_JJ error_NN quickly_RB ._.
+This_DT casts_VBZ doubt_NN on_IN the_DT usefulness_NN of_IN the_DT pool_NN in_IN pool-based_JJ active_JJ learning_NN ._.
+Nevertheless_RB ,_, our_PRP$ methods_NNS can_MD be_VB easily_RB adapted_VBN to_TO work_VB with_IN a_DT given_VBN pool_NN of_IN unlabeled_JJ examples_NNS ._.

@@ -1,0 +1,11 @@
+Local_JJ sparsity_NN control_NN for_IN naive_JJ Bayes_NNS with_IN extreme_JJ misclassification_NN costs_NNS
+In_IN applications_NNS of_IN data_NNS mining_NN characterized_VBN by_IN highly_RB skewed_JJ misclassification_NN costs_VBZ certain_JJ types_NNS of_IN errors_NNS become_VBP virtually_RB unacceptable_JJ ._.
+This_DT limits_VBZ the_DT utility_NN of_IN a_DT classifier_NN to_TO a_DT range_NN in_IN which_WDT such_JJ constraints_NNS can_MD be_VB met_VBN ._.
+Naive_JJ Bayes_NNS ,_, which_WDT has_VBZ proven_VBN to_TO be_VB very_RB useful_JJ in_IN text_NN mining_NN applications_NNS due_JJ to_TO high_JJ scalability_NN ,_, can_MD be_VB particularly_RB affected_VBN ._.
+Although_IN its_PRP$ 0\/1_CD loss_NN tends_VBZ to_TO be_VB small_JJ ,_, its_PRP$ misclassifications_NNS are_VBP often_RB made_VBN with_IN apparently_RB high_JJ confidence_NN ._.
+Aside_RB from_IN efforts_NNS to_TO better_RBR calibrate_VB Naive_JJ Bayes_NNP scores_NNS ,_, it_PRP has_VBZ been_VBN shown_VBN that_IN its_PRP$ accuracy_NN depends_VBZ on_IN document_NN sparsity_NN and_CC feature_NN selection_NN can_MD lead_VB to_TO marked_JJ improvement_NN in_IN classification_NN performance_NN ._.
+Traditionally_RB ,_, sparsity_NN is_VBZ controlled_VBN globally_RB ,_, and_CC the_DT result_NN for_IN any_DT particular_JJ document_NN may_MD vary_VB ._.
+In_IN this_DT work_NN we_PRP examine_VBP the_DT merits_NNS of_IN local_JJ sparsity_NN control_NN for_IN Naive_JJ Bayes_NNS in_IN the_DT context_NN of_IN highly_RB asymmetric_JJ misclassification_NN costs_NNS ._.
+In_IN experiments_NNS with_IN three_CD benchmark_JJ document_NN collections_NNS we_PRP demonstrate_VBP clear_JJ advantages_NNS of_IN document-level_JJ feature_NN selection_NN ._.
+In_IN the_DT extreme_JJ cost_NN setting_NN ,_, multinomial_JJ Naive_JJ Bayes_NNS with_IN local_JJ sparsity_NN control_NN is_VBZ able_JJ to_TO outperform_VB even_RB some_DT of_IN the_DT recently_RB proposed_VBN effective_JJ improvements_NNS to_TO the_DT Naive_JJ Bayes_NNP classifier_NN ._.
+There_EX are_VBP also_RB indications_NNS that_IN local_JJ feature_NN selection_NN may_MD be_VB preferable_JJ in_IN different_JJ cost_NN settings_NNS ._.

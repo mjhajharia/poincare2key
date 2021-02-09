@@ -1,0 +1,7 @@
+Self-learning_JJ web_NN question_NN answering_NN system_NN
+While_IN being_VBG quite_RB successful_JJ in_IN providing_VBG keyword_JJ based_JJ access_NN to_TO web_NN pages_NNS ,_, commercial_JJ search_NN portals_NNS ,_, such_JJ as_IN Google_NNP ,_, Yahoo_NNP ,_, AltaVista_NNP ,_, and_CC AOL_NNP ,_, still_RB lack_VBP the_DT ability_NN to_TO answer_VB questions_NNS expressed_VBN in_IN a_DT natural_JJ language_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT probabilistic_JJ approach_NN to_TO automated_JJ question_NN answering_VBG on_IN the_DT Web_NN ._.
+Our_PRP$ approach_NN is_VBZ based_VBN on_IN pattern_NN matching_NN and_CC answer_NN triangulation_NN ._.
+By_IN taking_VBG advantage_NN of_IN the_DT redundancy_NN inherent_JJ in_IN the_DT Web_NN ,_, each_DT answer_NN found_VBN by_IN the_DT system_NN is_VBZ triangulated_VBN -LRB-_-LRB- confirmed_VBN or_CC disconfirmed_VBN -RRB-_-RRB- against_IN other_JJ possible_JJ answers_NNS ._.
+Our_PRP$ approach_NN is_VBZ entirely_RB self-learning_JJ :_: it_PRP does_VBZ not_RB involve_VB any_DT linguistic_JJ resources_NNS ,_, nor_CC it_PRP does_VBZ require_VB any_DT manual_JJ tuning_NN ._.
+Thus_RB ,_, the_DT propose_VBP approach_NN can_MD easily_RB be_VB replicated_VBN in_IN other_JJ information_NN systems_NNS with_IN large_JJ redundancy_NN ._.

@@ -1,0 +1,11 @@
+Distributed_VBN multivariate_JJ regression_NN based_VBN on_IN influential_JJ observations_NNS
+Large-scale_JJ data_NNS sets_NNS are_VBP sometimes_RB logically_RB and_CC physically_RB distributed_VBN in_IN separate_JJ databases_NNS ._.
+The_DT issues_NNS of_IN mining_NN these_DT data_NNS sets_NNS are_VBP not_RB just_RB their_PRP$ sizes_NNS ,_, but_CC also_RB the_DT distributed_VBN nature_NN ._.
+The_DT complication_NN is_VBZ that_IN communicating_VBG all_PDT the_DT data_NNS to_TO a_DT central_JJ database_NN would_MD be_VB too_RB slow_JJ ._.
+To_TO reduce_VB communication_NN costs_NNS ,_, one_PRP could_MD compress_VB the_DT data_NNS during_IN transmission_NN ._.
+Another_DT method_NN is_VBZ random_JJ sampling_NN ._.
+We_PRP propose_VBP an_DT approach_NN for_IN distributed_VBN multivariate_JJ regression_NN based_VBN on_IN sampling_NN and_CC discuss_VB its_PRP$ relationship_NN with_IN the_DT compression_NN method_NN ._.
+The_DT central_JJ idea_NN is_VBZ motivated_VBN by_IN the_DT observation_NN that_IN ,_, although_IN communication_NN is_VBZ limited_JJ ,_, each_DT individual_JJ site_NN can_MD still_RB scan_VB and_CC process_VB all_PDT the_DT data_NNS it_PRP holds_VBZ ._.
+Thus_RB it_PRP is_VBZ possible_JJ for_IN the_DT site_NN to_TO communicate_VB only_RB influential_JJ samples_NNS without_IN seeing_VBG data_NNS in_IN other_JJ sites_NNS ._.
+We_PRP exploit_VBP this_DT observation_NN and_CC derive_VB a_DT method_NN that_WDT provides_VBZ tradeoff_NN between_IN communication_NN cost_NN and_CC accuracy_NN ._.
+Experimental_JJ results_NNS show_VBP that_IN it_PRP is_VBZ better_JJR than_IN the_DT compression_NN method_NN and_CC random_JJ sampling_NN ._.

@@ -1,0 +1,10 @@
+Using_VBG proximity_NN to_TO predict_VB activity_NN in_IN social_JJ networks_NNS
+The_DT structure_NN of_IN a_DT social_JJ network_NN contains_VBZ information_NN useful_JJ for_IN predicting_VBG its_PRP$ evolution_NN ._.
+We_PRP show_VBP that_IN structural_JJ information_NN also_RB helps_VBZ predict_VB activity_NN ._.
+People_NNS who_WP are_VBP ``_`` close_JJ ''_'' in_IN some_DT sense_NN in_IN a_DT social_JJ network_NN are_VBP more_RBR likely_JJ to_TO perform_VB similar_JJ actions_NNS than_IN more_RBR distant_JJ people_NNS ._.
+We_PRP use_VBP network_NN proximity_NN to_TO capture_VB the_DT degree_NN to_TO which_WDT people_NNS are_VBP ``_`` close_JJ ''_'' to_TO each_DT other_JJ ._.
+In_IN addition_NN to_TO standard_JJ proximity_NN metrics_NNS used_VBN in_IN the_DT link_NN prediction_NN task_NN ,_, such_JJ as_IN neighborhood_NN overlap_VBP ,_, we_PRP introduce_VBP new_JJ metrics_NNS that_WDT model_VBP different_JJ types_NNS of_IN interactions_NNS that_WDT take_VBP place_NN between_IN people_NNS ._.
+We_PRP study_VBP this_DT claim_NN empirically_RB using_VBG data_NNS about_IN URL_NN forwarding_NN activity_NN on_IN the_DT social_JJ media_NNS sites_NNS Digg_NNP and_CC Twitter_NNP ._.
+We_PRP show_VBP that_IN structural_JJ proximity_NN of_IN two_CD users_NNS in_IN the_DT follower_NN graph_NN is_VBZ related_JJ to_TO similarity_NN of_IN their_PRP$ activity_NN ,_, i.e._FW ,_, how_WRB many_JJ URLs_NNS they_PRP both_DT forward_RB ._.
+We_PRP also_RB show_VBP that_IN given_VBN friends_NNS '_POS activity_NN ,_, knowing_VBG their_PRP$ proximity_NN to_TO the_DT user_NN can_MD help_VB better_RBR predict_VB which_WDT URLs_NNS the_DT user_NN will_MD forward_RB ._.
+We_PRP compare_VBP the_DT performance_NN of_IN different_JJ proximity_NN metrics_NNS on_IN the_DT activity_NN prediction_NN task_NN and_CC find_VBP that_IN metrics_NNS that_WDT take_VBP into_IN account_NN the_DT attention-limited_JJ nature_NN of_IN interactions_NNS in_IN social_JJ media_NNS lead_VBP to_TO substantially_RB better_JJR predictions_NNS ._.

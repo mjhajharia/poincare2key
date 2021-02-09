@@ -1,0 +1,7 @@
+Debugging_VBG standard_JJ document_NN formats_NNS
+We_PRP present_VBP a_DT tool_NN for_IN helping_VBG XML_NN schema_NN designers_NNS to_TO obtain_VB a_DT high_JJ quality_NN level_NN for_IN their_PRP$ specifications_NNS ._.
+The_DT tool_NN allows_VBZ one_CD to_TO analyze_VB relations_NNS between_IN classes_NNS of_IN XML_NN documents_NNS and_CC formally_RB prove_VB them_PRP ._.
+For_IN instance_NN ,_, the_DT tool_NN can_MD be_VB used_VBN to_TO check_VB forward_RB and_CC backward_RB compatibilities_NNS of_IN recommendations_NNS ._.
+When_WRB such_JJ a_DT relation_NN does_VBZ not_RB hold_VB ,_, the_DT tool_NN allows_VBZ one_CD to_TO identify_VB the_DT reasons_NNS and_CC reports_VBZ detailed_JJ counter-examples_NNS that_WDT exemplify_VBP the_DT problem_NN ._.
+For_IN this_DT purpose_NN ,_, the_DT tool_NN relies_VBZ on_IN recent_JJ advances_NNS in_IN logic-based_JJ automated_JJ theorem_NN proving_NN techniques_NNS that_WDT allow_VBP for_IN efficient_JJ reasoning_NN on_IN very_RB large_JJ sets_NNS of_IN XML_NN documents_NNS ._.
+We_PRP believe_VBP this_DT tool_NN can_MD be_VB of_IN great_JJ value_NN for_IN standardization_NN bodies_NNS that_WDT define_VBP specifications_NNS using_VBG various_JJ XML_NN type_NN definition_NN languages_NNS -LRB-_-LRB- such_JJ as_IN W3C_NN specifications_NNS -RRB-_-RRB- ,_, and_CC are_VBP concerned_VBN with_IN quality_NN assurance_NN for_IN their_PRP$ normative_JJ recommendations_NNS ._.

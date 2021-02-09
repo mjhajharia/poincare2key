@@ -1,0 +1,7 @@
+Translation-invariant_JJ mixture_NN models_NNS for_IN curve_NN clustering_NN
+In_IN this_DT paper_NN we_PRP present_VBP a_DT family_NN of_IN algorithms_NNS that_WDT can_MD simultaneously_RB align_VB and_CC cluster_VB sets_NNS of_IN multidimensional_JJ curves_NNS defined_VBN on_IN a_DT discrete_JJ time_NN grid_NN ._.
+Our_PRP$ approach_NN uses_VBZ the_DT Expectation-Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN to_TO recover_VB both_CC the_DT mean_JJ curve_NN shapes_NNS for_IN each_DT cluster_NN ,_, and_CC the_DT most_RBS likely_JJ shifts_NNS ,_, offsets_NNS ,_, and_CC cluster_NN memberships_NNS for_IN each_DT curve_NN ._.
+We_PRP demonstrate_VBP how_WRB Bayesian_JJ estimation_NN methods_NNS can_MD improve_VB the_DT results_NNS for_IN small_JJ sample_NN sizes_NNS by_IN enforcing_VBG smoothness_NN in_IN the_DT cluster_NN mean_NN curves_NNS ._.
+We_PRP evaluate_VBP the_DT methodology_NN on_IN two_CD real-world_JJ data_NNS sets_NNS ,_, time-course_JJ gene_NN expression_NN data_NNS and_CC storm_NN trajectory_NN data_NNS ._.
+Experimental_JJ results_NNS show_VBP that_IN models_NNS that_WDT incorporate_VBP curve_NN alignment_NN systematically_RB provide_VBP improvements_NNS in_IN predictive_JJ power_NN and_CC within-cluster_NN variance_NN on_IN test_NN data_NNS sets_NNS ._.
+The_DT proposed_VBN approach_NN provides_VBZ a_DT non-parametric_JJ ,_, computationally_RB efficient_JJ ,_, and_CC robust_JJ methodology_NN for_IN clustering_VBG broad_JJ classes_NNS of_IN curve_NN data_NNS ._.

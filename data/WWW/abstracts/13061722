@@ -1,0 +1,12 @@
+Towards_IN a_DT theory_NN model_NN for_IN product_NN search_NN
+With_IN the_DT growing_VBG pervasiveness_NN of_IN the_DT Internet_NN ,_, online_NN search_NN for_IN products_NNS and_CC services_NNS is_VBZ constantly_RB increasing_VBG ._.
+Most_JJS product_NN search_NN engines_NNS are_VBP based_VBN on_IN adaptations_NNS of_IN theoretical_JJ models_NNS devised_VBN for_IN information_NN retrieval_NN ._.
+However_RB ,_, the_DT decision_NN mechanism_NN that_WDT underlies_VBZ the_DT process_NN of_IN buying_VBG a_DT product_NN is_VBZ different_JJ than_IN the_DT process_NN of_IN locating_VBG relevant_JJ documents_NNS or_CC objects_NNS ._.
+We_PRP propose_VBP a_DT theory_NN model_NN for_IN product_NN search_NN based_VBN on_IN expected_VBN utility_NN theory_NN from_IN economics_NNS ._.
+Specifically_RB ,_, we_PRP propose_VBP a_DT ranking_JJ technique_NN in_IN which_WDT we_PRP rank_VBP highest_JJS the_DT products_NNS that_WDT generate_VBP the_DT highest_JJS surplus_NN ,_, after_IN the_DT purchase_NN ._.
+In_IN a_DT sense_NN ,_, the_DT top_JJ ranked_VBN products_NNS are_VBP the_DT ``_`` best_JJS value_NN for_IN money_NN ''_'' for_IN a_DT specific_JJ user_NN ._.
+Our_PRP$ approach_NN builds_VBZ on_IN research_NN on_IN ``_`` demand_NN estimation_NN ''_'' from_IN economics_NNS and_CC presents_VBZ a_DT solid_JJ theoretical_JJ foundation_NN on_IN which_WDT further_JJ research_NN can_MD build_VB on_IN ._.
+We_PRP build_VBP algorithms_NNS that_WDT take_VBP into_IN account_NN consumer_NN demographics_NNS ,_, heterogeneity_NN of_IN consumer_NN preferences_NNS ,_, and_CC also_RB account_VBP for_IN the_DT varying_VBG price_NN of_IN the_DT products_NNS ._.
+We_PRP show_VBP how_WRB to_TO achieve_VB this_DT without_IN knowing_VBG the_DT demographics_NNS or_CC purchasing_VBG histories_NNS of_IN individual_JJ consumers_NNS but_CC by_IN using_VBG aggregate_JJ demand_NN data_NNS ._.
+We_PRP evaluate_VBP our_PRP$ work_NN ,_, by_IN applying_VBG the_DT techniques_NNS on_IN hotel_NN search_NN ._.
+Our_PRP$ extensive_JJ user_NN studies_NNS ,_, using_VBG more_JJR than_IN 15,000_CD user-provided_JJ ranking_NN comparisons_NNS ,_, demonstrate_VBP an_DT overwhelming_JJ preference_NN for_IN the_DT rankings_NNS generated_VBN by_IN our_PRP$ techniques_NNS ,_, compared_VBN to_TO a_DT large_JJ number_NN of_IN existing_VBG strong_JJ state-of-the-art_JJ baselines_NNS ._.

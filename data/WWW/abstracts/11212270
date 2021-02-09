@@ -1,0 +1,4 @@
+Web_NN page_NN rank_NN prediction_NN with_IN markov_NN models_NNS
+In_IN this_DT paper_NN we_PRP propose_VBP a_DT method_NN for_IN predicting_VBG the_DT ranking_JJ position_NN of_IN a_DT Web_NN page_NN ._.
+Assuming_VBG a_DT set_NN of_IN successive_JJ past_JJ top-k_NN rankings_NNS ,_, we_PRP study_VBD the_DT evolution_NN of_IN Web_NN pages_NNS in_IN terms_NNS of_IN ranking_JJ trend_NN sequences_NNS used_VBN for_IN Markov_NNP Models_NNS training_NN ,_, which_WDT are_VBP in_IN turn_NN used_VBN to_TO predict_VB future_JJ rankings_NNS ._.
+The_DT predictions_NNS are_VBP highly_RB accurate_JJ for_IN all_DT experimental_JJ setups_NNS and_CC similarity_NN measures_NNS ._.

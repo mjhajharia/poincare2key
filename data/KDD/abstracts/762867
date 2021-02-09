@@ -1,0 +1,7 @@
+Query-time_JJ entity_NN resolution_NN
+The_DT goal_NN of_IN entity_NN resolution_NN is_VBZ to_TO reconcile_VB database_NN references_NNS corresponding_VBG to_TO the_DT same_JJ real-world_JJ entities_NNS ._.
+Given_VBN the_DT abundance_NN of_IN publicly_RB available_JJ databases_NNS where_WRB entities_NNS are_VBP not_RB resolved_VBN ,_, we_PRP motivate_VBP the_DT problem_NN of_IN quickly_RB processing_VBG queries_NNS that_WDT require_VBP resolved_VBN entities_NNS from_IN such_JJ `_`` unclean_JJ '_'' databases_NNS ._.
+We_PRP propose_VBP a_DT two-stage_JJ collective_JJ resolution_NN strategy_NN for_IN processing_VBG queries_NNS ._.
+We_PRP then_RB show_VBP how_WRB it_PRP can_MD be_VB performed_VBN on-the-fly_JJ by_IN adaptively_RB extracting_VBG and_CC resolving_VBG those_DT database_NN references_NNS that_WDT are_VBP the_DT most_RBS helpful_JJ for_IN resolving_VBG the_DT query_NN ._.
+We_PRP validate_VBP our_PRP$ approach_NN on_IN two_CD large_JJ real-world_JJ publication_NN databases_NNS where_WRB we_PRP show_VBP the_DT usefulness_NN of_IN collective_JJ resolution_NN and_CC at_IN the_DT same_JJ time_NN demonstrate_VBP the_DT need_NN for_IN adaptive_JJ strategies_NNS for_IN query_NN processing_NN ._.
+We_PRP then_RB show_VBP how_WRB the_DT same_JJ queries_NNS can_MD be_VB answered_VBN in_IN real_JJ time_NN using_VBG our_PRP$ adaptive_JJ approach_NN while_IN preserving_VBG the_DT gains_NNS of_IN collective_JJ resolution_NN ._.

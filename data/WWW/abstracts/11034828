@@ -1,0 +1,6 @@
+The_DT recurrence_NN dynamics_NNS of_IN social_JJ tagging_NN
+How_WRB often_RB do_VBP tags_NNS recur_VB ?_.
+How_WRB hard_JJ is_VBZ predicting_VBG tag_NN recurrence_NN ?_.
+What_WDT tags_NNS are_VBP likely_JJ to_TO recur_VB ?_.
+We_PRP try_VBP to_TO answer_VB these_DT questions_NNS by_IN analyzing_VBG the_DT RSDC08_NN dataset_NN ,_, in_IN both_CC individual_JJ and_CC collective_JJ settings_NNS ._.
+Our_PRP$ findings_NNS provide_VBP useful_JJ insights_NNS for_IN the_DT development_NN of_IN tag_NN suggestion_NN techniques_NNS etc._NN ._.

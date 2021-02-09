@@ -1,0 +1,4 @@
+A_DT fast_JJ XPATH_NN evaluation_NN technique_NN with_IN the_DT facility_NN of_IN updates_NNS
+This_DT paper_NN addresses_VBZ the_DT problem_NN of_IN fast_JJ retrieval_NN of_IN data_NNS from_IN XML_NN documents_NNS by_IN providing_VBG a_DT labeling_NN schema_NN that_WDT can_MD easily_RB handle_VB simple_JJ as_RB well_RB as_IN complex_JJ XPATH_NN queries_NNS and_CC also_RB provide_VBP for_IN updates_NNS without_IN the_DT need_NN for_IN the_DT entire_JJ document_NN being_VBG re-indexed_JJ in_IN the_DT RDBMS_NN ._.
+We_PRP introduce_VBP a_DT new_JJ labeling_NN schema_NN called_VBD the_DT ``_`` Z-Label_NN ''_'' for_IN efficiently_RB processing_VBG XPATH_NN queries_NNS involving_VBG child_NN and_CC descendant_NN axes_NNS ._.
+The_DT use_NN of_IN ``_`` Z-Label_NNP ''_'' coupled_VBN with_IN the_DT indexing_NN schema_NN provides_VBZ for_IN smooth_JJ updates_NNS in_IN the_DT XML_NN document_NN ._.
