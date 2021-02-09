@@ -138,7 +138,7 @@ def main(config):
     model = HyperRank(dataset_details, data_dir, use_stanza, gpu)
     keyphrases, stemmed_keyphrases = model.run(files)
 
-    with open(os.path.join(data_dir, "keyphrases.pkl"), "rb") as f:
+    with open(os.path.join(data_dir, "keyphrases.pkl"), "wb") as f:
         pickle.dump(stemmed_keyphrases, f)
 
     if 'eval' in config:
