@@ -139,7 +139,7 @@ def main(config):
     keyphrases, stemmed_keyphrases = model.run(files)
 
     with open(os.path.join(data_dir, "keyphrases.pkl"), "wb") as f:
-        pickle.dump(stemmed_keyphrases, f)
+        pickle.dump({"stemmed": stemmed_keyphrases, "keyphrases": keyphrases}, f)
 
     if 'eval' in config:
         ground_truth = read_json(os.path.join(config['data_dir'], dataset_details['references']['test']))
@@ -156,7 +156,7 @@ def main(config):
 
 if __name__ == '__main__':
     top_n = ("5", "10", "both")
-    dataset = [x.split('.')[0] for x in glob('../data/*.json')]
+    dataset = [os.path.basename(x).split('.')[0] for x in glob('../data/*.json')]
     files = ["test", "all"]
 
     parser = argparse.ArgumentParser('hyper_rank.py', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
