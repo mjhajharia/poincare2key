@@ -9,8 +9,9 @@ import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
 
-Main.eval('include("../TreeRep/TreeRep.jl")')
-Main.eval('using LightGraphs')
+Main.include("../TreeRep/TreeRep.jl")
+# Main.eval('using LightGraphs')
+test_func = Main.TreeRep.metric_to_structure
 
 
 class HyperbolicEmbedding:
@@ -19,19 +20,17 @@ class HyperbolicEmbedding:
         self.graph = graph
 
     def get_tree_rep(self):
-        Main.d = self.distance_matrix
+        _, W = test_func(self.distance_matrix)
+        # edges = Main.eval('collect(edges(G))')
+        # n = Main.eval('nv(G)')
+        # W = np.zeros((n, n))  # Initializing the adjacency matrix
+        # for edge in edges:
+        #     src = edge.src - 1
+        #     dst = edge.dst - 1
+        #     W[src, dst] = Main.dist[src, dst]
+        #     W[dst, src] = Main.dist[dst, src]
 
-        Main.G, Main.dist = Main.eval("TreeRep.metric_to_structure(d)")
-        edges = Main.eval('collect(edges(G))')
-        n = Main.eval('nv(G)')
-        W = np.zeros((n, n))  # Initializing the adjacency matrix
-        for edge in edges:
-            src = edge.src - 1
-            dst = edge.dst - 1
-            W[src, dst] = Main.dist[src, dst]
-            W[dst, src] = Main.dist[dst, src]
-
-        return W
+        return W[:len(self.graph.nodes()), :len(self.graph.nodes())]
 
     def get_graph(self, relabel=True):
         W = self.get_tree_rep()
