@@ -9,6 +9,7 @@ import networkx as nx
 import stanza
 from nltk.stem import PorterStemmer
 from tqdm.auto import tqdm
+import spacy
 
 from evaluate import evaluate_model
 from graph_construction import ConstructGraph
@@ -17,7 +18,7 @@ from utils import read_json, merge_dicts
 
 
 class HyperRank:
-    def __init__(self, parameter_file, data, use_stanza=False, use_gpu=False):
+    def __init__(self, parameter_file, data, use_stanza=False, use_spacy=False, use_gpu=False):
         self.params = parameter_file
 
         self.params["path"] = data
@@ -37,9 +38,14 @@ class HyperRank:
         self.ps = PorterStemmer()
 
         self.stanza = use_stanza
+        self.spacy = use_spacy
 
         if self.stanza:
+
             self.nlp = self.__load_stanza()
+        if self.spacy:
+            from graph_construction_chunks import ConstructGraph
+            self.nlp = spacy.load("en_core_web_lg")
 
     def __load_stanza(self):
         preprocessors = 'tokenize,mwt,pos,lemma,depparse'
@@ -76,7 +82,7 @@ class HyperRank:
         for file in tqdm(texts):
             text = texts[file]
 
-            if self.stanza:
+            if self.stanza or self.spacy:
                 cg = ConstructGraph(self.nlp)
                 graph = cg.construct_graph(text)
             else:
@@ -126,6 +132,7 @@ def main(config):
     dataset = config['data']
     data_dir = os.path.join(config['data_dir'], dataset)
     use_stanza = config['use_stanza']
+    use_spacy = config['use_spacy']
     gpu = config['gpu']
 
     dataset_details = read_json(os.path.join(config['data_dir'], f'{dataset}.json'))
@@ -135,7 +142,7 @@ def main(config):
     else:
         files = ["test"]
 
-    model = HyperRank(dataset_details, data_dir, use_stanza, gpu)
+    model = HyperRank(dataset_details, data_dir, use_stanza, use_spacy, gpu)
     keyphrases, stemmed_keyphrases = model.run(files)
 
     with open(os.path.join(data_dir, "keyphrases.pkl"), "wb") as f:
@@ -170,6 +177,9 @@ if __name__ == '__main__':
                         default="../data/",
                         help="data directory")
     parser.add_argument("--use-stanza",
+                        action='store_true',
+                        help="Rerun stanza on the dataset")
+    parser.add_argument("--use-spacy",
                         action='store_true',
                         help="Rerun stanza on the dataset")
     parser.add_argument("--gpu",
