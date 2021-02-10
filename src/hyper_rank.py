@@ -12,7 +12,8 @@ from tqdm.auto import tqdm
 import spacy
 
 from evaluate import evaluate_model
-from graph_construction import ConstructGraph
+import graph_construction_chunks
+import graph_construction
 from tree_rep import HyperbolicEmbedding
 from utils import read_json, merge_dicts
 
@@ -44,7 +45,6 @@ class HyperRank:
 
             self.nlp = self.__load_stanza()
         if self.spacy:
-            from graph_construction_chunks import ConstructGraph
             self.nlp = spacy.load("en_core_web_lg")
 
     def __load_stanza(self):
@@ -82,8 +82,11 @@ class HyperRank:
         for file in tqdm(texts):
             text = texts[file]
 
-            if self.stanza or self.spacy:
-                cg = ConstructGraph(self.nlp)
+            if self.stanza:
+                cg = graph_construction.ConstructGraph(self.nlp)
+                graph = cg.construct_graph(text)
+            elif self.spacy:
+                cg = graph_construction_chunks.ConstructGraph(self.nlp)
                 graph = cg.construct_graph(text)
             else:
                 graph = nx.DiGraph(pickle_file[file])
