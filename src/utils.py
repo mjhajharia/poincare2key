@@ -379,3 +379,12 @@ def present(path, data_path):
 def merge_dicts(dict1, dict2):
     res = {**dict1, **dict2}
     return res
+
+
+def texttofreq(ps, wordstring):
+    words = wordstring.lower().split()
+    wordlist = [ps.stem(word) for word in words]
+    wordfreq = []
+    for w in wordlist:
+        wordfreq.append(wordlist.count(w))
+    return dict(zip(wordlist, wordfreq))

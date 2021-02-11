@@ -1,7 +1,7 @@
 {
   "dataset_identifier": "WWW",
   "references": {
-    "test": "datasets/WWW/references/test.author.stem.json"
+    "test": "WWW/references/test.author.stem.json"
   },
   "files": [
     "test.json"

@@ -26,10 +26,11 @@ class RunBaselines:
 
         self.path_to_test = os.path.join(self.params["path"], 'test')
         self.path_to_train = os.path.join(self.params["path"], 'train')
+        self.path_to_val = os.path.join(self.params["path"], 'dev')
 
         self.return_dict = return_dict
 
-    def run_one_model(self, model, train_files=False):
+    def run_one_model(self, model, train_files=False, val_files=False):
 
         # container for keyphrases
         keyphrases = {}
@@ -42,6 +43,9 @@ class RunBaselines:
 
         if train_files:
             files += glob.glob(os.path.join(self.path_to_train, '*.' + self.params['extension']))
+
+        if val_files:
+            files += glob.glob(os.path.join(self.path_to_val, '*.' + self.params['extension']))
 
         # loop through the documents
         for input_file in tqdm(files):

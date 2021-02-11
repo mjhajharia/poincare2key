@@ -4,26 +4,34 @@ import pickle
 import string
 from collections import OrderedDict
 from glob import glob
+import warnings
 
 import networkx as nx
 import stanza
 from nltk.stem import PorterStemmer
 from tqdm.auto import tqdm
 import spacy
+import textacy
 
 from evaluate import evaluate_model
 import graph_construction_chunks
 import graph_construction
 from tree_rep import HyperbolicEmbedding
 from utils import read_json, merge_dicts
+from rank_candidates import rank
+
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 
 class HyperRank:
     def __init__(self, parameter_file, data, use_stanza=False, use_spacy=False, use_gpu=False):
+        # set parameters from files inside each dataset folder (dataset_detial)
         self.params = parameter_file
 
+        # path to the dataset
         self.params["path"] = data
 
+        # get path for all the files eg: test, train, val
         self.path = {}
 
         for file in self.params["files"]:
@@ -31,6 +39,7 @@ class HyperRank:
 
         self.params["gpu"] = use_gpu
 
+        # load stopwords
         self.stopwords = []
         with open(r"../data/stopwords_en_yake.txt", 'r', encoding="utf8") as File:
             for line in File.readlines():
@@ -38,11 +47,12 @@ class HyperRank:
 
         self.ps = PorterStemmer()
 
+        self.en = textacy.load_spacy_lang("en_core_web_lg", disable=("parser",))
+
         self.stanza = use_stanza
         self.spacy = use_spacy
 
         if self.stanza:
-
             self.nlp = self.__load_stanza()
         if self.spacy:
             self.nlp = spacy.load("en_core_web_lg")
@@ -52,13 +62,26 @@ class HyperRank:
 
         return stanza.Pipeline(lang='en', processors=preprocessors, use_gpu=self.params['gpu'])
 
-    def texttofreq(self, wordstring):
-        words = wordstring.lower().split()
-        wordlist = [self.ps.stem(word) for word in words]
-        wordfreq = []
-        for w in wordlist:
-            wordfreq.append(wordlist.count(w))
-        return dict(zip(wordlist, wordfreq))
+    def generate_candidates(self, text, keyphrases):
+        doc = textacy.make_spacy_doc(text, lang=self.en)
+
+        candidate_type_1 = list(textacy.extract.pos_regex_matches(doc, "<NOUN|PROPN>+"))
+        candidate_type_2 = list(textacy.extract.pos_regex_matches(doc, "<ADJ>*<NOUN|PROPN>+"))
+
+        candidate_type_1 = [x.text for x in candidate_type_1]
+        candidate_type_2 = [x.text for x in candidate_type_2]
+
+        chunks = list(set(candidate_type_1 + candidate_type_2))
+
+        candidates = []
+
+        for key in keyphrases:
+            for chunk in chunks:
+                if key.lower() in [x.lower() for x in chunk.split()]:
+                    candidates.append(chunk.lower())
+
+        candidates = list(set(candidates + [x.lower() for x in keyphrases]))
+        return candidates
 
     def run(self, files):
         # container for keyphrases
@@ -118,14 +141,10 @@ class HyperRank:
                 if self.ps.stem(key).lower() not in unique_key:
                     unique_key[self.ps.stem(key).lower()] = key
 
-            inunique = {}
-            freqtext = self.texttofreq(text)
-            for i in freqtext.keys():
-                if i in (unique_key.keys()):
-                    inunique[i] = freqtext[i]
-            finalunique = {k: v for k, v in sorted(inunique.items(), key=lambda item: item[1], reverse=True)}
+            candidates = self.generate_candidates(text, list(unique_key.values()))
+            finalunique = rank(self.ps, text, candidates)
 
-            stemmed_keyphrases[file] = [[x] for x in list(finalunique.keys())]
+            stemmed_keyphrases[file] = [[x] for x in finalunique]
             keyphrases[file] = [[x] for x in list(unique_key.values())]
 
         return keyphrases, stemmed_keyphrases
