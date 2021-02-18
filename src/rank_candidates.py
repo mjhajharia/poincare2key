@@ -32,8 +32,16 @@ def remove_dup_unigram(ranked_candidates):
         j = 0
         found = False
         while j < i:
-            if len(ranked_candidates[i].split()) == 1:
-                if ranked_candidates[i] in ranked_candidates[j].split():
+            list_i = ranked_candidates[i].split()
+            list_j = ranked_candidates[j].split()
+            if len(list_i) < len(list_j):
+                match_count = 0
+                total = len(list_j)
+                for cand in list_i:
+                    if cand in list_j:
+                        match_count += 1
+
+                if match_count / total >= 0.5:
                     found = True
                     break
             j += 1

@@ -11,6 +11,7 @@ import stanza
 from nltk.stem import PorterStemmer
 from tqdm.auto import tqdm
 import spacy
+from spacy.tokenizer import Tokenizer
 import textacy
 
 from evaluate import evaluate_model
@@ -48,6 +49,10 @@ class HyperRank:
         self.ps = PorterStemmer()
 
         self.en = textacy.load_spacy_lang("en_core_web_lg", disable=("parser",))
+        infixes = tuple([r"'s\b", r"(?<!\d)\.(?!\d)"]) + self.en.Defaults.prefixes
+        infix_re = spacy.util.compile_infix_regex(infixes)
+
+        self.en.tokenizer = self.__custom_tokenizer(infix_re)
 
         self.stanza = use_stanza
         self.spacy = use_spacy
@@ -57,6 +62,9 @@ class HyperRank:
         if self.spacy:
             self.nlp = spacy.load("en_core_web_lg")
 
+    def __custom_tokenizer(self, infix_re):
+        return Tokenizer(self.en.vocab, infix_finditer=infix_re.finditer)
+
     def __load_stanza(self):
         preprocessors = 'tokenize,mwt,pos,lemma,depparse'
 
@@ -65,19 +73,20 @@ class HyperRank:
     def generate_candidates(self, text, keyphrases):
         doc = textacy.make_spacy_doc(text, lang=self.en)
 
-        candidate_type_1 = list(textacy.extract.pos_regex_matches(doc, "<NOUN|PROPN>+"))
-        candidate_type_2 = list(textacy.extract.pos_regex_matches(doc, "<ADJ>*<NOUN|PROPN>+"))
+        candidate_type_1 = textacy.extract.matches(doc,
+                                                   [{"POS": {"IN": ["NOUN", "PROPN", "ADJ"]}},
+                                                    {"OP": "?", "POS": {"IN": ["NOUN", "PROPN", "ADJ"]}},
+                                                    {"POS": {"IN": ["NOUN", "PROPN", "ADJ"]}, "OP": "+"}])
 
         candidate_type_1 = [x.text for x in candidate_type_1]
-        candidate_type_2 = [x.text for x in candidate_type_2]
 
-        chunks = list(set(candidate_type_1 + candidate_type_2))
+        chunks = list(set(candidate_type_1))
 
         candidates = []
 
         for key in keyphrases:
             for chunk in chunks:
-                if key.lower() in [x.lower() for x in chunk.split()]:
+                if key.lower() in [x.lower() for x in " ".join(chunk.split("-")).split()]:
                     candidates.append(chunk.lower())
 
         candidates = list(set(candidates + [x.lower() for x in keyphrases]))
@@ -101,6 +110,7 @@ class HyperRank:
             else:
                 self.stanza = True
 
+        all_uniques = {}
         # loop through the documents
         for file in tqdm(texts):
             text = texts[file]
@@ -141,11 +151,16 @@ class HyperRank:
                 if self.ps.stem(key).lower() not in unique_key:
                     unique_key[self.ps.stem(key).lower()] = key
 
+            all_uniques[file] = unique_key
+
             candidates = self.generate_candidates(text, list(unique_key.values()))
             finalunique = rank(self.ps, text, candidates)
 
             stemmed_keyphrases[file] = [[x] for x in finalunique]
             keyphrases[file] = [[x] for x in list(unique_key.values())]
+
+        with open(os.path.join(self.params["path"], 'unigram.pkl'), 'wb') as f:
+            pickle.dump(all_uniques, f)
 
         return keyphrases, stemmed_keyphrases
 
