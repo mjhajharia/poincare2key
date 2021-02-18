@@ -12,12 +12,16 @@ def evaluate_model(candidates, references, n_best=10, present=False, absent=Fals
     for doc_id in tqdm(candidates):
         if doc_id not in references:
             continue
-        rel = compute_rel(candidates[doc_id], references[doc_id])
 
-        max_len = min(len(candidates[doc_id]), n_best)
+        processed_candidates = [[" ".join(x[0].split("-"))] for x in candidates[doc_id]]
+        processed_references = [[" ".join(x[0].split("-"))] for x in references[doc_id]]
 
-        p, r, f = compute_prf(rel[:max_len], references[doc_id])
-        ap = compute_averagep(rel, references[doc_id])
+        rel = compute_rel(processed_candidates, processed_references)
+
+        max_len = min(len(processed_candidates), n_best)
+
+        p, r, f = compute_prf(rel[:max_len], processed_references)
+        ap = compute_averagep(rel, processed_references)
 
         precisions.append(p)
         recalls.append(r)
