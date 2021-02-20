@@ -61,8 +61,7 @@ class RunBaselines:
                                     language=self.params["language"],
                                     normalization=self.params["normalization"])
 
-            # extract the keyphrase candidates
-            extractor.grammar_selection(grammar=self.params["grammar"])
+            extractor.ngram_selection(n=1)
 
             # filter candidates containing stopwords or punctuation marks
             extractor.candidate_filtering(stoplist=stoplist,

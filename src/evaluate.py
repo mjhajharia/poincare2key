@@ -3,7 +3,7 @@ from tqdm.auto import tqdm
 from utils import compute_rel, compute_prf, compute_averagep
 
 
-def evaluate_model(candidates, references, n_best=10, present=False, absent=False):
+def evaluate_model(candidates, references, n_best=10, return_dict=False):
     precisions = []
     recalls = []
     f_scores = []
@@ -18,7 +18,10 @@ def evaluate_model(candidates, references, n_best=10, present=False, absent=Fals
 
         rel = compute_rel(processed_candidates, processed_references)
 
-        max_len = min(len(processed_candidates), n_best)
+        if n_best == -1:
+            max_len = len(processed_references)
+        else:
+            max_len = min(len(processed_candidates), n_best)
 
         p, r, f = compute_prf(rel[:max_len], processed_references)
         ap = compute_averagep(rel, processed_references)
@@ -34,3 +37,5 @@ def evaluate_model(candidates, references, n_best=10, present=False, absent=Fals
     MAP = sum(average_p) / len(average_p) * 100.0
 
     print("| {1:5.2f} | {2:5.2f} | {3:5.2f} | {4:5.2f} | {0:2d} |".format(n_best, P, R, F, MAP))
+    if return_dict:
+        return P, R, F, MAP, n_best

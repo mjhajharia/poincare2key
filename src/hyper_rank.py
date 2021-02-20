@@ -5,6 +5,8 @@ import string
 from collections import OrderedDict
 from glob import glob
 import warnings
+from datetime import datetime
+import json
 
 import networkx as nx
 import stanza
@@ -18,14 +20,14 @@ from evaluate import evaluate_model
 import graph_construction_chunks
 import graph_construction
 from tree_rep import HyperbolicEmbedding
-from utils import read_json, merge_dicts
+from utils import read_json, merge_dicts, texttofreq
 from rank_candidates import rank
 
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 
 class HyperRank:
-    def __init__(self, parameter_file, data, use_stanza=False, use_spacy=False, use_gpu=False):
+    def __init__(self, parameter_file, data, n_grams, use_stanza=False, use_spacy=False, use_gpu=False):
         # set parameters from files inside each dataset folder (dataset_detial)
         self.params = parameter_file
 
@@ -62,6 +64,8 @@ class HyperRank:
         if self.spacy:
             self.nlp = spacy.load("en_core_web_lg")
 
+        self.n_grams = n_grams
+
     def __custom_tokenizer(self, infix_re):
         return Tokenizer(self.en.vocab, infix_finditer=infix_re.finditer)
 
@@ -89,8 +93,32 @@ class HyperRank:
                 if key.lower() in [x.lower() for x in " ".join(chunk.split("-")).split()]:
                     candidates.append(chunk.lower())
 
-        candidates = list(set(candidates + [x.lower() for x in keyphrases]))
-        return candidates
+        # candidates = list(set(candidates + [x.lower() for x in keyphrases]))
+        candidates = list(set(candidates))
+
+        final_candidates = []
+
+        for candidate in candidates:
+            change = False
+
+            if "(" in candidate:
+                new = candidate.split("(")
+                new = [x.replace(")", "") for x in new]
+                change = True
+            if '"' in candidate:
+                new = candidate.split('"')
+                change = True
+            if '[' in candidate:
+                new = candidate.split('[')
+                new = [x.replace("]", "") for x in new]
+                change = True
+
+            if not change:
+                new = [candidate]
+
+            final_candidates.extend(new)
+
+        return final_candidates
 
     def run(self, files):
         # container for keyphrases
@@ -153,8 +181,16 @@ class HyperRank:
 
             all_uniques[file] = unique_key
 
-            candidates = self.generate_candidates(text, list(unique_key.values()))
-            finalunique = rank(self.ps, text, candidates)
+            if self.n_grams == 1:
+                inunique = {}
+                freqtext = texttofreq(self.ps, text)
+                for i in freqtext.keys():
+                    if i in (unique_key.keys()):
+                        inunique[i] = freqtext[i]
+                finalunique = {k: v for k, v in sorted(inunique.items(), key=lambda item: item[1], reverse=True)}
+            else:
+                candidates = self.generate_candidates(text, list(unique_key.values()))
+                finalunique = rank(self.ps, text, candidates)
 
             stemmed_keyphrases[file] = [[x] for x in finalunique]
             keyphrases[file] = [[x] for x in list(unique_key.values())]
@@ -172,6 +208,8 @@ def main(config):
     use_spacy = config['use_spacy']
     gpu = config['gpu']
 
+    n_grams = config['n_grams']
+
     dataset_details = read_json(os.path.join(config['data_dir'], f'{dataset}.json'))
 
     if config['files'] == "all":
@@ -179,11 +217,15 @@ def main(config):
     else:
         files = ["test"]
 
-    model = HyperRank(dataset_details, data_dir, use_stanza, use_spacy, gpu)
+    model = HyperRank(dataset_details, data_dir, n_grams, use_stanza, use_spacy, gpu)
     keyphrases, stemmed_keyphrases = model.run(files)
 
     with open(os.path.join(data_dir, "keyphrases.pkl"), "wb") as f:
         pickle.dump({"stemmed": stemmed_keyphrases, "keyphrases": keyphrases}, f)
+
+    file_name = f'../log/{int(datetime.timestamp(datetime.now()))}.json'
+
+    dump_to_file = {'config': config}
 
     if 'eval' in config:
         ground_truth = read_json(os.path.join(config['data_dir'], dataset_details['references']['test']))
@@ -194,15 +236,20 @@ def main(config):
                                                os.path.join(config['data_dir'],
                                                             dataset_details['references'][file.split(".")[0]])))
 
+        scores = {}
         for top in config['top']:
-            evaluate_model(stemmed_keyphrases, ground_truth, top)
+            scores[top] = evaluate_model(stemmed_keyphrases, ground_truth, top, True)
+
+        dump_to_file['score'] = scores
+
+    with open(file_name, 'w') as f:
+        json.dump(dump_to_file, f)
 
 
 if __name__ == '__main__':
-    top_n = ("5", "10", "both")
     dataset = [os.path.basename(x).split('.')[0] for x in glob('../data/*.json')]
     files = ["test", "all"]
-
+    n_grams = [1, -1]
     parser = argparse.ArgumentParser('hyper_rank.py', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument("--data",
                         type=str,
@@ -227,6 +274,11 @@ if __name__ == '__main__':
                         choices=files,
                         default='all',
                         help="Run on files")
+    parser.add_argument("--n-grams",
+                        type=int,
+                        choices=n_grams,
+                        default=1,
+                        help="Generate n grams")
     parser.add_argument("--eval",
                         type=str,
                         choices=files,

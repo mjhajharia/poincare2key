@@ -7,5 +7,6 @@
   "files": [
     "test.json",
     "train.json"
-  ]
+  ],
+  "n-gram": 1
 }

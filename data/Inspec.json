@@ -9,5 +9,6 @@
     "test.json",
     "train.json",
     "val.json"
-  ]
+  ],
+  "n-gram": -1
 }
