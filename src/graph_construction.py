@@ -13,7 +13,7 @@ class ConstructGraph:
 
     @staticmethod
     def __load_stopwords():
-        stopwords = []
+        stopwords = [] 
         with open("../data/stopwords_en_yake.txt", 'r', encoding="utf8") as File:
             for line in File.readlines():
                 stopwords.append(str(line).strip())
